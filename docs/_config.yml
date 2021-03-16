@@ -19,15 +19,16 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Nabucco
-email: mstekel@gmail.com
+author: Shai Gordin
+email: shygordin@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  THE NEO-BABYLONIAN CUNEIFORM CORPUS (NABUCCO) aims at making available the large
-  corpus of archival documents from first millennium BCE Babylonia to historians of
-  the ancient world in general and Assyriologists in particular.
+  THE NEO-BABYLONIAN CUNEIFORM CORPUS (NABUCCO) aims at making available the large corpus of archival documents from first millennium BCE Babylonia to historians of the ancient world in general and Assyriologists in particular.
 baseurl: "/nabucco" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+collections:
+  items:
+    output: true
+    permalink: '/items/:title'
 
 # Build settings
 theme: minima

@@ -1,0 +1,350 @@
+  ---
+  layout: post
+  title:  "35698"
+  date:   2021-03-15 22:29:39 +0200
+  categories: jekyll update
+  ---
+
+  Tablet CBS 4993+
+  
+  
+  <item itemId="35698" public="1" featured="1">
+    <itemType itemTypeId="21">
+      <name></name>
+      <description>ca_objects</description>
+      <elementContainer>
+        <element elementId="90">
+          <name>Object ID</name>
+          <description>CollectiveAccess record number ca_objects. object_id. Needed for data synchronisation purposes.</description>
+          <elementTextContainer>
+            <elementText elementTextId="519043">
+              <text>1</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="54">
+          <name>Museum No.</name>
+          <description>Museum number of cuneiform tablet</description>
+          <elementTextContainer>
+            <elementText elementTextId="519046">
+              <text></text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="241">
+          <name>CDLI No.</name>
+          <description/>
+          <elementTextContainer>
+            <elementText elementTextId="519049">
+              <text>P261186</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="99">
+          <name>Publication</name>
+          <description/>
+          <elementTextContainer>
+            <elementText elementTextId="519052">
+              <text>EE</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="102">
+          <name>Text number</name>
+          <description/>
+          <elementTextContainer>
+            <elementText elementTextId="519055">
+              <text>2</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="105">
+          <name>Page number</name>
+          <description/>
+          <elementTextContainer>
+            <elementText elementTextId="519058">
+              <text>88</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="177">
+          <name>Duplicate</name>
+          <description/>
+          <elementTextContainer>
+            <elementText elementTextId="519061">
+              <text>TEST001</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="111">
+          <name>Period</name>
+          <description/>
+          <elementTextContainer>
+            <elementText elementTextId="519064">
+              <text>Ach</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="117">
+          <name>Place of issue</name>
+          <description/>
+          <elementTextContainer>
+            <elementText elementTextId="519067">
+              <text>Nippur city</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="120">
+          <name>Type and content</name>
+          <description/>
+          <elementTextContainer>
+            <elementText elementTextId="519070">
+              <text>Leases</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="126">
+          <name>Day remark</name>
+          <description/>
+          <elementTextContainer>
+            <elementText elementTextId="519073">
+              <text>-</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="129">
+          <name>Month</name>
+          <description/>
+          <elementTextContainer>
+            <elementText elementTextId="519076">
+              <text>V</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="132">
+          <name>Month remark</name>
+          <description/>
+          <elementTextContainer>
+            <elementText elementTextId="519079">
+              <text>-</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="135">
+          <name>Year</name>
+          <description/>
+          <elementTextContainer>
+            <elementText elementTextId="519082">
+              <text>24</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="138">
+          <name>Year remark</name>
+          <description/>
+          <elementTextContainer>
+            <elementText elementTextId="519085">
+              <text>[ ]</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="141">
+          <name>King</name>
+          <description/>
+          <elementTextContainer>
+            <elementText elementTextId="519088">
+              <text>Art I</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="144">
+          <name>King remark</name>
+          <description/>
+          <elementTextContainer>
+            <elementText elementTextId="519091">
+              <text>-</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="150">
+          <name>Julian date</name>
+          <description/>
+          <elementTextContainer>
+            <elementText elementTextId="519094">
+              <text>31/07/441 BCE</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="247">
+          <name>Julian date year</name>
+          <description>Year for sorting purposes</description>
+          <elementTextContainer>
+            <elementText elementTextId="519097">
+              <text>441</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="162">
+          <name>Akkadian keywords</name>
+          <description/>
+          <elementTextContainer>
+            <elementText elementTextId="519100">
+              <text>mašīẖu rabû</text>
+            </elementText>
+            <elementText elementTextId="519103">
+              <text> uzbarra</text>
+            </elementText>
+            <elementText elementTextId="519106">
+              <text> ṣibittu</text>
+            </elementText>
+            <elementText elementTextId="519109">
+              <text> makkūr šarri</text>
+            </elementText>
+            <elementText elementTextId="519112">
+              <text> sūtu</text>
+            </elementText>
+            <elementText elementTextId="519115">
+              <text> la dababa</text>
+            </elementText>
+            <elementText elementTextId="519118">
+              <text> la ẖarara</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="171">
+          <name>Items and quantifiable data</name>
+          <description/>
+          <elementTextContainer>
+            <elementText elementTextId="519121">
+              <text>1-, Fields;&lt;/unit&gt;150kor, Barley;&lt;/unit&gt;10kor, Wheat;&lt;/unit&gt;30kor, Emmer;&lt;/unit&gt;10kor, Millet;&lt;/unit&gt;1-, Cattle;&lt;/unit&gt;5-, Sheep/Goats;&lt;/unit&gt;2-, Canals</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="159">
+          <name>Paraphrase</name>
+          <description/>
+          <elementTextContainer>
+            <elementText elementTextId="519124">
+              <text>Dialogue document. &lt;strong&gt;A&lt;/strong&gt; leases from &lt;strong&gt;B&lt;/strong&gt; two canals: the Bēl Canal, also known as the Saḫiri Canal, and the canal of Mu&amp;scaron;ēzib-Bēl with adjacent crown land (&lt;em&gt;uzbarra&lt;/em&gt;). Lease terms: duration is not specified. Fixed yearly rent (&lt;em&gt;sūtu&lt;/em&gt;) of 36,000 liters from the field crops of which 27,000 liters in barley (&lt;em&gt;uṭṭatu&lt;/em&gt;) and the rest in wheat (&lt;em&gt;kibtu&lt;/em&gt;), emmer (&lt;em&gt;kunā&amp;scaron;u&lt;/em&gt;) and millet (&lt;em&gt;duḫnu&lt;/em&gt;), measured in the large standard (&lt;em&gt;ma&amp;scaron;īḫu rab&amp;ucirc;&lt;/em&gt;). Payable at the barley harvest (month II). Additional rights and duties: &lt;strong&gt;A&lt;/strong&gt; may divert (&lt;em&gt;&amp;scaron;adādu&lt;/em&gt;) water from the reservoir (&lt;em&gt;ṣibittu&lt;/em&gt;) in Bīt-[&amp;hellip;]. &lt;strong&gt;A&lt;/strong&gt; shall pay to &lt;strong&gt;B&lt;/strong&gt; an additional surcharge (&lt;em&gt;mandattu&lt;/em&gt;) in livestock for pasturing (1 ox and 5 male sheep). &lt;strong&gt;B&lt;/strong&gt; guarantees that there will be no litigation (&lt;em&gt;la dababa&lt;/em&gt;) or contestation (&lt;em&gt;la ḫarara&lt;/em&gt;) by &lt;strong&gt;C&lt;/strong&gt; who is in charge of rents (&lt;em&gt;&amp;scaron;a muḫḫi sūti&lt;/em&gt;) for the [S&amp;icirc;n] Canal district against &lt;strong&gt;A&lt;/strong&gt; for his use of water and land. &lt;strong&gt;A&lt;/strong&gt; (?) shall pay a silver fine if (broken).&lt;br /&gt;&#13;
+Made up in the presence of 7 witnesses a.o. Ninurta-iddin/Ninurta-erība, governor (&lt;em&gt;&amp;scaron;aknu&lt;/em&gt;) of Nippur.&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+&amp;nbsp;</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="165">
+          <name>General keywords</name>
+          <description/>
+          <elementTextContainer>
+            <elementText elementTextId="519127">
+              <text>Bēl-Canal</text>
+            </elementText>
+            <elementText elementTextId="519130">
+              <text> Mušēzib-Bēl Canal</text>
+            </elementText>
+            <elementText elementTextId="519133">
+              <text> Dialogue document</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="244">
+          <name>Photo</name>
+          <description/>
+          <elementTextContainer>
+            <elementText elementTextId="519136">
+              <text>http://oracc.museum.upenn.edu/ctij/corpus</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="259">
+          <name>Publication name</name>
+          <description>Display element for sorting/searching purposes.</description>
+          <elementTextContainer>
+            <elementText elementTextId="519139">
+              <text>EE 2</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="262">
+          <name>Archive</name>
+          <description>Archive label. Display element for sorting/searching purposes.</description>
+          <elementTextContainer>
+            <elementText elementTextId="519142">
+              <text>Murašû</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="147">
+          <name>Julian date Remark</name>
+          <description/>
+          <elementTextContainer>
+            <elementText elementTextId="519145">
+              <text>31 Jul. [441] BCE</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="123">
+          <name>Day (Babylonian)</name>
+          <description/>
+          <elementTextContainer>
+            <elementText elementTextId="519148">
+              <text>5</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="271">
+          <name>Join</name>
+          <description/>
+          <elementTextContainer>
+            <elementText elementTextId="519151">
+              <text>CBS 13050+</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="283">
+          <name>Orientation</name>
+          <description/>
+          <elementTextContainer>
+            <elementText elementTextId="519154">
+              <text>Landscape</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="301">
+          <name>CDLI reference</name>
+          <description/>
+          <elementTextContainer>
+            <elementText elementTextId="519157">
+              <text>http://cdli.ucla.edu/dl/photo/P261186.jpg</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+        <element elementId="78">
+          <name>Related objects</name>
+          <description>Used for creating relations between tablets and other item types (places, bibliography, archives, ...)</description>
+          <elementTextContainer>
+            <elementText elementTextId="519160">
+              <text>8186</text>
+            </elementText>
+          </elementTextContainer>
+        </element>
+      </elementContainer>
+    </itemType>
+    <elementSetContainer>
+      <elementSet elementSetId="1">
+        <name>Dublin Core</name>
+        <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+        <elementContainer>
+          <element elementId="50">
+            <name>Title</name>
+            <description>A name given to the resource</description>
+            <elementTextContainer>
+              <elementText elementTextId="519040">
+                <text>CBS 4993+</text>
+              </elementText>
+            </elementTextContainer>
+          </element>
+        </elementContainer>
+      </elementSet>
+    </elementSetContainer>
+  </item>

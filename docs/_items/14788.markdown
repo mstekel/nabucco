@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "14788"
+occurrence_id: "2435"
+short_title: "NABU 1987/112"
+author: "Giovinazzo, Grazia"
+publication_year: "1987"
+title: "na-áš dans les tablettes de Persépolis"
+volume_no_: "112"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "na-áš dans les tablettes de Persépolis"
+previous_item: "14791"
+---

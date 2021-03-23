@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8290"
+occurrence_id: "3542"
+short_title: "ZDMG 109 (1959), 119-127"
+author: "Borger, Rykle"
+publication_year: "1959"
+title: "Eine Dareios-Inschrift aus Pasargade"
+volume_no_: "109"
+pages: "119-127"
+journal: "Zeitschrift der Deutschen Morgenländischen Gesellschaft"
+title: "Eine Dareios-Inschrift aus Pasargade"
+previous_item: "8293"
+---

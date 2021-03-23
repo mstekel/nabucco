@@ -1,0 +1,18 @@
+---
+layout: "tablet"
+slug: "24985"
+object_id: "6737"
+nabucco_no_: "L1658"
+museum_no_: "L 1658"
+publication: "Joannès 1989"
+text_number: "247"
+duplicate: "AO 10272"
+type_and_content: "Receipts"
+paraphrase: "Receipt of dates: <strong>A</strong> receives from <strong>B</strong> 3 kor (540 l) of dates in their entirety according to the promissory notes (<em>u&rsquo;iltu</em>). Each party has taken a copy (<em>gabar&ucirc;</em>). 3 witnesses and the scribe.<br /> &nbsp;<br /> <strong>A</strong> = Nab&ucirc;-bān-ahi/Nab&ucirc;-aplu-iddin//Nappāhu; <strong>B</strong> = Kāṣir-Bēl/Zēr-Bābili//(Ea-)ilūtu-bāni; Scribe = Bēl-uballiṭ/Eṭēru//Siyāti<br /> &nbsp;"
+imported: "Melanie Gross (12/12/2016)"
+publication_name: "Joannès 1989 247"
+archive: "Ea-ilūtu-bāni, Ilī-bāni and Nanāhu"
+related_objects: "6925"
+title: "L 1658"
+previous_item: "24988"
+---

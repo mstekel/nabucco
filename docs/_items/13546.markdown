@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13546"
+occurrence_id: "1757"
+short_title: "BOR 2 (1888), 119-127"
+author: "Revillout, Eugène"
+publication_year: "1888"
+title: "A Contract of Apprenticeship from Sippara,"
+volume_no_: "2"
+pages: "119-127"
+journal: "Babylonian and Oriental Record"
+title: "A Contract of Apprenticeship from Sippara,"
+previous_item: "13549"
+---

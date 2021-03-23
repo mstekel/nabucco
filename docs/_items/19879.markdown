@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19879"
+occurrence_id: "4680"
+short_title: "Kleber 2012"
+author: "Kleber, Kristin"
+publication_year: "2012"
+title: "Staatlich sanktionierte Gewalt: Peinliche Befragung, Körper- und Todesstrafen in Babylonien (6.-2. Jh. v.Chr.)"
+pages: "215-231"
+editor: "Barta, Heinz"
+book: "Strafe und Strafrecht in den antiken Welten. Unter Berücksichtigung von Todesstrafe, Hinrichtung und peinlicher Befragung, Philippika 51 (Wiesbaden)"
+title: "Staatlich sanktionierte Gewalt: Peinliche Befragung, Körper- und Todesstrafen in Babylonien (6.-2. Jh. v.Chr.)"
+previous_item: "19882"
+---

@@ -1,0 +1,9 @@
+---
+layout: "archive"
+slug: "22744"
+archive_id: "196"
+archive_name: "{f}Lurindu and the scribe Bēl-ittannu"
+is_part_of: "Borsippa"
+title: "{f}Lurindu and the scribe Bēl-ittannu"
+previous_item: "22747"
+---

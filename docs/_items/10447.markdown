@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10447"
+occurrence_id: "3076"
+short_title: "RA 80 (1986 publ. 1987), 77-78"
+author: "Joannès, Francis"
+publication_year: "1986 publ. 1987"
+title: "Rv. G.J.P. McEwan, Priest and Temple in Hellenistic Babylonia (FAOS 4, 1981)"
+volume_no_: "80"
+pages: "77-78"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "Rv. G.J.P. McEwan, Priest and Temple in Hellenistic Babylonia (FAOS 4, 1981)"
+previous_item: "10450"
+---

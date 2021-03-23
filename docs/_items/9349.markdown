@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9349"
+occurrence_id: "3202"
+short_title: "Spiegel Historiael 15 (1980), 475-478"
+author: "van Espen, Paula"
+publication_year: "1980"
+title: "Neobabylonische oorkonden uit Sippar"
+volume_no_: "15"
+pages: "475-478"
+journal: "Spiegel Historiael"
+title: "Neobabylonische oorkonden uit Sippar"
+previous_item: "9352"
+---

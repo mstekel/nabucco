@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "12586"
+occurrence_id: "2594"
+short_title: "NABU 1998/65"
+author: "Zadok, Ran"
+title: "A Late-Babylonian Deed witnessed by Gods"
+volume_no_: "65"
+publication_year: "1998"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "A Late-Babylonian Deed witnessed by Gods"
+previous_item: "12589"
+---

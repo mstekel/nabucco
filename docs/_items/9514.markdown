@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9514"
+occurrence_id: "181"
+short_title: "Pinches, JTVI 103/26"
+author: "Pinches, Theophilus G."
+publication_year: "1893"
+title: "Recent Discoveries in the realm of Assyriology"
+volume_no_: "103/26"
+related_objects: "5622"
+journal: "Journal of the Transactions of the Victoria Institute"
+title: "Recent Discoveries in the realm of Assyriology"
+previous_item: "9517"
+---

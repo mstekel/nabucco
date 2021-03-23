@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14923"
+occurrence_id: "3164"
+short_title: "SAAB 11 (1997), 115-137"
+author: "Radner, Karen"
+publication_year: "1997"
+title: "A Bibliography of Neo-Assyrian Studies (1988-1997)"
+volume_no_: "11"
+pages: "115-137"
+journal: "State Archives of Assyria, Bulletin"
+title: "A Bibliography of Neo-Assyrian Studies (1988-1997)"
+previous_item: "14926"
+---

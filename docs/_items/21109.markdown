@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21109"
+occurrence_id: "4638"
+short_title: "Huijs, Pirngruber and van Leeuwen 2015"
+author: "van Leeuwen, Bas"
+publication_year: "2015"
+title: "Climate, war and economic development: the case of second-century BC Babylon"
+pages: "128-148"
+editor: "van Leeuwen, Bas"
+book: "A History of Market Performance. From Ancient Babylonia to the Modern World, Routledge Explorations in Economic History (New York)"
+title: "Climate, war and economic development: the case of second-century BC Babylon"
+previous_item: "21112"
+---

@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17005"
+occurrence_id: "419"
+short_title: "Goody 1977"
+author: "Goody, Jack "
+publication_year: "1977"
+title: "Production and Reproduction: A Comparative Study of the Domestic Domain"
+title: "Production and Reproduction: A Comparative Study of the Domestic Domain"
+previous_item: "17008"
+---

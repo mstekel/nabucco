@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "15931"
+occurrence_id: "2551"
+short_title: "NABU 1996/78"
+author: "Zadok, Ran"
+title: "Some collations of texts published by G.A. Barton, AJSL 16, 1990, 65ff."
+volume_no_: "78"
+publication_year: "1996"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Some collations of texts published by G.A. Barton, AJSL 16, 1990, 65ff."
+previous_item: "15934"
+---

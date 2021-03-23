@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "21229"
+occurrence_id: "4174"
+short_title: "George 2011b"
+author: "George, Andrew, R."
+publication_year: "2011"
+title: "Other Neo-Babylonian Royal Inscriptions"
+pages: "171-186, pls. LXVIII-LXXII"
+editor: "George, Andrew, R."
+title: "Other Neo-Babylonian Royal Inscriptions"
+previous_item: "21232"
+---

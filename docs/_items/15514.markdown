@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15514"
+occurrence_id: "3327"
+short_title: "WeOr 25 (1994), 138-143"
+author: "Cavigneaux, Antoine"
+publication_year: "1994"
+title: "Rv. E. von Weiher, Spätbabylonische Texte aus Uruk III (1988)"
+volume_no_: "25"
+pages: "138-143"
+journal: "Die Welt des Orients"
+title: "Rv. E. von Weiher, Spätbabylonische Texte aus Uruk III (1988)"
+previous_item: "15517"
+---

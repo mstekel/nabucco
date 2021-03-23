@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12181"
+occurrence_id: "3417"
+short_title: "ZA 60 = NF 26 (1970), 175"
+author: "von Soden, Wolfram"
+publication_year: "1970"
+title: "Rv. S.S. Ahmed, Southern Mesopotamia in the Time of Ashurbanipal"
+volume_no_: "60"
+pages: "175"
+journal: "Zeitschrift für Assyriologie"
+title: "Rv. S.S. Ahmed, Southern Mesopotamia in the Time of Ashurbanipal"
+previous_item: "12184"
+---

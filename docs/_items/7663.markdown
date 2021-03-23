@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7663"
+occurrence_id: "3183"
+short_title: "Science 136 (1962), 109-122"
+author: "Adams, Robert McC."
+publication_year: "1962"
+title: "Agriculture and Urban Life in Early Southwestern Iran: Archaeological survey provides a basis for observing broad changes during 7000 years of sedentary life"
+volume_no_: "136"
+pages: "109-122"
+journal: "Science"
+title: "Agriculture and Urban Life in Early Southwestern Iran: Archaeological survey provides a basis for observing broad changes during 7000 years of sedentary life"
+previous_item: "7666"
+---

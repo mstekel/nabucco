@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15475"
+occurrence_id: "3117"
+short_title: "RA 99 (2005), 189-191."
+author: "Charpin, Dominique"
+publication_year: "2005"
+title: "Rv. Ph. Clancier et al. (eds), Autour de Polanyi. Vocabulaires, théories et modalités des échanges, Nanterre, 12-14 juin 2004 (Paris 2005)."
+volume_no_: "99"
+pages: "189-191"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "Rv. Ph. Clancier et al. (eds), Autour de Polanyi. Vocabulaires, théories et modalités des échanges, Nanterre, 12-14 juin 2004 (Paris 2005)."
+previous_item: "15478"
+---

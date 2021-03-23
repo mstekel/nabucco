@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "8131"
+occurrence_id: "2682"
+short_title: "NABU 2006/1"
+author: "Jursa, Michael"
+title: "Weißes Silber und ginnu-Silber."
+volume_no_: "1"
+publication_year: "2006"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Weißes Silber und ginnu-Silber."
+previous_item: "8134"
+---

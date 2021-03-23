@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21214"
+occurrence_id: "5198"
+short_title: "von Soden 1983"
+author: "von Soden, Wolfram"
+publication_year: "1983"
+title: "Kyros und Nabonid. Propaganda und Gegenpropaganda"
+pages: "61-68"
+editor: "Mackenzie, David N."
+book: "Kunst, Kultur und Geschichte der Achämenidenzeit und ihr Fortleben, Archäologische Mitteilungen aus Iran, Ergänzungsband 10 (Berlin)"
+title: "Kyros und Nabonid. Propaganda und Gegenpropaganda"
+previous_item: "21217"
+---

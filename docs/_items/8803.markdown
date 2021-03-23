@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8803"
+occurrence_id: "3281"
+short_title: "UCP 9/12 (1931), 413-418"
+author: "Lutz, Henry F."
+publication_year: "1931"
+title: "A Slave Sale Document of the Time of Neriglissar"
+volume_no_: "9/XII."
+pages: "413-418"
+journal: "University of California Publications"
+title: "A Slave Sale Document of the Time of Neriglissar"
+previous_item: "8806"
+---

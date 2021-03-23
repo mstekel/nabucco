@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11245"
+occurrence_id: "1380"
+short_title: "Annali della Scuola Normale Superiore di Pisa, Classe di lettere e filosofia 7 (1977), 1129-1152"
+author: "Andreau, Jean"
+publication_year: "1977"
+title: "M.I. Finley, la banque antique et l´économie moderne"
+volume_no_: "7"
+pages: "1129-1152"
+journal: "Annali della Scuola Normale Superiore di Pisa, Classe di lettere e filosofia"
+title: "M.I. Finley, la banque antique et l´économie moderne"
+previous_item: "11248"
+---

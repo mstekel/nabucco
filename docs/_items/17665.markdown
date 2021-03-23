@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17665"
+occurrence_id: "516"
+short_title: "Moore1939"
+author: "Moore, Ellen W. "
+publication_year: "1939"
+title: "Neo-Babylonian Documents in the University of Michigan Collection"
+title: "Neo-Babylonian Documents in the University of Michigan Collection"
+previous_item: "17668"
+---

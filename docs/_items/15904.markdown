@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15904"
+occurrence_id: "2405"
+short_title: "Mesopotamia 22 (1987 publ. 1988), 29-55"
+author: "Downey, Susan B."
+publication_year: "1987 publ. 1988"
+title: "Regional Variation in Parthian Religious Architecture"
+volume_no_: "22"
+pages: "29-55"
+journal: "Mesopotamia"
+title: "Regional Variation in Parthian Religious Architecture"
+previous_item: "15907"
+---

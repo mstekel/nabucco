@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "13672"
+occurrence_id: "2433"
+short_title: "NABU 1987/110"
+author: "Giovinazzo, Grazia"
+publication_year: "1987"
+title: "Bakabadda, un Égyptien à Persépolis"
+volume_no_: "110"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Bakabadda, un Égyptien à Persépolis"
+previous_item: "13675"
+---

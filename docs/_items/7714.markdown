@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7714"
+occurrence_id: "3459"
+short_title: "ZA 78 (1988 publ. 1989), 305-309"
+author: "Oelsner, Joachim"
+publication_year: "1988 publ. 1989"
+title: "Rv. M.A. Dandamayev, Slavery in Babylonia from Nabopolassar to Alexander the Great (626-331 B.C.)"
+volume_no_: "78"
+pages: "305-309"
+journal: "Zeitschrift für Assyriologie"
+title: "Rv. M.A. Dandamayev, Slavery in Babylonia from Nabopolassar to Alexander the Great (626-331 B.C.)"
+previous_item: "7717"
+---

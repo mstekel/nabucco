@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17938"
+occurrence_id: "606"
+short_title: "UE V"
+author: "Woolley, Leonard "
+publication_year: "1939"
+title: "Ur Excavations V: The ziggurat and its Surroundings"
+title: "Ur Excavations V: The ziggurat and its Surroundings"
+previous_item: "17941"
+---

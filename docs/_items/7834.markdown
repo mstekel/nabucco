@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7834"
+occurrence_id: "216"
+short_title: "Delaporte, ZA 19"
+author: "Delaporte, Louis"
+publication_year: "1905/06"
+title: "Tablette babylonienne rédigée à Nagiti"
+volume_no_: "19"
+pages: "386-88"
+journal: "Zeitschrift für Assyriologie und Vorderasiatische Archäologie"
+title: "Tablette babylonienne rédigée à Nagiti"
+previous_item: "7837"
+---

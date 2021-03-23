@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "18751"
+occurrence_id: "4178"
+short_title: "Azzoni 2008"
+author: "Azzoni, Annalisa"
+publication_year: "2008"
+title: "The Bowman MS and the Aramaic tablets"
+pages: "253-274"
+editor: "Stolper, Matthew W."
+title: "The Bowman MS and the Aramaic tablets"
+previous_item: "18754"
+---

@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "21559"
+occurrence_id: "4832"
+short_title: "Dandamayev 1964"
+author: "Dandamayev, Muhammed A."
+publication_year: "1964"
+title: "Freie Lohnarbeiter im späten Babylonien  (in Russ.)"
+pages: "31-50"
+book: "Ассириология и Египтология (Сборник статей Академику В. В. Струбе). Ленинград 1964 [Assiriologija i Egiptologija (Sbornik statej Akademiku V. V. Strube). Leningrad 1964]"
+title: "Freie Lohnarbeiter im späten Babylonien  (in Russ.)"
+previous_item: "21562"
+---

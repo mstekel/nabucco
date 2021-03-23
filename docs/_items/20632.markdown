@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20632"
+occurrence_id: "4299"
+short_title: "Frayne 2004"
+author: "Frayne, Douglas R."
+publication_year: "2004"
+title: "Geographical Notes on the Land of Akkad"
+pages: "103-116"
+editor: "Frame, Grant"
+book: "From the Upper Sea to the Lower Sea. Studies in the History of Assyria and Babylonia in Honour of A. K. Grayson (Leiden)"
+title: "Geographical Notes on the Land of Akkad"
+previous_item: "20635"
+---

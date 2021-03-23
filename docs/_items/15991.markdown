@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15991"
+occurrence_id: "2873"
+short_title: "Or 35 (1966), 1-20"
+author: "von Soden, Wolfram"
+publication_year: "1966"
+title: "Aramäische Wörter in neuassyrischen und neu- und spätbabylonischen Texten. Ein Vorbericht. I (agâ - *mūš),"
+volume_no_: "35"
+pages: "1-20"
+journal: "Orientalia"
+title: "Aramäische Wörter in neuassyrischen und neu- und spätbabylonischen Texten. Ein Vorbericht. I (agâ - *mūš),"
+previous_item: "15994"
+---

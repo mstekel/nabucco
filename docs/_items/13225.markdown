@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13225"
+occurrence_id: "3033"
+short_title: "RA 51 (1957), 209-210"
+author: "Dhorme, Édouard"
+publication_year: "1957"
+title: "Rv. D.J. Wiseman, Chronicle of Chaldaean Kings"
+volume_no_: "51"
+pages: "209-210"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "Rv. D.J. Wiseman, Chronicle of Chaldaean Kings"
+previous_item: "13228"
+---

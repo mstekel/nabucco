@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8866"
+occurrence_id: "3623"
+short_title: "Archeologia 44 (1972), 6-13"
+author: "Amiet, Pierre"
+publication_year: "1972"
+title: "Élamites et Perses en Susiane"
+volume_no_: "44"
+pages: "6-13."
+journal: "Archeologia"
+title: "Élamites et Perses en Susiane"
+previous_item: "8869"
+---

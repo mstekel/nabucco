@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "8647"
+occurrence_id: "2440"
+short_title: "NABU 1987/5"
+author: "Joannès, Francis"
+publication_year: "1987"
+title: "Méthodes de pesée néo-babylonienne"
+volume_no_: "5"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Méthodes de pesée néo-babylonienne"
+previous_item: "8650"
+---

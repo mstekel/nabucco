@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "12568"
+occurrence_id: "2497"
+short_title: "NABU 1992/89"
+author: "Joannès, Francis"
+title: "Inventaire d'un cabaret (suite)"
+volume_no_: "89"
+publication_year: "1992"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Inventaire d'un cabaret (suite)"
+previous_item: "12571"
+---

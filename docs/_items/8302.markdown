@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8302"
+occurrence_id: "3606"
+short_title: "Achaemenid History 8 (1994), 9-37"
+author: "Root, Margaret Cool"
+publication_year: "1994"
+title: "Lifting the veil. Artistic transmission beyond the boundaries of historical periodisation"
+volume_no_: "8"
+pages: "9-37"
+journal: "Achaemenid History"
+title: "Lifting the veil. Artistic transmission beyond the boundaries of historical periodisation"
+previous_item: "8305"
+---

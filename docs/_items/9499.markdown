@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9499"
+occurrence_id: "4009"
+short_title: "JCS 63 (2011), 111-144"
+author: "Waerzeggers, Caroline"
+publication_year: "2011"
+title: "Prebend Prices in First-Millennium B.C. Babylonia"
+volume_no_: "63"
+pages: "111-144"
+journal: "Journal of Cuneiform Studies"
+title: "Prebend Prices in First-Millennium B.C. Babylonia"
+previous_item: "9502"
+---

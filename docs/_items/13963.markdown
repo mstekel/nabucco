@@ -1,0 +1,12 @@
+---
+layout: "bibliography"
+slug: "13963"
+occurrence_id: "4001"
+short_title: "NABU 2012/73"
+author: "Ossendrijver, Mathieu"
+publication_year: "2012"
+title: "A new join between fragments of MUL.APIN from Uruk"
+volume_no_: "2012/73"
+title: "A new join between fragments of MUL.APIN from Uruk"
+previous_item: "13966"
+---

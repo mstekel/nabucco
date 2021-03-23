@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18448"
+occurrence_id: "574"
+short_title: "SCT"
+author: "Gordon, Cyrus H. "
+publication_year: "1952"
+title: "Smith College Tablets, 110 cuneiform texts selected from the College collection"
+title: "Smith College Tablets, 110 cuneiform texts selected from the College collection"
+previous_item: "18451"
+---

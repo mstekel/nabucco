@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34081"
+place_id: "511"
+parent_id: "40"
+place_name: "Huṣṣēti-ša-Mulakkid"
+title: "Huṣṣēti-ša-Mulakkid"
+previous_item: "34084"
+---

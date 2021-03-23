@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "15076"
+occurrence_id: "3987"
+short_title: "ZA 102/2 (2012), 202-208"
+author: "Maul, Stefan M."
+publication_year: "2012"
+title: "Paläographische Übungen am Neujahrstag"
+volume_no_: "102/2"
+pages: "202-208"
+title: "Paläographische Übungen am Neujahrstag"
+previous_item: "15079"
+---

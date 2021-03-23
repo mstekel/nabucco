@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18037"
+occurrence_id: "427"
+short_title: "Green 1992"
+author: "Green, Tamara M. "
+publication_year: "1992"
+title: "The City of the Moon God. Religious Traditions of Harran"
+title: "The City of the Moon God. Religious Traditions of Harran"
+previous_item: "18040"
+---

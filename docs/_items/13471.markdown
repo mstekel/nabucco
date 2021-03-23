@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13471"
+occurrence_id: "1351"
+short_title: "AMI 31 (1999), 299-309"
+author: "Jacobs, Bruno"
+publication_year: "1999"
+title: "Rv. P. Briant, Histoire de l´Empire perse de Cyrus à Alexandre (1996)"
+volume_no_: "31"
+pages: "299-309"
+journal: "Archäologische Mitteilungen aus Iran"
+title: "Rv. P. Briant, Histoire de l´Empire perse de Cyrus à Alexandre (1996)"
+previous_item: "13474"
+---

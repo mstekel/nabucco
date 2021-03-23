@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14419"
+occurrence_id: "3455"
+short_title: "ZA 75 (1985 publ. 1986), 7-38"
+author: "Powell, Marvin A."
+publication_year: "1985 publ. 1986"
+title: "Salt, Seed, and Yields in Sumerian Agruculture. A Critique of the theory of Progressive Salinization"
+volume_no_: "75"
+pages: "7-38."
+journal: "Zeitschrift für Assyriologie"
+title: "Salt, Seed, and Yields in Sumerian Agruculture. A Critique of the theory of Progressive Salinization"
+previous_item: "14422"
+---

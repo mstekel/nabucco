@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11689"
+occurrence_id: "3772"
+short_title: "JTS 2 (1951), 36-44"
+author: "Wilkie, J.M."
+publication_year: "1951"
+title: "Nabonidus and the Later Jewish Exiles"
+volume_no_: "2"
+pages: "36-44"
+journal: "Journal of Theological Studies"
+title: "Nabonidus and the Later Jewish Exiles"
+previous_item: "11692"
+---

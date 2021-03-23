@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19624"
+occurrence_id: "4423"
+short_title: "De Breucker 2012"
+author: "De Breucker, Geert"
+publication_year: "2012"
+title: "Berossos’ Babyloniaca: Purposes and Interpretations"
+pages: "115-129"
+editor: "Goddeeris, Anne"
+book: "The Ancient Near East, A Life! Festschrift Karel Van Lerberghe, Orientalia Lovaniensia Analecta 220 (Leuven)"
+title: "Berossos’ Babyloniaca: Purposes and Interpretations"
+previous_item: "19627"
+---

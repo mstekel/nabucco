@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21589"
+occurrence_id: "4992"
+short_title: "Zadok 2006"
+author: "Zadok, Ran"
+publication_year: "2006"
+title: "The Geography of the Borsippa Region."
+pages: "389-453"
+editor: "Amit, Yairah"
+book: "Essays on Ancient Israel in Its Near Eastern Context: A Tribute to Nadav Na'aman (Winona Lake)"
+title: "The Geography of the Borsippa Region."
+previous_item: "21592"
+---

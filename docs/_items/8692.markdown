@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "8692"
+occurrence_id: "2683"
+short_title: "NABU 2006/10"
+author: "Oelsner, Joachim"
+title: "CT 49, 6 Z. 7: I.a-lek-sa-an-dar da-du."
+volume_no_: "10"
+publication_year: "2006"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "CT 49, 6 Z. 7: I.a-lek-sa-an-dar da-du."
+previous_item: "8695"
+---

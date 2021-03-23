@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "20806"
+occurrence_id: "4123"
+short_title: "Oppenheim 1974"
+author: "Oppenheim, A. Leo"
+publication_year: "1974"
+title: "A New Cambyses Incident"
+pages: "3497-3502"
+editor: "Gluck, J."
+title: "A New Cambyses Incident"
+previous_item: "20809"
+---

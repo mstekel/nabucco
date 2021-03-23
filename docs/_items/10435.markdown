@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10435"
+occurrence_id: "3012"
+short_title: "RA 22 (1925), 71-83"
+author: "de Genouillac, Henri"
+publication_year: "1925"
+title: "Nabonide"
+volume_no_: "22"
+pages: "71-83"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "Nabonide"
+previous_item: "10438"
+---

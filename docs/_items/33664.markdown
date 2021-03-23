@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33664"
+place_id: "931"
+parent_id: "61"
+place_name: "Bīt-Zabūnu"
+title: "Bīt-Zabūnu"
+previous_item: "33667"
+---

@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34195"
+place_id: "562"
+parent_id: "40"
+place_name: "Laštān"
+title: "Laštān"
+previous_item: "34198"
+---

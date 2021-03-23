@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13108"
+occurrence_id: "2400"
+short_title: "Mesopotamia 13-14 (1978-79 publ. 1980), 91-98"
+author: "Doty, L. Timothy"
+publication_year: "1978-79 publ. 1980"
+title: "A Cuneiform Tablet from Tell ‘Umar"
+volume_no_: "13-14"
+pages: "91-98"
+journal: "Mesopotamia"
+title: "A Cuneiform Tablet from Tell ‘Umar"
+previous_item: "13111"
+---

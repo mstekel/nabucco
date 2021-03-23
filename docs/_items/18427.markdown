@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18427"
+occurrence_id: "447"
+short_title: "Irani 1995"
+author: "Irani, K.D. "
+publication_year: "1995"
+title: "Social Justice in the Ancient World. VIII"
+title: "Social Justice in the Ancient World. VIII"
+previous_item: "18430"
+---

@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18484"
+occurrence_id: "810"
+short_title: "Hudson;van de Mieroop 2002"
+author: "Hudson, Michael "
+publication_year: "2002"
+title: "Debt and Economic Renewal in the Ancient Near East, International Scholars Conference on Ancient Near Eastern Economies, Volume 3 (Bethesda)"
+title: "Debt and Economic Renewal in the Ancient Near East, International Scholars Conference on Ancient Near Eastern Economies, Volume 3 (Bethesda)"
+previous_item: "18487"
+---

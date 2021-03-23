@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "12037"
+occurrence_id: "2641"
+short_title: "NABU 2002/13"
+author: "Jursa, Michael"
+title: "Weitere aramäische Buchstabennamen in akkadischer Überlieferung"
+volume_no_: "13"
+publication_year: "2002"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Weitere aramäische Buchstabennamen in akkadischer Überlieferung"
+previous_item: "12040"
+---

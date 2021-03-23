@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18847"
+occurrence_id: "4691"
+short_title: "Pearce 1999"
+author: "Pearce, Laurie E."
+publication_year: "1999"
+title: "sepīru and lúA.BA: Scribes of the Late First Millennium"
+pages: "355-368"
+editor: "Voet, Gabriela"
+book: "Languages and Cultures in Contact. At the Crossroads of Civilizations in the Syro-Mesopotamian Realm, RAI 42, OLA 96 (Leuven)"
+title: "sepīru and lúA.BA: Scribes of the Late First Millennium"
+previous_item: "18850"
+---

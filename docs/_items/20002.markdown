@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20002"
+occurrence_id: "4248"
+short_title: "Wunsch 1999b"
+author: "Wunsch, Cornelia"
+publication_year: "1999"
+title: "Handel Und Wandel in Babylon: Die Geschäfte der Familie Egibi"
+pages: "325-333"
+editor: "Wieczorek, A."
+book: "Von Babylon bis Jerusalem. Die Welt der altorientalischen Königsstädte 2 (Milano)"
+title: "Handel Und Wandel in Babylon: Die Geschäfte der Familie Egibi"
+previous_item: "20005"
+---

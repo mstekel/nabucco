@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8884"
+occurrence_id: "3719"
+short_title: "IPEK 20 (1960-1963), 117-118"
+author: "Kühn, Herbert"
+publication_year: "1960-1963"
+title: "Rv. E.F. von Eickstedt, Türken, Kurden and Iraner seit dem Altertum"
+volume_no_: "20"
+pages: "117-118"
+journal: "Jahrbüch für prähistorische und ethnographische Künst (Berlin, Paris)"
+title: "Rv. E.F. von Eickstedt, Türken, Kurden and Iraner seit dem Altertum"
+previous_item: "8887"
+---

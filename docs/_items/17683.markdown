@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17683"
+occurrence_id: "621"
+short_title: "Veselovskij 1960"
+author: "Veselovskij, I.N. "
+publication_year: "1960"
+title: "Die Sternastronomie des alten Orients"
+title: "Die Sternastronomie des alten Orients"
+previous_item: "17686"
+---

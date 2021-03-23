@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8203"
+occurrence_id: "3072"
+short_title: "RA 79 (1985), 72-74"
+author: "Walker, Christopher,  Bromhead F."
+publication_year: "1985"
+title: "Remarks on the Šandabakku Land-Purchase Texts from the Time of Nabû-šumu-libīr"
+volume_no_: "79"
+pages: "72-74"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "Remarks on the Šandabakku Land-Purchase Texts from the Time of Nabû-šumu-libīr"
+previous_item: "8206"
+---

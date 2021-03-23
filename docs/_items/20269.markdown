@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20269"
+occurrence_id: "4570"
+short_title: "Oelsner 1985"
+author: "Oelsner, Joachim"
+publication_year: "1985"
+title: "Ausstrahlungen der griechischen Kultur nach dem Vorderen Orient im 5. und 4. Jahrhundert v.u.Z."
+pages: "119-128"
+editor: "Kluwe, E."
+book: "Kultur and Fortschritt in der Blütezeit der griechischen Polis (Berlin)"
+title: "Ausstrahlungen der griechischen Kultur nach dem Vorderen Orient im 5. und 4. Jahrhundert v.u.Z."
+previous_item: "20272"
+---

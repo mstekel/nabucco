@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16324"
+occurrence_id: "1648"
+short_title: "BiOr 23 (1966), 212-213"
+author: "Jonkers, E.J."
+publication_year: "1966"
+title: "Rv. G. Binder, Die Aussetzung des Königskindes. Kyros and Romulus"
+volume_no_: "23"
+pages: "212-213"
+journal: "Bibliotheca Orientalis"
+title: "Rv. G. Binder, Die Aussetzung des Königskindes. Kyros and Romulus"
+previous_item: "16327"
+---

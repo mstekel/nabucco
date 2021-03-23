@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13534"
+occurrence_id: "1692"
+short_title: "BiOr 51 (1994), 600-605"
+author: "van der Spek, Robartus"
+publication_year: "1994"
+title: "Rv. D.B. Weisberg, The Late Babylonian Texts of the Oriental Institute Collection (Bibliotheca Mesopotamica 24, 1991)"
+volume_no_: "51"
+pages: "600-605"
+journal: "Bibliotheca Orientalis"
+title: "Rv. D.B. Weisberg, The Late Babylonian Texts of the Oriental Institute Collection (Bibliotheca Mesopotamica 24, 1991)"
+previous_item: "13537"
+---

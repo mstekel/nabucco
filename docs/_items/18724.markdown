@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18724"
+occurrence_id: "5138"
+short_title: "Seidl 1999"
+author: "Seidl, Ursula"
+publication_year: "1999"
+title: "Eine Triumphstele Darius´ I. aus Babylon"
+pages: "297-306"
+editor: "Renger, Johannes"
+book: "Babylon: Focus mesopotamischer Geschichte, Wiege früher Gelehrsamkeit, Mythos in der Moderne, CDOG 2 (Saarbrücken)"
+title: "Eine Triumphstele Darius´ I. aus Babylon"
+previous_item: "18727"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11071"
+occurrence_id: "3448"
+short_title: "ZA 72 (1982 publ. 1983), 296-297"
+author: "von Soden, Wolfram"
+publication_year: "1982 publ. 1983"
+title: "Rv. G.J.P. McEwan, The Late Babylonian Tablets in the Royal Ontario Museum (ROMCT 2)"
+volume_no_: "72"
+pages: "296-297"
+journal: "Zeitschrift für Assyriologie"
+title: "Rv. G.J.P. McEwan, The Late Babylonian Tablets in the Royal Ontario Museum (ROMCT 2)"
+previous_item: "11074"
+---

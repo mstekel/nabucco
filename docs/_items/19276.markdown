@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19276"
+occurrence_id: "4773"
+short_title: "Waters 2001"
+author: "Waters, Matthew, W."
+publication_year: "2001"
+title: "Mesopotamian Sources and Neo-Elamite History"
+pages: "473-482"
+editor: "Huehnergard, John"
+book: "Proceedings of the XLVe Rencontre Assyriologique Internationale, Part I, Harvard University: Historiography in the Cuneiform World (Bethesda 2001),"
+title: "Mesopotamian Sources and Neo-Elamite History"
+previous_item: "19279"
+---

@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "14278"
+occurrence_id: "2693"
+short_title: "NABU 2007/10"
+author: "Brinkman, John A."
+title: "Notes on AO 4422 (TCL 12 1)."
+volume_no_: "10"
+publication_year: "2007"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Notes on AO 4422 (TCL 12 1)."
+previous_item: "14281"
+---

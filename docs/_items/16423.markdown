@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16423"
+occurrence_id: "2180"
+short_title: "JCS 40 (1988), 124-126"
+author: "Weisberg, David B."
+publication_year: "1988"
+title: "Rv. E.V. Leichty, Catalogue of the Babylonian Tablets in the British Museum. Vol.VI, Tablets from Sippar, 1 (1986)"
+volume_no_: "40"
+pages: "124-126"
+journal: "Journal of Cuneiform Studies"
+title: "Rv. E.V. Leichty, Catalogue of the Babylonian Tablets in the British Museum. Vol.VI, Tablets from Sippar, 1 (1986)"
+previous_item: "16426"
+---

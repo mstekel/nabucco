@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20158"
+occurrence_id: "5081"
+short_title: "Koopman and Hoorgerheide 2015"
+author: "Hoogerheide, Lennart"
+publication_year: "2015"
+title: "Analysis of historical time series with messy features: the case of commodity prices in Babylonia"
+pages: "45-67"
+editor: "van Leeuwen, Bas"
+book: "A History of Market Performance. From Ancient Babylonia to the Modern World, Routledge Explorations in Economic History (New York)"
+title: "Analysis of historical time series with messy features: the case of commodity prices in Babylonia"
+previous_item: "20161"
+---

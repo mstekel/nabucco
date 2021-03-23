@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8401"
+occurrence_id: "276"
+short_title: "Legrain, RA 10"
+author: "Legrain, Léon"
+publication_year: "1913"
+title: "Collection Louis Cugnin. Textes cunéiformes, catalogue, transcription et traduction"
+volume_no_: "10"
+pages: "41-68, pls. I-VI"
+journal: "Revue d’Assyriologie et d’Archéologie orientale"
+title: "Collection Louis Cugnin. Textes cunéiformes, catalogue, transcription et traduction"
+previous_item: "8404"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14398"
+occurrence_id: "3341"
+short_title: "WeOr 33 (2003), 89-99."
+author: "Koch, Johannes"
+publication_year: "2003"
+title: "Neues vom Beschwörungstext BA 10/1, 81 No. 7 rev. 1-8."
+volume_no_: "33"
+pages: "89-99"
+journal: "Die Welt des Orients"
+title: "Neues vom Beschwörungstext BA 10/1, 81 No. 7 rev. 1-8."
+previous_item: "14401"
+---

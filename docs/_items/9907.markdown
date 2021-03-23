@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9907"
+occurrence_id: "3187"
+short_title: "SEL 8 (1991), 225-237"
+author: "Zadok, Ran"
+publication_year: "1991"
+title: "Elamite Onomastics"
+volume_no_: "8"
+pages: "225-237"
+journal: "Studi Epigrafici e Linguistici sul Vicino Oriente Antico"
+title: "Elamite Onomastics"
+previous_item: "9910"
+---

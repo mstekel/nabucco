@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "33913"
+place_id: "1378"
+parent_id: "55"
+place_name: "Bāb-Bitāqu"
+related_objects: "4349"
+title: "Bāb-Bitāqu"
+previous_item: "33916"
+---

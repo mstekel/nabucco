@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9121"
+occurrence_id: "1974"
+short_title: "Iraq 54 (1992), 119-140"
+author: "Stolper, Matthew W."
+publication_year: "1992"
+title: "Late Achaemenid Texts from Dilbat"
+volume_no_: "54"
+pages: "119-140"
+journal: "Iraq"
+title: "Late Achaemenid Texts from Dilbat"
+previous_item: "9124"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9880"
+occurrence_id: "3043"
+short_title: "RA 64 (1970, publ. 1971), 188"
+author: "Borger, Rykle"
+publication_year: "1970, publ. 1971"
+title: "Zu den Kolophonen Hunger, BAK, Nr. 338 and 339"
+volume_no_: "64"
+pages: "188"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "Zu den Kolophonen Hunger, BAK, Nr. 338 and 339"
+previous_item: "9883"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19630"
+occurrence_id: "4455"
+short_title: "van Driel 2001"
+author: "van Driel, Govert"
+publication_year: "2001"
+title: "On villages"
+pages: "103-118"
+editor: "van Soldt, Wilfred H."
+book: "Studies Presented to Klaas R. Veenhof on the Occasion of his Sixty-Fifth Birthday, Fs. Veenhof, PIHANS 89 (Leiden)"
+title: "On villages"
+previous_item: "19633"
+---

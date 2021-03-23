@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18043"
+occurrence_id: "466"
+short_title: "Klengel 1999"
+author: "Klengel, Horst "
+publication_year: "1999"
+title: "Landwirtschaft im Alten Orient, RAI 41"
+title: "Landwirtschaft im Alten Orient, RAI 41"
+previous_item: "18046"
+---

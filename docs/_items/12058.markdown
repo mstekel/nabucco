@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12058"
+occurrence_id: "2754"
+short_title: "NAPR 5 (1991), 47-55"
+author: "Spycket, Agnès"
+publication_year: "1991"
+title: "Abū Qubūr. Les figurines de la résidence achéménide"
+volume_no_: "5"
+pages: "47-55"
+journal: "Northern Akkad Project Reports"
+title: "Abū Qubūr. Les figurines de la résidence achéménide"
+previous_item: "12061"
+---

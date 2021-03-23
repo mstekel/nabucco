@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8626"
+occurrence_id: "2328"
+short_title: "JNES 53 (1994), 263-274"
+author: "Vallat, François"
+publication_year: "1994"
+title: "Deux tablettes élamites de l´Université de Fribourg"
+volume_no_: "53"
+pages: "263-274"
+journal: "Journal of Near Eastern Studies"
+title: "Deux tablettes élamites de l´Université de Fribourg"
+previous_item: "8629"
+---

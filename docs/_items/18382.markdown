@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18382"
+occurrence_id: "4095"
+short_title: "Nielsen 2015"
+author: "Nielsen, John P. "
+publication_year: "2015"
+title: "Personal Names in Early Neo-Babylonian Legal and Administrative Tablets, 747–626 B.C.E., NISABA 29 (Winona Lake)"
+title: "Personal Names in Early Neo-Babylonian Legal and Administrative Tablets, 747–626 B.C.E., NISABA 29 (Winona Lake)"
+previous_item: "18385"
+---

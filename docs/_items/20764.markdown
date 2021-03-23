@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20764"
+occurrence_id: "5004"
+short_title: "Bichler and Rollinger 2005"
+author: "Bichler, Reinhold"
+publication_year: "2005"
+title: "Die Hängenden Gärten zu Ninive - Die Lösung eines Rätsels?"
+pages: "153-218"
+editor: "Rollinger, Robert"
+book: "Von Sumer bis Homer, Festschrift für Manfred Schretter, AOAT 325 (Münster)"
+title: "Die Hängenden Gärten zu Ninive - Die Lösung eines Rätsels?"
+previous_item: "20767"
+---

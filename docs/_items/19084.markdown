@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19084"
+occurrence_id: "4852"
+short_title: "Dandamayev 1986a"
+author: "Dandamayev, Muhammed A."
+publication_year: "1986"
+title: "Šušan in the Murašû Documents"
+pages: "289-290"
+editor: "Vallat, François"
+book: "Fragmenta historiae Aelamicae, Fs. Steve (Paris)"
+title: "Šušan in the Murašû Documents"
+previous_item: "19087"
+---

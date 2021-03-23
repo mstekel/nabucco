@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21691"
+occurrence_id: "4433"
+short_title: "Graßhoff 2011"
+author: "Graßhoff, Gerd"
+publication_year: "2011"
+title: "Babylonian meteorological observations and the empirical basis of ancient science"
+pages: "33-48"
+editor: "Selz, G.J."
+book: "The Empirical Dimension of Ancient Near Eastern Studies, Wiener Offene Orientalistik 6 (Wien) (with the collaboration of Klaus Wagensonner)"
+title: "Babylonian meteorological observations and the empirical basis of ancient science"
+previous_item: "21694"
+---

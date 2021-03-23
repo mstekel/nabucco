@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7906"
+occurrence_id: "1472"
+short_title: "ArOr 33 (1965), 103-120"
+author: "Petschow, Herbert"
+publication_year: "1965"
+title: "Zu der Pragueer spätbabylonischen RechtsUrkunde U. 29"
+volume_no_: "33"
+pages: "103-120"
+journal: "Archív Orientalí"
+title: "Zu der Pragueer spätbabylonischen RechtsUrkunde U. 29"
+previous_item: "7909"
+---

@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17278"
+occurrence_id: "512"
+short_title: "Mendelsohn 1943"
+author: "Mendelsohn, Iitzhak "
+publication_year: "1943"
+title: "Catalogue of the Babylonian Tablets in theLibraries of Columbia University"
+title: "Catalogue of the Babylonian Tablets in theLibraries of Columbia University"
+previous_item: "17281"
+---

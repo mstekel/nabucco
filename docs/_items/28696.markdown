@@ -1,0 +1,15 @@
+---
+layout: "tablet"
+slug: "28696"
+object_id: "7590"
+museum_no_: "BM 32738"
+publication: "Wunsch 2000"
+text_number: "8 B"
+duplicate: "BM 33103"
+imported: "Kathleen Abraham 15/04/2017"
+publication_name: "Wunsch 2000 8 B"
+archive: "Egibi/Nūr-Sîn"
+related_objects: "7589"
+title: "BM 32738"
+previous_item: "28699"
+---

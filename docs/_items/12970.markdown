@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12970"
+occurrence_id: "1658"
+short_title: "BiOr 32 (1975 publ. 1976), 224-227"
+author: "Diakonoff, Igor M."
+publication_year: "1975 publ. 1976"
+title: "Rv. E. Salonen, Über den Zehnten im Alten Mesopotamien"
+volume_no_: "32"
+pages: "224-227"
+journal: "Bibliotheca Orientalis"
+title: "Rv. E. Salonen, Über den Zehnten im Alten Mesopotamien"
+previous_item: "12973"
+---

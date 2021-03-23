@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20857"
+occurrence_id: "4397"
+short_title: "Brommer 1987"
+author: "Brommer, Frank"
+publication_year: "1987"
+title: "Eine achämenidische Silberschale mit Besitzerzeichen"
+pages: "105-112"
+editor: "Bayburtluoğlu, C."
+book: "Akurgal'a Armağan, Fs. Akurgal (Ankara)"
+title: "Eine achämenidische Silberschale mit Besitzerzeichen"
+previous_item: "20860"
+---

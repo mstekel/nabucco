@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34306"
+place_id: "565"
+parent_id: "40"
+place_name: "Makmanu"
+title: "Makmanu"
+previous_item: "34309"
+---

@@ -1,0 +1,9 @@
+---
+layout: "archive"
+slug: "23053"
+archive_id: "343"
+archive_name: "Ṣāhit-ginê B"
+is_part_of: "Sippar"
+title: "Ṣāhit-ginê B"
+previous_item: "23056"
+---

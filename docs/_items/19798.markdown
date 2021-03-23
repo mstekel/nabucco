@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19798"
+occurrence_id: "4247"
+short_title: "Wunsch 1999a"
+author: "Wunsch, Cornelia"
+publication_year: "1999"
+title: "The Egibi Family´s Real Estate in Babylon (6th Century BC)"
+pages: "391-419"
+editor: "Levine, Baruch A."
+book: "Urbanization and Land Ownership in the Ancient Near East, Peabody Museum Bulletin 7 (Cambridge)"
+title: "The Egibi Family´s Real Estate in Babylon (6th Century BC)"
+previous_item: "19801"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12883"
+occurrence_id: "1182"
+short_title: "AfO 17 (1954-55), 131-135"
+author: "Köcher, Franz"
+publication_year: "1954-55"
+title: "Eine spätbabylonische Ausdeutung des Tempelnamens Esangila"
+volume_no_: "17"
+pages: "131-135"
+journal: "Archiv für Orientforschung"
+title: "Eine spätbabylonische Ausdeutung des Tempelnamens Esangila"
+previous_item: "12886"
+---

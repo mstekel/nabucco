@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17287"
+occurrence_id: "565"
+short_title: "Salonen 1980"
+author: "Salonen, Erkki "
+publication_year: "1980"
+title: "Neubabylonische Urkunden verschiedenen Inhalts, III"
+title: "Neubabylonische Urkunden verschiedenen Inhalts, III"
+previous_item: "17290"
+---

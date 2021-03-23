@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16507"
+occurrence_id: "505"
+short_title: "Maul 1994"
+author: "Maul, Stefan M. "
+publication_year: "1994"
+title: "Zukunftsbewältigung. Eine Untersuchung altorientalischen Denkens anhand der babylonisch-assyrischen Löserituale (Namburbi) (BaF 18)"
+title: "Zukunftsbewältigung. Eine Untersuchung altorientalischen Denkens anhand der babylonisch-assyrischen Löserituale (Namburbi) (BaF 18)"
+previous_item: "16510"
+---

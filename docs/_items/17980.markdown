@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17980"
+occurrence_id: "873"
+short_title: "Sachs 1955"
+author: "Sachs, Abraham J. "
+publication_year: "1955"
+title: "Late Babylonian Astronomical and Related Texts, copied by T.G. Pinches and J.N. Strassmaier, prepared for publication by A.J. Sachs, with the co-operation of J. Schaumberger, Brown University Studies 18 (Providence)"
+title: "Late Babylonian Astronomical and Related Texts, copied by T.G. Pinches and J.N. Strassmaier, prepared for publication by A.J. Sachs, with the co-operation of J. Schaumberger, Brown University Studies 18 (Providence)"
+previous_item: "17983"
+---

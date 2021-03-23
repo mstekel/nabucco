@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18226"
+occurrence_id: "808"
+short_title: "Hübner;Knauf 2002"
+author: "Hübner, Ulrich "
+publication_year: "2002"
+title: "Kein Land für sich allein. Studien zum Kulturkontakt in Kanaan, Israel/Palästina und Ebirnâri für Manfred Weippert zum 65. Geburtstag, OBO 186 (Freiburg)"
+title: "Kein Land für sich allein. Studien zum Kulturkontakt in Kanaan, Israel/Palästina und Ebirnâri für Manfred Weippert zum 65. Geburtstag, OBO 186 (Freiburg)"
+previous_item: "18229"
+---

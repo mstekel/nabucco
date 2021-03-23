@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10999"
+occurrence_id: "3061"
+short_title: "RA 77 (1983 publ. 1984), 143-154"
+author: "Lackenbacher, Sylvie"
+publication_year: "1983 publ. 1984"
+title: "Vente de terres à un <<šandabakku>> sous la IIe dynastie d'Isin"
+volume_no_: "77"
+pages: "143-154"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "Vente de terres à un <<šandabakku>> sous la IIe dynastie d'Isin"
+previous_item: "11002"
+---

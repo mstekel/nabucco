@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14326"
+occurrence_id: "2955"
+short_title: "Oriens 16 (1963), 324-325"
+author: "Gelb, Ignace J."
+publication_year: "1963"
+title: "Rv. RLA 3/I-II."
+volume_no_: "16"
+pages: "324-325"
+journal: "Oriens. Zeitschrift der Internationalen Gesellschaft für Orientforschung"
+title: "Rv. RLA 3/I-II."
+previous_item: "14329"
+---

@@ -1,0 +1,9 @@
+---
+layout: "archive"
+slug: "22930"
+archive_id: "274"
+archive_name: "Bēl-eṭēri-Šamaš"
+is_part_of: "Nippur"
+title: "Bēl-eṭēri-Šamaš"
+previous_item: "22933"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13864"
+occurrence_id: "3470"
+short_title: "ZA 83 (1993), 268-274"
+author: "Streck, Michael , P."
+publication_year: "1993"
+title: "Rv. E. Gehlken, Uruk. Spätbabylonische Wirtschaftstexte aus dem Eanna-Archiv. Teil I.: Texte verschiedenen Inhalts (AUWE 5, 1990)"
+volume_no_: "83"
+pages: "268-274"
+journal: "Zeitschrift für Assyriologie"
+title: "Rv. E. Gehlken, Uruk. Spätbabylonische Wirtschaftstexte aus dem Eanna-Archiv. Teil I.: Texte verschiedenen Inhalts (AUWE 5, 1990)"
+previous_item: "13867"
+---

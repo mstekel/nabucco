@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11068"
+occurrence_id: "3432"
+short_title: "ZA 66 (1977), 296-297"
+author: "von Soden, Wolfram"
+publication_year: "1977"
+title: "Rv. H. Lanz, Die neubabylonischen harrānu-Geschäftsunternehmen"
+volume_no_: "66"
+pages: "296-297"
+journal: "Zeitschrift für Assyriologie"
+title: "Rv. H. Lanz, Die neubabylonischen harrānu-Geschäftsunternehmen"
+previous_item: "11071"
+---

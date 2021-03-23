@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13342"
+occurrence_id: "3663"
+short_title: "Das Altertum 35 (1989), 214-221"
+author: "Funck, Bernd"
+publication_year: "1989"
+title: "Der Handel im späten Babylonien"
+volume_no_: "35"
+pages: "214-221"
+journal: "Das Altertum"
+title: "Der Handel im späten Babylonien"
+previous_item: "13345"
+---

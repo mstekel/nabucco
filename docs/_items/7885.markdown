@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7885"
+occurrence_id: "1357"
+short_title: "AMI NF 8 (1975 publ. 1976), 115-121"
+author: "Hinz, Walther"
+publication_year: "1975 publ. 1976"
+title: "Darius und der Suezkanal"
+volume_no_: "8"
+pages: "115-121"
+journal: "Archäologische Mitteilungen aus Iran Neue Folge"
+title: "Darius und der Suezkanal"
+previous_item: "7888"
+---

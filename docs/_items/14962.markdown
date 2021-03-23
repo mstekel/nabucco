@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14962"
+occurrence_id: "3374"
+short_title: "WZKM 88 (1998), 177-183"
+author: "MacGinnis, John"
+publication_year: "1998"
+title: "BM 64707 and rikis qabli in the Ebabbara"
+volume_no_: "88"
+pages: "177-183"
+journal: "Wiener Zeitschrift für die Kunde des Morgenlandes"
+title: "BM 64707 and rikis qabli in the Ebabbara"
+previous_item: "14965"
+---

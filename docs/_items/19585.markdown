@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "19585"
+occurrence_id: "4214"
+short_title: "Kienast 1979"
+author: "Kienast, Burkhart"
+publication_year: "1979"
+title: "Zur Herkunft der achämenidischen Königstitulatur"
+pages: "351-364"
+editor: "Bachmann, Peter"
+title: "Zur Herkunft der achämenidischen Königstitulatur"
+previous_item: "19588"
+---

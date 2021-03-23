@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10954"
+occurrence_id: "2816"
+short_title: "OLZ 91 (1996), 525-532"
+author: "Dalley, Stephanie"
+publication_year: "1996"
+title: "Herodotos and Babylon: Rv. R. Rollinger, Herodots babylonischer Logos. Eine kritische Untersuchung der Glaubwürdigkeitsdiskussion an Hand ausgewählter Beispiele (1993)"
+volume_no_: "91"
+pages: "525-532"
+journal: "Orientalistische Literaturzeitung"
+title: "Herodotos and Babylon: Rv. R. Rollinger, Herodots babylonischer Logos. Eine kritische Untersuchung der Glaubwürdigkeitsdiskussion an Hand ausgewählter Beispiele (1993)"
+previous_item: "10957"
+---

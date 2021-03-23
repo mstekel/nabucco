@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "34411"
+place_id: "472"
+parent_id: "40"
+place_name: "Hazatu"
+related_objects: "2643"
+title: "Hazatu"
+previous_item: "34414"
+---

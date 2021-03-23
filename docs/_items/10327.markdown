@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10327"
+occurrence_id: "2427"
+short_title: "Muséon 58 (1955), 391-393"
+author: "Naster, Paul"
+publication_year: "1955"
+title: "Rv. R. Ghirshman, Village perse-achéménide"
+volume_no_: "58"
+pages: "391-393"
+journal: "Le Muséon. Revue d'Études Orientales"
+title: "Rv. R. Ghirshman, Village perse-achéménide"
+previous_item: "10330"
+---

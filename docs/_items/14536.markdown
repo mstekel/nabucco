@@ -1,0 +1,15 @@
+---
+layout: "bibliography"
+slug: "14536"
+occurrence_id: "209"
+short_title: "Walker and Kramer, Iraq 44 "
+author: "Walker, Christopher,  Bromhead F."
+publication_year: "1982"
+title: "Cuneiform Tablets in the Collection of Lord Binning= Walker, Christopher Bromhead F. and Kramer, Samuel N. 1982, Cuneiform Tablets in the Collection of Lord Binning, Iraq 44, 71-86"
+volume_no_: "44"
+pages: "71-86"
+related_objects: "6060"
+journal: "Iraq"
+title: "Cuneiform Tablets in the Collection of Lord Binning= Walker, Christopher Bromhead F. and Kramer, Samuel N. 1982, Cuneiform Tablets in the Collection of Lord Binning, Iraq 44, 71-86"
+previous_item: "14539"
+---

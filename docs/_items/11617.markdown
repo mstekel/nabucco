@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11617"
+occurrence_id: "3384"
+short_title: "ZA 2 (1887), 118-147, 163-178"
+author: "Winckler, Hugo"
+publication_year: "1887"
+title: "Einige neuveröffentlichte Texte Hammurabis, Nabopolassars und Nebukadnezars"
+volume_no_: "2"
+pages: "118-147, 163-178"
+journal: "Zeitschrift für Assyriologie"
+title: "Einige neuveröffentlichte Texte Hammurabis, Nabopolassars und Nebukadnezars"
+previous_item: "11620"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16300"
+occurrence_id: "1519"
+short_title: "ASJ 16 (1994), 177-200."
+author: "Matsushima, Eiko"
+publication_year: "1994"
+title: "On the Material Related to the Clothing Ceremony - lubuštu in the Later Periods in Baby1onia,"
+volume_no_: "16"
+pages: "177-200"
+journal: "Acta Sumerologica"
+title: "On the Material Related to the Clothing Ceremony - lubuštu in the Later Periods in Baby1onia,"
+previous_item: "16303"
+---

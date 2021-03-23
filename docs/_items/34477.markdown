@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "34477"
+place_id: "1457"
+parent_id: "70"
+place_name: "Āl-šarri"
+related_objects: "2451"
+title: "Āl-šarri"
+previous_item: "34480"
+---

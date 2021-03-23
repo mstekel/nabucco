@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11629"
+occurrence_id: "3449"
+short_title: "ZA 72 (1982 publ. 1983), 297-299"
+author: "von Soden, Wolfram"
+publication_year: "1982 publ. 1983"
+title: "Rv. G.J.P. McEwan, Texts from Hellenistic Babylonia in the Ashmolean Museum (OECT 9)"
+volume_no_: "72"
+pages: "297-299"
+journal: "Zeitschrift für Assyriologie"
+title: "Rv. G.J.P. McEwan, Texts from Hellenistic Babylonia in the Ashmolean Museum (OECT 9)"
+previous_item: "11632"
+---

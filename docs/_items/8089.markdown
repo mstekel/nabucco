@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "8089"
+occurrence_id: "2456"
+short_title: "NABU 1988/53"
+author: "Beaulieu, Paul-A."
+publication_year: "1988"
+title: "Swamps as Burial Places for Babylonian Kings"
+volume_no_: "53"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Swamps as Burial Places for Babylonian Kings"
+previous_item: "8092"
+---

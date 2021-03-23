@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10690"
+occurrence_id: "1396"
+short_title: "Anthropologie 66 (1962), 144-145"
+author: "Kherumian, R."
+publication_year: "1962"
+title: "Rv. E.F. von Eickstedt, Türken, Kurden and Iraner seit dem Altertum"
+volume_no_: "66"
+pages: "144-145"
+journal: "Anthropologie"
+title: "Rv. E.F. von Eickstedt, Türken, Kurden and Iraner seit dem Altertum"
+previous_item: "10693"
+---

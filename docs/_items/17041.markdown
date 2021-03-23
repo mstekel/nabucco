@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17041"
+occurrence_id: "632"
+short_title: "Weidner 1915"
+author: "Weidner, Ernst F. "
+publication_year: "1915"
+title: "Handbuch der babylonischen Astronomie. Erster Band: Der babylonische Fixsternhimmel. Beiträge zur ältesten Geschichte der Sternbilder (AB 23,1)"
+title: "Handbuch der babylonischen Astronomie. Erster Band: Der babylonische Fixsternhimmel. Beiträge zur ältesten Geschichte der Sternbilder (AB 23,1)"
+previous_item: "17044"
+---

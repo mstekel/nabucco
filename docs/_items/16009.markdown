@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16009"
+occurrence_id: "2974"
+short_title: "PAPS 98 (1954), 60-89"
+author: "Neugebauer, Otto"
+publication_year: "1954"
+title: "Babylonian Planetary theory (1. the Planetary theory in General: Introduction, Basic Concepts and Definitions, Mean Synodic Motion, True Synodic Motion, the Texts - 2. theSingle Planets: Mercury Venus, Mars, Jupiter, Saturn)"
+volume_no_: "98"
+pages: "60-89"
+journal: "Proceedings of the American Philosophical Society"
+title: "Babylonian Planetary theory (1. the Planetary theory in General: Introduction, Basic Concepts and Definitions, Mean Synodic Motion, True Synodic Motion, the Texts - 2. theSingle Planets: Mercury Venus, Mars, Jupiter, Saturn)"
+previous_item: "16012"
+---

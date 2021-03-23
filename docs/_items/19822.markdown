@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19822"
+occurrence_id: "4376"
+short_title: "Joannès 2009a"
+author: "Joannès, Francis"
+publication_year: "2009"
+title: "La vaisselle d'appart dans la documentation mésopotamienne du Ier millénaire av. J.-C."
+pages: "295-302"
+editor: "Michel, Cécile"
+book: "L'alimentation dans l'Orient ancien, de la production à la consommation, hème IX, Cahiers des hèmes transversaux d'ArScAn vol IX, 2007-2009"
+title: "La vaisselle d'appart dans la documentation mésopotamienne du Ier millénaire av. J.-C."
+previous_item: "19825"
+---

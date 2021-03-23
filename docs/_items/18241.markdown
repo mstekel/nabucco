@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18241"
+occurrence_id: "891"
+short_title: "Silver 1995"
+author: "Silver, Morris "
+publication_year: "1995"
+title: "Economic Structures of Antiquity, Contributions in Economic and Economic History 159 (Westport)"
+title: "Economic Structures of Antiquity, Contributions in Economic and Economic History 159 (Westport)"
+previous_item: "18244"
+---

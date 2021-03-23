@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "7564"
+occurrence_id: "2649"
+short_title: "NABU 2002/66"
+author: "Zadok, Ran"
+title: "Some Additions and Corrections concerning NB/LB documentation"
+volume_no_: "66"
+publication_year: "2002"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Some Additions and Corrections concerning NB/LB documentation"
+previous_item: "7567"
+---

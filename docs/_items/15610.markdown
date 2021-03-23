@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15610"
+occurrence_id: "3843"
+short_title: "RHDFÉ 57 (1979), 259-261"
+author: "Leuregans, P."
+publication_year: "1979"
+title: "Rv. A.B. Moldenke, Cuneiform Texts in the Metropolitan Museum of Art"
+volume_no_: "57"
+pages: "259-261"
+journal: "Revue historique du droit français et étranger"
+title: "Rv. A.B. Moldenke, Cuneiform Texts in the Metropolitan Museum of Art"
+previous_item: "15613"
+---

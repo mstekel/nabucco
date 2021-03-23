@@ -1,0 +1,12 @@
+---
+layout: "bibliography"
+slug: "16726"
+occurrence_id: "229"
+short_title: "OIP 78"
+author: "Haines, Richard C."
+publication_year: "1967"
+title: "Nippur I: Temple of Enlil, Scribal Quarter, and Soundings"
+volume_no_: "78"
+title: "Nippur I: Temple of Enlil, Scribal Quarter, and Soundings"
+previous_item: "16729"
+---

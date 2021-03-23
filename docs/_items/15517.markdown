@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15517"
+occurrence_id: "3343"
+short_title: "WeOr 39 (2009), 117-120."
+author: "Ambos, Claus"
+publication_year: "2009"
+title: "Rv. S. Zawadzki, Garments of the Gods. Studies on the Textile Industry and the Pantheon of Sippar according to the Texts from the Ebabbar Archive (Freiburg and Göttingen 2006)"
+volume_no_: "39"
+pages: "117-120"
+journal: "Die Welt des Orients"
+title: "Rv. S. Zawadzki, Garments of the Gods. Studies on the Textile Industry and the Pantheon of Sippar according to the Texts from the Ebabbar Archive (Freiburg and Göttingen 2006)"
+previous_item: "15520"
+---

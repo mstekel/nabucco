@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "20674"
+occurrence_id: "4524"
+short_title: "Alijev 1956a"
+author: "Alijev, I.G."
+publication_year: "1956"
+title: "Medien, der älteste Staat auf dem Territorium Azerbajdz*ans (in Russ.)"
+pages: "57-169"
+book: "Очерки по древней истории Азербайджана (Баку 1956) [Očerki po drevnej istorii Azerbajdžana (Baku 1956) ]"
+title: "Medien, der älteste Staat auf dem Territorium Azerbajdz*ans (in Russ.)"
+previous_item: "20677"
+---

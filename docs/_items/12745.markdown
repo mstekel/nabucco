@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12745"
+occurrence_id: "3452"
+short_title: "ZA 73 (1983 publ. 1984), 290-294"
+author: "von Soden, Wolfram"
+publication_year: "1983 publ. 1984"
+title: "Rv. J.-M. Durand, Textes babyloniens d'époque récente"
+volume_no_: "73"
+pages: "290-294"
+journal: "Zeitschrift für Assyriologie"
+title: "Rv. J.-M. Durand, Textes babyloniens d'époque récente"
+previous_item: "12748"
+---

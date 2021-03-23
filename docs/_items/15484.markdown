@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15484"
+occurrence_id: "3165"
+short_title: "SAAB 11 (1997), 55-73"
+author: "Beaulieu, Paul-A."
+publication_year: "1997"
+title: "The Cult of AN.ŠÁR/Aššur in Babylonia after the Fall of the Assyrian Empire"
+volume_no_: "11"
+pages: "55-73"
+journal: "State Archives of Assyria, Bulletin"
+title: "The Cult of AN.ŠÁR/Aššur in Babylonia after the Fall of the Assyrian Empire"
+previous_item: "15487"
+---

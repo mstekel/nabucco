@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17452"
+occurrence_id: "801"
+short_title: "Hartman;Oppenheim 1950"
+author: "Hartman, Louis  F."
+publication_year: "1950"
+title: "On Beer and Brewing Techniques in Ancient Mesopotamia, JAOS Supplement 10 (Baltimore)"
+title: "On Beer and Brewing Techniques in Ancient Mesopotamia, JAOS Supplement 10 (Baltimore)"
+previous_item: "17455"
+---

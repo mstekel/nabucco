@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34843"
+place_id: "292"
+parent_id: "40"
+place_name: "Bīt-Haššamur"
+title: "Bīt-Haššamur"
+previous_item: "34846"
+---

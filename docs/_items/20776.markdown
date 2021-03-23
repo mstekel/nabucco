@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20776"
+occurrence_id: "5068"
+short_title: "Mayer-Opificius 2002"
+author: "Mayer-Opificius, Ruh F.R."
+publication_year: "2002"
+title: "Persische Prodigia. Zu Diocletians Rescript gegen die Manichäer"
+pages: "359-368"
+editor: "Schaudig, Hanspeter"
+book: "Ex Mesopotamia et Syria Lux. Fs. Dietrich. AOAT 281 (Münster)"
+title: "Persische Prodigia. Zu Diocletians Rescript gegen die Manichäer"
+previous_item: "20779"
+---

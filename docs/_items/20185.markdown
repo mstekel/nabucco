@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20185"
+occurrence_id: "707"
+short_title: "Roth 2000"
+author: "Roth, Martha T."
+publication_year: "2000"
+title: "{f}Tašmētu-damqat and Daughters "
+pages: "387-400"
+editor: "Neumann, Hans"
+book: "Assyriologica et Semitica, Fs. Oelsner. AOAT 252. (Münster)"
+title: "{f}Tašmētu-damqat and Daughters "
+previous_item: "20188"
+---

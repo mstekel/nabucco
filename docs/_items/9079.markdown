@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9079"
+occurrence_id: "1749"
+short_title: "BMQ 3 (1928), 70"
+author: "Gadd, Cyril J."
+publication_year: "1928"
+title: "[No.] 52. Egyptian and Babylonian Acquisitions"
+volume_no_: "3"
+pages: "70"
+journal: "British Musem Quarterly"
+title: "[No.] 52. Egyptian and Babylonian Acquisitions"
+previous_item: "9082"
+---

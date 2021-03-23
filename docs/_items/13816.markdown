@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13816"
+occurrence_id: "3210"
+short_title: "Sprache 21 (1975), 42-43 [WVDOG 62, 1957]"
+author: "Schmitt, Rüdiger"
+publication_year: "1975"
+title: "Altpersische Inschriften aus Babylon"
+volume_no_: "21"
+pages: "42-43"
+journal: "Sprache"
+title: "Altpersische Inschriften aus Babylon"
+previous_item: "13819"
+---

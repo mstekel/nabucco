@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16258"
+occurrence_id: "1290"
+short_title: "AJA 59 (1955), 334-337"
+author: "Wilkinson, Charles K."
+publication_year: "1955"
+title: "Rv. E.F. Schmidt, Persepolis I: Structures, Reliefs, Inscriptions"
+volume_no_: "59"
+pages: "334-337"
+journal: "American Journal of Archaeology"
+title: "Rv. E.F. Schmidt, Persepolis I: Structures, Reliefs, Inscriptions"
+previous_item: "16261"
+---

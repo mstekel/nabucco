@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "15085"
+occurrence_id: "4035"
+short_title: "JCS 62 (2010), 81-94"
+author: "Tavernier, Jan"
+publication_year: "2010"
+title: "Akkadian Personal Names with paḫāru or saḫāru as Initial Element"
+volume_no_: "62"
+pages: "81-94"
+title: "Akkadian Personal Names with paḫāru or saḫāru as Initial Element"
+previous_item: "15088"
+---

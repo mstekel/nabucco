@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12268"
+occurrence_id: "3885"
+short_title: "ZOA 1 (2008), 256-314"
+author: "Gehlken, Erlend"
+publication_year: "2008"
+title: "Die Adad-Tafeln der Omenserie Enuma Anu Enlil. Teil 2: Die ersten beiden Donnertafeln (EAE 42 and EAE 43)."
+volume_no_: "1"
+pages: "256-314"
+journal: "Zeitschrift für Orient-Archäologie"
+title: "Die Adad-Tafeln der Omenserie Enuma Anu Enlil. Teil 2: Die ersten beiden Donnertafeln (EAE 42 and EAE 43)."
+previous_item: "12271"
+---

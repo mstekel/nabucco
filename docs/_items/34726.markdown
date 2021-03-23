@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34726"
+place_id: "193"
+parent_id: "40"
+place_name: "Bištu-ša-rab-urāti"
+title: "Bištu-ša-rab-urāti"
+previous_item: "34729"
+---

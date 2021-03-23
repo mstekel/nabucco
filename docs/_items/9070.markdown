@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9070"
+occurrence_id: "1700"
+short_title: "BiOr 55 (1998) 333-345"
+author: "van Driel, Govert"
+publication_year: "1998"
+title: "Eighth Century Nippur: Rv. S.W. Cole, Nippur in Late Assyrian Times (SAAS IV, 1996) and Rv. S.W. Cole, Nippur IV. the Early Neo-Babylonian Governor´s Archive from Nippur (OIP 144, 1996)"
+volume_no_: "55"
+pages: "333-345"
+journal: "Bibliotheca Orientalis"
+title: "Eighth Century Nippur: Rv. S.W. Cole, Nippur in Late Assyrian Times (SAAS IV, 1996) and Rv. S.W. Cole, Nippur IV. the Early Neo-Babylonian Governor´s Archive from Nippur (OIP 144, 1996)"
+previous_item: "9073"
+---

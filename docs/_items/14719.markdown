@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14719"
+occurrence_id: "2064"
+short_title: "JAOS 104 (1984 publ. 1985), 745-752"
+author: "Frame, Grant"
+publication_year: "1984 publ. 1985"
+title: "Neo-Babylonian and Achaemenid Economic Texts from the Sippar Collection of the British Museum"
+volume_no_: "104"
+pages: "745-752"
+journal: "Journal of the American Oriental Society"
+title: "Neo-Babylonian and Achaemenid Economic Texts from the Sippar Collection of the British Museum"
+previous_item: "14722"
+---

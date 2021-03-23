@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13795"
+occurrence_id: "3098"
+short_title: "RA 89 (1995), 139-147 (1 Plan, 1 Tab.)."
+author: "Joannès, Francis"
+publication_year: "1995"
+title: "L’extinction des archives cunéiformes dans la seconde partie de l’époque perse"
+volume_no_: "89"
+pages: "139-147"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "L’extinction des archives cunéiformes dans la seconde partie de l’époque perse"
+previous_item: "13798"
+---

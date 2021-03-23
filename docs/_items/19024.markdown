@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19024"
+occurrence_id: "4532"
+short_title: "Gershevitch 1968"
+author: "Gershevitch, Ilya"
+publication_year: "1968"
+title: "Old Iranian Literature"
+pages: "1-30."
+editor: "Spuler , Bertold"
+book: "Handbuch der Orientalistik, I. Abt., Bd. 2, Abschn. 2, Lieferung 1. Literatur (Leiden)"
+title: "Old Iranian Literature"
+previous_item: "19027"
+---

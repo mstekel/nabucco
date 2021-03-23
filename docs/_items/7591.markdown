@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7591"
+occurrence_id: "2794"
+short_title: "OLZ 71 (1976), 248-249"
+author: "Kümmel, Hans Martin"
+publication_year: "1976"
+title: "Rv. Cuneiform Texts from Babylonian Tablets in the British Museum, CT 49"
+volume_no_: "71"
+pages: "248-249"
+journal: "Orientalistische Literaturzeitung"
+title: "Rv. Cuneiform Texts from Babylonian Tablets in the British Museum, CT 49"
+previous_item: "7594"
+---

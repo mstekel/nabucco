@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11017"
+occurrence_id: "3157"
+short_title: "RSO 30 (1955), 312-313"
+author: "Funck, Bernd"
+publication_year: "1955"
+title: "Rv. H. Petschow, Der Surrogationsgedanke im neubabylonischen Recht"
+volume_no_: "30"
+pages: "312-313"
+journal: "Rivista degli studi orientali"
+title: "Rv. H. Petschow, Der Surrogationsgedanke im neubabylonischen Recht"
+previous_item: "11020"
+---

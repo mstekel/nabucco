@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11248"
+occurrence_id: "1397"
+short_title: "Anthropos 66 (1971), 202-216"
+author: "Rosenkranz, Bernhad"
+publication_year: "1971"
+title: "Zur Geneaologie des Elamischen"
+volume_no_: "66"
+pages: "202-216"
+journal: "Anthropos"
+title: "Zur Geneaologie des Elamischen"
+previous_item: "11251"
+---

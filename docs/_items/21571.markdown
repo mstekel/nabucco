@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21571"
+occurrence_id: "4896"
+short_title: "Czechowicz and Dandamayev 2010"
+author: "Dandamayev, Muhammed A."
+publication_year: "2010"
+title: "A Late Achaemenid Document from Tapsuḫu"
+pages: "77-83"
+editor: "Slotsky, Alice L."
+book: "Opening the Tablet Box. Near Eastern Studies in Honor of Benjamin R. Foster (Leiden/Boston)"
+title: "A Late Achaemenid Document from Tapsuḫu"
+previous_item: "21574"
+---

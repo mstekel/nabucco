@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17155"
+occurrence_id: "547"
+short_title: "Ragen 2006"
+author: "Ragen, Asher "
+publication_year: "2006"
+title: "The Neo-Babylonian sirku: A Social History."
+title: "The Neo-Babylonian sirku: A Social History."
+previous_item: "17158"
+---

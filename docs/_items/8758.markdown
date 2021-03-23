@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8758"
+occurrence_id: "3041"
+short_title: "RA 63 (1969), 86-88"
+author: "Schramm, Wolfgang"
+publication_year: "1969"
+title: "Zur akkadischen Fassung von Darius Susa f"
+volume_no_: "63"
+pages: "86-88"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "Zur akkadischen Fassung von Darius Susa f"
+previous_item: "8761"
+---

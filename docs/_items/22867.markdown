@@ -1,0 +1,9 @@
+---
+layout: "archive"
+slug: "22867"
+archive_id: "427"
+archive_name: "Kurī C"
+is_part_of: "Uruk"
+title: "Kurī C"
+previous_item: "22870"
+---

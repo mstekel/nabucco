@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9715"
+occurrence_id: "2151"
+short_title: "JCS 16 (1962), 48-58"
+author: "Goetze, Albrecht"
+publication_year: "1962"
+title: "Cilicians"
+volume_no_: "16"
+pages: "48-58"
+journal: "Journal of Cuneiform Studies"
+title: "Cilicians"
+previous_item: "9718"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18592"
+occurrence_id: "4434"
+short_title: "Ries 1984"
+author: "Ries, Gerhard"
+publication_year: "1984"
+title: "Ein neubabylonischer Mitgiftprozess (559 v. Chr.)"
+pages: "345-363"
+editor: "Nörr, D."
+book: "Gedächtnisschrift für Wolfgang Kunkel (Frankfurt am Main)"
+title: "Ein neubabylonischer Mitgiftprozess (559 v. Chr.)"
+previous_item: "18595"
+---

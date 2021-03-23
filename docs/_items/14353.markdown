@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14353"
+occurrence_id: "3099"
+short_title: "RA 90 (1996), 161-169"
+author: "Tanret, M.L.-Dekiere"
+publication_year: "1996"
+title: "Un esclave est vendu"
+volume_no_: "90"
+pages: "161-169"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "Un esclave est vendu"
+previous_item: "14356"
+---

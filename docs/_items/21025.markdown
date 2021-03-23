@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "21025"
+occurrence_id: "4189"
+short_title: "Aaboe and Huber 1977"
+author: "Aaboe, Asger"
+publication_year: "1977"
+title: "A Text Concerning the Subdivision of the Synodic Motion of Venus from Babylon: BM 37151"
+pages: "1-4"
+editor: "Finkelstein, Jacob J."
+title: "A Text Concerning the Subdivision of the Synodic Motion of Venus from Babylon: BM 37151"
+previous_item: "21028"
+---

@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17818"
+occurrence_id: "657"
+short_title: "Kohler, Peiser BRL 3 (1894)"
+author: "Kohler, Josef E."
+publication_year: "1894"
+title: "Aus dem babylonischen Rechtsleben III (BRL III)"
+title: "Aus dem babylonischen Rechtsleben III (BRL III)"
+previous_item: "17821"
+---

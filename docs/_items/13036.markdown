@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13036"
+occurrence_id: "2013"
+short_title: "JA 11/17 (1921), 5-65"
+author: "Pognon, Henri"
+publication_year: "1921"
+title: "Notes assyriologiques"
+volume_no_: "11/17"
+pages: "5-65."
+journal: "Journal Asiatique"
+title: "Notes assyriologiques"
+previous_item: "13039"
+---

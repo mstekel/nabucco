@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12880"
+occurrence_id: "1166"
+short_title: "Aevum 35 (1962), 191-192"
+author: "Luciani, F."
+publication_year: "1962"
+title: "Rv. G. Brunner, Der Nabuchodonosor des Buches Judith"
+volume_no_: "35"
+pages: "191-192"
+journal: "Aevum"
+title: "Rv. G. Brunner, Der Nabuchodonosor des Buches Judith"
+previous_item: "12883"
+---

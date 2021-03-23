@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9151"
+occurrence_id: "2134"
+short_title: "JAOS 97 (1977), 546-549"
+author: "Stolper, Matthew W."
+publication_year: "1977"
+title: "Yet AnOther Iranian Loanword in Late Babylonian: Babyl. mašāka < Ir. * vaz*āka-"
+volume_no_: "97"
+pages: "546-549"
+journal: "Journal of the American Oriental Society"
+title: "Yet AnOther Iranian Loanword in Late Babylonian: Babyl. mašāka < Ir. * vaz*āka-"
+previous_item: "9154"
+---

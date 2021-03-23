@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21406"
+occurrence_id: "5119"
+short_title: "Sherwin-White 1987"
+author: "Sherwin-White, Susan"
+publication_year: "1987"
+title: "Seleucid Babylonia: a case-study for the installation and development of Greek rule"
+pages: "1-31."
+editor: "Kuhrt, Amélie"
+book: "Hellenism in the East. The Interaction of Greek and non-Greek civilizations from Syria to Central Asia after Alexander (London)"
+title: "Seleucid Babylonia: a case-study for the installation and development of Greek rule"
+previous_item: "21409"
+---

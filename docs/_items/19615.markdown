@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19615"
+occurrence_id: "4375"
+short_title: "Joannès 2009"
+author: "Joannès, Francis"
+publication_year: "2009"
+title: "La production des dattes d'après la documentation textuelle néo-babylonienne."
+pages: "243-246"
+editor: "Michel, Cécile"
+book: "L'alimentation dans l'Orient ancien, de la production à la consommation, hème IX, Cahiers des hèmes transversaux d'ArScAn vol IX, 2007-2008"
+title: "La production des dattes d'après la documentation textuelle néo-babylonienne."
+previous_item: "19618"
+---

@@ -1,0 +1,18 @@
+---
+layout: "tablet"
+slug: "27319"
+object_id: "6009"
+museum_no_: "BM 50037"
+period: "ENB"
+place_of_issue: "Sippar city"
+day_remark: "[ ]?"
+month: "XI"
+month_remark: "-"
+year_remark: "[-]"
+king: "Sîn-šarru-iškun"
+king_remark: "-"
+imported: "Melanie Gross (26/05/2016)"
+day_babylonian_: "10"
+title: "BM 50037"
+previous_item: "27328"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18598"
+occurrence_id: "4466"
+short_title: "Azarpay 2000"
+author: "Azarpay, Guitty"
+publication_year: "2000"
+title: "Sasanian Art beyond the Persian World"
+pages: "67-75"
+editor: "Curtis, John"
+book: "Mesopotamia and Iran in the Parthian and Sasanian Periods (London)"
+title: "Sasanian Art beyond the Persian World"
+previous_item: "18601"
+---

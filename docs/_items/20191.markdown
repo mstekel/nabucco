@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "20191"
+occurrence_id: "4152"
+short_title: "Kuhrt 2007"
+author: "Kuhrt, Amélie"
+publication_year: "2007"
+title: "The Persian Empire"
+pages: "562-576"
+editor: "Leick, Gwendolyn"
+title: "The Persian Empire"
+previous_item: "20194"
+---

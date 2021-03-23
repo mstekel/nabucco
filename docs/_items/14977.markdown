@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14977"
+occurrence_id: "3456"
+short_title: "ZA 75 (1985 publ. 1986), 89-99"
+author: "Gehlken, Erlend"
+publication_year: "1985 publ. 1986"
+title: "Ein spätbabylonischer Wirtschaftstext aus dem Gutenberg-Museum in Mainz"
+volume_no_: "75"
+pages: "89-99"
+journal: "Zeitschrift für Assyriologie"
+title: "Ein spätbabylonischer Wirtschaftstext aus dem Gutenberg-Museum in Mainz"
+previous_item: "14980"
+---

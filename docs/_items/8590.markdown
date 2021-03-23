@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8590"
+occurrence_id: "2133"
+short_title: "JAOS 95 (1975), 371-375"
+author: "Hunger, Hermann"
+publication_year: "1975"
+title: "A New Akkadian Prophecy Text"
+volume_no_: "95"
+pages: "371-375"
+journal: "Journal of the American Oriental Society"
+title: "A New Akkadian Prophecy Text"
+previous_item: "8593"
+---

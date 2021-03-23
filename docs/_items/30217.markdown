@@ -1,0 +1,15 @@
+---
+layout: "tablet"
+slug: "30217"
+object_id: "7604"
+museum_no_: "BM 32212 "
+publication: "Wunsch 2000"
+text_number: "181B"
+duplicate: "BM 32895+"
+imported: "Kathleen Abraham 15/04/2017"
+publication_name: "Wunsch 2000 181B"
+archive: "Egibi/Nūr-Sîn"
+related_objects: "7605"
+title: "BM 32212 "
+previous_item: "30220"
+---

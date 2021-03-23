@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21403"
+occurrence_id: "5103"
+short_title: "Zawadzki 1993"
+author: "Zawadzki, Stefan"
+publication_year: "1993"
+title: "Political Situation in Babylonia During Amel-Marduk's Rule"
+pages: "309-317"
+editor: "Zablocka, Julia"
+book: "Šulmu IV: Everyday Life in Ancient Near East (Prague)"
+title: "Political Situation in Babylonia During Amel-Marduk's Rule"
+previous_item: "21406"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8416"
+occurrence_id: "1192"
+short_title: "AfO 19 (1959-60), 149"
+author: "von Soden, Wolfram"
+publication_year: "1959-60"
+title: "Aramäisches h erscheint im Spätbabylonischen vor m auch als g"
+volume_no_: "19"
+pages: "149"
+journal: "Archiv für Orientforschung"
+title: "Aramäisches h erscheint im Spätbabylonischen vor m auch als g"
+previous_item: "8419"
+---

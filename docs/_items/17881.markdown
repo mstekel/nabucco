@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17881"
+occurrence_id: "211"
+short_title: "Landsberger 1965"
+author: "Landsberger, Benno "
+publication_year: "1965"
+title: "Brief des Bischofs.von Esagila an den König Asarhaddon"
+title: "Brief des Bischofs.von Esagila an den König Asarhaddon"
+previous_item: "17884"
+---

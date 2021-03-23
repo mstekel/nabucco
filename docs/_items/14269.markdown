@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "14269"
+occurrence_id: "2645"
+short_title: "NABU 2002/61"
+author: "Koch, Johannes"
+title: "Zur Bedeutung von EN.NUN.GE6 und EN.NUN U4"
+volume_no_: "61"
+publication_year: "2002"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Zur Bedeutung von EN.NUN.GE6 und EN.NUN U4"
+previous_item: "14272"
+---

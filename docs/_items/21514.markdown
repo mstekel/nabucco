@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "21514"
+occurrence_id: "4592"
+short_title: "Munn-Rankin 1964"
+author: "Munn-Rankin, Joan Margaret"
+publication_year: "1963"
+title: "Artaxerxes"
+pages: "500-501"
+book: "Encyclopaedia Britannica 2 (London)"
+title: "Artaxerxes"
+previous_item: "21517"
+---

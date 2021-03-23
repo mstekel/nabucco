@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11287"
+occurrence_id: "1607"
+short_title: "BCSMS 28 (1994), 7-11"
+author: "Frame, Grant"
+publication_year: "1994"
+title: "Mesopotamia in the Neo-Babylonian Period. An Introduction"
+volume_no_: "28"
+pages: "7-11"
+journal: "Bulletin. The Canadian Society for Mesopotamian Studies"
+title: "Mesopotamia in the Neo-Babylonian Period. An Introduction"
+previous_item: "11290"
+---

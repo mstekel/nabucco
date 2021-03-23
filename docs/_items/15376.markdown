@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "15376"
+occurrence_id: "2583"
+short_title: "NABU 1998/124"
+author: "Jursa, Michael"
+title: "Bogenland schon unter Nebukadnezar II."
+volume_no_: "124"
+publication_year: "1998"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Bogenland schon unter Nebukadnezar II."
+previous_item: "15379"
+---

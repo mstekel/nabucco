@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15247"
+occurrence_id: "1889"
+short_title: "Historiae 2 (2005), 91-114."
+author: "Sánchez, Manel García"
+publication_year: "2005"
+title: "La representación del gran rey aqueménida en la novela histórica contemporánea."
+volume_no_: "2"
+pages: "91-114"
+journal: "Historiae"
+title: "La representación del gran rey aqueménida en la novela histórica contemporánea."
+previous_item: "15250"
+---

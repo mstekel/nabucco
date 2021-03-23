@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19891"
+occurrence_id: "4744"
+short_title: "Geller 1995"
+author: "Geller, Mark J."
+publication_year: "1995"
+title: "The Influence of Ancient Mesopotamian on Hellenistic Judaism"
+pages: "43-54"
+editor: "Sasson, Jack M."
+book: "CANE (New York)"
+title: "The Influence of Ancient Mesopotamian on Hellenistic Judaism"
+previous_item: "19894"
+---

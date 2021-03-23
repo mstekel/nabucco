@@ -1,0 +1,14 @@
+---
+layout: "tablet"
+slug: "28363"
+object_id: "7475"
+nabucco_no_: "BM64196 "
+museum_no_: "BM 64196 "
+text_number: "126b"
+duplicate: "BM 78192 "
+imported: "Melanie Gross (03/11/2016)"
+join: "BM 64206 ; BM 71020"
+related_objects: "6642"
+title: "BM 64196 "
+previous_item: "28366"
+---

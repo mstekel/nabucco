@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17002"
+occurrence_id: "402"
+short_title: "Fales 2001"
+author: "Fales, Frederick Mario "
+publication_year: "2001"
+title: "L´Imperio Assiro. Storia e Amministrazione (IX-VII Secolo A.C.)"
+title: "L´Imperio Assiro. Storia e Amministrazione (IX-VII Secolo A.C.)"
+previous_item: "17005"
+---

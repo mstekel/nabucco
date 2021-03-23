@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20536"
+occurrence_id: "4891"
+short_title: "Dandamayev and Wunsch 2011"
+author: "Wunsch, Cornelia"
+publication_year: "2011"
+title: "YOS 6 225: A Dispute about a Sesame Delivery."
+pages: "61-72"
+editor: "Vacín, Luděk "
+book: "u4 du11-ga-ni sá mu-ni-ib-du11. Ancient Near Eastern Studies in Memory of Blahoslav Hruška, ISLET (Dresden)"
+title: "YOS 6 225: A Dispute about a Sesame Delivery."
+previous_item: "20539"
+---

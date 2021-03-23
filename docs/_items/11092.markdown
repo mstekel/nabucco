@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11092"
+occurrence_id: "3563"
+short_title: "ZDMG 153 (2003), 177."
+author: "Kessler, Karlheinz"
+publication_year: "2003"
+title: "Rv. P.Stein, Die mittel- und neubabylonischen Königsinschriften bis zum Ende der Assyrerherrschaft."
+volume_no_: "153"
+pages: "177"
+journal: "Zeitschrift der Deutschen Morgenländischen Gesellschaft"
+title: "Rv. P.Stein, Die mittel- und neubabylonischen Königsinschriften bis zum Ende der Assyrerherrschaft."
+previous_item: "11095"
+---

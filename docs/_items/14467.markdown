@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14467"
+occurrence_id: "3713"
+short_title: "IAB 17 (1980), 181-182"
+author: "Geller, Mark J."
+publication_year: "1980"
+title: "Rv. M. Dietrich, Neo-Babylonian Letters from the Kuyunjik Collection (CT 54)"
+volume_no_: "17"
+pages: "181-182"
+journal: "Instittute of Acrhaeology Bulletin (London)"
+title: "Rv. M. Dietrich, Neo-Babylonian Letters from the Kuyunjik Collection (CT 54)"
+previous_item: "14470"
+---

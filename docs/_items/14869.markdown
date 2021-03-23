@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14869"
+occurrence_id: "2871"
+short_title: "Or 33 (1964), 72-87"
+author: "Mayrhofer, Manfred"
+publication_year: "1964"
+title: "Altpersische Späne"
+volume_no_: "33"
+pages: "72-87"
+journal: "Orientalia"
+title: "Altpersische Späne"
+previous_item: "14872"
+---

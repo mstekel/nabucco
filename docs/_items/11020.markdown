@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11020"
+occurrence_id: "3173"
+short_title: "SAAB 7 (1994), 75-107"
+author: "Kühne, Hartmut"
+publication_year: "1994"
+title: "Vier spätbabylonische Tontafeln aus Tall Šeh Hamad, Ost Syrien"
+volume_no_: "7"
+pages: "75-107"
+journal: "State Archives of Assyria, Bulletin"
+title: "Vier spätbabylonische Tontafeln aus Tall Šeh Hamad, Ost Syrien"
+previous_item: "11023"
+---

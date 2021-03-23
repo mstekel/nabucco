@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "11731"
+occurrence_id: "3997"
+short_title: "JAOS 133/2 (2013), 370-372"
+author: "Montelle, Clemency"
+publication_year: "2013"
+title: "Rv. F. Rochberg, In the Path of the Moon: Babylonian Celestial Divination and Its Legacy"
+volume_no_: "133/2"
+pages: "370-372"
+title: "Rv. F. Rochberg, In the Path of the Moon: Babylonian Celestial Divination and Its Legacy"
+previous_item: "11734"
+---

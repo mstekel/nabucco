@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10546"
+occurrence_id: "3626"
+short_title: "Babyl 3 (1910), 33-72"
+author: "Le Gac, Yves M."
+publication_year: "1910"
+title: "Textes babyloniens de la collection Lycklama à Cannes"
+volume_no_: "3"
+pages: "33-72"
+journal: "Babyl"
+title: "Textes babyloniens de la collection Lycklama à Cannes"
+previous_item: "10549"
+---

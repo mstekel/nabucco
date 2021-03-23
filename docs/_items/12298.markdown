@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "12298"
+occurrence_id: "4046"
+short_title: "AoF 39/2 (2012), 316-320"
+author: "Waerzeggers, Caroline"
+publication_year: "2012"
+title: "Very Cordially Hated in Babylonia? Zēria and Rēmūt in the Verse Account"
+volume_no_: "39/2"
+pages: "316-320"
+title: "Very Cordially Hated in Babylonia? Zēria and Rēmūt in the Verse Account"
+previous_item: "12301"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21280"
+occurrence_id: "4447"
+short_title: "van Driel 1983"
+author: "van Driel, Govert"
+publication_year: "1983"
+title: "Teksten over veeteelt in Uruk in de 6e eeuw v.Chr."
+pages: "187-193"
+editor: "Veenhof, Klaas , Roelof "
+book: "Schrijvend verleden: documenten uit het Oude Nabije Oosten vertaald en toegelicht (Leiden)"
+title: "Teksten over veeteelt in Uruk in de 6e eeuw v.Chr."
+previous_item: "21283"
+---

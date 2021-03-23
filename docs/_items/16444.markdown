@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16444"
+occurrence_id: "2294"
+short_title: "JNES 29 (1970), 212-213"
+author: "Renger, Johannes"
+publication_year: "1970"
+title: "Rv. S.S. Ahmed, Southern Mesopotamia in the Time of Ashurbanipal"
+volume_no_: "29"
+pages: "212-213"
+journal: "Journal of Near Eastern Studies"
+title: "Rv. S.S. Ahmed, Southern Mesopotamia in the Time of Ashurbanipal"
+previous_item: "16447"
+---

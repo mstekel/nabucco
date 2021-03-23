@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13441"
+occurrence_id: "1183"
+short_title: "AfO 17 (1954-55), 1-9"
+author: "Weidner, Ernst F."
+publication_year: "1954-55"
+title: "Hochverrat gegen Nebukadnezar II."
+volume_no_: "17"
+pages: "1-9"
+journal: "Archiv für Orientforschung"
+title: "Hochverrat gegen Nebukadnezar II."
+previous_item: "13444"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21400"
+occurrence_id: "5087"
+short_title: "Lafont 1998"
+author: "Démare-Lafont, Sophie"
+publication_year: "1998"
+title: "Fief et féodalité dans le Proche-Orient ancien"
+pages: "515-630"
+editor: "Bournazel, E."
+book: "Les féodalités, Histoire générale des systèmes politiques (Paris)"
+title: "Fief et féodalité dans le Proche-Orient ancien"
+previous_item: "21403"
+---

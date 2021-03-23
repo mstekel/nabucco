@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "11707"
+occurrence_id: "3868"
+short_title: "VHB (1954) 31-53"
+author: "Liagre Böhl, Francisco Mario Th. De"
+publication_year: "1954"
+title: "De Chaldeeuwse dynastie"
+pages: "31-53"
+journal: "Varia Historica Biblica"
+title: "De Chaldeeuwse dynastie"
+previous_item: "11710"
+---

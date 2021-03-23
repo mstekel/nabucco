@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20521"
+occurrence_id: "4811"
+short_title: "Streck 2011"
+author: "Streck, Michael , P."
+publication_year: "2011"
+title: "Babylonian and Assyrian"
+pages: "359-396"
+editor: "Weninger, Stefan"
+book: "The Semitic Languages. An International Handbook, Handbücher zur Sprach- und Kommunikationswissenschaft 36 (Berlin/Boston). Edited in collaboration with Geoffrey Khan, Michael P. Streck, Janet C.E. Watson"
+title: "Babylonian and Assyrian"
+previous_item: "20524"
+---

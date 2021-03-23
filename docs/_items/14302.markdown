@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14302"
+occurrence_id: "2822"
+short_title: "OLZ 95 (2000), 157-161"
+author: "Müller, Gefrid G.W."
+publication_year: "2000"
+title: "Rv. V. Donbaz and M.W. Stolper, Istanbul Murašû Texts (PIHANS 79, 1997)"
+volume_no_: "95"
+pages: "157-161"
+journal: "Orientalistische Literaturzeitung"
+title: "Rv. V. Donbaz and M.W. Stolper, Istanbul Murašû Texts (PIHANS 79, 1997)"
+previous_item: "14305"
+---

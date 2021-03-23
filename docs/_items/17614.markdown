@@ -1,0 +1,12 @@
+---
+layout: "bibliography"
+slug: "17614"
+occurrence_id: "22"
+short_title: "Cyr."
+author: "Strassmaier, Johann N. "
+publication_year: "1890"
+title: "Inschriften von Cyrus, König von Babylon (538-529 v.Chr.), Babylonische Texte VII (Leipzig)"
+related_objects: "7565"
+title: "Inschriften von Cyrus, König von Babylon (538-529 v.Chr.), Babylonische Texte VII (Leipzig)"
+previous_item: "17617"
+---

@@ -1,0 +1,9 @@
+---
+layout: "archive"
+slug: "22831"
+archive_id: "208"
+archive_name: "{f}Rē'indu/Nergal-ušēzib"
+is_part_of: "Cutha"
+title: "{f}Rē'indu/Nergal-ušēzib"
+previous_item: "22834"
+---

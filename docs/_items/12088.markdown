@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12088"
+occurrence_id: "2916"
+short_title: "Or 64 (1995), 474-477"
+author: "van der Spek, Robartus"
+publication_year: "1995"
+title: "Rv. R. Rollinger, Herodots babylonischer Logos. Eine kritische Untersuchung der Glaubwürdigkeitsdiskussion an Hand ausgewählter Beispiele (1993)"
+volume_no_: "64"
+pages: "474-477"
+journal: "Orientalia"
+title: "Rv. R. Rollinger, Herodots babylonischer Logos. Eine kritische Untersuchung der Glaubwürdigkeitsdiskussion an Hand ausgewählter Beispiele (1993)"
+previous_item: "12091"
+---

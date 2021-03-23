@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7741"
+occurrence_id: "3605"
+short_title: "Achaemenid History 8 (1994), 65-95"
+author: "Carter, Elizabeth"
+publication_year: "1994"
+title: "Bridging thegap between the Elamites and the Persians in Southeastern Khuzistan"
+volume_no_: "8"
+pages: "65-95"
+journal: "Achaemenid History"
+title: "Bridging thegap between the Elamites and the Persians in Southeastern Khuzistan"
+previous_item: "7744"
+---

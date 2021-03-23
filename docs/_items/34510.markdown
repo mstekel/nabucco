@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34510"
+place_id: "283"
+parent_id: "40"
+place_name: "Bīt-Hananā-harbatu"
+title: "Bīt-Hananā-harbatu"
+previous_item: "34513"
+---

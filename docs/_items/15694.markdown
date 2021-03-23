@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15694"
+occurrence_id: "1273"
+short_title: "AION 45 (1985 publ. 1986), 547-583"
+author: "Giovinazzo, Grazia"
+publication_year: "1985 publ. 1986"
+title: "Typology and Structure of Mesopotamian Documentation during the Achemenid Period"
+volume_no_: "45"
+pages: "547-583"
+journal: "Annali dell'Istituto Orientale di Napoli"
+title: "Typology and Structure of Mesopotamian Documentation during the Achemenid Period"
+previous_item: "15697"
+---

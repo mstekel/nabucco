@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17056"
+occurrence_id: "744"
+short_title: "Bresciani;Kamil 1966"
+author: "Bresciani, Eda "
+publication_year: "1966"
+title: "Le lettere aramaiche di Hermopoli, Atti della Accademia Nazionale dei Lincei. Memorie. Classe di Scienze morali, storiche e filologiche, serie 8, vol. 12/5 (Roma)"
+title: "Le lettere aramaiche di Hermopoli, Atti della Accademia Nazionale dei Lincei. Memorie. Classe di Scienze morali, storiche e filologiche, serie 8, vol. 12/5 (Roma)"
+previous_item: "17059"
+---

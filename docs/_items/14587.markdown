@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14587"
+occurrence_id: "1353"
+short_title: "AMI 5 (1972), 243-251"
+author: "Hinz, Walther"
+publication_year: "1972"
+title: "Die Zusätze zur Darius-Inschrift von Behistan"
+volume_no_: "5"
+pages: "243-251"
+journal: "Archäologische Mitteilungen aus Iran"
+title: "Die Zusätze zur Darius-Inschrift von Behistan"
+previous_item: "14590"
+---

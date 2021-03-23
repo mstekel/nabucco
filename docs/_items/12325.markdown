@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12325"
+occurrence_id: "1181"
+short_title: "AfO 17 (1954/1956), 322-335"
+author: "Eilers, Wilhelm"
+publication_year: "1954-56"
+title: "Neue aramäische Urkunden aus Ägypten"
+volume_no_: "17"
+pages: "322-335"
+journal: "Archiv für Orientforschung"
+title: "Neue aramäische Urkunden aus Ägypten"
+previous_item: "12328"
+---

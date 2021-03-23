@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10702"
+occurrence_id: "1460"
+short_title: "ArOr 17/II (1949), 28-109"
+author: "Lewy, Hildegard"
+publication_year: "1949"
+title: "The Babylonian Background of theKay Kâûs Legend,"
+volume_no_: "17/II"
+pages: "28-109"
+journal: "Archív Orientalí"
+title: "The Babylonian Background of theKay Kâûs Legend,"
+previous_item: "10705"
+---

@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34885"
+place_id: "964"
+parent_id: "61"
+place_name: "Dūr-Ugumu"
+title: "Dūr-Ugumu"
+previous_item: "34888"
+---

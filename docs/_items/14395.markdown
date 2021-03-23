@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14395"
+occurrence_id: "3325"
+short_title: "WeOr 20/21 (1989/1990), 273-276"
+author: "Zadok, Ran"
+publication_year: "1989/1990"
+title: "Rv. M.W. Stolper , Entrepreneurs and Empire. The Murašû Archive, the Murašû Firm, and the Persian Rule in Babylonia (1985)"
+volume_no_: "20/21"
+pages: "273-276"
+journal: "Die Welt des Orients"
+title: "Rv. M.W. Stolper , Entrepreneurs and Empire. The Murašû Archive, the Murašû Firm, and the Persian Rule in Babylonia (1985)"
+previous_item: "14398"
+---

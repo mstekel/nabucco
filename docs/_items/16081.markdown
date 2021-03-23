@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16081"
+occurrence_id: "3360"
+short_title: "WZKM 55 (1959), 49-61"
+author: "von Soden, Wolfram"
+publication_year: "1959"
+title: "Assyriologische Miszellen"
+volume_no_: "55"
+pages: "49-61"
+journal: "Wiener Zeitschrift für die Kunde des Morgenlandes"
+title: "Assyriologische Miszellen"
+previous_item: "16084"
+---

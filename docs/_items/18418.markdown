@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18418"
+occurrence_id: "396"
+short_title: "Ebeling 1951"
+author: "Ebeling, Erich "
+publication_year: "1951"
+title: "Bruchstücke einer mittelassyrischen Vorschriftensammlung für die Akklimatisierung and Trainierung von Wagenpferden"
+title: "Bruchstücke einer mittelassyrischen Vorschriftensammlung für die Akklimatisierung and Trainierung von Wagenpferden"
+previous_item: "18421"
+---

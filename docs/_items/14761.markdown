@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14761"
+occurrence_id: "2291"
+short_title: "JNES 25 (1966), 202-209"
+author: "Brinkman, John A."
+publication_year: "1966"
+title: "Neo-Babylonian Texts in the Archaological Museum at Florence"
+volume_no_: "25"
+pages: "202-209"
+journal: "Journal of Near Eastern Studies"
+title: "Neo-Babylonian Texts in the Archaological Museum at Florence"
+previous_item: "14764"
+---

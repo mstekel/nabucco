@@ -1,0 +1,10 @@
+---
+layout: "glossary"
+slug: "35563"
+concept_id: "1219"
+label: "Dowry"
+hierarchy: "Content type"
+type: "172"
+title: "Dowry"
+previous_item: "35566"
+---

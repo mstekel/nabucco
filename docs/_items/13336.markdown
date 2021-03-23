@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13336"
+occurrence_id: "3631"
+short_title: "BibOr 6 (1964), 191-206"
+author: "Grayson, Albert K."
+publication_year: "1964"
+title: "Cronache dell'impero neobabilonese (626-556 a.C.)"
+volume_no_: "6"
+pages: "191-206"
+journal: "Biblica et orientalia"
+title: "Cronache dell'impero neobabilonese (626-556 a.C.)"
+previous_item: "13339"
+---

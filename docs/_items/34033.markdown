@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34033"
+place_id: "1453"
+parent_id: "55"
+place_name: "Upiya"
+title: "Upiya"
+previous_item: "34036"
+---

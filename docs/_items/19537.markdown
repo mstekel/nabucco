@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19537"
+occurrence_id: "5062"
+short_title: "Goldstein 2013"
+author: "Goldstein, Ronnie"
+publication_year: "2013"
+title: "NB Administrative Terminology and Ist Influence in Biblical Literature: Hebrew החרא"
+pages: "137-149"
+editor: "Winitzer, Abraham"
+book: "Literature as Politics, Politics as Literature. Essays on the Ancient Near East in Honor of Peter Machinist (Winona Lake)"
+title: "NB Administrative Terminology and Ist Influence in Biblical Literature: Hebrew החרא"
+previous_item: "19540"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12310"
+occurrence_id: "257"
+short_title: "Pinches, JRAS 3"
+author: "Pinches, Theophilus G."
+publication_year: "1921"
+title: "A Loan-Tablet Dated in the Seventh Year of Saracos"
+volume_no_: "3"
+pages: "383-87"
+journal: "JRAS"
+title: "A Loan-Tablet Dated in the Seventh Year of Saracos"
+previous_item: "12313"
+---

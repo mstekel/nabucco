@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15973"
+occurrence_id: "2777"
+short_title: "OLZ 50 (1955), 32-36"
+author: "Schmidtke, Friedrich"
+publication_year: "1955"
+title: "Rv. E. Ebeling, Neubabylonische Briefe (1949) and Rv. E. Ebeling, Glossar zu den neubabylonischen Briefen (1953)"
+volume_no_: "50"
+pages: "32-36"
+journal: "Orientalistische Literaturzeitung"
+title: "Rv. E. Ebeling, Neubabylonische Briefe (1949) and Rv. E. Ebeling, Glossar zu den neubabylonischen Briefen (1953)"
+previous_item: "15976"
+---

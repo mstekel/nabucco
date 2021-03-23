@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "7747"
+occurrence_id: "3637"
+short_title: "BLOT (1964), 72"
+author: "Emerton, J.A."
+publication_year: "1964"
+title: "Rv. R. Meyer, Das Gebet des Nabonid"
+pages: "72"
+journal: "Book List. Society for Old Testament Studies (Llansadwrn, Menai Bridge)"
+title: "Rv. R. Meyer, Das Gebet des Nabonid"
+previous_item: "7750"
+---

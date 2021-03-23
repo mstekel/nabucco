@@ -1,0 +1,14 @@
+---
+layout: "tablet"
+slug: "29968"
+object_id: "7687"
+museum_no_: "MNB 1136"
+publication: "TCL 9"
+text_number: "124"
+period: "-"
+type_and_content: "Letters"
+publication_name: "TCL 9 124"
+archive: "Egibi/Nūr-Sîn"
+title: "MNB 1136"
+previous_item: "29971"
+---

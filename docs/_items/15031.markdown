@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15031"
+occurrence_id: "3746"
+short_title: "JRAS 6 (1996), 113-114"
+author: "Schramm, Wolfgang"
+publication_year: "1996"
+title: "Rv. M.A. Dandamayev, Iranians in Achaemenid Babylonia (1992)"
+volume_no_: "6"
+pages: "113-114"
+journal: "Journal of the Royal Asiatic Society"
+title: "Rv. M.A. Dandamayev, Iranians in Achaemenid Babylonia (1992)"
+previous_item: "15034"
+---

@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17518"
+occurrence_id: "406"
+short_title: "Freydank 1971"
+author: "Freydank, Helmut "
+publication_year: "1971"
+title: "Spätbabylonische Wirtschaftstexte aus Uruk"
+title: "Spätbabylonische Wirtschaftstexte aus Uruk"
+previous_item: "17521"
+---

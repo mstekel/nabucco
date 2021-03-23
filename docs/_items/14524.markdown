@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "14524"
+occurrence_id: "4018"
+short_title: "Akkadica 133/1 (2012), 180-188"
+author: "Sandowicz, Malgorzata"
+publication_year: "2012"
+title: "Rv. S.E. Holtz, Neo-Babylonian Court Procedure"
+volume_no_: "133/1"
+pages: "180-188"
+title: "Rv. S.E. Holtz, Neo-Babylonian Court Procedure"
+previous_item: "14527"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15520"
+occurrence_id: "3359"
+short_title: "WZKM 54 (1957), 287-288"
+author: "Hančar, F."
+publication_year: "1957"
+title: "Rv. H.H. von der Osten, Die Welt der Perser"
+volume_no_: "54"
+pages: "287-288"
+journal: "Wiener Zeitschrift für die Kunde des Morgenlandes"
+title: "Rv. H.H. von der Osten, Die Welt der Perser"
+previous_item: "15523"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12460"
+occurrence_id: "1916"
+short_title: "Iran 18 (1980), 55-63"
+author: "Calmeyer, Peter"
+publication_year: "1980"
+title: "Textual Sources for the Interpretation of Achaemenian Palace Decoratives"
+volume_no_: "18"
+pages: "55-63"
+journal: "Iran. Journal of the British Institute of Persian Studies"
+title: "Textual Sources for the Interpretation of Achaemenian Palace Decoratives"
+previous_item: "12463"
+---

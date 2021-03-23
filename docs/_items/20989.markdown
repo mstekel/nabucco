@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20989"
+occurrence_id: "5101"
+short_title: "Zawadzki 1987"
+author: "Zawadzki, Stefan"
+publication_year: "1987"
+title: "Errors in the Neo-Babylonian Business and Administrative Documents and Problems of their Deletion"
+pages: "15-21"
+editor: "Skladanek, Bogdan"
+book: "Orientalia Varsoviensia 1, Papers on Asia Past and Present, Wydawnicta Uniwersytetu Warszawskiego (Warsaw)"
+title: "Errors in the Neo-Babylonian Business and Administrative Documents and Problems of their Deletion"
+previous_item: "20992"
+---

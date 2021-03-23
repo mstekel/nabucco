@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14446"
+occurrence_id: "3601"
+short_title: "Achaemenid History 8 (1994), 265-281"
+author: "Windfuhr, Gernot, L."
+publication_year: "1994"
+title: "Saih Darius. Dialectic, numbers, time and space at Behistun (DB, Old Persian Version)"
+volume_no_: "8"
+pages: "265-281"
+journal: "Achaemenid History"
+title: "Saih Darius. Dialectic, numbers, time and space at Behistun (DB, Old Persian Version)"
+previous_item: "14449"
+---

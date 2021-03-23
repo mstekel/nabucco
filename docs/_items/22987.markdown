@@ -1,0 +1,9 @@
+---
+layout: "archive"
+slug: "22987"
+archive_id: "442"
+archive_name: "Morgan archive"
+is_part_of: "Varia"
+title: "Morgan archive"
+previous_item: "22990"
+---

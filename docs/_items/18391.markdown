@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "18391"
+occurrence_id: "109"
+short_title: "OECT 10"
+author: "McEwan, Gilbert J.P. "
+publication_year: "1984"
+title: "Late Babylonian Texts in the Ashmolean Museum. Oxford Editions of Cuneiform Texts 10 (Oxford)"
+volume_no_: "10"
+related_objects: "6223"
+title: "Late Babylonian Texts in the Ashmolean Museum. Oxford Editions of Cuneiform Texts 10 (Oxford)"
+previous_item: "18394"
+---

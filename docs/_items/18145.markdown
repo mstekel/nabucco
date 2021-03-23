@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18145"
+occurrence_id: "304"
+short_title: "Arnaud 2004"
+author: "Arnaud, Daniel "
+publication_year: "2004"
+title: "Nabuchodonosor II roi de Babylone"
+title: "Nabuchodonosor II roi de Babylone"
+previous_item: "18148"
+---

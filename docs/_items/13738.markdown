@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13738"
+occurrence_id: "2789"
+short_title: "OLZ 67 (1972), 44-47"
+author: "Röllig, Wolfgang"
+publication_year: "1972"
+title: "Rv. E. Salonen, Die Gruss- und Höflichkeitsformeln in babylonisch-assyrischen Briefen (StOr 38)"
+volume_no_: "67"
+pages: "44-47"
+journal: "Orientalistische Literaturzeitung"
+title: "Rv. E. Salonen, Die Gruss- und Höflichkeitsformeln in babylonisch-assyrischen Briefen (StOr 38)"
+previous_item: "13741"
+---

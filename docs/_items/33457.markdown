@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33457"
+place_id: "1165"
+parent_id: "61"
+place_name: "Nazzû-qallu"
+title: "Nazzû-qallu"
+previous_item: "33460"
+---

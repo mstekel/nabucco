@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19279"
+occurrence_id: "4789"
+short_title: "Jursa 2007a"
+author: "Jursa, Michael"
+publication_year: "2007"
+title: "The Transition of Babylonia from the Neo-Babylonian Empire to Achaemenid Rule."
+pages: "73-94"
+editor: "Crawford, Harriet"
+book: "Regime Change in the Ancient Near East and Egypt. From Sargon of Agade to Saddam Hussein (Oxford and New York)"
+title: "The Transition of Babylonia from the Neo-Babylonian Empire to Achaemenid Rule."
+previous_item: "19282"
+---

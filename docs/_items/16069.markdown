@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16069"
+occurrence_id: "3294"
+short_title: "Visible Language 15 (1981), 409-418"
+author: "Sack, Ronald H."
+publication_year: "1981"
+title: "The Temple Scribe in Chaldean Uruk"
+volume_no_: "15"
+pages: "409-418"
+journal: "Visible Language"
+title: "The Temple Scribe in Chaldean Uruk"
+previous_item: "16072"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16249"
+occurrence_id: "1241"
+short_title: "AfO 46/47 (1999/2000), 183-200"
+author: "Waerzeggers, Caroline"
+publication_year: "1999-2000"
+title: "The Records of In‚abtu from theNaggāru Family"
+volume_no_: "46-47"
+pages: "183-200"
+journal: "Archiv für Orientforschung"
+title: "The Records of In‚abtu from theNaggāru Family"
+previous_item: "16252"
+---

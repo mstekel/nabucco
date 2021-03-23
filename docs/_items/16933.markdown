@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16933"
+occurrence_id: "760"
+short_title: "D´Agostino 1994"
+author: "D'Agostino, Franco "
+publication_year: "1994"
+title: "Nabonedo, Adda Guppi, il deserto e il dio Luna. Storia, ideologia e propaganda nella Babilonia del VI sec. a.C., Quaderni di orientalistica 2 (Pisa)"
+title: "Nabonedo, Adda Guppi, il deserto e il dio Luna. Storia, ideologia e propaganda nella Babilonia del VI sec. a.C., Quaderni di orientalistica 2 (Pisa)"
+previous_item: "16936"
+---

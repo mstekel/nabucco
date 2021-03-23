@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20428"
+occurrence_id: "4314"
+short_title: "Johnson 2013"
+author: "Johnson, Erica D."
+publication_year: "2013"
+title: "Time and Again: Marduk's Travels"
+pages: "113-116"
+editor: "Albà, Adelina, Millet"
+book: "Time and History in the Ancient Near East. Proceedings of the 56th Rencontre Assyriologique Internationale at Barcelona 26-30 July 2010 (Winona Lake)"
+title: "Time and Again: Marduk's Travels"
+previous_item: "20431"
+---

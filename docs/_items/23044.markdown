@@ -1,0 +1,9 @@
+---
+layout: "archive"
+slug: "23044"
+archive_id: "187"
+archive_name: "Mannu-gērûšu"
+is_part_of: "Borsippa"
+title: "Mannu-gērûšu"
+previous_item: "23047"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21673"
+occurrence_id: "4337"
+short_title: "Gehlken 2005"
+author: "Gehlken, Erlend"
+publication_year: "2005"
+title: "Childhood and Youth, work and old age in Babylonia - a statistical analysis"
+pages: "89-120"
+editor: "Baker, Heather D."
+book: "Approaching the Babylonian Economy, AOAT 330 (Münster)"
+title: "Childhood and Youth, work and old age in Babylonia - a statistical analysis"
+previous_item: "21676"
+---

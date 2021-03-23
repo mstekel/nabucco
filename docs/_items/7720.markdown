@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7720"
+occurrence_id: "3492"
+short_title: "ZA 87 (1997), 33-42"
+author: "Koch, Johannes"
+publication_year: "1997"
+title: "Zur Bedeutung von SAG GE6 in den \"Astronomical Diaries\""
+volume_no_: "87"
+pages: "33-42"
+journal: "Zeitschrift für Assyriologie"
+title: "Zur Bedeutung von SAG GE6 in den \"Astronomical Diaries\""
+previous_item: "7723"
+---

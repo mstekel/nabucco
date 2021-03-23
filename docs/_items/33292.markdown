@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33292"
+place_id: "298"
+parent_id: "40"
+place_name: "Bīt-Higlā"
+title: "Bīt-Higlā"
+previous_item: "33295"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7846"
+occurrence_id: "1141"
+short_title: "Eilers, ZDMG 94 (1940)"
+author: "Eilers, Wilhelm"
+publication_year: "1940"
+title: "Kleinasiatisches"
+volume_no_: "94"
+pages: "189-250"
+journal: "Zeitschrift der Deutschen Morgenländischen Gesellschaft (Wiesbaden)"
+title: "Kleinasiatisches"
+previous_item: "7849"
+---

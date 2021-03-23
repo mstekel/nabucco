@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14194"
+occurrence_id: "2241"
+short_title: "JESHO 39 (1996), 1-41"
+author: "Liverani, Mario"
+publication_year: "1996"
+title: "Reconstructing the Rural Landscape of the Ancient Near East"
+volume_no_: "39"
+pages: "1-41"
+journal: "Journal of the Economic and Social History of the Orient"
+title: "Reconstructing the Rural Landscape of the Ancient Near East"
+previous_item: "14197"
+---

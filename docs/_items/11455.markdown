@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "11455"
+occurrence_id: "2511"
+short_title: "NABU 1994/89"
+author: "Gehlken, Erlend"
+title: "Bemerkungen zur Grammatik des Spätbabylonischen"
+volume_no_: "89"
+publication_year: "1994"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Bemerkungen zur Grammatik des Spätbabylonischen"
+previous_item: "11458"
+---

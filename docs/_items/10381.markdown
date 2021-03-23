@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "10381"
+occurrence_id: "2719"
+short_title: "NABU 2009/14"
+author: "Sandowicz, Malgorzata"
+title: "Neo-Babylonian nagû"
+volume_no_: "14"
+publication_year: "2009"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Neo-Babylonian nagû"
+previous_item: "10384"
+---

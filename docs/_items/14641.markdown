@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14641"
+occurrence_id: "1645"
+short_title: "BiOr 19 (1962), 110-114"
+author: "Liagre Böhl, Francisco Mario Th. De"
+publication_year: "1962"
+title: "Die babylonischen Prätendenten zur Zeit Xerxes"
+volume_no_: "19"
+pages: "110-114"
+journal: "Bibliotheca Orientalis"
+title: "Die babylonischen Prätendenten zur Zeit Xerxes"
+previous_item: "14644"
+---

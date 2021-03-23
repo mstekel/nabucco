@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18694"
+occurrence_id: "4978"
+short_title: "Briant 1995"
+author: "Briant, Pierre"
+publication_year: "1995"
+title: "Social and Legal Institutions in Achaemenid Iran"
+pages: "517-528"
+editor: "Sasson, Jack M."
+book: "CANE (New York)"
+title: "Social and Legal Institutions in Achaemenid Iran"
+previous_item: "18697"
+---

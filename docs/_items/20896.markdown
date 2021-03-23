@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20896"
+occurrence_id: "4605"
+short_title: "Brinkman 1986"
+author: "Brinkman, John A."
+publication_year: "1986"
+title: "The Elamite-Babylonian Frontier in the Neo-Elamite Period, 750-625 B.C."
+pages: "199-207"
+editor: "Vallat, François"
+book: "Fragmenta historiae Aelamicae, Fs. Steve (Paris)"
+title: "The Elamite-Babylonian Frontier in the Neo-Elamite Period, 750-625 B.C."
+previous_item: "20899"
+---

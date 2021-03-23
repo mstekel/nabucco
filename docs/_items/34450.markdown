@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34450"
+place_id: "1096"
+parent_id: "61"
+place_name: "Kabaltu"
+title: "Kabaltu"
+previous_item: "34453"
+---

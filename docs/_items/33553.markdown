@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33553"
+place_id: "928"
+parent_id: "61"
+place_name: "Bīt-{lú}U.MUK{meš}"
+title: "Bīt-{lú}U.MUK{meš}"
+previous_item: "33556"
+---

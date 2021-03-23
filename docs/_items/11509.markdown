@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11509"
+occurrence_id: "2801"
+short_title: "OLZ 77 (1982), 355-357"
+author: "Dandamayev, Muhammed A."
+publication_year: "1982"
+title: "Rv. L. Jakob-Rost and H. Freydank, Spätbabylonische Rechtsurkunden und Wirtschaftstexte aus Uruk (VS 20 = NF 4)"
+volume_no_: "77"
+pages: "355-357"
+journal: "Orientalistische Literaturzeitung"
+title: "Rv. L. Jakob-Rost and H. Freydank, Spätbabylonische Rechtsurkunden und Wirtschaftstexte aus Uruk (VS 20 = NF 4)"
+previous_item: "11512"
+---

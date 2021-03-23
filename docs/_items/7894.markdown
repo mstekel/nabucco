@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7894"
+occurrence_id: "1407"
+short_title: "AÖAW 116 (1979), 25-27"
+author: "Mayrhofer, Manfred"
+publication_year: "1979"
+title: "Ein unpubliziertes beschriftetes Eichgewicht der Dareios-Zeit"
+volume_no_: "116"
+pages: "25-27"
+journal: "Anzeiger der Österreichischen Akademie der Wissenschaften"
+title: "Ein unpubliziertes beschriftetes Eichgewicht der Dareios-Zeit"
+previous_item: "7897"
+---

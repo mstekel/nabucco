@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11644"
+occurrence_id: "3532"
+short_title: "ZAR 11 (2005), 155-194."
+author: "Achenbach, Reinhard"
+publication_year: "2005"
+title: "Das Kyros-Orakel in Jesaja 44,24 - 45,7 im Lichte altorientalischer Parallelen."
+volume_no_: "11"
+pages: "155-194"
+journal: "Zeitschrift für Altorientalische und Biblische Rechtsgeschichte"
+title: "Das Kyros-Orakel in Jesaja 44,24 - 45,7 im Lichte altorientalischer Parallelen."
+previous_item: "11647"
+---

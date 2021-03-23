@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21199"
+occurrence_id: "5118"
+short_title: "Cole and Gasche 1998"
+author: "Gasche, Hermann"
+publication_year: "1998"
+title: "Second- and First-Millennium BC Rivers in Northern Babylonia"
+pages: "1-64"
+editor: "Gasche, Hermann"
+book: "Changing Watercourses in Babylonia. Towards a Reconstruction of the Ancient Environment in Lower Mesopotamia I , MHEM V1 (Ghent)"
+title: "Second- and First-Millennium BC Rivers in Northern Babylonia"
+previous_item: "21202"
+---

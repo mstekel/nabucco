@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33328"
+place_id: "874"
+parent_id: "61"
+place_name: "Bīt-Ibā"
+title: "Bīt-Ibā"
+previous_item: "33331"
+---

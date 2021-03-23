@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11797"
+occurrence_id: "1348"
+short_title: "AMI 28 (1995/1996), 269-273"
+author: "Schmitt, Rüdiger"
+publication_year: "1995/1996"
+title: "Eine Goldtafel mit angeblicher Dareios-Inschrift"
+volume_no_: "28"
+pages: "269-273"
+journal: "Archäologische Mitteilungen aus Iran"
+title: "Eine Goldtafel mit angeblicher Dareios-Inschrift"
+previous_item: "11800"
+---

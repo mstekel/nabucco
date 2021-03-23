@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "34480"
+place_id: "1474"
+parent_id: "43"
+place_name: "Ālu-ša-Marduk-ēṭir"
+related_objects: "6560"
+title: "Ālu-ša-Marduk-ēṭir"
+previous_item: "34483"
+---

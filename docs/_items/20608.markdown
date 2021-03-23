@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "20608"
+occurrence_id: "4171"
+short_title: "George 2000"
+author: "George, Andrew, R."
+publication_year: "2000"
+title: "Four Temple Rituals from Babylon"
+pages: "259-299"
+editor: "George, Andrew, R."
+title: "Four Temple Rituals from Babylon"
+previous_item: "20611"
+---

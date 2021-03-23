@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11356"
+occurrence_id: "1978"
+short_title: "Iraq 56 (1994), 117-121"
+author: "MacGinnis, John"
+publication_year: "1994"
+title: "Harrānu Texts from the British Museum"
+volume_no_: "56"
+pages: "117-121"
+journal: "Iraq"
+title: "Harrānu Texts from the British Museum"
+previous_item: "11359"
+---

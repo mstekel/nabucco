@@ -1,0 +1,12 @@
+---
+layout: "bibliography"
+slug: "18001"
+occurrence_id: "31"
+short_title: "Nbn."
+author: "Strassmaier, Johann N. "
+publication_year: "1889"
+title: "Inschriften von Nabonidus, König von Babylon (555-538 v.Chr.), Babylonische Hefte I-IV (Leipzig)"
+related_objects: "7063"
+title: "Inschriften von Nabonidus, König von Babylon (555-538 v.Chr.), Babylonische Hefte I-IV (Leipzig)"
+previous_item: "18004"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11398"
+occurrence_id: "2203"
+short_title: "JCS 52 (2000), 115-121 (6 Tab.)"
+author: "Boiy, Tom"
+publication_year: "2000"
+title: "Dating Methods During the Early Hellenistic Period"
+volume_no_: "52"
+pages: "115-121"
+journal: "Journal of Cuneiform Studies"
+title: "Dating Methods During the Early Hellenistic Period"
+previous_item: "11401"
+---

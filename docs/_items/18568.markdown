@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "18568"
+occurrence_id: "4305"
+short_title: "Lipiński 1977 publ. 1980"
+author: "Lipiński, Edward"
+publication_year: "1977 publ. 1980"
+title: "Western Semites in Persepolis"
+pages: "101-112"
+book: "Acta Antiqua Academiae Scientiarum Hungaricae [AcAn] 25 = Fs. Harmatta (1977 publ. 1980)"
+title: "Western Semites in Persepolis"
+previous_item: "18571"
+---

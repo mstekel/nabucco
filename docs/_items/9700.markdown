@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9700"
+occurrence_id: "2071"
+short_title: "JAOS 111 (1991), 323-332"
+author: "Rochberg-Halton, Francesca"
+publication_year: "1991"
+title: "The Babylonian Astronomical Diaries"
+volume_no_: "111"
+pages: "323-332"
+journal: "Journal of the American Oriental Society"
+title: "The Babylonian Astronomical Diaries"
+previous_item: "9703"
+---

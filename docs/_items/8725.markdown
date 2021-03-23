@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8725"
+occurrence_id: "2860"
+short_title: "Or 27 (1958), 437"
+author: "Pohl, Alfred"
+publication_year: "1958"
+title: "Rv. R.A. Parker and W.H. Dubberstein, Babylonian Chronology (1957)"
+volume_no_: "27"
+pages: "437"
+journal: "Orientalia"
+title: "Rv. R.A. Parker and W.H. Dubberstein, Babylonian Chronology (1957)"
+previous_item: "8728"
+---

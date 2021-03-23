@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17317"
+occurrence_id: "766"
+short_title: "de Jong Ellis 1976"
+author: "de Jong Ellis, Maria "
+publication_year: "1976"
+title: "Agriculture and the State in Ancient Mesopotamia. An Introduction to Problems of Land Tenure, OPBF 1 (Philadelphia)"
+title: "Agriculture and the State in Ancient Mesopotamia. An Introduction to Problems of Land Tenure, OPBF 1 (Philadelphia)"
+previous_item: "17320"
+---

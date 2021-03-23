@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20446"
+occurrence_id: "4411"
+short_title: "Kaplan 2010"
+author: "Kaplan, G.H."
+publication_year: "2010"
+title: "Morphosyntactic Structure of the Premises in the Neo-Babylonian Laws."
+pages: "751-758"
+editor: "Kogan, Leonid"
+book: "Language in the Ancient Near East. Proceedings of the53e Rencontre Assyriologique Internationale, Vol 1, Part 2, RAI 53 (Winona Lake)"
+title: "Morphosyntactic Structure of the Premises in the Neo-Babylonian Laws."
+previous_item: "20449"
+---

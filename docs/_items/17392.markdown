@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17392"
+occurrence_id: "422"
+short_title: "Grantovskij 1964"
+author: "Grantovskij, Ë.A. "
+publication_year: "1964"
+title: "Die iranisch-sprechenden Stämme Vorderasiens im 9.-8. Jahrh. v. Chr. Autorreferat der Dissertation"
+title: "Die iranisch-sprechenden Stämme Vorderasiens im 9.-8. Jahrh. v. Chr. Autorreferat der Dissertation"
+previous_item: "17395"
+---

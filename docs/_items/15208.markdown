@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15208"
+occurrence_id: "1678"
+short_title: "BiOr 44 (1987 publ.1988), 547-549"
+author: "Weisberg, David B."
+publication_year: "1987 publ. 1988"
+title: "Rv. D.J. Wiseman, Nebuchadrezzar and Babylon (1985)"
+volume_no_: "44"
+pages: "547-549"
+journal: "Bibliotheca Orientalis"
+title: "Rv. D.J. Wiseman, Nebuchadrezzar and Babylon (1985)"
+previous_item: "15211"
+---

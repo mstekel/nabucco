@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17899"
+occurrence_id: "373"
+short_title: "Dandamayev 1985"
+author: "Dandamayev, Muhammed A. "
+publication_year: "1985"
+title: "A Political History of the Achaemenian Empire (in russian)"
+title: "A Political History of the Achaemenian Empire (in russian)"
+previous_item: "17902"
+---

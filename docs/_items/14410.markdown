@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14410"
+occurrence_id: "3405"
+short_title: "ZA 51 (1955), 270-273"
+author: "Eilers, Wilhelm"
+publication_year: "1955"
+title: "Rv. G. Cardascia, Les archives des Murašû (Paris 1951)"
+volume_no_: "51"
+pages: "270-273"
+journal: "Zeitschrift für Assyriologie"
+title: "Rv. G. Cardascia, Les archives des Murašû (Paris 1951)"
+previous_item: "14413"
+---

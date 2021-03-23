@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14689"
+occurrence_id: "1904"
+short_title: "IIJ 17 (1975 publ. 1977), 245-247"
+author: "Zadok, Ran"
+publication_year: "1975 publ. 1977"
+title: "Iranian Names in Late Babylonian Documents"
+volume_no_: "17"
+pages: "245-247"
+journal: "Indo-Iranian Journal"
+title: "Iranian Names in Late Babylonian Documents"
+previous_item: "14692"
+---

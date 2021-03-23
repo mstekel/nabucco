@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18337"
+occurrence_id: "682"
+short_title: "PBS 1/2"
+author: "Lutz, Henry F. "
+publication_year: "1919"
+title: "Selected Sumerian and Babylonian Texts. PBS 1/2 (Philadelphia)"
+title: "Selected Sumerian and Babylonian Texts. PBS 1/2 (Philadelphia)"
+previous_item: "18340"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9937"
+occurrence_id: "3349"
+short_title: "WeOr 7/1 (1973), 96-134"
+author: "Cocquerillat, Denise"
+publication_year: "1973"
+title: "Recherces sur le verger du temple campagnard de l´Akitu (KIRI6 hallat)"
+volume_no_: "7/1."
+pages: "96-134"
+journal: "Die Welt des Orients"
+title: "Recherces sur le verger du temple campagnard de l´Akitu (KIRI6 hallat)"
+previous_item: "9940"
+---

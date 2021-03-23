@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21778"
+occurrence_id: "4897"
+short_title: "Chevaller 2001"
+author: "Chevalier, Nicole"
+publication_year: "2001"
+title: "Un voyage dans le Sud de la Mésopotamie, il y a cent ans"
+pages: "79-90"
+editor: "Breniquet, Catherine"
+book: "Études Mésopotamiennes, Fs. Huot (Paris)"
+title: "Un voyage dans le Sud de la Mésopotamie, il y a cent ans"
+previous_item: "21781"
+---

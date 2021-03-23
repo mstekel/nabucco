@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16066"
+occurrence_id: "3278"
+short_title: "UCP 10/8 (1937), 243-250"
+author: "Lutz, Henry F."
+publication_year: "1937"
+title: "An Uruk Document of the Time of Cambyses,"
+volume_no_: "10/VIII"
+pages: "243-250"
+journal: "University of California Publications"
+title: "An Uruk Document of the Time of Cambyses,"
+previous_item: "16069"
+---

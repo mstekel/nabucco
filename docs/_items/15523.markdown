@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15523"
+occurrence_id: "3375"
+short_title: "WZKM 90 (2000), 219-222"
+author: "Zawadzki, Stefan"
+publication_year: "2000"
+title: "A Neo-Babylonian Tablet with Aramaic Caption"
+volume_no_: "90"
+pages: "219-222"
+journal: "Wiener Zeitschrift für die Kunde des Morgenlandes"
+title: "A Neo-Babylonian Tablet with Aramaic Caption"
+previous_item: "15526"
+---

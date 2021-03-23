@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21175"
+occurrence_id: "4990"
+short_title: "Zadok 2003"
+author: "Zadok, Ran"
+publication_year: "2003"
+title: "The Representation of Foreigners in Neo- and Late-Babylonian Legal Documents (Eighth through Second Centuries B.C.E.)"
+pages: "471-590"
+editor: "Blenkinsopp, Joseph "
+book: "Judah and the Judeans in the Neo-Babylonian Period (Winona Lake)"
+title: "The Representation of Foreigners in Neo- and Late-Babylonian Legal Documents (Eighth through Second Centuries B.C.E.)"
+previous_item: "21178"
+---

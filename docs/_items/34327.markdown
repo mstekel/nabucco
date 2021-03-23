@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34327"
+place_id: "901"
+parent_id: "61"
+place_name: "Bitqu-ša-Bēl-ēṭir"
+title: "Bitqu-ša-Bēl-ēṭir"
+previous_item: "34330"
+---

@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "34933"
+place_id: "1531"
+parent_id: "37"
+place_name: "Bīt-Bēl-rēmanni"
+related_objects: "7481"
+title: "Bīt-Bēl-rēmanni"
+previous_item: "34936"
+---

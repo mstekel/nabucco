@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20767"
+occurrence_id: "5020"
+short_title: "van der Spek 1993a"
+author: "van der Spek, Robartus"
+publication_year: "1993"
+title: "Assyriology and History. A Comparative Study of War and Empire in Assyria, Ahens, and Rome"
+pages: "262-270"
+editor: "Snell, Daniel C."
+book: "The Tablet and the Scroll. Near Eastern Studies in Honor of William W. Hallo, Fs. Hallo (Bethesda)"
+title: "Assyriology and History. A Comparative Study of War and Empire in Assyria, Ahens, and Rome"
+previous_item: "20770"
+---

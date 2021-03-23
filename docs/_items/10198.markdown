@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10198"
+occurrence_id: "1735"
+short_title: "BiOr 67 (2010), 135-139"
+author: "Kozuh, Michael"
+publication_year: "2010"
+title: "Rv. S. Zawadzki, Garments of the Gods. Studies on the Textile Industry and the Pantheon of Sippar according to the Texts from the Ebabbar Archive (Freiburg and Göttingen 2006)"
+volume_no_: "67"
+pages: "135-139"
+journal: "Bibliotheca Orientalis"
+title: "Rv. S. Zawadzki, Garments of the Gods. Studies on the Textile Industry and the Pantheon of Sippar according to the Texts from the Ebabbar Archive (Freiburg and Göttingen 2006)"
+previous_item: "10201"
+---

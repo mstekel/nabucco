@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18271"
+occurrence_id: "266"
+short_title: "Nassouhi, MAOG 3/1-2 "
+author: "Nassouhi, Essad "
+publication_year: "1927"
+title: "Textes divers relatifs à l’histoire de l’Assyrie, MAOG 3/1-2"
+title: "Textes divers relatifs à l’histoire de l’Assyrie, MAOG 3/1-2"
+previous_item: "18274"
+---

@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "8674"
+occurrence_id: "2587"
+short_title: "NABU 1998/20"
+author: "Zadok, Ran"
+title: "West Semitic names in Neo-Assyrian sources"
+volume_no_: "20"
+publication_year: "1998"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "West Semitic names in Neo-Assyrian sources"
+previous_item: "8677"
+---

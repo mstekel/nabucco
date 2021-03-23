@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "7576"
+occurrence_id: "2714"
+short_title: "NABU 2008/59"
+author: "Koch, Johannes"
+title: "Stammt die Planisphäre K 8538 aus sumerischer Zeit?"
+volume_no_: "59"
+publication_year: "2008"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Stammt die Planisphäre K 8538 aus sumerischer Zeit?"
+previous_item: "7579"
+---

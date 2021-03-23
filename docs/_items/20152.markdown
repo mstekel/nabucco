@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20152"
+occurrence_id: "5049"
+short_title: "Da Riva 2009"
+author: "Da Riva, Rocío"
+publication_year: "2009"
+title: "The Nebuchadnezzar Rock Inscription at Nahr el-Kalb."
+pages: "255-301"
+editor: "Maila-Afeiche, Anne-Marie"
+book: "Le Site de Nahr el-Kalb BAAL, Hors-Série 5  (Beirut)"
+title: "The Nebuchadnezzar Rock Inscription at Nahr el-Kalb."
+previous_item: "20155"
+---

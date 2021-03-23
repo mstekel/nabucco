@@ -1,0 +1,10 @@
+---
+layout: "glossary"
+slug: "35515"
+concept_id: "1207"
+label: "Adoption"
+hierarchy: "Content type"
+type: "172"
+title: "Adoption"
+previous_item: "35518"
+---

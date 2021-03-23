@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21268"
+occurrence_id: "4383"
+short_title: "Joannès 2013"
+author: "Joannès, Francis"
+publication_year: "2013"
+title: "Quand le roi mange comme un dieu … Les tranferts entre table divine et table royale en Assyrie et en Babylonie au 1er millénaire av. J.-C."
+pages: "327-342"
+editor: "Lion, Brigitte"
+book: "Le banquet du monarque dans le monde antique (Rennes Tours)"
+title: "Quand le roi mange comme un dieu … Les tranferts entre table divine et table royale en Assyrie et en Babylonie au 1er millénaire av. J.-C."
+previous_item: "21271"
+---

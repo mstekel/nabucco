@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8293"
+occurrence_id: "3558"
+short_title: "ZDMG 131 (1981), 42-84"
+author: "Zadok, Ran"
+publication_year: "1981"
+title: "Arabians in Mesopotamia during the Late-Assyrian, Chaldean, Achaemenian and Hellenistic Periods Chiefly According to Cuneiform Sources"
+volume_no_: "131"
+pages: "42-84"
+journal: "Zeitschrift der Deutschen Morgenländischen Gesellschaft"
+title: "Arabians in Mesopotamia during the Late-Assyrian, Chaldean, Achaemenian and Hellenistic Periods Chiefly According to Cuneiform Sources"
+previous_item: "8296"
+---

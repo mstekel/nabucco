@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16165"
+occurrence_id: "3812"
+short_title: "OA 9 (1970), 197-198"
+author: "Zaccagnini, Carlo"
+publication_year: "1970"
+title: "Rv. S.S. Ahmed, Southern Mesopotamia in the Time of Ashurbanipal"
+volume_no_: "9"
+pages: "197-198"
+journal: "Oriens Antiquus"
+title: "Rv. S.S. Ahmed, Southern Mesopotamia in the Time of Ashurbanipal"
+previous_item: "16168"
+---

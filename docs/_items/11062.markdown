@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11062"
+occurrence_id: "3399"
+short_title: "ZA 49 (1949), 50-58"
+author: "Schaumberger, Johann"
+publication_year: "1949"
+title: "Die Mondfinsternisse der Dritten Dynastie von Ur"
+volume_no_: "49"
+pages: "50-58"
+journal: "Zeitschrift für Assyriologie"
+title: "Die Mondfinsternisse der Dritten Dynastie von Ur"
+previous_item: "11065"
+---

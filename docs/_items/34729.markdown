@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34729"
+place_id: "241"
+parent_id: "40"
+place_name: "Bīt-Daddija"
+title: "Bīt-Daddija"
+previous_item: "34732"
+---

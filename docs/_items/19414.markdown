@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19414"
+occurrence_id: "4406"
+short_title: "Fales 2000a"
+author: "Fales, Frederick Mario"
+publication_year: "2000"
+title: "The Use and Function of Aramaic Tablets"
+pages: "89-124"
+editor: "Brunnens, G."
+book: "Essays on Syria and theIran Age, ANES Supplement 7 (Louvain, Paris and Sterlin)"
+title: "The Use and Function of Aramaic Tablets"
+previous_item: "19417"
+---

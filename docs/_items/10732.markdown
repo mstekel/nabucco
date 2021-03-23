@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10732"
+occurrence_id: "1622"
+short_title: "BiAr 26 (1963), 110-121"
+author: "Cross, Frank M."
+publication_year: "1963"
+title: "The Discovery of the Samaria Papyri"
+volume_no_: "26"
+pages: "110-121"
+journal: "The Biblical Archaeologist"
+title: "The Discovery of the Samaria Papyri"
+previous_item: "10735"
+---

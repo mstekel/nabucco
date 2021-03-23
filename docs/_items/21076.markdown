@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21076"
+occurrence_id: "4462"
+short_title: "Giovinazzo 2000"
+author: "Giovinazzo, Grazia"
+publication_year: "2000"
+title: "La parola kassu nei testi neo-elamiti di Susa"
+pages: "375-382"
+editor: "Graziani, Simonetta"
+book: "Studi sul vicino oriente antico dedicati alla memoria di Luigi Cagni (Napoli)"
+title: "La parola kassu nei testi neo-elamiti di Susa"
+previous_item: "21079"
+---

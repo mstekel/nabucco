@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16984"
+occurrence_id: "294"
+short_title: "Studies Oppenheim"
+author: ",  "
+publication_year: "1964"
+title: "Studies Presented to A. Leo Oppenheim, June 7, 1964"
+title: "Studies Presented to A. Leo Oppenheim, June 7, 1964"
+previous_item: "16987"
+---

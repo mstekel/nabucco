@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12367"
+occurrence_id: "1415"
+short_title: "AoF 14 (1987), 247-251"
+author: "Petschow, Herbert"
+publication_year: "1987"
+title: "Zwei spätbabylonische Rechtsurkunden"
+volume_no_: "14"
+pages: "247-251"
+journal: "Altorientalische Forschungen"
+title: "Zwei spätbabylonische Rechtsurkunden"
+previous_item: "12370"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15232"
+occurrence_id: "1809"
+short_title: "BSOAS 61 (1998), 125-126"
+author: "Rupprecht, H.-A."
+publication_year: "1998"
+title: "Rv. M.J. Geller and H. Maehler (eds), Legal Documents of the Hellenistic World (London 1995)"
+volume_no_: "61"
+pages: "125-126"
+journal: "Bulletin of the School of Oriental and African Studies"
+title: "Rv. M.J. Geller and H. Maehler (eds), Legal Documents of the Hellenistic World (London 1995)"
+previous_item: "15235"
+---

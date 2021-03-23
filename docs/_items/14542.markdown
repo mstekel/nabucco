@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14542"
+occurrence_id: "269"
+short_title: "Pinches, AfO 13"
+author: "Pinches, Theophilus G."
+publication_year: "1939-41"
+title: "Keilschrifttexte nach Kopien, aus dem Nachlass, veröffentlicht und bearbeitet   "
+volume_no_: "13"
+pages: "46-54 (+ pls. I-IV) "
+related_objects: "6017"
+title: "Keilschrifttexte nach Kopien, aus dem Nachlass, veröffentlicht und bearbeitet   "
+previous_item: "14545"
+---

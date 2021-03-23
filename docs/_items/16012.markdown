@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16012"
+occurrence_id: "2990"
+short_title: "PSBA 6 (1883-84), 195-204"
+author: "Pinches, Theophilus G."
+publication_year: "1883-84"
+title: "The Babylonian Kings of the Second Period, 2232 B.C., to the End of the Existence of the kingdom"
+volume_no_: "6"
+pages: "195-204"
+journal: "Proceedings of the Society of Biblical Archaeology"
+title: "The Babylonian Kings of the Second Period, 2232 B.C., to the End of the Existence of the kingdom"
+previous_item: "16015"
+---

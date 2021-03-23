@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17425"
+occurrence_id: "618"
+short_title: "van Praag 1945"
+author: "van Praag, Arnold "
+publication_year: "1945"
+title: "Droit matrimonial Assyro-Babylonien"
+title: "Droit matrimonial Assyro-Babylonien"
+previous_item: "17428"
+---

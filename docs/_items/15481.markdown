@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15481"
+occurrence_id: "3149"
+short_title: "RIDA 3e Série 20 (1973 publ. 1974), 43-50"
+author: "Szlechter, Émile"
+publication_year: "1973 publ. 1974"
+title: "Les Lois Néo-Babyloniennes (III)"
+volume_no_: "3/20."
+pages: "43-50"
+journal: "Revue Internationale des Droits de l'Antiquité"
+title: "Les Lois Néo-Babyloniennes (III)"
+previous_item: "15484"
+---

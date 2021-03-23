@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11203"
+occurrence_id: "1147"
+short_title: "AcAntHung 14 (1966), 255-283"
+author: "Harmatta, János"
+publication_year: "1966"
+title: "The Bisitun Inscription and the Introduction of the Old Persian Cuneiform Script"
+volume_no_: "14"
+pages: "255-283"
+journal: "Acta Antiqua Academiae Scientiarum Hungaricae"
+title: "The Bisitun Inscription and the Introduction of the Old Persian Cuneiform Script"
+previous_item: "11206"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21373"
+occurrence_id: "4943"
+short_title: "Berger 1993"
+author: "Berger, Paul-R."
+publication_year: "1993"
+title: "Imaginäre Astrologie in spätbabylonischer Propaganda"
+pages: "275-289"
+editor: "Galter, Hannes , D."
+book: "Die Rolle der Astronomie in den Kulturen Mesopotamiens, GMS 3 (Graz)"
+title: "Imaginäre Astrologie in spätbabylonischer Propaganda"
+previous_item: "21376"
+---

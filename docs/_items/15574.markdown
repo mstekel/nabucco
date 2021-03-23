@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15574"
+occurrence_id: "3651"
+short_title: "BNF 5 (1970), 219-222"
+author: "Schmitt, Rüdiger"
+publication_year: "1970"
+title: "Rv. E. Herzfeld, the Persian Empire"
+volume_no_: "5"
+pages: "219-222"
+journal: "Beiträge zur Namenforschung"
+title: "Rv. E. Herzfeld, the Persian Empire"
+previous_item: "15577"
+---

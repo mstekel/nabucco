@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33847"
+place_id: "313"
+parent_id: "40"
+place_name: "Bīt-Murašû"
+title: "Bīt-Murašû"
+previous_item: "33850"
+---

@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18019"
+occurrence_id: "320"
+short_title: "Bezold 1926"
+author: "Bezold, Carl "
+publication_year: "1926"
+title: "Babylonisch-assyrisches Glossar"
+title: "Babylonisch-assyrisches Glossar"
+previous_item: "18022"
+---

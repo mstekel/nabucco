@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "20614"
+occurrence_id: "4203"
+short_title: "Lafont 2001"
+author: "Lafont, Bertrand"
+publication_year: "2001"
+title: "Fortunes, héritages et patrimoines dans la haute histoire Mésopotamienne. À propos de quelques inventaires de biens mobiliers"
+pages: "295-313"
+editor: "Breniquet, Catherine"
+title: "Fortunes, héritages et patrimoines dans la haute histoire Mésopotamienne. À propos de quelques inventaires de biens mobiliers"
+previous_item: "20617"
+---

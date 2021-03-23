@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7852"
+occurrence_id: "1173"
+short_title: "AfO 14 (1941-44), 172-195"
+author: "Weidner, Ernst F."
+publication_year: "1941-44"
+title: "Die astrologische Serie Enûma Anu Enlil"
+volume_no_: "14"
+pages: "172-195"
+journal: "Archiv für Orientforschung"
+title: "Die astrologische Serie Enûma Anu Enlil"
+previous_item: "7855"
+---

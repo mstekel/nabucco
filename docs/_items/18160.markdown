@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18160"
+occurrence_id: "393"
+short_title: "Driver 1955"
+author: "Driver, Godfrey R. "
+publication_year: "1955"
+title: "The Babylonian Laws, Vol. I, II"
+title: "The Babylonian Laws, Vol. I, II"
+previous_item: "18163"
+---

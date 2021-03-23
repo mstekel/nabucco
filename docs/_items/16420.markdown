@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16420"
+occurrence_id: "2163"
+short_title: "JCS 24 (1972), 105-106"
+author: "Sack, Ronald H."
+publication_year: "1972"
+title: "Some Miscellaneous Neo-Babylonian Documents"
+volume_no_: "24"
+pages: "105-106"
+journal: "Journal of Cuneiform Studies"
+title: "Some Miscellaneous Neo-Babylonian Documents"
+previous_item: "16423"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13993"
+occurrence_id: "1152"
+short_title: "AcAntHung 22 (1974 publ. 1976), 433-444"
+author: "Dandamayev, Muhammed A."
+publication_year: "1974"
+title: "Social Stratification in Babylonia (7th-4th Centuries B.C.)"
+volume_no_: "22"
+pages: "433-444"
+journal: "Acta Antiqua Academiae Scientiarum Hungaricae"
+title: "Social Stratification in Babylonia (7th-4th Centuries B.C.)"
+previous_item: "13996"
+---

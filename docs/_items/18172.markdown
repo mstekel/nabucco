@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18172"
+occurrence_id: "467"
+short_title: "Klíma 1988"
+author: "Klíma, Otokar "
+publication_year: "1988"
+title: "Ruhm und Untergang des Alten Iran"
+title: "Ruhm und Untergang des Alten Iran"
+previous_item: "18175"
+---

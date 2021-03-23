@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20911"
+occurrence_id: "4685"
+short_title: "Doty 1993"
+author: "Doty, L. Timothy"
+publication_year: "1993"
+title: "Akkadian bīt pirišti"
+pages: "87-89"
+editor: "Snell, Daniel C."
+book: "The Tablet and the Scroll. Near Eastern Studies in Honor of William W. Hallo, Fs. Hallo (Bethesda)"
+title: "Akkadian bīt pirišti"
+previous_item: "20914"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20887"
+occurrence_id: "4557"
+short_title: "Glassner 2001"
+author: "Glassner, Jean-Jacques"
+publication_year: "2001"
+title: "Quelques questions sur les femmes en Mésopotamie"
+pages: "211-214"
+editor: "Breniquet, Catherine"
+book: "Études Mésopotamiennes, Fs. Huot (Paris)"
+title: "Quelques questions sur les femmes en Mésopotamie"
+previous_item: "20890"
+---

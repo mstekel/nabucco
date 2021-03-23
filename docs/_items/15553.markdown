@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15553"
+occurrence_id: "3539"
+short_title: "ZDMG 104 (1954), 490-492"
+author: "Hinz, Walther"
+publication_year: "1954"
+title: "Rv. E.F. Schmidt, Persepolis I: Structures, Reliefs, Inscriptions"
+volume_no_: "104"
+pages: "490-492"
+journal: "Zeitschrift der Deutschen Morgenländischen Gesellschaft"
+title: "Rv. E.F. Schmidt, Persepolis I: Structures, Reliefs, Inscriptions"
+previous_item: "15556"
+---

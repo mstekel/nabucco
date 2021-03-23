@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21241"
+occurrence_id: "4238"
+short_title: "Tuplin 1998"
+author: "Tuplin, Christopher"
+publication_year: "1998"
+title: "The Seasonal Migration of Achaemenid Kings: A Report on Old and New Evidence"
+pages: "63-114"
+editor: "Kuhrt, Amélie"
+book: "Studies in Persian History, Fs. Lewis, (Leiden)"
+title: "The Seasonal Migration of Achaemenid Kings: A Report on Old and New Evidence"
+previous_item: "21244"
+---

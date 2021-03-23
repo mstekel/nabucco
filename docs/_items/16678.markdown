@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16678"
+occurrence_id: "777"
+short_title: "Ebeling 1949 (NBr)"
+author: "Ebeling, Erich "
+publication_year: "1949"
+title: "Neubabylonische Briefe ABAW NF 30 (München)"
+title: "Neubabylonische Briefe ABAW NF 30 (München)"
+previous_item: "16681"
+---

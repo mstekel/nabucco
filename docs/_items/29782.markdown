@@ -1,0 +1,16 @@
+---
+layout: "tablet"
+slug: "29782"
+object_id: "7337"
+museum_no_: "BM 30688"
+publication: "Kleber, ZAR 16 (2010)"
+page_number: "68"
+duplicate: "BM 31438"
+imported: "Kathleen Abraham (18/04/2016)"
+publication_name: "Kleber, ZAR 16 (2010) "
+archive: "Egibi/Nūr-Sîn"
+bibliography: "Kleber ZAR 18 (2012)"
+related_objects: "4355"
+title: "BM 30688"
+previous_item: "29785"
+---

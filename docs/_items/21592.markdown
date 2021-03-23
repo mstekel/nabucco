@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "21592"
+occurrence_id: "5008"
+short_title: "Delbrueck 1955/1956"
+author: "Delbrueck, Richard"
+publication_year: "1955/1956"
+title: "Südasiatische Seefahrt im Altertum,"
+pages: "8-58."
+book: "Bonner Jahrbücher 155/156 (1955/1956)"
+title: "Südasiatische Seefahrt im Altertum,"
+previous_item: "21595"
+---

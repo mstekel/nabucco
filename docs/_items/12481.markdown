@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12481"
+occurrence_id: "2028"
+short_title: "JA 260 (1972), 15-37"
+author: "Malbran-Labat, Florence"
+publication_year: "1972"
+title: "La Babylonie du Sud du XIIe au VIIe siècle avant notre ère, d´après deux ouvrages récents"
+volume_no_: "260"
+pages: "15-37"
+journal: "Journal Asiatique"
+title: "La Babylonie du Sud du XIIe au VIIe siècle avant notre ère, d´après deux ouvrages récents"
+previous_item: "12484"
+---

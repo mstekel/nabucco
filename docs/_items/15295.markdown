@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15295"
+occurrence_id: "2145"
+short_title: "JCS 1 (1947), 217-218"
+author: "Neugebauer, Otto"
+publication_year: "1947"
+title: "Unusual Writings in Seleucid Astronomical Texts"
+volume_no_: "1"
+pages: "217-218"
+journal: "Journal of Cuneiform Studies"
+title: "Unusual Writings in Seleucid Astronomical Texts"
+previous_item: "15298"
+---

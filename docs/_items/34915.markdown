@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "34915"
+place_id: "1425"
+parent_id: "55"
+place_name: "Bīt-Hulummu"
+related_objects: "5781"
+title: "Bīt-Hulummu"
+previous_item: "34918"
+---

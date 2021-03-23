@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20983"
+occurrence_id: "5069"
+short_title: "Borger 1970"
+author: "Borger, Rykle"
+publication_year: "1970"
+title: "Nebukadnezar"
+pages: "890-894"
+editor: "Pauly, August , Friedrich"
+book: "Paulys Realencyclopädie der classischen Altertumswissenschaft, Suppl. 12 (Stuttgart)"
+title: "Nebukadnezar"
+previous_item: "20986"
+---

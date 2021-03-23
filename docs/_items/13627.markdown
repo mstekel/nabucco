@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13627"
+occurrence_id: "2191"
+short_title: "JCS 46 (1994), 59-72"
+author: "Bongenaar, A.C.V.M."
+publication_year: "1994"
+title: "Egyptians in Neo-Babylonian Sippar"
+volume_no_: "46"
+pages: "59-72"
+journal: "Journal of Cuneiform Studies"
+title: "Egyptians in Neo-Babylonian Sippar"
+previous_item: "13630"
+---

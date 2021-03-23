@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19720"
+occurrence_id: "4935"
+short_title: "Beaulieu 2007a"
+author: "Beaulieu, Paul-A."
+publication_year: "2007"
+title: "Nabonidus the Mad King: A Reconsideration of his Steles from Harran and Babylon."
+pages: "137-166"
+editor: "Feldman, M.H."
+book: "Representations of Political Power. Case Histories from Times of Change and Dissolving Order in the Ancient Near East (Winona Lake)"
+title: "Nabonidus the Mad King: A Reconsideration of his Steles from Harran and Babylon."
+previous_item: "19723"
+---

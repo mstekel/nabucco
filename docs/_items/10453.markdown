@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10453"
+occurrence_id: "3108"
+short_title: "RA 94 (2000), 190-191"
+author: "Lemaire, André"
+publication_year: "2000"
+title: "Rv. D.S. Vanderhooft, The Neo-Babylonian Empire and Babylon in the Latter Prophets (Harvard Semitic Monographs 59, Atlanta 1999)"
+volume_no_: "94"
+pages: "190-191"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "Rv. D.S. Vanderhooft, The Neo-Babylonian Empire and Babylon in the Latter Prophets (Harvard Semitic Monographs 59, Atlanta 1999)"
+previous_item: "10456"
+---

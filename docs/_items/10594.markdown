@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10594"
+occurrence_id: "3882"
+short_title: "ZKM 2 (1839), 177ff. + pl.C"
+author: "Grotefend, Georg-Frieddrich"
+publication_year: "1839"
+title: "Urkunden in babylonischer Keilschrift, zweiter Beitrag"
+volume_no_: "2"
+pages: "177ff. + pl.C"
+journal: "Zeitschrift fur die Kunde des Morgenlandes"
+title: "Urkunden in babylonischer Keilschrift, zweiter Beitrag"
+previous_item: "10597"
+---

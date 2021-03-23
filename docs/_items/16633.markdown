@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16633"
+occurrence_id: "490"
+short_title: "Lambert 1960"
+author: "Lambert, Wilfred G. "
+publication_year: "1960"
+title: "Babylonian Wisdom Literature"
+title: "Babylonian Wisdom Literature"
+previous_item: "16636"
+---

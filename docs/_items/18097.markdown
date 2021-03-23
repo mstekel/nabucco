@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18097"
+occurrence_id: "807"
+short_title: "Hinz 1975a"
+author: "Hinz, Walther "
+publication_year: "1975"
+title: "Altiranisches Sprachgut der Nebenüberlieferungen, Göttinger Orientforschungen. Veröffentlichungen des Sonderforschungsbereiches Orientalistik an der Georg-August-Universität Göttingen. Reihe III: Iranica 3 (Wiesbaden)"
+title: "Altiranisches Sprachgut der Nebenüberlieferungen, Göttinger Orientforschungen. Veröffentlichungen des Sonderforschungsbereiches Orientalistik an der Georg-August-Universität Göttingen. Reihe III: Iranica 3 (Wiesbaden)"
+previous_item: "18100"
+---

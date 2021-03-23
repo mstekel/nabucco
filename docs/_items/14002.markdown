@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14002"
+occurrence_id: "1203"
+short_title: "AfO 22 (1968-69), 65-75"
+author: "Weidner, Ernst F."
+publication_year: "1968-69"
+title: "Die astrologische Serie Enûma Anu Enlil"
+volume_no_: "22"
+pages: "65-75"
+journal: "Archiv für Orientforschung"
+title: "Die astrologische Serie Enûma Anu Enlil"
+previous_item: "14005"
+---

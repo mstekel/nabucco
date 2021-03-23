@@ -1,0 +1,12 @@
+---
+layout: "bibliography"
+slug: "12292"
+occurrence_id: "4014"
+short_title: "BMCR 2016/06/11"
+author: "Rojas, Felipe"
+publication_year: "2016"
+title: "Rv. E.R.M. Dusinberre, Empire, Authority, and Autonomy in Achaemenid Anatolia"
+volume_no_: "20116/06/11"
+title: "Rv. E.R.M. Dusinberre, Empire, Authority, and Autonomy in Achaemenid Anatolia"
+previous_item: "12295"
+---

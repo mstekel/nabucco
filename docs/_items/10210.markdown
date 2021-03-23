@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10210"
+occurrence_id: "1800"
+short_title: "BSOAS 54 (1991), 374-376"
+author: "Briant, Pierre"
+publication_year: "1991"
+title: "Rv. M.A. Dandamaev, The Culture and Social Institutions of Ancient Iran"
+volume_no_: "54"
+pages: "374-376"
+journal: "Bulletin of the School of Oriental and African Studies"
+title: "Rv. M.A. Dandamaev, The Culture and Social Institutions of Ancient Iran"
+previous_item: "10213"
+---

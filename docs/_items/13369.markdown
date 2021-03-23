@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13369"
+occurrence_id: "3807"
+short_title: "OA 17 (1978), 223-227"
+author: "Fales, Frederick Mario"
+publication_year: "1978"
+title: "Rv. M.D. Coogan, West Semitic Personal Names in the Murašû Documents (HSM 7)"
+volume_no_: "17"
+pages: "223-227"
+journal: "Oriens Antiquus"
+title: "Rv. M.D. Coogan, West Semitic Personal Names in the Murašû Documents (HSM 7)"
+previous_item: "13372"
+---

@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "21439"
+occurrence_id: "4191"
+short_title: "Hrouda, Hrouda and Spycket 2001"
+author: "Spycket, Agnès"
+publication_year: "2001"
+title: "Isin et Larsa: Évocation Rétrospective"
+pages: "509-511"
+editor: "Breniquet, Catherine"
+title: "Isin et Larsa: Évocation Rétrospective"
+previous_item: "21442"
+---

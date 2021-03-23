@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20503"
+occurrence_id: "4715"
+short_title: "Mayrhofer 1979"
+author: "Mayrhofer, Manfred"
+publication_year: "1979"
+title: "Medismen in der 1967 gefandenen Xerxes-Inschrift?"
+pages: "159-162;224"
+editor: "Schmitt, Rüdiger"
+book: "Ausgewählte Kleine Schriften I (Wiesbaden 1979) (article orig. publ. in Linguistica 13 (Ljubljana 1973), 97-101)."
+title: "Medismen in der 1967 gefandenen Xerxes-Inschrift?"
+previous_item: "20506"
+---

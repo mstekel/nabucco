@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13741"
+occurrence_id: "2805"
+short_title: "OLZ 80 (1985), 252-254"
+author: "Neumann, Hans"
+publication_year: "1985"
+title: "Rv. J.-M. Durand, Documents cunéiformes de la Ive Section de l'École pratique des Hautes Études I"
+volume_no_: "80"
+pages: "252-254"
+journal: "Orientalistische Literaturzeitung"
+title: "Rv. J.-M. Durand, Documents cunéiformes de la Ive Section de l'École pratique des Hautes Études I"
+previous_item: "13744"
+---

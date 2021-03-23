@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "20113"
+occurrence_id: "4841"
+short_title: "Dandamayev 1977 publ. 1980"
+author: "Dandamayev, Muhammed A."
+publication_year: "1977 publ. 1980"
+title: "The Dynasty of the Achaemenids in the Early Period"
+pages: "39-42"
+book: "Acta Antiqua Academiae Scientiarum Hungaricae [AcAn] 25 = Fs. Harmatta (1977 publ. 1980)"
+title: "The Dynasty of the Achaemenids in the Early Period"
+previous_item: "20116"
+---

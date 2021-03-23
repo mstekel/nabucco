@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17656"
+occurrence_id: "463"
+short_title: "King 1907 (CCEBK)"
+author: "King, Leonard W. "
+publication_year: "1907"
+title: "Chonicles concerning early Babylonian kings, 2 Vol."
+title: "Chonicles concerning early Babylonian kings, 2 Vol."
+previous_item: "17659"
+---

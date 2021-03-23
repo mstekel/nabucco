@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8743"
+occurrence_id: "2961"
+short_title: "OrS 49 (2000), 107-110"
+author: "Pedersén, Olof"
+publication_year: "2000"
+title: "The Cuneiform Tablet in Carolina Rediviva"
+volume_no_: "49"
+pages: "107-110"
+journal: "Orientalia Suecana"
+title: "The Cuneiform Tablet in Carolina Rediviva"
+previous_item: "8746"
+---

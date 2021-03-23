@@ -1,0 +1,9 @@
+---
+layout: "archive"
+slug: "22990"
+archive_id: "85"
+archive_name: "Ea-eppēš-ilī B"
+is_part_of: "Babylon"
+title: "Ea-eppēš-ilī B"
+previous_item: "22993"
+---

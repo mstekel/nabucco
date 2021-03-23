@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8572"
+occurrence_id: "2037"
+short_title: "JA 282 (1994), 219-236"
+author: "Glassner, Jean-Jacques"
+publication_year: "1994"
+title: "Ruhušak - mār ahatim. La transmission du pouvoir en Elam"
+volume_no_: "282"
+pages: "219-236"
+journal: "Journal Asiatique"
+title: "Ruhušak - mār ahatim. La transmission du pouvoir en Elam"
+previous_item: "8575"
+---

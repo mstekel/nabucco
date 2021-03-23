@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16627"
+occurrence_id: "451"
+short_title: "Junge 1944"
+author: "Junge, Peter Julius "
+publication_year: "1944"
+title: "Dareios I, König der Perser"
+title: "Dareios I, König der Perser"
+previous_item: "16630"
+---

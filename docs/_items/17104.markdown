@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "17104"
+occurrence_id: "147"
+short_title: "VS 6"
+author: "Ungnad, Arthur "
+publication_year: "1908"
+title: "Vorderasiatische Schriftdenkmäler der Königlichen Museen zu Berlin. 6"
+volume_no_: "6"
+related_objects: "8723"
+title: "Vorderasiatische Schriftdenkmäler der Königlichen Museen zu Berlin. 6"
+previous_item: "17107"
+---

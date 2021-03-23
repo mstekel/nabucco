@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "8362"
+occurrence_id: "3926"
+short_title: "JESHO 56 (2013), 29-52"
+author: "Colburn, Henry , P."
+publication_year: "2013"
+title: "Connectivity and Communication in the Achaemenid Empire"
+volume_no_: "56"
+pages: "29-52"
+title: "Connectivity and Communication in the Achaemenid Empire"
+previous_item: "8365"
+---

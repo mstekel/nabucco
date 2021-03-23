@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "18517"
+occurrence_id: "43"
+short_title: "ROMCT "
+author: "McEwan, Gilbert J.P. "
+publication_year: "1982"
+title: "The Late Babylonian Tablets in the Royal Ontario Museum, Royal Ontario Museum Cuneiform Texts, Vol. II (Toronto)"
+volume_no_: "2"
+related_objects: "1864"
+title: "The Late Babylonian Tablets in the Royal Ontario Museum, Royal Ontario Museum Cuneiform Texts, Vol. II (Toronto)"
+previous_item: "18520"
+---

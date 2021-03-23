@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19828"
+occurrence_id: "4408"
+short_title: "Duyrat 2004"
+author: "Duyrat, Frédérique"
+publication_year: "2004"
+title: "La circulation monétaire dans l'Orient séleucide (Syrie, Phénicie, Mésopotamie, Iran)"
+pages: "381-424"
+editor: "Duyrat, Frédérique"
+book: "Le roi et l'économie: Autonomies locales et structures royales dans l'économie de l'empire séleucide, Topoi Supplément 6 (Lyon)"
+title: "La circulation monétaire dans l'Orient séleucide (Syrie, Phénicie, Mésopotamie, Iran)"
+previous_item: "19831"
+---

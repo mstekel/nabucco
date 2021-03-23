@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17095"
+occurrence_id: "4104"
+short_title: "Seymour 2014"
+author: "Seymour, Michael "
+publication_year: "2014"
+title: "Babylon: Legend, History and the Ancient City (London/New York)"
+title: "Babylon: Legend, History and the Ancient City (London/New York)"
+previous_item: "17098"
+---

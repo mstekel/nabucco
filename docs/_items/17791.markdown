@@ -1,0 +1,12 @@
+---
+layout: "bibliography"
+slug: "17791"
+occurrence_id: "499"
+short_title: "Lorenz 2008"
+author: "Lorenz, Jürgen "
+publication_year: "2008"
+title: "Nebukadnezar III/IV. Die politischen Wirren nach dem Tod des Kambyses im Spiegel der Keilschrifttexte."
+related_objects: "7672"
+title: "Nebukadnezar III/IV. Die politischen Wirren nach dem Tod des Kambyses im Spiegel der Keilschrifttexte."
+previous_item: "17794"
+---

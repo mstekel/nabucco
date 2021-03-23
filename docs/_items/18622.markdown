@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "18622"
+occurrence_id: "4594"
+short_title: "Munn-Rankin 1966"
+author: "Munn-Rankin, Joan Margaret"
+publication_year: "1963"
+title: "Cyrus"
+pages: "959-960"
+book: "Encyclopaedia Britannica 6 (London)"
+title: "Cyrus"
+previous_item: "18625"
+---

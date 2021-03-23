@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34552"
+place_id: "955"
+parent_id: "61"
+place_name: "Dūr-gi[]"
+title: "Dūr-gi[]"
+previous_item: "34555"
+---

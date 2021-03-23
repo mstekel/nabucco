@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "16591"
+occurrence_id: "115"
+short_title: "CT 22"
+author: "Thompson, R. Campbell "
+publication_year: "1906"
+title: "Cuneiform Texts from Babylonian Tablets in the British Museum"
+volume_no_: "22"
+related_objects: "7076"
+title: "Cuneiform Texts from Babylonian Tablets in the British Museum"
+previous_item: "16594"
+---

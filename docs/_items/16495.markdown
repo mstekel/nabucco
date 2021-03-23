@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16495"
+occurrence_id: "431"
+short_title: "Gyles 1959"
+author: "Gyles, Mary F. "
+publication_year: "1959"
+title: "Pharonic Policies and Administration, 663 to 323 B.C."
+title: "Pharonic Policies and Administration, 663 to 323 B.C."
+previous_item: "16498"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15310"
+occurrence_id: "2227"
+short_title: "JEOL 33 (1993-1994), 109-142"
+author: "Bongenaar, A.C.V.M."
+publication_year: "1993-1994"
+title: "Cuneiform Tablets in the Schoneveld Collection. Appendix by Claudia Fischer"
+volume_no_: "33"
+pages: "109-142"
+journal: "Jaarbericht van het Voor-Aziatisch-Egyptisch-Gezelschap Ex Oriente Lux"
+title: "Cuneiform Tablets in the Schoneveld Collection. Appendix by Claudia Fischer"
+previous_item: "15313"
+---

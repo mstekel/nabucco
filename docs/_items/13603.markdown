@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13603"
+occurrence_id: "2062"
+short_title: "JAOS 104 (1984 publ. 1985), 372-373"
+author: "Sweet, R.F.G."
+publication_year: "1984 publ. 1985"
+title: "Rv. D. Charpin and J.-M. Durand, Documents cunéiformes de Strasbourg. Tome 1: Autographies, Paris 1981"
+volume_no_: "104"
+pages: "372-373"
+journal: "Journal of the American Oriental Society"
+title: "Rv. D. Charpin and J.-M. Durand, Documents cunéiformes de Strasbourg. Tome 1: Autographies, Paris 1981"
+previous_item: "13606"
+---

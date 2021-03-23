@@ -1,0 +1,15 @@
+---
+layout: "bibliography"
+slug: "12358"
+occurrence_id: "1365"
+short_title: "Anatolica 14 (1987), 107-139"
+author: "Joannès, Francis"
+publication_year: "1987"
+title: "Fragments de Nippur d'époque néo-babylonienne"
+volume_no_: "14"
+pages: "107-139"
+related_objects: "8508"
+journal: "Anatolica"
+title: "Fragments de Nippur d'époque néo-babylonienne"
+previous_item: "12361"
+---

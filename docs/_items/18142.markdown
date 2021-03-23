@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "18142"
+occurrence_id: "265"
+short_title: "AUWE 8"
+author: "Kessler, Karlheinz "
+publication_year: "1991"
+title: "Uruk. Urkunden aus Privathäusern in Uruk. Die Wohnhäuser westlich des Eanna-Tempelbereichs. Teil: Die Archive der Söhne des Bēl-ušallim, des Nabû-ušallim and des Bēl-supê-muhur "
+volume_no_: "8"
+related_objects: "5813"
+title: "Uruk. Urkunden aus Privathäusern in Uruk. Die Wohnhäuser westlich des Eanna-Tempelbereichs. Teil: Die Archive der Söhne des Bēl-ušallim, des Nabû-ušallim and des Bēl-supê-muhur "
+previous_item: "18145"
+---

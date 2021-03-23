@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16015"
+occurrence_id: "3006"
+short_title: "RA 12 (1915), 85-113"
+author: "Cuq, Édouard"
+publication_year: "1915"
+title: "Le droit de gage en Chaldée à l'époque néobabylonienne"
+volume_no_: "12"
+pages: "85-113"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "Le droit de gage en Chaldée à l'époque néobabylonienne"
+previous_item: "16018"
+---

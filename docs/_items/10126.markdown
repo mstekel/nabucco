@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10126"
+occurrence_id: "1345"
+short_title: "AMI 25 (1992 publ. 1993), 169-172"
+author: "Dandamayev, Muhammed A."
+publication_year: "1992 publ. 1993"
+title: "Was Eanna Destroyed by Darius I?"
+volume_no_: "25"
+pages: "169-172"
+journal: "Archäologische Mitteilungen aus Iran"
+title: "Was Eanna Destroyed by Darius I?"
+previous_item: "10129"
+---

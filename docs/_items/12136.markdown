@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12136"
+occurrence_id: "3175"
+short_title: "Saeculum 19 (1968), 143-155"
+author: "Jaritz, Kurt"
+publication_year: "1968"
+title: "Der Untergang des babylonischen Reiches"
+volume_no_: "19"
+pages: "143-155"
+journal: "Saeculum"
+title: "Der Untergang des babylonischen Reiches"
+previous_item: "12139"
+---

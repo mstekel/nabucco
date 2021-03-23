@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13054"
+occurrence_id: "2109"
+short_title: "JAOS 40 (1920), 333-336"
+author: "Keiser, Clarence , E."
+publication_year: "1920"
+title: "An Assyrian Tablet found in Bombay [copy, etc. by C.E. Keiser],"
+volume_no_: "40"
+pages: "333-336"
+journal: "Journal of the American Oriental Society"
+title: "An Assyrian Tablet found in Bombay [copy, etc. by C.E. Keiser],"
+previous_item: "13057"
+---

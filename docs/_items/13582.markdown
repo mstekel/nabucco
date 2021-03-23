@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13582"
+occurrence_id: "1950"
+short_title: "Iraq 20 (1958), 1-99 pl.1-53"
+author: "Wiseman, Donald J."
+publication_year: "1958"
+title: "The Vassal Treaties of Esarhaddon,"
+volume_no_: "20"
+pages: "1-99 pl. 1-53"
+journal: "Iraq"
+title: "The Vassal Treaties of Esarhaddon,"
+previous_item: "13585"
+---

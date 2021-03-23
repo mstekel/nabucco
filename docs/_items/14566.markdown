@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14566"
+occurrence_id: "1238"
+short_title: "AfO 44/45 (1997/1998), 425-426"
+author: "Baker, Heather D."
+publication_year: "1997-1998"
+title: "Rv. P.-A Beaulieu, Late Babylonian Texts in the Nies Babylonian Collection"
+volume_no_: "44-45"
+pages: "425-426"
+journal: "Archiv für Orientforschung"
+title: "Rv. P.-A Beaulieu, Late Babylonian Texts in the Nies Babylonian Collection"
+previous_item: "14569"
+---

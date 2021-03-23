@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12679"
+occurrence_id: "3096"
+short_title: "RA 89 (1995), 109-137"
+author: "Castel, Corinne"
+publication_year: "1995"
+title: "Contexte archéologique et statut des documents: les textes retrouvés dans les maisons mésopotamiennes du 1er millénaire av. J.-C."
+volume_no_: "89"
+pages: "109-137"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "Contexte archéologique et statut des documents: les textes retrouvés dans les maisons mésopotamiennes du 1er millénaire av. J.-C."
+previous_item: "12682"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7765"
+occurrence_id: "3733"
+short_title: "JQR 36 (1944), 171-176"
+author: "Oppenheim, A. Leo"
+publication_year: "1944"
+title: "Assyriological Notes to the Old Testament"
+volume_no_: "36"
+pages: "171-176"
+journal: "Jewish Quarterly Review"
+title: "Assyriological Notes to the Old Testament"
+previous_item: "7768"
+---

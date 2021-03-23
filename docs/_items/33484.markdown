@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "33484"
+place_id: "1483"
+parent_id: "43"
+place_name: "Bīt-ša-Bēl-ūdu"
+related_objects: "6641"
+title: "Bīt-ša-Bēl-ūdu"
+previous_item: "33487"
+---

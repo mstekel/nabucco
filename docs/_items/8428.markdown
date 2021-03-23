@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8428"
+occurrence_id: "1260"
+short_title: "AfO 50 (2003/2004), 447-449"
+author: "Ehrenberg, Erica"
+publication_year: "2003-2004"
+title: "Rv. G. Lindstrom, Uruk: Siegelabdrücke auf hellenistischen Tonbullen und Tontafeln (AUWE 20)."
+volume_no_: "50"
+pages: "447-449"
+journal: "Archiv für Orientforschung"
+title: "Rv. G. Lindstrom, Uruk: Siegelabdrücke auf hellenistischen Tonbullen und Tontafeln (AUWE 20)."
+previous_item: "8431"
+---

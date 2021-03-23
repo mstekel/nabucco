@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19003"
+occurrence_id: "4420"
+short_title: "Tolini 2012"
+author: "Tolini, Gauthier"
+publication_year: "2012"
+title: "Le discours de domination de Cyrus, de Darius Ier et d’Alexandre le Grand sur la Babylonie (539-323)"
+pages: "259-96"
+editor: "Feyel, Christophe"
+book: "Communautés locales et pouvoir central dans l’Orient hellénistique et romain, Études Anciennes 47 (Nancy)"
+title: "Le discours de domination de Cyrus, de Darius Ier et d’Alexandre le Grand sur la Babylonie (539-323)"
+previous_item: "19006"
+---

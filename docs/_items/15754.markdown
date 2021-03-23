@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15754"
+occurrence_id: "1599"
+short_title: "BASOR 97 (1945), 27-29"
+author: "Oppenheim, A. Leo"
+publication_year: "1945"
+title: "The Neo-Babylonian Week Again"
+volume_no_: "97"
+pages: "27-29"
+journal: "Bulletin of the American Schools of Oriental Research"
+title: "The Neo-Babylonian Week Again"
+previous_item: "15757"
+---

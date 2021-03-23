@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9535"
+occurrence_id: "1176"
+short_title: "AfO 16 (1952/1953), 67-69"
+author: "Ebeling, Erich"
+publication_year: "1952-53"
+title: "Kriminalfälle aus Uruk,"
+volume_no_: "16"
+pages: "67-69"
+journal: "Archiv für Orientforschung"
+title: "Kriminalfälle aus Uruk,"
+previous_item: "9538"
+---

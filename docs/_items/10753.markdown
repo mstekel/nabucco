@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10753"
+occurrence_id: "1736"
+short_title: "BiOr 67 (2010), 142-146"
+author: "Pirngruber, Reinhard"
+publication_year: "2010"
+title: "Rv. P. Briant, W.F.M. Henkelman and M.W. Stolper (eds), L'archive des Fortifications de Persépolis (Parsi 2008)."
+volume_no_: "67"
+pages: "142-146"
+journal: "Bibliotheca Orientalis"
+title: "Rv. P. Briant, W.F.M. Henkelman and M.W. Stolper (eds), L'archive des Fortifications de Persépolis (Parsi 2008)."
+previous_item: "10756"
+---

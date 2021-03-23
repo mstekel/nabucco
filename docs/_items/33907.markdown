@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33907"
+place_id: "1276"
+parent_id: "61"
+place_name: "Tahūṭā"
+title: "Tahūṭā"
+previous_item: "33910"
+---

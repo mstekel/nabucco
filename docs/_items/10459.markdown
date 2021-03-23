@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10459"
+occurrence_id: "3140"
+short_title: "Rheinisches Museum für Philologie NF 129 (1986), 193-222"
+author: "Lendle, Otto"
+publication_year: "1986"
+title: "Xenophon in Babylonien. Die Märsche der Kyreer von Pylai bis Opis"
+volume_no_: "129"
+pages: "193-222"
+journal: "Rheinisches Museum für Philologie NF"
+title: "Xenophon in Babylonien. Die Märsche der Kyreer von Pylai bis Opis"
+previous_item: "10462"
+---

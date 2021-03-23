@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "35005"
+place_id: "1111"
+parent_id: "61"
+place_name: "Kār-Eanna"
+title: "Kār-Eanna"
+previous_item: "35008"
+---

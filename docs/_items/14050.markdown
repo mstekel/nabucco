@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14050"
+occurrence_id: "1466"
+short_title: "ArOr 24 (1957), 682-684"
+author: "Klíma, Josef"
+publication_year: "1957"
+title: "Rv. H. Petschow, Neubabylonisches Pfandrecht (Berlin 1956)"
+volume_no_: "24"
+pages: "682-684"
+journal: "Archív Orientalí"
+title: "Rv. H. Petschow, Neubabylonisches Pfandrecht (Berlin 1956)"
+previous_item: "14053"
+---

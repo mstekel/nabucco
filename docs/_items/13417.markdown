@@ -1,0 +1,15 @@
+---
+layout: "bibliography"
+slug: "13417"
+occurrence_id: "168"
+short_title: "Oppert, RA 1/1 (1884)"
+author: "Oppert, Jules"
+publication_year: "1884"
+title: "La vraie personnalité et 1es dates du roi Chiniladan"
+volume_no_: "1/1"
+pages: "1-11"
+related_objects: "5767"
+journal: "Revue d'Assyriologie et d'archéologie orientale"
+title: "La vraie personnalité et 1es dates du roi Chiniladan"
+previous_item: "13420"
+---

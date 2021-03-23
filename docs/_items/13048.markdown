@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13048"
+occurrence_id: "2077"
+short_title: "JAOS 114 (1995), 625-627"
+author: "Stolper, Matthew W."
+publication_year: "1995"
+title: "A Late-Achaemenid Lease from the Rich Collection"
+volume_no_: "114"
+pages: "625-627"
+journal: "Journal of the American Oriental Society"
+title: "A Late-Achaemenid Lease from the Rich Collection"
+previous_item: "13051"
+---

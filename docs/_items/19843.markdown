@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19843"
+occurrence_id: "4488"
+short_title: "Baker 2012"
+author: "Baker, Heather D."
+publication_year: "2012"
+title: "The Neo-Babylonian Empire"
+pages: "914-930"
+editor: "Potts, Daniel T."
+book: "A Companion to the Archaeology of the Ancient Near East, Volume II (Oxford)"
+title: "The Neo-Babylonian Empire"
+previous_item: "19846"
+---

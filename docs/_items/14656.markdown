@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14656"
+occurrence_id: "1727"
+short_title: "BiOr 62 (2005), 64-66"
+author: "Vargyas, Péter"
+publication_year: "2005"
+title: "Rv. G. van Driel, Elusive Silver. In search of a role for a market in an agrarian enviroment. Aspects of Mesopotamian Society. Leiden. 2002."
+volume_no_: "62"
+pages: "64-66"
+journal: "Bibliotheca Orientalis"
+title: "Rv. G. van Driel, Elusive Silver. In search of a role for a market in an agrarian enviroment. Aspects of Mesopotamian Society. Leiden. 2002."
+previous_item: "14659"
+---

@@ -1,0 +1,12 @@
+---
+layout: "bibliography"
+slug: "18385"
+occurrence_id: "4116"
+short_title: "Waerzeggers 2014"
+author: "Waerzeggers, Caroline "
+publication_year: "2014"
+title: "Marduk-rēmanni. Local Networks and Imperial Politics in Achaemenid Babylonia. OLA 233 (Leuven - Paris - Walpole)"
+related_objects: "6706"
+title: "Marduk-rēmanni. Local Networks and Imperial Politics in Achaemenid Babylonia. OLA 233 (Leuven - Paris - Walpole)"
+previous_item: "18388"
+---

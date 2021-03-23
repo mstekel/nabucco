@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21382"
+occurrence_id: "4991"
+short_title: "Zadok 2004"
+author: "Zadok, Ran"
+publication_year: "2004"
+title: "West Semites in South Babylonia According to Administrative and Epistolary Documents from the 9th-2nd Centuries BCE."
+pages: "199*-228*"
+editor: "Heltzer, Michael"
+book: "Teshurot LaAvishur, Festschrift Y. Avishur (Tel Aviv and Jaffa)"
+title: "West Semites in South Babylonia According to Administrative and Epistolary Documents from the 9th-2nd Centuries BCE."
+previous_item: "21385"
+---

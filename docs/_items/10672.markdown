@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10672"
+occurrence_id: "1296"
+short_title: "AJA 90 (1986), 3-31"
+author: "Sumner, William M."
+publication_year: "1986"
+title: "Achaemenid Settlement in the Persepolis Plain"
+volume_no_: "90"
+pages: "3-31"
+journal: "American Journal of Archaeology"
+title: "Achaemenid Settlement in the Persepolis Plain"
+previous_item: "10675"
+---

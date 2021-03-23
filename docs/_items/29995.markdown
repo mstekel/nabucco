@@ -1,0 +1,15 @@
+---
+layout: "tablet"
+slug: "29995"
+object_id: "7097"
+museum_no_: "BM 30942"
+publication: "CT 22"
+text_number: "148"
+period: "-"
+type_and_content: "Letters"
+publication_name: "CT 22 148"
+archive: "Egibi/Nūr-Sîn"
+bibliography: "reedition: Wunsch 1993, 321f."
+title: "BM 30942"
+previous_item: "29998"
+---

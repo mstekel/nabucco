@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34066"
+place_id: "271"
+parent_id: "40"
+place_name: "Bīt-Il-šakā"
+title: "Bīt-Il-šakā"
+previous_item: "34069"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18715"
+occurrence_id: "5090"
+short_title: "Karwiese 1990"
+author: "Karwiese, Stefan"
+publication_year: "1990"
+title: "Šiqlu, Kite und Stater. Der Weg zu einer neuen Metrologie des Altertums. 1. Mesopotamien"
+pages: "9-117"
+editor: "Caiozzo, Anna"
+book: "Prix, salaires, poids et mesures, Res orientales II (Paris)"
+title: "Šiqlu, Kite und Stater. Der Weg zu einer neuen Metrologie des Altertums. 1. Mesopotamien"
+previous_item: "18718"
+---

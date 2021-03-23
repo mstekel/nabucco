@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7924"
+occurrence_id: "1569"
+short_title: "BaM 28 (1997), 251-365"
+author: "Friberg, Jöran"
+publication_year: "1997"
+title: "Seed and Reeds Continued. Another Metro-Mathematical Topic Text from Late Babylonian Uruk"
+volume_no_: "28"
+pages: "251-365"
+journal: "Baghdader Mitteilungen"
+title: "Seed and Reeds Continued. Another Metro-Mathematical Topic Text from Late Babylonian Uruk"
+previous_item: "7927"
+---

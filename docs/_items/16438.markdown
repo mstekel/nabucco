@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16438"
+occurrence_id: "2261"
+short_title: "JNES 1 (1942), 369-372"
+author: "Oppenheim, A. Leo"
+publication_year: "1942"
+title: "The Neo-Babylonian Preposition LA"
+volume_no_: "1"
+pages: "396-372"
+journal: "Journal of Near Eastern Studies"
+title: "The Neo-Babylonian Preposition LA"
+previous_item: "16441"
+---

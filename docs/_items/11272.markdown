@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11272"
+occurrence_id: "1526"
+short_title: "Asociation Española de Orientalistas 39 (2003), 15-51."
+author: "Blázquez, J.M."
+publication_year: "2003"
+title: "Babilonia"
+volume_no_: "39"
+pages: "15-51"
+journal: "Asociation Española de Orientalistas"
+title: "Babilonia"
+previous_item: "11275"
+---

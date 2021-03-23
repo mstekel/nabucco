@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13264"
+occurrence_id: "3241"
+short_title: "Syria 45 (1968, publ. 1969), 411-412"
+author: "Amiet, Pierre"
+publication_year: "1968, publ. 1969"
+title: "Rv. B. Brentjes, Die iranische Welt vor Mohammed"
+volume_no_: "45"
+pages: "411-412"
+journal: "Syria"
+title: "Rv. B. Brentjes, Die iranische Welt vor Mohammed"
+previous_item: "13267"
+---

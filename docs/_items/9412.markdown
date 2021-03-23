@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9412"
+occurrence_id: "3544"
+short_title: "ZDMG 109 (1959), 205-206"
+author: "Schmidtke, Friedrich"
+publication_year: "1959"
+title: "Rv. R.A. Parker and W.H. Dubberstein, Babylonian Chronology 626 B.C. - A.D. 75"
+volume_no_: "109"
+pages: "205-206"
+journal: "Zeitschrift der Deutschen Morgenländischen Gesellschaft"
+title: "Rv. R.A. Parker and W.H. Dubberstein, Babylonian Chronology 626 B.C. - A.D. 75"
+previous_item: "9415"
+---

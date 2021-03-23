@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16234"
+occurrence_id: "1156"
+short_title: "AcAntHung 22 (1974), 45-78"
+author: "Diakonoff, Igor M."
+publication_year: "1974"
+title: "Slaves, Helots and Serfs in Early Antiquity"
+volume_no_: "22"
+pages: "45-78"
+journal: "Acta Antiqua Academiae Scientiarum Hungaricae"
+title: "Slaves, Helots and Serfs in Early Antiquity"
+previous_item: "16237"
+---

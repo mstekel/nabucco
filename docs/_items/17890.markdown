@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17890"
+occurrence_id: "319"
+short_title: "Berger 1966"
+author: "Berger, Paul-R. "
+publication_year: "1966"
+title: "Die literarische Gestalt der neubabylonischen Königsinschriften (Band I: I. Die Inschriften und ihr epigraphischer Befand. II. Das literarische Formular der Inschrift-Typen. III. Die inhaltliche Historizität der berichtenden Texte. Band II: Literatur)"
+title: "Die literarische Gestalt der neubabylonischen Königsinschriften (Band I: I. Die Inschriften und ihr epigraphischer Befand. II. Das literarische Formular der Inschrift-Typen. III. Die inhaltliche Historizität der berichtenden Texte. Band II: Literatur)"
+previous_item: "17893"
+---

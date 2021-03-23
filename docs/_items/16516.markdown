@@ -1,0 +1,12 @@
+---
+layout: "bibliography"
+slug: "16516"
+occurrence_id: "559"
+short_title: "Sack 1994 (Documents)"
+author: "Sack, Ronald H. "
+publication_year: "1994"
+title: "Cuneiform Documents from the Chaldean and Persian Periods"
+related_objects: "8196"
+title: "Cuneiform Documents from the Chaldean and Persian Periods"
+previous_item: "16519"
+---

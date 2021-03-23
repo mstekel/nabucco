@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11995"
+occurrence_id: "2414"
+short_title: "Mesopotamia 30 (1995), 51-215"
+author: "Golenko, Vladimir K."
+publication_year: "1995"
+title: "Notes on the Coinage and Currency of the Early Seleucid State-II-IV"
+volume_no_: "30"
+pages: "51-215"
+journal: "Mesopotamia"
+title: "Notes on the Coinage and Currency of the Early Seleucid State-II-IV"
+previous_item: "11998"
+---

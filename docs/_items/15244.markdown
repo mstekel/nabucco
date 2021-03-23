@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15244"
+occurrence_id: "1873"
+short_title: "FuB 16 (1975), 15-76"
+author: "Sarkisjan, Gagik Ch."
+publication_year: "1975"
+title: "New Cuneiform Texts from Uruk of the Seleucid Period in the Staatliche Museen zu Berlin"
+volume_no_: "16"
+pages: "15-76"
+journal: "Forschungen und Berichte, Staatliche Museen zu Berlin"
+title: "New Cuneiform Texts from Uruk of the Seleucid Period in the Staatliche Museen zu Berlin"
+previous_item: "15247"
+---

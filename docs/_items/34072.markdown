@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34072"
+place_id: "367"
+parent_id: "40"
+place_name: "Bīt-ša-rēši"
+title: "Bīt-ša-rēši"
+previous_item: "34075"
+---

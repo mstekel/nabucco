@@ -1,0 +1,13 @@
+---
+layout: "tablet"
+slug: "28354"
+object_id: "7467"
+nabucco_no_: "Binning6"
+museum_no_: "Binning 6"
+text_number: "105b"
+duplicate: "BM 62553"
+bibliography: "Walker and Kramer 1982, Iraq 44, no. 6"
+related_objects: "6622"
+title: "Binning 6"
+previous_item: "28357"
+---

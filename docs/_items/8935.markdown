@@ -1,0 +1,12 @@
+---
+layout: "bibliography"
+slug: "8935"
+occurrence_id: "3992"
+short_title: "NABU 2013/54"
+author: "Mitsuma, Yasuyuki"
+publication_year: "2013"
+title: "Large Wooden Writing Board Mentioned in the Astronomical Diary -213"
+volume_no_: "2013/54"
+title: "Large Wooden Writing Board Mentioned in the Astronomical Diary -213"
+previous_item: "8938"
+---

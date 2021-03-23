@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19318"
+occurrence_id: "4997"
+short_title: "Dittmann 2001"
+author: "Dittmann, Reinhard G."
+publication_year: "2001"
+title: "Nur Bilder oder mehr? Aspekte der Glyptikanalyse"
+pages: "85-101"
+editor: "Prechel, Doris"
+book: "Kulturgeschichten, Fs. Haas (Saarbrücken)"
+title: "Nur Bilder oder mehr? Aspekte der Glyptikanalyse"
+previous_item: "19321"
+---

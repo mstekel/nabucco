@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14068"
+occurrence_id: "1564"
+short_title: "BaM 22 (1991), 501-511"
+author: "Becker, Andrea"
+publication_year: "1991"
+title: "\"Altes\" and \"Neues\" Babylon"
+volume_no_: "22"
+pages: "501-511"
+journal: "Baghdader Mitteilungen"
+title: "\"Altes\" and \"Neues\" Babylon"
+previous_item: "14071"
+---

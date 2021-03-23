@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15019"
+occurrence_id: "3682"
+short_title: "Eranos 56 (1958), 1-11"
+author: "Nilson, Martin P."
+publication_year: "1958"
+title: "Die babylonische Grundlageder griechischen Astrologie"
+volume_no_: "56"
+pages: "1-11."
+journal: "Eranos"
+title: "Die babylonische Grundlageder griechischen Astrologie"
+previous_item: "15022"
+---

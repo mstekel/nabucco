@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17785"
+occurrence_id: "464"
+short_title: "King 1912 (BBS)"
+author: "King, Leonard W. "
+publication_year: "1912"
+title: "Babylonian Boundary Stones and Memorial Tablets in the British Museum"
+title: "Babylonian Boundary Stones and Memorial Tablets in the British Museum"
+previous_item: "17788"
+---

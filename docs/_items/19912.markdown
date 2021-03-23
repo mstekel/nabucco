@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19912"
+occurrence_id: "4856"
+short_title: "Dandamayev 1988a"
+author: "Dandamayev, Muhammed A."
+publication_year: "1988"
+title: "The Neo-Babylonian Popular Assembly"
+pages: "63-71"
+editor: "Vavroušek, Petr"
+book: "Šulmu. Papers on the Ancient Near East Presented at International Conference of Socialist Countries (Prague)"
+title: "The Neo-Babylonian Popular Assembly"
+previous_item: "19915"
+---

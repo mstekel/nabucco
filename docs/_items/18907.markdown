@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18907"
+occurrence_id: "5011"
+short_title: "Hallock 1959"
+author: "Hallock, Richard T."
+publication_year: "1959"
+title: "The Elamite Texts from Persepolis"
+pages: "32-134, 177-179"
+editor: "Franke, Herbert"
+book: "Akten des 24. Internationalen Orientalistenkongresses, München, 1957"
+title: "The Elamite Texts from Persepolis"
+previous_item: "18910"
+---

@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "33811"
+place_id: "1451"
+parent_id: "85"
+place_name: "Ailtammu"
+related_objects: "6493"
+title: "Ailtammu"
+previous_item: "33814"
+---

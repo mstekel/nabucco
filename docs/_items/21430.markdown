@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "21430"
+occurrence_id: "4142"
+short_title: "Kuhrt 1987"
+author: "Kuhrt, Amélie"
+publication_year: "1987"
+title: "Berossus' Babyloniaka and Seleucid Rule in Babylonia"
+pages: "32-56"
+editor: "Kuhrt, Amélie"
+title: "Berossus' Babyloniaka and Seleucid Rule in Babylonia"
+previous_item: "21433"
+---

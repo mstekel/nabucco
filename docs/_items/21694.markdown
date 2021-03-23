@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21694"
+occurrence_id: "4449"
+short_title: "van Driel 1998"
+author: "van Driel, Govert"
+publication_year: "1998"
+title: "Land in Ancient Mesopotamia: \"That what remains undocumented does not exist\""
+pages: "19-49"
+editor: "Haring, B."
+book: "Landless and Hungry? Access to Land in early and Traditional Societies (Leiden)"
+title: "Land in Ancient Mesopotamia: \"That what remains undocumented does not exist\""
+previous_item: "21697"
+---

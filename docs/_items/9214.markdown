@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "9214"
+occurrence_id: "2474"
+short_title: "NABU 1990/10"
+author: "Joannès, Francis"
+publication_year: "1990"
+title: "Cadastre et titres de propriété en Babylonie achéménide"
+volume_no_: "10"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Cadastre et titres de propriété en Babylonie achéménide"
+previous_item: "9217"
+---

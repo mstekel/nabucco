@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21760"
+occurrence_id: "4801"
+short_title: "Jursa 2014e"
+author: "Jursa, Michael"
+publication_year: "2014"
+title: "Babylonia in the first millennium BCE - economic growth in times of empire"
+pages: "24-42"
+editor: "Williamson, Jeffrey, G."
+book: "The Cambridge History of Capitalism. Volume I. The Rise of Capitalism: From Ancient Origins to 1848 (Cambridge)"
+title: "Babylonia in the first millennium BCE - economic growth in times of empire"
+previous_item: "21763"
+---

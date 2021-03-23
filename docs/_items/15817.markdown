@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15817"
+occurrence_id: "1938"
+short_title: "IrAn 41 (2006), 303-326."
+author: "Clark, James D."
+publication_year: "2006"
+title: "A Work of Synhesis: An Overview of the third Volume of The Cambridge History of Iran."
+volume_no_: "41"
+pages: "303-326"
+journal: "Iranica Antiqua"
+title: "A Work of Synhesis: An Overview of the third Volume of The Cambridge History of Iran."
+previous_item: "15820"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21733"
+occurrence_id: "4657"
+short_title: "Lorenz 2015"
+author: "Lorenz, Jürgen"
+publication_year: "2015"
+title: "Spätbabylonische Urkunden: Original, Kopie, Abschrift"
+pages: "301-309"
+editor: "Archi, Alfonso"
+book: "Tradition and Innovation in the Ancient Near East. Proceedings of the 57th Rencontre Assyriologique Internationale at Rome 4–8 July 2011 (Winona Lake)"
+title: "Spätbabylonische Urkunden: Original, Kopie, Abschrift"
+previous_item: "21736"
+---

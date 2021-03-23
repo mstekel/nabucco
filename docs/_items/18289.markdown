@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18289"
+occurrence_id: "394"
+short_title: "Driver 1965"
+author: "Driver, Godfrey R. "
+publication_year: "1965"
+title: "Aramaic Documents of the Fifth Century B.C. Abridged and revised edition"
+title: "Aramaic Documents of the Fifth Century B.C. Abridged and revised edition"
+previous_item: "18292"
+---

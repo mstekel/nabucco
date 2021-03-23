@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "15400"
+occurrence_id: "2712"
+short_title: "NABU 2008/39"
+author: "Ossendrijver, Mathieu"
+title: "Lingering invisibly in the sky: on the meaning of ustanih."
+volume_no_: "39"
+publication_year: "2008"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Lingering invisibly in the sky: on the meaning of ustanih."
+previous_item: "15403"
+---

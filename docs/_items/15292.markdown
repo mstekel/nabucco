@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15292"
+occurrence_id: "2129"
+short_title: "JAOS 87 (1967), 8-12"
+author: "Weisberg, David B."
+publication_year: "1967"
+title: "A Neo-Babylonian Tempel Report"
+volume_no_: "87"
+pages: "8-12"
+journal: "Journal of the American Oriental Society"
+title: "A Neo-Babylonian Tempel Report"
+previous_item: "15295"
+---

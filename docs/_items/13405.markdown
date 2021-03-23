@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "13405"
+occurrence_id: "4000"
+short_title: "AfO 52 (2011), 269-272"
+author: "Ossendrijver, Mathieu"
+publication_year: "2011"
+title: "Rv. P.J. Huber and S. De Meis 2004: Babylonian Eclipse Observations from 750 BC to 1 BC"
+volume_no_: "52"
+pages: "269-272"
+title: "Rv. P.J. Huber and S. De Meis 2004: Babylonian Eclipse Observations from 750 BC to 1 BC"
+previous_item: "13408"
+---

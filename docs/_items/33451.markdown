@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33451"
+place_id: "1069"
+parent_id: "61"
+place_name: "Huṣṣēti-ša-Kidinu"
+title: "Huṣṣēti-ša-Kidinu"
+previous_item: "33454"
+---

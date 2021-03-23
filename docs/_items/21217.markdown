@@ -1,0 +1,15 @@
+---
+layout: "bibliography"
+slug: "21217"
+occurrence_id: "179"
+short_title: "Zadok and Zadok 2005"
+author: "Zadok, Ran"
+publication_year: "2005"
+title: "Contributions to Neo/Late-Babylonian Documentation"
+pages: "624-669"
+editor: "Sefati, Yitzhak"
+related_objects: "5704"
+book: "\"An Experienced Scribe Who Neglects Nothing\". Ancient Near Eastern Studies in Honor of Jacob Klein"
+title: "Contributions to Neo/Late-Babylonian Documentation"
+previous_item: "21220"
+---

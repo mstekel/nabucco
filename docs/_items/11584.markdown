@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11584"
+occurrence_id: "3206"
+short_title: "Sprache 18 (1972), 188-193"
+author: "Schmitt, Rüdiger"
+publication_year: "1972"
+title: "Persepolitanisches II"
+volume_no_: "18"
+pages: "188-193"
+journal: "Sprache"
+title: "Persepolitanisches II"
+previous_item: "11587"
+---

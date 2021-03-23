@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18106"
+occurrence_id: "857"
+short_title: "Oppenheimer 1983"
+author: "Oppenheim, A. Leo "
+publication_year: "1983"
+title: "Babylonia Judaica in the Talmudic Period, TAVO B 47 (Wiesbaden)"
+title: "Babylonia Judaica in the Talmudic Period, TAVO B 47 (Wiesbaden)"
+previous_item: "18109"
+---

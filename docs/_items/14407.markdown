@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14407"
+occurrence_id: "3389"
+short_title: "ZA 37 (1927), 61-98"
+author: "Landsberger, Benno"
+publication_year: "1927"
+title: "Zu neuveröffentlichten Geschichtsquellen der Zeit von Asarhaddon bis Nabonid"
+volume_no_: "37"
+pages: "61-98"
+journal: "Zeitschrift für Assyriologie"
+title: "Zu neuveröffentlichten Geschichtsquellen der Zeit von Asarhaddon bis Nabonid"
+previous_item: "14410"
+---

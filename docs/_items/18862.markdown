@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18862"
+occurrence_id: "4771"
+short_title: "Stolper 2005"
+author: "Stolper, Matthew W."
+publication_year: "2005"
+title: "Farming with the Murasûs and Others: costs and returns of cereal agriculture in Fifth-century Babylonian texts. ***"
+pages: "323-342"
+editor: "Baker, Heather D."
+book: "Approaching the Babylonian Economy, AOAT 330 (Münster)"
+title: "Farming with the Murasûs and Others: costs and returns of cereal agriculture in Fifth-century Babylonian texts. ***"
+previous_item: "18865"
+---

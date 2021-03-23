@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14206"
+occurrence_id: "2306"
+short_title: "JNES 4 (1945), 39-52"
+author: "Kent, Roland G."
+publication_year: "1945"
+title: "Old Persian Texts VI: Darius´ Naqš-i-Rustam B Inscription"
+volume_no_: "4"
+pages: "39-52"
+journal: "Journal of Near Eastern Studies"
+title: "Old Persian Texts VI: Darius´ Naqš-i-Rustam B Inscription"
+previous_item: "14209"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10747"
+occurrence_id: "1703"
+short_title: "BiOr 55 (1998), 59-79"
+author: "van Driel, Govert"
+publication_year: "1998"
+title: "The \"Eanna Archive\": Rv. E. Gehlken, Uruk. Spätbabylonische Wirtschaftstexte aus dem Eanna-Archiv I: Texte verschiedenen Inhalts (AUWE 5, 1990) and Rv. E. Gehlken, Uruk. Spätbabylonische Wirtschaftstexte aus dem Eanna-Archiv II: Texte verschiedenen Inhalts (AUWE 11, 1996)"
+volume_no_: "55"
+pages: "59-79"
+journal: "Bibliotheca Orientalis"
+title: "The \"Eanna Archive\": Rv. E. Gehlken, Uruk. Spätbabylonische Wirtschaftstexte aus dem Eanna-Archiv I: Texte verschiedenen Inhalts (AUWE 5, 1990) and Rv. E. Gehlken, Uruk. Spätbabylonische Wirtschaftstexte aus dem Eanna-Archiv II: Texte verschiedenen Inhalts (AUWE 11, 1996)"
+previous_item: "10750"
+---

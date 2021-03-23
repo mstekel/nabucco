@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16036"
+occurrence_id: "3118"
+short_title: "RA 99 (2005), 85-104."
+author: "Clancier, Philippe"
+publication_year: "2005"
+title: "Les scribes sur parchemin du temple d'Anu."
+volume_no_: "99"
+pages: "85-104"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "Les scribes sur parchemin du temple d'Anu."
+previous_item: "16039"
+---

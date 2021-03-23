@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17605"
+occurrence_id: "4069"
+short_title: "Daryaee 2013"
+author: "Daryaee, Touraj "
+publication_year: "2013"
+title: "Cyrus the Great. An Ancient Iranian King (Santa Monica)"
+title: "Cyrus the Great. An Ancient Iranian King (Santa Monica)"
+previous_item: "17608"
+---

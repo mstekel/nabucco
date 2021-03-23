@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9544"
+occurrence_id: "1227"
+short_title: "AfO 44/45 (1997/1998) 59-100"
+author: "Wunsch, Cornelia"
+publication_year: "1997-1998"
+title: "Und die Richter berieten ... Streitfälle in Babylon aus der Zeit Neriglissars und Nabonids"
+volume_no_: "44-45"
+pages: "59-100"
+journal: "Archiv für Orientforschung"
+title: "Und die Richter berieten ... Streitfälle in Babylon aus der Zeit Neriglissars und Nabonids"
+previous_item: "9547"
+---

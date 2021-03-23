@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8335"
+occurrence_id: "3782"
+short_title: "KSI(N)A 67 (1963), 190-192"
+author: "Dandamayev, Muhammed A."
+publication_year: "1963"
+title: "Die Widerspiegelung des Inhalts der Behistun-Inschrift im Werk Herodots (in Russ.)"
+volume_no_: "67"
+pages: "190-192"
+journal: "Краткие сообщения Института Археологии АН ОССР (Kratkie soobŝenija Instituta Arheologii AN OSSR)"
+title: "Die Widerspiegelung des Inhalts der Behistun-Inschrift im Werk Herodots (in Russ.)"
+previous_item: "8338"
+---

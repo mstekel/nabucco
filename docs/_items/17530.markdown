@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17530"
+occurrence_id: "479"
+short_title: "Krecher 1970"
+author: "Krecher, Joachim "
+publication_year: "1970"
+title: "Das Geschäftshaus Egibi in Babylon in neubabylonischer und achämenidischer Zeit  (unpublizierte Habilitationsschrift Münster)"
+title: "Das Geschäftshaus Egibi in Babylon in neubabylonischer und achämenidischer Zeit  (unpublizierte Habilitationsschrift Münster)"
+previous_item: "17533"
+---

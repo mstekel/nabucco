@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18490"
+occurrence_id: "842"
+short_title: "Maraqten 1988"
+author: "Maraqten, Mohammed "
+publication_year: "1988"
+title: "Die semitischen Personennamen in den alt- und reichsaramäischen Inschriften aus Vorderasien (Dissertation), Texte and Studien zur Orientalistik 5 (Hildesheim)"
+title: "Die semitischen Personennamen in den alt- und reichsaramäischen Inschriften aus Vorderasien (Dissertation), Texte and Studien zur Orientalistik 5 (Hildesheim)"
+previous_item: "18493"
+---

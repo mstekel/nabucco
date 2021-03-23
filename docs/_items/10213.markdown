@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10213"
+occurrence_id: "1816"
+short_title: "CBQ 28 (1966), 45-50"
+author: "Lemke, Werner E."
+publication_year: "1966"
+title: "\"Nebuchadrezzar, My Servant\""
+volume_no_: "28"
+pages: "45-50"
+journal: "Catholic Biblical Quarterly"
+title: "\"Nebuchadrezzar, My Servant\""
+previous_item: "10216"
+---

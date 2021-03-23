@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8248"
+occurrence_id: "3314"
+short_title: "WeOr 16 (1985 publ. 1986), 19-79"
+author: "Zadok, Ran"
+publication_year: "1985 publ. 1986"
+title: "Zur Geographie Babyloniens während des sargonidischen, chaldäischen, achämenidischen and hellenistischen Zeitalters"
+volume_no_: "16"
+pages: "19-79"
+journal: "Die Welt des Orients"
+title: "Zur Geographie Babyloniens während des sargonidischen, chaldäischen, achämenidischen and hellenistischen Zeitalters"
+previous_item: "8251"
+---

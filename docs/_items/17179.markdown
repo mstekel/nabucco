@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17179"
+occurrence_id: "690"
+short_title: "Weissbach 1911 (VAB 3)"
+author: "Weissbach, Franz H."
+publication_year: "1911"
+title: "Die Keilinschriften der Achämeniden. VAB 3 (Leipzig)"
+title: "Die Keilinschriften der Achämeniden. VAB 3 (Leipzig)"
+previous_item: "17182"
+---

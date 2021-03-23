@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14707"
+occurrence_id: "2000"
+short_title: "Iraq 64 (2002), 85-123"
+author: "Petrie, Cameron"
+publication_year: "2002"
+title: "Seleucid Uruk: An analysis of ceramic distribution"
+volume_no_: "64"
+pages: "85-123"
+journal: "Iraq"
+title: "Seleucid Uruk: An analysis of ceramic distribution"
+previous_item: "14710"
+---

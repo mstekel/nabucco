@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "34387"
+place_id: "88"
+parent_id: "4"
+place_name: "Dilbat"
+related_objects: "2376"
+title: "Dilbat"
+previous_item: "34390"
+---

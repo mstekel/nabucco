@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8434"
+occurrence_id: "1292"
+short_title: "AJA 61 (1957), 94-96"
+author: "Lines, Joan"
+publication_year: "1957"
+title: "Rv. R. Ghirshman, Village perse-achéménide"
+volume_no_: "61"
+pages: "94-96"
+journal: "American Journal of Archaeology"
+title: "Rv. R. Ghirshman, Village perse-achéménide"
+previous_item: "8437"
+---

@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "14800"
+occurrence_id: "2501"
+short_title: "NABU 1993/19"
+author: "Jursa, Michael"
+title: "Neues aus der Zeit des Bardia"
+volume_no_: "19"
+publication_year: "1993"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Neues aus der Zeit des Bardia"
+previous_item: "14803"
+---

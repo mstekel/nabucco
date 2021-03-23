@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21796"
+occurrence_id: "4993"
+short_title: "Zadok 2013"
+author: "Zadok, Ran"
+publication_year: "2013"
+title: "The Onomastics of the Chaldean, Aramean, and Arabian Tribes in Babylonia during the First Millennium"
+pages: "261-336"
+editor: "Berlejung, Angelika"
+book: "Arameans, Chaldeans, and Arabs in Babylonia and Palestine in the First Millennium B.C., Leipziger Altorientalische Studien 3 (Wiesbaden)"
+title: "The Onomastics of the Chaldean, Aramean, and Arabian Tribes in Babylonia during the First Millennium"
+previous_item: "21799"
+---

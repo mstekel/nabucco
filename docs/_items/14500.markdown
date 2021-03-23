@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14500"
+occurrence_id: "3889"
+short_title: "ZSSR 75 (1958), 375-381"
+author: "David, Martin"
+publication_year: "1958"
+title: "Rv. H. Petschow, Neubabylonisches Pfandrecht (Berlin 1956)"
+volume_no_: "75"
+pages: "375-381"
+journal: "Zeitschrift der Savigny-Stiftung für Rechtsgeschichte. Romanistische Abteilung."
+title: "Rv. H. Petschow, Neubabylonisches Pfandrecht (Berlin 1956)"
+previous_item: "14503"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19072"
+occurrence_id: "4788"
+short_title: "Jursa 2007"
+author: "Jursa, Michael"
+publication_year: "2007"
+title: "The Babylonian economy in the First millennium BC."
+pages: "224-235"
+editor: "Leick, Gwendolyn"
+book: "The Babylonian World (Abingdon and New York)"
+title: "The Babylonian economy in the First millennium BC."
+previous_item: "19075"
+---

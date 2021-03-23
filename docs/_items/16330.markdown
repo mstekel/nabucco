@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16330"
+occurrence_id: "1680"
+short_title: "BiOr 45 (1988), 151-155"
+author: "Joannès, Francis"
+publication_year: "1988"
+title: "Rv. B. Funck, Uruk zur Seleukidenzeit. Eine Untersuchung zu den spätbabylonischen Pfründentexten als Quelle der Erforschung der sozialökonomischen Entwicklung der hellenistischen Stadt (1984)"
+volume_no_: "45"
+pages: "151-155"
+journal: "Bibliotheca Orientalis"
+title: "Rv. B. Funck, Uruk zur Seleukidenzeit. Eine Untersuchung zu den spätbabylonischen Pfründentexten als Quelle der Erforschung der sozialökonomischen Entwicklung der hellenistischen Stadt (1984)"
+previous_item: "16333"
+---

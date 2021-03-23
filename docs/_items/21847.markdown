@@ -1,0 +1,12 @@
+---
+layout: "bibliography"
+slug: "21847"
+occurrence_id: "4160"
+short_title: "Martirosjan 1988"
+author: "Martirossian, Anahit"
+publication_year: "1988"
+title: "The Weavers in the Eanna Temple in Neo-Babylonian Uruk (in Russ.)"
+pages: "27-40 (English summary: 227-228)"
+title: "The Weavers in the Eanna Temple in Neo-Babylonian Uruk (in Russ.)"
+previous_item: "21850"
+---

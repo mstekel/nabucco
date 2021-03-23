@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10249"
+occurrence_id: "2008"
+short_title: "Islam 36 (1961), 185-186"
+author: "Lentz, W."
+publication_year: "1961"
+title: "Rv. R. Ghirshman, L´Iran des origines à l´Islam (Paris 1951)"
+volume_no_: "36"
+pages: "185-186"
+journal: "Islam"
+title: "Rv. R. Ghirshman, L´Iran des origines à l´Islam (Paris 1951)"
+previous_item: "10252"
+---

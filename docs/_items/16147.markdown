@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16147"
+occurrence_id: "3716"
+short_title: "IF 65 (1960), 185-188"
+author: "Schmidt, W.P."
+publication_year: "1950"
+title: "Rv. W. Brandenstein and M. Mayrhofer, Antiguo Persa"
+volume_no_: "65"
+pages: "185-188"
+journal: "Indogermanische Forschungen"
+title: "Rv. W. Brandenstein and M. Mayrhofer, Antiguo Persa"
+previous_item: "16150"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8566"
+occurrence_id: "2005"
+short_title: "Isis 37 (1947), 37-43"
+author: "Neugebauer, Otto"
+publication_year: "1947"
+title: "The Water Clock in Babylonian Astronomy"
+volume_no_: "37"
+pages: "37-43"
+journal: "Isis"
+title: "The Water Clock in Babylonian Astronomy"
+previous_item: "8569"
+---

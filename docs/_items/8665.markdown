@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "8665"
+occurrence_id: "2538"
+short_title: "NABU 1996/17"
+author: "Zadok, Ran"
+title: "Geographical and Onomastic Remarks on H. Tadmor, the Inscription of Tiglah-Pileser III King of Assyria (Jerusalem 1994)"
+volume_no_: "17"
+publication_year: "1996"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Geographical and Onomastic Remarks on H. Tadmor, the Inscription of Tiglah-Pileser III King of Assyria (Jerusalem 1994)"
+previous_item: "8668"
+---

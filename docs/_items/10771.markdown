@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10771"
+occurrence_id: "1833"
+short_title: "CPh 32 (1937), 1-14"
+author: "Olmstead, Albert T.E."
+publication_year: "1937"
+title: "Cuneiform Texts an Hellenistic Chronology"
+volume_no_: "32"
+pages: "1-14."
+journal: "Classical Philology"
+title: "Cuneiform Texts an Hellenistic Chronology"
+previous_item: "10774"
+---

@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "11173"
+occurrence_id: "3996"
+short_title: "Kaskal 12 (2015), 411-448"
+author: "Monerie, Julien"
+publication_year: "2015"
+title: "More than a Workman? The Case of the ēpeš dulli ṭīdi ša bīt ilāni from Hellenistic Uruk"
+volume_no_: "12"
+pages: "411-448"
+title: "More than a Workman? The Case of the ēpeš dulli ṭīdi ša bīt ilāni from Hellenistic Uruk"
+previous_item: "11176"
+---

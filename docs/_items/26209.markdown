@@ -1,0 +1,18 @@
+---
+layout: "tablet"
+slug: "26209"
+object_id: "6016"
+museum_no_: "80-B-10"
+period: "ENB"
+place_of_issue: "Babylon city"
+day_remark: "-"
+month: "XI"
+month_remark: "-"
+year_remark: "no year"
+king: "no king"
+king_remark: "no king"
+imported: "Melanie Gross (26/05/2016)"
+day_babylonian_: "18"
+title: "80-B-10"
+previous_item: "26215"
+---

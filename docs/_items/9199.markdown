@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9199"
+occurrence_id: "2393"
+short_title: "MDOG 110 (1978 publ. 1979), 19-28"
+author: "Nagel, Wolfram"
+publication_year: "1978 publ. 1979"
+title: "Wo lagen die \"Hängenden Gärten\" in Babylon?"
+volume_no_: "110"
+pages: "19-28"
+journal: "Mitteilungen der Deutschen Orient-Gesellschaft"
+title: "Wo lagen die \"Hängenden Gärten\" in Babylon?"
+previous_item: "9202"
+---

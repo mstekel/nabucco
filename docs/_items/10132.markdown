@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10132"
+occurrence_id: "1378"
+short_title: "Annali 60-61 (2000/01), 9-57."
+author: "Casaburi, Maria C."
+publication_year: "2000/01"
+title: "Calendrical Lunar Phenomena and their Interpretation According to Neo-Assyrian Sources: A Preliminary Survey"
+volume_no_: "60-61"
+pages: "9-57"
+journal: "Annali. Rivista del Dipartimento di Studi Asiatici e del Dipartimento di Studi e Ricerche su Africa e Paesi Arabi"
+title: "Calendrical Lunar Phenomena and their Interpretation According to Neo-Assyrian Sources: A Preliminary Survey"
+previous_item: "10135"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12124"
+occurrence_id: "3111"
+short_title: "RA 96 (2002), 149-168."
+author: "Zawadzki, Stefan"
+publication_year: "2002"
+title: "Payment in Wool in the Economy of the Ebabbar Temple at Sippar"
+volume_no_: "96"
+pages: "149-168"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "Payment in Wool in the Economy of the Ebabbar Temple at Sippar"
+previous_item: "12127"
+---

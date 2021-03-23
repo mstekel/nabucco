@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20134"
+occurrence_id: "4953"
+short_title: "Panitschek 1989"
+author: "Panitschek, Peter"
+publication_year: "1989"
+title: "Zur Möglichkeit der Entstehung von Vegetationsschäden durch forcierte Brandziegelerzeugung"
+pages: "255-277"
+editor: "Scholz, Bernhard"
+book: "Der orientalische Mensch and seine Beziehungen zur Umwelt, Grazer Morgenländische Studien 2 (Graz)"
+title: "Zur Möglichkeit der Entstehung von Vegetationsschäden durch forcierte Brandziegelerzeugung"
+previous_item: "20137"
+---

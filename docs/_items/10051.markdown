@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "10051"
+occurrence_id: "3961"
+short_title: "Akkadica 136/1 (2015), 89-101"
+author: "Gorris, Elynn"
+publication_year: "2015"
+title: "Written on Mud: Some more Brick Inscriptions from Mesopotamia"
+volume_no_: "136/1"
+pages: "89-101"
+title: "Written on Mud: Some more Brick Inscriptions from Mesopotamia"
+previous_item: "10054"
+---

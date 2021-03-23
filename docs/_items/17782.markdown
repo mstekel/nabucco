@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17782"
+occurrence_id: "442"
+short_title: "Huart 1943"
+author: "Delaporte, Louis "
+publication_year: "1943"
+title: "L´Iran antique. Élam et Perse et la civilisation iranienne (Nouvelle édition de la « Perse antique »)"
+title: "L´Iran antique. Élam et Perse et la civilisation iranienne (Nouvelle édition de la « Perse antique »)"
+previous_item: "17785"
+---

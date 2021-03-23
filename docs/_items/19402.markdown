@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19402"
+occurrence_id: "4342"
+short_title: "Braun-Holzinger 2010"
+author: "Braun-Holzinger, Eva A."
+publication_year: "2010"
+title: "Antikenrezeption im Alten Mesopotamien am Beispiel Nebukadnezar II."
+pages: "53-70"
+editor: "Rehm, E."
+book: "Kulturlandschaft Syrien. Zentrum und Peripherie. Festschrift für Jan-Waalke Meyer AOAT 371 (Münster)"
+title: "Antikenrezeption im Alten Mesopotamien am Beispiel Nebukadnezar II."
+previous_item: "19405"
+---

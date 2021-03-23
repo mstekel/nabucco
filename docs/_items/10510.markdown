@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10510"
+occurrence_id: "3431"
+short_title: "ZA 66 (1977), 295-296"
+author: "von Soden, Wolfram"
+publication_year: "1977"
+title: "Rv. G. Ries, Die neubabylonischen Bodenpachtformulare"
+volume_no_: "66"
+pages: "295-296"
+journal: "Zeitschrift für Assyriologie"
+title: "Rv. G. Ries, Die neubabylonischen Bodenpachtformulare"
+previous_item: "10513"
+---

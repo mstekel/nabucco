@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "12571"
+occurrence_id: "2513"
+short_title: "NABU 1994/91"
+author: "Nemet-Nejat, Karen Rhea"
+title: "A Sealed Mathematical Tablet"
+volume_no_: "91"
+publication_year: "1994"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "A Sealed Mathematical Tablet"
+previous_item: "12574"
+---

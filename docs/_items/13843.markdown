@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13843"
+occurrence_id: "3356"
+short_title: "WZKM 4 (1890), 113-130"
+author: "Meissner, Bruno"
+publication_year: "1890"
+title: "Neubabylonische Wohnungs-Miehsverhältnisse"
+volume_no_: "4"
+pages: "113-130"
+journal: "Wiener Zeitschrift für die Kunde des Morgenlandes"
+title: "Neubabylonische Wohnungs-Miehsverhältnisse"
+previous_item: "13846"
+---

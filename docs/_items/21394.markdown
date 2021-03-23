@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21394"
+occurrence_id: "5055"
+short_title: "Hachmann 1995"
+author: "Hachmann, Rolf"
+publication_year: "1995"
+title: "Die Völkerschaften auf den Bildwerken von Persepolis"
+pages: "195-223"
+editor: "Hauptmann, H."
+book: "Beiträge zur Kulturgeschichte Vorderasiens, Fs. Boehmer (Mainz)"
+title: "Die Völkerschaften auf den Bildwerken von Persepolis"
+previous_item: "21397"
+---

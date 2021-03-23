@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14953"
+occurrence_id: "3326"
+short_title: "WeOr 22 (1991), 21-47."
+author: "Zawadzki, Stefan"
+publication_year: "1991"
+title: "IronSmiths, BronzeSmiths and GoldSmiths in the Neo-Babylonian Texts from Sippar"
+volume_no_: "22"
+pages: "21-47"
+journal: "Die Welt des Orients"
+title: "IronSmiths, BronzeSmiths and GoldSmiths in the Neo-Babylonian Texts from Sippar"
+previous_item: "14956"
+---

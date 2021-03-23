@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8815"
+occurrence_id: "3347"
+short_title: "WeOr 6/2 (1971 publ. 1972), 157-162"
+author: "Dietrich, Manfried"
+publication_year: "1971 publ. 1972"
+title: "Neue Quellen zur Geschichte Babyloniens (IV). Die Urkunden der Jahre 700 bis 651 aus dem Archiv des Urukäers Nabû-ušallim"
+volume_no_: "6/2."
+pages: "157-162"
+journal: "Die Welt des Orients"
+title: "Neue Quellen zur Geschichte Babyloniens (IV). Die Urkunden der Jahre 700 bis 651 aus dem Archiv des Urukäers Nabû-ušallim"
+previous_item: "8818"
+---

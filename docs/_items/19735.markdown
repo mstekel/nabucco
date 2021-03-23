@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "19735"
+occurrence_id: "5015"
+short_title: "Dolce 2000"
+author: "Dolce, Rita"
+publication_year: "2000"
+title: "Ébla: la bestiaire du Bronze Ancien et du Bronze Moyen. Valeurs symboliques dans le domaine du sacré et de la royauté"
+pages: "411-434"
+book: "Topoi Supplément 2, Les animaux et les hommes dans le monde syro-mésopotamien aux époques historiques (Lyon)"
+title: "Ébla: la bestiaire du Bronze Ancien et du Bronze Moyen. Valeurs symboliques dans le domaine du sacré et de la royauté"
+previous_item: "19738"
+---

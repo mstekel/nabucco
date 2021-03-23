@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12082"
+occurrence_id: "2883"
+short_title: "Or 42 (1973), 324-327"
+author: "Oppenheim, A. Leo"
+publication_year: "1973"
+title: "A New Subdivision of theShekel in the Arsacide Period"
+volume_no_: "42"
+pages: "324-327"
+journal: "Orientalia"
+title: "A New Subdivision of theShekel in the Arsacide Period"
+previous_item: "12085"
+---

@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16615"
+occurrence_id: "381"
+short_title: "Delaporte 1912 (EA)"
+author: "Delaporte, Louis "
+publication_year: "1912"
+title: "Épigraphes Araméens. Etudes des textes araméens gravés ou écrits sur des tablettes cunéiformes"
+title: "Épigraphes Araméens. Etudes des textes araméens gravés ou écrits sur des tablettes cunéiformes"
+previous_item: "16618"
+---

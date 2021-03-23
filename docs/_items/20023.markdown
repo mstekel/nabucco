@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20023"
+occurrence_id: "4361"
+short_title: "Joannès 1997a"
+author: "Joannès, Francis"
+publication_year: "1997"
+title: "La pratique du serment à l´époque néo-babylonienne"
+pages: "163-174"
+editor: "Lemaire, André"
+book: "Jurer et maudire: pratiques, politiques et usages juridiques du serment dans le Proche-Orient ancien (Paris and Montreal)"
+title: "La pratique du serment à l´époque néo-babylonienne"
+previous_item: "20026"
+---

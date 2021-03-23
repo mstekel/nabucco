@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9862"
+occurrence_id: "2947"
+short_title: "Or 9 (1940), 389-390"
+author: "Pohl, Alfred"
+publication_year: "1940"
+title: "Rv. H. Petschow, Neubabylonisches Pfandrecht (Berlin 1956)"
+volume_no_: "9"
+pages: "389-390"
+journal: "Orientalia"
+title: "Rv. H. Petschow, Neubabylonisches Pfandrecht (Berlin 1956)"
+previous_item: "9865"
+---

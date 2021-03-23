@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14539"
+occurrence_id: "242"
+short_title: "Goetze, JCS 1"
+author: "Goetze, Albrecht"
+publication_year: "1947"
+title: "Texts and Fragments"
+volume_no_: "1"
+pages: "349-352"
+journal: "Journcal of Cuneiform Studies"
+title: "Texts and Fragments"
+previous_item: "14542"
+---

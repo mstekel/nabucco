@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7909"
+occurrence_id: "1488"
+short_title: "ArOr 49 (1981), 93-94"
+author: "Pečírková, Jana"
+publication_year: "1981"
+title: "Rv. M. Dietrich, Neo-Babylonian Letters from the Kuyunjik Collection (CT 54)"
+volume_no_: "49"
+pages: "93-94"
+journal: "Archív Orientalí"
+title: "Rv. M. Dietrich, Neo-Babylonian Letters from the Kuyunjik Collection (CT 54)"
+previous_item: "7912"
+---

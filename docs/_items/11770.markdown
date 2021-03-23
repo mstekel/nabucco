@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11770"
+occurrence_id: "1198"
+short_title: "AfO 20 (1963), 97-102"
+author: "van der Waerden, Bartel L."
+publication_year: "1963"
+title: "Das Alter der babylonischen Mondrechnung (1. Die Systeme A and B. 2. Engere Zeitgrenzen 3. Euktemon and Meton 4. Eine Blütezeit der Astronomie and Astrologie 5. Die Magier and die Astrologie 6. Naburianos and Kidenas"
+volume_no_: "20"
+pages: "97-102"
+journal: "Archiv für Orientforschung"
+title: "Das Alter der babylonischen Mondrechnung (1. Die Systeme A and B. 2. Engere Zeitgrenzen 3. Euktemon and Meton 4. Eine Blütezeit der Astronomie and Astrologie 5. Die Magier and die Astrologie 6. Naburianos and Kidenas"
+previous_item: "11773"
+---

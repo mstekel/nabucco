@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14359"
+occurrence_id: "3131"
+short_title: "REA 40 (1938), 5-42"
+author: "Aymard, André"
+publication_year: "1938"
+title: "Une ville de la Babylonie séleucide d´après les contrats cunéiformes"
+volume_no_: "40"
+pages: "5-42."
+journal: "Revue des études anciennes"
+title: "Une ville de la Babylonie séleucide d´après les contrats cunéiformes"
+previous_item: "14362"
+---

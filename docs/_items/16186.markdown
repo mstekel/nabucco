@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "16186"
+occurrence_id: "3924"
+short_title: "Topoi 19/1 (2014), 181-237"
+author: "Monerie, Julien"
+publication_year: "2014"
+title: "Les sanctuaires babyloniens à l'époque hellénistique. Évolutions d'un relais de pouvoir"
+volume_no_: "19/1"
+pages: "181-237"
+title: "Les sanctuaires babyloniens à l'époque hellénistique. Évolutions d'un relais de pouvoir"
+previous_item: "16189"
+---

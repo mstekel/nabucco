@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17209"
+occurrence_id: "883"
+short_title: "Schaudig 2001"
+author: "Schaudig, Hanspeter "
+publication_year: "2001"
+title: "Die Inschriften Nabonids von Babylon and Kyros´ des Großen samt den in ihrem Umfeld entstandenen Tendenzschriften. Textausgabe und Grammatik, AOAT 256 (Münster)"
+title: "Die Inschriften Nabonids von Babylon and Kyros´ des Großen samt den in ihrem Umfeld entstandenen Tendenzschriften. Textausgabe und Grammatik, AOAT 256 (Münster)"
+previous_item: "17212"
+---

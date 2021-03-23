@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33676"
+place_id: "1123"
+parent_id: "61"
+place_name: "Kurbat"
+title: "Kurbat"
+previous_item: "33679"
+---

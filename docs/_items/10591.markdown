@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10591"
+occurrence_id: "3866"
+short_title: "TSBA 7 (1882), 407-410"
+author: "Strassmaier, Johann N."
+publication_year: "1882"
+title: "A Contract Tablet from the 17th Year of Nabonidus"
+volume_no_: "7"
+pages: "407-410"
+journal: "Transactions of the Society of Biblical Archaeology"
+title: "A Contract Tablet from the 17th Year of Nabonidus"
+previous_item: "10594"
+---

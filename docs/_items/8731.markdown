@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8731"
+occurrence_id: "2893"
+short_title: "Or 50 (1981), 193"
+author: "Daniels, Peter T."
+publication_year: "1981"
+title: "Frustulum aramaicum"
+volume_no_: "50"
+pages: "193"
+journal: "Orientalia"
+title: "Frustulum aramaicum"
+previous_item: "8734"
+---

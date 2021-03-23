@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11980"
+occurrence_id: "2334"
+short_title: "JNES 56 (1997), 287-290"
+author: "Biggs, Robert D."
+publication_year: "1997"
+title: "Rv. H. Schmid, Der Tempelturm Etemenanki in Babylon"
+volume_no_: "56"
+pages: "287-290"
+journal: "Journal of Near Eastern Studies"
+title: "Rv. H. Schmid, Der Tempelturm Etemenanki in Babylon"
+previous_item: "11983"
+---

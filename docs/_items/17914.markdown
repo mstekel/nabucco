@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17914"
+occurrence_id: "465"
+short_title: "Klamroth 1912"
+author: "Klamroth, Erich "
+publication_year: "1912"
+title: "Die jüdischen Exulanten in Babylonien"
+title: "Die jüdischen Exulanten in Babylonien"
+previous_item: "17917"
+---

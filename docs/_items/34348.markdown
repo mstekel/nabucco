@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34348"
+place_id: "1240"
+parent_id: "61"
+place_name: "Šaṭeru"
+title: "Šaṭeru"
+previous_item: "34351"
+---

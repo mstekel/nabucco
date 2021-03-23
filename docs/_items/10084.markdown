@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10084"
+occurrence_id: "283"
+short_title: "Stephens, JCS 1"
+author: "Stephens, F.J."
+publication_year: "1947"
+title: "A Tablet from the Reign of Šamaš-šum-ukīn "
+volume_no_: "1"
+pages: "273-274"
+journal: "Journal of Cuneiform Studies"
+title: "A Tablet from the Reign of Šamaš-šum-ukīn "
+previous_item: "10087"
+---

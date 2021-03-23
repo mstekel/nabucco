@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "7819"
+occurrence_id: "4022"
+short_title: "Or 79/2 (2010), 480-504"
+author: "Schwemer, Daniel"
+publication_year: "2010"
+title: "Fighting Witchcraft before the Moon and Sun: a Therapeutic Ritual from Neo-Babylonian Sippar"
+volume_no_: "79/2"
+pages: "480-504"
+title: "Fighting Witchcraft before the Moon and Sun: a Therapeutic Ritual from Neo-Babylonian Sippar"
+previous_item: "7822"
+---

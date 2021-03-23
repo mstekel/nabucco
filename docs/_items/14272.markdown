@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "14272"
+occurrence_id: "2661"
+short_title: "NABU 2004/45"
+author: "Koch-Westenholz, Ulla"
+title: "A fragment of Enuma Anu Enlil. ***"
+volume_no_: "45"
+publication_year: "2004"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "A fragment of Enuma Anu Enlil. ***"
+previous_item: "14275"
+---

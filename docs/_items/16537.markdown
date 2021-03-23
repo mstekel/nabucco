@@ -1,0 +1,12 @@
+---
+layout: "bibliography"
+slug: "16537"
+occurrence_id: "685"
+short_title: "TCL 6"
+author: "Thureau-Dangin, François "
+publication_year: "1922"
+title: "Tablettes d'Uruk à l'usage des prêtres du temple d'Anu au temps des Séleucides. Textes cunéiformes du Louvre 6."
+volume_no_: "6"
+title: "Tablettes d'Uruk à l'usage des prêtres du temple d'Anu au temps des Séleucides. Textes cunéiformes du Louvre 6."
+previous_item: "16540"
+---

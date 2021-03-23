@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19696"
+occurrence_id: "4807"
+short_title: "Jursa and Wagensonner 2014"
+author: "Wagensonner, Klaus"
+publication_year: "2014"
+title: "The Estates of Šamaš on the Ḫābūr"
+pages: "109-130"
+editor: "Jones, Charles E."
+book: "Extraction & Control. Studies in Honor of Matthew W. Stolper, Studies in Ancient Oriental Civilization 68 (Chicago)"
+title: "The Estates of Šamaš on the Ḫābūr"
+previous_item: "19699"
+---

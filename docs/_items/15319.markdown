@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15319"
+occurrence_id: "2275"
+short_title: "JNES 19 (1960), 36-39"
+author: "Hallock, Richard T."
+publication_year: "1960"
+title: "The \"One Year\" of Darius I"
+volume_no_: "19"
+pages: "36-39"
+journal: "Journal of Near Eastern Studies"
+title: "The \"One Year\" of Darius I"
+previous_item: "15322"
+---

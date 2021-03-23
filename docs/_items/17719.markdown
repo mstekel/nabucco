@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17719"
+occurrence_id: "853"
+short_title: "Neugebauer 1975"
+author: "Neugebauer, Otto "
+publication_year: "1975"
+title: "A History of Ancient Mathematical Astronomy, Studies in the History of Mathematics and Physical Sciences 1 (Berlin, Heidelberg and New York)"
+title: "A History of Ancient Mathematical Astronomy, Studies in the History of Mathematics and Physical Sciences 1 (Berlin, Heidelberg and New York)"
+previous_item: "17722"
+---

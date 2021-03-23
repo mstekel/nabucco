@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18793"
+occurrence_id: "4403"
+short_title: "Fales 1997"
+author: "Fales, Frederick Mario"
+publication_year: "1997"
+title: "An overview of prices in Neo-Assyrian sources"
+pages: "291-312"
+editor: "Andreau, Jean"
+book: "Économie antique. Prix et formation des prix dans les économies antiques, Entretiens d´Archéologie et d´Histoire 3 (Saint-Bertrand-de-Comminges)"
+title: "An overview of prices in Neo-Assyrian sources"
+previous_item: "18796"
+---

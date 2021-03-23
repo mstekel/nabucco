@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "8134"
+occurrence_id: "2698"
+short_title: "NABU 2007/51"
+author: "Potts, Daniel T."
+title: "Once more on 'the general who is above the four generals' and his congeners"
+volume_no_: "51"
+publication_year: "2007"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Once more on 'the general who is above the four generals' and his congeners"
+previous_item: "8137"
+---

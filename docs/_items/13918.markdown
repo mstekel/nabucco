@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13918"
+occurrence_id: "3760"
+short_title: "JSOT 66 (1995), 87-97"
+author: "Coxon, Peter"
+publication_year: "1995"
+title: "Nebuchadnezzar´s Hermeneutical Dilemma"
+volume_no_: "66"
+pages: "87-97"
+journal: "Journal for the Study of the Old Testament"
+title: "Nebuchadnezzar´s Hermeneutical Dilemma"
+previous_item: "13921"
+---

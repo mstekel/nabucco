@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18421"
+occurrence_id: "414"
+short_title: "Gesche 2000"
+author: "Gesche, Petra D."
+publication_year: "2000"
+title: "Schulunterricht in Babylonien im ersten Jahrtausend v. Chr. (AOAT 275)"
+title: "Schulunterricht in Babylonien im ersten Jahrtausend v. Chr. (AOAT 275)"
+previous_item: "18424"
+---

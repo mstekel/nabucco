@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11098"
+occurrence_id: "3595"
+short_title: "AAW 48 (1995), 75-77"
+author: "Ehrhardt, Norbert"
+publication_year: "1995"
+title: "Rv. R. Rollinger, Herodots babylonischer Logos. Eine kritische Untersuchung der Glaubwürdigkeitsdiskussion an Hand ausgewählter Beispiele (1993)"
+volume_no_: "48"
+pages: "75-77"
+journal: "Anzeiger für die Altertumswissenschaft"
+title: "Rv. R. Rollinger, Herodots babylonischer Logos. Eine kritische Untersuchung der Glaubwürdigkeitsdiskussion an Hand ausgewählter Beispiele (1993)"
+previous_item: "11101"
+---

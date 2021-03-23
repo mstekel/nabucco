@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "14827"
+occurrence_id: "2646"
+short_title: "NABU 2002/63"
+author: "Marti, Lionel"
+title: "Les étoiles de Tuttul"
+volume_no_: "63"
+publication_year: "2002"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Les étoiles de Tuttul"
+previous_item: "14830"
+---

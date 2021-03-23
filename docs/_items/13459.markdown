@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13459"
+occurrence_id: "1285"
+short_title: "AJA 47 (1943), 256-258"
+author: "Steele, F.R."
+publication_year: "1943"
+title: "Rv. R.A. Parker and W.H. Dubberstein, Babylonian Chronology, 626 B.C. - A.D. 45"
+volume_no_: "47"
+pages: "256-258"
+journal: "American Journal of Archaeology"
+title: "Rv. R.A. Parker and W.H. Dubberstein, Babylonian Chronology, 626 B.C. - A.D. 45"
+previous_item: "13462"
+---

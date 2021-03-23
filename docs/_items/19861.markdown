@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19861"
+occurrence_id: "4584"
+short_title: "Oelsner 2002a"
+author: "Oelsner, Joachim"
+publication_year: "2002"
+title: "Babylonische Kultur nach dem Ende des babylonischen Staates"
+pages: "49-73"
+editor: "Kratz, Reinhard , G."
+book: "Religion und Religionskontakte im Zeitalter der Achämeniden, Veröffentlichungen der Wissenschaftlichen Gesellschaft für Theologie 22 (Gütersloh)"
+title: "Babylonische Kultur nach dem Ende des babylonischen Staates"
+previous_item: "19864"
+---

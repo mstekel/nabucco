@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "10924"
+occurrence_id: "2655"
+short_title: "NABU 2003/34"
+author: "Zadok, Ran"
+title: "A Note on a Neo-Babylonian Stone Tablet"
+volume_no_: "34"
+publication_year: "2003"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "A Note on a Neo-Babylonian Stone Tablet"
+previous_item: "10927"
+---

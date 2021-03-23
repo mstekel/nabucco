@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18163"
+occurrence_id: "412"
+short_title: "Geller and Maehler"
+author: "Geller, Mark J. "
+publication_year: "1995"
+title: "Legal Documents of the Hellenistic World"
+title: "Legal Documents of the Hellenistic World"
+previous_item: "18166"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9955"
+occurrence_id: "3446"
+short_title: "ZA 71 (1981), 232-247"
+author: "Koch, Heidemarie"
+publication_year: "1981"
+title: "\"Hofschwatzwarte\" and \"Schatzhäuser\" in der Persis"
+volume_no_: "71"
+pages: "232-247"
+journal: "Zeitschrift für Assyriologie"
+title: "\"Hofschwatzwarte\" and \"Schatzhäuser\" in der Persis"
+previous_item: "9958"
+---

@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "17356"
+occurrence_id: "13"
+short_title: "BE 9 (1898)"
+author: "Clay, Albert T. "
+publication_year: "1898"
+title: "Business Documents of Murashu Sons of Nippur Dated in the Reign of Artaxerxes I (464-424 B.C.). The Babylonian Expedition of the University of Pennsylvania 9 (Philadelphia)"
+volume_no_: "9"
+related_objects: "2355"
+title: "Business Documents of Murashu Sons of Nippur Dated in the Reign of Artaxerxes I (464-424 B.C.). The Babylonian Expedition of the University of Pennsylvania 9 (Philadelphia)"
+previous_item: "17359"
+---

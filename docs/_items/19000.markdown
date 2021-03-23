@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19000"
+occurrence_id: "4404"
+short_title: "Fales 1999"
+author: "Fales, Frederick Mario"
+publication_year: "1999"
+title: "The Tablets from Tell Shioukh Fawqani/Burmarina in the context of Assyro-Aramaic Studies"
+pages: "625-636"
+editor: "del Olmo Lete, Gregorio "
+book: "Archaeology of the Upper Syrian Euphrates. the Tishrin Dam Area, AuOr - Supplementa 15 (Barcelona)"
+title: "The Tablets from Tell Shioukh Fawqani/Burmarina in the context of Assyro-Aramaic Studies"
+previous_item: "19003"
+---

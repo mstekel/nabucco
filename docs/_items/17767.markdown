@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17767"
+occurrence_id: "353"
+short_title: "CBT 1"
+author: "Figulla, Hugo Heinrich M. "
+publication_year: "1961"
+title: "Catalogue of the Babylonian Tablets in the British Museum I"
+title: "Catalogue of the Babylonian Tablets in the British Museum I"
+previous_item: "17770"
+---

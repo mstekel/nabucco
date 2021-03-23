@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21148"
+occurrence_id: "4846"
+short_title: "Dandamayev 1982"
+author: "Dandamayev, Muhammed A."
+publication_year: "1982"
+title: "Nādin, a Scribe of the Eanna Temple"
+pages: "400-402"
+editor: "Hirsch, Hans"
+book: "Vorträge gehalten auf der 28. Rencontre Assyriologique Internationale in Wien 1981, AfO Beiheft 19, RAI 28 (Wien)"
+title: "Nādin, a Scribe of the Eanna Temple"
+previous_item: "21151"
+---

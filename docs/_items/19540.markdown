@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19540"
+occurrence_id: "5078"
+short_title: "Razmjou 2008"
+author: "Razmjou, Shahrokh"
+publication_year: "2008"
+title: "Find spots and find circumstances of documents excavated at Persepolis."
+pages: "51-58"
+editor: "Stolper, Matthew W."
+book: "L'archive des Fortifications de Persepolis. État des questions et perspectives de recherches Persika 12 (Paris)"
+title: "Find spots and find circumstances of documents excavated at Persepolis."
+previous_item: "19543"
+---

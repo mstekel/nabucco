@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "34582"
+place_id: "1422"
+parent_id: "55"
+place_name: "Bīt-iltammeš"
+related_objects: "5673"
+title: "Bīt-iltammeš"
+previous_item: "34585"
+---

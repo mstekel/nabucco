@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14191"
+occurrence_id: "2225"
+short_title: "JEOL 29 (1985-1986, Leiden 1987), 50-67"
+author: "van Driel, Govert"
+publication_year: "1985-1986"
+title: "The Rise of the House of Egibi: Nabû-ahhe-iddina"
+volume_no_: "29"
+pages: "50-67"
+journal: "Jaarbericht van het Voor-Aziatisch-Egyptisch-Gezelschap Ex Oriente Lux"
+title: "The Rise of the House of Egibi: Nabû-ahhe-iddina"
+previous_item: "14194"
+---

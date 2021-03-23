@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12964"
+occurrence_id: "1626"
+short_title: "BICS 33 (1986), 67-86"
+author: "MacGinnis, John"
+publication_year: "1986"
+title: "Herodotus' Description of Babylon"
+volume_no_: "33"
+pages: "67-86"
+journal: "Bulletin of the Institute of Classical Studies"
+title: "Herodotus' Description of Babylon"
+previous_item: "12967"
+---

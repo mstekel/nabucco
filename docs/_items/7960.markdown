@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7960"
+occurrence_id: "1763"
+short_title: "British Journal for the History of Science 1 (1962), 65-77"
+author: "Clarke, Leonard W."
+publication_year: "1962"
+title: "Greek Astronomy and its Debt to the Babylonians"
+volume_no_: "1"
+pages: "65-77"
+journal: "British Journal for the History of Science"
+title: "Greek Astronomy and its Debt to the Babylonians"
+previous_item: "7963"
+---

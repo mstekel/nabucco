@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "8227"
+occurrence_id: "3200"
+short_title: "SPAW 1916, 1180-1196"
+author: "Schroeder, Otto"
+publication_year: "1916"
+title: "Das Pantheon der Stadt Uruk in der Seleukidenzeit"
+pages: "1180-1196"
+journal: "Sitzungsberichte der Preußischen Akademie der Wissenschaften"
+title: "Das Pantheon der Stadt Uruk in der Seleukidenzeit"
+previous_item: "8230"
+---

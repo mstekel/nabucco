@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17113"
+occurrence_id: "296"
+short_title: "Achaemenid History 1"
+author: "Sancisi-Weerdenburg, Heleen "
+publication_year: "1987"
+title: "Achaemenid History, I: Sources, Structures and Synhesis. Proceedings of the Groningen 1983 Achaemenid History Workshop"
+title: "Achaemenid History, I: Sources, Structures and Synhesis. Proceedings of the Groningen 1983 Achaemenid History Workshop"
+previous_item: "17116"
+---

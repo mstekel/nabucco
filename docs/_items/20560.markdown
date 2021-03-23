@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20560"
+occurrence_id: "5019"
+short_title: "van der Spek 1993"
+author: "van der Spek, Robartus"
+publication_year: "1993"
+title: "New Evidence on Seleucid Land Policy"
+pages: "61-77"
+editor: "Sancisi-Weerdenburg, Heleen"
+book: "De Agricultura, Gs. De Neeve (Amsterdam)"
+title: "New Evidence on Seleucid Land Policy"
+previous_item: "20563"
+---

@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18313"
+occurrence_id: "539"
+short_title: "Pingree 1997"
+author: "Pingree, David "
+publication_year: "1997"
+title: "From Astral Omens to Astrology. From Babylon to Bikaner"
+title: "From Astral Omens to Astrology. From Babylon to Bikaner"
+previous_item: "18316"
+---

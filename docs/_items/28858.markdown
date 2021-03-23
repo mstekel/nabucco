@@ -1,0 +1,14 @@
+---
+layout: "tablet"
+slug: "28858"
+object_id: "7088"
+museum_no_: "BM 31286"
+publication: "CT 22"
+text_number: "96"
+period: "-"
+type_and_content: "Letters"
+publication_name: "CT 22 96"
+archive: "Egibi/Nūr-Sîn"
+title: "BM 31286"
+previous_item: "28861"
+---

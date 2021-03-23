@@ -1,0 +1,9 @@
+---
+layout: "archive"
+slug: "22825"
+archive_id: "112"
+archive_name: "Šumu-iddin/Aplāya"
+is_part_of: "Babylon"
+title: "Šumu-iddin/Aplāya"
+previous_item: "22828"
+---

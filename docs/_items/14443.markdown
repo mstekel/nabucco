@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14443"
+occurrence_id: "3585"
+short_title: "ZSS 68 (1951), 534-535"
+author: "Falkenstein, Adam"
+publication_year: "1951"
+title: "Rv. M. San Nicolò, Der neubabylonische Lehrvertrag in rechtsvergleichender Betrachtung (1950)"
+volume_no_: "68"
+pages: "534-535"
+journal: "Zeitschrift der Savigny-Stiftung für Rechtsgeschichte, romantistische Abteilung"
+title: "Rv. M. San Nicolò, Der neubabylonische Lehrvertrag in rechtsvergleichender Betrachtung (1950)"
+previous_item: "14446"
+---

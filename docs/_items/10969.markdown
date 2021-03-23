@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10969"
+occurrence_id: "2897"
+short_title: "Or 53 (1984), 422-424"
+author: "Hunger, Hermann"
+publication_year: "1984"
+title: "Rv. van Dijk - Mayer, Texte aus dem Rēš-Heiligtum in Uruk-Warka"
+volume_no_: "53"
+pages: "422-424"
+journal: "Orientalia"
+title: "Rv. van Dijk - Mayer, Texte aus dem Rēš-Heiligtum in Uruk-Warka"
+previous_item: "10972"
+---

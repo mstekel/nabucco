@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7840"
+occurrence_id: "275"
+short_title: "Oppert, ZA 7"
+author: "Oppert, Jules"
+publication_year: "1892"
+title: "Sin-sar-iskun, roi d’Assyrie"
+volume_no_: "7"
+pages: "334-343"
+journal: "Zeitschrift für Assyriologie und Vorderasiatische Archäologie"
+title: "Sin-sar-iskun, roi d’Assyrie"
+previous_item: "7843"
+---

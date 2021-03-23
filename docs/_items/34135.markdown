@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "34135"
+place_id: "1384"
+parent_id: "37"
+place_name: "Bīt-rab-kāṣir"
+related_objects: "4400"
+title: "Bīt-rab-kāṣir"
+previous_item: "34138"
+---

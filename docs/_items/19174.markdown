@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19174"
+occurrence_id: "4228"
+short_title: "Waerzeggers 2015"
+author: "Waerzeggers, Caroline"
+publication_year: "2015"
+title: "Babylonian Kingship in the Persian Period: Performance and Reception"
+pages: "181-222"
+editor: "Waerzeggers, Caroline"
+book: "Exile and Return: The Babylonian Context, Beiheft zur Zeitschrift für die alttestamentliche Wissenschaft 478 (Berlin)"
+title: "Babylonian Kingship in the Persian Period: Performance and Reception"
+previous_item: "19177"
+---

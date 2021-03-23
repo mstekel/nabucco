@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13855"
+occurrence_id: "3421"
+short_title: "ZA 61 (1971), 260-311"
+author: "Hinz, Walther"
+publication_year: "1971"
+title: "Achämenidische Hofverwaltung"
+volume_no_: "61"
+pages: "260-311"
+journal: "Zeitschrift für Assyriologie"
+title: "Achämenidische Hofverwaltung"
+previous_item: "13858"
+---

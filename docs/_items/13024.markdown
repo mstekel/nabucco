@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13024"
+occurrence_id: "1949"
+short_title: "Iraq 2 (1935), 223-231"
+author: "Kirk, George E."
+publication_year: "1935"
+title: "Gymnasium or Khan? A Hellenistic Building at Babylon"
+volume_no_: "2"
+pages: "223-231"
+journal: "Iraq"
+title: "Gymnasium or Khan? A Hellenistic Building at Babylon"
+previous_item: "13027"
+---

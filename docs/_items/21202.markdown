@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21202"
+occurrence_id: "5134"
+short_title: "Watkins 2001"
+author: "Watkins, Trevor"
+publication_year: "2001"
+title: "Re-thinking the Neolihic Revolution and its consequences"
+pages: "489-507"
+editor: "Breniquet, Catherine"
+book: "Études Mésopotamiennes, Fs. Huot (Paris)"
+title: "Re-thinking the Neolihic Revolution and its consequences"
+previous_item: "21205"
+---

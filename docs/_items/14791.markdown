@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "14791"
+occurrence_id: "2451"
+short_title: "NABU 1988/1"
+author: "Joannès, Francis"
+publication_year: "1988"
+title: "ig-gur.ki = Suse"
+volume_no_: "1"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "ig-gur.ki = Suse"
+previous_item: "14794"
+---

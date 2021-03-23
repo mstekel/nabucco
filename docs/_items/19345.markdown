@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19345"
+occurrence_id: "5141"
+short_title: "Finkbeiner 2001"
+author: "Finkbeiner, Uwe"
+publication_year: "2001"
+title: "When Does Ubaid End? When Does Uruk Begin?"
+pages: "151-162"
+editor: "Breniquet, Catherine"
+book: "Études Mésopotamiennes, Fs. Huot (Paris)"
+title: "When Does Ubaid End? When Does Uruk Begin?"
+previous_item: "19348"
+---

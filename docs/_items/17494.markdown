@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17494"
+occurrence_id: "203"
+short_title: "San Nicolò 1941"
+author: "Nicolò, Mariano San"
+publication_year: "1941"
+title: "Beiträge zu einer Prosopographie neubabylonischer.Beamten der Zivil- und Tempelverwaltung, Sitzungsberichte der Bayerischen Akademie der Wissenschaften1941/2.2 (München), 1941/2.2"
+title: "Beiträge zu einer Prosopographie neubabylonischer.Beamten der Zivil- und Tempelverwaltung, Sitzungsberichte der Bayerischen Akademie der Wissenschaften1941/2.2 (München), 1941/2.2"
+previous_item: "17497"
+---

@@ -1,0 +1,10 @@
+---
+layout: "archive"
+slug: "22870"
+archive_id: "7"
+archive_name: "Egibi/Nūr-Sîn"
+is_part_of: "Babylon"
+related_objects: "7063"
+title: "Egibi/Nūr-Sîn"
+previous_item: "22873"
+---

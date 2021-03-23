@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11902"
+occurrence_id: "1915"
+short_title: "IrAn 17 (1982 publ. 1983), 65-84"
+author: "Harper, Prudence O."
+publication_year: "1982 publ. 1983"
+title: "Five Clay Sculptures of the Neo-Babylonian Period"
+volume_no_: "17"
+pages: "65-84"
+journal: "Iranica Antiqua"
+title: "Five Clay Sculptures of the Neo-Babylonian Period"
+previous_item: "11905"
+---

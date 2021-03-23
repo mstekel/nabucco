@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11893"
+occurrence_id: "1867"
+short_title: "FF 18 (1942), 209-211"
+author: "Erdmann, Kurt"
+publication_year: "1942"
+title: "Zur Deutung der iranischen Felsreliefs"
+volume_no_: "18"
+pages: "209-211"
+journal: "Forschungen und Fortschritte"
+title: "Zur Deutung der iranischen Felsreliefs"
+previous_item: "11896"
+---

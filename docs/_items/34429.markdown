@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34429"
+place_id: "760"
+parent_id: "61"
+place_name: "Amanu"
+title: "Amanu"
+previous_item: "34432"
+---

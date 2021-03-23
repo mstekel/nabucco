@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16402"
+occurrence_id: "2067"
+short_title: "JAOS 108 (1988), 165-166"
+author: "Dandamayev, Muhammed A."
+publication_year: "1988"
+title: "Rv. E.V. Leichty, Catalogue of the Babylonian Tablets in the British Museum. Vol.VI, Tablets from Sippar, 1 (1986)"
+volume_no_: "108"
+pages: "165-166"
+journal: "Journal of the American Oriental Society"
+title: "Rv. E.V. Leichty, Catalogue of the Babylonian Tablets in the British Museum. Vol.VI, Tablets from Sippar, 1 (1986)"
+previous_item: "16405"
+---

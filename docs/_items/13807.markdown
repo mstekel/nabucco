@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13807"
+occurrence_id: "3162"
+short_title: "RT 19 (1897), 101-112"
+author: "Pinches, Theophilus G."
+publication_year: "1897"
+title: "Some Late-Babylonian Texts in the British Museum"
+volume_no_: "19"
+pages: "101-112"
+journal: "Recueil des travaux relatifs à la Philologie et à l’Archéologie Egyptiennes et Assyriennes"
+title: "Some Late-Babylonian Texts in the British Museum"
+previous_item: "13810"
+---

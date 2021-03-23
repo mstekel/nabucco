@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "19363"
+occurrence_id: "4132"
+short_title: "Grayson 1969"
+author: "Grayson, Albert K."
+publication_year: "1969"
+title: "Assyrian and Babylonian King Lists. Collations and Comments"
+pages: "105-118"
+editor: "Dietrich, Manfried"
+title: "Assyrian and Babylonian King Lists. Collations and Comments"
+previous_item: "19366"
+---

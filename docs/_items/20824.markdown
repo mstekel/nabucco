@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20824"
+occurrence_id: "4220"
+short_title: "Zaccagnini 2012"
+author: "Zaccagnini, Carlo"
+publication_year: "2012"
+title: "Maps of the World"
+pages: "865-873"
+editor: "Pappi, Cinzia"
+book: "Leggo! Studies Presented to Frederick Mario Fales on the Occasion of His 65th Birthday, Leipziger Altorientalische Studien 2 (Wiesbaden)"
+title: "Maps of the World"
+previous_item: "20827"
+---

@@ -1,0 +1,12 @@
+---
+layout: "bibliography"
+slug: "18514"
+occurrence_id: "4117"
+short_title: "Wunsch 2000"
+author: "Wunsch, Cornelia "
+publication_year: "2000"
+title: "Das Egibi Archiv. 1. Die Felder und Gärten. (Cuneiform Monographs 20A-B). Groningen."
+related_objects: "7204"
+title: "Das Egibi Archiv. 1. Die Felder und Gärten. (Cuneiform Monographs 20A-B). Groningen."
+previous_item: "18517"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8554"
+occurrence_id: "1941"
+short_title: "IrAn 5 (1965), 18-38"
+author: "Lambert, Maurice"
+publication_year: "1965"
+title: "Les inscriptions élamites de Tchogha-Zanbil"
+volume_no_: "5"
+pages: "18-38"
+journal: "Iranica Antiqua"
+title: "Les inscriptions élamites de Tchogha-Zanbil"
+previous_item: "8557"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11053"
+occurrence_id: "3351"
+short_title: "WeOr 8/2 (1976), 310-318"
+author: "Oelsner, Joachim"
+publication_year: "1976"
+title: "Zwischen Xerxes und Alexander: babylonische Rechtsurkunden und Wirtschaftstexte aus der späten Achämenidenzeit,"
+volume_no_: "8/2."
+pages: "310-318"
+journal: "Die Welt des Orients"
+title: "Zwischen Xerxes und Alexander: babylonische Rechtsurkunden und Wirtschaftstexte aus der späten Achämenidenzeit,"
+previous_item: "11056"
+---

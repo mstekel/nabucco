@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34732"
+place_id: "289"
+parent_id: "40"
+place_name: "Bīt-Hašb-ilimma-harbat"
+title: "Bīt-Hašb-ilimma-harbat"
+previous_item: "34735"
+---

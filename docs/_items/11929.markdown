@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11929"
+occurrence_id: "2059"
+short_title: "JAOS 102 (1982), 165-166"
+author: "Oller, G.H."
+publication_year: "1982"
+title: "Rv. S.M. Burstein, The Babyloniaca of Berossus"
+volume_no_: "102"
+pages: "165-166"
+journal: "Journal of the American Oriental Society"
+title: "Rv. S.M. Burstein, The Babyloniaca of Berossus"
+previous_item: "11932"
+---

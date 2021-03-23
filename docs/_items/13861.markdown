@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13861"
+occurrence_id: "3454"
+short_title: "ZA 75 (1985 publ. 1986), 210-233"
+author: "Farber, Walter"
+publication_year: "1985 publ. 1986"
+title: "Akkadisch \"blind\""
+volume_no_: "75"
+pages: "210-233"
+journal: "Zeitschrift für Assyriologie"
+title: "Akkadisch \"blind\""
+previous_item: "13864"
+---

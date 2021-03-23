@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18880"
+occurrence_id: "4867"
+short_title: "Dandamayev 1995b"
+author: "Dandamayev, Muhammed A."
+publication_year: "1995"
+title: "The Neo-Babylonian tamkārū"
+pages: "523-530"
+editor: "Sokoloff, Michael"
+book: "Solving Riddless and Untying Knots. Biblical, Epigraphic and Semitic Studies in Honor of Jonas C. Greenfield, Fs. Greenfield (Winona Lake)"
+title: "The Neo-Babylonian tamkārū"
+previous_item: "18883"
+---

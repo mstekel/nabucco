@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21574"
+occurrence_id: "4912"
+short_title: "Corò Capitanio 2005"
+author: "Corò Capitanio, Paola"
+publication_year: "2005"
+title: "Business profiles of multi-prebend holders in Seleucid Uruk: reconsidering the dossier of Lâbâši/Anu-zēru-iddin/Ekur-zākir"
+pages: "75-88"
+editor: "Baker, Heather D."
+book: "Approaching the Babylonian Economy, AOAT 330 (Münster)"
+title: "Business profiles of multi-prebend holders in Seleucid Uruk: reconsidering the dossier of Lâbâši/Anu-zēru-iddin/Ekur-zākir"
+previous_item: "21577"
+---

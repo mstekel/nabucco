@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17422"
+occurrence_id: "602"
+short_title: "Thompson 1927 (CBLT)"
+author: "Thompson, R. Campbell "
+publication_year: "1927"
+title: "A Catalogue of the Late Babylonian Tablets in the Bodleian Library"
+title: "A Catalogue of the Late Babylonian Tablets in the Bodleian Library"
+previous_item: "17425"
+---

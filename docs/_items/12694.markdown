@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12694"
+occurrence_id: "3176"
+short_title: "Saeculum 2 (1952), 422-455"
+author: "Miltner, Franz"
+publication_year: "1952"
+title: "Der Okeanos in der persischen Weltreichsidee (Achämeniden: Kambyses´ Karhago-Plan, Darius´ Kanal Nil-Rotes Meer, Erkandung des Seeweges vom Indus zum Roten Meer, Versuche der Umsegelung Afrikas)"
+volume_no_: "2"
+pages: "422-455"
+journal: "Saeculum"
+title: "Der Okeanos in der persischen Weltreichsidee (Achämeniden: Kambyses´ Karhago-Plan, Darius´ Kanal Nil-Rotes Meer, Erkandung des Seeweges vom Indus zum Roten Meer, Versuche der Umsegelung Afrikas)"
+previous_item: "12697"
+---

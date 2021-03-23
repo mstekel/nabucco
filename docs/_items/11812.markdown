@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11812"
+occurrence_id: "1430"
+short_title: "AoF 26 (1999), 3-12"
+author: "MacGinnis, John"
+publication_year: "1999"
+title: "Additional Prebend Texts from the British Museum"
+volume_no_: "26"
+pages: "3-12"
+journal: "Altorientalische Forschungen"
+title: "Additional Prebend Texts from the British Museum"
+previous_item: "11815"
+---

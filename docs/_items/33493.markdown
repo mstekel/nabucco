@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "33493"
+place_id: "1534"
+parent_id: "61"
+place_name: "Tagritajn"
+related_objects: "6985"
+title: "Tagritajn"
+previous_item: "33496"
+---

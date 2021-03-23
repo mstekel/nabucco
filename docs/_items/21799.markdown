@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21799"
+occurrence_id: "5009"
+short_title: "Frye 1972"
+author: "Frye, Richard N."
+publication_year: "1972"
+title: "The Institutions"
+pages: "83-93"
+editor: "Walser, Gerold"
+book: "Beiträge zur Achämenidengeschichte, Historia, Zeitschrift für alte Geschichte, Einzelschriften, Heft 18 (Wiesbaden)"
+title: "The Institutions"
+previous_item: "21802"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21346"
+occurrence_id: "4799"
+short_title: "Jursa 2014c"
+author: "Jursa, Michael"
+publication_year: "2014"
+title: "The Neo-Babylonian Empire"
+pages: "121-148"
+editor: "Gehler, Michael"
+book: "Imperien und Reiche in der Weltgeschichte. Epochenübergreifende und globalhistorische Vergleiche (Wiesbaden)"
+title: "The Neo-Babylonian Empire"
+previous_item: "21349"
+---

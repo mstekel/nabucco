@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16510"
+occurrence_id: "523"
+short_title: "Neugebauer 1957"
+author: "Neugebauer, Otto "
+publication_year: "1957"
+title: "\"Saros\" and Lunar Velocity in Babylonian Astronomy= Mat. Fys. Meddelelser. Kongelige Danske Videnskabernes Selskab 31, 4"
+title: "\"Saros\" and Lunar Velocity in Babylonian Astronomy= Mat. Fys. Meddelelser. Kongelige Danske Videnskabernes Selskab 31, 4"
+previous_item: "16513"
+---

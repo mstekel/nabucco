@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20719"
+occurrence_id: "4764"
+short_title: "Stolper 1999"
+author: "Stolper, Matthew W."
+publication_year: "1999"
+title: "Lurindu the Maiden, Bēl-ittannu the Dreamer, and Artaritassu the king"
+pages: "591-598"
+editor: "Böck, Barbara"
+book: "Munuscula Mesopotamica, Fs. Renger, AOAT 267 (Münster)"
+title: "Lurindu the Maiden, Bēl-ittannu the Dreamer, and Artaritassu the king"
+previous_item: "20722"
+---

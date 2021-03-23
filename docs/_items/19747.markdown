@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19747"
+occurrence_id: "5079"
+short_title: "Holtz 2010"
+author: "Holtz, Shalom E."
+publication_year: "2010"
+title: "«Judges of the King» in Achaemenid Mesopotamia"
+pages: "481-489"
+editor: "Curtis, John"
+book: "The World of Achaemenid Persia: History, Art and Society in Iran and the Ancient Near East (London)"
+title: "«Judges of the King» in Achaemenid Mesopotamia"
+previous_item: "19750"
+---

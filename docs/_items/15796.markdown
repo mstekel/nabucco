@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15796"
+occurrence_id: "1826"
+short_title: "Centaurus 32 (1989), 146-170"
+author: "Rochberg-Halton, Francesca"
+publication_year: "1989"
+title: "Babylonian Seasonal Hours"
+volume_no_: "32"
+pages: "146-170"
+journal: "Centaurus"
+title: "Babylonian Seasonal Hours"
+previous_item: "15799"
+---

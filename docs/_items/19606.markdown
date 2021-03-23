@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19606"
+occurrence_id: "4326"
+short_title: "Ebeling 1957"
+author: "Ebeling, Erich"
+publication_year: "1957"
+title: "Feld"
+pages: "35-39"
+editor: "Meissner, Bruno"
+book: "Reallexikon der Assyriologie 3 (1957)"
+title: "Feld"
+previous_item: "19609"
+---

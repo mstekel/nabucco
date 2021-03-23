@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "19258"
+occurrence_id: "4677"
+short_title: "Watanabe 2000"
+author: "Watanabe, Kazuko"
+publication_year: "2000"
+title: "The lion metaphor in the Mesopotamian Royal context"
+pages: "399-409"
+book: "Topoi Supplément 2, Les animaux et les hommes dans le monde syro-mésopotamien aux époques historiques (Lyon)"
+title: "The lion metaphor in the Mesopotamian Royal context"
+previous_item: "19261"
+---

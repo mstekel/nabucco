@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18148"
+occurrence_id: "321"
+short_title: "BiMes 24"
+author: "Weisberg, David B. "
+publication_year: "1991"
+title: "The Late Babylonian Texts of the Oriental Institute Collection. (Bibliotheca Mesopotamica 24)"
+title: "The Late Babylonian Texts of the Oriental Institute Collection. (Bibliotheca Mesopotamica 24)"
+previous_item: "18151"
+---

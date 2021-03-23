@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10813"
+occurrence_id: "2057"
+short_title: "JAOS 100 (1980), 283-305."
+author: "Henshaw, Richard A."
+publication_year: "1980"
+title: "Late-Assyrian Officialdom"
+volume_no_: "100"
+pages: "283-305"
+journal: "Journal of the American Oriental Society"
+title: "Late-Assyrian Officialdom"
+previous_item: "10816"
+---

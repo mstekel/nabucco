@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18352"
+occurrence_id: "792"
+short_title: "Ghirshman 1964"
+author: "Ghirshman, Roman "
+publication_year: "1964"
+title: "Iran. Protoiranier, Meder, Achämeniden, Universum der Kunst V (München)"
+title: "Iran. Protoiranier, Meder, Achämeniden, Universum der Kunst V (München)"
+previous_item: "18355"
+---

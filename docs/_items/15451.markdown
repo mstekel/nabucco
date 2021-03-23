@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15451"
+occurrence_id: "2989"
+short_title: "PSBA 5 (1883), 103-107"
+author: "Pinches, Theophilus G."
+publication_year: "1883"
+title: "Communication from T. G. Pinches"
+volume_no_: "5"
+pages: "103-107"
+journal: "Proceedings of the Society of Biblical Archaeology"
+title: "Communication from T. G. Pinches"
+previous_item: "15454"
+---

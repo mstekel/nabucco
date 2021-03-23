@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7627"
+occurrence_id: "2991"
+short_title: "PSBA 7 (1885), 148-152"
+author: "Pinches, Theophilus G."
+publication_year: "1885"
+title: "The State Barge of Darius"
+volume_no_: "7"
+pages: "148-152"
+journal: "Proceedings of the Society of Biblical Archaeology"
+title: "The State Barge of Darius"
+previous_item: "7630"
+---

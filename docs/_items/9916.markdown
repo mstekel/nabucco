@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9916"
+occurrence_id: "3235"
+short_title: "Sumer 41 (1985), 121-123"
+author: "Killick, R.G."
+publication_year: "1985"
+title: "Flood Control in Northern Babylonia"
+volume_no_: "41"
+pages: "121-123"
+journal: "Sumer"
+title: "Flood Control in Northern Babylonia"
+previous_item: "9919"
+---

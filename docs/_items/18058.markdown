@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18058"
+occurrence_id: "555"
+short_title: "SAA 10"
+author: "Parpola, Simo "
+publication_year: "1993"
+title: "State Archives of Assyria (SAA), volume X"
+title: "State Archives of Assyria (SAA), volume X"
+previous_item: "18061"
+---

@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34084"
+place_id: "559"
+parent_id: "40"
+place_name: "Kuzabatu"
+title: "Kuzabatu"
+previous_item: "34087"
+---

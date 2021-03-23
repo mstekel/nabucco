@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "16189"
+occurrence_id: "3940"
+short_title: "Orient 45 (2010), 3-33"
+author: "Frahm, Eckart"
+publication_year: "2010"
+title: "Counter-texts, Commentaries, and Adaptations: Politically Motivated Responses to the Babylonian Epic of Creation in Mesopotamia, the Biblical World, and Elswhere"
+volume_no_: "45"
+pages: "3-33"
+title: "Counter-texts, Commentaries, and Adaptations: Politically Motivated Responses to the Babylonian Epic of Creation in Mesopotamia, the Biblical World, and Elswhere"
+previous_item: "16192"
+---

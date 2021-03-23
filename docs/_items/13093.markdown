@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13093"
+occurrence_id: "2320"
+short_title: "JNES 47 (1988), 43-46"
+author: "Goldstein, Jonathan A."
+publication_year: "1988"
+title: "The Historical Setting of the Uruk Prophecy"
+volume_no_: "47"
+pages: "43-46"
+journal: "Journal of Near Eastern Studies"
+title: "The Historical Setting of the Uruk Prophecy"
+previous_item: "13096"
+---

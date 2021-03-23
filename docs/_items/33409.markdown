@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "33409"
+place_id: "397"
+parent_id: "40"
+place_name: "Bīt-Zēra-līšir"
+related_objects: "394"
+title: "Bīt-Zēra-līšir"
+previous_item: "33412"
+---

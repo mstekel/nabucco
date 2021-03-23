@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16345"
+occurrence_id: "1762"
+short_title: "BOR 6 (1892/1893), 35-36"
+author: "Pinches, Theophilus G."
+publication_year: "1892/1893"
+title: "Rough Notes on some Texts of the Seleucidae"
+volume_no_: "6"
+pages: "35-36"
+journal: "Babylonian and Oriental Record"
+title: "Rough Notes on some Texts of the Seleucidae"
+previous_item: "16348"
+---

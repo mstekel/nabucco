@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21565"
+occurrence_id: "4864"
+short_title: "Dandamayev 1993"
+author: "Dandamayev, Muhammed A."
+publication_year: "1993"
+title: "Textual Evidence for Iron in Babylonia in the 6th Century B.C."
+pages: "67-72"
+editor: "Zablocka, Julia"
+book: "Šulmu IV: Everyday Life in Ancient Near East (Prague)"
+title: "Textual Evidence for Iron in Babylonia in the 6th Century B.C."
+previous_item: "21568"
+---

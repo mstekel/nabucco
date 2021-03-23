@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13000"
+occurrence_id: "1821"
+short_title: "Centaurus 12 (1968), 97-106"
+author: "Neugebauer, Otto"
+publication_year: "1968"
+title: "Three Copernican Tables"
+volume_no_: "12"
+pages: "97-106"
+journal: "Centaurus"
+title: "Three Copernican Tables"
+previous_item: "13003"
+---

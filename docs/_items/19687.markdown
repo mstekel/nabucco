@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19687"
+occurrence_id: "4759"
+short_title: "Stolper 1989"
+author: "Stolper, Matthew W."
+publication_year: "1989"
+title: "On Interpreting Tributary Relationships in Achaemenid Babylonia"
+pages: "147-156"
+editor: "Herrenschmidt, Clarisse"
+book: "Le tribut dans l'empire perse. Actes de la Table ronde de Paris 12-13 Décembre 1986 (Paris)"
+title: "On Interpreting Tributary Relationships in Achaemenid Babylonia"
+previous_item: "19690"
+---

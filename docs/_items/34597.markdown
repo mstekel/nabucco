@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "34597"
+place_id: "1511"
+parent_id: "37"
+place_name: "Ālu-ša-Kināya"
+related_objects: "8155"
+title: "Ālu-ša-Kināya"
+previous_item: "34600"
+---

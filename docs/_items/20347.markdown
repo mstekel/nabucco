@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20347"
+occurrence_id: "4986"
+short_title: "Magdalene and Wunsch 2011"
+author: "Wunsch, Cornelia"
+publication_year: "2011"
+title: "Slavery between Judah and Babylon: The Exilic Experience"
+pages: "113-134"
+editor: "Culbertson, Laura "
+book: "Slaves and Households in the Near East. Papers from the Oriental Institute Seminar Slaves and Households in the Near East Held at the Oriental Institute of the University of Chicago 5-6 March 2010, Oriental Institute Studies 7 (Chicago)"
+title: "Slavery between Judah and Babylon: The Exilic Experience"
+previous_item: "20350"
+---

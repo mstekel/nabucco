@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20665"
+occurrence_id: "4476"
+short_title: "Altenmüller 2010"
+author: "Altenmüller, Hartwig"
+publication_year: "2010"
+title: "Bemerkungen zum Ostfeldzug Ptolemaios’ III. nach Babylon und in die Susiana im Jahre 246/245"
+pages: "27-44"
+editor: "Fincke, Jeanette"
+book: "Festschrift für Gernot Wilhelm anläßlich seines 65. Geburtstages am 28. Januar 2010 (Dresden)"
+title: "Bemerkungen zum Ostfeldzug Ptolemaios’ III. nach Babylon und in die Susiana im Jahre 246/245"
+previous_item: "20668"
+---

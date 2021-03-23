@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "15946"
+occurrence_id: "2632"
+short_title: "NABU 2001/60"
+author: "Zawadzki, Stefan"
+title: "New Data concerning High Officers from the Neo-Babylonian Period"
+volume_no_: "60"
+publication_year: "2001"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "New Data concerning High Officers from the Neo-Babylonian Period"
+previous_item: "15949"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15808"
+occurrence_id: "1890"
+short_title: "Historiae 3 (2006), 25-34."
+author: "Da Riva, Rocío"
+publication_year: "2006"
+title: "Los pastos del Ebabbar."
+volume_no_: "3"
+pages: "25-34"
+journal: "Historiae"
+title: "Los pastos del Ebabbar."
+previous_item: "15811"
+---

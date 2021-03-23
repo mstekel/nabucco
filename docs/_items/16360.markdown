@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16360"
+occurrence_id: "1843"
+short_title: "DAFI 4 (1974), 161-170"
+author: "Vallat, François"
+publication_year: "1974"
+title: "Les textes cunéiformes de la statue de Darius"
+volume_no_: "4"
+pages: "161-170"
+journal: "Cahiers de la Délégation Archéologique Française en Iran"
+title: "Les textes cunéiformes de la statue de Darius"
+previous_item: "16363"
+---

@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18010"
+occurrence_id: "212"
+short_title: "KB 4 (1896)"
+author: "Peiser, Felix  E."
+publication_year: "1896"
+title: "Texte juristischen und geschäftlichen Inhalts"
+title: "Texte juristischen und geschäftlichen Inhalts"
+previous_item: "18013"
+---

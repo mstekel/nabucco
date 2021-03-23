@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20359"
+occurrence_id: "5050"
+short_title: "Da Riva 2010"
+author: "Da Riva, Rocío"
+publication_year: "2010"
+title: "Dynastic Gods and Favourite Gods in the Neo-Babylonian Period."
+pages: "45-61"
+editor: "Lanfranchi, Giovanni , B."
+book: "Concepts of Kingship in Antiquity, Proceedings of the European Science foundation Exploratory Workshop Held in Padova, November 28th - December 1st, 2007, HANEM 11 (Padova)"
+title: "Dynastic Gods and Favourite Gods in the Neo-Babylonian Period."
+previous_item: "20362"
+---

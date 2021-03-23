@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12658"
+occurrence_id: "2984"
+short_title: "PSBA 17 (1895), 278-279"
+author: "Pinches, Theophilus G."
+publication_year: "1895"
+title: "Water Rate in Ancient Babylonia"
+volume_no_: "17"
+pages: "278-279"
+journal: "Proceedings of the Society of Biblical Archaeology"
+title: "Water Rate in Ancient Babylonia"
+previous_item: "12661"
+---

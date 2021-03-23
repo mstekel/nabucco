@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10648"
+occurrence_id: "1162"
+short_title: "ADAJ 41 (1997), 169-176"
+author: "Goguel, Anne"
+publication_year: "1997"
+title: "The Sela' Sculpture: A Neo-Babylonian Rock Relief in Southern Jordan"
+volume_no_: "41"
+pages: "169-176"
+journal: "Annual of the Department of Antiquities of Jordan"
+title: "The Sela' Sculpture: A Neo-Babylonian Rock Relief in Southern Jordan"
+previous_item: "10651"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9397"
+occurrence_id: "3462"
+short_title: "ZA 8 (1893), 106-113"
+author: "Strassmaier, Johann N."
+publication_year: "1893"
+title: "Zur Chronologie der Seleuciden"
+volume_no_: "8"
+pages: "106-113"
+journal: "Zeitschrift für Assyriologie"
+title: "Zur Chronologie der Seleuciden"
+previous_item: "9400"
+---

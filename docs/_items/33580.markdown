@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "33580"
+place_id: "1369"
+parent_id: "85"
+place_name: "Šušan"
+related_objects: "7859"
+title: "Šušan"
+previous_item: "33583"
+---

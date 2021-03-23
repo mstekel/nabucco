@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13939"
+occurrence_id: "3872"
+short_title: "YCS 3 (1932), 3-114"
+author: "Rostovtzeff, Michael I."
+publication_year: "1932"
+title: "Seleucid Babylonia. Bullae and Seals of Clay with Greek Inscriptions"
+volume_no_: "3"
+pages: "3-114"
+journal: "Yale Classical Studies"
+title: "Seleucid Babylonia. Bullae and Seals of Clay with Greek Inscriptions"
+previous_item: "13942"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9838"
+occurrence_id: "2814"
+short_title: "OLZ 90 (1995), 282-284"
+author: "Zawadzki, Stefan"
+publication_year: "1995"
+title: "Rv. C. Wunsch, Die Urkunden des babylonischen Geschäftsmannes Iddin-Marduk (CM 3, 1993)"
+volume_no_: "90"
+pages: "282-284"
+journal: "Orientalistische Literaturzeitung"
+title: "Rv. C. Wunsch, Die Urkunden des babylonischen Geschäftsmannes Iddin-Marduk (CM 3, 1993)"
+previous_item: "9841"
+---

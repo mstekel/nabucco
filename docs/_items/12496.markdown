@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12496"
+occurrence_id: "2108"
+short_title: "JAOS 36 (1917), 333-336"
+author: "Vanderburgh, Frederick A."
+publication_year: "1917"
+title: "A Business Letter of Anu-šar-usur,"
+volume_no_: "36"
+pages: "333-336"
+journal: "Journal of the American Oriental Society"
+title: "A Business Letter of Anu-šar-usur,"
+previous_item: "12499"
+---

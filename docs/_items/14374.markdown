@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14374"
+occurrence_id: "3211"
+short_title: "Sprache und Kultur [Tbilisi] Band 3 (2002), 37-38."
+author: "Dandamayev, Muhammed A."
+publication_year: "2002"
+title: "Shamash-ah-iddin from Uruk of the Sixth Century B.C."
+volume_no_: "3"
+pages: "37-38"
+journal: "Sprache und Kultur [Tbilisi]"
+title: "Shamash-ah-iddin from Uruk of the Sixth Century B.C."
+previous_item: "14377"
+---

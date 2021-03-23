@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15229"
+occurrence_id: "1792"
+short_title: "BSOAS 50 (1987), 125-126"
+author: "Dandamayev, Muhammed A."
+publication_year: "1987"
+title: "Rv. G.J.P. McEwan, Late Babylonian Texts in the Ashmolean Museum (OECT X, 1984)"
+volume_no_: "50"
+pages: "125-126"
+journal: "Bulletin of the School of Oriental and African Studies"
+title: "Rv. G.J.P. McEwan, Late Babylonian Texts in the Ashmolean Museum (OECT X, 1984)"
+previous_item: "15232"
+---

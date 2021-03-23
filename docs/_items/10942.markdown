@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10942"
+occurrence_id: "2752"
+short_title: "NAPR 4 (1989), 3-68"
+author: "Gasche, Hermann"
+publication_year: "1989"
+title: "Abū Qubūr 1987-1988, Chantier F. La Résidence Achéménide"
+volume_no_: "4"
+pages: "3-68"
+journal: "Northern Akkad Project Reports"
+title: "Abū Qubūr 1987-1988, Chantier F. La Résidence Achéménide"
+previous_item: "10945"
+---

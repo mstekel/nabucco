@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "21016"
+occurrence_id: "4140"
+short_title: "Shapur Shahbazi 2012"
+author: "Shapur Shahbazi, Alireza"
+publication_year: "2012"
+title: "The Achaemenid Persian Empire (550-330 BCE)"
+pages: "120-141"
+editor: "Daryaee, Touraj"
+title: "The Achaemenid Persian Empire (550-330 BCE)"
+previous_item: "21019"
+---

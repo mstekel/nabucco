@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34606"
+place_id: "46"
+parent_id: "4"
+place_name: "Kutha"
+title: "Kutha"
+previous_item: "34609"
+---

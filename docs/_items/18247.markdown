@@ -1,0 +1,12 @@
+---
+layout: "bibliography"
+slug: "18247"
+occurrence_id: "3299"
+short_title: "VS 20 (1978)"
+author: "Freydank, Helmut "
+publication_year: "1978"
+title: "Spätbabylonische Rechtsurkunden und Wirtschaftstexte aus Uruk"
+volume_no_: "20"
+title: "Spätbabylonische Rechtsurkunden und Wirtschaftstexte aus Uruk"
+previous_item: "18250"
+---

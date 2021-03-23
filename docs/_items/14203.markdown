@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14203"
+occurrence_id: "2290"
+short_title: "JNES 24 (1965), 351-354"
+author: "Hinz, Walther"
+publication_year: "1965"
+title: "The Elamite God Dgal"
+volume_no_: "24"
+pages: "351-354"
+journal: "Journal of Near Eastern Studies"
+title: "The Elamite God Dgal"
+previous_item: "14206"
+---

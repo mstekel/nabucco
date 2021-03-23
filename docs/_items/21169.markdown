@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21169"
+occurrence_id: "4958"
+short_title: "Vargyas 2004"
+author: "Vargyas, Péter"
+publication_year: "2004"
+title: "Le libéralisme séleucide et l'essor économique de la Babylonie: un rapport de cause à effet?"
+pages: "333-347"
+editor: "Duyrat, Frédérique"
+book: "Le roi et l'économie: Autonomies locales et structures royales dans l'économie de l'empire séleucide, Topoi Supplément 6 (Lyon)"
+title: "Le libéralisme séleucide et l'essor économique de la Babylonie: un rapport de cause à effet?"
+previous_item: "21172"
+---

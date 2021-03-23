@@ -1,0 +1,12 @@
+---
+layout: "bibliography"
+slug: "17488"
+occurrence_id: "72"
+short_title: "Peiser. KA"
+author: "Peiser, Felix  E."
+publication_year: "1889"
+title: "Keilschriftliche Acten-Stücke aus Babylonischen Städten. Von Steinen und Tafeln des Berliner Museum in Autographie, Transcription und Übersetzung herausgegeben und commentiert."
+related_objects: "2376"
+title: "Keilschriftliche Acten-Stücke aus Babylonischen Städten. Von Steinen und Tafeln des Berliner Museum in Autographie, Transcription und Übersetzung herausgegeben und commentiert."
+previous_item: "17491"
+---

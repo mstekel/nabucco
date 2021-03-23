@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13645"
+occurrence_id: "2289"
+short_title: "JNES 24 (1965), 337-340"
+author: "Reiner, Erica"
+publication_year: "1965"
+title: "The Earliest Elamite Inscription?"
+volume_no_: "24"
+pages: "337-340"
+journal: "Journal of Near Eastern Studies"
+title: "The Earliest Elamite Inscription?"
+previous_item: "13648"
+---

@@ -1,0 +1,12 @@
+---
+layout: "bibliography"
+slug: "16723"
+occurrence_id: "190"
+short_title: "CT 57"
+author: "Pinches, Theophilus G. "
+publication_year: "1982"
+title: "Cuneiform Texts from Babylonian Tablets in the British Museum"
+related_objects: "6025"
+title: "Cuneiform Texts from Babylonian Tablets in the British Museum"
+previous_item: "16726"
+---

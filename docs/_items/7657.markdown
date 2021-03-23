@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7657"
+occurrence_id: "3151"
+short_title: "RIDA 3e Série 7 (1960), 165-189"
+author: "Finley, Moses I."
+publication_year: "1960"
+title: "The Servile Statuses of Ancient Greece"
+volume_no_: "3/7."
+pages: "165-189"
+journal: "Revue Internationale des Droits de l'Antiquité"
+title: "The Servile Statuses of Ancient Greece"
+previous_item: "7660"
+---

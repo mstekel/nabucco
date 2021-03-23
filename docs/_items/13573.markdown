@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13573"
+occurrence_id: "1902"
+short_title: "IEJ 7 (1957), 130-134"
+author: "Rosen, H.B."
+publication_year: "1957"
+title: "Rv. H.H. Paper, the Phonology and Morphology of Royal Achaemenid Elamite"
+volume_no_: "7"
+pages: "130-134"
+journal: "Israel Exploration Journal"
+title: "Rv. H.H. Paper, the Phonology and Morphology of Royal Achaemenid Elamite"
+previous_item: "13576"
+---

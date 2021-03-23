@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17680"
+occurrence_id: "604"
+short_title: "Tuckerman 1962"
+author: "Tuckerman, Bryant "
+publication_year: "1962"
+title: "Planetary, Lunar and Solar Positions, 601 B.C. to A.D. 1 at five-day and ten-day intervals"
+title: "Planetary, Lunar and Solar Positions, 601 B.C. to A.D. 1 at five-day and ten-day intervals"
+previous_item: "17683"
+---

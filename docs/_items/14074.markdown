@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14074"
+occurrence_id: "1596"
+short_title: "BASOR 84 (1941), 22"
+author: "Albright, William F."
+publication_year: "1941"
+title: "Rv. J.Ph. Hyatt, The Treatment of Final Vowels in Early Neo-Babylonian"
+volume_no_: "84"
+pages: "22"
+journal: "Bulletin of the American Schools of Oriental Research"
+title: "Rv. J.Ph. Hyatt, The Treatment of Final Vowels in Early Neo-Babylonian"
+previous_item: "14077"
+---

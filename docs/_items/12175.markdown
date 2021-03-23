@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "12175"
+occurrence_id: "3385"
+short_title: "Strassmaier, ZA 3 (1888)"
+author: "Strassmaier, Johann N."
+publication_year: "1888"
+title: "Arsaciden-Inschriften"
+volume_no_: "3"
+pages: "129-158"
+title: "Arsaciden-Inschriften"
+previous_item: "12178"
+---

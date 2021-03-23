@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "13171"
+occurrence_id: "2740"
+short_title: "NABU 2010/87"
+author: "Tavernier, Jan"
+title: "On the value of TU4 in Late Babylonian."
+volume_no_: "87"
+publication_year: "2010"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "On the value of TU4 in Late Babylonian."
+previous_item: "13174"
+---

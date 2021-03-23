@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16543"
+occurrence_id: "740"
+short_title: "Berger 1973"
+author: "Berger, Paul-R. "
+publication_year: "1973"
+title: "Die neubabylonischen Königsinschriften. Königsinschriften des ausgehenden babylonischen Reiches (626-539 v. Chr.). Teil I, AOAT 4/1 (Kevelaer and Neukirchen-Vluyn)"
+title: "Die neubabylonischen Königsinschriften. Königsinschriften des ausgehenden babylonischen Reiches (626-539 v. Chr.). Teil I, AOAT 4/1 (Kevelaer and Neukirchen-Vluyn)"
+previous_item: "16546"
+---

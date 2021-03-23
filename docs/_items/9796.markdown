@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "9796"
+occurrence_id: "2589"
+short_title: "NABU 1998/27"
+author: "del Monte, Giuseppe F."
+title: "Ein neues Bruchstück der ausführlichen Annalen des Mursili"
+volume_no_: "27"
+publication_year: "1998"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Ein neues Bruchstück der ausführlichen Annalen des Mursili"
+previous_item: "9799"
+---

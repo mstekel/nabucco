@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9268"
+occurrence_id: "2765"
+short_title: "OLZ 24 (1921), 21-25, 79-88"
+author: "Schwenzner, Walter"
+publication_year: "1921"
+title: "Beiträge zur babylonischen Wirtschaftsgeschichte"
+volume_no_: "24"
+pages: "21-25, 79-88"
+journal: "Orientalistische Literaturzeitung"
+title: "Beiträge zur babylonischen Wirtschaftsgeschichte"
+previous_item: "9271"
+---

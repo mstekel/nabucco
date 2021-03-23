@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11788"
+occurrence_id: "1298"
+short_title: "AJAH 2 (1977), 129-146"
+author: "Sachs, Abraham J."
+publication_year: "1977"
+title: "Achaemenid Royal Names in Babylonian Astronomical Texts"
+volume_no_: "2"
+pages: "129-146"
+journal: "American Journal of Ancient History"
+title: "Achaemenid Royal Names in Babylonian Astronomical Texts"
+previous_item: "11791"
+---

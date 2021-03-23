@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11311"
+occurrence_id: "1737"
+short_title: "BiOr 67 (2010), 147-148"
+author: "Wiesehöfer, Josef"
+publication_year: "2010"
+title: "Rv. W.F.M. Henkelman, the other gods who are (Leiden 2008)."
+volume_no_: "67"
+pages: "147-148"
+journal: "Bibliotheca Orientalis"
+title: "Rv. W.F.M. Henkelman, the other gods who are (Leiden 2008)."
+previous_item: "11314"
+---

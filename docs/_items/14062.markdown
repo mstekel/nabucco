@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14062"
+occurrence_id: "1531"
+short_title: "AuOr 10 (1992), 211-221"
+author: "Stolper, Matthew W."
+publication_year: "1992"
+title: "The Estate of Mardonius"
+volume_no_: "10"
+pages: "211-221"
+journal: "Aula Orientalis"
+title: "The Estate of Mardonius"
+previous_item: "14065"
+---

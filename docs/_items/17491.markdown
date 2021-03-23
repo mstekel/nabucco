@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "17491"
+occurrence_id: "150"
+short_title: "CT 4"
+author: "Budge, E.A. Wallis "
+publication_year: "1898"
+title: "Cuneiform Texts from Babylonian Tablets in the British Museum"
+volume_no_: "4"
+related_objects: "5655"
+title: "Cuneiform Texts from Babylonian Tablets in the British Museum"
+previous_item: "17494"
+---

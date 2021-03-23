@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "9208"
+occurrence_id: "2441"
+short_title: "NABU 1987/55"
+author: "Al-'Adami, Khalid"
+publication_year: "1987"
+title: "Tablets from Sippar"
+volume_no_: "55"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Tablets from Sippar"
+previous_item: "9211"
+---

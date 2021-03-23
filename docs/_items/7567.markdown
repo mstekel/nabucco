@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "7567"
+occurrence_id: "2665"
+short_title: "NABU 2004/60"
+author: "Weszeli, Michaela"
+title: "\"zaj - zajin - za-a\"."
+volume_no_: "60"
+publication_year: "2004"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "\"zaj - zajin - za-a\"."
+previous_item: "7570"
+---

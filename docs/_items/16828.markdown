@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16828"
+occurrence_id: "896"
+short_title: "Theuer 2000"
+author: "Theuer, Gabriele "
+publication_year: "2000"
+title: "Der Mondgott in den Religionen Syrian-Palästinas. Unter besonderer Berücksichtigung von KTU 1.24., OBO 173 (Freiburg, Schweiz and Göttingen)"
+title: "Der Mondgott in den Religionen Syrian-Palästinas. Unter besonderer Berücksichtigung von KTU 1.24., OBO 173 (Freiburg, Schweiz and Göttingen)"
+previous_item: "16831"
+---

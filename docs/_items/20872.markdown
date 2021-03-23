@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "20872"
+occurrence_id: "4477"
+short_title: "Tadmor 1964"
+author: "Tadmor, Hayim"
+publication_year: "1964"
+title: "The Historical Background of the Cyrus Edict"
+pages: "450-473"
+book: "D. Oz 1e-David, Ben-Gurion Jubilee Volume (Jerusalem)"
+title: "The Historical Background of the Cyrus Edict"
+previous_item: "20875"
+---

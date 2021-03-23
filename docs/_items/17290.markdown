@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17290"
+occurrence_id: "582"
+short_title: "Smick 1953"
+author: "Smick, Elmer  B."
+publication_year: "1953"
+title: "A Cylinder of Nebuchadrezzar II."
+title: "A Cylinder of Nebuchadrezzar II."
+previous_item: "17293"
+---

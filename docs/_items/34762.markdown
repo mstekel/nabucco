@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34762"
+place_id: "769"
+parent_id: "61"
+place_name: "Apramātu"
+title: "Apramātu"
+previous_item: "34765"
+---

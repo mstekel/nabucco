@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11905"
+occurrence_id: "1931"
+short_title: "IrAn 31 (1996), 83-100"
+author: "Jacobs, Bruno"
+publication_year: "1996"
+title: "Kyros der Große als Geisel am medischen Königshof"
+volume_no_: "31"
+pages: "83-100"
+journal: "Iranica Antiqua"
+title: "Kyros der Große als Geisel am medischen Königshof"
+previous_item: "11908"
+---

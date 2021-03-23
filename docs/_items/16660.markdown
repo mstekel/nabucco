@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16660"
+occurrence_id: "645"
+short_title: "Zadok 1976"
+author: "Zadok, Ran "
+publication_year: "1976"
+title: "The Jews in Babylonia in the Chaldean and Achaemenian Periods in the Light of the Babylonian Sources"
+title: "The Jews in Babylonia in the Chaldean and Achaemenian Periods in the Light of the Babylonian Sources"
+previous_item: "16663"
+---

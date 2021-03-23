@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9019"
+occurrence_id: "1425"
+short_title: "AoF 22 (1995), 240-246"
+author: "Zawadzki, Stefan"
+publication_year: "1995"
+title: "NER 18 and NER 70 as a Source for the Topography of Babylonia"
+volume_no_: "22"
+pages: "240-246"
+journal: "Altorientalische Forschungen"
+title: "NER 18 and NER 70 as a Source for the Topography of Babylonia"
+previous_item: "9022"
+---

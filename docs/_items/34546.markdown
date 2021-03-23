@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34546"
+place_id: "859"
+parent_id: "61"
+place_name: "Bīt-Ē-ṭābi"
+title: "Bīt-Ē-ṭābi"
+previous_item: "34549"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11401"
+occurrence_id: "2220"
+short_title: "JCSMS 3 (2008), 21-31"
+author: "Frame, Grant"
+publication_year: "2008"
+title: "Babylon: Assyria's Problem and Assyria's Prize."
+volume_no_: "3"
+pages: "21-31"
+journal: "Journal of the Canadian Society for Mesopotamian Studies"
+title: "Babylon: Assyria's Problem and Assyria's Prize."
+previous_item: "11404"
+---

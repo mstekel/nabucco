@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8029"
+occurrence_id: "2132"
+short_title: "JAOS 94 (1974), 384-385"
+author: "Zvelebil, Kamil"
+publication_year: "1974"
+title: "Dravidian and Elamite - a real break-through?"
+volume_no_: "94"
+pages: "384-385"
+journal: "Journal of the American Oriental Society"
+title: "Dravidian and Elamite - a real break-through?"
+previous_item: "8032"
+---

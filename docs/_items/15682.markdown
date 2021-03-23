@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15682"
+occurrence_id: "1206"
+short_title: "AfO 25 (1974/77 publ. 1978), 195-197"
+author: "Graf, K."
+publication_year: "1974-77"
+title: "Rv. H. Lanz, Die neubabylonischen harrānu-Geschäftsunternehmen"
+volume_no_: "25"
+pages: "195-197"
+journal: "Archiv für Orientforschung"
+title: "Rv. H. Lanz, Die neubabylonischen harrānu-Geschäftsunternehmen"
+previous_item: "15685"
+---

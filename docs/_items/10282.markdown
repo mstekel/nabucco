@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10282"
+occurrence_id: "2185"
+short_title: "JCS 42 (1990, publ. 1991), 98-104"
+author: "Beaulieu, Paul-A."
+publication_year: "1990"
+title: "Texts and Fragments. Four Neo- and Late Babylonian Texts from a Private collection"
+volume_no_: "42"
+pages: "98-104"
+journal: "Journal of Cuneiform Studies"
+title: "Texts and Fragments. Four Neo- and Late Babylonian Texts from a Private collection"
+previous_item: "10285"
+---

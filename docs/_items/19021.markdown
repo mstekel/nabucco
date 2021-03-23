@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19021"
+occurrence_id: "4516"
+short_title: "Hunger 2000"
+author: "Hunger, Hermann"
+publication_year: "2000"
+title: "Saturnbeobachtungen aus der Zeit Nebukadnezars II."
+pages: "189-192"
+editor: "Neumann, Hans"
+book: "Assyriologica et Semitica, Fs. Oelsner. AOAT 252. (Münster)"
+title: "Saturnbeobachtungen aus der Zeit Nebukadnezars II."
+previous_item: "19024"
+---

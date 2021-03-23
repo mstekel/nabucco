@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16273"
+occurrence_id: "1373"
+short_title: "ANESt 42 (2005), 253-276."
+author: "Koch, Heidemarie"
+publication_year: "2005"
+title: "Achämenidische Verwaltung und Hinweise auf sie in den Randgebieten des persischen Großreiches."
+volume_no_: "42"
+pages: "253-276"
+journal: "Ancient Near Eastern Studies"
+title: "Achämenidische Verwaltung und Hinweise auf sie in den Randgebieten des persischen Großreiches."
+previous_item: "16276"
+---

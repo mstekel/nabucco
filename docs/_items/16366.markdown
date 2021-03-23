@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16366"
+occurrence_id: "1875"
+short_title: "FuB 28 (1990), 41-46"
+author: "Klengel-Brandt, Evelyn"
+publication_year: "1990"
+title: "Gab es ein Museum in der Hauptburg Nebukadnezars II. in Babylon?"
+volume_no_: "28"
+pages: "41-46"
+journal: "Forschungen und Berichte, Staatliche Museen zu Berlin"
+title: "Gab es ein Museum in der Hauptburg Nebukadnezars II. in Babylon?"
+previous_item: "16369"
+---

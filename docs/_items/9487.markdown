@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "9487"
+occurrence_id: "3944"
+short_title: "ZA 101/2 (2011), 274-293"
+author: "Mirelman, Sam"
+publication_year: "2011"
+title: "Two Summary Tablets of Balağ Compositions with Performative Indications from Labe-Babylonian Ur"
+volume_no_: "101/2"
+pages: "274-293"
+title: "Two Summary Tablets of Balağ Compositions with Performative Indications from Labe-Babylonian Ur"
+previous_item: "9490"
+---

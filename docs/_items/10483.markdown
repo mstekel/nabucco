@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10483"
+occurrence_id: "3284"
+short_title: "UF 22 (1990), 321-357."
+author: "van Soldt, Wilfred H."
+publication_year: "1990"
+title: "Fabrics and Dyes at Ugarit,"
+volume_no_: "22"
+pages: "321-357"
+journal: "Ugarit-Forschungen"
+title: "Fabrics and Dyes at Ugarit,"
+previous_item: "10486"
+---

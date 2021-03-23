@@ -1,0 +1,12 @@
+---
+layout: "bibliography"
+slug: "12853"
+occurrence_id: "4031"
+short_title: "NABU 2015/53"
+author: "Stolper, Matthew W."
+publication_year: "2015"
+title: "A Murašû Tablet Sold at Sotheby’s, New York, December, 2014"
+volume_no_: "2015/53"
+title: "A Murašû Tablet Sold at Sotheby’s, New York, December, 2014"
+previous_item: "12856"
+---

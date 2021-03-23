@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19390"
+occurrence_id: "4277"
+short_title: "Weisberg 2009a"
+author: "Weisberg, David B."
+publication_year: "2009"
+title: "Notes on Nebuchadnezzar's 37th Year."
+pages: "71-83"
+editor: "Scurlock, JoAnn"
+book: "In the Wake of Tikva Frymer-Kensky (Winona Lake)"
+title: "Notes on Nebuchadnezzar's 37th Year."
+previous_item: "19393"
+---

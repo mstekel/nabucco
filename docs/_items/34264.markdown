@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "34264"
+place_id: "1508"
+parent_id: "37"
+place_name: "Nār-Kūtê"
+related_objects: "7980"
+title: "Nār-Kūtê"
+previous_item: "34267"
+---

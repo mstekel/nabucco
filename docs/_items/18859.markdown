@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18859"
+occurrence_id: "4755"
+short_title: "Powell 1999"
+author: "Powell, Marvin A."
+publication_year: "1999"
+title: "Wir müssen alle unsere Nische nutzen: Moneys, Motives, und Methods in Babylonian Economics"
+pages: "5-23"
+editor: "Dercksen, Jan G."
+book: "Trade and Finance in Ancient Mesopotamia, MOS Studies 1, PIHANS 84 (Istanbul and Leiden)"
+title: "Wir müssen alle unsere Nische nutzen: Moneys, Motives, und Methods in Babylonian Economics"
+previous_item: "18862"
+---

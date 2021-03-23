@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11983"
+occurrence_id: "2350"
+short_title: "JNES 62 (2003), 284-286"
+author: "Biggs, Robert D."
+publication_year: "2003"
+title: "Rv. H. Hunger and D. Pingree, Astral Sciences in Mesopotamia, HdO 44 (Leiden and Boston/Köln 1999)"
+volume_no_: "62"
+pages: "284-286"
+journal: "Journal of Near Eastern Studies"
+title: "Rv. H. Hunger and D. Pingree, Astral Sciences in Mesopotamia, HdO 44 (Leiden and Boston/Köln 1999)"
+previous_item: "11986"
+---

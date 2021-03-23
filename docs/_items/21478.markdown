@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21478"
+occurrence_id: "4400"
+short_title: "Köcher 1995"
+author: "Köcher, Franz"
+publication_year: "1995"
+title: "Ein Text medizinischen Inhalts aus dem neubabylonischen Grab 405"
+pages: "203-217"
+editor: "Salje, Beate"
+book: "Uruk. Die Gräber, AUWE 10 (Berlin)"
+title: "Ein Text medizinischen Inhalts aus dem neubabylonischen Grab 405"
+previous_item: "21481"
+---

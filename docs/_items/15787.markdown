@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15787"
+occurrence_id: "1777"
+short_title: "BSOAS 34 (1971), 608-610"
+author: "Mackenzie, David N."
+publication_year: "1971"
+title: "Rv. R.T. Hallock, Persepolis Fortification Tablets (OIP 92)"
+volume_no_: "34"
+pages: "608-610"
+journal: "Bulletin of the School of Oriental and African Studies"
+title: "Rv. R.T. Hallock, Persepolis Fortification Tablets (OIP 92)"
+previous_item: "15790"
+---

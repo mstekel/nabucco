@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21829"
+occurrence_id: "5169"
+short_title: "Hinz 1963"
+author: "Hinz, Walther"
+publication_year: "Cambridge 1963"
+title: "Persia c. 2400-1800 B.C."
+pages: "Chapter XXIII"
+editor: "Walker, Christopher,  Bromhead F."
+book: "The Cambridge Ancient History. CAH I Chapter XXIII (Cambridge)"
+title: "Persia c. 2400-1800 B.C."
+previous_item: "21832"
+---

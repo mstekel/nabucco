@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "21631"
+occurrence_id: "195"
+short_title: "Ner."
+author: "Evetts, Basil Thomas A."
+publication_year: "1892"
+title: "Inscriptions of the Reign of Neriglissar, King of Babylon, in \"Evetts\""
+related_objects: "7040"
+book: "Inscriptions of the Reigns of Evil-Merodach (B.C. 562-559), Neriglissar (B.C. 559-555), and Laborosoarchod (B.C. 555), Babylonische Hefte VI-B"
+title: "Inscriptions of the Reign of Neriglissar, King of Babylon, in \"Evetts\""
+previous_item: "21634"
+---

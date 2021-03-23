@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33562"
+place_id: "1072"
+parent_id: "61"
+place_name: "Huṣṣēti-ša-mār-šarri"
+title: "Huṣṣēti-ša-mār-šarri"
+previous_item: "33565"
+---

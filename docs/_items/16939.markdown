@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16939"
+occurrence_id: "797"
+short_title: "Gundel, Gundel 1966"
+author: "Gundel, Wilhelm "
+publication_year: "1966"
+title: "Astrologumena. Die astrologische Literatur in der Antike und ihre Geschichte, Sudhof Fs. Archiv ... für Geschichte der Medizin and der Naturwissenschaften, der Pharmazie and der Mathematik, Beih. 6 (Wiesbaden)"
+title: "Astrologumena. Die astrologische Literatur in der Antike und ihre Geschichte, Sudhof Fs. Archiv ... für Geschichte der Medizin and der Naturwissenschaften, der Pharmazie and der Mathematik, Beih. 6 (Wiesbaden)"
+previous_item: "16942"
+---

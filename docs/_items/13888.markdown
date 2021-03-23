@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13888"
+occurrence_id: "3600"
+short_title: "Achaemenid History 8 (1994), 235-256"
+author: "Tuplin, Christopher"
+publication_year: "1994"
+title: "Persians as Medes"
+volume_no_: "8"
+pages: "235-256"
+journal: "Achaemenid History"
+title: "Persians as Medes"
+previous_item: "13891"
+---

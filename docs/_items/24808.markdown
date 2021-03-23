@@ -1,0 +1,17 @@
+---
+layout: "tablet"
+slug: "24808"
+object_id: "6822"
+nabucco_no_: "HS474"
+museum_no_: "HS 474"
+publication: "TMH 2/3"
+text_number: "30"
+type_and_content: "Leases"
+paraphrase: "Lease of a warehouse: Beginning with the 15th of the present month <strong>A</strong> rents out to <strong>B</strong> the storeroom (<em>bīt qātē</em>) of the <em>bīt asuppi</em>-building for 2 shekels of silver rent (<em>idū</em>) per year. The tenant will repair (<em>batqu ṣabātu</em>) the cracks in the walls (<em>asurr&ucirc;</em>) and renew the roof (<em>ūru &scaron;an&ucirc;</em>). He will give the daily (gift) of Enlil, <em>kīnayātu</em>-gifts and a date palm product (<em>&scaron;ugarr&ucirc;</em>). 2 witnesses and the scribe.<br /> &nbsp;<br /> <strong>A</strong> = &Scaron;iriktu/Lūṣi-ana-nūr-Marduk//Ilī-bāni; <strong>B</strong> = Nab&ucirc;-ana-aialuia/Bēl-pitinanni, <em>&scaron;irik Nab&ucirc;</em> (temple oblate of Nab&ucirc;); Scribe = Mu&scaron;ēzib-Bēl/Marduk-&scaron;umu-iddin//&Scaron;a-nā&scaron;i&scaron;u<br /> &nbsp;"
+imported: "Melanie Gross (12/12/2016)"
+publication_name: "TMH 2/3 30"
+archive: "Ea-ilūtu-bāni, Ilī-bāni and Nanāhu"
+bibliography: "Joannès 1989, 176"
+title: "HS 474"
+previous_item: "24811"
+---

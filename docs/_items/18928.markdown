@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18928"
+occurrence_id: "5123"
+short_title: "De Jong 2002"
+author: "De Jong, Teije"
+publication_year: "2002"
+title: "Early Babylonian Observations of Saturn: Astronomical Considerations"
+pages: "175-192"
+editor: "Imhausen, A."
+book: "Under One Sky, AOAT 297 (Münster)"
+title: "Early Babylonian Observations of Saturn: Astronomical Considerations"
+previous_item: "18931"
+---

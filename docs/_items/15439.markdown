@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15439"
+occurrence_id: "2922"
+short_title: "Or 68 (1999), 296-300"
+author: "Dandamayev, Muhammed A."
+publication_year: "1999"
+title: "Rv. A.C.V.M. Bongenaar, The Neo-Babylonian Ebabbar Temple at Sippar, PIHANS 80 (Leiden 1997)"
+volume_no_: "68"
+pages: "296-300"
+journal: "Orientalia"
+title: "Rv. A.C.V.M. Bongenaar, The Neo-Babylonian Ebabbar Temple at Sippar, PIHANS 80 (Leiden 1997)"
+previous_item: "15442"
+---

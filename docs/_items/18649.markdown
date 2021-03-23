@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18649"
+occurrence_id: "4738"
+short_title: "Inizan 2001"
+author: "Inizan, Marie-Louise"
+publication_year: "2001"
+title: "Du Paléolihique ancien sur les bords du Tigre dans le nord de l´Iraq"
+pages: "233-241"
+editor: "Breniquet, Catherine"
+book: "Études Mésopotamiennes, Fs. Huot (Paris)"
+title: "Du Paléolihique ancien sur les bords du Tigre dans le nord de l´Iraq"
+previous_item: "18652"
+---

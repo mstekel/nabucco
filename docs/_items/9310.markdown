@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9310"
+occurrence_id: "2994"
+short_title: "PSBA 9 (1887), 167-177"
+author: "Revillout, Eugène"
+publication_year: "1887"
+title: "Contrats de mariage et d'adoption dans l'Égypte et dans la Chaldée,"
+volume_no_: "9"
+pages: "167-177"
+journal: "Proceedings of the Society of Biblical Archaeology"
+title: "Contrats de mariage et d'adoption dans l'Égypte et dans la Chaldée,"
+previous_item: "9313"
+---

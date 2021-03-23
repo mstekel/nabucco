@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11266"
+occurrence_id: "1494"
+short_title: "ArOr 55 (1987), 291-196"
+author: "Landergott, Joseff"
+publication_year: "1987"
+title: "Zu den spätbabylonischen Texten im Ashmolean Museum (Oxford)"
+volume_no_: "55"
+pages: "291-196"
+journal: "Archív Orientalí"
+title: "Zu den spätbabylonischen Texten im Ashmolean Museum (Oxford)"
+previous_item: "11269"
+---

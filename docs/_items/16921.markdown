@@ -1,0 +1,12 @@
+---
+layout: "bibliography"
+slug: "16921"
+occurrence_id: "668"
+short_title: "CT 54"
+author: "Dietrich, Manfried "
+publication_year: "1979"
+title: "Cuneiform Texts from Babylonian Tablets in the British Museum: Neo-Babylonian Letters from the Kuyunjik Collection, CT 54 (London)"
+volume_no_: "54"
+title: "Cuneiform Texts from Babylonian Tablets in the British Museum: Neo-Babylonian Letters from the Kuyunjik Collection, CT 54 (London)"
+previous_item: "16924"
+---

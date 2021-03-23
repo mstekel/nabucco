@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9958"
+occurrence_id: "3463"
+short_title: "ZA 8 (1893), 149-178"
+author: "Epping, Jos"
+publication_year: "1893"
+title: "Der Saros-Canon der Babylonier"
+volume_no_: "8"
+pages: "149-178"
+journal: "Zeitschrift für Assyriologie"
+title: "Der Saros-Canon der Babylonier"
+previous_item: "9961"
+---

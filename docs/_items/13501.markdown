@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13501"
+occurrence_id: "1514"
+short_title: "Asia Maior NS 2 (1952), 132-144"
+author: "Gershevitch, Ilya"
+publication_year: "1952"
+title: "Rv. G.G. Cameron, Persepolis Treasury Tablets (OIP 65, Chicago 1948)"
+volume_no_: "2"
+pages: "132-144"
+journal: "Asia Maior NS"
+title: "Rv. G.G. Cameron, Persepolis Treasury Tablets (OIP 65, Chicago 1948)"
+previous_item: "13504"
+---

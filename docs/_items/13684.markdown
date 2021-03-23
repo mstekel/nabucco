@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "13684"
+occurrence_id: "2499"
+short_title: "NABU 1993/11"
+author: "Dandamayev, Muhammed A."
+title: "The Last Evidence for Nebuchadnezzar III's Reign"
+volume_no_: "11"
+publication_year: "1993"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "The Last Evidence for Nebuchadnezzar III's Reign"
+previous_item: "13687"
+---

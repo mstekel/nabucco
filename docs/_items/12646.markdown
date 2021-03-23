@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12646"
+occurrence_id: "2917"
+short_title: "Or 66 (1997), 111-116"
+author: "Zawadzki, Stefan"
+publication_year: "1997"
+title: "Rv. R.H. Sack, Neriglissar - King of Babylon (AOAT 236, 1994)"
+volume_no_: "66"
+pages: "111-116"
+journal: "Orientalia"
+title: "Rv. R.H. Sack, Neriglissar - King of Babylon (AOAT 236, 1994)"
+previous_item: "12649"
+---

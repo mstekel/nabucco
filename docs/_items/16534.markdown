@@ -1,0 +1,12 @@
+---
+layout: "bibliography"
+slug: "16534"
+occurrence_id: "665"
+short_title: "BRM 2"
+author: "Clay, Albert T. "
+publication_year: "1913"
+title: "Legal Documents from Erech Dated in the Seleucid Era (312-65 B.C.), Babylonian Records in the Library of J. Pierpont Morgan 2 (New York)"
+volume_no_: "2"
+title: "Legal Documents from Erech Dated in the Seleucid Era (312-65 B.C.), Babylonian Records in the Library of J. Pierpont Morgan 2 (New York)"
+previous_item: "16537"
+---

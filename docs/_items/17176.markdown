@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17176"
+occurrence_id: "671"
+short_title: "NRV (Glossar)"
+author: "Ungnad, Arthur San"
+publication_year: "1937"
+title: "Neubabylonische Rechts- und Verwaltungsurkunden übersetzt und erläutert. Glossar. Beiheft zu Band I (Leipzig)"
+title: "Neubabylonische Rechts- und Verwaltungsurkunden übersetzt und erläutert. Glossar. Beiheft zu Band I (Leipzig)"
+previous_item: "17179"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19516"
+occurrence_id: "4950"
+short_title: "Mittag 2015"
+author: "Mittag, Peter, Franz"
+publication_year: "2015"
+title: "Die Seleukiden in Mesopotamien. Tradierung und Neuerung"
+pages: "167-184"
+editor: "Hoffmann, Friedhelm"
+book: "Orient und Okzident in hellenistischer Zeit. Beiträge zur Tagung \"Orient und Okzident - Antagonismus oder Konstrukt? Machtstrukturen, Ideologien und Kulturtransfer in hellenistischer Zeit\", Würzburg 10.-13. April 2008 (Vaterstetten)"
+title: "Die Seleukiden in Mesopotamien. Tradierung und Neuerung"
+previous_item: "19519"
+---

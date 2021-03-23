@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "9247"
+occurrence_id: "2652"
+short_title: "NABU 2003/15"
+author: "Tarasewicz, Radosław"
+title: "YOS 6 141: the account of bird-keepers from Eanna Temple at Uruk"
+volume_no_: "15"
+publication_year: "2003"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "YOS 6 141: the account of bird-keepers from Eanna Temple at Uruk"
+previous_item: "9250"
+---

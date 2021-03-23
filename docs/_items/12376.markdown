@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12376"
+occurrence_id: "1463"
+short_title: "ArOr 18 (1950), 69-106"
+author: "Baumgartner, Walter"
+publication_year: "1950"
+title: "Herodots Babylonische und Assyrische Nachrichten"
+volume_no_: "18"
+pages: "69-106"
+journal: "Archív Orientalí"
+title: "Herodots Babylonische und Assyrische Nachrichten"
+previous_item: "12379"
+---

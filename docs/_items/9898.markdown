@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9898"
+occurrence_id: "3139"
+short_title: "Revue des Sciences Religieuses 30 (1956), 52"
+author: "Vincent, A."
+publication_year: "1956"
+title: "Rv. R. Ghirshman, Iran: From the Earliest Times to theIslamic Conquest"
+volume_no_: "30"
+pages: "52"
+journal: "Revue des Sciences Religieuses"
+title: "Rv. R. Ghirshman, Iran: From the Earliest Times to theIslamic Conquest"
+previous_item: "9901"
+---

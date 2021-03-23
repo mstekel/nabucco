@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19969"
+occurrence_id: "5160"
+short_title: "al-Jadir 1997"
+author: "al-Jadir, Walid"
+publication_year: "1997"
+title: "Le dégagement de la Ziggurat à Sippar"
+pages: "291-293"
+editor: "Hauptmann, H."
+book: "Assyrien im Wandel der Zeiten. RAI 39. (Heidelberg)"
+title: "Le dégagement de la Ziggurat à Sippar"
+previous_item: "19972"
+---

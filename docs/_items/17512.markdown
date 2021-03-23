@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17512"
+occurrence_id: "368"
+short_title: "Dalley 1998"
+author: "Dalley, Stephanie "
+publication_year: "1998"
+title: "The Legacy of Mesopotamia"
+title: "The Legacy of Mesopotamia"
+previous_item: "17515"
+---

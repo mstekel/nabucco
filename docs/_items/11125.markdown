@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11125"
+occurrence_id: "3739"
+short_title: "JRAS 107 (1975), 106-115"
+author: "Hinz, Walther"
+publication_year: "1975"
+title: "Problems of Linear Elamite"
+volume_no_: "107"
+pages: "106-115"
+journal: "Journal of the Royal Asiatic Society"
+title: "Problems of Linear Elamite"
+previous_item: "11128"
+---

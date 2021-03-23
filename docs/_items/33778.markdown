@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33778"
+place_id: "982"
+parent_id: "61"
+place_name: "Dūru-ša-x-Nār-[]"
+title: "Dūru-ša-x-Nār-[]"
+previous_item: "33781"
+---

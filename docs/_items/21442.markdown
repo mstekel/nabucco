@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "21442"
+occurrence_id: "4207"
+short_title: "Becking 2002"
+author: "Becking, Bob"
+publication_year: "2002"
+title: "West Semites at Tell Šeh Hamad: Evidence for the Israelite Exile?"
+pages: "153-166"
+editor: "Knauf, Ernst Axel"
+title: "West Semites at Tell Šeh Hamad: Evidence for the Israelite Exile?"
+previous_item: "21445"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19267"
+occurrence_id: "4725"
+short_title: "Root 2010"
+author: "Root, Margaret Cool"
+publication_year: "2010"
+title: "Palace to Temple - King to Cosmos: Achaemenid foundation Texts in Iran."
+pages: "165-210"
+editor: "Novotny, Jamie R."
+book: "From the foundations to the Crenellations. Essays on Temple Building in the Ancient Near East and Hebrew Bible, AOAT 366 (Münster)"
+title: "Palace to Temple - King to Cosmos: Achaemenid foundation Texts in Iran."
+previous_item: "19270"
+---

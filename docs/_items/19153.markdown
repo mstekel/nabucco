@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19153"
+occurrence_id: "271"
+short_title: "Böhl 1948"
+author: "Böhl, Franz Marius Th."
+publication_year: "1948"
+title: "Eine Tauschurkunde aus dem fünften Regierungsjahr des Aššūr-nādin-šumi (694 v. Chr.)"
+pages: "116-137"
+related_objects: "5651"
+book: "Orientalia Neerlandica. A Volume of Oriental Studies"
+title: "Eine Tauschurkunde aus dem fünften Regierungsjahr des Aššūr-nādin-šumi (694 v. Chr.)"
+previous_item: "19156"
+---

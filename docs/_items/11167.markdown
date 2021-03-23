@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "11167"
+occurrence_id: "3963"
+short_title: "ZA 104/2 (2014), 182-194"
+author: "Hunger, Hermann"
+publication_year: "2014"
+title: "Almanac W22340a From Uruk: The Latest Datable Cuneiform Tablet"
+volume_no_: "104/2"
+pages: "182-194"
+title: "Almanac W22340a From Uruk: The Latest Datable Cuneiform Tablet"
+previous_item: "11170"
+---

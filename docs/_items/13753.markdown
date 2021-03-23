@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13753"
+occurrence_id: "2869"
+short_title: "Or 33 (1964), 262"
+author: "Hinz, Walther"
+publication_year: "1964"
+title: "Zu altpersisch brazmaniya"
+volume_no_: "33"
+pages: "262"
+journal: "Orientalia"
+title: "Zu altpersisch brazmaniya"
+previous_item: "13756"
+---

@@ -1,0 +1,12 @@
+---
+layout: "bibliography"
+slug: "18460"
+occurrence_id: "643"
+short_title: "YOS 19"
+author: "Beaulieu, Paul-A. "
+publication_year: "2000"
+title: "Legal and Administrative Texts from the Reign of Nabonidus. Yale Oriental Series, Babylonian Texts 19 (New Haven)"
+related_objects: "7455"
+title: "Legal and Administrative Texts from the Reign of Nabonidus. Yale Oriental Series, Babylonian Texts 19 (New Haven)"
+previous_item: "18463"
+---

@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34447"
+place_id: "1048"
+parent_id: "61"
+place_name: "Hurbat-Kalbi"
+title: "Hurbat-Kalbi"
+previous_item: "34450"
+---

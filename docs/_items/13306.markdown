@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13306"
+occurrence_id: "3469"
+short_title: "ZA 83 (1993), 219-236"
+author: "Koch, Heidemarie"
+publication_year: "1993"
+title: "Elamisches Gilgameš-Epos oder doch Verwaltungstäfelchen?"
+volume_no_: "83"
+pages: "219-236"
+journal: "Zeitschrift für Assyriologie"
+title: "Elamisches Gilgameš-Epos oder doch Verwaltungstäfelchen?"
+previous_item: "13309"
+---

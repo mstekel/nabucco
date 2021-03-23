@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19138"
+occurrence_id: "5140"
+short_title: "Seidl 2000a"
+author: "Seidl, Ursula"
+publication_year: "2000"
+title: "Der unbewaffnete Babylonier auf den achämenidischen Grabfassaden"
+pages: "953-959"
+editor: "Graziani, Simonetta"
+book: "Studi sul vicino oriente antico dedicati alla memoria di Luigi Cagni (Napoli)"
+title: "Der unbewaffnete Babylonier auf den achämenidischen Grabfassaden"
+previous_item: "19141"
+---

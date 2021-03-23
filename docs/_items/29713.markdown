@@ -1,0 +1,15 @@
+---
+layout: "tablet"
+slug: "29713"
+object_id: "7684"
+museum_no_: "MMA 86.11.437"
+publication: "CTMMA 3"
+text_number: "143"
+duplicate: "BM 41399 "
+imported: "Kathleen Abraham 15/04/2017"
+publication_name: "CTMMA 3 143"
+archive: "Egibi/Nūr-Sîn"
+related_objects: "7221"
+title: "MMA 86.11.437"
+previous_item: "29716"
+---

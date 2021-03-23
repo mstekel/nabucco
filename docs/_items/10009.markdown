@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10009"
+occurrence_id: "3737"
+short_title: "JRAS 1 (1991), 1-17"
+author: "Dalley, Stephanie"
+publication_year: "1991"
+title: "Gilgamesh in the Arabian Nights"
+volume_no_: "1"
+pages: "1-17."
+journal: "Journal of the Royal Asiatic Society"
+title: "Gilgamesh in the Arabian Nights"
+previous_item: "10012"
+---

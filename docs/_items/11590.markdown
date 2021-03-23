@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11590"
+occurrence_id: "3238"
+short_title: "Syria 33 (1956), 175-183"
+author: "Weidner, Ernst F."
+publication_year: "1956"
+title: "Ein Losbuch in Keilschrift aus der Seleukidenzeit (Note additionnelle)"
+volume_no_: "33"
+pages: "175-183"
+journal: "Syria"
+title: "Ein Losbuch in Keilschrift aus der Seleukidenzeit (Note additionnelle)"
+previous_item: "11593"
+---

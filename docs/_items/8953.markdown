@@ -1,0 +1,15 @@
+---
+layout: "bibliography"
+slug: "8953"
+occurrence_id: "180"
+short_title: "Beaulieu, BaM 28"
+author: "Beaulieu, Paul-A."
+publication_year: "1997"
+title: "The Fourth Year of Hostilities in the Land"
+volume_no_: "28"
+pages: "367-394"
+related_objects: "5769"
+journal: "Baghdader Mitteilungen"
+title: "The Fourth Year of Hostilities in the Land"
+previous_item: "8956"
+---

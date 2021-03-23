@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10879"
+occurrence_id: "2412"
+short_title: "Mesopotamia 29 (1994), 89-105"
+author: "Gibson, McGuire"
+publication_year: "1994"
+title: "Parthian seal style: a contribution from Nippur"
+volume_no_: "29"
+pages: "89-105"
+journal: "Mesopotamia"
+title: "Parthian seal style: a contribution from Nippur"
+previous_item: "10882"
+---

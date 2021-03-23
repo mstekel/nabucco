@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33364"
+place_id: "1427"
+parent_id: "55"
+place_name: "Zuhrini"
+title: "Zuhrini"
+previous_item: "33367"
+---

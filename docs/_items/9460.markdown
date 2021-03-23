@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9460"
+occurrence_id: "3800"
+short_title: "NBGAW 2 (1964), 3-11"
+author: "Harmatta, János"
+publication_year: "1964"
+title: "Das Problem der Sklaverei im altpersischen Reich"
+volume_no_: "2"
+pages: "3-11."
+journal: "Neue Beiträge zur Geschichte der Alten Welt"
+title: "Das Problem der Sklaverei im altpersischen Reich"
+previous_item: "9463"
+---

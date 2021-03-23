@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21058"
+occurrence_id: "4366"
+short_title: "Joannès 2000b"
+author: "Joannès, Francis"
+publication_year: "2000"
+title: "Les textes judiciaires néo-babyloniens"
+pages: "201-239"
+editor: "Joannès, Francis"
+book: "Rendre la justice en Mésopotamie. Archives judiciaires du Proche-Orient ancien (Saint-Denis)"
+title: "Les textes judiciaires néo-babyloniens"
+previous_item: "21061"
+---

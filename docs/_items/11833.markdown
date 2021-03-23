@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11833"
+occurrence_id: "1544"
+short_title: "BA 1 (1890), 492-536"
+author: "Zehnpfand, Rudolf"
+publication_year: "1890"
+title: "Babylonische Weberrechnungen"
+volume_no_: "1"
+pages: "492-536"
+journal: "Beiträge zur Assyriologie"
+title: "Babylonische Weberrechnungen"
+previous_item: "11836"
+---

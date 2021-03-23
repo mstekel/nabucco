@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21100"
+occurrence_id: "4590"
+short_title: "Oelsner, Wells and Wunsch 2003"
+author: "Wells, Bruce"
+publication_year: "2003"
+title: "Neo-Babylonian Period"
+pages: "911- 974"
+editor: "Westbrook, Raymond"
+book: "A History of Ancient Near Eastern Law, 2 (Leiden and Boston)"
+title: "Neo-Babylonian Period"
+previous_item: "21103"
+---

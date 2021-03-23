@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11404"
+occurrence_id: "2236"
+short_title: "JESHO 18 (1975), 165-188"
+author: "Briant, Pierre"
+publication_year: "1975"
+title: "Villages et communautés villageoises d´Asie achéménide et hellénistique"
+volume_no_: "18"
+pages: "165-188"
+journal: "Journal of the Economic and Social History of the Orient"
+title: "Villages et communautés villageoises d´Asie achéménide et hellénistique"
+previous_item: "11407"
+---

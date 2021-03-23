@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15691"
+occurrence_id: "1257"
+short_title: "AfO 50 (2003/2004), 340-344"
+author: "Al-Rawi, Farouk , N.H."
+publication_year: "2003-2004"
+title: "IM 44152: A Jupiter Observational Tablet from Uruk."
+volume_no_: "50"
+pages: "340-344"
+journal: "Archiv für Orientforschung"
+title: "IM 44152: A Jupiter Observational Tablet from Uruk."
+previous_item: "15694"
+---

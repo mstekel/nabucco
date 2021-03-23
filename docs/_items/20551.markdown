@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20551"
+occurrence_id: "4971"
+short_title: "Clancier 2012"
+author: "Clancier, Philippe"
+publication_year: "2012"
+title: "\"Le satammu, l’Assemblée de l’Esagil et les Babyloniens\". Les notables de Babylone: du relais local à la marginalisation"
+pages: "298-327"
+editor: "Feyel, Christophe"
+book: "Communautés locales et pouvoir central dans l’Orient hellénistique et romain, Études Anciennes 47 (Nancy)"
+title: "\"Le satammu, l’Assemblée de l’Esagil et les Babyloniens\". Les notables de Babylone: du relais local à la marginalisation"
+previous_item: "20554"
+---

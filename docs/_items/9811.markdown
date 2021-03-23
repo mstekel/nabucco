@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "9811"
+occurrence_id: "2669"
+short_title: "NABU 2004/90"
+author: "Baker, Heather D."
+title: "OIP 122 12: some remarks."
+volume_no_: "90"
+publication_year: "2004"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "OIP 122 12: some remarks."
+previous_item: "9814"
+---

@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17035"
+occurrence_id: "599"
+short_title: "Tallqvist 1914"
+author: "Tallqvist, Knut L. "
+publication_year: "1914"
+title: "Assyrian Personal Names, Annales Academiae Scientiarum Fennicae 43/1"
+title: "Assyrian Personal Names, Annales Academiae Scientiarum Fennicae 43/1"
+previous_item: "17038"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11620"
+occurrence_id: "3400"
+short_title: "ZA 5 (1890), 276-280"
+author: "Sayce, Archibald H."
+publication_year: "1890"
+title: "Babylonian Contract-Tablet Belonging to the Imperial Academy of Sciences at St. Petersburg,"
+volume_no_: "5"
+pages: "276-280"
+journal: "Zeitschrift für Assyriologie"
+title: "Babylonian Contract-Tablet Belonging to the Imperial Academy of Sciences at St. Petersburg,"
+previous_item: "11623"
+---

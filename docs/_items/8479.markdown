@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8479"
+occurrence_id: "1538"
+short_title: "AuOr 24 (2006), 150."
+author: "Arnaud, Daniel"
+publication_year: "2006"
+title: "Remarques sur deux textes néo-babyloniens"
+volume_no_: "24"
+pages: "150"
+journal: "Aula Orientalis"
+title: "Remarques sur deux textes néo-babyloniens"
+previous_item: "8482"
+---

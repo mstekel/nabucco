@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "7813"
+occurrence_id: "3990"
+short_title: "Kaskal 12 (2015), 503-517"
+author: "Michel, Patrick, M."
+publication_year: "2015"
+title: "Élites mésopotamiennes et ideologie seleucide: considerations sur la pratique de l’evergetisme et du culte royal"
+volume_no_: "12"
+pages: "503-517"
+title: "Élites mésopotamiennes et ideologie seleucide: considerations sur la pratique de l’evergetisme et du culte royal"
+previous_item: "7816"
+---

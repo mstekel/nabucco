@@ -1,0 +1,15 @@
+---
+layout: "bibliography"
+slug: "15667"
+occurrence_id: "698"
+short_title: "Weszeli, WZKM 86"
+author: "Weszeli, Michaela"
+publication_year: "1996"
+title: "Eseleien I"
+volume_no_: "86"
+pages: "461-478"
+related_objects: "7532"
+journal: "Wiener Zeitschrift für die Kunde des Morgenlandes"
+title: "Eseleien I"
+previous_item: "15670"
+---

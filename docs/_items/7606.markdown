@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7606"
+occurrence_id: "2874"
+short_title: "Or 36 (1967), 323-333"
+author: "Hinz, Walther"
+publication_year: "1967"
+title: "Elamica II"
+volume_no_: "36"
+pages: "323-333"
+journal: "Orientalia"
+title: "Elamica II"
+previous_item: "7609"
+---

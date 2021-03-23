@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18343"
+occurrence_id: "738"
+short_title: "Beaulieu 1989"
+author: "Beaulieu, Paul-A. "
+publication_year: "1989"
+title: "The Reign of Nabonidus, King of Babylon (556-539 B.C.), YNER 10 (New Haven and London)"
+title: "The Reign of Nabonidus, King of Babylon (556-539 B.C.), YNER 10 (New Haven and London)"
+previous_item: "18346"
+---

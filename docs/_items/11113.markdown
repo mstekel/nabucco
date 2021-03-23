@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11113"
+occurrence_id: "3675"
+short_title: "Eos 72 (1984 publ. 1985), 253-267"
+author: "Zawadzki, Stefan"
+publication_year: "1984 publ. 1985"
+title: "Herodotus´Assyrian History"
+volume_no_: "72"
+pages: "253-267"
+journal: "Eos. Commentarii Societatis Philologae Polonorum"
+title: "Herodotus´Assyrian History"
+previous_item: "11116"
+---

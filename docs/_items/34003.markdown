@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34003"
+place_id: "1036"
+parent_id: "61"
+place_name: "Hišubati"
+title: "Hišubati"
+previous_item: "34006"
+---

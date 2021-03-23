@@ -1,0 +1,9 @@
+---
+layout: "archive"
+slug: "23032"
+archive_id: "400"
+archive_name: "Nabû-ahhē-bulliṭ"
+is_part_of: "Uruk"
+title: "Nabû-ahhē-bulliṭ"
+previous_item: "23035"
+---

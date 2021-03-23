@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9148"
+occurrence_id: "2118"
+short_title: "JAOS 64 (1944), 34-36"
+author: "Lewy, Julius"
+publication_year: "1944"
+title: "Neo-Babylonian Names of the Days of the Week?"
+volume_no_: "64"
+pages: "34-36"
+journal: "Journal of the American Oriental Society"
+title: "Neo-Babylonian Names of the Days of the Week?"
+previous_item: "9151"
+---

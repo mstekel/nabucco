@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14128"
+occurrence_id: "1887"
+short_title: "Historia 6 (1957), 499-504"
+author: "Bengston, Hermann"
+publication_year: "1957"
+title: "Neue Quellen zur Geschichte der neubabylonischen Zeit"
+volume_no_: "6"
+pages: "499-504"
+journal: "Historia"
+title: "Neue Quellen zur Geschichte der neubabylonischen Zeit"
+previous_item: "14131"
+---

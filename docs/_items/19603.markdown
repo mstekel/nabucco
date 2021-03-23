@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19603"
+occurrence_id: "4310"
+short_title: "Cussini 2000"
+author: "Cussini, Eleonora"
+publication_year: "2000"
+title: "Palaeography of the Aramaic Epigraphs from Tell Neirab"
+pages: "1459-1479"
+editor: "Graziani, Simonetta"
+book: "Studi sul vicino oriente antico dedicati alla memoria di Luigi Cagni (Napoli)"
+title: "Palaeography of the Aramaic Epigraphs from Tell Neirab"
+previous_item: "19606"
+---

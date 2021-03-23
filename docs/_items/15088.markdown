@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "15088"
+occurrence_id: "4051"
+short_title: "RA 104 (2010), 99-130"
+author: "Weszeli, Michaela"
+publication_year: "2010"
+title: "A New Boundary Stone of the Reign of Nabû-mukīn-apli (978-943 BC)"
+volume_no_: "104"
+pages: "99-130"
+title: "A New Boundary Stone of the Reign of Nabû-mukīn-apli (978-943 BC)"
+previous_item: "15091"
+---

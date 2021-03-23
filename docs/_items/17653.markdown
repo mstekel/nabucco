@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17653"
+occurrence_id: "441"
+short_title: "Hopkins 1972"
+author: "Hopkins, Clark "
+publication_year: "1972"
+title: "Topography and architecture of Seleucia on the Tigris"
+title: "Topography and architecture of Seleucia on the Tigris"
+previous_item: "17656"
+---

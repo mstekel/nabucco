@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21706"
+occurrence_id: "4513"
+short_title: "Hunger 1993"
+author: "Hunger, Hermann"
+publication_year: "1993"
+title: "Astronomische Beobachtungen in neubabylonischer Zeit"
+pages: "139-147"
+editor: "Galter, Hannes , D."
+book: "Die Rolle der Astronomie in den Kulturen Mesopotamiens, GMS 3 (Graz)"
+title: "Astronomische Beobachtungen in neubabylonischer Zeit"
+previous_item: "21709"
+---

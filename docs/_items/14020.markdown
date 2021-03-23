@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14020"
+occurrence_id: "1302"
+short_title: "AJSL 56 (1939), 121-145"
+author: "Poebel, A."
+publication_year: "1939"
+title: "The Duration of the Reign of Smerdis, the Magian, and the Reigns of Nebuchadnezzar III and Nebuchadnezzar IV"
+volume_no_: "56"
+pages: "121-145"
+journal: "American Journal of Semitic Languages and Literatures"
+title: "The Duration of the Reign of Smerdis, the Magian, and the Reigns of Nebuchadnezzar III and Nebuchadnezzar IV"
+previous_item: "14023"
+---

@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "21055"
+occurrence_id: "4350"
+short_title: "Fedele 2000"
+author: "Fedele, Francesco G."
+publication_year: "2000"
+title: "L´Est: la faune du Hamrîn (Iraq)"
+pages: "15-44"
+book: "Topoi Supplément 2, Les animaux et les hommes dans le monde syro-mésopotamien aux époques historiques (Lyon)"
+title: "L´Est: la faune du Hamrîn (Iraq)"
+previous_item: "21058"
+---

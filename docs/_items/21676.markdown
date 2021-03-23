@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21676"
+occurrence_id: "4353"
+short_title: "Joannès 1987"
+author: "Joannès, Francis"
+publication_year: "1987"
+title: "Un cas de remariage d'époque néo-babylonienne"
+pages: "91-96"
+editor: "Durand, Jean-Marie"
+book: "La femme dans le Proche-Orient antique, RAI 33 (Paris)"
+title: "Un cas de remariage d'époque néo-babylonienne"
+previous_item: "21679"
+---

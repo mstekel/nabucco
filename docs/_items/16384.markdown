@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "16384"
+occurrence_id: "1971"
+short_title: "Iraq 46 (1984, publ.1985), 131-140"
+author: "Black, Jeremy A."
+publication_year: "1984 publ. 1985"
+title: "A Clay Tablet with Greek Letters in the Ashmolean Museum and the \"Graeco-Babyloniaca\" Texts"
+volume_no_: "46"
+pages: "131-140"
+title: "A Clay Tablet with Greek Letters in the Ashmolean Museum and the \"Graeco-Babyloniaca\" Texts"
+previous_item: "16387"
+---

@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "11734"
+occurrence_id: "4013"
+short_title: "WZKM 101 (2011), 527-530"
+author: "Ritter, Niels , C."
+publication_year: "2011"
+title: "Rv. B. Sass and J. Marzahn: Aramaic and Figural Stamp Impressions on Bricks of the Sixth Century B.C. from Babylon"
+volume_no_: "101"
+pages: "527-530"
+title: "Rv. B. Sass and J. Marzahn: Aramaic and Figural Stamp Impressions on Bricks of the Sixth Century B.C. from Babylon"
+previous_item: "11737"
+---

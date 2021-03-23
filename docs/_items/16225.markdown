@@ -1,0 +1,15 @@
+---
+layout: "bibliography"
+slug: "16225"
+occurrence_id: "274"
+short_title: "King, ZA 9"
+author: "King, Leonard W."
+publication_year: "1984"
+title: "Sinšariškun and his rule in Babylonia"
+volume_no_: "9"
+pages: "396-400"
+related_objects: "5603"
+journal: "Zeitschrift für Assyriologie und Vorderasiatische Archäologie"
+title: "Sinšariškun and his rule in Babylonia"
+previous_item: "16228"
+---

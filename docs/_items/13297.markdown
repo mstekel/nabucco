@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13297"
+occurrence_id: "3420"
+short_title: "ZA 61 (1971), 255-259"
+author: "Krecher, Joachim"
+publication_year: "1971"
+title: "Ein spätbabylonischer Verpflichtungsschein"
+volume_no_: "61"
+pages: "255-259"
+journal: "Zeitschrift für Assyriologie"
+title: "Ein spätbabylonischer Verpflichtungsschein"
+previous_item: "13300"
+---

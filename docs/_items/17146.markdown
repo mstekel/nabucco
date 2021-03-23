@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17146"
+occurrence_id: "494"
+short_title: "Lewenton 1970"
+author: "Lewenton, U. "
+publication_year: "1970"
+title: "Studien zur keilschriftlichen Rechtspraxis Babyloniens in hellenistischer Zeit, jur. Diss."
+title: "Studien zur keilschriftlichen Rechtspraxis Babyloniens in hellenistischer Zeit, jur. Diss."
+previous_item: "17149"
+---

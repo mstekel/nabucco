@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "33709"
+place_id: "1503"
+parent_id: "37"
+place_name: "Dūru-ša-karrabbi "
+related_objects: "7843"
+title: "Dūru-ša-karrabbi "
+previous_item: "33712"
+---

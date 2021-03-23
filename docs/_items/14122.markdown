@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14122"
+occurrence_id: "1855"
+short_title: "DLZ 74 (1953), 689-691"
+author: "Eilers, Wilhelm"
+publication_year: "1953"
+title: "Rv. M. San Nicolò, Babylonische Rechtsurkunden des ausgehenden 8. und des 7. Jahrhunderts v. Chr. I."
+volume_no_: "74"
+pages: "689-691"
+journal: "Deutsche Literatur-Zeitung"
+title: "Rv. M. San Nicolò, Babylonische Rechtsurkunden des ausgehenden 8. und des 7. Jahrhunderts v. Chr. I."
+previous_item: "14125"
+---

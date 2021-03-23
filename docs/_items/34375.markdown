@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "34375"
+place_id: "1509"
+parent_id: "37"
+place_name: "Dapīni"
+related_objects: "6999"
+title: "Dapīni"
+previous_item: "34378"
+---

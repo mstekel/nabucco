@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14389"
+occurrence_id: "3291"
+short_title: "UVB 26-27 (1972), 79-87"
+author: "Hunger, Hermann"
+publication_year: "1972"
+title: "Die Tontafeln der XXVII. Kampagne [in Warka]"
+volume_no_: "26-27"
+pages: "79-87"
+journal: "Vorläufige Berichte über die Ausgrabungen in Uruk-Warka"
+title: "Die Tontafeln der XXVII. Kampagne [in Warka]"
+previous_item: "14392"
+---

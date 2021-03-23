@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11668"
+occurrence_id: "3660"
+short_title: "CCGG 6 (1995), 3-17"
+author: "Maul, Stefan M."
+publication_year: "1995"
+title: "La fin de la tradition cunéiforme et les \"Graeco-Babyloniaca\""
+volume_no_: "6"
+pages: "3-17."
+journal: "Cahiers du Centre G. Glotz"
+title: "La fin de la tradition cunéiforme et les \"Graeco-Babyloniaca\""
+previous_item: "11671"
+---

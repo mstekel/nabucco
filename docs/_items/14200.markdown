@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14200"
+occurrence_id: "2273"
+short_title: "JNES 17 (1958), 80-83"
+author: "Lambert, Maurice"
+publication_year: "1958"
+title: "Rv. H.H. Paper, the Phonology and Morphology of Royal Achaemenid Elamite"
+volume_no_: "17"
+pages: "80-83"
+journal: "Journal of Near Eastern Studies"
+title: "Rv. H.H. Paper, the Phonology and Morphology of Royal Achaemenid Elamite"
+previous_item: "14203"
+---

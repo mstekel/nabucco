@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20869"
+occurrence_id: "4461"
+short_title: "Giovinazzo 1989"
+author: "Giovinazzo, Grazia"
+publication_year: "1989"
+title: "The Tithe ešrû in Neo-Babylonian and Achaemenid Period"
+pages: "95-105"
+editor: "Herrenschmidt, Clarisse"
+book: "Le tribut dans l'empire perse. Actes de la Table ronde de Paris 12-13 Décembre 1986 (Paris)"
+title: "The Tithe ešrû in Neo-Babylonian and Achaemenid Period"
+previous_item: "20872"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20890"
+occurrence_id: "4573"
+short_title: "Oelsner 1992"
+author: "Oelsner, Joachim"
+publication_year: "1992"
+title: "Griechen in Babylon and die einheimischen Tempel in hellenistischer Zeit"
+pages: "341-347"
+editor: "Charpin, Dominique"
+book: "La circulation des biens, des personnes et des idées dans le Proche-Orient ancien. Actes de la XXXVIIIe Rencontre Assyriologique Internationale, Paris, 8-10 juillet 1991 (Paris)"
+title: "Griechen in Babylon and die einheimischen Tempel in hellenistischer Zeit"
+previous_item: "20893"
+---

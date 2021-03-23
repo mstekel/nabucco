@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10678"
+occurrence_id: "1330"
+short_title: "American Antiquity. Journal of the Society for American Archaeology 53 (1988), 437-438"
+author: "Lamberg-Karlovsky, Clifford C."
+publication_year: "1988"
+title: "Rv. M. Silver, Economic Structures of the Ancient Near East (1985)"
+volume_no_: "53"
+pages: "437-438"
+journal: "American Antiquity. Journal of the Society for American Archaeology"
+title: "Rv. M. Silver, Economic Structures of the Ancient Near East (1985)"
+previous_item: "10681"
+---

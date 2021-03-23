@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13198"
+occurrence_id: "2885"
+short_title: "Or 46 (1977 publ. 1978), 183-197"
+author: "von Soden, Wolfram"
+publication_year: "1977"
+title: "Aramäische Wörter in neuassyrischen und neu- und spätbabylonischen Texten. Ein Vorbericht. III"
+volume_no_: "46"
+pages: "183-197"
+journal: "Orientalia"
+title: "Aramäische Wörter in neuassyrischen und neu- und spätbabylonischen Texten. Ein Vorbericht. III"
+previous_item: "13201"
+---

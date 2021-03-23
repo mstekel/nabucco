@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17389"
+occurrence_id: "405"
+short_title: "Fitzmyer and Kaufman 1992"
+author: "Fitzmyer, Joseph A. "
+publication_year: "1992"
+title: "An Aramaic Bibliography, part 1"
+title: "An Aramaic Bibliography, part 1"
+previous_item: "17392"
+---

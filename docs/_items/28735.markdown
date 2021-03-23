@@ -1,0 +1,15 @@
+---
+layout: "tablet"
+slug: "28735"
+object_id: "7103"
+museum_no_: "BM 34553"
+publication: "CT 22"
+text_number: "195 "
+period: "-"
+type_and_content: "Letters"
+publication_name: "CT 22 195 "
+archive: "Egibi/Nūr-Sîn"
+bibliography: "reedition: Wunsch 1993, 323; Ebeling 1949, no. 195."
+title: "BM 34553"
+previous_item: "28738"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13042"
+occurrence_id: "2045"
+short_title: "JANER 8 (2008), 75-98."
+author: "Cooley, Jeffrey L."
+publication_year: "2008"
+title: "Early Mesopotamian Astral Science and Divination in the Myth of Inanna and Sukaletuda."
+volume_no_: "8"
+pages: "75-98"
+journal: "Journal of Ancient Near Eastern Religions"
+title: "Early Mesopotamian Astral Science and Divination in the Myth of Inanna and Sukaletuda."
+previous_item: "13045"
+---

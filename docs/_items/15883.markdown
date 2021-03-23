@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15883"
+occurrence_id: "2293"
+short_title: "JNES 27 (1968), 79-80"
+author: "Brinkman, John A."
+publication_year: "168"
+title: "Rv. W. Culican, the Medes and the Persians"
+volume_no_: "27"
+pages: "79-80"
+journal: "Journal of Near Eastern Studies"
+title: "Rv. W. Culican, the Medes and the Persians"
+previous_item: "15886"
+---

@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "21022"
+occurrence_id: "4173"
+short_title: "George 2011a"
+author: "George, Andrew, R."
+publication_year: "2011"
+title: "A Stele by Nebuchadnezzar II"
+pages: "153-169, pls. LVIII-LXVII"
+editor: "George, Andrew, R."
+title: "A Stele by Nebuchadnezzar II"
+previous_item: "21025"
+---

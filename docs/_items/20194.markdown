@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "20194"
+occurrence_id: "4169"
+short_title: "Mehl 1987"
+author: "Mehl, Andreas"
+publication_year: "1987"
+title: "Die Gesellschaft in den Städten des hellenistischen Babylonien"
+pages: "16-27"
+editor: "Frézouls, E."
+title: "Die Gesellschaft in den Städten des hellenistischen Babylonien"
+previous_item: "20197"
+---

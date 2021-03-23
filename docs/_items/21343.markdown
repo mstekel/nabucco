@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21343"
+occurrence_id: "4783"
+short_title: "Jursa 2004"
+author: "Jursa, Michael"
+publication_year: "2004"
+title: "Neubabylonische Texte"
+pages: "89-110"
+editor: "anowski, Bernd"
+book: "Texte zum Rechts- und Wirtschaftsleben, TUAT NF 1 (Gütersloh)"
+title: "Neubabylonische Texte"
+previous_item: "21346"
+---

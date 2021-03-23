@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15508"
+occurrence_id: "3293"
+short_title: "Vierteljahresschrift der Naturforschenden Gesellschaft in Zürich 105/2 (1960), 97-144"
+author: "van der Waerden, Bartel L."
+publication_year: "1960"
+title: "Babylonische Methoden in ägyptischen Planetentafeln"
+volume_no_: "105/2"
+pages: "97-144"
+journal: "Vierteljahresschrift der Naturforschenden Gesellschaft in Zürich"
+title: "Babylonische Methoden in ägyptischen Planetentafeln"
+previous_item: "15511"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9343"
+occurrence_id: "3170"
+short_title: "SAAB 7 (1994), 129-132"
+author: "Röllig, Wolfgang"
+publication_year: "1994"
+title: "Zur Historischen Einordnung der Texte"
+volume_no_: "7"
+pages: "129-132"
+journal: "State Archives of Assyria, Bulletin"
+title: "Zur Historischen Einordnung der Texte"
+previous_item: "9346"
+---

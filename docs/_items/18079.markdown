@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18079"
+occurrence_id: "680"
+short_title: "OIP 114"
+author: "Cole, Steven W. "
+publication_year: "1996"
+title: "Nippur IV. The Early Neo-Babylonian Governor´s Archive from Nippur (OIP 114, Excavations at Nippur), OIP 114 (Chicago)"
+title: "Nippur IV. The Early Neo-Babylonian Governor´s Archive from Nippur (OIP 114, Excavations at Nippur), OIP 114 (Chicago)"
+previous_item: "18082"
+---

@@ -1,0 +1,9 @@
+---
+layout: "news"
+slug: "32740"
+start_date: "06-06-2017"
+end_date: "31-12-2017"
+title: "Bibliography"
+description: "Looking for a book or article in the field of late Babylonian studies? Our bibliography with its 4776 references may have the answer. "
+previous_item: "32743"
+---

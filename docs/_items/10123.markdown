@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10123"
+occurrence_id: "1329"
+short_title: "American Anthropologist 89 (1987), 194-195"
+author: "Barfield, Thomas"
+publication_year: "1987"
+title: "Rv. M. Silver, Economic Structures of the Ancient Near East"
+volume_no_: "89"
+pages: "194-195"
+journal: "American Anthropologist"
+title: "Rv. M. Silver, Economic Structures of the Ancient Near East"
+previous_item: "10126"
+---

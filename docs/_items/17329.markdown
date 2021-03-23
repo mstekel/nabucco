@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17329"
+occurrence_id: "833"
+short_title: "Koldewey;Wetzel 1932"
+author: "Koldewey, Robert "
+publication_year: "1932"
+title: "Die Königsburgen von Babylon. 2. Teil: Die Hauptburg und der Sommerpalast Nebukadnezars im Hügel Babil, WVDOG 55 (Leipzig)"
+title: "Die Königsburgen von Babylon. 2. Teil: Die Hauptburg und der Sommerpalast Nebukadnezars im Hügel Babil, WVDOG 55 (Leipzig)"
+previous_item: "17332"
+---

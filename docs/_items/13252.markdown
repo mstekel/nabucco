@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13252"
+occurrence_id: "3177"
+short_title: "Saeculum 28 (1977), 384-395"
+author: "Schmitt, Rüdiger"
+publication_year: "1977"
+title: "Königtum im Alten Iran"
+volume_no_: "28"
+pages: "384-395"
+journal: "Saeculum"
+title: "Königtum im Alten Iran"
+previous_item: "13255"
+---

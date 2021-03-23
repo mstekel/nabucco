@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33634"
+place_id: "451"
+parent_id: "40"
+place_name: "Hambanāja"
+title: "Hambanāja"
+previous_item: "33637"
+---

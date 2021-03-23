@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13279"
+occurrence_id: "3323"
+short_title: "WeOr 2 (1959), 454-464"
+author: "Unger, Eckhard"
+publication_year: "1959"
+title: "Die Milchstrasse Nibiru, Sternbild des Marduk"
+volume_no_: "2"
+pages: "454-464"
+journal: "Die Welt des Orients"
+title: "Die Milchstrasse Nibiru, Sternbild des Marduk"
+previous_item: "13282"
+---

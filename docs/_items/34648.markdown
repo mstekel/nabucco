@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34648"
+place_id: "718"
+parent_id: "61"
+place_name: "Ālu-ša-Bēl-ušēzib"
+title: "Ālu-ša-Bēl-ušēzib"
+previous_item: "34651"
+---

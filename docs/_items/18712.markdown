@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18712"
+occurrence_id: "5074"
+short_title: "Heinisch, Kuntner and Rollinger 2011"
+author: "Rollinger, Robert"
+publication_year: "2011"
+title: "Von Herodot zur angeblichen Verödung babylonischer Stadtviertel in achaimenidischer Zeit: Kritische Bemerkungen zum archäologischen Befand auf dem Merkes sowie zur vermeintlichen Zerstörung des Tempels der Istar von Akkade durch Xerxes im Jahre 484 v. Chr"
+pages: "471-498"
+editor: "Rollinger, Robert"
+book: "Herodot und das Persische Weltreich, Harrassowitz (Wiesbaden)"
+title: "Von Herodot zur angeblichen Verödung babylonischer Stadtviertel in achaimenidischer Zeit: Kritische Bemerkungen zum archäologischen Befand auf dem Merkes sowie zur vermeintlichen Zerstörung des Tempels der Istar von Akkade durch Xerxes im Jahre 484 v. Chr"
+previous_item: "18715"
+---

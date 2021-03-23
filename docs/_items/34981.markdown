@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34981"
+place_id: "727"
+parent_id: "61"
+place_name: "Ālu-ša-Jaqi'-il"
+title: "Ālu-ša-Jaqi'-il"
+previous_item: "34984"
+---

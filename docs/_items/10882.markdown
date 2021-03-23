@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10882"
+occurrence_id: "2428"
+short_title: "Muséon 70 (1957), 209-210"
+author: "Naster, Paul"
+publication_year: "1957"
+title: "Rv. H.H. Paper, the Phonology and Morphology of Royal Achaemenid Elamite"
+volume_no_: "70"
+pages: "209-210"
+journal: "Le Muséon. Revue d'Études Orientales"
+title: "Rv. H.H. Paper, the Phonology and Morphology of Royal Achaemenid Elamite"
+previous_item: "10885"
+---

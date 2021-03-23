@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19807"
+occurrence_id: "4295"
+short_title: "Collon 2012"
+author: "Collon, Dominique"
+publication_year: "2012"
+title: "The Influence of Material and Technique on the Style of Neo-Assyrian and Neo-Babylonian Cylinder Seals"
+pages: "393-399"
+editor: "Neumann, Hans"
+book: "Wissenskultur im Alten Orient. Weltanschauung, Wissenschaften, Techniken, Technologien. 4. Internationales Colloquium der Deutschen Orient-Gesellschaft 20.-22. Februar 2002, Münster, Colloquien der Deutschen Orient-Gesellschaft 4 (Wiesbaden)"
+title: "The Influence of Material and Technique on the Style of Neo-Assyrian and Neo-Babylonian Cylinder Seals"
+previous_item: "19810"
+---

@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "8671"
+occurrence_id: "2571"
+short_title: "NABU 1997/67"
+author: "Jursa, Michael"
+title: "Mittel-, nicht neubabylonisch"
+volume_no_: "67"
+publication_year: "1997"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Mittel-, nicht neubabylonisch"
+previous_item: "8674"
+---

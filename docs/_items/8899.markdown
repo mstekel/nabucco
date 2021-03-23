@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8899"
+occurrence_id: "3799"
+short_title: "NBGAW 1 (1964), 19-29"
+author: "Klíma, Josef"
+publication_year: "1964"
+title: "Zur Stellung der mesopotamischen Sklaven,"
+volume_no_: "1"
+pages: "19-29"
+journal: "Neue Beiträge zur Geschichte der Alten Welt"
+title: "Zur Stellung der mesopotamischen Sklaven,"
+previous_item: "8902"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12877"
+occurrence_id: "1150"
+short_title: "AcAntHung 21 (1973), 125-152"
+author: "Komoróczy, Géza"
+publication_year: "1973"
+title: "Berossos and the Mesopotamian Literature"
+volume_no_: "21"
+pages: "125-152"
+journal: "Acta Antiqua Academiae Scientiarum Hungaricae"
+title: "Berossos and the Mesopotamian Literature"
+previous_item: "12880"
+---

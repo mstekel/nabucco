@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19732"
+occurrence_id: "4999"
+short_title: "Pirngruber 2010"
+author: "Pirngruber, Reinhard"
+publication_year: "2010"
+title: "Seleukidischer Herrscherkult in Babylon?"
+pages: "533-549"
+editor: "Gufler, Birgit"
+book: "Interkulturalität in der Alten Welt: Vorderasien, Hellas, Ägypten und die vielfältigen Ebenen des Kontakts (Wiesbaden)"
+title: "Seleukidischer Herrscherkult in Babylon?"
+previous_item: "19735"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21739"
+occurrence_id: "4689"
+short_title: "Pearce 1993"
+author: "Pearce, Laurie E."
+publication_year: "1993"
+title: "Statements of Purpose: Why the scribes Wrote"
+pages: "185-193"
+editor: "Snell, Daniel C."
+book: "The Tablet and the Scroll. Near Eastern Studies in Honor of William W. Hallo, Fs. Hallo (Bethesda)"
+title: "Statements of Purpose: Why the scribes Wrote"
+previous_item: "21742"
+---

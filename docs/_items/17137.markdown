@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17137"
+occurrence_id: "436"
+short_title: "Herzfeld 1968"
+author: "Herzfeld, Ernst "
+publication_year: "1968"
+title: "The Persian Empire. Studies in Geography and Ethnography of the Ancient Near East"
+title: "The Persian Empire. Studies in Geography and Ethnography of the Ancient Near East"
+previous_item: "17140"
+---

@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18451"
+occurrence_id: "594"
+short_title: "Szlechter 1947"
+author: "Szlechter, Émile "
+publication_year: "1947"
+title: "Le contrat de société en Babylonie, en Grèce et à Rome"
+title: "Le contrat de société en Babylonie, en Grèce et à Rome"
+previous_item: "18454"
+---

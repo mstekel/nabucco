@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15013"
+occurrence_id: "3650"
+short_title: "BNF 12 (1977), 422-425"
+author: "Schmitt, Rüdiger"
+publication_year: "1977"
+title: "Thronnamen bei den Achaimeniden"
+volume_no_: "12"
+pages: "422-425"
+journal: "Beiträge zur Namenforschung"
+title: "Thronnamen bei den Achaimeniden"
+previous_item: "15016"
+---

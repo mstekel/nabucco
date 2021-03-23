@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9985"
+occurrence_id: "3609"
+short_title: "ACIO 25 I (1962), 312-314"
+author: "Ghirshman, Roman"
+publication_year: "1962"
+title: "La civilisation achéménide et l´Urartu"
+volume_no_: "25 I"
+pages: "312-314"
+journal: "Actes du Congrès International des Orientalistes"
+title: "La civilisation achéménide et l´Urartu"
+previous_item: "9988"
+---

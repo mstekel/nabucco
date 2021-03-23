@@ -1,0 +1,9 @@
+---
+layout: "archive"
+slug: "22942"
+archive_id: "79"
+archive_name: "Dullupu"
+is_part_of: "Babylon"
+title: "Dullupu"
+previous_item: "22945"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14725"
+occurrence_id: "2096"
+short_title: "JAOS 121/3 (2001), 493-495"
+author: "Weszeli, Michaela"
+publication_year: "2001"
+title: "Rv. A.L. Slotsky, The Bourse of Babylon: Market Quotations in the Astronomical Diaries of Babylonia"
+volume_no_: "121/3"
+pages: "493-495"
+journal: "Journal of the American Oriental Society"
+title: "Rv. A.L. Slotsky, The Bourse of Babylon: Market Quotations in the Astronomical Diaries of Babylonia"
+previous_item: "14728"
+---

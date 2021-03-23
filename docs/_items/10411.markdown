@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10411"
+occurrence_id: "2880"
+short_title: "Or 39 (1970), 421-440"
+author: "Hinz, Walther"
+publication_year: "1970"
+title: "Die elamischen Buchungstäfelchen der Darius-Zeit"
+volume_no_: "39"
+pages: "421-440"
+journal: "Orientalia"
+title: "Die elamischen Buchungstäfelchen der Darius-Zeit"
+previous_item: "10414"
+---

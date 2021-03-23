@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "21793"
+occurrence_id: "4977"
+short_title: "Briant 1994a"
+author: "Briant, Pierre"
+publication_year: "1994"
+title: "Prélèvements tributaires et échanges en Asie Mineure achéménide et hellénistique"
+pages: "69-81"
+book: "Économie antique, Les échanges dans l´Antiquité: le rôle de l´état, Entretiens d´Archéologie et d´Histoire 1 (Saint-Bertrand-de-Comminges)"
+title: "Prélèvements tributaires et échanges en Asie Mineure achéménide et hellénistique"
+previous_item: "21796"
+---

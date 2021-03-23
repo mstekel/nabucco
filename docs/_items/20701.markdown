@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20701"
+occurrence_id: "4668"
+short_title: "Kessler 2000"
+author: "Kessler, Karlheinz"
+publication_year: "2000"
+title: "Hellenistische Tempelverwaltungstexte. Eine Nachlese zu CT 49"
+pages: "213-241"
+editor: "Neumann, Hans"
+book: "Assyriologica et Semitica, Fs. Oelsner. AOAT 252. (Münster)"
+title: "Hellenistische Tempelverwaltungstexte. Eine Nachlese zu CT 49"
+previous_item: "20704"
+---

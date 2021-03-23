@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8794"
+occurrence_id: "3233"
+short_title: "Sumer 35 (1979), 232-226"
+author: "George, Andrew, R."
+publication_year: "1979"
+title: "The Cuneiform Text Tin.tir{ki} Ba-bi-lu and the Topography of Babylon"
+volume_no_: "35"
+pages: "232-226"
+journal: "Sumer"
+title: "The Cuneiform Text Tin.tir{ki} Ba-bi-lu and the Topography of Babylon"
+previous_item: "8797"
+---

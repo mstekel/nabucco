@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20071"
+occurrence_id: "4617"
+short_title: "Steele 2011"
+author: "Steele, John M."
+publication_year: "2011"
+title: "Goal-Year Periods and Their Use in Predicting Planetary Phenomena"
+pages: "101-110"
+editor: "Selz, G.J."
+book: "The Empirical Dimension of Ancient Near Eastern Studies, Wiener Offene Orientalistik 6 (Wien) (with the collaboration of Klaus Wagensonner)"
+title: "Goal-Year Periods and Their Use in Predicting Planetary Phenomena"
+previous_item: "20074"
+---

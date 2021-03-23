@@ -1,0 +1,12 @@
+---
+layout: "bibliography"
+slug: "10609"
+occurrence_id: "3962"
+short_title: "NABU 2014/70"
+author: "Hausleiter, Arnulf"
+publication_year: "2014"
+title: "Nabonidus at al-Hayit/Padakku"
+volume_no_: "2014/70"
+title: "Nabonidus at al-Hayit/Padakku"
+previous_item: "10612"
+---

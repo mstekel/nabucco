@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11065"
+occurrence_id: "3415"
+short_title: "ZA 6 (1891), 26-33"
+author: "Gutbrod, G.J.F."
+publication_year: "1891"
+title: "Über die wahrscheinliche Lebensdauer der assyrisch-babylonischen Sprache"
+volume_no_: "6"
+pages: "26-33"
+journal: "Zeitschrift für Assyriologie"
+title: "Über die wahrscheinliche Lebensdauer der assyrisch-babylonischen Sprache"
+previous_item: "11068"
+---

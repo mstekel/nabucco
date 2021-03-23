@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17161"
+occurrence_id: "581"
+short_title: "Slotsky 2009"
+author: "Slotsky, Alice L. "
+publication_year: "2009"
+title: "Tallies and Trends, the Late Babylonian Commodity Price Lists."
+title: "Tallies and Trends, the Late Babylonian Commodity Price Lists."
+previous_item: "17164"
+---

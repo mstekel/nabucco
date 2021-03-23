@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7990"
+occurrence_id: "1924"
+short_title: "Iran 24 (1986), 79-89"
+author: "Reade, Julian E."
+publication_year: "1986"
+title: "A Hoard of Silver Currency from Achaemenid Babylon"
+volume_no_: "24"
+pages: "79-89"
+journal: "Iran. Journal of the British Institute of Persian Studies"
+title: "A Hoard of Silver Currency from Achaemenid Babylon"
+previous_item: "7993"
+---

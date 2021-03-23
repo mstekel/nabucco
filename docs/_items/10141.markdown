@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10141"
+occurrence_id: "1427"
+short_title: "AoF 22 (1995), 265-268"
+author: "Oelsner, Joachim"
+publication_year: "1995"
+title: "Spätbabylonische Texte aus Dēr"
+volume_no_: "22"
+pages: "265-268"
+journal: "Altorientalische Forschungen"
+title: "Spätbabylonische Texte aus Dēr"
+previous_item: "10144"
+---

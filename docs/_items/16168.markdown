@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16168"
+occurrence_id: "3828"
+short_title: "Phoenix 40 (1994), 154-167"
+author: "van Driel, Govert"
+publication_year: "1994"
+title: "Wijgeschenken in Mesopotamië"
+volume_no_: "40"
+pages: "154-167"
+journal: "Phoenix"
+title: "Wijgeschenken in Mesopotamië"
+previous_item: "16171"
+---

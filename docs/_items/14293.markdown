@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14293"
+occurrence_id: "2774"
+short_title: "OLZ 46 (1943), 22-25"
+author: "van Buren, E. Douglas"
+publication_year: "1943"
+title: "Rv. A. Falkenstein, Topographie von Uruk. I"
+volume_no_: "46"
+pages: "22-25"
+journal: "Orientalistische Literaturzeitung"
+title: "Rv. A. Falkenstein, Topographie von Uruk. I"
+previous_item: "14296"
+---

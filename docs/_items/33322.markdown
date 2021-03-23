@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33322"
+place_id: "778"
+parent_id: "61"
+place_name: "Attiki'a"
+title: "Attiki'a"
+previous_item: "33325"
+---

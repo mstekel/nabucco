@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21463"
+occurrence_id: "4319"
+short_title: "Ehrenberg 2002"
+author: "Ehrenberg, Erica"
+publication_year: "2002"
+title: "The Kassite Cross Revisited"
+pages: "65-74"
+editor: "Wunsch, Cornelia"
+book: "Mining the archives, Fs. Walker (Dresden)"
+title: "The Kassite Cross Revisited"
+previous_item: "21466"
+---

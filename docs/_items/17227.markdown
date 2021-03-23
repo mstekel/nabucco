@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "17227"
+occurrence_id: "4"
+short_title: "Clay, BE 8/1 (1908)"
+author: "Clay, Albert T. "
+publication_year: "1908"
+title: "Legal and Commercial Transactions Dated in the Assyrian, Neo-Babylonian and Persian Periods, Chiefly from Nippur. The Babylonian Expedition of The University of Pennsylvania 8/1 (Philadelphia)."
+volume_no_: "8/1"
+related_objects: "31"
+title: "Legal and Commercial Transactions Dated in the Assyrian, Neo-Babylonian and Persian Periods, Chiefly from Nippur. The Babylonian Expedition of The University of Pennsylvania 8/1 (Philadelphia)."
+previous_item: "17230"
+---

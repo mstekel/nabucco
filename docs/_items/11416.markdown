@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11416"
+occurrence_id: "2301"
+short_title: "JNES 35 (1976), 67-69"
+author: "Weisberg, David B."
+publication_year: "1976"
+title: "Rv. R.H. Sack, Amēl-Marduk, 562-560 B.C. (AOATS 4)"
+volume_no_: "35"
+pages: "67-69"
+journal: "Journal of Near Eastern Studies"
+title: "Rv. R.H. Sack, Amēl-Marduk, 562-560 B.C. (AOATS 4)"
+previous_item: "11419"
+---

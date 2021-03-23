@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33397"
+place_id: "205"
+parent_id: "40"
+place_name: "Bīt-Ahi-larīm"
+title: "Bīt-Ahi-larīm"
+previous_item: "33400"
+---

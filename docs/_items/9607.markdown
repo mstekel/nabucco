@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9607"
+occurrence_id: "1572"
+short_title: "BaM 30 (1999), 165-173"
+author: "Kessler, Karlheinz"
+publication_year: "1999"
+title: "Der vergessene spätbabylonische Königspalast neben Eanna"
+volume_no_: "30"
+pages: "165-173"
+journal: "Baghdader Mitteilungen"
+title: "Der vergessene spätbabylonische Königspalast neben Eanna"
+previous_item: "9610"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11236"
+occurrence_id: "1331"
+short_title: "AMI 10 (1977), 153-190"
+author: "Eilers, Wilhelm"
+publication_year: "1977"
+title: "Vom Reisehut zur Kaiserkrone: A. Das Wortfeld, B. Stand der archäologischen Forschung zu den iranischen Kronen"
+volume_no_: "10"
+pages: "153-190"
+journal: "Archäologische Mitteilungen aus Iran"
+title: "Vom Reisehut zur Kaiserkrone: A. Das Wortfeld, B. Stand der archäologischen Forschung zu den iranischen Kronen"
+previous_item: "11239"
+---

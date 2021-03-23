@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10957"
+occurrence_id: "2832"
+short_title: "OLZ 96/4-5 (2001), 518-523"
+author: "Oelsner, Joachim"
+publication_year: "2001"
+title: "Rv. A.C.V.M. Bongenaar. The Neo-Babylonian Ebabbar Temple at Sippar: its Administration and its Prosopography, PIHANS 80 (Leiden 1997)"
+volume_no_: "96/4-5"
+pages: "518-523"
+journal: "Orientalistische Literaturzeitung"
+title: "Rv. A.C.V.M. Bongenaar. The Neo-Babylonian Ebabbar Temple at Sippar: its Administration and its Prosopography, PIHANS 80 (Leiden 1997)"
+previous_item: "10960"
+---

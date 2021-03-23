@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13594"
+occurrence_id: "2014"
+short_title: "JA 11/2, 353-355"
+author: "Pinches, Theophilus G."
+publication_year: "1917"
+title: "Vocabulaire suméro-babylonien à l´usage des devins d´Ourouk datant de l´époque des Séleucides"
+volume_no_: "11/2"
+pages: "353-355"
+journal: "Journal Asiatique"
+title: "Vocabulaire suméro-babylonien à l´usage des devins d´Ourouk datant de l´époque des Séleucides"
+previous_item: "13597"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20668"
+occurrence_id: "4492"
+short_title: "Baker and Wunsch 2001"
+author: "Wunsch, Cornelia"
+publication_year: "2001"
+title: "Neo-Babylonian Notaries and their Use of Seals"
+pages: "197-213"
+editor: "Winter, I.J."
+book: "Proceedings of the XLVe Rencontre Assyriologique Internationale: Part II, Yale University: Seals and Seal Impressions, RAI 45/2 (Bethesda)"
+title: "Neo-Babylonian Notaries and their Use of Seals"
+previous_item: "20671"
+---

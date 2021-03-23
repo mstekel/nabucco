@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13513"
+occurrence_id: "1579"
+short_title: "BaM 37 (2006), 239-247."
+author: "Kessler, Karlheinz"
+publication_year: "2006"
+title: "Das traurige Ende eines Handewelpen in Uruk/Warka"
+volume_no_: "37"
+pages: "239-247"
+journal: "Baghdader Mitteilungen"
+title: "Das traurige Ende eines Handewelpen in Uruk/Warka"
+previous_item: "13516"
+---

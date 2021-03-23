@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16753"
+occurrence_id: "433"
+short_title: "Häusler 1956"
+author: "Häusler, Ephraim "
+publication_year: "1956"
+title: "Sklaven und Personen minderen Rechts im Alten Testament"
+title: "Sklaven und Personen minderen Rechts im Alten Testament"
+previous_item: "16756"
+---

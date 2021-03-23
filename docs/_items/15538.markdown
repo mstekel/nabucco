@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15538"
+occurrence_id: "3457"
+short_title: "ZA 76 (1986), 154-158"
+author: "von Soden, Wolfram"
+publication_year: "1986"
+title: "Rv. G.J.P. McEwan, Late Babylonian Texts in the Ashmolean Museum (OECT X)"
+volume_no_: "76"
+pages: "154-158"
+journal: "Zeitschrift für Assyriologie"
+title: "Rv. G.J.P. McEwan, Late Babylonian Texts in the Ashmolean Museum (OECT X)"
+previous_item: "15541"
+---

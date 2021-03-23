@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20236"
+occurrence_id: "4394"
+short_title: "Vallat 1997a"
+author: "Vallat, François"
+publication_year: "1997"
+title: "Cyrus l´Usurpateur"
+pages: "423-434"
+editor: "Andreau, Jean"
+book: "Recherche récentes sur l'empire achéménide, Topoi Supplément 1 (Lyon)"
+title: "Cyrus l´Usurpateur"
+previous_item: "20239"
+---

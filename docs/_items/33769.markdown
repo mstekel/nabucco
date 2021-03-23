@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33769"
+place_id: "838"
+parent_id: "61"
+place_name: "Bīrāti"
+title: "Bīrāti"
+previous_item: "33772"
+---

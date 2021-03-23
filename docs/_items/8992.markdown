@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8992"
+occurrence_id: "1277"
+short_title: "AION 54 (1994), 289-297"
+author: "Di Gennaro, Teodolinda"
+publication_year: "1994"
+title: "Famiglie e professioni nella Sippar achemenide: il caso di Taqīš-Gula"
+volume_no_: "54"
+pages: "289-297"
+journal: "Annali dell'Istituto Orientale di Napoli"
+title: "Famiglie e professioni nella Sippar achemenide: il caso di Taqīš-Gula"
+previous_item: "8995"
+---

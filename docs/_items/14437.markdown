@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14437"
+occurrence_id: "3553"
+short_title: "ZDMG 128 (1978), 116-124"
+author: "Schmitt, Rüdiger"
+publication_year: "1978"
+title: "Fragen der Anthroponomastik des achaimenidischen Vielvölkerstaates"
+volume_no_: "128"
+pages: "116-124"
+journal: "Zeitschrift der Deutschen Morgenländischen Gesellschaft"
+title: "Fragen der Anthroponomastik des achaimenidischen Vielvölkerstaates"
+previous_item: "14440"
+---

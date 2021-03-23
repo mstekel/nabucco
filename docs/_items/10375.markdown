@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "10375"
+occurrence_id: "2686"
+short_title: "NABU 2006/38"
+author: "Zawadzki, Stefan"
+title: "A New Text from Til-Qaqulli - BM 65180 (82-9-18, 5162)."
+volume_no_: "38"
+publication_year: "2006"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "A New Text from Til-Qaqulli - BM 65180 (82-9-18, 5162)."
+previous_item: "10378"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12475"
+occurrence_id: "1996"
+short_title: "Iraq 64 (2002), 259-273"
+author: "Hunter, Erica C.D."
+publication_year: "2002"
+title: "Manipulating incantation texts: Excursions in Refrain A"
+volume_no_: "64"
+pages: "259-273"
+journal: "Iraq"
+title: "Manipulating incantation texts: Excursions in Refrain A"
+previous_item: "12478"
+---

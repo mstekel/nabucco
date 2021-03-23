@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19525"
+occurrence_id: "4998"
+short_title: "Kratz 2002"
+author: "Kratz, Reinhard , G."
+publication_year: "2002"
+title: "From Nabonidus to Cyrus"
+pages: "143-156"
+editor: "Panaino, Antonio"
+book: "Ideologies as Intercultural Phenomena, Melammu Symposia III (Milano)"
+title: "From Nabonidus to Cyrus"
+previous_item: "19528"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13819"
+occurrence_id: "3226"
+short_title: "Sumer 15 (1959), 25-28"
+author: "Saggs, Henry W.F."
+publication_year: "1959"
+title: "Two Administrative Officials at Erech in the 6th Century B.C."
+volume_no_: "15"
+pages: "25-28"
+journal: "Sumer"
+title: "Two Administrative Officials at Erech in the 6th Century B.C."
+previous_item: "13822"
+---

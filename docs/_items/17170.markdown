@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17170"
+occurrence_id: "633"
+short_title: "Weingort 1939"
+author: "Weingort, Saul "
+publication_year: "1939"
+title: "Das Haus Egibi in neubabylonischen Rechtsurkunden"
+title: "Das Haus Egibi in neubabylonischen Rechtsurkunden"
+previous_item: "17173"
+---

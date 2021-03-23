@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19096"
+occurrence_id: "4916"
+short_title: "Fiorina 2001"
+author: "Fiorina, Paolo"
+publication_year: "2001"
+title: "Nimrud: les coquillages de Fort Salmanassar"
+pages: "163-175"
+editor: "Breniquet, Catherine"
+book: "Études Mésopotamiennes, Fs. Huot (Paris)"
+title: "Nimrud: les coquillages de Fort Salmanassar"
+previous_item: "19099"
+---

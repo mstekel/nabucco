@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15901"
+occurrence_id: "2389"
+short_title: "Mandus 18 (1982), 290-292"
+author: "Hecker, Karl"
+publication_year: "1982"
+title: "Rv. H.M. Kümmel, Familie, Beruf und Amt im spätbabylonischen Uruk"
+volume_no_: "18"
+pages: "290-292"
+journal: "Mandus"
+title: "Rv. H.M. Kümmel, Familie, Beruf und Amt im spätbabylonischen Uruk"
+previous_item: "15904"
+---

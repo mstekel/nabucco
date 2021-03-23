@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20800"
+occurrence_id: "5196"
+short_title: "Röllig 2000"
+author: "Röllig, Wolfgang"
+publication_year: "2000"
+title: "Aramäer und Assyrer: Die Schriftzeugnisse bis zum Ende des Assyrerreiches"
+pages: "177-186"
+editor: "Brunnens, G."
+book: "Essays on Syria and theIran Age, ANES Supplement 7 (Louvain, Paris and Sterlin)"
+title: "Aramäer und Assyrer: Die Schriftzeugnisse bis zum Ende des Assyrerreiches"
+previous_item: "20803"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13219"
+occurrence_id: "3001"
+short_title: "RA 102 (2008), 99-114"
+author: "Payne, Elizabeth E."
+publication_year: "2008"
+title: "New Evidence for the 'Craftsmen's Charter'."
+volume_no_: "102"
+pages: "99-114"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "New Evidence for the 'Craftsmen's Charter'."
+previous_item: "13222"
+---

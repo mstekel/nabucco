@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "21427"
+occurrence_id: "4126"
+short_title: "Bongenaar 2001"
+author: "Bongenaar, A.C.V.M."
+publication_year: "2001"
+title: "Houses as institutional property of the Neo-Babylonian temples"
+pages: "9-12"
+editor: "van Soldt, Wilfred H."
+title: "Houses as institutional property of the Neo-Babylonian temples"
+previous_item: "21430"
+---

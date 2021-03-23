@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8599"
+occurrence_id: "2182"
+short_title: "JCS 40/2 (1988), 187-194"
+author: "Shiff, Laurence B."
+publication_year: "1989"
+title: "Neo-Babylonian \"Interest-Free\" Promissory Notes"
+volume_no_: "40/2"
+pages: "187-194"
+journal: "Journal of Cuneiform Studies"
+title: "Neo-Babylonian \"Interest-Free\" Promissory Notes"
+previous_item: "8602"
+---

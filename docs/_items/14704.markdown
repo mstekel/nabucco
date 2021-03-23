@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14704"
+occurrence_id: "1984"
+short_title: "Iraq 60 (1998), 187-206"
+author: "George, Andrew, R."
+publication_year: "1998"
+title: "Tablets from the Sippar Library VII: Three Wisdom Texts"
+volume_no_: "60"
+pages: "187-206"
+journal: "Iraq"
+title: "Tablets from the Sippar Library VII: Three Wisdom Texts"
+previous_item: "14707"
+---

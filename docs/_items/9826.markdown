@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9826"
+occurrence_id: "2750"
+short_title: "NAPR 2 (1989), 23-70"
+author: "Gasche, Hermann"
+publication_year: "1989"
+title: "Habl aṣ-Ṣahr 1986, nouvelles fouilles. L'ouvrage défensif de Nabuchodonosor II auf nord de Sippar"
+volume_no_: "2"
+pages: "23-70"
+journal: "Northern Akkad Project Reports"
+title: "Habl aṣ-Ṣahr 1986, nouvelles fouilles. L'ouvrage défensif de Nabuchodonosor II auf nord de Sippar"
+previous_item: "9829"
+---

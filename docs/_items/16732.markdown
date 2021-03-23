@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16732"
+occurrence_id: "309"
+short_title: "BabAr 1"
+author: "Wunsch, Cornelia "
+publication_year: "2002"
+title: "Mining the archives (Fs. Walker)"
+title: "Mining the archives (Fs. Walker)"
+previous_item: "16735"
+---

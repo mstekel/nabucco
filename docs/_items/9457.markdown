@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9457"
+occurrence_id: "3784"
+short_title: "La nouvelle Clio 1/I-II (1949), 32-44"
+author: "Goossens, Godefroy"
+publication_year: "1949"
+title: "Artistes et artisans étrangers en Perse sous les Achéménides"
+volume_no_: "1/I-II"
+pages: "32-44"
+journal: "La nouvelle Clio"
+title: "Artistes et artisans étrangers en Perse sous les Achéménides"
+previous_item: "9460"
+---

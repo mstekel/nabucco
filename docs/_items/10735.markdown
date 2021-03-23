@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10735"
+occurrence_id: "1638"
+short_title: "BiOr 15 (1958), 15-22"
+author: "Yaron, Reuven"
+publication_year: "1958"
+title: "On Defension Clauses of Some Oriental Deeds of Sale and Lease, from Mesopotamia and Egypt"
+volume_no_: "15"
+pages: "15-22"
+journal: "Bibliotheca Orientalis"
+title: "On Defension Clauses of Some Oriental Deeds of Sale and Lease, from Mesopotamia and Egypt"
+previous_item: "10738"
+---

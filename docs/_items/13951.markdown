@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "13951"
+occurrence_id: "3936"
+short_title: "NABU 2013/16"
+author: "Everling, János"
+publication_year: "2013"
+title: "Toward a well established absolute chronology / On the relationship between modern Astronomy and Assyriology"
+volume_no_: "5"
+pages: "90-102"
+title: "Toward a well established absolute chronology / On the relationship between modern Astronomy and Assyriology"
+previous_item: "13954"
+---

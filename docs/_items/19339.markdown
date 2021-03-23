@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19339"
+occurrence_id: "5109"
+short_title: "Zawadzki 2005"
+author: "Zawadzki, Stefan"
+publication_year: "2005"
+title: "The building project North of Sippar in the Time of Nabonidus."
+pages: "381-392"
+editor: "Baker, Heather D."
+book: "Approaching the Babylonian Economy, AOAT 330 (Münster)"
+title: "The building project North of Sippar in the Time of Nabonidus."
+previous_item: "19342"
+---

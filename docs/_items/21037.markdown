@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21037"
+occurrence_id: "4253"
+short_title: "Wunsch 2005"
+author: "Wunsch, Cornelia"
+publication_year: "2005"
+title: "The Sangû-Ninnurta archive. ***"
+pages: "365-379"
+editor: "Baker, Heather D."
+book: "Approaching the Babylonian Economy, AOAT 330 (Münster)"
+title: "The Sangû-Ninnurta archive. ***"
+previous_item: "21040"
+---

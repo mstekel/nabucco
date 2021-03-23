@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11533"
+occurrence_id: "2932"
+short_title: "Or 71 (2002), 462-465"
+author: "Dandamayev, Muhammed A."
+publication_year: "2002"
+title: "Rv. P.D. Gesche, Schulunterricht in Babylonien im ersten Jahrt. V. Chr."
+volume_no_: "71"
+pages: "462-465"
+journal: "Orientalia"
+title: "Rv. P.D. Gesche, Schulunterricht in Babylonien im ersten Jahrt. V. Chr."
+previous_item: "11536"
+---

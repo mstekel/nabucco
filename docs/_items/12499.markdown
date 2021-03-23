@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12499"
+occurrence_id: "2124"
+short_title: "JAOS 76 (1956), 167-177"
+author: "Atkinson, K.M.T."
+publication_year: "1956"
+title: "The Legitimacy of Cambyses and Darius as Kings of Egypt"
+volume_no_: "76"
+pages: "167-177"
+journal: "Journal of the American Oriental Society"
+title: "The Legitimacy of Cambyses and Darius as Kings of Egypt"
+previous_item: "12502"
+---

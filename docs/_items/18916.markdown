@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18916"
+occurrence_id: "5059"
+short_title: "Sack 2003"
+author: "Sack, Ronald H."
+publication_year: "2003"
+title: "Nebuchadnezzar II and the Old Testament: History versus Ideology"
+pages: "221-234"
+editor: "Blenkinsopp, Joseph "
+book: "Judah and the Judeans in the Neo-Babylonian Period (Winona Lake)"
+title: "Nebuchadnezzar II and the Old Testament: History versus Ideology"
+previous_item: "18919"
+---

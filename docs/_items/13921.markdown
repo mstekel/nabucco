@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13921"
+occurrence_id: "3776"
+short_title: "Kaskal 4 (2007), 261-265"
+author: "Corò Capitanio, Paola"
+publication_year: "2007"
+title: "Again on an Achaemenid Contract from the Egibi Archive in Trieste (Italy), Collations to Inv. 138."
+volume_no_: "4"
+pages: "261-265"
+journal: "KASKAL. Rivista di storia, ambiente e culture del Vicino Oriente Antico"
+title: "Again on an Achaemenid Contract from the Egibi Archive in Trieste (Italy), Collations to Inv. 138."
+previous_item: "13924"
+---

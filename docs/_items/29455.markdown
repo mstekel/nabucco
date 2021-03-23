@@ -1,0 +1,15 @@
+---
+layout: "tablet"
+slug: "29455"
+object_id: "7617"
+museum_no_: "BM 30288"
+publication: "Wunsch 2000"
+text_number: "184B"
+duplicate: "BM 30685"
+imported: "Kathleen Abraham 20/12/2016"
+publication_name: "Wunsch 2000 184B"
+archive: "Egibi/Nūr-Sîn"
+related_objects: "7618"
+title: "BM 30288"
+previous_item: "29458"
+---

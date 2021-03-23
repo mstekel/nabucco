@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "12259"
+occurrence_id: "3837"
+short_title: "RES (1941), 70-72"
+author: "Jean, Ch.-F."
+publication_year: "1941"
+title: "Rv. E.W. Moore, Neo-Babylonian Documents in the University of Michigan Collection"
+pages: "70-72"
+journal: "Revue des etudes sémitiques"
+title: "Rv. E.W. Moore, Neo-Babylonian Documents in the University of Michigan Collection"
+previous_item: "12262"
+---

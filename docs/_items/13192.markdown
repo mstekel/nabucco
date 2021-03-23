@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13192"
+occurrence_id: "2852"
+short_title: "Or 25 (1956), 24-38"
+author: "Nicolò, Mariano, San"
+publication_year: "1956"
+title: "Materialien zur Viehwirtschaft in den neubabylonischen Tempeln. V"
+volume_no_: "25"
+pages: "24-38"
+journal: "Orientalia"
+title: "Materialien zur Viehwirtschaft in den neubabylonischen Tempeln. V"
+previous_item: "13195"
+---

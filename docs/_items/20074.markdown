@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20074"
+occurrence_id: "4633"
+short_title: "Britton, Horowitz and Steele 2007"
+author: "Britton, John P."
+publication_year: "2007"
+title: "BCM A1845-1982.2"
+pages: "43-54"
+editor: "Köhbach, Markus "
+book: "Festschrift für Hermann Hunger zum 65. Geburtstag: gewidmet von seinen Freunden, Kollegen und Schülern, WZKM 97 (Wien)"
+title: "BCM A1845-1982.2"
+previous_item: "20077"
+---

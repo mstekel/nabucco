@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18580"
+occurrence_id: "4370"
+short_title: "Joannès 2004"
+author: "Joannès, Francis"
+publication_year: "2004"
+title: "Quelques traits de l'économie babylonienne des Achéménides à Séleucos Ier"
+pages: "291-302"
+editor: "Duyrat, Frédérique"
+book: "Le roi et l'économie: Autonomies locales et structures royales dans l'économie de l'empire séleucide, Topoi Supplément 6 (Lyon)"
+title: "Quelques traits de l'économie babylonienne des Achéménides à Séleucos Ier"
+previous_item: "18583"
+---

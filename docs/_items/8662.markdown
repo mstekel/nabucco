@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "8662"
+occurrence_id: "2522"
+short_title: "NABU 1995/36"
+author: "Dandamayev, Muhammed A."
+title: "Two Late Babylonian Toponyms"
+volume_no_: "36"
+publication_year: "1995"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Two Late Babylonian Toponyms"
+previous_item: "8665"
+---

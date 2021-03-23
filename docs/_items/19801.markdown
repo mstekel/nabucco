@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19801"
+occurrence_id: "4263"
+short_title: "Bodi 2013"
+author: "Bodi, Daniel"
+publication_year: "2013"
+title: "Akkadian and Aramaic Terms for a 'Favorable Time' (ḫidānu, adānu, and 'iddān): Semitic Precursors of Greek kairos?"
+pages: "113-116"
+editor: "Albà, Adelina, Millet"
+book: "Time and History in the Ancient Near East. Proceedings of the 56th Rencontre Assyriologique Internationale at Barcelona 26-30 July 2010 (Winona Lake)"
+title: "Akkadian and Aramaic Terms for a 'Favorable Time' (ḫidānu, adānu, and 'iddān): Semitic Precursors of Greek kairos?"
+previous_item: "19804"
+---

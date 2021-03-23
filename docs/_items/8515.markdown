@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8515"
+occurrence_id: "1732"
+short_title: "BiOr 66 (2009), 182-186"
+author: "Kleber, Kristin"
+publication_year: "2009"
+title: "Rv. T. Boiy, Late Achaemenid and Hellenistic Babylon (OLA 136). Leuven 2004. and O. Pedersén. Archive and Bibliotheken von Babylon (ADOG 25). Berlin 2005."
+volume_no_: "66"
+pages: "182-186"
+journal: "Bibliotheca Orientalis"
+title: "Rv. T. Boiy, Late Achaemenid and Hellenistic Babylon (OLA 136). Leuven 2004. and O. Pedersén. Archive and Bibliotheken von Babylon (ADOG 25). Berlin 2005."
+previous_item: "8518"
+---

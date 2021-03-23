@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17779"
+occurrence_id: "425"
+short_title: "Graziani 1991"
+author: "Graziani, Simonetta "
+publication_year: "1991"
+title: "Testi editi ed inediti datati al regno di Bardiya (522 a.C.) (AION Suppl. 77)"
+title: "Testi editi ed inediti datati al regno di Bardiya (522 a.C.) (AION Suppl. 77)"
+previous_item: "17782"
+---

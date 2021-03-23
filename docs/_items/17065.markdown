@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17065"
+occurrence_id: "798"
+short_title: "Hackl 2007"
+author: "Hackl, Johannes "
+publication_year: "2007"
+title: "Der subordinierte Satz in den spätbabylonischen Briefen, AOAT 341 (Münster)"
+title: "Der subordinierte Satz in den spätbabylonischen Briefen, AOAT 341 (Münster)"
+previous_item: "17068"
+---

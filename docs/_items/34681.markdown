@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34681"
+place_id: "1249"
+parent_id: "61"
+place_name: "Šīhu-Jau[]"
+title: "Šīhu-Jau[]"
+previous_item: "34684"
+---

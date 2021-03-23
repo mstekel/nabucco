@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7648"
+occurrence_id: "3103"
+short_title: "RA 91 (1997), 147-166"
+author: "Brown, David"
+publication_year: "1997"
+title: "BM 134701=1965-10-14,1 and the Hellenistic Period Eclipse Ritual from Uruk"
+volume_no_: "91"
+pages: "147-166"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "BM 134701=1965-10-14,1 and the Hellenistic Period Eclipse Ritual from Uruk"
+previous_item: "7651"
+---

@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "12286"
+occurrence_id: "3982"
+short_title: "Mesopotamia 46 (2011), 1-8"
+author: "Monopoli, Bruno"
+publication_year: "2011"
+title: "Babylon’s urban layout and territory from above"
+volume_no_: "46"
+pages: "1-18"
+title: "Babylon’s urban layout and territory from above"
+previous_item: "12289"
+---

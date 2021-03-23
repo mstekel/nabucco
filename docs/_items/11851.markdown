@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11851"
+occurrence_id: "1640"
+short_title: "BiOr 15 (1958), 36-38"
+author: "Gelb, Ignace J."
+publication_year: "1958"
+title: "Rv. O. Neugebauer, Astronomical Cuneiform Texts"
+volume_no_: "15"
+pages: "36-38"
+journal: "Bibliotheca Orientalis"
+title: "Rv. O. Neugebauer, Astronomical Cuneiform Texts"
+previous_item: "11854"
+---

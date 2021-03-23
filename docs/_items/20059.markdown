@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20059"
+occurrence_id: "4553"
+short_title: "Fincke 2010"
+author: "Fincke, Jeanette"
+publication_year: "2010"
+title: "Astrologische Omenreporte aus Assur: Mondfinsternisse im Monat nisannu."
+pages: "35-63"
+editor: "Heeßel, Nils , P."
+book: "Assur-Forschungen (Wiesbaden)"
+title: "Astrologische Omenreporte aus Assur: Mondfinsternisse im Monat nisannu."
+previous_item: "20062"
+---

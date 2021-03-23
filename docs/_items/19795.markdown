@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19795"
+occurrence_id: "4231"
+short_title: "Jones and Stolper 2008"
+author: "Jones, Charles E."
+publication_year: "2008"
+title: "How many Persepolis Fortification Tablets are here?"
+pages: "27-50"
+editor: "Stolper, Matthew W."
+book: "L'archive des Fortifications de Persepolis. État des questions et perspectives de recherches Persika 12 (Paris)"
+title: "How many Persepolis Fortification Tablets are here?"
+previous_item: "19798"
+---

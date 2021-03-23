@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "20599"
+occurrence_id: "4122"
+short_title: "Oppenheim 1957"
+author: "Oppenheim, A. Leo"
+publication_year: "1957"
+title: "A Bird´s-Eye View of Mesopotamian Economic History"
+pages: "27-37"
+editor: "Arensherg, Conrad M."
+title: "A Bird´s-Eye View of Mesopotamian Economic History"
+previous_item: "20602"
+---

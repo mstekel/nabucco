@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20257"
+occurrence_id: "4506"
+short_title: "Petschow 1957"
+author: "Petschow, Herbert"
+publication_year: "1957"
+title: "Zur Forderungsabtretung im neubabylonischen Recht"
+pages: "21-27"
+editor: "Kupiszewski , Henryk"
+book: "Symbolae Raphaeli Taubenschlag dedicatae, Eos: commentarii Societatis philologae Polonorum 48/3 (Warsaw)"
+title: "Zur Forderungsabtretung im neubabylonischen Recht"
+previous_item: "20260"
+---

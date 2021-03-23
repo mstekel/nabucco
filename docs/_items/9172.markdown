@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9172"
+occurrence_id: "2248"
+short_title: "JESHO 47 (2004), 261-264"
+author: "van de Mieroop, Marc"
+publication_year: "2004"
+title: "Rv. G. van Driel, Elusive Silver. In search of a role for a market in an agrarian enviroment. Aspects of Mesopotamian Society. Leiden. 2002."
+volume_no_: "47"
+pages: "261-264"
+journal: "Journal of the Economic and Social History of the Orient"
+title: "Rv. G. van Driel, Elusive Silver. In search of a role for a market in an agrarian enviroment. Aspects of Mesopotamian Society. Leiden. 2002."
+previous_item: "9175"
+---

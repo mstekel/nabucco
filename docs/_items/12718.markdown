@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12718"
+occurrence_id: "3306"
+short_title: "WeOr 1 (1947-52), 51-56"
+author: "Schmidtke, Friedrich"
+publication_year: "1947-52"
+title: "Die Fehldatierung Naramsins durch Nabonid"
+volume_no_: "1"
+pages: "51-56"
+journal: "Die Welt des Orients"
+title: "Die Fehldatierung Naramsins durch Nabonid"
+previous_item: "12721"
+---

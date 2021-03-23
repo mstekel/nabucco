@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19150"
+occurrence_id: "5204"
+short_title: "Wu 2006"
+author: "Wu, Yuhong"
+publication_year: "2006"
+title: "Babylonian Civil Juridicial System in the Eanna Temple District of Uruk under Cyrus and Cambyses of the Old Persian Empire."
+pages: "150-157"
+editor: "Chen, Yiyi"
+book: "Special Issue of Oriental Studies: A Collection of Papers on Ancient Civilizations of Western Asia, Asia Minor and North Africa (Beijing)"
+title: "Babylonian Civil Juridicial System in the Eanna Temple District of Uruk under Cyrus and Cambyses of the Old Persian Empire."
+previous_item: "19153"
+---

@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "9481"
+occurrence_id: "3912"
+short_title: "JBL 128/2 (2009), 273-290"
+author: "Beaulieu, Paul-A."
+publication_year: "2009"
+title: "The Babylonian Background of the Motif of the Fiery Furnace in Daniel 3"
+volume_no_: "128/2"
+pages: "273-290"
+title: "The Babylonian Background of the Motif of the Fiery Furnace in Daniel 3"
+previous_item: "9484"
+---

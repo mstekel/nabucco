@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21043"
+occurrence_id: "4285"
+short_title: "Pingree 1987"
+author: "Pingree, David"
+publication_year: "1987"
+title: "Venus Omens in India und Babylon"
+pages: "293-315"
+editor: "Rochberg-Halton, Francesca"
+book: "Language, Literature and History Fs.Reiner, AOS 67 (New Haven)"
+title: "Venus Omens in India und Babylon"
+previous_item: "21046"
+---

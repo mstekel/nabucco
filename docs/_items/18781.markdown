@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18781"
+occurrence_id: "4339"
+short_title: "Haerinck 1997"
+author: "Haerinck, Ernie"
+publication_year: "1997"
+title: "Babylonia under Achaemenid Rule"
+pages: "26-34"
+editor: "Curtis, John"
+book: "Mesopotamia and Iran in the Persian Period (London)"
+title: "Babylonia under Achaemenid Rule"
+previous_item: "18784"
+---

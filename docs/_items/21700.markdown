@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21700"
+occurrence_id: "4481"
+short_title: "Baker 2002"
+author: "Baker, Heather D."
+publication_year: "2002"
+title: "Approaches to Akkadian Name-Giving in First-Millennium B.C. Mesopotamia"
+pages: "1-24"
+editor: "Wunsch, Cornelia"
+book: "Mining the archives, Fs. Walker (Dresden)"
+title: "Approaches to Akkadian Name-Giving in First-Millennium B.C. Mesopotamia"
+previous_item: "21703"
+---

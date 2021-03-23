@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "35008"
+place_id: "1159"
+parent_id: "61"
+place_name: "Nāru-eššu"
+title: "Nāru-eššu"
+previous_item: "35011"
+---

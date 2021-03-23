@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17716"
+occurrence_id: "836"
+short_title: "König 1972"
+author: "König, Friedrich Wilhelm "
+publication_year: "1972"
+title: "Die Persika des Ktesias von Knidos, AfO Beiheft 18 (Wien)"
+title: "Die Persika des Ktesias von Knidos, AfO Beiheft 18 (Wien)"
+previous_item: "17719"
+---

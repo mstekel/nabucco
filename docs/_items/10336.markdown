@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "10336"
+occurrence_id: "2476"
+short_title: "NABU 1990/39"
+author: "Zadok, Ran"
+publication_year: "1990"
+title: "Some Elamite Names in Mesopotamian Sources"
+volume_no_: "39"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Some Elamite Names in Mesopotamian Sources"
+previous_item: "10339"
+---

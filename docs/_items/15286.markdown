@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15286"
+occurrence_id: "2097"
+short_title: "JAOS 121/3 (2001), 501-502"
+author: "McMahon, Augusta"
+publication_year: "2001"
+title: "Rv. D.T. Potts, the Archaeology of Elam: Formation and Transformation of the Ancient Iranian State"
+volume_no_: "121/3"
+pages: "501-502"
+journal: "Journal of the American Oriental Society"
+title: "Rv. D.T. Potts, the Archaeology of Elam: Formation and Transformation of the Ancient Iranian State"
+previous_item: "15289"
+---

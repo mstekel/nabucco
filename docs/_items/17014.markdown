@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17014"
+occurrence_id: "474"
+short_title: "König 1975"
+author: "Bork, Ferdinand "
+publication_year: "1975"
+title: "Corpus Inscriptionum Elamicarum. I. Die altelamischen Texte: Tafeln"
+title: "Corpus Inscriptionum Elamicarum. I. Die altelamischen Texte: Tafeln"
+previous_item: "17017"
+---

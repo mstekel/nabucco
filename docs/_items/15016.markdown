@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15016"
+occurrence_id: "3666"
+short_title: "EAACO 7 (1966), 216-217"
+author: "Alfieri, B.M."
+publication_year: "1966"
+title: "Art. Serse (I., II., III.)"
+volume_no_: "7"
+pages: "216-217"
+journal: "Enciclopedia dell'Arte Antica Classica e Orientale"
+title: "Art. Serse (I., II., III.)"
+previous_item: "15019"
+---

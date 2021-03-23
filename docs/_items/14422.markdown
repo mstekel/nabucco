@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14422"
+occurrence_id: "3471"
+short_title: "ZA 83 (1993), 274-282"
+author: "Streck, Michael , P."
+publication_year: "1993"
+title: "Rv. K. Kessler, Uruk. Urkunden aus Privahäusern. Die Wohnhäuser westlich des Eanna-Tempelbereichs. Teil I: Die Archive der Söhne des Bēl-ušallim, des Nabû-ušallim and des Bēl-supê-muhur (AUWE 8, 1991)"
+volume_no_: "83"
+pages: "274-282"
+journal: "Zeitschrift für Assyriologie"
+title: "Rv. K. Kessler, Uruk. Urkunden aus Privahäusern. Die Wohnhäuser westlich des Eanna-Tempelbereichs. Teil I: Die Archive der Söhne des Bēl-ušallim, des Nabû-ušallim and des Bēl-supê-muhur (AUWE 8, 1991)"
+previous_item: "14425"
+---

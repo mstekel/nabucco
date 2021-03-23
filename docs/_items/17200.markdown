@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17200"
+occurrence_id: "832"
+short_title: "Koldewey;Wetzel 1931"
+author: "Koldewey, Robert "
+publication_year: "1931"
+title: "Die Königsburgen von Babylon. 1. Teil: Die Südburg, WVDOG 54 (Leipzig)"
+title: "Die Königsburgen von Babylon. 1. Teil: Die Südburg, WVDOG 54 (Leipzig)"
+previous_item: "17203"
+---

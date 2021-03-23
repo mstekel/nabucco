@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20212"
+occurrence_id: "4265"
+short_title: "Potts 1999a"
+author: "Potts, Daniel T."
+publication_year: "1999"
+title: "Madaktu and Badace"
+pages: "13-28"
+editor: "Ayán, J., J."
+book: "Ša ṭudu idū. Estudios sobre las culturas antiguas de Oriente y Egipto, Fs. Garrido Herrero (Madrid)"
+title: "Madaktu and Badace"
+previous_item: "20215"
+---

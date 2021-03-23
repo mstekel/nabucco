@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19546"
+occurrence_id: "5110"
+short_title: "Zawadzki 2009"
+author: "Zawadzki, Stefan"
+publication_year: "2009"
+title: "The Archive of Rabâ-sha-Ninurta Family from Babylon. Business and Family Relations as Revealed by BM 55482."
+pages: "271-281"
+editor: "Drewnowska-Rymarz, Olga"
+book: "Here and there Across the Ancient Near East. Studies in Honour of Krystyna Lyczkowska (Warsaw)"
+title: "The Archive of Rabâ-sha-Ninurta Family from Babylon. Business and Family Relations as Revealed by BM 55482."
+previous_item: "19549"
+---

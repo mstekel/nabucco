@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13891"
+occurrence_id: "3616"
+short_title: "AJ 65 (1985), 172-173"
+author: "Wiseman, Donald J."
+publication_year: "1985"
+title: "Rv. G.J.P. McEwan, Texts from Hellenistic Babylonia in the Ashmolean Museum (OECT 9)"
+volume_no_: "65"
+pages: "172-173"
+journal: "Antiquaries Journal (London)"
+title: "Rv. G.J.P. McEwan, Texts from Hellenistic Babylonia in the Ashmolean Museum (OECT 9)"
+previous_item: "13894"
+---

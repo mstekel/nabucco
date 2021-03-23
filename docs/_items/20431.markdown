@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20431"
+occurrence_id: "4330"
+short_title: "Ebeling 1959b"
+author: "Ebeling, Erich"
+publication_year: "1959"
+title: "Freudenmädchen"
+pages: "113"
+editor: "Meissner, Bruno"
+book: "Reallexikon der Assyriologie 3 (1959)"
+title: "Freudenmädchen"
+previous_item: "20434"
+---

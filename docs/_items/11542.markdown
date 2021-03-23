@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11542"
+occurrence_id: "2982"
+short_title: "Princeton Seminary Bulletin 42 (1949), 36-38"
+author: "Gehman, Henry S."
+publication_year: "1949"
+title: "Rv. A.T. Olmstead, History of the Persian Empire (Achaemenid Period)"
+volume_no_: "42"
+pages: "36-38"
+journal: "Princeton Seminary Bulletin"
+title: "Rv. A.T. Olmstead, History of the Persian Empire (Achaemenid Period)"
+previous_item: "11545"
+---

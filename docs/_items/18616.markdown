@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18616"
+occurrence_id: "4562"
+short_title: "Marzahn 2002"
+author: "Marzahn, Joachim"
+publication_year: "2002"
+title: "\"Oikos\" und \"Tributwirtschaft\" - Wirtschaftsmodelle des Alten Orients in der Kritik"
+pages: "267-271"
+editor: "Hausleiter, Arnulf"
+book: "Material Culture and Mental Spheres. Rezeption archäologischer Denkrichtungen in der Vorderasiatischen Altertumskande, Internationales Symposium für Hans J. Nissen (Münster)"
+title: "\"Oikos\" und \"Tributwirtschaft\" - Wirtschaftsmodelle des Alten Orients in der Kritik"
+previous_item: "18619"
+---

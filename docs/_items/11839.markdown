@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11839"
+occurrence_id: "1576"
+short_title: "BaM 34 (2003), 235-265."
+author: "Kessler, Karlheinz"
+publication_year: "2003"
+title: "\"Zu den Urkunden des achämenidenzeitlichen Archivs W 23293 aus U 18\"."
+volume_no_: "34"
+pages: "235-265"
+journal: "Baghdader Mitteilungen"
+title: "\"Zu den Urkunden des achämenidenzeitlichen Archivs W 23293 aus U 18\"."
+previous_item: "11842"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14146"
+occurrence_id: "1983"
+short_title: "Iraq 59 (1997), 93-96"
+author: "Beaulieu, Paul-A."
+publication_year: "1997"
+title: "A New Inscription of Nebuchadnezzar II Commemorating the Restoration of Emah in Babylon"
+volume_no_: "59"
+pages: "97-174"
+journal: "Iraq"
+title: "A New Inscription of Nebuchadnezzar II Commemorating the Restoration of Emah in Babylon"
+previous_item: "14149"
+---

@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "12295"
+occurrence_id: "4030"
+short_title: "Iraq 75 (2013), 211-253"
+author: "Stevens, Kathryn"
+publication_year: "2013"
+title: "Secrets in the Library: Protected Knowledge and Professional Identity in Late Babylonian Uruk"
+volume_no_: "75"
+pages: "211-253"
+title: "Secrets in the Library: Protected Knowledge and Professional Identity in Late Babylonian Uruk"
+previous_item: "12298"
+---

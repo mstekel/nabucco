@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12904"
+occurrence_id: "1300"
+short_title: "AJSL 46 (1930), 73-103"
+author: "Dougherty, Raymond Ph."
+publication_year: "1930"
+title: "The Babylonian Principle of Suretyship as Administered by Temple Law"
+volume_no_: "46"
+pages: "73-103"
+journal: "American Journal of Semitic Languages and Literatures"
+title: "The Babylonian Principle of Suretyship as Administered by Temple Law"
+previous_item: "12907"
+---

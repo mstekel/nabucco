@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10525"
+occurrence_id: "3514"
+short_title: "ZA 91 (2001), 120-132 (4 Pl., 2 Tab.)"
+author: "Seidl, Ursula"
+publication_year: "2001"
+title: "Das Ringen um das richtige Bild des Šamaš von Sippar"
+volume_no_: "91"
+pages: "120-132"
+journal: "Zeitschrift für Assyriologie"
+title: "Das Ringen um das richtige Bild des Šamaš von Sippar"
+previous_item: "10528"
+---

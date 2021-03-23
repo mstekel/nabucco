@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "18400"
+occurrence_id: "281"
+short_title: "SpTU 2"
+author: "von Weiher, Egbert "
+publication_year: "1983"
+title: "Spätbabylonische Texte aus Uruk, Teil II. ADFU 10 (Berlin)."
+volume_no_: "2"
+related_objects: "6007"
+title: "Spätbabylonische Texte aus Uruk, Teil II. ADFU 10 (Berlin)."
+previous_item: "18403"
+---

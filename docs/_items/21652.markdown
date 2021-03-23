@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21652"
+occurrence_id: "4224"
+short_title: "Waerzeggers 2010a"
+author: "Waerzeggers, Caroline"
+publication_year: "2010"
+title: "Babylonians in Susa. the Travels of Babylonian Businessmen to Susa Reconsidered"
+pages: "777-813"
+editor: "Jacobs, Bruno"
+book: "Der Achämenidenhof (Wiesbaden)"
+title: "Babylonians in Susa. the Travels of Babylonian Businessmen to Susa Reconsidered"
+previous_item: "21655"
+---

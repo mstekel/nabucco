@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "16471"
+occurrence_id: "2438"
+short_title: "NABU 1987/124"
+author: "Charpin, Dominique"
+publication_year: "1987"
+title: "Découvertes épgrapgiques à Larsa (Autome 1987)"
+volume_no_: "124"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Découvertes épgrapgiques à Larsa (Autome 1987)"
+previous_item: "16474"
+---

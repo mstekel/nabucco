@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33538"
+place_id: "688"
+parent_id: "40"
+place_name: "Ugar-Kāṣir"
+title: "Ugar-Kāṣir"
+previous_item: "33541"
+---

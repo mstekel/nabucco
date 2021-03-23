@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15790"
+occurrence_id: "1793"
+short_title: "BSOAS 50 (1987), 361-362"
+author: "Wansbrough, J."
+publication_year: "1987"
+title: "Rv. M. Silver, Economic Structures of the Ancient Near East (1985)"
+volume_no_: "50"
+pages: "361-362"
+journal: "Bulletin of the School of Oriental and African Studies"
+title: "Rv. M. Silver, Economic Structures of the Ancient Near East (1985)"
+previous_item: "15793"
+---

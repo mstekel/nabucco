@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18454"
+occurrence_id: "610"
+short_title: "Vallat 1980"
+author: "Vallat, François "
+publication_year: "1980"
+title: "Suse et Elam"
+title: "Suse et Elam"
+previous_item: "18457"
+---

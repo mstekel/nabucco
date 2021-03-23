@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16942"
+occurrence_id: "814"
+short_title: "Hunger;Pingree 1999"
+author: "Hunger, Hermann "
+publication_year: "1999"
+title: "Astral Sciences in Mesopotamia, HdO I, 44 (Leiden; Boston; Köln)"
+title: "Astral Sciences in Mesopotamia, HdO I, 44 (Leiden; Boston; Köln)"
+previous_item: "16945"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19864"
+occurrence_id: "4600"
+short_title: "Renger 1995"
+author: "Renger, Johannes"
+publication_year: "1995"
+title: "Subsistenzproduktion und redistributive Palastwirtschaft. Wo bleibt die Nische für das Geld? Grenzen und Möglichkeiten für die Verwendung von Geld im alten Mesopotamien"
+pages: "271-324"
+editor: "Nitsch, M."
+book: "Rätsel Geld. Annäherungen aus ökonomischer, soziologischer and historischer Sicht (Marburg)"
+title: "Subsistenzproduktion und redistributive Palastwirtschaft. Wo bleibt die Nische für das Geld? Grenzen und Möglichkeiten für die Verwendung von Geld im alten Mesopotamien"
+previous_item: "19867"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10552"
+occurrence_id: "3658"
+short_title: "BZ NF 7 (1963), 294-295"
+author: "Hamp, V."
+publication_year: "1963"
+title: "Rv. R. Meyer, Das Gebet des Nabonid"
+volume_no_: "7"
+pages: "294-295"
+journal: "Biblische Zeitschrift. Neue Folge (Paderborn)"
+title: "Rv. R. Meyer, Das Gebet des Nabonid"
+previous_item: "10555"
+---

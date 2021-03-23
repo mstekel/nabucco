@@ -1,0 +1,11 @@
+---
+layout: "glossary"
+slug: "1945"
+concept_id: "1480"
+hierarchy: "General keywords"
+label: "Bēl-Canal"
+related_objects: "1"
+type: "148"
+title: "Bēl-Canal"
+previous_item: "1948"
+---

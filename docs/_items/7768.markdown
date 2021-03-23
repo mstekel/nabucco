@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7768"
+occurrence_id: "3749"
+short_title: "JRAS 72 (1940), 207-210"
+author: "Zaehner, Robert C."
+publication_year: "1940"
+title: "Rv. E. Herzfeld, Altpersische Inschriften"
+volume_no_: "72"
+pages: "207-210"
+journal: "Journal of the Royal Asiatic Society"
+title: "Rv. E. Herzfeld, Altpersische Inschriften"
+previous_item: "7771"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14401"
+occurrence_id: "3357"
+short_title: "WZKM 45 (1959), 62-76"
+author: "Borger, Rykle"
+publication_year: "1959"
+title: "Mesopotamien in den Jahren 629-621 v. Chr."
+volume_no_: "45"
+pages: "62-76"
+journal: "Wiener Zeitschrift für die Kunde des Morgenlandes"
+title: "Mesopotamien in den Jahren 629-621 v. Chr."
+previous_item: "14404"
+---

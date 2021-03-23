@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9922"
+occurrence_id: "3267"
+short_title: "Transeuphratène 24 (2002), 143-146"
+author: "Elayi, Josette"
+publication_year: "2002"
+title: "Rv. P. Briant, Bulletin d´histoire achéménide III, BHAchII, 1997-2000 (Paris 2001)"
+volume_no_: "24"
+pages: "143-146"
+journal: "Transeuphratène"
+title: "Rv. P. Briant, Bulletin d´histoire achéménide III, BHAchII, 1997-2000 (Paris 2001)"
+previous_item: "9925"
+---

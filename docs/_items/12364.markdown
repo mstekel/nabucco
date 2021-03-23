@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12364"
+occurrence_id: "1399"
+short_title: "Antiquity 31 (1957), 106"
+author: "Wiseman, Donald J."
+publication_year: "1957"
+title: "Rv. O. Neugebauer, Astronomical Cuneiform Texts"
+volume_no_: "31"
+pages: "106"
+journal: "Antiquity"
+title: "Rv. O. Neugebauer, Astronomical Cuneiform Texts"
+previous_item: "12367"
+---

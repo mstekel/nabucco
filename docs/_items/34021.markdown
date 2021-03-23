@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34021"
+place_id: "1327"
+parent_id: "61"
+place_name: "Til-Šūlā"
+title: "Til-Šūlā"
+previous_item: "34024"
+---

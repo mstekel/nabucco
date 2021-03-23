@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34954"
+place_id: "295"
+parent_id: "40"
+place_name: "Bīt-Hattanīšu"
+title: "Bīt-Hattanīšu"
+previous_item: "34957"
+---

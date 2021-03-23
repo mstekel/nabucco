@@ -1,0 +1,10 @@
+---
+layout: "archive"
+slug: "23035"
+archive_id: "448"
+archive_name: "Yahud"
+is_part_of: "Yahud"
+related_objects: "2287"
+title: "Yahud"
+previous_item: "23038"
+---

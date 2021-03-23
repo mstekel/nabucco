@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16018"
+occurrence_id: "3022"
+short_title: "RA 39 (1942-44), 100"
+author: "Contenau, Georges"
+publication_year: "1942-44"
+title: "Rv. C.I. Huart and J.L. Delaporte, L´Iran antique. Élam et Perse et la civilisation iranienne"
+volume_no_: "39"
+pages: "100"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "Rv. C.I. Huart and J.L. Delaporte, L´Iran antique. Élam et Perse et la civilisation iranienne"
+previous_item: "16021"
+---

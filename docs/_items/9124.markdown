@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9124"
+occurrence_id: "1990"
+short_title: "Iraq 64 (2002), 135-216"
+author: "Reade, Julian E."
+publication_year: "2002"
+title: "The ziggurat and temples of Nimrud"
+volume_no_: "64"
+pages: "135-216"
+journal: "Iraq"
+title: "The ziggurat and temples of Nimrud"
+previous_item: "9127"
+---

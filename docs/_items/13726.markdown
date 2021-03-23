@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "13726"
+occurrence_id: "2725"
+short_title: "NABU 2009/49"
+author: "Baker, Heather D."
+title: "Correction to NABU 2008/27"
+volume_no_: "49"
+publication_year: "2009"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Correction to NABU 2008/27"
+previous_item: "13729"
+---

@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17413"
+occurrence_id: "549"
+short_title: "Reade 1996"
+author: "Reade, Julian E. "
+publication_year: "1996"
+title: "The Indian Ocean in Antiquity"
+title: "The Indian Ocean in Antiquity"
+previous_item: "17416"
+---

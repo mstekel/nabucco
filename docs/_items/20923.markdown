@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20923"
+occurrence_id: "4749"
+short_title: "Stol 1980-1983"
+author: "Stol, Marten"
+publication_year: "1980-1983"
+title: "Leder(industrie)"
+pages: "527-543"
+editor: "Meissner, Bruno"
+book: "Reallexikon der Assyriologie 6 (1980-1983)"
+title: "Leder(industrie)"
+previous_item: "20926"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10201"
+occurrence_id: "1751"
+short_title: "BN 62 (1992), 41-44"
+author: "Na'aman, Nadav"
+publication_year: "1992"
+title: "Nebuchadrezzar's Campaign in Year 603 BCE"
+volume_no_: "62"
+pages: "41-44"
+journal: "Biblische Notizen"
+title: "Nebuchadrezzar's Campaign in Year 603 BCE"
+previous_item: "10204"
+---

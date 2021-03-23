@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34309"
+place_id: "613"
+parent_id: "40"
+place_name: "Qidari"
+title: "Qidari"
+previous_item: "34312"
+---

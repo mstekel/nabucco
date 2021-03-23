@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33748"
+place_id: "502"
+parent_id: "40"
+place_name: "Huṣṣēti-ša-Maguš"
+title: "Huṣṣēti-ša-Maguš"
+previous_item: "33751"
+---

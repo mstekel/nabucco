@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15586"
+occurrence_id: "3715"
+short_title: "IBK 16 (1976), 373-390"
+author: "Schmitt, Rüdiger"
+publication_year: "1976"
+title: "Der Titel \"Satrap\""
+volume_no_: "16"
+pages: "373-390"
+journal: "Innsbrucker Beiträge zur Kulturwissenschaft"
+title: "Der Titel \"Satrap\""
+previous_item: "15589"
+---

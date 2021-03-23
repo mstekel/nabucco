@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17896"
+occurrence_id: "354"
+short_title: "CBT VI"
+author: "Leichty, Erle V. "
+publication_year: "1986"
+title: "Catalogue of the Babylonian Tablets in the British Museum VI: Tablets from Sippar 1,"
+title: "Catalogue of the Babylonian Tablets in the British Museum VI: Tablets from Sippar 1,"
+previous_item: "17899"
+---

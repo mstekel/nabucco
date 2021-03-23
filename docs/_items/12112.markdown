@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12112"
+occurrence_id: "3047"
+short_title: "RA 68 (1974 publ. 1975), 179-183"
+author: "Grillot-Susini, Françoise"
+publication_year: "1974 publ. 1975"
+title: "Rv. R.T. Hallock, Persepolis Fortification Tablets (OIP 92)"
+volume_no_: "68"
+pages: "179-183"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "Rv. R.T. Hallock, Persepolis Fortification Tablets (OIP 92)"
+previous_item: "12115"
+---

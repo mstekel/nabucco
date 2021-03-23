@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "13972"
+occurrence_id: "4049"
+short_title: "JAOS 133/3 (2013), 541-542"
+author: "Wells, Bruce"
+publication_year: "2013"
+title: "Rv. S.E. Holtz, Neo-Babylonian Court Procedure"
+volume_no_: "133/3"
+pages: "541-542"
+title: "Rv. S.E. Holtz, Neo-Babylonian Court Procedure"
+previous_item: "13975"
+---

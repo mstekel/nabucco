@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8800"
+occurrence_id: "3265"
+short_title: "Transeuphratène 19 (2000), 13-33"
+author: "Sapin, Jean"
+publication_year: "2000"
+title: "La main-d´oeuvre migrante en Transeuphratène achéménide"
+volume_no_: "19"
+pages: "13-33"
+journal: "Transeuphratène"
+title: "La main-d´oeuvre migrante en Transeuphratène achéménide"
+previous_item: "8803"
+---

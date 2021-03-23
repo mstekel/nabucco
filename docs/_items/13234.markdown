@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13234"
+occurrence_id: "3081"
+short_title: "RA 82 (1988), 74-77"
+author: "Joannès, Francis"
+publication_year: "1988"
+title: "Sippar à l'époque récente"
+volume_no_: "82"
+pages: "74-77"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "Sippar à l'époque récente"
+previous_item: "13237"
+---

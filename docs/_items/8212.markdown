@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8212"
+occurrence_id: "3120"
+short_title: "RAr 2 (1964), 204-207"
+author: "Picard, Ch."
+publication_year: "1964"
+title: "Rv. R. Ghirshman, Perses, Protoiraniens, Mèdes, Achéménides (L´Univers des formes)"
+volume_no_: "2"
+pages: "204-207"
+journal: "Revue archéologique"
+title: "Rv. R. Ghirshman, Perses, Protoiraniens, Mèdes, Achéménides (L´Univers des formes)"
+previous_item: "8215"
+---

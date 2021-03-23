@@ -1,0 +1,14 @@
+---
+layout: "tablet"
+slug: "25972"
+object_id: "5382"
+museum_no_: "MAH 15976"
+publication: "Frame 2013"
+text_number: "6c"
+duplicate: "BM 118975"
+imported: "Melanie Gross (26/05/2016)"
+publication_name: "Frame 2013 6c"
+related_objects: "5383"
+title: "MAH 15976"
+previous_item: "25975"
+---

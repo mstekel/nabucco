@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18115"
+occurrence_id: "906"
+short_title: "Weissbach 1903"
+author: "Weissbach, Franz H."
+publication_year: "1903"
+title: "Babylonische Miscellen, WVDOG 4 (Leipzig)"
+title: "Babylonische Miscellen, WVDOG 4 (Leipzig)"
+previous_item: "18118"
+---

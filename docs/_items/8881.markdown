@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8881"
+occurrence_id: "3703"
+short_title: "Fischer-Weltgeschichte 6 (1965), 270-291"
+author: "Meuleau, Maurice"
+publication_year: "1965"
+title: "Mesopotamien unter der Herrschaft der Seleukiden"
+volume_no_: "6"
+pages: "270-291"
+journal: "Fischer-Weltgeschichte"
+title: "Mesopotamien unter der Herrschaft der Seleukiden"
+previous_item: "8884"
+---

@@ -1,0 +1,11 @@
+---
+layout: "glossary"
+slug: "1948"
+concept_id: "1483"
+hierarchy: "General keywords"
+label: "Mušēzib-Bēl Canal"
+related_objects: "1"
+type: "148"
+title: "Mušēzib-Bēl Canal"
+previous_item: "4495"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16033"
+occurrence_id: "3102"
+short_title: "RA 90 (1996), 84-89"
+author: "Joannès, Francis"
+publication_year: "1996"
+title: "Rv. D.B. Weisberg, The Late Babylonian Texts of the Oriental Institute Collection (BibMes 24, 1991)"
+volume_no_: "90"
+pages: "84-89"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "Rv. D.B. Weisberg, The Late Babylonian Texts of the Oriental Institute Collection (BibMes 24, 1991)"
+previous_item: "16036"
+---

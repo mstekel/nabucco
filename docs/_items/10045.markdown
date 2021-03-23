@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "10045"
+occurrence_id: "3929"
+short_title: "Geographia Antiqua 18 (2009), 217–226"
+author: "Da Riva, Rocío"
+publication_year: "2009"
+title: "Desde la muralla de Media a los cedros del Líbano: uno apuntes de geografía del Próximo Oriente Antiguo"
+volume_no_: "18"
+pages: "217-226"
+title: "Desde la muralla de Media a los cedros del Líbano: uno apuntes de geografía del Próximo Oriente Antiguo"
+previous_item: "10048"
+---

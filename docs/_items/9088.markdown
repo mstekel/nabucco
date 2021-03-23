@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9088"
+occurrence_id: "1798"
+short_title: "BSOAS 53 (1990), 1-7"
+author: "Geller, Mark J."
+publication_year: "1990"
+title: "Babylonian Astronomical Diaries and Corrections of Diodorus"
+volume_no_: "53"
+pages: "1-7"
+journal: "Bulletin of the School of Oriental and African Studies"
+title: "Babylonian Astronomical Diaries and Corrections of Diodorus"
+previous_item: "9091"
+---

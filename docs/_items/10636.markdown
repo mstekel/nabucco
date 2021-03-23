@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10636"
+occurrence_id: "254"
+short_title: "Dubberstein, JNES 3/1"
+author: "Dubberstein, Waldo H."
+publication_year: "1944"
+title: "Assyrian-Babylonian Chronology (669-612 B.C.)"
+volume_no_: "3/1"
+pages: "38-42"
+journal: "Journal of Near Eastern Studies"
+title: "Assyrian-Babylonian Chronology (669-612 B.C.)"
+previous_item: "10639"
+---

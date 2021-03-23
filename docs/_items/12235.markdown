@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12235"
+occurrence_id: "3709"
+short_title: "Hiroshima University Studies, Literature Department 29 (1970), 207-223"
+author: "Yoshikawa, Mamoru"
+publication_year: "1970"
+title: "On the Grammatical Terms in Neo-Babylonian Grammatical Texts (III), Marû/hamṭu"
+volume_no_: "29"
+pages: "207-223"
+journal: "Hiroshima University Studies, Literature Department"
+title: "On the Grammatical Terms in Neo-Babylonian Grammatical Texts (III), Marû/hamṭu"
+previous_item: "12238"
+---

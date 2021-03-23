@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18760"
+occurrence_id: "4226"
+short_title: "Waerzeggers 2012"
+author: "Waerzeggers, Caroline"
+publication_year: "2012"
+title: "Happy Days: The Babylonian Almanac in Daily Life"
+pages: "653-664"
+editor: "Goddeeris, Anne"
+book: "The Ancient Near East, A Life! Festschrift Karel Van Lerberghe, Orientalia Lovaniensia Analecta 220 (Leuven)"
+title: "Happy Days: The Babylonian Almanac in Daily Life"
+previous_item: "18763"
+---

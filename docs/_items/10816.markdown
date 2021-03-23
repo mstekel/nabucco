@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10816"
+occurrence_id: "2073"
+short_title: "JAOS 114 (1994), 435-439"
+author: "Wallenfels, Ronald"
+publication_year: "1994"
+title: "A New Volume of Texts from Hellenistic Uruk"
+volume_no_: "114"
+pages: "435-439"
+journal: "Journal of the American Oriental Society"
+title: "A New Volume of Texts from Hellenistic Uruk"
+previous_item: "10819"
+---

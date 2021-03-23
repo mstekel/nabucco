@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33475"
+place_id: "1429"
+parent_id: "4"
+place_name: "Marad"
+title: "Marad"
+previous_item: "33478"
+---

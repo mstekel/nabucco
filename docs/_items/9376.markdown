@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9376"
+occurrence_id: "3348"
+short_title: "WeOr 6/2 (1971 publ. 1972), 163-165"
+author: "Hunger, Hermann"
+publication_year: "1971 publ. 1972"
+title: "Die Tafeln des Iqīša"
+volume_no_: "6/2."
+pages: "163-165"
+journal: "Die Welt des Orients"
+title: "Die Tafeln des Iqīša"
+previous_item: "9379"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15706"
+occurrence_id: "1339"
+short_title: "AMI 19 (1986), 121-132"
+author: "Schmitt, Rüdiger"
+publication_year: "1986"
+title: "Über fehlende Normierung im Achaimenidisch-Elamischen"
+volume_no_: "19"
+pages: "121-132"
+journal: "Archäologische Mitteilungen aus Iran"
+title: "Über fehlende Normierung im Achaimenidisch-Elamischen"
+previous_item: "15709"
+---

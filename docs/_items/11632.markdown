@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11632"
+occurrence_id: "3466"
+short_title: "ZA 81 (1991), 37-86"
+author: "Frame, Grant"
+publication_year: "1991"
+title: "Nabonidus, Nabû-šarra-uṣur, and the Eanna Temple"
+volume_no_: "81"
+pages: "37-86"
+journal: "Zeitschrift für Assyriologie"
+title: "Nabonidus, Nabû-šarra-uṣur, and the Eanna Temple"
+previous_item: "11635"
+---

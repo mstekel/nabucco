@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12670"
+occurrence_id: "3048"
+short_title: "RA 69 (1975 publ. 1976), 175-180"
+author: "Pingree, David"
+publication_year: "1975 publ. 1976"
+title: "Observational Texts concerning the Planet Mercury"
+volume_no_: "69"
+pages: "175-180"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "Observational Texts concerning the Planet Mercury"
+previous_item: "12673"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14851"
+occurrence_id: "2775"
+short_title: "OLZ 46 (1943), 454-455"
+author: "von Soden, Wolfram"
+publication_year: "1943"
+title: "Rv. M. San Nicolò, Beiträge zu einer Prosopographie neubabylonischer Beamten der Zivil- und Tempelverwaltung"
+volume_no_: "46"
+pages: "454-455"
+journal: "Orientalistische Literaturzeitung"
+title: "Rv. M. San Nicolò, Beiträge zu einer Prosopographie neubabylonischer Beamten der Zivil- und Tempelverwaltung"
+previous_item: "14854"
+---

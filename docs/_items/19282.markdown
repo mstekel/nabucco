@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19282"
+occurrence_id: "4805"
+short_title: "Jursa and Waerzeggers 2009"
+author: "Jursa, Michael"
+publication_year: "2009"
+title: "On aspects of taxation in Achaemenid Babylonia: new evidence from Borsippa"
+pages: "237-269"
+editor: "Chauveau, Michel"
+book: "Organisation des pouvoirs et contacts culturels dans les pays de l’empire achéménide. Actes du colloque … 9-10 novembre 2007,  Persika 14 (Paris) with the contribution of Caroline Waerzeggers"
+title: "On aspects of taxation in Achaemenid Babylonia: new evidence from Borsippa"
+previous_item: "19285"
+---

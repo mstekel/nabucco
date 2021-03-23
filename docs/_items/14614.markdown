@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14614"
+occurrence_id: "1500"
+short_title: "ArOr 63 (1995), 153-158."
+author: "Jursa, Michael"
+publication_year: "1995"
+title: "Von Vermessungen und Straßen"
+volume_no_: "63"
+pages: "153-158"
+journal: "Archív Orientalí"
+title: "Von Vermessungen und Straßen"
+previous_item: "14617"
+---

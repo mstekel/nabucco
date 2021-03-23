@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8260"
+occurrence_id: "3378"
+short_title: "WZKM 94 (2004), 133-165."
+author: "Kleber, Kristin"
+publication_year: "2004"
+title: "Die Fischerei in der spätbabylonischen Zeit."
+volume_no_: "94"
+pages: "133-165"
+journal: "Wiener Zeitschrift für die Kunde des Morgenlandes"
+title: "Die Fischerei in der spätbabylonischen Zeit."
+previous_item: "8263"
+---

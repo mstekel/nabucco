@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "34024"
+place_id: "1381"
+parent_id: "37"
+place_name: "Til-Gula"
+related_objects: "8039"
+title: "Til-Gula"
+previous_item: "34027"
+---

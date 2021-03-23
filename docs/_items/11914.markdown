@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11914"
+occurrence_id: "1979"
+short_title: "Iraq 56 (1994), 135-148"
+author: "George, Andrew, R."
+publication_year: "1994"
+title: "Tablets from the Sippar library. III. Two Royal Counterfeits"
+volume_no_: "56"
+pages: "135-148"
+journal: "Iraq"
+title: "Tablets from the Sippar library. III. Two Royal Counterfeits"
+previous_item: "11917"
+---

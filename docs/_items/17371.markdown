@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17371"
+occurrence_id: "298"
+short_title: "Adam 1972"
+author: "Adams, Robert McC. "
+publication_year: "1972"
+title: "The Uruk Countryside. the Natural Setting of Urban Societies"
+title: "The Uruk Countryside. the Natural Setting of Urban Societies"
+previous_item: "17374"
+---

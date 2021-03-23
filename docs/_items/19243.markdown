@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19243"
+occurrence_id: "4597"
+short_title: "Scurlock 2012"
+author: "Scurlock, JoAnn"
+publication_year: "2012"
+title: "Marduk and His Enemies: City Rivalries in Southern Mesopotamia"
+pages: "369-376"
+editor: "Wilhelm, Gernot"
+book: "Organization, Representation, and Symbols of Power in the Ancient Near East. Proceedings of the 54th Rencontre Assyriologique Internationale at Würzburg 20-25 July 2008 (Winona Lake)"
+title: "Marduk and His Enemies: City Rivalries in Southern Mesopotamia"
+previous_item: "19246"
+---

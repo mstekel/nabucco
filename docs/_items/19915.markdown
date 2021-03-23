@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19915"
+occurrence_id: "4872"
+short_title: "Dandamayev 1998"
+author: "Dandamayev, Muhammed A."
+publication_year: "1998"
+title: "The Old Persian amata- and the Babylonian mar bani"
+pages: "17-21"
+editor: "Ölberg, Hermann , M."
+book: "Wort - Text - Sprache und Kultur, Fs. Hans Schmeja zum 65. Geburtstag (Innsbruck)"
+title: "The Old Persian amata- and the Babylonian mar bani"
+previous_item: "19918"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11848"
+occurrence_id: "1624"
+short_title: "Bib 23 (1942), 95-100"
+author: "Miller, A."
+publication_year: "1942"
+title: "Rv. G. Brunner, Der Nabuchodonosor des Buches Judith"
+volume_no_: "23"
+pages: "95-100"
+journal: "Biblica"
+title: "Rv. G. Brunner, Der Nabuchodonosor des Buches Judith"
+previous_item: "11851"
+---

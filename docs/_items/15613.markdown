@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15613"
+occurrence_id: "3859"
+short_title: "Topoi 9 (1999), 33-45"
+author: "Arfa'i, Abd al-Mujid"
+publication_year: "1999"
+title: "La grande route Persépolis-Suse. Une lecture des tablettes provenant des Fortifications de Persépolis"
+volume_no_: "9"
+pages: "33-45"
+journal: "Topoi"
+title: "La grande route Persépolis-Suse. Une lecture des tablettes provenant des Fortifications de Persépolis"
+previous_item: "15616"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13237"
+occurrence_id: "3097"
+short_title: "RA 89 (1995), 1-2"
+author: "Joannès, Francis"
+publication_year: "1995"
+title: "Les phénomènes de fin d´archives en Mésopotamie: Présentation"
+volume_no_: "89"
+pages: "1-2"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "Les phénomènes de fin d´archives en Mésopotamie: Présentation"
+previous_item: "13240"
+---

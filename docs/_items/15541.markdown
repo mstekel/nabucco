@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15541"
+occurrence_id: "3473"
+short_title: "ZA 83 (1993), 61-65"
+author: "Streck, Michael , P."
+publication_year: "1993"
+title: "Kudurrus Schwur vor Muštēšir-habli"
+volume_no_: "83"
+pages: "61-65"
+journal: "Zeitschrift für Assyriologie"
+title: "Kudurrus Schwur vor Muštēšir-habli"
+previous_item: "15544"
+---

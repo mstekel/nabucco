@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13240"
+occurrence_id: "3113"
+short_title: "RA 98 (2004), 101-108."
+author: "Westbrook, Raymond"
+publication_year: "2004"
+title: "The Quality of Freedom in Neo-Babylonian Manumissions."
+volume_no_: "98"
+pages: "101-108"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "The Quality of Freedom in Neo-Babylonian Manumissions."
+previous_item: "13243"
+---

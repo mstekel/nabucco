@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "11497"
+occurrence_id: "2737"
+short_title: "NABU 2010/57"
+author: "Koch, Johannes"
+title: "Neues vom Schwalbengestirn mul.SIM.MAH."
+volume_no_: "57"
+publication_year: "2010"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Neues vom Schwalbengestirn mul.SIM.MAH."
+previous_item: "11500"
+---

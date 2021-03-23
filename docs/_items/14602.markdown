@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14602"
+occurrence_id: "1435"
+short_title: "AoF 31 (2004), 237-262."
+author: "Kessler, Karlheinz"
+publication_year: "2004"
+title: "\"Urukäische Familien versus babylonische Familien. Die Namengebung in Uruk, die Degradierung der Kulte von Eanna and der Aufstieg des Gottes Anu\"."
+volume_no_: "31"
+pages: "237-262"
+journal: "Altorientalische Forschungen"
+title: "\"Urukäische Familien versus babylonische Familien. Die Namengebung in Uruk, die Degradierung der Kulte von Eanna and der Aufstieg des Gottes Anu\"."
+previous_item: "14605"
+---

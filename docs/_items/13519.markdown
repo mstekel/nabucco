@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13519"
+occurrence_id: "1611"
+short_title: "BCSMS 34 (1999), 69-75"
+author: "Brown, Stuart C."
+publication_year: "1999"
+title: "The Collapse of the Neo-Assyrian Empire"
+volume_no_: "34"
+pages: "69-75"
+journal: "Bulletin. The Canadian Society for Mesopotamian Studies"
+title: "The Collapse of the Neo-Assyrian Empire"
+previous_item: "13522"
+---

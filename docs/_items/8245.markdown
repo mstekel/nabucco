@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8245"
+occurrence_id: "3296"
+short_title: "Vistas in Astronomy 10 (1968), 89-103"
+author: "Neugebauer, Otto"
+publication_year: "1968"
+title: "On the Planetary of Copernicus"
+volume_no_: "10"
+pages: "89-103"
+journal: "Vistas in Astronomy"
+title: "On the Planetary of Copernicus"
+previous_item: "8248"
+---

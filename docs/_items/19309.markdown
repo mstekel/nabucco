@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19309"
+occurrence_id: "4949"
+short_title: "Foldvari and van Leeuwen 2015"
+author: "van Leeuwen, Bas"
+publication_year: "2015"
+title: "Risk aversion and storage in autarkic societies: from Babylonian times until the era of globalization"
+pages: "473-488"
+editor: "van Leeuwen, Bas"
+book: "A History of Market Performance. From Ancient Babylonia to the Modern World, Routledge Explorations in Economic History (New York)"
+title: "Risk aversion and storage in autarkic societies: from Babylonian times until the era of globalization"
+previous_item: "19312"
+---

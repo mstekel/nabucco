@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16675"
+occurrence_id: "758"
+short_title: "Coogan 1976"
+author: "Coogan, Michael David "
+publication_year: "1976"
+title: "West Semitic Personal Names in the Murašû Documents, Harvard Semitic Monographs 7 (Missoula)"
+title: "West Semitic Personal Names in the Murašû Documents, Harvard Semitic Monographs 7 (Missoula)"
+previous_item: "16678"
+---

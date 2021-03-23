@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19459"
+occurrence_id: "4646"
+short_title: "Wiesehöfer 2011b"
+author: "Wiesehöfer, Josef"
+publication_year: "2011"
+title: "Ktesias und der achaimenidische Hof."
+pages: "499-506"
+editor: "Lanfranchi, Giovanni , B."
+book: "Ktesias' Welt (Wiesbaden)"
+title: "Ktesias und der achaimenidische Hof."
+previous_item: "19462"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8629"
+occurrence_id: "2344"
+short_title: "JNES 60 (2001), 275-280"
+author: "Stolper, Matthew W."
+publication_year: "2001"
+title: "Rv. M.L. Khačikjan, The Elamite Language"
+volume_no_: "60"
+pages: "275-280"
+journal: "Journal of Near Eastern Studies"
+title: "Rv. M.L. Khačikjan, The Elamite Language"
+previous_item: "8632"
+---

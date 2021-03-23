@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10876"
+occurrence_id: "2396"
+short_title: "MDOG 92 (1960), 21-47"
+author: "Erdmann, Kurt"
+publication_year: "1960"
+title: "Persepolis. Daten and Deutungen"
+volume_no_: "92"
+pages: "21-47"
+journal: "Mitteilungen der Deutschen Orient-Gesellschaft"
+title: "Persepolis. Daten and Deutungen"
+previous_item: "10879"
+---

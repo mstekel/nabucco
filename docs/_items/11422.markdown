@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11422"
+occurrence_id: "2333"
+short_title: "JNES 55 (1996), 236-238"
+author: "Weisberg, David B."
+publication_year: "1996"
+title: "Rv. E. Gehlken, Uruk. Spätbabylonische Wirtschaftstexte aus dem Eanna-Archiv I (AUWE 5, 1990)"
+volume_no_: "55"
+pages: "236-238"
+journal: "Journal of Near Eastern Studies"
+title: "Rv. E. Gehlken, Uruk. Spätbabylonische Wirtschaftstexte aus dem Eanna-Archiv I (AUWE 5, 1990)"
+previous_item: "11425"
+---

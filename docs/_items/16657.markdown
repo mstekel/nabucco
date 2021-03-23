@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16657"
+occurrence_id: "629"
+short_title: "Walser 1965"
+author: "Walser, Gerold "
+publication_year: "1965"
+title: "Audienz beim persischen Großkönig. Zur Geschichte des Hofzeremoniells in der Antike"
+title: "Audienz beim persischen Großkönig. Zur Geschichte des Hofzeremoniells in der Antike"
+previous_item: "16660"
+---

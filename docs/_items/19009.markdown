@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19009"
+occurrence_id: "4452"
+short_title: "van Driel 1999a"
+author: "van Driel, Govert"
+publication_year: "1999"
+title: "Capital Formation and Investment in an Institutional Context in Ancient Mesopotamia"
+pages: "25-42"
+editor: "Dercksen, Jan G."
+book: "Trade and Finance in Ancient Mesopotamia, MOS Studies 1, PIHANS 84 (Istanbul and Leiden)"
+title: "Capital Formation and Investment in an Institutional Context in Ancient Mesopotamia"
+previous_item: "19012"
+---

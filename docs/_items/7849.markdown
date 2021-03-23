@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7849"
+occurrence_id: "1157"
+short_title: "AcAntHung 24 (1976 publ. 1979), 15-24"
+author: "Harmatta, János"
+publication_year: "1976"
+title: "Darius´ Expedition against the Sakā Tigraxaudā"
+volume_no_: "24"
+pages: "15-24"
+journal: "Acta Antiqua Academiae Scientiarum Hungaricae"
+title: "Darius´ Expedition against the Sakā Tigraxaudā"
+previous_item: "7852"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12493"
+occurrence_id: "2092"
+short_title: "JAOS 121/2 (2001), 268-274"
+author: "Rubio, Gonzalo"
+publication_year: "2001"
+title: "Inanna and Dumuzi: A Sumerian Love Story"
+volume_no_: "121/2"
+pages: "268-274"
+journal: "Journal of the American Oriental Society"
+title: "Inanna and Dumuzi: A Sumerian Love Story"
+previous_item: "12496"
+---

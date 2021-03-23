@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16768"
+occurrence_id: "525"
+short_title: "Oelsner 1986 (Materialien)"
+author: "Oelsner, Joachim "
+publication_year: "1986"
+title: "Materialien zur babylonischen Gesellschaft und Kultur in hellenistischer Zeit (Assyriologia 7)"
+title: "Materialien zur babylonischen Gesellschaft und Kultur in hellenistischer Zeit (Assyriologia 7)"
+previous_item: "16771"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15442"
+occurrence_id: "2941"
+short_title: "Or 77 (2008), 119-121"
+author: "Dandamayev, Muhammed A."
+publication_year: "2008"
+title: "Rv. S. Zawadzki, Garments of the Gods. Studies on the Textile Industry and the Pantheon of Sippar according to the Texts from the Ebabbar Archive (Freiburg and Göttingen 2006)"
+volume_no_: "77"
+pages: "119-121"
+journal: "Orientalia"
+title: "Rv. S. Zawadzki, Garments of the Gods. Studies on the Textile Industry and the Pantheon of Sippar according to the Texts from the Ebabbar Archive (Freiburg and Göttingen 2006)"
+previous_item: "15445"
+---

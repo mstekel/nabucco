@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12211"
+occurrence_id: "3581"
+short_title: "ZSS 49 (1929), 461-462"
+author: "Nicolò, Mariano, San"
+publication_year: "1929"
+title: "Die neubabylonischen Tontafeln aus Nêrab bei Aleppo"
+volume_no_: "49"
+pages: "461-462"
+journal: "Zeitschrift der Savigny-Stiftung für Rechtsgeschichte, romantistische Abteilung"
+title: "Die neubabylonischen Tontafeln aus Nêrab bei Aleppo"
+previous_item: "12214"
+---

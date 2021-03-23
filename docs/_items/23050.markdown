@@ -1,0 +1,9 @@
+---
+layout: "archive"
+slug: "23050"
+archive_id: "295"
+archive_name: "Adad-šamê"
+is_part_of: "Sippar"
+title: "Adad-šamê"
+previous_item: "23053"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10744"
+occurrence_id: "1687"
+short_title: "BiOr 49/5/6 (2002), 468-181"
+author: "Scurlock, JoAnn"
+publication_year: "2002"
+title: "Some thoughts on Ancient Mesopotamian Magic and Religion"
+volume_no_: "49/5/6"
+pages: "468-181"
+journal: "Bibliotheca Orientalis"
+title: "Some thoughts on Ancient Mesopotamian Magic and Religion"
+previous_item: "10747"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15733"
+occurrence_id: "1486"
+short_title: "ArOr 47 (1979), 125-126"
+author: "Hruška, Blahoslav"
+publication_year: "1979"
+title: "Rv. G. Ries, Die neubabylonischen Bodenpachtformulare"
+volume_no_: "47"
+pages: "125-126"
+journal: "Archív Orientalí"
+title: "Rv. G. Ries, Die neubabylonischen Bodenpachtformulare"
+previous_item: "15736"
+---

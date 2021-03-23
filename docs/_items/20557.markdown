@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20557"
+occurrence_id: "5003"
+short_title: "Pirngruber 2015"
+author: "Pirngruber, Reinhard"
+publication_year: "2015"
+title: "šulmu jâši libbaka lu ṭābka: The Interaction between the Neo-Assyrian King and the Outside World"
+pages: "317-329"
+editor: "van Dongen, Erik "
+book: "Mesopotamia in the Ancient World. Impact, Continuities, Parallels. Proceedings of the Seventh Symposium of the Melammu Project Held in Obergurgl, Austria, November 4-8, 2013, Melammu Symposia 7 (Münster)"
+title: "šulmu jâši libbaka lu ṭābka: The Interaction between the Neo-Assyrian King and the Outside World"
+previous_item: "20560"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19939"
+occurrence_id: "5000"
+short_title: "Pirngruber 2011"
+author: "Pirngruber, Reinhard"
+publication_year: "2011"
+title: "Eunuchen am Königshof. Ktesias und die altorientalische Evidenz"
+pages: "279-312"
+editor: "Lanfranchi, Giovanni , B."
+book: "Ktesias' Welt (Wiesbaden)"
+title: "Eunuchen am Königshof. Ktesias und die altorientalische Evidenz"
+previous_item: "19942"
+---

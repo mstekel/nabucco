@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15457"
+occurrence_id: "3021"
+short_title: "RA 38 (1941), 99"
+author: "Thureau-Dangin, François"
+publication_year: "1941"
+title: "Rv. W. Eilers, Iranische Beamtennamen in der keilschriftlichen Überlieferung I"
+volume_no_: "38"
+pages: "99"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "Rv. W. Eilers, Iranische Beamtennamen in der keilschriftlichen Überlieferung I"
+previous_item: "15460"
+---

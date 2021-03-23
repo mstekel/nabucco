@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10081"
+occurrence_id: "253"
+short_title: "Scheil, RA 15"
+author: "Scheil, Vincent"
+publication_year: "1918"
+title: "Notules"
+volume_no_: "15"
+pages: "75-86"
+journal: "Revue d’Assyriologie et d’Archéologie orientale"
+title: "Notules"
+previous_item: "10084"
+---

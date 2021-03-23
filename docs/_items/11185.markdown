@@ -1,0 +1,15 @@
+---
+layout: "bibliography"
+slug: "11185"
+occurrence_id: "161"
+short_title: "Wunsch, AuOr 15"
+author: "Wunsch, Cornelia"
+publication_year: "1997"
+title: "Neu- und spätbabylonische Urkunden aus dem Museum von Montserrat"
+volume_no_: "15"
+pages: "139-194"
+related_objects: "8294"
+journal: "Aula Orientalis"
+title: "Neu- und spätbabylonische Urkunden aus dem Museum von Montserrat"
+previous_item: "11188"
+---

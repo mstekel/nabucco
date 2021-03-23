@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18478"
+occurrence_id: "775"
+short_title: "Ebeling 1914"
+author: "Ebeling, Erich "
+publication_year: "1914"
+title: "Aus dem Leben der jüdischen Exulanten in Babylonien, Wissenschaftliche Beilage zum Jahresbericht des Humboldt-Gymnasiums 1914 (Berlin)"
+title: "Aus dem Leben der jüdischen Exulanten in Babylonien, Wissenschaftliche Beilage zum Jahresbericht des Humboldt-Gymnasiums 1914 (Berlin)"
+previous_item: "18481"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15886"
+occurrence_id: "2309"
+short_title: "JNES 42 (1983), 209-217"
+author: "Rochberg-Halton, Francesca"
+publication_year: "1983"
+title: "Stellar Distances in early Babylonian Astronomy: A new Perspective on the Hilprecht Text (HS 229)"
+volume_no_: "42"
+pages: "209-217"
+journal: "Journal of Near Eastern Studies"
+title: "Stellar Distances in early Babylonian Astronomy: A new Perspective on the Hilprecht Text (HS 229)"
+previous_item: "15889"
+---

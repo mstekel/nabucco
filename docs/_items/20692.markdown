@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20692"
+occurrence_id: "4620"
+short_title: "MacGinnis 2000"
+author: "MacGinnis, John"
+publication_year: "2000"
+title: "The Chariot of Šamaš Goes to Babylon"
+pages: "621-630"
+editor: "Graziani, Simonetta"
+book: "Studi sul vicino oriente antico dedicati alla memoria di Luigi Cagni (Napoli)"
+title: "The Chariot of Šamaš Goes to Babylon"
+previous_item: "20695"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15826"
+occurrence_id: "1986"
+short_title: "Iraq 60 (1998), 65-83"
+author: "Reade, Julian E."
+publication_year: "1998"
+title: "Greco-Parthian Nineveh"
+volume_no_: "60"
+pages: "65-83"
+journal: "Iraq"
+title: "Greco-Parthian Nineveh"
+previous_item: "15829"
+---

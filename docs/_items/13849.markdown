@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13849"
+occurrence_id: "3388"
+short_title: "ZA 32 (1918/1919), 14-22"
+author: "Schroeder, Otto"
+publication_year: "1918/1919"
+title: "Die Notarfamilien im Uruk der Seleukidenzeit"
+volume_no_: "32"
+pages: "14-22"
+journal: "Zeitschrift für Assyriologie"
+title: "Die Notarfamilien im Uruk der Seleukidenzeit"
+previous_item: "13852"
+---

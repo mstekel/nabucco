@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10723"
+occurrence_id: "1574"
+short_title: "BaM 31 (2000), 249-258 (1 Pl.)"
+author: "Nemet-Nejat, Karen Rhea"
+publication_year: "2000"
+title: "An Administrative Text about Writing Boards (557 B.C.E.)"
+volume_no_: "31"
+pages: "249-258"
+journal: "Baghdader Mitteilungen"
+title: "An Administrative Text about Writing Boards (557 B.C.E.)"
+previous_item: "10726"
+---

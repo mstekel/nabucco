@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17623"
+occurrence_id: "204"
+short_title: "Wiseman 1961"
+author: "Wiseman, Donald J. "
+publication_year: "1961"
+title: "Chronicles of the Chaldaean Kings (626-556 B.C.) in the British Museum"
+title: "Chronicles of the Chaldaean Kings (626-556 B.C.) in the British Museum"
+previous_item: "17626"
+---

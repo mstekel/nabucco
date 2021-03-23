@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14983"
+occurrence_id: "3489"
+short_title: "ZA 87 (1997), 162"
+author: "Streck, Michael , P."
+publication_year: "1997"
+title: "Rv. M.J. Geller and H. Maehler (eds), Legal Documents of the Hellenistic World (London 1995)"
+volume_no_: "87"
+pages: "161"
+journal: "Zeitschrift für Assyriologie"
+title: "Rv. M.J. Geller and H. Maehler (eds), Legal Documents of the Hellenistic World (London 1995)"
+previous_item: "14986"
+---

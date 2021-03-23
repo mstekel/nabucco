@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "10894"
+occurrence_id: "2493"
+short_title: "NABU 1992/62"
+author: "Zawadzki, Stefan"
+title: "A Document from the Time of Nebuchadnezzar III (YOS 17, 113)"
+volume_no_: "62"
+publication_year: "1992"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "A Document from the Time of Nebuchadnezzar III (YOS 17, 113)"
+previous_item: "10897"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20281"
+occurrence_id: "4634"
+short_title: "Betlyon 2003"
+author: "Betlyon, John W."
+publication_year: "2003"
+title: "Neo-Babylonian Military Operations other than War in Judah and Jerusalem"
+pages: "263-284"
+editor: "Blenkinsopp, Joseph "
+book: "Judah and the Judeans in the Neo-Babylonian Period (Winona Lake)"
+title: "Neo-Babylonian Military Operations other than War in Judah and Jerusalem"
+previous_item: "20284"
+---

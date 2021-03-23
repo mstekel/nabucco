@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8257"
+occurrence_id: "3362"
+short_title: "WZKM 57 (1961), 29-42"
+author: "Deller, Karlheinz"
+publication_year: "1961"
+title: "Zur Terminologie neuassyrischer Urkunden,"
+volume_no_: "57"
+pages: "29-42"
+journal: "Wiener Zeitschrift für die Kunde des Morgenlandes"
+title: "Zur Terminologie neuassyrischer Urkunden,"
+previous_item: "8260"
+---

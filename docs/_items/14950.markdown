@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14950"
+occurrence_id: "3310"
+short_title: "WeOr 11 (1980 publ. 1981), 164-165"
+author: "Röllig, Wolfgang"
+publication_year: "1980 publ. 1981"
+title: "Rv. E.N. von Voigtlander, The Bisitun Inscription of Darius the Great, Babylonian Version"
+volume_no_: "11"
+pages: "164-165"
+journal: "Die Welt des Orients"
+title: "Rv. E.N. von Voigtlander, The Bisitun Inscription of Darius the Great, Babylonian Version"
+previous_item: "14953"
+---

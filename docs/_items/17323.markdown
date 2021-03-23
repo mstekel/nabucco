@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17323"
+occurrence_id: "800"
+short_title: "Harper 1892-1911 (ABL)"
+author: "Harper, Robert F. "
+publication_year: "1892-1911"
+title: "Assyrian and Babylonian Letters Belonging to the Kouyunjik Collections of the British Museum, ABL 1-14 (Chicago)"
+title: "Assyrian and Babylonian Letters Belonging to the Kouyunjik Collections of the British Museum, ABL 1-14 (Chicago)"
+previous_item: "17326"
+---

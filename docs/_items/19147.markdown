@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19147"
+occurrence_id: "5188"
+short_title: "Eilers 1962"
+author: "Eilers, Wilhelm"
+publication_year: "1962"
+title: "Die altiranische Vorform des VÏspuhr,"
+pages: "55-63"
+editor: "Yarshater, Ehsan"
+book: "A locust's leg. Studies in honour of S. H. Taqizadeh"
+title: "Die altiranische Vorform des VÏspuhr,"
+previous_item: "19150"
+---

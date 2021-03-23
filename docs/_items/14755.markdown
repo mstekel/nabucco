@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14755"
+occurrence_id: "2258"
+short_title: "JNES 1 (1942), 230-232"
+author: "Hallock, Richard T."
+publication_year: "1942"
+title: "Darius I, the king of the Persepolis Tablets"
+volume_no_: "1"
+pages: "230-232"
+journal: "Journal of Near Eastern Studies"
+title: "Darius I, the king of the Persepolis Tablets"
+previous_item: "14758"
+---

@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16693"
+occurrence_id: "863"
+short_title: "Pfisterer 2000"
+author: "Pfisterer, Mathias "
+publication_year: "2000"
+title: "Ein Silberschatz vom Schwarzen Meer - Beobachtungen zum Geldumlauf im Achaimenidenreich, Studia Iranica. Cahier 22 (Paris)"
+title: "Ein Silberschatz vom Schwarzen Meer - Beobachtungen zum Geldumlauf im Achaimenidenreich, Studia Iranica. Cahier 22 (Paris)"
+previous_item: "16696"
+---

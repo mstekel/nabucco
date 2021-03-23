@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13906"
+occurrence_id: "3696"
+short_title: "Eudemus 1 (1941), 23-48"
+author: "van der Waerden, Bartel L."
+publication_year: "1941"
+title: "Zur babylonischen Planetenrechnung"
+volume_no_: "1"
+pages: "23-48"
+journal: "Eudemus"
+title: "Zur babylonischen Planetenrechnung"
+previous_item: "13909"
+---

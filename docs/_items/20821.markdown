@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "20821"
+occurrence_id: "4204"
+short_title: "Arnold 2003"
+author: "Arnold, Bill T."
+publication_year: "2003"
+title: "What has Nebuchadnezzar to do with David? On the Neo-Babylonian Period and Early Israel"
+pages: "330-355"
+editor: "Lawson, Jr."
+title: "What has Nebuchadnezzar to do with David? On the Neo-Babylonian Period and Early Israel"
+previous_item: "20824"
+---

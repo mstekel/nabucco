@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14596"
+occurrence_id: "1403"
+short_title: "Antiquity 57/221 (1983), 236"
+author: "Higginson, J."
+publication_year: "1983"
+title: "Rv. J.M. Cook, The Persian Empire (1983)"
+volume_no_: "57/221"
+pages: "236"
+journal: "Antiquity"
+title: "Rv. J.M. Cook, The Persian Empire (1983)"
+previous_item: "14599"
+---

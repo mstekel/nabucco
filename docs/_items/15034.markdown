@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15034"
+occurrence_id: "3762"
+short_title: "JSS 24 (1979), 107-109"
+author: "von Soden, Wolfram"
+publication_year: "1979"
+title: "Rv. M.D. Coogan, West Semitic Personal Names in the Murašû Documents (HSM 7)"
+volume_no_: "24"
+pages: "107-109"
+journal: "Journal of Semitic Studies"
+title: "Rv. M.D. Coogan, West Semitic Personal Names in the Murašû Documents (HSM 7)"
+previous_item: "15037"
+---

@@ -1,0 +1,15 @@
+---
+layout: "bibliography"
+slug: "11200"
+occurrence_id: "709"
+short_title: "Holt, AJSL 27 (1910/1911)"
+author: "Holtz, Ivan L."
+publication_year: "1910/1911"
+title: "Tablets from the R. Campbell Thompson Collection in Haskell Oriental Museum, the University of Chicago "
+volume_no_: "27"
+pages: "193-232"
+related_objects: "8493"
+journal: "American Journal of Semitic Languages and Literatures"
+title: "Tablets from the R. Campbell Thompson Collection in Haskell Oriental Museum, the University of Chicago "
+previous_item: "11203"
+---

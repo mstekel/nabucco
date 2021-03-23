@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17830"
+occurrence_id: "751"
+short_title: "Brown 2000 (CM 18)"
+author: "Brown, David "
+publication_year: "2000"
+title: "Mesopotamian Planetary Astronomy-Astrology, CM 18 (Groningen)"
+title: "Mesopotamian Planetary Astronomy-Astrology, CM 18 (Groningen)"
+previous_item: "17833"
+---

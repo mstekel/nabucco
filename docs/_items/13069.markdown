@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13069"
+occurrence_id: "2190"
+short_title: "JCS 46 (1994), 47-58"
+author: "van Driel, Govert"
+publication_year: "1994"
+title: "Bookkeeping Practices for an Institutional Herd at Eanna"
+volume_no_: "46"
+pages: "47-58"
+journal: "Journal of Cuneiform Studies"
+title: "Bookkeeping Practices for an Institutional Herd at Eanna"
+previous_item: "13072"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14896"
+occurrence_id: "3020"
+short_title: "RA 38 (1941), 100"
+author: "Contenau, Georges"
+publication_year: "1941"
+title: "Rv. G. Goossens, Au déclin de la civilisation babylonienne: Uruk sous les Séleucides"
+volume_no_: "38"
+pages: "100"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "Rv. G. Goossens, Au déclin de la civilisation babylonienne: Uruk sous les Séleucides"
+previous_item: "14899"
+---

@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "19369"
+occurrence_id: "4165"
+short_title: "Lemaire 2014"
+author: "Lemaire, André"
+publication_year: "2014"
+title: "Remarques sur la Datation des Campagnes Néo-Babyloniennes en Cilicie"
+pages: "753-759"
+editor: "Marti, Lionel"
+title: "Remarques sur la Datation des Campagnes Néo-Babyloniennes en Cilicie"
+previous_item: "19372"
+---

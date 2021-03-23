@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10303"
+occurrence_id: "2299"
+short_title: "JNES 32 (1973), 47-56"
+author: "Cameron, George G."
+publication_year: "1973"
+title: "The Persian Satrapies and Related Matters"
+volume_no_: "32"
+pages: "47-56"
+journal: "Journal of Near Eastern Studies"
+title: "The Persian Satrapies and Related Matters"
+previous_item: "10306"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9097"
+occurrence_id: "1846"
+short_title: "DAFI 8 (1978), 109-136"
+author: "Hallock, Richard T."
+publication_year: "1978"
+title: "Selected Fortifications Texts"
+volume_no_: "8"
+pages: "109-136"
+journal: "Cahiers de la Délégation Archéologique Française en Iran"
+title: "Selected Fortifications Texts"
+previous_item: "9100"
+---

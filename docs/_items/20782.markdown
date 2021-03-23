@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20782"
+occurrence_id: "5100"
+short_title: "Timm 1995b"
+author: "Timm, Stefan"
+publication_year: "1995"
+title: "Die Bedeutung der spätbabylonischen Texte aus Nērab für die Rückkehr der Judäer"
+pages: "276-288"
+editor: "Weippert, Manfred"
+book: "Meilenstein. Festgabe für Herbert Donner, Ägypten und Altes Testament 30, Fs.Donner (Wiesbaden)"
+title: "Die Bedeutung der spätbabylonischen Texte aus Nērab für die Rückkehr der Judäer"
+previous_item: "20785"
+---

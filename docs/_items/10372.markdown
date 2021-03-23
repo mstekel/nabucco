@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "10372"
+occurrence_id: "2670"
+short_title: "NABU 2004/94"
+author: "Baker, Heather D."
+title: "Emendations to BiMes 24 19 // BRM 2 28."
+volume_no_: "94"
+publication_year: "2004"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Emendations to BiMes 24 19 // BRM 2 28."
+previous_item: "10375"
+---

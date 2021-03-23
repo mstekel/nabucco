@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12895"
+occurrence_id: "1252"
+short_title: "AfO 5 (1928/1929), 11-13"
+author: "Schileico, Woldemar G."
+publication_year: "1928-1929"
+title: "Ein babylonischer Weihtext in griechischer Schrift"
+volume_no_: "50"
+pages: "11-13"
+journal: "Archiv für Orientforschung"
+title: "Ein babylonischer Weihtext in griechischer Schrift"
+previous_item: "12898"
+---

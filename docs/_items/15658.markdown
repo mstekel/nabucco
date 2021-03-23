@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15658"
+occurrence_id: "214"
+short_title: "van Driel, ZA 79"
+author: "van Driel, Govert"
+publication_year: "1989"
+title: "The British Museum 'Sippar' Collection: Babylonia 1882-1893"
+volume_no_: "79"
+pages: "102-117"
+journal: "Zeitschrift für Assyriologie und Vorderasiatische Archäologie"
+title: "The British Museum 'Sippar' Collection: Babylonia 1882-1893"
+previous_item: "15661"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11998"
+occurrence_id: "2430"
+short_title: "Museum Helveticum 22 (1965), 38-48"
+author: "Martin, Victor"
+publication_year: "1965"
+title: "La politique des Achéménides. L´exploration, prélude de la conquête"
+volume_no_: "22"
+pages: "38-48"
+journal: "Museum Helveticum"
+title: "La politique des Achéménides. L´exploration, prélude de la conquête"
+previous_item: "12001"
+---

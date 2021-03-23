@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15268"
+occurrence_id: "2001"
+short_title: "Iraq 68 (2006), 1-22."
+author: "Waerzeggers, Caroline"
+publication_year: "2006"
+title: "The Carians in Borsippa"
+volume_no_: "68"
+pages: "1-22"
+journal: "Iraq"
+title: "The Carians in Borsippa"
+previous_item: "15271"
+---

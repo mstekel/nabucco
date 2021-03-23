@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11638"
+occurrence_id: "3500"
+short_title: "ZA 89 (1999), 227-246"
+author: "von Dassow, Eva"
+publication_year: "1999"
+title: "Rv. G. Frame, Babylonia 689-627 B.C. A Political History (PIHANS 69, 1992)"
+volume_no_: "89"
+pages: "227-246"
+journal: "Zeitschrift für Assyriologie"
+title: "Rv. G. Frame, Babylonia 689-627 B.C. A Political History (PIHANS 69, 1992)"
+previous_item: "11641"
+---

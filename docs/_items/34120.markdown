@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "34120"
+place_id: "1135"
+parent_id: "61"
+place_name: "Mahrā"
+related_objects: "8006"
+title: "Mahrā"
+previous_item: "34123"
+---

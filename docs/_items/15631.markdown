@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "15631"
+occurrence_id: "3955"
+short_title: "WZKM 102 (2012), 43-50"
+author: "Hackl, Johannes"
+publication_year: "2012"
+title: "Keilschrifttexte im Kunsthistorischen Museum Wien, Teil I.: Ein spätbabylonischer Privatbrief"
+volume_no_: "102"
+pages: "43-50"
+title: "Keilschrifttexte im Kunsthistorischen Museum Wien, Teil I.: Ein spätbabylonischer Privatbrief"
+previous_item: "15634"
+---

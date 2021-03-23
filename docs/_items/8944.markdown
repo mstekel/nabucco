@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "8944"
+occurrence_id: "4040"
+short_title: "Akkadica 135/2 (2014), 145-171"
+author: "Thissen, Cornell"
+publication_year: "2014"
+title: "Studies in Onomoastics: the Use of the Sign DÙ"
+volume_no_: "135/2"
+pages: "145-171"
+title: "Studies in Onomoastics: the Use of the Sign DÙ"
+previous_item: "8947"
+---

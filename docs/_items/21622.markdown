@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "21622"
+occurrence_id: "5168"
+short_title: "Hinz 1962"
+author: "Hinz, Walther"
+publication_year: "1962"
+title: "Die elamischen Inschriften des Hanne"
+pages: "105-116"
+book: "A Locust´s Leg. Studies in Honour of S.H. Taqizadeh (London)"
+title: "Die elamischen Inschriften des Hanne"
+previous_item: "21625"
+---

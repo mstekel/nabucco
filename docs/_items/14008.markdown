@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14008"
+occurrence_id: "1237"
+short_title: "AfO 44/45 (1997/1998), 424"
+author: "Jursa, Michael"
+publication_year: "1997-1998"
+title: "Rv. E. Gehlken, Uruk. Spätbabylonische Wirtschaftstexte aus dem Eanna-Archiv II: Texte verschiedenen Inhalts (AUWE 11, 1996)"
+volume_no_: "44-45"
+pages: "424"
+journal: "Archiv für Orientforschung"
+title: "Rv. E. Gehlken, Uruk. Spätbabylonische Wirtschaftstexte aus dem Eanna-Archiv II: Texte verschiedenen Inhalts (AUWE 11, 1996)"
+previous_item: "14011"
+---

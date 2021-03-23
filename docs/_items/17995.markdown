@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17995"
+occurrence_id: "4090"
+short_title: "MacGinnis 2012"
+author: "MacGinnis, John "
+publication_year: "2012"
+title: "The Arrows of the Sun. Armed Forces in Sippar in the First Millennium BC. With copies of the cuneiform texts by C. Wunsch, Babylonische Archive 4 (Dresden)"
+title: "The Arrows of the Sun. Armed Forces in Sippar in the First Millennium BC. With copies of the cuneiform texts by C. Wunsch, Babylonische Archive 4 (Dresden)"
+previous_item: "17998"
+---

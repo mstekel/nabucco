@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "12004"
+occurrence_id: "2463"
+short_title: "NABU 1989/109"
+author: "Joannès, Francis"
+publication_year: "1989"
+title: "šêpê ina ṭiṭṭi šakânu"
+volume_no_: "109"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "šêpê ina ṭiṭṭi šakânu"
+previous_item: "12007"
+---

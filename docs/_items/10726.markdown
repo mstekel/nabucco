@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10726"
+occurrence_id: "1590"
+short_title: "BASOR 230 (1978), 57-65"
+author: "Zadok, Ran"
+publication_year: "1978"
+title: "Phoenicians, Philistines and Moabites in Mesopotamia"
+volume_no_: "230"
+pages: "57-65"
+journal: "Bulletin of the American Schools of Oriental Research"
+title: "Phoenicians, Philistines and Moabites in Mesopotamia"
+previous_item: "10729"
+---

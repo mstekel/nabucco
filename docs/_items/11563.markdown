@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11563"
+occurrence_id: "3094"
+short_title: "RA 87 (1993), 137-152"
+author: "Beaulieu, Paul-A."
+publication_year: "1993"
+title: "Prébendiers d´Uruk à Larsa"
+volume_no_: "87"
+pages: "137-152"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "Prébendiers d´Uruk à Larsa"
+previous_item: "11566"
+---

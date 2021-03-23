@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12250"
+occurrence_id: "3789"
+short_title: "Mount Holyoke Alumnae Quarterly 1/IV (1918), 211-216"
+author: "Hussey, Mary I."
+publication_year: "1918"
+title: "Babylonian Tablets"
+volume_no_: "1/IV"
+pages: "211-216"
+journal: "Mount Holyoke Alumnae Quarterly"
+title: "Babylonian Tablets"
+previous_item: "12253"
+---

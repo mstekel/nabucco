@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "33964"
+place_id: "412"
+parent_id: "40"
+place_name: "Enlil-ašābšu-iqbi"
+related_objects: "1357"
+title: "Enlil-ašābšu-iqbi"
+previous_item: "33967"
+---

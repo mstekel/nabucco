@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14998"
+occurrence_id: "3570"
+short_title: "ZDMG 96 (1942), 326-349"
+author: "Hinz, Walther"
+publication_year: "1942"
+title: "Zur Behistun-Inschrift des Dareios (1. In einem und demselben Jahr, 2. Die fünfte Spalte der Behistun-Inschrift, 3. Die Einführung der altpersischen Schrift)"
+volume_no_: "96"
+pages: "326-349"
+journal: "Zeitschrift der Deutschen Morgenländischen Gesellschaft"
+title: "Zur Behistun-Inschrift des Dareios (1. In einem und demselben Jahr, 2. Die fünfte Spalte der Behistun-Inschrift, 3. Die Einführung der altpersischen Schrift)"
+previous_item: "15001"
+---

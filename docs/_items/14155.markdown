@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14155"
+occurrence_id: "2031"
+short_title: "JA 265 (1977), 221-225"
+author: "Lambert, Maurice"
+publication_year: "1977"
+title: "Deux textes élamites de la fin du septième siècle"
+volume_no_: "265"
+pages: "221-225"
+journal: "Journal Asiatique"
+title: "Deux textes élamites de la fin du septième siècle"
+previous_item: "14158"
+---

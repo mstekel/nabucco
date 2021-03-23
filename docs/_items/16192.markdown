@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "16192"
+occurrence_id: "3956"
+short_title: "ZA 102/1 (2012), 100-114"
+author: "Hackl, Johannes"
+publication_year: "2012"
+title: "Zur Funktion von (i)binna im Neu- und Spätbabylonischen"
+volume_no_: "102/1"
+pages: "100-114"
+title: "Zur Funktion von (i)binna im Neu- und Spätbabylonischen"
+previous_item: "16195"
+---

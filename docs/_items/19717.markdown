@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19717"
+occurrence_id: "4919"
+short_title: "Garelli 1959"
+author: "Garelli, Paul"
+publication_year: "1959"
+title: "L'Asie Occidentale ancienne,"
+pages: "51-106"
+editor: "Nougier, Louis-René"
+book: "Histoire générale du travail. I: Préhistoire et antiquité (Paris)"
+title: "L'Asie Occidentale ancienne,"
+previous_item: "19720"
+---

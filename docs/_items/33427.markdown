@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33427"
+place_id: "685"
+parent_id: "40"
+place_name: "Titurru-ša-Sîn-māgir"
+title: "Titurru-ša-Sîn-māgir"
+previous_item: "33430"
+---

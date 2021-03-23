@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8071"
+occurrence_id: "2359"
+short_title: "JNES 68 (2009), 137-139"
+author: "Garrison, Mark B."
+publication_year: "2009"
+title: "Rv. G. Lindström, Siegelabdrücke auf hellenistischen Tonbullen und Tontafeln. Ausgrabungen in Uruk-Warka Endberichte. Mainz am Rhein. 2003."
+volume_no_: "68"
+pages: "137-139"
+journal: "Journal of Near Eastern Studies"
+title: "Rv. G. Lindström, Siegelabdrücke auf hellenistischen Tonbullen und Tontafeln. Ausgrabungen in Uruk-Warka Endberichte. Mainz am Rhein. 2003."
+previous_item: "8074"
+---

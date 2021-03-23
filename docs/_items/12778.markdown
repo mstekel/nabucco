@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12778"
+occurrence_id: "3630"
+short_title: "Bible et Terre Sainte 38 (1961), 6-17"
+author: "Godard, André"
+publication_year: "1961"
+title: "Persépolis, la capitale des souverains achéménides"
+volume_no_: "38"
+pages: "6-17."
+journal: "Bible et Terre Sainte"
+title: "Persépolis, la capitale des souverains achéménides"
+previous_item: "12781"
+---

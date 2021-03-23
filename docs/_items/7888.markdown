@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7888"
+occurrence_id: "1374"
+short_title: "Annales HSS 57/3 (2002), 577-609."
+author: "Joannès, Francis"
+publication_year: "2002"
+title: "Les droits sur l'eau en Babylonie récente"
+volume_no_: "57/3"
+pages: "577-609"
+journal: "Annales. Histoire, Science Sociales"
+title: "Les droits sur l'eau en Babylonie récente"
+previous_item: "7891"
+---

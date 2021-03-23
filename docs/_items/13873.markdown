@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13873"
+occurrence_id: "3520"
+short_title: "ZA 92 (2002), 241-257"
+author: "Boiy, Tom"
+publication_year: "2002"
+title: "Royal Titulature in Hellenistic Babylonia"
+volume_no_: "92"
+pages: "241-257"
+journal: "Zeitschrift für Assyriologie"
+title: "Royal Titulature in Hellenistic Babylonia"
+previous_item: "13876"
+---

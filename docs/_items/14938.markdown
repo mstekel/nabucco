@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14938"
+occurrence_id: "3244"
+short_title: "Syria 49 (1972), 167-191, 319-337"
+author: "Amiet, Pierre"
+publication_year: "1972"
+title: "Les Ivories achéménides du Suse"
+volume_no_: "49"
+pages: "167-191, 319-337"
+journal: "Syria"
+title: "Les Ivories achéménides du Suse"
+previous_item: "14941"
+---

@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17215"
+occurrence_id: "916"
+short_title: "Zadok 1979"
+author: "Zadok, Ran "
+publication_year: "1979a"
+title: "Sources for the History of the Jews in Babylonia during the Chaldean and Achaemenian Periods"
+title: "Sources for the History of the Jews in Babylonia during the Chaldean and Achaemenian Periods"
+previous_item: "17218"
+---

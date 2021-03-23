@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "19708"
+occurrence_id: "4871"
+short_title: "Dandamayev 1997a"
+author: "Dandamayev, Muhammed A."
+publication_year: "1997"
+title: "The Composition of the Citizens in First Millennium Babylonia"
+pages: "135-147"
+book: "Aufsätze zum 65. Geburtstag von Horst Klengel I, AoF 24 (1997)"
+title: "The Composition of the Citizens in First Millennium Babylonia"
+previous_item: "19711"
+---

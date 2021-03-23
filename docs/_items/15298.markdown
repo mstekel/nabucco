@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15298"
+occurrence_id: "2161"
+short_title: "JCS 21 (1967), 70-88."
+author: "Gordon, Edmund I."
+publication_year: "1967"
+title: "The Meaning of the Ideogram dKASKAL.KUR =''underground Water-Course'' and its Significance for Bronze Age Historical Geography"
+volume_no_: "21"
+pages: "70-88"
+journal: "Journal of Cuneiform Studies"
+title: "The Meaning of the Ideogram dKASKAL.KUR =''underground Water-Course'' and its Significance for Bronze Age Historical Geography"
+previous_item: "15301"
+---

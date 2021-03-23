@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11884"
+occurrence_id: "1819"
+short_title: "Centaurus 11 (1965), 1-18"
+author: "van der Waerden, Bartel L."
+publication_year: "1965"
+title: "Vergleiche der mittleren Bewegungen in der babylonischen, griechischen und indischen Astronomie"
+volume_no_: "11"
+pages: "1-18"
+journal: "Centaurus"
+title: "Vergleiche der mittleren Bewegungen in der babylonischen, griechischen und indischen Astronomie"
+previous_item: "11887"
+---

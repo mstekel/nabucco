@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14185"
+occurrence_id: "2192"
+short_title: "JCS 46 (1994), 73-86"
+author: "Britton, John P."
+publication_year: "1994"
+title: "Rituals for an Eclipse Possibility in the 8th Year of Cyrus"
+volume_no_: "46"
+pages: "73-86"
+journal: "Journal of Cuneiform Studies"
+title: "Rituals for an Eclipse Possibility in the 8th Year of Cyrus"
+previous_item: "14188"
+---

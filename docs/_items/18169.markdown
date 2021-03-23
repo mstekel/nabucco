@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18169"
+occurrence_id: "445"
+short_title: "Huxley 1964"
+author: "Huxley, George "
+publication_year: "1964"
+title: "The Interaction of Greek and Babylonian Astronomy"
+title: "The Interaction of Greek and Babylonian Astronomy"
+previous_item: "18172"
+---

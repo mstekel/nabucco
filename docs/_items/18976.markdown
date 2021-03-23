@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18976"
+occurrence_id: "4275"
+short_title: "Weisberg 2003"
+author: "Weisberg, David B."
+publication_year: "2003"
+title: "Everyday Life in the Neo-Babylonian Period: the Integration of Material and Non-Material Culture"
+pages: "83-94"
+editor: "Weisberg, David B."
+book: "Life and Culture in the Ancient Near East (Bethesda)"
+title: "Everyday Life in the Neo-Babylonian Period: the Integration of Material and Non-Material Culture"
+previous_item: "18979"
+---

@@ -1,0 +1,15 @@
+---
+layout: "bibliography"
+slug: "12304"
+occurrence_id: "197"
+short_title: "Strassmaier, ZA 4 (1889)"
+author: "Strassmaier, Johann N."
+publication_year: "1889"
+title: "Inschriften von Nabopalassar und Smerdis "
+volume_no_: "4"
+pages: "106-152"
+related_objects: "7650"
+journal: "Zeitschrift für Assyriologie und Vorderasiatische Archäologie"
+title: "Inschriften von Nabopalassar und Smerdis "
+previous_item: "12307"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21502"
+occurrence_id: "4528"
+short_title: "Diakonoff 1965"
+author: "Diakonoff, Igor M."
+publication_year: "1965"
+title: "A Babylonian Political Pamphlet from about 700 B.C."
+pages: "343-350"
+editor: "GG001330"
+book: "Studies in Honor of Benno Landsberger, AS 16, Fs. B. Landsberger (Chicago)"
+title: "A Babylonian Political Pamphlet from about 700 B.C."
+previous_item: "21505"
+---

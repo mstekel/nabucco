@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10687"
+occurrence_id: "1379"
+short_title: "Annali della Scuola Normale Superiore di Pisa 9 (1979), 1375-1414"
+author: "Briant, Pierre"
+publication_year: "1979"
+title: "Des Achéménides aux rois hellénistiques: continuités et ruptures (bilan et propositions)"
+volume_no_: "9"
+pages: "1375-1414"
+journal: "Annali della Scuola Normale Superiore di Pisa"
+title: "Des Achéménides aux rois hellénistiques: continuités et ruptures (bilan et propositions)"
+previous_item: "10690"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21088"
+occurrence_id: "4526"
+short_title: "Márquez-Rowe 2001"
+author: "Márquez-Rowe, Ignacio"
+publication_year: "2001"
+title: "The Akkadian Word for aristoi?"
+pages: "457-460"
+editor: "Montero Fenollós, J.-L."
+book: "De La Estepa al Mediterréneo (Barcelona)"
+title: "The Akkadian Word for aristoi?"
+previous_item: "21091"
+---

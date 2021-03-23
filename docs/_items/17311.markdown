@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17311"
+occurrence_id: "730"
+short_title: "Andreau;Briant;Descat 1997"
+author: "Andreau, Jean "
+publication_year: "1997"
+title: "Économie antique. Prix et formation des prix dans les économies antiques, Entretiens d´Archéologie et d´Histoire 3 (Saint-Bertrand-de-Comminges)"
+title: "Économie antique. Prix et formation des prix dans les économies antiques, Entretiens d´Archéologie et d´Histoire 3 (Saint-Bertrand-de-Comminges)"
+previous_item: "17314"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16030"
+occurrence_id: "3086"
+short_title: "RA 84 (l990), 17-25."
+author: "Zawadzki, Stefan"
+publication_year: "1990"
+title: "Great Families of Sippar during the Chaldean and Early Persian Periods (626-482 BC),"
+volume_no_: "84"
+pages: "17-25"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "Great Families of Sippar during the Chaldean and Early Persian Periods (626-482 BC),"
+previous_item: "16033"
+---

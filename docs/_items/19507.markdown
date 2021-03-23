@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19507"
+occurrence_id: "4902"
+short_title: "Aurenche and Kozlowski 2001"
+author: "Aurenche, Olivier"
+publication_year: "2001"
+title: "Le Croissant fertile et le « triangle d´or »"
+pages: "33-43"
+editor: "Breniquet, Catherine"
+book: "Études Mésopotamiennes, Fs. Huot (Paris)"
+title: "Le Croissant fertile et le « triangle d´or »"
+previous_item: "19510"
+---

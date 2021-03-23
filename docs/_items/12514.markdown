@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12514"
+occurrence_id: "2205"
+short_title: "JCS 54 (2002), 99-123"
+author: "Beaulieu, Paul-A."
+publication_year: "2002"
+title: "Ea-dayān, Governor of the Sealand, and other Dignitaries of the Neo-Babylonian Empire"
+volume_no_: "54"
+pages: "99-123"
+journal: "Journal of Cuneiform Studies"
+title: "Ea-dayān, Governor of the Sealand, and other Dignitaries of the Neo-Babylonian Empire"
+previous_item: "12517"
+---

@@ -1,0 +1,12 @@
+---
+layout: "bibliography"
+slug: "20242"
+occurrence_id: "4426"
+short_title: "Cameron 1975"
+author: "Cameron, George G."
+publication_year: "1975"
+title: "Darius the Great and his Scyhian (Saka) Campaign, Bisutun and Herodotus"
+book: "Acta Iranica 4 = Fs. H.S. Nyberg (1975)"
+title: "Darius the Great and his Scyhian (Saka) Campaign, Bisutun and Herodotus"
+previous_item: "20245"
+---

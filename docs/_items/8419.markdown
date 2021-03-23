@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8419"
+occurrence_id: "1209"
+short_title: "AfO 27 (1980 publ. 1981), 106-126"
+author: "Schmitt, Rüdiger"
+publication_year: "1980"
+title: "Zur babylonischen Version der Bisitūn-Inschrift"
+volume_no_: "27"
+pages: "106-126"
+journal: "Archiv für Orientforschung"
+title: "Zur babylonischen Version der Bisitūn-Inschrift"
+previous_item: "8422"
+---

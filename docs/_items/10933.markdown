@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "10933"
+occurrence_id: "2703"
+short_title: "NABU 2007/76"
+author: "Oelsner, Joachim"
+title: "Zum Zeitraum der Aktivitäten des Napsanu, Sohnes des Tattannu, aus Borsipa"
+volume_no_: "76"
+publication_year: "2007"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Zum Zeitraum der Aktivitäten des Napsanu, Sohnes des Tattannu, aus Borsipa"
+previous_item: "10936"
+---

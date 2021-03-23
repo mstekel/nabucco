@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "13720"
+occurrence_id: "2692"
+short_title: "NABU 2007/1"
+author: "Horowitz, Wayne"
+title: "In Support of Joachim Oelsner's Identification of LBAT 1500."
+volume_no_: "1"
+publication_year: "2007"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "In Support of Joachim Oelsner's Identification of LBAT 1500."
+previous_item: "13723"
+---

@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "20818"
+occurrence_id: "4188"
+short_title: "Aaboe 2002"
+author: "Aaboe, Asger"
+publication_year: "2002"
+title: "On Columns H and J in Babylonian Lunar theory of System B"
+pages: "1-4"
+editor: "Imhausen, A."
+title: "On Columns H and J in Babylonian Lunar theory of System B"
+previous_item: "20821"
+---

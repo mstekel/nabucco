@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16600"
+occurrence_id: "285"
+short_title: "Bezold 1891"
+author: "Bezold, Carl "
+publication_year: "1891"
+title: "Catalogue of the Cuneiform Tablets of the Kouyunjik Collection of the British Museum II"
+title: "Catalogue of the Cuneiform Tablets of the Kouyunjik Collection of the British Museum II"
+previous_item: "16603"
+---

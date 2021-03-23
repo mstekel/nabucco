@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11305"
+occurrence_id: "1704"
+short_title: "BiOr 55 (1998), 804-806"
+author: "Stol, Marten"
+publication_year: "1998"
+title: "Rv. S. Dalley, The Legacy of Mesopotamia (1998)"
+volume_no_: "55"
+pages: "804-806"
+journal: "Bibliotheca Orientalis"
+title: "Rv. S. Dalley, The Legacy of Mesopotamia (1998)"
+previous_item: "11308"
+---

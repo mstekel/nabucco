@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16222"
+occurrence_id: "246"
+short_title: "Reade, JCS 23/1"
+author: "Reade, Julian E."
+publication_year: "1970"
+title: "The Accession of Sinsharishkun"
+volume_no_: "23/1"
+pages: "1-9"
+journal: "Journal of Cuneiform Studies"
+title: "The Accession of Sinsharishkun"
+previous_item: "16225"
+---

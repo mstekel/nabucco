@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20458"
+occurrence_id: "4475"
+short_title: "Waetzoldt 1980-1983a"
+author: "Waetzoldt, Harmut"
+publication_year: "1980-1983"
+title: "Leinen (Flachs),"
+pages: "583-594"
+editor: "Meissner, Bruno"
+book: "Reallexikon der Assyriologie 6 (1980-1983)"
+title: "Leinen (Flachs),"
+previous_item: "20461"
+---

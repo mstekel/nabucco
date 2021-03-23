@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8002"
+occurrence_id: "1988"
+short_title: "Iraq 64 (2002), 1-13"
+author: "Crawford, Harriet"
+publication_year: "2002"
+title: "The Kuwait-British Archaeological Expedition to as-Sabiyah: Report on the third season´s work"
+volume_no_: "64"
+pages: "1-13"
+journal: "Iraq"
+title: "The Kuwait-British Archaeological Expedition to as-Sabiyah: Report on the third season´s work"
+previous_item: "8005"
+---

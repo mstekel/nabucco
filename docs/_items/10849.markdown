@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10849"
+occurrence_id: "2251"
+short_title: "JHS 105 (1985), 69-89"
+author: "Sherwin-White, Susan"
+publication_year: "1985"
+title: "Ancient Archives: the Alexander Edict"
+volume_no_: "105"
+pages: "68-89"
+journal: "Journal of Hellenic Studies"
+title: "Ancient Archives: the Alexander Edict"
+previous_item: "10852"
+---

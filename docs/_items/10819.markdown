@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10819"
+occurrence_id: "2089"
+short_title: "JAOS 120 (2000), 482-483"
+author: "Snell, Daniel C."
+publication_year: "2000"
+title: "Rv. J. Andreau, P. Briant and R. Descat, Économie antique. Prix et formation des prix dans les économies antiques (Entretiens d´Archéologie et d´Histoire 3)"
+volume_no_: "120"
+pages: "482-483"
+journal: "Journal of the American Oriental Society"
+title: "Rv. J. Andreau, P. Briant and R. Descat, Économie antique. Prix et formation des prix dans les économies antiques (Entretiens d´Archéologie et d´Histoire 3)"
+previous_item: "10822"
+---

@@ -1,0 +1,10 @@
+---
+layout: "glossary"
+slug: "35650"
+concept_id: "823"
+label: "Legal - Other"
+hierarchy: "Content type"
+type: "172"
+title: "Legal - Other"
+previous_item: "35653"
+---

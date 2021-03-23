@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33307"
+place_id: "538"
+parent_id: "40"
+place_name: "Ibulē"
+title: "Ibulē"
+previous_item: "33310"
+---

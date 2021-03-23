@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17992"
+occurrence_id: "4072"
+short_title: "YOS 21"
+author: "Frahm, Eckart "
+publication_year: "2011"
+title: "Neo-Babylonian Letters and Contracts from the Eanna-Archive (Yale Oriental Series)"
+title: "Neo-Babylonian Letters and Contracts from the Eanna-Archive (Yale Oriental Series)"
+previous_item: "17995"
+---

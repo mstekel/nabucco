@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33394"
+place_id: "157"
+parent_id: "40"
+place_name: "Arazūa"
+title: "Arazūa"
+previous_item: "33397"
+---

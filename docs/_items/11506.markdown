@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11506"
+occurrence_id: "2785"
+short_title: "OLZ 57 (1962), 150-151"
+author: "Salonen, Armas"
+publication_year: "1962"
+title: "Rv. M. San Nicolò and H. Petschow, Babylonische Rechtsurkunden aus dem 6. Jahrhundert v. Chr."
+volume_no_: "57"
+pages: "150-151"
+journal: "Orientalistische Literaturzeitung"
+title: "Rv. M. San Nicolò and H. Petschow, Babylonische Rechtsurkunden aus dem 6. Jahrhundert v. Chr."
+previous_item: "11509"
+---

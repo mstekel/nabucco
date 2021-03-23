@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8281"
+occurrence_id: "3493"
+short_title: "ZA 87 (1997), 43-95"
+author: "Geller, Mark J."
+publication_year: "1997"
+title: "The Last Wedge"
+volume_no_: "87"
+pages: "43-95"
+journal: "Zeitschrift für Assyriologie"
+title: "The Last Wedge"
+previous_item: "8284"
+---

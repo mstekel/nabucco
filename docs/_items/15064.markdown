@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "15064"
+occurrence_id: "3922"
+short_title: "Kaskal 12 (2015), 391-399"
+author: "Bramanti, Armando"
+publication_year: "2015"
+title: "Another Brick in Nebuchadnezzar’s Wall. A Catalogue of the Cuneiform Texts in the Collections of the National Museum of Oriental Art in Rome"
+volume_no_: "12"
+pages: "391-399"
+title: "Another Brick in Nebuchadnezzar’s Wall. A Catalogue of the Cuneiform Texts in the Collections of the National Museum of Oriental Art in Rome"
+previous_item: "15067"
+---

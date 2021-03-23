@@ -1,0 +1,17 @@
+---
+layout: "tablet"
+slug: "26572"
+object_id: "5987"
+museum_no_: "BM 51336"
+period: "ENB"
+day_remark: "[-]"
+month: "-"
+month_remark: "[-]"
+year_remark: "[-]"
+king: "Kan"
+king_remark: "-"
+imported: "Melanie Gross (26/05/2016)"
+place_of_issue_remark: "[-]"
+title: "BM 51336"
+previous_item: "26575"
+---

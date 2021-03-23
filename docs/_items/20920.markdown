@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20920"
+occurrence_id: "4733"
+short_title: "San Nicolò 1938"
+author: "Nicolò, Mariano, San"
+publication_year: "1938"
+title: "Darlehen"
+pages: "123-131"
+editor: "Meissner, Bruno"
+book: "Reallexikon der Assyriologie 2 (1938)"
+title: "Darlehen"
+previous_item: "20923"
+---

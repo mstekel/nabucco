@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18190"
+occurrence_id: "572"
+short_title: "Scholtz 1978"
+author: "Scholz, Bernhard "
+publication_year: "1978"
+title: "Akkadisch-griechische und griechisch-akkadische Transkriptionen, geisteswiss. Diss."
+title: "Akkadisch-griechische und griechisch-akkadische Transkriptionen, geisteswiss. Diss."
+previous_item: "18193"
+---

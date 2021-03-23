@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17548"
+occurrence_id: "584"
+short_title: "Smith 1944"
+author: "Smith, Sydney A. "
+publication_year: "1944"
+title: "Isaiah Chapters XL-LV, Literary Criticism and History. The Schweich Lectures of the British Academy, 1940"
+title: "Isaiah Chapters XL-LV, Literary Criticism and History. The Schweich Lectures of the British Academy, 1940"
+previous_item: "17551"
+---

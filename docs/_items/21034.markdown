@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21034"
+occurrence_id: "4237"
+short_title: "Walker, Galter and Scholz 1993"
+author: "Scholz, Bernhard"
+publication_year: "1993"
+title: "Bibliography of Babylonian Astronomy and Astrology"
+pages: "407-449"
+editor: "Galter, Hannes , D."
+book: "Die Rolle der Astronomie in den Kulturen Mesopotamiens, GMS 3 (Graz)"
+title: "Bibliography of Babylonian Astronomy and Astrology"
+previous_item: "21037"
+---

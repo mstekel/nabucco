@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "19270"
+occurrence_id: "4741"
+short_title: "Maskhour 2000"
+author: "Maskhour, Marjan"
+publication_year: "2000"
+title: "Remarques complémentaires sur les vestiges fauniques du temple de l´E.BABBAR à Larsa en basse Mésopotamie"
+pages: "347-349"
+book: "Topoi Supplément 2, Les animaux et les hommes dans le monde syro-mésopotamien aux époques historiques (Lyon)"
+title: "Remarques complémentaires sur les vestiges fauniques du temple de l´E.BABBAR à Larsa en basse Mésopotamie"
+previous_item: "19273"
+---

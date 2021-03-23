@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13996"
+occurrence_id: "1168"
+short_title: "AfK 1 (1923), 43-48"
+author: "Landsberger, Benno"
+publication_year: "1923"
+title: "Ein astralMythologischer Kommentar aus der Spätzeit babylonischer Gelehrsamkeit"
+volume_no_: "1"
+pages: "43-48"
+journal: "Archiv für Keilschriftforschung"
+title: "Ein astralMythologischer Kommentar aus der Spätzeit babylonischer Gelehrsamkeit"
+previous_item: "13999"
+---

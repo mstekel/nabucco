@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20086"
+occurrence_id: "4697"
+short_title: "Brack-Bernsen 2002"
+author: "Brack-Bernsen, Lis"
+publication_year: "2002"
+title: "Predictions of Lunar Phenomena in Babylonian Astronomy"
+pages: "5-19"
+editor: "Imhausen, A."
+book: "Under One Sky, AOAT 297 (Münster)"
+title: "Predictions of Lunar Phenomena in Babylonian Astronomy"
+previous_item: "20089"
+---

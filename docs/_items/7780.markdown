@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7780"
+occurrence_id: "3813"
+short_title: "Oikumene 1 (1976), 235-237"
+author: "Harmatta, János"
+publication_year: "1976"
+title: "Two Economic Documents from the Sāsānian Age"
+volume_no_: "1"
+pages: "235-237"
+journal: "Oikumene"
+title: "Two Economic Documents from the Sāsānian Age"
+previous_item: "7783"
+---

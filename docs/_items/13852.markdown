@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13852"
+occurrence_id: "3404"
+short_title: "ZA 51 (1955), 237-251"
+author: "Schaumberger, Johann"
+publication_year: "1955"
+title: "Anaphora und Aufgangskalender in neuen Ziqpu-Texten"
+volume_no_: "51"
+pages: "237-251"
+journal: "Zeitschrift für Assyriologie"
+title: "Anaphora und Aufgangskalender in neuen Ziqpu-Texten"
+previous_item: "13855"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15115"
+occurrence_id: "1170"
+short_title: "AfK 2 (1924/1925), 49-64"
+author: "Böhl, Franz Marius Th."
+publication_year: "1924/1925"
+title: "Fünf Urkunden aus der Zeit des Königs Itti-Marduk-balâtu"
+volume_no_: "2"
+pages: "49-64"
+journal: "Archiv für Keilschriftforschung"
+title: "Fünf Urkunden aus der Zeit des Königs Itti-Marduk-balâtu"
+previous_item: "15118"
+---

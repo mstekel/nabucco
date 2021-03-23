@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11548"
+occurrence_id: "3014"
+short_title: "RA 23 (1926), 45-47"
+author: "Scheil, Vincent"
+publication_year: "1926"
+title: "Qatâ dans les fractions"
+volume_no_: "23"
+pages: "45-47"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "Qatâ dans les fractions"
+previous_item: "11551"
+---

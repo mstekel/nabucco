@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21742"
+occurrence_id: "4705"
+short_title: "Cagni 1993"
+author: "Cagni, Luigi"
+publication_year: "1993"
+title: "Die Pachtverträge in den Murašû-Texten"
+pages: "35-51"
+editor: "Zablocka, Julia"
+book: "Šulmu IV: Everyday Life in Ancient Near East (Prague)"
+title: "Die Pachtverträge in den Murašû-Texten"
+previous_item: "21745"
+---

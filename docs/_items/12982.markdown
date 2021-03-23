@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12982"
+occurrence_id: "1724"
+short_title: "BiOr 62 (2005), 293-298"
+author: "Zawadzki, Stefan"
+publication_year: "2005"
+title: "Rv. P.-A. Beaulieu, the Pantheon of Uruk during the Neo-Babylonian Period."
+volume_no_: "62"
+pages: "293-298"
+journal: "Bibliotheca Orientalis"
+title: "Rv. P.-A. Beaulieu, the Pantheon of Uruk during the Neo-Babylonian Period."
+previous_item: "12985"
+---

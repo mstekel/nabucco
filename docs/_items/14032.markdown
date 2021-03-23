@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14032"
+occurrence_id: "1368"
+short_title: "Ancient Society I (1970), 129-134"
+author: "Naster, Paul"
+publication_year: "1970"
+title: "Were theLabourers of Persepolis Paid by Means of Coined Money?"
+volume_no_: "I"
+pages: "129-134"
+journal: "Ancient Society"
+title: "Were theLabourers of Persepolis Paid by Means of Coined Money?"
+previous_item: "14035"
+---

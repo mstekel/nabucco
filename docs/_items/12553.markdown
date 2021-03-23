@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12553"
+occurrence_id: "2415"
+short_title: "Mesopotamia 31 (1996), 208-210"
+author: "Liverani, Mario"
+publication_year: "1996"
+title: "Rv. A. Kuhrt, the Ancient Near East c. 3000-330 BC (1995)"
+volume_no_: "31"
+pages: "208-210"
+journal: "Mesopotamia"
+title: "Rv. A. Kuhrt, the Ancient Near East c. 3000-330 BC (1995)"
+previous_item: "12556"
+---

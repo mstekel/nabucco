@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20452"
+occurrence_id: "4443"
+short_title: "Bergamini 1994"
+author: "Bergamini, Giovanni"
+publication_year: "1994"
+title: "Babilonia: l´immagine della metropoli da Hammurapi a Nabonido"
+pages: "47-54"
+editor: "Mazzoni, Stefania"
+book: "Nuove fondazioni nel Vicino Oriente antico, Atti del colloquio 4-6 dicembre Dipartimento di Scienze Storiche del Mondo Antico, Sezione di Egittologia e Scienze Storiche del Civinio Oriente, Università degli Studi di Pisa (Pisa)"
+title: "Babilonia: l´immagine della metropoli da Hammurapi a Nabonido"
+previous_item: "20455"
+---

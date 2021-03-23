@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20944"
+occurrence_id: "4861"
+short_title: "Dandamayev 1991a"
+author: "Dandamayev, Muhammed A."
+publication_year: "1991"
+title: "Elamite Workers in Achaemenid Babylonia"
+pages: "17-20"
+editor: "Ogawa, H."
+book: "Near Eastern Studies Dedicated to H.I.H. Prince Takahito Mikasa on the Occasion of his Seventy-Fifth Birthday, Fs. Mikasa, BMECCI 5 (Wiesbaden)"
+title: "Elamite Workers in Achaemenid Babylonia"
+previous_item: "20947"
+---

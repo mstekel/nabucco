@@ -1,0 +1,9 @@
+---
+layout: "archive"
+slug: "22957"
+archive_id: "331"
+archive_name: "{f}Aqūba and Šamaš-iddin/Rēmūt"
+is_part_of: "Sippar"
+title: "{f}Aqūba and Šamaš-iddin/Rēmūt"
+previous_item: "22960"
+---

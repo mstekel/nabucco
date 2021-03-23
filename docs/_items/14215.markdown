@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14215"
+occurrence_id: "2354"
+short_title: "JNES 63 (2004), 50-52"
+author: "Koch, Johannes"
+publication_year: "2004"
+title: "Rv. H. Hunger (ed), Astronomical Diaries and Related Texts from Babylonia, Vol. 5: Lunar and Planetary Texts. Wien. 2001."
+volume_no_: "63"
+pages: "50-52"
+journal: "Journal of Near Eastern Studies"
+title: "Rv. H. Hunger (ed), Astronomical Diaries and Related Texts from Babylonia, Vol. 5: Lunar and Planetary Texts. Wien. 2001."
+previous_item: "14218"
+---

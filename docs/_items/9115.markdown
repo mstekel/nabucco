@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9115"
+occurrence_id: "1942"
+short_title: "Iran 5 (1967), 7-10"
+author: "Cameron, George G."
+publication_year: "1967"
+title: "An Inscription of Darius from Pasargadae"
+volume_no_: "5"
+pages: "7-10"
+journal: "Iran. Journal of the British Institute of Persian Studies"
+title: "An Inscription of Darius from Pasargadae"
+previous_item: "9118"
+---

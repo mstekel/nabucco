@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12166"
+occurrence_id: "3337"
+short_title: "WeOr 31 (2000/2001), 229-235"
+author: "Koch, Johannes"
+publication_year: "2000/2001"
+title: "Rv. H. Hunger and D. Pingree, Astral Sciences in Mesopotamia, HdO 44 (Leiden and Boston/Köln 1999)"
+volume_no_: "31"
+pages: "229-235"
+journal: "Die Welt des Orients"
+title: "Rv. H. Hunger and D. Pingree, Astral Sciences in Mesopotamia, HdO 44 (Leiden and Boston/Köln 1999)"
+previous_item: "12169"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9055"
+occurrence_id: "1619"
+short_title: "Berytus 12 (1956-57), 35-52"
+author: "Wolski, Józef"
+publication_year: "1956-57"
+title: "The Decay of theIranian Empire of the Seleucids and the Chronology of the Parthian Beginnings"
+volume_no_: "12"
+pages: "35-52"
+journal: "Berytus"
+title: "The Decay of theIranian Empire of the Seleucids and the Chronology of the Parthian Beginnings"
+previous_item: "9058"
+---

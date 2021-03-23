@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18772"
+occurrence_id: "4290"
+short_title: "Cocquerillat 1972-1975"
+author: "Cocquerillat, Denise"
+publication_year: "1972-1975"
+title: "Handwerker, spätbabylonisch"
+pages: "101-102"
+editor: "Meissner, Bruno"
+book: "Reallexikon der Assyriologie 4 (1972-1975)"
+title: "Handwerker, spätbabylonisch"
+previous_item: "18775"
+---

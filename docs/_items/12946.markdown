@@ -1,0 +1,15 @@
+---
+layout: "bibliography"
+slug: "12946"
+occurrence_id: "1529"
+short_title: "Astronomical Journal 72/8 = No. 1353 (October 1967), 964-972"
+author: "Neugebauer, Otto"
+publication_year: "1967"
+title: "Problems and Methods in Babylonian Mathematical Astronomy. Henry Norris Russell Lecture, 1967"
+volume_no_: "72/8=
+No.1353"
+pages: "964-972"
+journal: "Astronomical Journal"
+title: "Problems and Methods in Babylonian Mathematical Astronomy. Henry Norris Russell Lecture, 1967"
+previous_item: "12949"
+---

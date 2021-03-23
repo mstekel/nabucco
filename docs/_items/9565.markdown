@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9565"
+occurrence_id: "1344"
+short_title: "AMI 25 (1992 publ. 1993), 147-154"
+author: "Schmitt, Rüdiger"
+publication_year: "1992 publ. 1993"
+title: "Zum Schluß von Dareios´ Inschrift \"Susa e\""
+volume_no_: "25"
+pages: "147-154"
+journal: "Archäologische Mitteilungen aus Iran"
+title: "Zum Schluß von Dareios´ Inschrift \"Susa e\""
+previous_item: "9568"
+---

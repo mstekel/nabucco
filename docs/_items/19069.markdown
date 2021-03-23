@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19069"
+occurrence_id: "4772"
+short_title: "Stolper 2013"
+author: "Stolper, Matthew W."
+publication_year: "2013"
+title: "The Form, Language and Contents of the Cyrus Cylinder"
+pages: "40-52"
+editor: "Daryaee, Touraj"
+book: "Cyrus the Great. An Ancient Iranian King (Santa Monica)"
+title: "The Form, Language and Contents of the Cyrus Cylinder"
+previous_item: "19072"
+---

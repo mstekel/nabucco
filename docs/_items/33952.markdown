@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33952"
+place_id: "220"
+parent_id: "40"
+place_name: "Bīt-Bagadāti"
+title: "Bīt-Bagadāti"
+previous_item: "33955"
+---

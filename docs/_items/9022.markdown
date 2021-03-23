@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9022"
+occurrence_id: "1441"
+short_title: "AOS 121/4 (2001), 687-689"
+author: "Huber, Peter J."
+publication_year: "2001"
+title: "Rv. N.M. Swerdlow, Ancient Astronomy and Celestial Divination (Massachusetts 1999)"
+volume_no_: "121/4"
+pages: "687-689"
+journal: "American Oriental Studies"
+title: "Rv. N.M. Swerdlow, Ancient Astronomy and Celestial Divination (Massachusetts 1999)"
+previous_item: "9025"
+---

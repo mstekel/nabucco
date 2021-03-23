@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12625"
+occurrence_id: "2803"
+short_title: "OLZ 78 (1983), 354-356"
+author: "Dandamayev, Muhammed A."
+publication_year: "1983"
+title: "Rv. D.B. Weisberg, Texts from the Time of Nebuchadnezzar (YOS 17)"
+volume_no_: "78"
+pages: "354-356"
+journal: "Orientalistische Literaturzeitung"
+title: "Rv. D.B. Weisberg, Texts from the Time of Nebuchadnezzar (YOS 17)"
+previous_item: "12628"
+---

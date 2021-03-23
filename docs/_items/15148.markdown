@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15148"
+occurrence_id: "1354"
+short_title: "AMI 5 (1972), 261-283"
+author: "von Gall, Hubertus"
+publication_year: "1972"
+title: "Persische und medische Stämme"
+volume_no_: "5"
+pages: "261-283"
+journal: "Archäologische Mitteilungen aus Iran"
+title: "Persische und medische Stämme"
+previous_item: "15151"
+---

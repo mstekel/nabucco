@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21070"
+occurrence_id: "4430"
+short_title: "Aperghis 1997"
+author: "Aperghis, Gerassimos G."
+publication_year: "1997"
+title: "Surplus, exchange and price in the Persepolis Fortification Texts"
+pages: "277-290"
+editor: "Andreau, Jean"
+book: "Économie antique. Prix et formation des prix dans les économies antiques, Entretiens d´Archéologie et d´Histoire 3 ( Saint-Bertrand-de-Comminges)"
+title: "Surplus, exchange and price in the Persepolis Fortification Texts"
+previous_item: "21073"
+---

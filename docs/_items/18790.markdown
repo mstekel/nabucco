@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18790"
+occurrence_id: "4387"
+short_title: "D´Agostino 1999"
+author: "D´Agostino, Franco"
+publication_year: "1999"
+title: "A proposito dei rapporti tra Persia e Mesopotamia: l´affaire Ciro-Nabonido"
+pages: "73-80"
+editor: "Ayán, J., J."
+book: "Ša ṭudu idū. Estudios sobre las culturas antiguas de Oriente y Egipto, Fs. Garrido Herrero (Madrid)"
+title: "A proposito dei rapporti tra Persia e Mesopotamia: l´affaire Ciro-Nabonido"
+previous_item: "18793"
+---

@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33667"
+place_id: "979"
+parent_id: "61"
+place_name: "Dūru-ša-Jatiru"
+title: "Dūru-ša-Jatiru"
+previous_item: "33670"
+---

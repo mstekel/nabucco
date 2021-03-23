@@ -1,0 +1,16 @@
+---
+layout: "tablet"
+slug: "26554"
+object_id: "5889"
+museum_no_: "IM 90074"
+period: "ENB"
+day_remark: "-"
+month: "-"
+month_remark: "-"
+year_remark: "-"
+king: "Ššu"
+king_remark: "-"
+imported: "Melanie Gross (26/05/2016)"
+title: "IM 90074"
+previous_item: "26557"
+---

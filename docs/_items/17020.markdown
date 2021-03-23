@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17020"
+occurrence_id: "510"
+short_title: "Meissner 1920"
+author: "Meissner, Bruno "
+publication_year: "1920, 1925"
+title: "Babylonien und Assyrien, Bd. I, II"
+title: "Babylonien und Assyrien, Bd. I, II"
+previous_item: "17023"
+---

@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "9226"
+occurrence_id: "2539"
+short_title: "NABU 1996/2"
+author: "del Monte, Giuseppe F."
+title: "Ad NABU 1995/69 (BibMes 24 5 and 33)"
+volume_no_: "2"
+publication_year: "1996"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Ad NABU 1995/69 (BibMes 24 5 and 33)"
+previous_item: "9229"
+---

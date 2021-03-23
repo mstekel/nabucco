@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "35002"
+place_id: "1063"
+parent_id: "61"
+place_name: "Huṣṣēti-ša-bīt-ilāni"
+title: "Huṣṣēti-ša-bīt-ilāni"
+previous_item: "35005"
+---

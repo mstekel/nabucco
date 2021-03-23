@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34660"
+place_id: "910"
+parent_id: "61"
+place_name: "Bīt-ṣapṣap"
+title: "Bīt-ṣapṣap"
+previous_item: "34663"
+---

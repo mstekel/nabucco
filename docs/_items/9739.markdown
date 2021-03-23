@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9739"
+occurrence_id: "2281"
+short_title: "JNES 2 (1943), 396-397"
+author: "Morgenstern, J."
+publication_year: "1943"
+title: "Rv. R.A. Parker and W.H. Dubberstein, Babylonian Chronology, 626 B.C. - A.D. 45"
+volume_no_: "2"
+pages: "396-397"
+journal: "Journal of Near Eastern Studies"
+title: "Rv. R.A. Parker and W.H. Dubberstein, Babylonian Chronology, 626 B.C. - A.D. 45"
+previous_item: "9742"
+---

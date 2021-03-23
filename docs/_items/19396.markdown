@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19396"
+occurrence_id: "4309"
+short_title: "Cassin 1970"
+author: "Cassin, Elena"
+publication_year: "1970"
+title: "Eclipse lunaire et succession au trone"
+pages: "405-412"
+editor: "Volterra, Edoardo"
+book: "Studi in onore di Edoardo Volterra, Pubblicazioni della Facoltà di giurisprudenza dell'Università di Roma 40-45  (Roma)"
+title: "Eclipse lunaire et succession au trone"
+previous_item: "19399"
+---

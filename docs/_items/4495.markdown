@@ -1,0 +1,8 @@
+---
+layout: "glossary"
+slug: "4495"
+label: "General keywords"
+hierarchy: "General keywords"
+title: "General keyword"
+previous_item: "7516"
+---

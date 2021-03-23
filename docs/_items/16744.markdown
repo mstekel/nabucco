@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16744"
+occurrence_id: "382"
+short_title: "Delaporte 1923 (CCL)"
+author: "Delaporte, Louis "
+publication_year: "1923"
+title: "Catalogue des cylindres, cachets et pierres gravées de style oriental. 2. Acquisitions"
+title: "Catalogue des cylindres, cachets et pierres gravées de style oriental. 2. Acquisitions"
+previous_item: "16747"
+---

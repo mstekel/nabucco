@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8713"
+occurrence_id: "2796"
+short_title: "OLZ 75 (1980), 66-68"
+author: "Oelsner, Joachim"
+publication_year: "1980"
+title: "Rv. M. Mayrhofer, Onomastica Persepolitana"
+volume_no_: "75"
+pages: "66-68"
+journal: "Orientalistische Literaturzeitung"
+title: "Rv. M. Mayrhofer, Onomastica Persepolitana"
+previous_item: "8716"
+---

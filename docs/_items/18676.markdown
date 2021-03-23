@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "18676"
+occurrence_id: "4882"
+short_title: "Dandamayev 2003"
+author: "Dandamayev, Muhammed A."
+publication_year: "2003"
+title: "Novovavilonskie dokumenti ob usinovleniji (Neubabylonische AdoptionsUrkunden) (In Russian)"
+pages: "60-72"
+book: "Scripta Gregoriana. Festschrift zum 70. Geburtstag von G. M. Bongard-Levin (Moscow)"
+title: "Novovavilonskie dokumenti ob usinovleniji (Neubabylonische AdoptionsUrkunden) (In Russian)"
+previous_item: "18679"
+---

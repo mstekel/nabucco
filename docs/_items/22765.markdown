@@ -1,0 +1,9 @@
+---
+layout: "archive"
+slug: "22765"
+archive_id: "151"
+archive_name: "Ibnāya A"
+is_part_of: "Borsippa"
+title: "Ibnāya A"
+previous_item: "22768"
+---

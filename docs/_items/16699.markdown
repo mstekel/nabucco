@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16699"
+occurrence_id: "895"
+short_title: "Strommenger 1967"
+author: "Strommenger, Eva "
+publication_year: "1967"
+title: "Gefäße aus Uruk von der neubabylonischen Zeit bis zu den Sasaniden, ADFU 7 (Berlin (-West))"
+title: "Gefäße aus Uruk von der neubabylonischen Zeit bis zu den Sasaniden, ADFU 7 (Berlin (-West))"
+previous_item: "16702"
+---

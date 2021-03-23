@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21541"
+occurrence_id: "4736"
+short_title: "San Nicolò 1945b"
+author: "Nicolò, Mariano, San"
+publication_year: "1945"
+title: "Eine kleine Gefängnismeuterei in Eanna zur Zeit des Kambyses"
+pages: "1-17"
+editor: "Wenger, Leopold"
+book: "Festschrift für Leopold Wenger, Vol. II (München)"
+title: "Eine kleine Gefängnismeuterei in Eanna zur Zeit des Kambyses"
+previous_item: "21544"
+---

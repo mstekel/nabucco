@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8146"
+occurrence_id: "2763"
+short_title: "OLZ 17 (1914), 481- 483"
+author: "Meissner, Bruno"
+publication_year: "1914"
+title: "Ein babylonischer Fischereivertrag"
+volume_no_: "17"
+pages: "481- 483"
+journal: "Orientalistische Literaturzeitung"
+title: "Ein babylonischer Fischereivertrag"
+previous_item: "8149"
+---

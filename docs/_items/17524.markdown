@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17524"
+occurrence_id: "440"
+short_title: "Hinz 1976"
+author: "Hinz, Walther "
+publication_year: "1976"
+title: "Elamisches Wörterbuch, 2 vols."
+title: "Elamisches Wörterbuch, 2 vols."
+previous_item: "17527"
+---

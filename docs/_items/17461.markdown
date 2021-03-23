@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17461"
+occurrence_id: "851"
+short_title: "Neugebauer 1935-37"
+author: "Neugebauer, Otto "
+publication_year: "1935-1937"
+title: "Mathematische Keilschrift-Texte I-III, Quellen and Studien zur Geschichte der Mathematik, Astronomie und Physik A 3 (Berlin)"
+title: "Mathematische Keilschrift-Texte I-III, Quellen and Studien zur Geschichte der Mathematik, Astronomie und Physik A 3 (Berlin)"
+previous_item: "17464"
+---

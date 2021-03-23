@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16024"
+occurrence_id: "3054"
+short_title: "RA 74 (1980), 43-59"
+author: "Sollberger, Edmond"
+publication_year: "1980"
+title: "The Cuneiform Tablets in the Chester Beatty Library, Dublin,"
+volume_no_: "74"
+pages: "43-59"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "The Cuneiform Tablets in the Chester Beatty Library, Dublin,"
+previous_item: "16027"
+---

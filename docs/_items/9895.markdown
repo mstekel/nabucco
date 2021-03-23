@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9895"
+occurrence_id: "3123"
+short_title: "RB 71 (1964), 473-474"
+author: "Heltzer, Michael"
+publication_year: "1964"
+title: "Rv. R. Meyer, Das Gebet des Nabonid"
+volume_no_: "71"
+pages: "473-474"
+journal: "Revue Biblique"
+title: "Rv. R. Meyer, Das Gebet des Nabonid"
+previous_item: "9898"
+---

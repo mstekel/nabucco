@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11257"
+occurrence_id: "1445"
+short_title: "Aram 7 (1995), 121-135"
+author: "Tubach, Jürgen"
+publication_year: "1995"
+title: "Das Akītu-Fest in Palmyra"
+volume_no_: "7"
+pages: "121-135"
+journal: "Aram"
+title: "Das Akītu-Fest in Palmyra"
+previous_item: "11260"
+---

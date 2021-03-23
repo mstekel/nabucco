@@ -1,0 +1,15 @@
+---
+layout: "tablet"
+slug: "30229"
+object_id: "7698"
+museum_no_: "BM 41316"
+publication: "Wunsch, AfO 42/43 (1995/1996)"
+text_number: "5"
+duplicate: "BM 41434 "
+imported: "Kathleen Abraham 21/04/2017"
+publication_name: "Wunsch, AfO 42/43 (1995/1996) 5"
+archive: "Egibi/Nūr-Sîn"
+related_objects: "7486"
+title: "BM 41316"
+previous_item: "30232"
+---

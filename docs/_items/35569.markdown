@@ -1,0 +1,10 @@
+---
+layout: "glossary"
+slug: "35569"
+concept_id: "1315"
+label: "Task completed"
+hierarchy: "Task completed"
+type: "172"
+title: "Task completed"
+previous_item: "35572"
+---

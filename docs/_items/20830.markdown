@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20830"
+occurrence_id: "4252"
+short_title: "Wunsch 2002a"
+author: "Wunsch, Cornelia"
+publication_year: "2002"
+title: "Debt, Interest, Pledge and Forfeiture in the Neo-Babylonian and Early Achaemenid Period: The Evidence from Private Archives"
+pages: "221-255"
+editor: "Hudson, Michael"
+book: "Debt and Economic Renewal in the Ancient Near East, International Scholars Conference on Ancient Near Eastern Economies, Volume 3 (Bethesda)"
+title: "Debt, Interest, Pledge and Forfeiture in the Neo-Babylonian and Early Achaemenid Period: The Evidence from Private Archives"
+previous_item: "20833"
+---

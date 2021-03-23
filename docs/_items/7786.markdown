@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7786"
+occurrence_id: "3845"
+short_title: "RP NS 4 (1890), 96-108"
+author: "Pinches, Theophilus G."
+publication_year: "1980"
+title: "Babylonian Contract-Tablets with Historical References"
+volume_no_: "4"
+pages: "96-108"
+journal: "Records of the Past, New (2nd) Series, volume 4"
+title: "Babylonian Contract-Tablets with Historical References"
+previous_item: "7789"
+---

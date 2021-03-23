@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "19984"
+occurrence_id: "4151"
+short_title: "Kuhrt 2003a"
+author: "Kuhrt, Amélie"
+publication_year: "2003"
+title: "Making History: Sargon of Agade and Cyrus the Great of Persia."
+pages: "347-361"
+editor: "Kuhrt, Amélie"
+title: "Making History: Sargon of Agade and Cyrus the Great of Persia."
+previous_item: "19987"
+---

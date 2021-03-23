@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15175"
+occurrence_id: "1501"
+short_title: "ArOr 66 (1998), 325-330"
+author: "MacGinnis, John"
+publication_year: "1998"
+title: "BM 61152: iškāru and širkūtu in Times of Hardship"
+volume_no_: "66"
+pages: "325-330"
+journal: "Archív Orientalí"
+title: "BM 61152: iškāru and širkūtu in Times of Hardship"
+previous_item: "15178"
+---

@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18373"
+occurrence_id: "908"
+short_title: "Westbrook;Jasnow 2001"
+author: "Jasnow, Richard "
+publication_year: "2001"
+title: "Security for Dept in Ancient Near Eastern Law, CHANE 9 (Leiden)"
+title: "Security for Dept in Ancient Near Eastern Law, CHANE 9 (Leiden)"
+previous_item: "18376"
+---

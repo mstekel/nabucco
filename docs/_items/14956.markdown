@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14956"
+occurrence_id: "3342"
+short_title: "WeOr 36 (2006), 27-71."
+author: "Oelsner, Joachim"
+publication_year: "2006"
+title: "Aramäische Beischriften auf neu- und spätbabylonischen Tontafeln."
+volume_no_: "36"
+pages: "27-71"
+journal: "Die Welt des Orients"
+title: "Aramäische Beischriften auf neu- und spätbabylonischen Tontafeln."
+previous_item: "14959"
+---

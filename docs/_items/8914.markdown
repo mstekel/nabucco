@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8914"
+occurrence_id: "3879"
+short_title: "ZK 1 (1884), 45-64"
+author: "Oppert, Jules"
+publication_year: "1884"
+title: "Un acte de vente conservé en deux exemplaires"
+volume_no_: "1"
+pages: "45-64"
+journal: "Zeitschrift für Keilschriftforschung"
+title: "Un acte de vente conservé en deux exemplaires"
+previous_item: "8917"
+---

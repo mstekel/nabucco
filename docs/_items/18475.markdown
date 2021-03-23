@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18475"
+occurrence_id: "756"
+short_title: "Cohen 1974"
+author: "Cohen, Mark E. "
+publication_year: "1974"
+title: "Balag-compositions: Sumerian Lamentation Liturgies of the Second and First Millennium B.C., SANE 1/2 (Malibu)"
+title: "Balag-compositions: Sumerian Lamentation Liturgies of the Second and First Millennium B.C., SANE 1/2 (Malibu)"
+previous_item: "18478"
+---

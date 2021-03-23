@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "21385"
+occurrence_id: "5007"
+short_title: "Largement 1963"
+author: "Largement, René"
+publication_year: "1963"
+title: "Astronomie. Asie occidentale"
+pages: "93-97"
+book: "Dictionnaire archéologique des techniques I (1963)"
+title: "Astronomie. Asie occidentale"
+previous_item: "21388"
+---

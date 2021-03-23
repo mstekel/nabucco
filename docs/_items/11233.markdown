@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11233"
+occurrence_id: "1315"
+short_title: "Akkadica 123/2 (2002), 119-129"
+author: "De Graef, Katrien"
+publication_year: "2002"
+title: "Ay amši aqram... Que je n´oublie jamais ce qui est précieux..."
+volume_no_: "123/2"
+pages: "119-129"
+journal: "Akkadica"
+title: "Ay amši aqram... Que je n´oublie jamais ce qui est précieux..."
+previous_item: "11236"
+---

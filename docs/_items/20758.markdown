@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20758"
+occurrence_id: "4972"
+short_title: "Bordreuil 1996"
+author: "Bordreuil, Pierre"
+publication_year: "1996"
+title: "Une nouvelle monnaie babylonienne de Mazday"
+pages: "27-30"
+editor: "Hrouda, Barthel"
+book: "Collectanea Orientalia. Histoire, arts de l´espace de industrie de la terre, Fs.Spycket (Neuchâtel and Paris)"
+title: "Une nouvelle monnaie babylonienne de Mazday"
+previous_item: "20761"
+---

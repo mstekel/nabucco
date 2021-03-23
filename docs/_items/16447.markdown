@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16447"
+occurrence_id: "2310"
+short_title: "JNES 42 (1983), 265-270"
+author: "Sherwin-White, Susan"
+publication_year: "1983"
+title: "Babylonian Chronicle Fragments as a Source for Seleucid History"
+volume_no_: "42"
+pages: "265-270"
+journal: "Journal of Near Eastern Studies"
+title: "Babylonian Chronicle Fragments as a Source for Seleucid History"
+previous_item: "16450"
+---

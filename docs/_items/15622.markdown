@@ -1,0 +1,12 @@
+---
+layout: "bibliography"
+slug: "15622"
+occurrence_id: "3907"
+short_title: "NABU 2012/74"
+author: "Attia, Médecines"
+publication_year: "2012"
+title: "Listes de pierres contre l’éblouissement des yeux: une nouvelle attestation"
+volume_no_: "2012/74"
+title: "Listes de pierres contre l’éblouissement des yeux: une nouvelle attestation"
+previous_item: "15625"
+---

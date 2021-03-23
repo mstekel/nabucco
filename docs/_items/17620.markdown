@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "17620"
+occurrence_id: "151"
+short_title: "DCEPHE"
+author: "Durand, Jean-Marie "
+publication_year: "1982"
+title: "Documents cunéiformes de la IVe Section de l´École pratique des Hautes Études. Tome I: Catalogue et copies cunéiformes"
+volume_no_: "1"
+related_objects: "8255"
+title: "Documents cunéiformes de la IVe Section de l´École pratique des Hautes Études. Tome I: Catalogue et copies cunéiformes"
+previous_item: "17623"
+---

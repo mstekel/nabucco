@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16981"
+occurrence_id: "238"
+short_title: "Cocquerillat 1969"
+author: "Cocquerillat, Denise "
+publication_year: "1968"
+title: "Palmeraies et cultures de l'Eanna d'Uruk"
+title: "Palmeraies et cultures de l'Eanna d'Uruk"
+previous_item: "16984"
+---

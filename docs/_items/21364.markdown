@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21364"
+occurrence_id: "4895"
+short_title: "Czechowicz 2002a"
+author: "Czechowicz, Nadja"
+publication_year: "2002"
+title: "Babylonische Tempelangehörige: in Babylonien oder in Phoenikien?"
+pages: "327-342 (German summary 342f.)"
+editor: "Kogan, Leonid"
+book: "History and Languages of Ancient Orient: I.M. Diakonoff Memorial Volume (St. Petersburg)"
+title: "Babylonische Tempelangehörige: in Babylonien oder in Phoenikien?"
+previous_item: "21367"
+---

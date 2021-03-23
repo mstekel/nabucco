@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "21424"
+occurrence_id: "184"
+short_title: "EvM"
+author: "Evetts, Basil Thomas A."
+publication_year: "1892"
+title: "Tablets from the reign of Amēl-Marduk in \"Evetts\""
+related_objects: "7116"
+book: "Inscriptions of the Reigns of Evil-Merodach (B.C. 562-559), Neriglissar (B.C. 559-555), and Laborosoarchod (B.C. 555), Babylonische Hefte VI-B"
+title: "Tablets from the reign of Amēl-Marduk in \"Evetts\""
+previous_item: "21427"
+---

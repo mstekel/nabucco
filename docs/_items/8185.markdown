@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8185"
+occurrence_id: "2976"
+short_title: "PASb IV (1986), 65-79 (Russ., Engl. Summary 241)"
+author: "Dandamayev, Muhammed A."
+publication_year: "1986"
+title: "The Neo-Babylonian urāšu"
+volume_no_: "IV"
+pages: "65-79"
+journal: "Peredneaziatckij Szbornik"
+title: "The Neo-Babylonian urāšu"
+previous_item: "8188"
+---

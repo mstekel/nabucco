@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19948"
+occurrence_id: "5048"
+short_title: "Da Riva 2002"
+author: "Da Riva, Rocío"
+publication_year: "2002"
+title: "Schafe, die \"aus den Häusern\" herbeigeführt wurden: BM 78910 und die Rolle des privaten Spenders (kāribu) im neubabylonischen Sippar"
+pages: "57-64"
+editor: "Wunsch, Cornelia"
+book: "Mining the archives, Fs. Walker (Dresden)"
+title: "Schafe, die \"aus den Häusern\" herbeigeführt wurden: BM 78910 und die Rolle des privaten Spenders (kāribu) im neubabylonischen Sippar"
+previous_item: "19951"
+---

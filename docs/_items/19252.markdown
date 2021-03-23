@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19252"
+occurrence_id: "4645"
+short_title: "Wiesehöfer 2009"
+author: "Wiesehöfer, Josef"
+publication_year: "2009"
+title: "The Achaemenid Empire."
+pages: "66-98"
+editor: "Morris, I."
+book: "The Dynamics of Ancient Empires. State Power from Assyria to Byzantium (Oxford, New York)"
+title: "The Achaemenid Empire."
+previous_item: "19255"
+---

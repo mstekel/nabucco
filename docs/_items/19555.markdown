@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19555"
+occurrence_id: "5158"
+short_title: "Messina 2009"
+author: "Messina, Vito"
+publication_year: "2009"
+title: "Witnesses and Sealers of Seleucid Mesopotamia. A Comparison Between the Seal Impressions from Uruk and hose from Seleucia on the Tigris."
+pages: "175-251"
+editor: "Bellotto, Nicoletta"
+book: "Witnessing in the Ancient Near East, Proceedings of the Round Table Held at the University of Verona, February 15, 2008 (Padova)"
+title: "Witnesses and Sealers of Seleucid Mesopotamia. A Comparison Between the Seal Impressions from Uruk and hose from Seleucia on the Tigris."
+previous_item: "19558"
+---

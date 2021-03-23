@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10408"
+occurrence_id: "2863"
+short_title: "Or 29 (1960), 376-391"
+author: "Röllig, Wolfgang"
+publication_year: "1960"
+title: "Griechische Eigennamen in Texten der babylonischen Spätzeit"
+volume_no_: "29"
+pages: "376-391"
+journal: "Orientalia"
+title: "Griechische Eigennamen in Texten der babylonischen Spätzeit"
+previous_item: "10411"
+---

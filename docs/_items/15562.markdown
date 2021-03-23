@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15562"
+occurrence_id: "3587"
+short_title: "ZSS 70 (1953), 410-411"
+author: "Falkenstein, Adam"
+publication_year: "1953"
+title: "Rv. G. Cardascia, Les archives des Murašû (Paris 1951)"
+volume_no_: "70"
+pages: "410-411"
+journal: "Zeitschrift der Savigny-Stiftung für Rechtsgeschichte, romantistische Abteilung"
+title: "Rv. G. Cardascia, Les archives des Murašû (Paris 1951)"
+previous_item: "15565"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20455"
+occurrence_id: "4459"
+short_title: "Frame 2002"
+author: "Frame, Grant"
+publication_year: "2002"
+title: "A Neo-Babylonian Tablet with an Aramaic Docket and the Surety Phrase pūt šēp(i) ... našû"
+pages: "100-133"
+editor: "Wevers, John W."
+book: "The World of the Aramaeans III. Studies in Language and Literature, Fs. Dion 3, JSOT Supp. 326 (Sheffield)"
+title: "A Neo-Babylonian Tablet with an Aramaic Docket and the Surety Phrase pūt šēp(i) ... našû"
+previous_item: "20458"
+---

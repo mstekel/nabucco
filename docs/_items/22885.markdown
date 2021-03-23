@@ -1,0 +1,9 @@
+---
+layout: "archive"
+slug: "22885"
+archive_id: "322"
+archive_name: "Ša-nāšišu B et alia"
+is_part_of: "Sippar"
+title: "Ša-nāšišu B et alia"
+previous_item: "22888"
+---

@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16648"
+occurrence_id: "576"
+short_title: "Shiff 1987"
+author: "Shiff, Laurence B. "
+publication_year: "1987"
+title: "The Nūr-Sîn Archive: Private Entepreneurship in Babylon (603-507 BC)"
+title: "The Nūr-Sîn Archive: Private Entepreneurship in Babylon (603-507 BC)"
+previous_item: "16651"
+---

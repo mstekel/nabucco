@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19894"
+occurrence_id: "4760"
+short_title: "Stolper 1994"
+author: "Stolper, Matthew W."
+publication_year: "1994"
+title: "Mesopotamia"
+pages: "234-260"
+editor: "Walker, Christopher,  Bromhead F."
+book: "The Cambridge Ancient History. CAH VI (Cambridge)"
+title: "Mesopotamia"
+previous_item: "19897"
+---

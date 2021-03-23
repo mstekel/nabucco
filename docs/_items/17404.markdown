@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17404"
+occurrence_id: "496"
+short_title: "Lipschits 2005"
+author: "Lipschits , Oded  "
+publication_year: "2005"
+title: "The Fall and Rise of Jerusalem. Judah Under Babylonian Rule."
+title: "The Fall and Rise of Jerusalem. Judah Under Babylonian Rule."
+previous_item: "17407"
+---

@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "33805"
+place_id: "1414"
+parent_id: "52"
+place_name: "Nagītu"
+related_objects: "5500"
+title: "Nagītu"
+previous_item: "33808"
+---

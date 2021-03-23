@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34978"
+place_id: "679"
+parent_id: "40"
+place_name: "Til-Rahīmu"
+title: "Til-Rahīmu"
+previous_item: "34981"
+---

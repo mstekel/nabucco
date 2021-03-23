@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "9820"
+occurrence_id: "2718"
+short_title: "NABU 2009/12"
+author: "Da Riva, Rocío"
+title: "A note on the Nebuchadnezzar inscription of Brisa (WBC)"
+volume_no_: "12"
+publication_year: "2009"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "A note on the Nebuchadnezzar inscription of Brisa (WBC)"
+previous_item: "9823"
+---

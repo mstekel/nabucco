@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "33373"
+place_id: "1482"
+parent_id: "43"
+place_name: "Ṣibtu"
+related_objects: "6632"
+title: "Ṣibtu"
+previous_item: "33376"
+---

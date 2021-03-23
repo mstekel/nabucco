@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7921"
+occurrence_id: "1553"
+short_title: "BaM 11 (1980), 88-89"
+author: "Boehmer, Rainer , Michael"
+publication_year: "1980"
+title: "Zur Zerstörung der Zikkurrat von Borsippa  (with the collab. of Jann-Berend Kaufmann)"
+volume_no_: "11"
+pages: "88-89"
+journal: "Baghdader Mitteilungen"
+title: "Zur Zerstörung der Zikkurrat von Borsippa  (with the collab. of Jann-Berend Kaufmann)"
+previous_item: "7924"
+---

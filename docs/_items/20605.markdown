@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "20605"
+occurrence_id: "4154"
+short_title: "Kuhrt 2008"
+author: "Kuhrt, Amélie"
+publication_year: "2008"
+title: "Babylonia from Cyrus to Xerxes"
+pages: "112-138"
+editor: "Walker, Christopher,  Bromhead F."
+title: "Babylonia from Cyrus to Xerxes"
+previous_item: "20608"
+---

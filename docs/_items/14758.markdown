@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14758"
+occurrence_id: "2274"
+short_title: "JNES 18 (1959), 1-19"
+author: "Hallock, Richard T."
+publication_year: "1959"
+title: "The Finite Verb in Achaemenid Elamite"
+volume_no_: "18"
+pages: "1-19"
+journal: "Journal of Near Eastern Studies"
+title: "The Finite Verb in Achaemenid Elamite"
+previous_item: "14761"
+---

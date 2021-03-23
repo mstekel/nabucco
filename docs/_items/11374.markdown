@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11374"
+occurrence_id: "2074"
+short_title: "JAOS 114 (1994), 495-497"
+author: "Dandamayev, Muhammed A."
+publication_year: "1994"
+title: "Rv. G. Frame, Babylonia 689-627 B.C. A Political History (PIHANS 69, 1992)"
+volume_no_: "114"
+pages: "495-497"
+journal: "Journal of the American Oriental Society"
+title: "Rv. G. Frame, Babylonia 689-627 B.C. A Political History (PIHANS 69, 1992)"
+previous_item: "11377"
+---

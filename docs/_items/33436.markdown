@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33436"
+place_id: "829"
+parent_id: "61"
+place_name: "Bēlāja"
+title: "Bēlāja"
+previous_item: "33439"
+---

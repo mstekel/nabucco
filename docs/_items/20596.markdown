@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20596"
+occurrence_id: "169"
+short_title: "8 Congr."
+author: "Strassmaier, Johann N."
+publication_year: "1893"
+title: "Einige kleinere babylonische Keilschrifttexte aus dem Britischen Museum"
+pages: "281-283; pl.1-35"
+related_objects: "5642"
+book: "Actes du huitième congrès international des Orientalistes, tenu en 1889 à Stockholm et à Christiania. Deuxième partie, Section I B."
+title: "Einige kleinere babylonische Keilschrifttexte aus dem Britischen Museum"
+previous_item: "20599"
+---

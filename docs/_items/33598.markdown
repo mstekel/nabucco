@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "33598"
+place_id: "1502"
+parent_id: "37"
+place_name: "Lītamu "
+related_objects: "7848"
+title: "Lītamu "
+previous_item: "33601"
+---

@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34198"
+place_id: "610"
+parent_id: "40"
+place_name: "Qatnāja"
+title: "Qatnāja"
+previous_item: "34201"
+---

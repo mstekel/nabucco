@@ -1,0 +1,18 @@
+---
+layout: "tablet"
+slug: "26662"
+object_id: "5826"
+museum_no_: "U. 30656"
+cdli_no_: "P468510"
+period: "ENB"
+place_of_issue: "Ur city"
+day_remark: "[-]"
+month: "-"
+month_remark: "[-]"
+year_remark: "[-]"
+king: "Asb"
+king_remark: "-"
+imported: "Melanie Gross (26/05/2016)"
+title: "U. 30656"
+previous_item: "26665"
+---

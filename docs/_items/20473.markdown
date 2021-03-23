@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20473"
+occurrence_id: "4555"
+short_title: "Salles 1996"
+author: "Salles, Jean-François"
+publication_year: "1996"
+title: "Achaemenid and Hellenistic Trade in the Indian Ocean"
+pages: "251-267"
+editor: "Reade, Julian E."
+book: "The Indian Ocean in Antiquity (London and New York)"
+title: "Achaemenid and Hellenistic Trade in the Indian Ocean"
+previous_item: "20476"
+---

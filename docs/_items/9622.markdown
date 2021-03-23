@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9622"
+occurrence_id: "1652"
+short_title: "BiOr 26 (1969), 176-177"
+author: "Meriggi, Piero"
+publication_year: "1969"
+title: "Zur Lesung und Deutung der proto-elamischen Königsinschriften"
+volume_no_: "26"
+pages: "176-177"
+journal: "Bibliotheca Orientalis"
+title: "Zur Lesung und Deutung der proto-elamischen Königsinschriften"
+previous_item: "9625"
+---

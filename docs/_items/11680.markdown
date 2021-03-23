@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "11680"
+occurrence_id: "3724"
+short_title: "Jahrbuch für Wirtschaftsgeschichte 1977/3, 155-167"
+author: "Dandamayev, Muhammed A."
+publication_year: "1977"
+title: "Zur Sklaverei im neubabylonischen Reich: Gimillu, ein Tempelsklave von Eanna in Uruk (6. Jahrhundert v.u.Z.)"
+pages: "155-167"
+journal: "Jahrbuch für Wirtschaftsgeschichte"
+title: "Zur Sklaverei im neubabylonischen Reich: Gimillu, ein Tempelsklave von Eanna in Uruk (6. Jahrhundert v.u.Z.)"
+previous_item: "11683"
+---

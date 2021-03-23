@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11152"
+occurrence_id: "3883"
+short_title: "ZKM 3 (1840), 179-183 + pl.D-E"
+author: "Grotefend, Georg-Frieddrich"
+publication_year: "1840"
+title: "Urkunden in babylonischer Keilschrift, dritter Beitrag. Mit einem Steindruck"
+volume_no_: "3"
+pages: "179-183 + pl.D-E"
+journal: "Zeitschrift fur die Kunde des Morgenlandes"
+title: "Urkunden in babylonischer Keilschrift, dritter Beitrag. Mit einem Steindruck"
+previous_item: "11155"
+---

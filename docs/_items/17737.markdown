@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17737"
+occurrence_id: "4088"
+short_title: "Liverani 2016"
+author: "Liverani, Mario "
+publication_year: "2016"
+title: "Imagining Babylon. The Modern Story of an Ancient City, Studies in Ancient Near Eastern Records 11 (Berlin)"
+title: "Imagining Babylon. The Modern Story of an Ancient City, Studies in Ancient Near Eastern Records 11 (Berlin)"
+previous_item: "17740"
+---

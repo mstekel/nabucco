@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16237"
+occurrence_id: "1172"
+short_title: "AfO 14 (1941), 57-64"
+author: "Ungnad, Arthur"
+publication_year: "1941"
+title: "Das Haus Egibi (Die Generation des Bêl-êṭer, die Generation des (Nabû-)zêru-ukîn, die Generation des Šulâ, die Generation des Nabû-ahhê-iddin, die Generation des Itti-marduk-balâṭu, die Generation des Marduk-nâṣir-apli)"
+volume_no_: "14"
+pages: "57-64"
+journal: "Archiv für Orientforschung"
+title: "Das Haus Egibi (Die Generation des Bêl-êṭer, die Generation des (Nabû-)zêru-ukîn, die Generation des Šulâ, die Generation des Nabû-ahhê-iddin, die Generation des Itti-marduk-balâṭu, die Generation des Marduk-nâṣir-apli)"
+previous_item: "16240"
+---

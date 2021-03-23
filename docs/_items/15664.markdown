@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15664"
+occurrence_id: "273"
+short_title: "Hilprecht, ZA 4"
+author: "Hilprecht, Herman V."
+publication_year: "1889"
+title: "Keilschriftliche Funde in Niffer"
+volume_no_: "4"
+pages: "164-68"
+journal: "Zeitschrift für Assyriologie und Vorderasiatische Archäologie"
+title: "Keilschriftliche Funde in Niffer"
+previous_item: "15667"
+---

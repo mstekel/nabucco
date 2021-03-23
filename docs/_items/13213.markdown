@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13213"
+occurrence_id: "2969"
+short_title: "PalSb 5 (1960), 142-147"
+author: "Jusifov, Ju.B."
+publication_year: "1960"
+title: "Eine wichtige Untersuchung zur elamischen Sprache"
+volume_no_: "5"
+pages: "142-147"
+journal: "Palestinskij Szbornik"
+title: "Eine wichtige Untersuchung zur elamischen Sprache"
+previous_item: "13216"
+---

@@ -1,0 +1,15 @@
+---
+layout: "bibliography"
+slug: "10630"
+occurrence_id: "191"
+short_title: "Abraham, OLP 28"
+author: "Abraham, Kathleen"
+publication_year: "1997"
+title: "Šušan in the Egibi Texts from the Time of Marduk-nāṣir-apli"
+volume_no_: "28"
+pages: "55-86"
+related_objects: "7450"
+journal: "Orientalia Lovaniensia Periodica"
+title: "Šušan in the Egibi Texts from the Time of Marduk-nāṣir-apli"
+previous_item: "10633"
+---

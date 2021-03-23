@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20254"
+occurrence_id: "4490"
+short_title: "Baker 2014b"
+author: "Baker, Heather D."
+publication_year: "2014"
+title: "Babylonian City Walls in a Historical and Cross-Cultural Perspective"
+pages: "87-96"
+editor: "Schuster-Brandis, Anais"
+book: "Krieg und Frieden im Alten Vorderasien. 52e Rencontre Assyriologique Internationale. International Congress of Assyriology and Near Eastern Archaeology. Münster, 17.-21. Juli 2006, Alter Orient und Altes Testament 401 (Münster)"
+title: "Babylonian City Walls in a Historical and Cross-Cultural Perspective"
+previous_item: "20257"
+---

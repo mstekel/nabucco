@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "14818"
+occurrence_id: "2598"
+short_title: "NABU 1998/70"
+author: "Jursa, Michael"
+title: "Neues zum Zehnten"
+volume_no_: "70"
+publication_year: "1998"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Neues zum Zehnten"
+previous_item: "14821"
+---

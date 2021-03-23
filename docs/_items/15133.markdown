@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15133"
+occurrence_id: "1272"
+short_title: "AION 43 (1983), 1-31"
+author: "Graziani, Simonetta"
+publication_year: "1983"
+title: "I testi mesopotamici achemenidi del regno di Ciro contenuti in BE VIII"
+volume_no_: "43"
+pages: "1-31"
+journal: "Annali dell'Istituto Orientale di Napoli"
+title: "I testi mesopotamici achemenidi del regno di Ciro contenuti in BE VIII"
+previous_item: "15136"
+---

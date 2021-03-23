@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14776"
+occurrence_id: "2371"
+short_title: "Klio 60 (1978), 57-92"
+author: "Briant, Pierre"
+publication_year: "1978"
+title: "Colonisation hellénistique et populations indigènes. La phase d´installation"
+volume_no_: "60"
+pages: "57-92"
+journal: "Klio"
+title: "Colonisation hellénistique et populations indigènes. La phase d´installation"
+previous_item: "14779"
+---

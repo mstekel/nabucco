@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15430"
+occurrence_id: "2872"
+short_title: "Or 34 (1965), 453"
+author: "Oelsner, Joachim"
+publication_year: "1965"
+title: "Die Datierung der babylonischen Keilschrifttexte in den ersten Jahrzehnten der griechischen Herrschaft"
+volume_no_: "34"
+pages: "453"
+journal: "Orientalia"
+title: "Die Datierung der babylonischen Keilschrifttexte in den ersten Jahrzehnten der griechischen Herrschaft"
+previous_item: "15433"
+---

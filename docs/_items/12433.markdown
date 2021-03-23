@@ -1,0 +1,16 @@
+---
+layout: "bibliography"
+slug: "12433"
+occurrence_id: "1771"
+short_title: "BSAW Math.-phys. Kl. 92 (1940), 107-114"
+author: "van der Waerden, Bartel L."
+publication_year: "1940"
+title: "Die Voraussage von Finsternissen bei den Babyloniern"
+volume_no_: "92"
+pages: "107-114"
+journal: "Berichte über die Verhandlungen
+der Sächsischen Akademie/Gesellschaft
+der Wissenschaften"
+title: "Die Voraussage von Finsternissen bei den Babyloniern"
+previous_item: "12436"
+---

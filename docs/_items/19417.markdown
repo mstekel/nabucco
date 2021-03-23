@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19417"
+occurrence_id: "4422"
+short_title: "Tolini 2014"
+author: "Tolini, Gauthier"
+publication_year: "2014"
+title: "Le rôle de la famille de Nusku-gabbē au sein de la communauté de Neirab"
+pages: "591-598"
+editor: "Marti, Lionel"
+book: "La famille dans le Proche-Orient ancien: réalités, symbolismes, et images. Proceedings of the 55th Rencontre Assyriologique Internationale at Paris, 6-9 July 2009 (Winona Lake)"
+title: "Le rôle de la famille de Nusku-gabbē au sein de la communauté de Neirab"
+previous_item: "19420"
+---

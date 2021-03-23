@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "18958"
+occurrence_id: "4179"
+short_title: "Caubet and Yon 2001"
+author: "Caubet, Annie"
+publication_year: "2001"
+title: "Pommeaux de chars, du Levant à la Mesopotamie et à l´Élam"
+pages: "69-78"
+editor: "Breniquet, Catherine"
+title: "Pommeaux de chars, du Levant à la Mesopotamie et à l´Élam"
+previous_item: "18961"
+---

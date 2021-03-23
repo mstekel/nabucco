@@ -1,0 +1,9 @@
+---
+layout: "archive"
+slug: "23008"
+archive_id: "397"
+archive_name: "Kurī B et alia"
+is_part_of: "Uruk"
+title: "Kurī B et alia"
+previous_item: "23011"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11023"
+occurrence_id: "3189"
+short_title: "Semitica 1 (1948), 43-68"
+author: "Dupont-Somer, André"
+publication_year: "1948"
+title: "Un papyrus araméen d'époque saite découvert à Saqqarah"
+volume_no_: "1"
+pages: "43-68"
+journal: "Semitica"
+title: "Un papyrus araméen d'époque saite découvert à Saqqarah"
+previous_item: "11026"
+---

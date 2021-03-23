@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "14260"
+occurrence_id: "2597"
+short_title: "NABU 1998/69"
+author: "Jursa, Michael"
+title: "Edurubisa = Du(r)bissu"
+volume_no_: "69"
+publication_year: "1998"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Edurubisa = Du(r)bissu"
+previous_item: "14263"
+---

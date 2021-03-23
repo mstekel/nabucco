@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19495"
+occurrence_id: "4838"
+short_title: "Dandamayev 1971"
+author: "Dandamayev, Muhammed A."
+publication_year: "1971"
+title: "Die Rolle des tamkārum in Babylonien im 2. and 1.Jahrtausend v.u.Z."
+pages: "69-78"
+editor: "Klengel, Horst"
+book: "Beiträge zur Sozialen Struktur des alten Vorderasien (Berlin)"
+title: "Die Rolle des tamkārum in Babylonien im 2. and 1.Jahrtausend v.u.Z."
+previous_item: "19498"
+---

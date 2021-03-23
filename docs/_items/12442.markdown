@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12442"
+occurrence_id: "1820"
+short_title: "Centaurus 11 (1966-1967), 302-303"
+author: "Aaboe, Asger"
+publication_year: "1966-1967"
+title: "On a Babylonian Scheme for Solar Motion of the System A Variety"
+volume_no_: "11"
+pages: "302-303"
+journal: "Centaurus"
+title: "On a Babylonian Scheme for Solar Motion of the System A Variety"
+previous_item: "12445"
+---

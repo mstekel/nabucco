@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19978"
+occurrence_id: "706"
+short_title: "Wunsch 2000a"
+author: "Wunsch, Cornelia"
+publication_year: "2000"
+title: "Die Richter des Nabonid"
+pages: "557-597"
+editor: "Neumann, Hans"
+book: "Assyriologica et semitica: Festschrift fur Joachim Oelsner anlasslich seines 65. Geburtstages am 18. Februar 1997 (AOAT 252)"
+title: "Die Richter des Nabonid"
+previous_item: "19981"
+---

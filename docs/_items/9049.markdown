@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9049"
+occurrence_id: "1587"
+short_title: "BASOR 143 (1956), 28-33"
+author: "Albright, William F."
+publication_year: "1956"
+title: "The Nebuchadnezzar and Neriglissar Chronicles"
+volume_no_: "143"
+pages: "28-33"
+journal: "Bulletin of the American Schools of Oriental Research"
+title: "The Nebuchadnezzar and Neriglissar Chronicles"
+previous_item: "9052"
+---

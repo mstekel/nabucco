@@ -1,0 +1,12 @@
+---
+layout: "bibliography"
+slug: "18262"
+occurrence_id: "106"
+short_title: "BRM 1"
+author: "Clay, Albert T. "
+publication_year: "1912"
+title: "Babylonian Business Transactions of the First Millennium B.C.. Babylonian Records in the Library of J. Pierpont Morgan 1 (New York)"
+related_objects: "4393"
+title: "Babylonian Business Transactions of the First Millennium B.C.. Babylonian Records in the Library of J. Pierpont Morgan 1 (New York)"
+previous_item: "18265"
+---

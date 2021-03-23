@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7942"
+occurrence_id: "1665"
+short_title: "BiOr 38 (1981 publ. 1982), 547-551"
+author: "Zadok, Ran"
+publication_year: "1981 publ. 1982"
+title: "Babylonian Notes"
+volume_no_: "38"
+pages: "547-551"
+journal: "Bibliotheca Orientalis"
+title: "Babylonian Notes"
+previous_item: "7945"
+---

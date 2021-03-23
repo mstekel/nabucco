@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8737"
+occurrence_id: "2927"
+short_title: "Or 69 (2000), 368-392"
+author: "Kottsieper, Ingo"
+publication_year: "2000"
+title: "Der Mann aus Babylonien - Steuerhinterzieher, Flüchtling, Immigrant oder Agend? Zu einem aramäischen Dekret aus neuassyrischer Zeit"
+volume_no_: "69"
+pages: "368-392"
+journal: "Orientalia"
+title: "Der Mann aus Babylonien - Steuerhinterzieher, Flüchtling, Immigrant oder Agend? Zu einem aramäischen Dekret aus neuassyrischer Zeit"
+previous_item: "8740"
+---

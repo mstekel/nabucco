@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "32704"
+occurrence_id: "5246"
+short_title: "NABU 1998/10"
+author: "Frahm, Eckart"
+publication_year: "1998"
+title: "Die Beine der Mißgeburt "
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+volume_no_: "1"
+title: "Die Beine der Mißgeburt "
+previous_item: "32707"
+---

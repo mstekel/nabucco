@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "20392"
+occurrence_id: "4119"
+short_title: "8 Congr., 253-264"
+author: "Oppert, Jules"
+publication_year: "1893"
+title: "Les inscriptions du Pseudo-Smerdis et l'usurpateur Nidintabel fixant le Calendrier perse. "
+pages: "253-264"
+book: "Actes du huitième congrès international des Orientalistes, tenu en 1889 à Stockholm et à Christiania. Deuxième partie, Section I B."
+title: "Les inscriptions du Pseudo-Smerdis et l'usurpateur Nidintabel fixant le Calendrier perse. "
+previous_item: "20395"
+---

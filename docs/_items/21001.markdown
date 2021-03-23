@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21001"
+occurrence_id: "5165"
+short_title: "Mayer 1997"
+author: "Mayer, Walter"
+publication_year: "1997"
+title: "Der Gott Assur and die Erben Assyriens"
+pages: "15-23"
+editor: "Albertz, Rainer"
+book: "Religion und Gesellschaft, AOAT 248 (Münster)"
+title: "Der Gott Assur and die Erben Assyriens"
+previous_item: "21004"
+---

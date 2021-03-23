@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12919"
+occurrence_id: "1383"
+short_title: "Annual Review 4 (1986), 35-36"
+author: "McEwan, Gilbert J.P."
+publication_year: "1986"
+title: "A Seleucid Tablet in the Redpah Museum [McGill University, Montreal]"
+volume_no_: "4"
+pages: "35-36"
+journal: "Annual Review"
+title: "A Seleucid Tablet in the Redpah Museum [McGill University, Montreal]"
+previous_item: "12922"
+---

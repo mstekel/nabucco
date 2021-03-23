@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8461"
+occurrence_id: "1440"
+short_title: "AOS 120/2 (2000), 256-257"
+author: "Koch-Westenholz, Ulla"
+publication_year: "2000"
+title: "Rv. E. Reiner, Babylonian Planetary Omens, part Three (Groningen 1998)"
+volume_no_: "120/2"
+pages: "256-257"
+journal: "American Oriental Studies"
+title: "Rv. E. Reiner, Babylonian Planetary Omens, part Three (Groningen 1998)"
+previous_item: "8464"
+---

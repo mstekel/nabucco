@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16492"
+occurrence_id: "415"
+short_title: "Ghirshman 1954"
+author: "Ghirshman, Roman "
+publication_year: "1954"
+title: "Village perse-achéménide (= Mémoires de la Mission archéologique en Iran, 36. Mission de Susiane)"
+title: "Village perse-achéménide (= Mémoires de la Mission archéologique en Iran, 36. Mission de Susiane)"
+previous_item: "16495"
+---

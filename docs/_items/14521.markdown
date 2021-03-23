@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "14521"
+occurrence_id: "4002"
+short_title: "JCS 66 (2014), 149-165"
+author: "Ossendrijver, Mathieu"
+publication_year: "2014"
+title: "The Powers of 9 and Related Mathematical Tables from Babylon"
+volume_no_: "66"
+pages: "149-165"
+title: "The Powers of 9 and Related Mathematical Tables from Babylon"
+previous_item: "14524"
+---

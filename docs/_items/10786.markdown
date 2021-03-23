@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10786"
+occurrence_id: "1913"
+short_title: "Iran 16 (1978), 183"
+author: "Sherwin-White, Susan"
+publication_year: "1978"
+title: "Hand-tokens and Achaemenid Practice"
+volume_no_: "16"
+pages: "183"
+journal: "Iran. Journal of the British Institute of Persian Studies"
+title: "Hand-tokens and Achaemenid Practice"
+previous_item: "10789"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7861"
+occurrence_id: "1224"
+short_title: "AfO 42/43 (1995/1996), 255-262"
+author: "Jursa, Michael"
+publication_year: "1995-1996"
+title: "Rv. C. Wunsch, Die Urkunden des babylonischen Geschäftsmannes Iddin-Marduk (CM 3, 1993)"
+volume_no_: "42-43"
+pages: "255-262"
+journal: "Archiv für Orientforschung"
+title: "Rv. C. Wunsch, Die Urkunden des babylonischen Geschäftsmannes Iddin-Marduk (CM 3, 1993)"
+previous_item: "7864"
+---

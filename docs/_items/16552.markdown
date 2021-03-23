@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16552"
+occurrence_id: "794"
+short_title: "Grainger 1997"
+author: "Grainger, John D. "
+publication_year: "1997"
+title: "A Seleukid Prosopography and Gazetteer, Mnemosyne Supplements 172 (Leiden, New York, Köln )"
+title: "A Seleukid Prosopography and Gazetteer, Mnemosyne Supplements 172 (Leiden, New York, Köln )"
+previous_item: "16555"
+---

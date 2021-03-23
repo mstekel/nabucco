@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21460"
+occurrence_id: "4303"
+short_title: "Otto 2005"
+author: "Otto, Eckart"
+publication_year: "2005"
+title: "Die Rechtshermeneutik des Pentateuch und die achämenidische Rechtsideologie in ihren altorientalischen Kontexten"
+pages: "71-116"
+editor: "Fögen, Marie-Therès"
+book: "Kodifizierung und Legitimierung des Rechts in der Antike und im Alten Orient (Harrassowitz)"
+title: "Die Rechtshermeneutik des Pentateuch und die achämenidische Rechtsideologie in ihren altorientalischen Kontexten"
+previous_item: "21463"
+---

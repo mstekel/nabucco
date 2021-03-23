@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14110"
+occurrence_id: "1790"
+short_title: "BSOAS 47 (1984), 211-227"
+author: "McEwan, Gilbert J.P."
+publication_year: "1984"
+title: "Inheritance in Seleucid Babylonia"
+volume_no_: "47"
+pages: "211-227"
+journal: "Bulletin of the School of Oriental and African Studies"
+title: "Inheritance in Seleucid Babylonia"
+previous_item: "14113"
+---

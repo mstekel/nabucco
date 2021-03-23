@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8752"
+occurrence_id: "3009"
+short_title: "RA 15 (1918), 61-64"
+author: "Scheil, Vincent"
+publication_year: "1918"
+title: "L'admission d'un esclave au service liturgique"
+volume_no_: "15"
+pages: "61-64"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "L'admission d'un esclave au service liturgique"
+previous_item: "8755"
+---

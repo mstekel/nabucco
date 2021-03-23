@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19261"
+occurrence_id: "4693"
+short_title: "Pearce 2011"
+author: "Pearce, Laurie E."
+publication_year: "2011"
+title: "\"Judean\": A Special Status in Neo-Babylonian and Achaemenid Babylonia?"
+pages: "267-277"
+editor: "Knoppers, Gary N."
+book: "Judah and the Judeans in the Achaemenid Period (Winona Lake)"
+title: "\"Judean\": A Special Status in Neo-Babylonian and Achaemenid Babylonia?"
+previous_item: "19264"
+---

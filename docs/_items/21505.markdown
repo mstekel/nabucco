@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21505"
+occurrence_id: "4544"
+short_title: "Eph'al 1983"
+author: "Eph'al, Israel"
+publication_year: "1983"
+title: "On the Political and Social Organization of the Jews in Babylonian Exile"
+pages: "106-112"
+editor: "Steppat, F."
+book: "XXI. Deutscher Orientalistentag 1980 in Berlin (Wiesbaden)"
+title: "On the Political and Social Organization of the Jews in Babylonian Exile"
+previous_item: "21508"
+---

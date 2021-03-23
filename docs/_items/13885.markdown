@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13885"
+occurrence_id: "3584"
+short_title: "ZSS 57 (1937), 383-401"
+author: "Koschaker, Paul"
+publication_year: "1937"
+title: "Rv. J.G. Lautner, Altbabylonische Personenmiete und Erntearbeiterverträge (1936), and of Oppenheim, Untersuchungen zum babylonischen Mietrecht (1936)"
+volume_no_: "57"
+pages: "383-401"
+journal: "Zeitschrift der Savigny-Stiftung für Rechtsgeschichte, romantistische Abteilung"
+title: "Rv. J.G. Lautner, Altbabylonische Personenmiete und Erntearbeiterverträge (1936), and of Oppenheim, Untersuchungen zum babylonischen Mietrecht (1936)"
+previous_item: "13888"
+---

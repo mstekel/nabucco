@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16876"
+occurrence_id: "401"
+short_title: "Fahr 1964"
+author: "Fahr, Heinz "
+publication_year: "1964"
+title: "Kambyses. Ein Beitrag zur Herodotinterpretation"
+title: "Kambyses. Ein Beitrag zur Herodotinterpretation"
+previous_item: "16879"
+---

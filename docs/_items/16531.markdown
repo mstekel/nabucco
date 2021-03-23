@@ -1,0 +1,12 @@
+---
+layout: "bibliography"
+slug: "16531"
+occurrence_id: "644"
+short_title: "YOS 17"
+author: "Weisberg, David B. "
+publication_year: "1980"
+title: "Texts from the Time of Nebuchadnezzar. Including 21 plates by Raymond P. Dougherty. Yale Oriental Series, Babylonian Texts 17 (New Haven)"
+related_objects: "8198"
+title: "Texts from the Time of Nebuchadnezzar. Including 21 plates by Raymond P. Dougherty. Yale Oriental Series, Babylonian Texts 17 (New Haven)"
+previous_item: "16534"
+---

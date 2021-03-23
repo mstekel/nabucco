@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14188"
+occurrence_id: "2208"
+short_title: "JCS 57 (2005), 113-125"
+author: "Payne, Elizabeth E."
+publication_year: "2005"
+title: "Cuneiform Tablets in the Bristol Public Library"
+volume_no_: "57"
+pages: "113-125"
+journal: "Journal of Cuneiform Studies"
+title: "Cuneiform Tablets in the Bristol Public Library"
+previous_item: "14191"
+---

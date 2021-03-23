@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13354"
+occurrence_id: "3727"
+short_title: "JHA 37 (2006), 55-69."
+author: "Stephenson, Francis R."
+publication_year: "2006"
+title: "Astronomical Dating of Babylonian Texts Describing the Total Solar Eclipse of s.e. 175."
+volume_no_: "37"
+pages: "55-69"
+journal: "Journal for the History of Astronomy"
+title: "Astronomical Dating of Babylonian Texts Describing the Total Solar Eclipse of s.e. 175."
+previous_item: "13357"
+---

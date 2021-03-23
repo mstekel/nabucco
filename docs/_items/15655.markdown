@@ -1,0 +1,15 @@
+---
+layout: "bibliography"
+slug: "15655"
+occurrence_id: "174"
+short_title: "Frame and Waerzeggers, ZA 101"
+author: "Waerzeggers, Caroline"
+publication_year: "2011"
+title: "The Prebend of Temple Scribe in First Millennium Babylonia"
+volume_no_: "101"
+pages: "127-151"
+related_objects: "5686"
+journal: "Zeitschrift für Assyriologie und Vorderasiatische Archäologie"
+title: "The Prebend of Temple Scribe in First Millennium Babylonia"
+previous_item: "15658"
+---

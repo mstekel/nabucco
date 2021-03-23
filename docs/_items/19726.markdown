@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19726"
+occurrence_id: "4967"
+short_title: "Vargyas 2010g"
+author: "Vargyas, Péter"
+publication_year: "2010"
+title: "La monétisation de l’économie rurale en Babylonie et en Égypte pendant le Ier millénaire av. J.-C."
+pages: "191-204"
+editor: "Csabai, Zoltán"
+book: "From Elephantine to Babylon. Selected Studies of Péter Vargyas on Ancient Near Eastern Economy, Ancient Near Eastern and Mediterranean Studies 1 (Budapest)"
+title: "La monétisation de l’économie rurale en Babylonie et en Égypte pendant le Ier millénaire av. J.-C."
+previous_item: "19729"
+---

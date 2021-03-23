@@ -1,0 +1,12 @@
+---
+layout: "bibliography"
+slug: "16207"
+occurrence_id: "4037"
+short_title: "NABU 2015/106"
+author: "Tavernier, Jan"
+publication_year: "2015"
+title: "An Iranian slave in Babylon during the reign of Amēl-Marduk?"
+volume_no_: "2015/106"
+title: "An Iranian slave in Babylon during the reign of Amēl-Marduk?"
+previous_item: "16210"
+---

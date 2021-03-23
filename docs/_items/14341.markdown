@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14341"
+occurrence_id: "3035"
+short_title: "RA 55 (1961), 50-51"
+author: "Vieyra, Maurice"
+publication_year: "1961"
+title: "Rv. F. Wetzel, E.F. Schmidt and A. Mallwitz, Babylon der Spätzeit (WVDOG 62)"
+volume_no_: "55"
+pages: "50-51"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "Rv. F. Wetzel, E.F. Schmidt and A. Mallwitz, Babylon der Spätzeit (WVDOG 62)"
+previous_item: "14344"
+---

@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "12844"
+occurrence_id: "3983"
+short_title: "UF 43 (2011), 283-298"
+author: "Loretz, Oswald "
+publication_year: "2011"
+title: "Das Entscheidungsproblem «YHWH = 'lhym ‘Gott’» im biblisch-jüdischen 'aḥad-Monotheismus nach Jes 45,5a und Dtn 6,4 in Auseinandersetzung mit der babylonischen Marduk-Theologie"
+volume_no_: "43"
+pages: "283-298"
+title: "Das Entscheidungsproblem «YHWH = 'lhym ‘Gott’» im biblisch-jüdischen 'aḥad-Monotheismus nach Jes 45,5a und Dtn 6,4 in Auseinandersetzung mit der babylonischen Marduk-Theologie"
+previous_item: "12847"
+---

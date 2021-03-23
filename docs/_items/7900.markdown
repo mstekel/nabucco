@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7900"
+occurrence_id: "1439"
+short_title: "AoF 9 (1982), 259-262"
+author: "Oelsner, Joachim"
+publication_year: "1982"
+title: "Nochmals \"Hipparenum (Plinius nat. hist. VI 123) = Nippur?\""
+volume_no_: "9"
+pages: "259-262"
+journal: "Altorientalische Forschungen"
+title: "Nochmals \"Hipparenum (Plinius nat. hist. VI 123) = Nippur?\""
+previous_item: "7903"
+---

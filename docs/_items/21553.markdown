@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21553"
+occurrence_id: "4800"
+short_title: "Jursa 2014d"
+author: "Jursa, Michael"
+publication_year: "2014"
+title: "Economic Development in Babylonia from the Late 7th to the Late 4th Century BC: Economic Growth and Economic Crises in Imperial Contexts"
+pages: "113-138"
+editor: "Baker, Heather D."
+book: "Documentary Sources in Ancient Near Eastern and Greco-Roman Economic History. Methodology and Practice (Oxford/Philadelphia)"
+title: "Economic Development in Babylonia from the Late 7th to the Late 4th Century BC: Economic Growth and Economic Crises in Imperial Contexts"
+previous_item: "21556"
+---

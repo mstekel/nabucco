@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10273"
+occurrence_id: "2136"
+short_title: "JAOS 99 (1979 publ. 1980), 389-392"
+author: "Weisberg, David B."
+publication_year: "1979 publ. 1980"
+title: "Rv. M.D. Coogan, West Semitic Personal Names in the Murašû Documents (HSM 7)"
+volume_no_: "99"
+pages: "389-392"
+journal: "Journal of the American Oriental Society"
+title: "Rv. M.D. Coogan, West Semitic Personal Names in the Murašû Documents (HSM 7)"
+previous_item: "10276"
+---

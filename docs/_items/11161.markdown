@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "11161"
+occurrence_id: "3931"
+short_title: "ZA 103/2 (2013), 196-229"
+author: "Da Riva, Rocío"
+publication_year: "2013"
+title: "Nebuchadnezzar II’s Prism (EK 7834): A New Edition"
+volume_no_: "103/2"
+pages: "196-229"
+title: "Nebuchadnezzar II’s Prism (EK 7834): A New Edition"
+previous_item: "11164"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14335"
+occurrence_id: "3003"
+short_title: "RA 11 (1914), 165-174"
+author: "Scheil, Vincent"
+publication_year: "1914"
+title: "Le Gobryas de la Cyropédie et les textes cunéiformes"
+volume_no_: "11"
+pages: "165-174"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "Le Gobryas de la Cyropédie et les textes cunéiformes"
+previous_item: "14338"
+---

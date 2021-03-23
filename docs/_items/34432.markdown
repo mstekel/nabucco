@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34432"
+place_id: "808"
+parent_id: "61"
+place_name: "Bāb-mahīri"
+title: "Bāb-mahīri"
+previous_item: "34435"
+---

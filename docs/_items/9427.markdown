@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9427"
+occurrence_id: "3624"
+short_title: "ArÉr 89 (1962), 121-122"
+author: "Ferenczy, L."
+publication_year: "1962"
+title: "Rv. P. L. van den Berghe, Archéologie de l´Iran ancien"
+volume_no_: "89"
+pages: "121-122"
+journal: "Archaeologiai Értesítő"
+title: "Rv. P. L. van den Berghe, Archéologie de l´Iran ancien"
+previous_item: "9430"
+---

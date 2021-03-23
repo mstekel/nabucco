@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18307"
+occurrence_id: "503"
+short_title: "Martin 1909"
+author: "Martin, François "
+publication_year: "1909"
+title: "Lettres néo-babyloniennes"
+title: "Lettres néo-babyloniennes"
+previous_item: "18310"
+---

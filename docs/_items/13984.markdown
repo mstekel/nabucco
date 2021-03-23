@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13984"
+occurrence_id: "268"
+short_title: "Goetze, JNES 3/1"
+author: "Goetze, Albrecht"
+publication_year: "1944"
+title: "Additions to Parker and Dubberstein´s Babylonian Chronology"
+volume_no_: "3"
+pages: "43-46"
+journal: "Journal of Near Eastern Studies "
+title: "Additions to Parker and Dubberstein´s Babylonian Chronology"
+previous_item: "13987"
+---

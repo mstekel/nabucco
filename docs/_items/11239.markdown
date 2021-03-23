@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11239"
+occurrence_id: "1347"
+short_title: "AMI 27 (1994 publ. 1996), 127-145"
+author: "Zawadzki, Stefan"
+publication_year: "1994 publ. 1996"
+title: "Bardiya, Darius and Babylonian Usurpers in the Light of the Bisitun Inscription and Babylonian Sources"
+volume_no_: "27"
+pages: "127-145"
+journal: "Archäologische Mitteilungen aus Iran"
+title: "Bardiya, Darius and Babylonian Usurpers in the Light of the Bisitun Inscription and Babylonian Sources"
+previous_item: "11242"
+---

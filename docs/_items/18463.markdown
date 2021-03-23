@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18463"
+occurrence_id: "663"
+short_title: "Sack 1972 (AM)"
+author: "Sack, Ronald H. "
+publication_year: "1972"
+title: "Amēl-Marduk, 562-560 B.C. A Study based on Cuneiform, Old Testament, Greek, Latin and Rabbinical Sources. with Plates, AOAT 4 (Kevelaer and Neukirchen-Vluyn )"
+title: "Amēl-Marduk, 562-560 B.C. A Study based on Cuneiform, Old Testament, Greek, Latin and Rabbinical Sources. with Plates, AOAT 4 (Kevelaer and Neukirchen-Vluyn )"
+previous_item: "18466"
+---

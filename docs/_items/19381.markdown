@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19381"
+occurrence_id: "4229"
+short_title: "Breniquet 2001b"
+author: "Breniquet, Catherine"
+publication_year: "2001"
+title: "Figurines ophidiennes"
+pages: "45-55"
+editor: "Breniquet, Catherine"
+book: "Études Mésopotamiennes, Fs. Huot (Paris)"
+title: "Figurines ophidiennes"
+previous_item: "19384"
+---

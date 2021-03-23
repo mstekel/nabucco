@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "7573"
+occurrence_id: "2697"
+short_title: "NABU 2007/45"
+author: "Assar, G.R. Fahrad"
+title: "The Inception and Terminal Dates of the Reigns of Seleucus II, Seleucus III and Antiochus III."
+volume_no_: "45"
+publication_year: "2007"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "The Inception and Terminal Dates of the Reigns of Seleucus II, Seleucus III and Antiochus III."
+previous_item: "7576"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12469"
+occurrence_id: "1964"
+short_title: "Iraq 43 (1981), 131-143"
+author: "McEwan, Gilbert J.P."
+publication_year: "1981"
+title: "Arsacid Temple Records"
+volume_no_: "43"
+pages: "131-143"
+journal: "Iraq"
+title: "Arsacid Temple Records"
+previous_item: "12472"
+---

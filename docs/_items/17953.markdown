@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "17953"
+occurrence_id: "713"
+short_title: "TCL 9"
+author: "Contenau, Georges "
+publication_year: "1926"
+title: "Contrats et lettres d’Assyrie et de Babylonie. Textes Cunéiformes du Louvre 9."
+volume_no_: "9"
+related_objects: "7687"
+title: "Contrats et lettres d’Assyrie et de Babylonie. Textes Cunéiformes du Louvre 9."
+previous_item: "17956"
+---

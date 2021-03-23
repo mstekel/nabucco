@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "10048"
+occurrence_id: "3945"
+short_title: "Iraq 72 (2010), 79-148"
+author: "George, Andrew, R."
+publication_year: "2010"
+title: "The Dogs of Ninkilim, part two: Babylonian rituals to counter field pests. With a contribution by Marc J. Geller"
+volume_no_: "72"
+pages: "79-148"
+title: "The Dogs of Ninkilim, part two: Babylonian rituals to counter field pests. With a contribution by Marc J. Geller"
+previous_item: "10051"
+---

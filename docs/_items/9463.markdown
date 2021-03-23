@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9463"
+occurrence_id: "3816"
+short_title: "OLP 15 (1984), 65-75"
+author: "Zadok, Ran"
+publication_year: "1984"
+title: "New Documents from the Chaldean and Achaemenian Periods"
+volume_no_: "15"
+pages: "65-75"
+journal: "Orientalia Lovaniensia Periodica"
+title: "New Documents from the Chaldean and Achaemenian Periods"
+previous_item: "9466"
+---

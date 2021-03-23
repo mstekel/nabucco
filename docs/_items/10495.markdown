@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10495"
+occurrence_id: "3350"
+short_title: "WeOr 8/2 (1976), 286-295"
+author: "Röllig, Wolfgang"
+publication_year: "1976"
+title: "Der altmesopotamische Markt"
+volume_no_: "8/2."
+pages: "286-295"
+journal: "Die Welt des Orients"
+title: "Der altmesopotamische Markt"
+previous_item: "10498"
+---

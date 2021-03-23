@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13822"
+occurrence_id: "3242"
+short_title: "Syria 46 (1969 publ. 1970), 368-370"
+author: "Lambert, Maurice"
+publication_year: "1969 publ. 1970"
+title: "Rv. W. Hinz, Das Reich Elam"
+volume_no_: "46"
+pages: "368-370"
+journal: "Syria"
+title: "Rv. W. Hinz, Das Reich Elam"
+previous_item: "13825"
+---

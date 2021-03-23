@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16711"
+occurrence_id: "4101"
+short_title: "Sandowicz 2012"
+author: "Sandowicz, Malgorzata "
+publication_year: "2012"
+title: "Oaths and Curses. A Study in Neo- and Late Babylonian Legal Formulary, Alter Orient und Altes Testament 398 (Münster)"
+title: "Oaths and Curses. A Study in Neo- and Late Babylonian Legal Formulary, Alter Orient und Altes Testament 398 (Münster)"
+previous_item: "16714"
+---

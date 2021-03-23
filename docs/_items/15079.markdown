@@ -1,0 +1,12 @@
+---
+layout: "bibliography"
+slug: "15079"
+occurrence_id: "4003"
+short_title: "NABU 2013/15"
+author: "Payne, Elizabeth E."
+publication_year: "2013"
+title: "Two tablets from the Yale Babylonian Collection mentioning the guzguzu-garment"
+volume_no_: "2013/15"
+title: "Two tablets from the Yale Babylonian Collection mentioning the guzguzu-garment"
+previous_item: "15082"
+---

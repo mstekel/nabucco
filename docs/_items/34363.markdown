@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "34363"
+place_id: "1437"
+parent_id: "55"
+place_name: "Hurad"
+related_objects: "5956"
+title: "Hurad"
+previous_item: "34366"
+---

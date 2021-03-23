@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33349"
+place_id: "1213"
+parent_id: "61"
+place_name: "Serrēmu"
+title: "Serrēmu"
+previous_item: "33352"
+---

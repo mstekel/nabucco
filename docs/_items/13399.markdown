@@ -1,0 +1,12 @@
+---
+layout: "bibliography"
+slug: "13399"
+occurrence_id: "3967"
+short_title: "NABU 2014/51"
+author: "Joannès, Francis"
+publication_year: "2014"
+title: "Un relief inscrit de Nabonide à Padakka/Ha’it"
+volume_no_: "2014/51"
+title: "Un relief inscrit de Nabonide à Padakka/Ha’it"
+previous_item: "13402"
+---

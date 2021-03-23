@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14404"
+occurrence_id: "3373"
+short_title: "WZKM 87 (1997), 101-110"
+author: "Jursa, Michael"
+publication_year: "1997"
+title: "Nochmals Akkad"
+volume_no_: "87"
+pages: "101-110"
+journal: "Wiener Zeitschrift für die Kunde des Morgenlandes"
+title: "Nochmals Akkad"
+previous_item: "14407"
+---

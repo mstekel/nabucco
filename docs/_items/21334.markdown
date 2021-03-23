@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21334"
+occurrence_id: "4735"
+short_title: "San Nicolò 1939"
+author: "Nicolò, Mariano, San"
+publication_year: "1939"
+title: "Ein Urteil des königlichen Gerichtes in Babylon aus der Zeit des Nabonid"
+pages: "179-188"
+editor: "JF003069"
+book: "Symbolae ad lura Orientis Antiqui Pertinentes Paulo Koschaker Dedicatae Koschaker. Fs. Koschaker. SD 2 (Leiden)"
+title: "Ein Urteil des königlichen Gerichtes in Babylon aus der Zeit des Nabonid"
+previous_item: "21337"
+---

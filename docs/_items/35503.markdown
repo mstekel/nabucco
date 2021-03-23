@@ -1,0 +1,10 @@
+---
+layout: "glossary"
+slug: "35503"
+concept_id: "1204"
+label: "Purchase"
+hierarchy: "Content type"
+type: "172"
+title: "Purchase"
+previous_item: "35506"
+---

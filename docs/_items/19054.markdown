@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19054"
+occurrence_id: "4692"
+short_title: "Pearce 2006"
+author: "Pearce, Laurie E."
+publication_year: "2006"
+title: "New Evidence for Judeans in Babylonia."
+pages: "399-411"
+editor: "Oeming, Manfred"
+book: "Judah and the Judeans in the Persian Period (Winona Lake)"
+title: "New Evidence for Judeans in Babylonia."
+previous_item: "19057"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15265"
+occurrence_id: "1985"
+short_title: "Iraq 60 (1998), 207-217"
+author: "MacGinnis, John"
+publication_year: "1998"
+title: "Ordering the House of Šamaš: Texts from the Management of the Neo-Babylonian Ebabbara"
+volume_no_: "60"
+pages: "207-217"
+journal: "Iraq"
+title: "Ordering the House of Šamaš: Texts from the Management of the Neo-Babylonian Ebabbara"
+previous_item: "15268"
+---

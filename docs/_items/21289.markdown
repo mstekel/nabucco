@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21289"
+occurrence_id: "4495"
+short_title: "Koch 1995"
+author: "Koch, Heidemarie"
+publication_year: "1995"
+title: "Theology and Worship in Elam and Achaemenid Iran"
+pages: "1959-1969"
+editor: "Sasson, Jack M."
+book: "CANE (New York)"
+title: "Theology and Worship in Elam and Achaemenid Iran"
+previous_item: "21292"
+---

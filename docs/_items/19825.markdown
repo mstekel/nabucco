@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19825"
+occurrence_id: "4392"
+short_title: "Vallat 1996"
+author: "Vallat, François"
+publication_year: "1996"
+title: "Nouvelle analyse des inscriptions néo-élamites"
+pages: "385-395"
+editor: "Hrouda, Barthel"
+book: "Collectanea Orientalia. Histoire, arts de l´espace de industrie de la terre, Fs.Spycket (Neuchâtel and Paris)"
+title: "Nouvelle analyse des inscriptions néo-élamites"
+previous_item: "19828"
+---

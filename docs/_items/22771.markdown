@@ -1,0 +1,9 @@
+---
+layout: "archive"
+slug: "22771"
+archive_id: "250"
+archive_name: "Lâbâši/Balāṭu"
+is_part_of: "Kiš"
+title: "Lâbâši/Balāṭu"
+previous_item: "22774"
+---

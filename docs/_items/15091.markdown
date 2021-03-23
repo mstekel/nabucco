@@ -1,0 +1,15 @@
+---
+layout: "bibliography"
+slug: "15091"
+occurrence_id: "85"
+short_title: "Dhorme, RA 25"
+author: "Dhorme, Édouard"
+publication_year: "1928"
+title: "Les Tablettes babyloniennes de Neirab."
+volume_no_: "25"
+pages: "53-82"
+related_objects: "2902"
+journal: "Revue d'Assyriologie et d'archéologie orientale"
+title: "Les Tablettes babyloniennes de Neirab."
+previous_item: "15094"
+---

@@ -1,0 +1,17 @@
+---
+layout: "tablet"
+slug: "29206"
+object_id: "7637"
+museum_no_: "BM 31146"
+publication: "Camb."
+text_number: "419"
+duplicate: "BM 30642"
+transliteration: "Transliteration available on <a href=\"http://www.achemenet.com/fr/item/?/sources-textuelles/textes-par-langues-et-ecritures/babylonien/archives-egibi/1680296\" target=\"_blank\">Achemenet</a>"
+imported: "Evelien Vanderstraeten 14/04/2017"
+publication_name: "Camb. 419"
+archive: "Egibi/Nūr-Sîn"
+bibliography: "reedition: Wunsch 1993, no. 265. "
+related_objects: "7636"
+title: "BM 31146"
+previous_item: "29209"
+---

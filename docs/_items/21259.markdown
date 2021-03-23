@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21259"
+occurrence_id: "4334"
+short_title: "Gehlken 1995"
+author: "Gehlken, Erlend"
+publication_year: "1995"
+title: "Grüße aus Uruk and Larsa"
+pages: "167-174"
+editor: "Hauptmann, H."
+book: "Beiträge zur Kulturgeschichte Vorderasiens, Fs. Boehmer (Mainz)"
+title: "Grüße aus Uruk and Larsa"
+previous_item: "21262"
+---

@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "33376"
+place_id: "1500"
+parent_id: "85"
+place_name: "Agmatānu"
+related_objects: "7787"
+title: "Agmatānu"
+previous_item: "33379"
+---

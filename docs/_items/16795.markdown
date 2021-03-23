@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16795"
+occurrence_id: "687"
+short_title: "YOS 1"
+author: "Clay, Albert T. "
+publication_year: "1915"
+title: "Miscellaneous Inscriptions in the Yale Babylonian Collection. Yale Oriental Series, Babylonian Texts1 (New Haven)"
+title: "Miscellaneous Inscriptions in the Yale Babylonian Collection. Yale Oriental Series, Babylonian Texts1 (New Haven)"
+previous_item: "16798"
+---

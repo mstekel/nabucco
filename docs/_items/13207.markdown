@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13207"
+occurrence_id: "2936"
+short_title: "Or 74 (2005), 129-132"
+author: "Dandamayev, Muhammed A."
+publication_year: "2005"
+title: "Rv. R. Da Riva, Der Ebabbar-Tempel von Sippar in frühneubabylonischer Zeit."
+volume_no_: "74"
+pages: "129-132"
+journal: "Orientalia"
+title: "Rv. R. Da Riva, Der Ebabbar-Tempel von Sippar in frühneubabylonischer Zeit."
+previous_item: "13210"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21688"
+occurrence_id: "4417"
+short_title: "Tolini 2009"
+author: "Tolini, Gauthier"
+publication_year: "2009"
+title: "La table du Grand Roi."
+pages: "447-451"
+editor: "Michel, Cécile"
+book: "L'alimentation dans l'Orient ancien, de la production à la consommation, hème IX, Cahiers des hèmes transversaux d'ArScAn vol IX, 2007-2011"
+title: "La table du Grand Roi."
+previous_item: "21691"
+---

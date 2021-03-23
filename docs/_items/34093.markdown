@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34093"
+place_id: "703"
+parent_id: "61"
+place_name: "Ālu-ša-Amassu-uṣur"
+title: "Ālu-ša-Amassu-uṣur"
+previous_item: "34096"
+---

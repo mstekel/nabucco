@@ -1,0 +1,17 @@
+---
+layout: "tablet"
+slug: "29488"
+object_id: "7093"
+museum_no_: "BM 31844"
+period: "Each"
+type_and_content: "Letters"
+day_remark: "-"
+month: "-"
+month_remark: "-"
+year_remark: "-"
+king: "Dar"
+king_remark: "-"
+archive: "Egibi/Nūr-Sîn"
+title: "BM 31844"
+previous_item: "29491"
+---

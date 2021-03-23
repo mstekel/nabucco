@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14149"
+occurrence_id: "1999"
+short_title: "Iraq 64 (2002), 79-84"
+author: "Stone, Elizabeth C."
+publication_year: "2002"
+title: "The Ur III-Old Babylonian transition: An archaeological perspective"
+volume_no_: "64"
+pages: "79-84"
+journal: "Iraq"
+title: "The Ur III-Old Babylonian transition: An archaeological perspective"
+previous_item: "14152"
+---

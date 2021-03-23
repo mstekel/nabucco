@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9157"
+occurrence_id: "2166"
+short_title: "JCS 26 (1974), 66-70"
+author: "Walker, Christopher,  Bromhead F."
+publication_year: "1974"
+title: "Texts and Fragments 85-90"
+volume_no_: "26"
+pages: "66-70"
+journal: "Journal of Cuneiform Studies"
+title: "Texts and Fragments 85-90"
+previous_item: "9160"
+---

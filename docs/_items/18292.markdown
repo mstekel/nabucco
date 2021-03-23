@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18292"
+occurrence_id: "413"
+short_title: "Gershevitch 1985"
+author: "Gershevitch, Ilya "
+publication_year: "1985"
+title: "The Cambridge History of Iran. Vol. 2: the Median and Achaemenian Periods"
+title: "The Cambridge History of Iran. Vol. 2: the Median and Achaemenian Periods"
+previous_item: "18295"
+---

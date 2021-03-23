@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "33817"
+place_id: "1486"
+parent_id: "43"
+place_name: "Ālu-ša-Bēl-iddin"
+related_objects: "6609"
+title: "Ālu-ša-Bēl-iddin"
+previous_item: "33820"
+---

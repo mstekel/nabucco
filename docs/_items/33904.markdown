@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33904"
+place_id: "1228"
+parent_id: "61"
+place_name: "Šanāpu"
+title: "Šanāpu"
+previous_item: "33907"
+---

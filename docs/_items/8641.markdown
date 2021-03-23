@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8641"
+occurrence_id: "2408"
+short_title: "Mesopotamia 28 (1993), 346-349"
+author: "Cagni, Luigi"
+publication_year: "1993"
+title: "Rv. E. Gehlken, Uruk. Spätbabylonische Wirtschaftstexte aus dem Eanna-Archiv. Teil I.: Texte verschiedenen Inhalts (AUWE 5, 1990)"
+volume_no_: "28"
+pages: "346-349"
+journal: "Mesopotamia"
+title: "Rv. E. Gehlken, Uruk. Spätbabylonische Wirtschaftstexte aus dem Eanna-Archiv. Teil I.: Texte verschiedenen Inhalts (AUWE 5, 1990)"
+previous_item: "8644"
+---

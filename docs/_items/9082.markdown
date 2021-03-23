@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9082"
+occurrence_id: "1765"
+short_title: "BSA 4 (1988), 121-159"
+author: "van Driel, Govert"
+publication_year: "1988"
+title: "Neo-Babylonian Agriculture"
+volume_no_: "4"
+pages: "121-159"
+journal: "Bulletin on Sumerian Agriculture"
+title: "Neo-Babylonian Agriculture"
+previous_item: "9085"
+---

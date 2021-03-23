@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "19759"
+occurrence_id: "5143"
+short_title: "Tjurin 1962"
+author: "Tjurin, V.O."
+publication_year: "1962"
+title: "Behistun-Inschrift  (in Russ.)"
+pages: "495-501"
+book: "Советская историческая энциклопедия II [Sovetskaja istoričeskaja ènciklopedija II] (Moscow)"
+title: "Behistun-Inschrift  (in Russ.)"
+previous_item: "19762"
+---

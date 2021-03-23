@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8269"
+occurrence_id: "3427"
+short_title: "ZA 64 (1975), 43-45"
+author: "Hunger, Hermann"
+publication_year: "1975"
+title: "Zu den durch Zahlen ausgedrückten Omina"
+volume_no_: "64"
+pages: "43-45"
+journal: "Zeitschrift für Assyriologie"
+title: "Zu den durch Zahlen ausgedrückten Omina"
+previous_item: "8272"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15448"
+occurrence_id: "2973"
+short_title: "PAPS 92 (1948), 136-138"
+author: "Neugebauer, Otto"
+publication_year: "1948"
+title: "The Astronomical Origin of the theory of Conic Sections"
+volume_no_: "92"
+pages: "136-138"
+journal: "Proceedings of the American Philosophical Society"
+title: "The Astronomical Origin of the theory of Conic Sections"
+previous_item: "15451"
+---

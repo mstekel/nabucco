@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14176"
+occurrence_id: "2143"
+short_title: "JBL 80 (1961), 298"
+author: "Greenfield, Jonas C."
+publication_year: "1961"
+title: "Rv. G. Brunner, Der Nabuchodonosor des Buches Judith"
+volume_no_: "80"
+pages: "298"
+journal: "Journal of Biblical Literature"
+title: "Rv. G. Brunner, Der Nabuchodonosor des Buches Judith"
+previous_item: "14179"
+---

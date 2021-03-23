@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16579"
+occurrence_id: "4079"
+short_title: "Hackl and Jursa and Schmidl 2014"
+author: "Hackl, Johannes "
+publication_year: "2014"
+title: "Spätbabylonische Privatbriefe, Alter Orient und Altes Testament 414/1 (Münster)"
+title: "Spätbabylonische Privatbriefe, Alter Orient und Altes Testament 414/1 (Münster)"
+previous_item: "16582"
+---

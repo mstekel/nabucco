@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16099"
+occurrence_id: "3458"
+short_title: "ZA 77 (1987 publ. 1988), 239-278"
+author: "Koch, Heidemarie"
+publication_year: "1987 publ. 1988"
+title: "Götter und ihre Veehrung im achämenidischen Persien"
+volume_no_: "77"
+pages: "239-278"
+journal: "Zeitschrift für Assyriologie"
+title: "Götter und ihre Veehrung im achämenidischen Persien"
+previous_item: "16102"
+---

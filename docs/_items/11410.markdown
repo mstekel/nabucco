@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11410"
+occurrence_id: "2268"
+short_title: "JNES 17 (1958), 13-27"
+author: "Ackroyd, Peter R."
+publication_year: "1958"
+title: "Two Old Testament Historical Problems of the Early Persian Period (1. the First Years of Darius I and the Chronology of Haggai, Zechariah 1-8 - 2. the \"Seventy Year\" Period)"
+volume_no_: "17"
+pages: "13-27"
+journal: "Journal of Near Eastern Studies"
+title: "Two Old Testament Historical Problems of the Early Persian Period (1. the First Years of Darius I and the Chronology of Haggai, Zechariah 1-8 - 2. the \"Seventy Year\" Period)"
+previous_item: "11413"
+---

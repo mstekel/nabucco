@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11539"
+occurrence_id: "2966"
+short_title: "PalSb 13 (1965), 84-99"
+author: "Dandamayev, Muhammed A."
+publication_year: "1965"
+title: "Erwähnungen von entlaufenen Sklaven in spätbabylonischen Urkunden"
+volume_no_: "13"
+pages: "84-99"
+journal: "Palestinskij Szbornik"
+title: "Erwähnungen von entlaufenen Sklaven in spätbabylonischen Urkunden"
+previous_item: "11542"
+---

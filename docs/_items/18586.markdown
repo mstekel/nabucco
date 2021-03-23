@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18586"
+occurrence_id: "4402"
+short_title: "Fales 1996"
+author: "Fales, Frederick Mario"
+publication_year: "1996"
+title: "Ahiqar e Boccaccio"
+pages: "147-167"
+editor: "Acquaro, E."
+book: "Alle soglie della classicità. Il Mediterraneo tra tradizione e innovazione, Fs.Moscati I (Pisa and Roma)"
+title: "Ahiqar e Boccaccio"
+previous_item: "18589"
+---

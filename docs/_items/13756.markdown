@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13756"
+occurrence_id: "2886"
+short_title: "Or 47 (1978), 431-458"
+author: "Mayer, Werner R."
+publication_year: "1978"
+title: "Seleukidische Rituale aus Warka mit Emesal-Gebeten"
+volume_no_: "47"
+pages: "431-458"
+journal: "Orientalia"
+title: "Seleukidische Rituale aus Warka mit Emesal-Gebeten"
+previous_item: "13759"
+---

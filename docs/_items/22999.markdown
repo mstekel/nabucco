@@ -1,0 +1,9 @@
+---
+layout: "archive"
+slug: "22999"
+archive_id: "229"
+archive_name: "Nabû-ušallim/Gilūa"
+is_part_of: "Dūr-šarrukku"
+title: "Nabû-ušallim/Gilūa"
+previous_item: "23002"
+---

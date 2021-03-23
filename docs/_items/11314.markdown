@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11314"
+occurrence_id: "1753"
+short_title: "BOR 1 (1886/1887), 54-55"
+author: "Pinches, Theophilus G."
+publication_year: "1886/1887"
+title: "Tarzia <King of Babylon and Countries>"
+volume_no_: "1"
+pages: "54-55"
+journal: "Babylonian and Oriental Record"
+title: "Tarzia <King of Babylon and Countries>"
+previous_item: "11317"
+---

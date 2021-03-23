@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17059"
+occurrence_id: "762"
+short_title: "Da Riva 2008 (GMTR 4)"
+author: "Da Riva, Rocío "
+publication_year: "2008"
+title: "The Neo-Babylonian Royal Inscriptions: An Introduction, Guides to the Mesopotamian Textual Record 4 (Münster)"
+title: "The Neo-Babylonian Royal Inscriptions: An Introduction, Guides to the Mesopotamian Textual Record 4 (Münster)"
+previous_item: "17062"
+---

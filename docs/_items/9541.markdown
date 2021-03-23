@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9541"
+occurrence_id: "1211"
+short_title: "AfO 29-30 (1983-84), 121-125"
+author: "Landergott, Joseff"
+publication_year: "1983-84"
+title: "Rv. G.J.P. McEwan, Priest and Temple in Hellenistic Babylonia (FAOS 4, 1981)"
+volume_no_: "29-30"
+pages: "121-125"
+journal: "Archiv für Orientforschung"
+title: "Rv. G.J.P. McEwan, Priest and Temple in Hellenistic Babylonia (FAOS 4, 1981)"
+previous_item: "9544"
+---

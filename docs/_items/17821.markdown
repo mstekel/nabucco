@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17821"
+occurrence_id: "677"
+short_title: "AUWE 13"
+author: "von Weiher, Egbert "
+publication_year: "1998"
+title: "Uruk. Spätbabylonische Texte aus dem Planquadrat U 18, Teil V, AUWE 13 (Mainz)"
+title: "Uruk. Spätbabylonische Texte aus dem Planquadrat U 18, Teil V, AUWE 13 (Mainz)"
+previous_item: "17824"
+---

@@ -1,0 +1,17 @@
+---
+layout: "tablet"
+slug: "27574"
+object_id: "6011"
+museum_no_: "BM 78171"
+period: "ENB"
+day_remark: "[-]"
+month: "-"
+month_remark: "[-]"
+year_remark: "[-]"
+king: "Sîn-šarru-iškun"
+king_remark: "-"
+imported: "Melanie Gross (26/05/2016)"
+place_of_issue_remark: "[-]"
+title: "BM 78171"
+previous_item: "27577"
+---

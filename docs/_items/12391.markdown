@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12391"
+occurrence_id: "1545"
+short_title: "BA 3 (1898), 393- 444"
+author: "Demuth, Ludwig"
+publication_year: "1898"
+title: "Fünfzig Rechts- und Verwaltungsurkunden aus der Zeit des Königs Kyros (538-529 v.Chr.)"
+volume_no_: "3"
+pages: "393-444"
+journal: "Beiträge zur Assyriologie"
+title: "Fünfzig Rechts- und Verwaltungsurkunden aus der Zeit des Königs Kyros (538-529 v.Chr.)"
+previous_item: "12394"
+---

@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17803"
+occurrence_id: "569"
+short_title: "Schmitt 1999"
+author: "Schmitt, Rüdiger "
+publication_year: "1999"
+title: "Beiträge zu altpersischen Inschriften"
+title: "Beiträge zu altpersischen Inschriften"
+previous_item: "17806"
+---

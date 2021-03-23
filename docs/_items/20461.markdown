@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20461"
+occurrence_id: "4491"
+short_title: "Baker 2014c"
+author: "Baker, Heather D."
+publication_year: "2014"
+title: "House Size and Household Structure: Quantitative Data in the Study of Babylonian Urban Living Conditions"
+pages: "7-23"
+editor: "Baker, Heather D."
+book: "Documentary Sources in Ancient Near Eastern and Greco-Roman Economic History. Methodology and Practice (Oxford/Philadelphia)"
+title: "House Size and Household Structure: Quantitative Data in the Study of Babylonian Urban Living Conditions"
+previous_item: "20464"
+---

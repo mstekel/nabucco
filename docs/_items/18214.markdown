@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18214"
+occurrence_id: "737"
+short_title: "Bartl;Hauser 1996"
+author: "Bartl, Karin "
+publication_year: "1996"
+title: "Continuity and Change in Northern Mesopotamia from the Hellenistic to the Early Islamic Period, BBVO 17 (Berlin)"
+title: "Continuity and Change in Northern Mesopotamia from the Hellenistic to the Early Islamic Period, BBVO 17 (Berlin)"
+previous_item: "18217"
+---

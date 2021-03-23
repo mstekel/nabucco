@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10090"
+occurrence_id: "1145"
+short_title: "Académie royale de Belgique, Bulletin de la Classe des Lettres et des Sciences morales et politiques, 5e série, 34 (1948), 581-593"
+author: "Pirenne, Jacques"
+publication_year: "1948"
+title: "Les contrats de vente de soi-même en Égypte à l'époque saïte"
+volume_no_: "5e série, 34"
+pages: "581-593"
+journal: "Academie royale de Belgique, Bulletin de la Classe des Lettres et des Sciences morales et politiques"
+title: "Les contrats de vente de soi-même en Égypte à l'époque saïte"
+previous_item: "10093"
+---

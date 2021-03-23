@@ -1,0 +1,15 @@
+---
+layout: "bibliography"
+slug: "12556"
+occurrence_id: "2431"
+short_title: "MVA(e)G 12/3 (1908), 143ff."
+author: "Meissner, Bruno"
+publication_year: "1908"
+title: "Assyriologische Studien IV"
+volume_no_: "12/3."
+pages: "143ff."
+journal: "Mitteilungen der Vorderasiatisch(-Ägyp-
+tisch)en Gesellschaft"
+title: "Assyriologische Studien IV"
+previous_item: "12559"
+---

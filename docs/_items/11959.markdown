@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11959"
+occurrence_id: "2221"
+short_title: "JCSMS 3 (2008), 5-12"
+author: "Beaulieu, Paul-A."
+publication_year: "2008"
+title: "Nebuchadnezzar's Babylon as World Capital."
+volume_no_: "3"
+pages: "5-12"
+journal: "Journal of the Canadian Society for Mesopotamian Studies"
+title: "Nebuchadnezzar's Babylon as World Capital."
+previous_item: "11962"
+---

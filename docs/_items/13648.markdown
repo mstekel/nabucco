@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13648"
+occurrence_id: "2305"
+short_title: "JNES 4 (1945), 1-38"
+author: "Neugebauer, Otto"
+publication_year: "1945"
+title: "The History of Ancient Astronomy: Problems and Methods (1. Introduction - 2. Egypt - 3. Mesopotamia - 4. the Hellenistic Period - 5. Special Problems)"
+volume_no_: "4"
+pages: "1-38"
+journal: "Journal of Near Eastern Studies"
+title: "The History of Ancient Astronomy: Problems and Methods (1. Introduction - 2. Egypt - 3. Mesopotamia - 4. the Hellenistic Period - 5. Special Problems)"
+previous_item: "13651"
+---

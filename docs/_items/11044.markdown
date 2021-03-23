@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11044"
+occurrence_id: "3303"
+short_title: "VT 36 (1986), 248-253."
+author: "van der Toorn, Karel"
+publication_year: "1986"
+title: "Judges XVI 21 in the Light of the Akkadian Sources"
+volume_no_: "36"
+pages: "248-253"
+journal: "Vetus Testamentum"
+title: "Judges XVI 21 in the Light of the Akkadian Sources"
+previous_item: "11047"
+---

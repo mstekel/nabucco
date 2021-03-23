@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17128"
+occurrence_id: "385"
+short_title: "Diakonoff 1961"
+author: "Diakonoff, Igor M. "
+publication_year: "1961"
+title: "Abriss der Geschichte des alten Iran"
+title: "Abriss der Geschichte des alten Iran"
+previous_item: "17131"
+---

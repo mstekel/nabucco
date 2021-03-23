@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15259"
+occurrence_id: "1953"
+short_title: "Iraq 27 (1965), 1-11"
+author: "Lambert, Wilfred G."
+publication_year: "1965"
+title: "Nebuchadnezzar, King of Justice"
+volume_no_: "27"
+pages: "1-11"
+journal: "Iraq"
+title: "Nebuchadnezzar, King of Justice"
+previous_item: "15262"
+---

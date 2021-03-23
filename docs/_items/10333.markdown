@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "10333"
+occurrence_id: "2460"
+short_title: "NABU 1988/7"
+author: "Joannès, Francis"
+publication_year: "1988"
+title: "Deux Slave Documents"
+volume_no_: "7"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Deux Slave Documents"
+previous_item: "10336"
+---

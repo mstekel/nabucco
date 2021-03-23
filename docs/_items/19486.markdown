@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19486"
+occurrence_id: "4790"
+short_title: "Jursa 2008"
+author: "Jursa, Michael"
+publication_year: "2008"
+title: "The remuneration of institutional labourers in an urban context in Babylonia in the First millennium BC."
+pages: "387-427"
+editor: "Stolper, Matthew W."
+book: "L'archive des Fortifications de Persepolis. État des questions et perspectives de recherches Persika 12 (Paris)"
+title: "The remuneration of institutional labourers in an urban context in Babylonia in the First millennium BC."
+previous_item: "19489"
+---

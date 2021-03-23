@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "19987"
+occurrence_id: "4168"
+short_title: "Helms 1998"
+author: "Fuchs, Andreas"
+publication_year: "1998"
+title: "Variations helléniques sur le hème de la tenure militaire"
+pages: "631-644"
+editor: "Bournazel, E."
+title: "Variations helléniques sur le hème de la tenure militaire"
+previous_item: "19990"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19114"
+occurrence_id: "5012"
+short_title: "Hallock 1965"
+author: "Hallock, Richard T."
+publication_year: "1965"
+title: "The Verbal Nouns in Achaemenid Elamite"
+pages: "121-126"
+editor: "Güterbock, Hans, G."
+book: "Studies in Honor of Benno Landsberger on His Seventy-fifth Birthday, April 21, 1963. Assyriological Studies 16 (Chicago)"
+title: "The Verbal Nouns in Achaemenid Elamite"
+previous_item: "19117"
+---

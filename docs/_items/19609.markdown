@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19609"
+occurrence_id: "4343"
+short_title: "Braun-Holzinger and Frahm 1999"
+author: "Braun-Holzinger, Eva A."
+publication_year: "1999"
+title: "Liebling des Marduk - König der Blasphemie. Große babylonische Herrscher in der Sicht der Babylonier und in der Sicht underer Völker"
+pages: "131-146"
+editor: "Renger, Johannes"
+book: "Babylon: Focus mesopotamischer Geschichte, Wiege früher Gelehrsamkeit, Mythos in der Moderne, CDOG 2 (Saarbrücken)"
+title: "Liebling des Marduk - König der Blasphemie. Große babylonische Herrscher in der Sicht der Babylonier und in der Sicht underer Völker"
+previous_item: "19612"
+---

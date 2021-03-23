@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33442"
+place_id: "925"
+parent_id: "61"
+place_name: "Bīt-Šarru-rimanni"
+title: "Bīt-Šarru-rimanni"
+previous_item: "33445"
+---

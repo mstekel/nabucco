@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7588"
+occurrence_id: "2778"
+short_title: "OLZ 50 (1955), 524-529"
+author: "Friedrich, Johannes"
+publication_year: "1955"
+title: "Rv. F.W. König, Handbuch der chaldischen Inschriften"
+volume_no_: "50"
+pages: "524-529"
+journal: "Orientalistische Literaturzeitung"
+title: "Rv. F.W. König, Handbuch der chaldischen Inschriften"
+previous_item: "7591"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16255"
+occurrence_id: "1274"
+short_title: "AION 49/3 (Napoli 1989), 161-199"
+author: "Graziani, Simonetta"
+publication_year: "1989"
+title: "Le impronte di sigilli delle tavolette mesopotamiche del British Museum, pubblicate da J.N. Strassmaier, datate a Ciro, Cambise, Dario e Serse"
+volume_no_: "49/3"
+pages: "161-199"
+journal: "Annali dell'Istituto Orientale di Napoli"
+title: "Le impronte di sigilli delle tavolette mesopotamiche del British Museum, pubblicate da J.N. Strassmaier, datate a Ciro, Cambise, Dario e Serse"
+previous_item: "16258"
+---

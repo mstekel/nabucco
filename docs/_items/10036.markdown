@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10036"
+occurrence_id: "3881"
+short_title: "ZKM 1 (1837), 212ff. + pl.A-B"
+author: "Grotefend, Georg-Frieddrich"
+publication_year: "1837"
+title: "Urkunden in babylonischer Keilschrift, erster Beitrag"
+volume_no_: "1"
+pages: "212ff. + pl.A-B"
+journal: "Zeitschrift fur die Kunde des Morgenlandes"
+title: "Urkunden in babylonischer Keilschrift, erster Beitrag"
+previous_item: "10039"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13498"
+occurrence_id: "1498"
+short_title: "ArOr 6 (1934), 179-202"
+author: "Nicolò, Mariano, San"
+publication_year: "1934"
+title: "Parerga Babyloniaca XII: Einiges über Tempelpfründen (isqu) und homerai leitourgikai in Eanna"
+volume_no_: "6"
+pages: "179-202"
+journal: "Archív Orientalí"
+title: "Parerga Babyloniaca XII: Einiges über Tempelpfründen (isqu) und homerai leitourgikai in Eanna"
+previous_item: "13501"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9685"
+occurrence_id: "1991"
+short_title: "Iraq 64 (2002), 15-43"
+author: "Ur, Jason A."
+publication_year: "2002"
+title: "Surface Collection and Offsite Studies at Tell Hamoukar, 1999"
+volume_no_: "64"
+pages: "15-43"
+journal: "Iraq"
+title: "Surface Collection and Offsite Studies at Tell Hamoukar, 1999"
+previous_item: "9688"
+---

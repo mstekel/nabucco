@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8038"
+occurrence_id: "2181"
+short_title: "JCS 40/2 (1988), 127-155"
+author: "Stolper, Matthew W."
+publication_year: "1988"
+title: "The šaknu of Nippur"
+volume_no_: "40/2"
+pages: "127-155"
+journal: "Journal of Cuneiform Studies"
+title: "The šaknu of Nippur"
+previous_item: "8041"
+---

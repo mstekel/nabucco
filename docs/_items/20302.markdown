@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20302"
+occurrence_id: "4746"
+short_title: "Geller 1998"
+author: "Geller, Mark J."
+publication_year: "1998"
+title: "New Documents from the Dead Sea: Babylonian Science in Aramaic"
+pages: "224-229"
+editor: "Gottlieb, Cl."
+book: "Boundaries of the Ancient Near East, Fs. Gordon, JSOT.S 273 (Sheffield)"
+title: "New Documents from the Dead Sea: Babylonian Science in Aramaic"
+previous_item: "20305"
+---

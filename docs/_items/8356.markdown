@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8356"
+occurrence_id: "3894"
+short_title: "ZVS 81 (1967), 265-275"
+author: "Strunk, Klaus"
+publication_year: "1967"
+title: "Wortstruktur und Pronomen im Altpersischen"
+volume_no_: "81"
+pages: "265-275"
+journal: "Zeitschrift für vergleichende Sprachforschung auf dem Gebiete der Indogermanischen Sprachen"
+title: "Wortstruktur und Pronomen im Altpersischen"
+previous_item: "8359"
+---

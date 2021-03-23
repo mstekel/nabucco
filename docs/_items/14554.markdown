@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14554"
+occurrence_id: "1169"
+short_title: "AfK 2 (1923), 107-119"
+author: "Schwenzner, Walter"
+publication_year: "1923"
+title: "Beiträge zur Kultur- und Wirtschaftsgeschichte des Alten Orients. 1. Zum neubabylonischen Latifandienwesen"
+volume_no_: "2"
+pages: "107-119"
+journal: "Archiv für Keilschriftforschung"
+title: "Beiträge zur Kultur- und Wirtschaftsgeschichte des Alten Orients. 1. Zum neubabylonischen Latifandienwesen"
+previous_item: "14557"
+---

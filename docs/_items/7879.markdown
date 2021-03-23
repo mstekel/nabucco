@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7879"
+occurrence_id: "1325"
+short_title: "Akkadica 34 (1983), 61-62"
+author: "Dalley, Stephanie"
+publication_year: "1983"
+title: "Report on the Babylonian Cuneiform Tablet from Tawilan in Southern Jordan"
+volume_no_: "34"
+pages: "61-62"
+journal: "Akkadica"
+title: "Report on the Babylonian Cuneiform Tablet from Tawilan in Southern Jordan"
+previous_item: "7882"
+---

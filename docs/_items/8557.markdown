@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8557"
+occurrence_id: "1957"
+short_title: "Iraq 36 (1974), 5-28"
+author: "Barnett, Richard D."
+publication_year: "1974"
+title: "Charles Bellino and the Beginnings of Assyriology"
+volume_no_: "36"
+pages: "5-28"
+journal: "Iraq"
+title: "Charles Bellino and the Beginnings of Assyriology"
+previous_item: "8560"
+---

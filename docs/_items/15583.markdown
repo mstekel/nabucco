@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15583"
+occurrence_id: "3699"
+short_title: "Evangelische Theologie 26 (1966), 308-320"
+author: "Morawe, Günter"
+publication_year: "1966"
+title: "Studien zum Aufbau der neubabylonischen Chroniken in ihrer Beziehung zu den chronologischen Notizen der Königsbücher"
+volume_no_: "26"
+pages: "308-320"
+journal: "Evangelische Theologie"
+title: "Studien zum Aufbau der neubabylonischen Chroniken in ihrer Beziehung zu den chronologischen Notizen der Königsbücher"
+previous_item: "15586"
+---

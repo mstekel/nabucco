@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16948"
+occurrence_id: "847"
+short_title: "Meissner 1936"
+author: "Meissner, Bruno "
+publication_year: "1936"
+title: "Warenpreise in Babylonien APAW I (Berlin)"
+title: "Warenpreise in Babylonien APAW I (Berlin)"
+previous_item: "16951"
+---

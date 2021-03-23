@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34669"
+place_id: "1054"
+parent_id: "61"
+place_name: "Huṣṣēti-ša-Ahhūti"
+title: "Huṣṣēti-ša-Ahhūti"
+previous_item: "34672"
+---

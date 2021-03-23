@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8821"
+occurrence_id: "3379"
+short_title: "WZKM 96 (2006), 416-418."
+author: "MacGinnis, John"
+publication_year: "2006"
+title: "Rv. M. Jursa, Neo-Babylonian Legal and Administrative Documents: Typology, Contents and Archives."
+volume_no_: "96"
+pages: "416-418"
+journal: "Wiener Zeitschrift für die Kunde des Morgenlandes"
+title: "Rv. M. Jursa, Neo-Babylonian Legal and Administrative Documents: Typology, Contents and Archives."
+previous_item: "8824"
+---

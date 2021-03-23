@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20959"
+occurrence_id: "4941"
+short_title: "Beaulieu 2015"
+author: "Beaulieu, Paul-A."
+publication_year: "2015"
+title: "Nabû and Apollo: The Two Faces of Seleucid Religious Policy"
+pages: "13-30"
+editor: "Hoffmann, Friedhelm"
+book: "Orient und Okzident in hellenistischer Zeit. Beiträge zur Tagung \"Orient und Okzident - Antagonismus oder Konstrukt? Machtstrukturen, Ideologien und Kulturtransfer in hellenistischer Zeit\", Würzburg 10.-13. April 2008 (Vaterstetten)"
+title: "Nabû and Apollo: The Two Faces of Seleucid Religious Policy"
+previous_item: "20962"
+---

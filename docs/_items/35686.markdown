@@ -1,0 +1,10 @@
+---
+layout: "glossary"
+slug: "35686"
+concept_id: "1198"
+label: "Damaged"
+hierarchy: "Content type"
+type: "172"
+title: "Damaged"
+previous_item: "35689"
+---

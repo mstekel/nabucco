@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11944"
+occurrence_id: "2139"
+short_title: "JBL 68 (1949), 371-377"
+author: "Albright, William F."
+publication_year: "1949"
+title: "Rv. A.T. Olmstead, History of the Persian Empire (Achaemenid Period)"
+volume_no_: "68"
+pages: "371-377"
+journal: "Journal of Biblical Literature"
+title: "Rv. A.T. Olmstead, History of the Persian Empire (Achaemenid Period)"
+previous_item: "11947"
+---

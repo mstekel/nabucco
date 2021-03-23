@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16927"
+occurrence_id: "727"
+short_title: "Aaboe 1969"
+author: "Aaboe, Asger "
+publication_year: "1969"
+title: "A Computed List of New Moons for 319 B.C. to 316 B.C. from Babylon: BM 40094, KDVSMM 37/3 (Kopenhagen)"
+title: "A Computed List of New Moons for 319 B.C. to 316 B.C. from Babylon: BM 40094, KDVSMM 37/3 (Kopenhagen)"
+previous_item: "16930"
+---

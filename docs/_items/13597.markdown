@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13597"
+occurrence_id: "2030"
+short_title: "JA 263 (1975), 211-217"
+author: "Grillot-Susini, Françoise"
+publication_year: "1975"
+title: "Le semi-auxiliaire -ma en élamite"
+volume_no_: "263"
+pages: "211-217"
+journal: "Journal Asiatique"
+title: "Le semi-auxiliaire -ma en élamite"
+previous_item: "13600"
+---

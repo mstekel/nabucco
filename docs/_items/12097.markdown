@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12097"
+occurrence_id: "2967"
+short_title: "PalSb 17 (1967), 41-49"
+author: "Dandamayev, Muhammed A."
+publication_year: "1967"
+title: "Tempelbauern im späten Babylonien"
+volume_no_: "17"
+pages: "41-49"
+journal: "Palestinskij Szbornik"
+title: "Tempelbauern im späten Babylonien"
+previous_item: "12100"
+---

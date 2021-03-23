@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "10378"
+occurrence_id: "2702"
+short_title: "NABU 2007/74"
+author: "Malul, Meir"
+title: "Two Inscriptions of Nebuchadnezzar King of Babylon Written on Flagstones in the Possession of \"he Babylonian Jewry Heritage Center\""
+volume_no_: "74"
+publication_year: "2007"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Two Inscriptions of Nebuchadnezzar King of Babylon Written on Flagstones in the Possession of \"he Babylonian Jewry Heritage Center\""
+previous_item: "10381"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12238"
+occurrence_id: "3725"
+short_title: "JBR 17 (1949), 150-152"
+author: "Finegan, Jack"
+publication_year: "1949"
+title: "Rv. A.T. Olmstead, History of the Persian Empire (Achaemenid Period)"
+volume_no_: "17"
+pages: "150-152"
+journal: "Journal of Bible and Religion"
+title: "Rv. A.T. Olmstead, History of the Persian Empire (Achaemenid Period)"
+previous_item: "12241"
+---

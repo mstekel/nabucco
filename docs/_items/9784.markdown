@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "9784"
+occurrence_id: "2524"
+short_title: "NABU 1995/44"
+author: "Vallat, François"
+title: "Šutruk-Nahute, Šutur-Nahunte e l´imbroglio néo-élamite"
+volume_no_: "44"
+publication_year: "1995"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Šutruk-Nahute, Šutur-Nahunte e l´imbroglio néo-élamite"
+previous_item: "9787"
+---

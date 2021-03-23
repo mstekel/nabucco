@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "21643"
+occurrence_id: "4176"
+short_title: "Berlejung 2002"
+author: "Berlejung, Angelika"
+publication_year: "2002"
+title: "Notlösungen - Altorientalische Nachrichten über den Tempelkult in Nachkriegszeiten"
+pages: "196-230"
+editor: "Knauf, Ernst Axel"
+title: "Notlösungen - Altorientalische Nachrichten über den Tempelkult in Nachkriegszeiten"
+previous_item: "21646"
+---

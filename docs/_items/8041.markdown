@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8041"
+occurrence_id: "2197"
+short_title: "JCS 48 (1996), 89-94"
+author: "Rochberg-Halton, Francesca"
+publication_year: "1996"
+title: "The Horoscope of Anu-bēlšunu"
+volume_no_: "48"
+pages: "89-94"
+journal: "Journal of Cuneiform Studies"
+title: "The Horoscope of Anu-bēlšunu"
+previous_item: "8044"
+---

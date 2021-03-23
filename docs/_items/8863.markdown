@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8863"
+occurrence_id: "3607"
+short_title: "ACIO 136, 105-106"
+author: "Schott, Albert"
+publication_year: "1940"
+title: "Eine geplante Gesamtbearbeitung der astrologischen und astronomischen Keilschrifttexte"
+volume_no_: "136"
+pages: "105-106"
+journal: "Actes du Congrès International des Orientalistes"
+title: "Eine geplante Gesamtbearbeitung der astrologischen und astronomischen Keilschrifttexte"
+previous_item: "8866"
+---

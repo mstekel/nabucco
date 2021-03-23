@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16741"
+occurrence_id: "361"
+short_title: "Cook 1983"
+author: "Cook, John M. "
+publication_year: "1983"
+title: "The Persian Empire"
+title: "The Persian Empire"
+previous_item: "16744"
+---

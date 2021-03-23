@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9283"
+occurrence_id: "2845"
+short_title: "Or 19 (1950), 217-232"
+author: "Nicolò, Mariano, San"
+publication_year: "1950"
+title: "Neubabylonische Urkunden aus Ur"
+volume_no_: "19"
+pages: "217-232"
+journal: "Orientalia"
+title: "Neubabylonische Urkunden aus Ur"
+previous_item: "9286"
+---

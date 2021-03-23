@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8707"
+occurrence_id: "2764"
+short_title: "OLZ 22 (1919), 10-16"
+author: "Weidner, Ernst F."
+publication_year: "1919"
+title: "Babylonische Hypsomatabilder"
+volume_no_: "22"
+pages: "10-16"
+journal: "Orientalistische Literaturzeitung"
+title: "Babylonische Hypsomatabilder"
+previous_item: "8710"
+---

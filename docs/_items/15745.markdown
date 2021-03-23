@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15745"
+occurrence_id: "1551"
+short_title: "Bab. 8 (1924), 27-35"
+author: "Boissier, Alfred"
+publication_year: "1924"
+title: "Contrat de l'époque de Séleucus IV (Philopator)"
+volume_no_: "8"
+pages: "27-35"
+journal: "Babyloniaca"
+title: "Contrat de l'époque de Séleucus IV (Philopator)"
+previous_item: "15748"
+---

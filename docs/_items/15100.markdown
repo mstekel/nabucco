@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15100"
+occurrence_id: "244"
+short_title: "Leichty, JAOS 103/1 "
+author: "Leichty, Erle V."
+title: "An Inscription of Aššur-Etel-Ilani"
+volume_no_: "103/1"
+pages: "217-220"
+related_objects: "6075"
+journal: "Journal of the American Oriental Society"
+title: "An Inscription of Aššur-Etel-Ilani"
+previous_item: "15103"
+---

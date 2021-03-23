@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12787"
+occurrence_id: "3678"
+short_title: "Eos 73 (1985), 101-130"
+author: "Zawadzki, Stefan"
+publication_year: "1985"
+title: "The foundry of the Neo-Babylonian Temp1e"
+volume_no_: "73"
+pages: "101-130"
+journal: "Eos. Commentarii Societatis Philologae Polonorum"
+title: "The foundry of the Neo-Babylonian Temp1e"
+previous_item: "12790"
+---

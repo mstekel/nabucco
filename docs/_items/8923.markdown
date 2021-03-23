@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "8923"
+occurrence_id: "3927"
+short_title: "RA 104 (2010), 163-168"
+author: "Cseke, Henrietta"
+publication_year: "2010"
+title: "Did Sîn-uballiṭ return his loans of not? Methods of archiving and pledging slave women by reason of a Neo-Babylonian archive"
+volume_no_: "104"
+pages: "163-168"
+title: "Did Sîn-uballiṭ return his loans of not? Methods of archiving and pledging slave women by reason of a Neo-Babylonian archive"
+previous_item: "8926"
+---

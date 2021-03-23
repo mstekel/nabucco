@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10423"
+occurrence_id: "2948"
+short_title: "OrAn 22 (1983), 37-48"
+author: "Owen, David , I."
+publication_year: "1983"
+title: "Eine neubabylonische Gartenkaufurkunde mit Flüchen aus dem Akzessionsjahr Asarhaddons"
+volume_no_: "22"
+pages: "37-48"
+journal: "Oriens Antiquus"
+title: "Eine neubabylonische Gartenkaufurkunde mit Flüchen aus dem Akzessionsjahr Asarhaddons"
+previous_item: "10426"
+---

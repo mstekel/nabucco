@@ -1,0 +1,17 @@
+---
+layout: "tablet"
+slug: "26674"
+object_id: "5890"
+museum_no_: "BM 30180"
+period: "ENB"
+place_of_issue: "Uruk city"
+day_remark: "[-]"
+month: "-"
+month_remark: "[-]"
+year_remark: "[-]"
+king: "Asb"
+king_remark: "[ ]"
+imported: "Melanie Gross (26/05/2016)"
+title: "BM 30180"
+previous_item: "26677"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11110"
+occurrence_id: "3659"
+short_title: "Cahiers d´histoire mondiale 5 (1960), 529-545"
+author: "Struve, Vassili V."
+publication_year: "1960"
+title: "The Religion of the Achaemenides and Zoroastrianism"
+volume_no_: "5"
+pages: "529-545"
+journal: "Cahiers d´histoire mondiale"
+title: "The Religion of the Achaemenides and Zoroastrianism"
+previous_item: "11113"
+---

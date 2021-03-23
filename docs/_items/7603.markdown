@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7603"
+occurrence_id: "2858"
+short_title: "Or 27 (1958), 292-295"
+author: "Pohl, Alfred"
+publication_year: "1958"
+title: "Rv. D.J. Wiseman, Chronicle of Chaldaean Kings"
+volume_no_: "27"
+pages: "292-295"
+journal: "Orientalia"
+title: "Rv. D.J. Wiseman, Chronicle of Chaldaean Kings"
+previous_item: "7606"
+---

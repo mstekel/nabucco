@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "13708"
+occurrence_id: "2628"
+short_title: "NABU 2001/103"
+author: "Jursa, Michael"
+title: "ša taturru, nochmals"
+volume_no_: "103"
+publication_year: "2001"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "ša taturru, nochmals"
+previous_item: "13711"
+---

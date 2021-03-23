@@ -1,0 +1,10 @@
+---
+layout: "glossary"
+slug: "35512"
+concept_id: "1555"
+label: "Multiple transactions"
+hierarchy: "Content type"
+type: "172"
+title: "Multiple transactions"
+previous_item: "35515"
+---

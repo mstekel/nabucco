@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13804"
+occurrence_id: "3146"
+short_title: "RIDA 3e Série 14 (1967), 245-262"
+author: "Calonge, Alfredo"
+publication_year: "1967"
+title: "Problemas de la adopción de un esclavo"
+volume_no_: "3/14."
+pages: "245-262"
+journal: "Revue Internationale des Droits de l'Antiquité"
+title: "Problemas de la adopción de un esclavo"
+previous_item: "13807"
+---

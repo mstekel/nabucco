@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33637"
+place_id: "499"
+parent_id: "40"
+place_name: "Huṣṣēti-ša-Kalbā"
+title: "Huṣṣēti-ša-Kalbā"
+previous_item: "33640"
+---

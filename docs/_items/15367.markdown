@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "15367"
+occurrence_id: "2534"
+short_title: "NABU 1995/61"
+author: "Jursa, Michael"
+title: "Zu NABU 1995/4,"
+volume_no_: "61"
+publication_year: "1995"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Zu NABU 1995/4,"
+previous_item: "15370"
+---

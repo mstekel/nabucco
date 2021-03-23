@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18640"
+occurrence_id: "4690"
+short_title: "Pearce 1998"
+author: "Pearce, Laurie E."
+publication_year: "1998"
+title: "Babylonian Commentaries an Intellectual Innovation"
+pages: "331-338"
+editor: "Proseckð, Jiri"
+book: "Intellectual Life of the Ancient Near East, RAI 43 (Prague)"
+title: "Babylonian Commentaries an Intellectual Innovation"
+previous_item: "18643"
+---

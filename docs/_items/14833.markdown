@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "14833"
+occurrence_id: "2678"
+short_title: "NABU 2005/6"
+author: "Jursa, Michael"
+title: "Die Datierung des spätachämenidischen Wollpächterdossiers aus Nippur und das Ninurta-ahhe-bullit-Archiv."
+volume_no_: "6"
+publication_year: "2005"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Die Datierung des spätachämenidischen Wollpächterdossiers aus Nippur und das Ninurta-ahhe-bullit-Archiv."
+previous_item: "14836"
+---

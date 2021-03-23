@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "17110"
+occurrence_id: "243"
+short_title: "PBS 13"
+author: "Legrain, Léon "
+publication_year: "1922"
+title: "Historical Fragments. PBS 13 (Philadelphia)."
+volume_no_: "13"
+related_objects: "5993"
+title: "Historical Fragments. PBS 13 (Philadelphia)."
+previous_item: "17113"
+---

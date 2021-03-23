@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9559"
+occurrence_id: "1312"
+short_title: "Akkadica 116 (2000), 29-33"
+author: "Vallat, François"
+publication_year: "2000"
+title: "Une inscription élamite sur un rhyton en argent à tête de bélier"
+volume_no_: "116"
+pages: "29-33"
+journal: "Akkadica"
+title: "Une inscription élamite sur un rhyton en argent à tête de bélier"
+previous_item: "9562"
+---

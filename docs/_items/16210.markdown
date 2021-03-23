@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "16210"
+occurrence_id: "4053"
+short_title: "Kaskal 9 (2012), 99-120"
+author: "Wunsch, Cornelia"
+publication_year: "2012"
+title: "A Slave is not Supposed to Wear such a Garment!"
+volume_no_: "9"
+pages: "99-120"
+title: "A Slave is not Supposed to Wear such a Garment!"
+previous_item: "16213"
+---

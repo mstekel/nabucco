@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17482"
+occurrence_id: "4107"
+short_title: "Stökl 2012"
+author: "Stökl, Jonathan "
+publication_year: "2012"
+title: "Prophecy in the Ancient Near East: A Philological and Sociological Comparison, Culture and History of the Ancient Near East 56 (Leiden/Boston)"
+title: "Prophecy in the Ancient Near East: A Philological and Sociological Comparison, Culture and History of the Ancient Near East 56 (Leiden/Boston)"
+previous_item: "17485"
+---

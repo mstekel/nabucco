@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11437"
+occurrence_id: "2413"
+short_title: "Mesopotamia 30 (1995), 39-50"
+author: "Invernizzi, Antonio"
+publication_year: "1995"
+title: "Seal impressions of Achaemenid and Graeco-Persian style from Seleucia on the Tigris"
+volume_no_: "30"
+pages: "39-50"
+journal: "Mesopotamia"
+title: "Seal impressions of Achaemenid and Graeco-Persian style from Seleucia on the Tigris"
+previous_item: "11440"
+---

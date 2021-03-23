@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18481"
+occurrence_id: "793"
+short_title: "Goossens 1957"
+author: "Goossens, Godefroy "
+publication_year: "1957"
+title: "La Reine Sémiramis. De l´histoire à la légende, Mededelingen Ex Oriente Lux 13 (Leiden)"
+title: "La Reine Sémiramis. De l´histoire à la légende, Mededelingen Ex Oriente Lux 13 (Leiden)"
+previous_item: "18484"
+---

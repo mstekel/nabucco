@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "8143"
+occurrence_id: "2747"
+short_title: "NABU 2011/83"
+author: "Wasserman, Nathan"
+title: "Is the Temple not a holy place?"
+volume_no_: "83"
+publication_year: "2011"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Is the Temple not a holy place?"
+previous_item: "8146"
+---

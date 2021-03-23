@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12622"
+occurrence_id: "2787"
+short_title: "OLZ 64 (1969), 276-279"
+author: "Rudolph, K."
+publication_year: "1969"
+title: "Rv. M. Molé, L´Iran ancien"
+volume_no_: "64"
+pages: "276-279"
+journal: "Orientalistische Literaturzeitung"
+title: "Rv. M. Molé, L´Iran ancien"
+previous_item: "12625"
+---

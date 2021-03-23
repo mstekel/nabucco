@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17149"
+occurrence_id: "511"
+short_title: "Ménant 1880"
+author: "Ménant, Joachim "
+publication_year: "1880"
+title: "Empreintes de Cylindres assyro-chaldéens relevées sur les contrats d´intérêt privé du Musée Britannique"
+title: "Empreintes de Cylindres assyro-chaldéens relevées sur les contrats d´intérêt privé du Musée Britannique"
+previous_item: "17152"
+---

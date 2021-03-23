@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18229"
+occurrence_id: "824"
+short_title: "Kleber 2008"
+author: "Kleber, Kristin "
+publication_year: "2008"
+title: "Tempel und Palast. Die Beziehungen zwischen dem König und dem Eanna-Tempel im spätbabylonischen Uruk, AOAT 358 (Münster)"
+title: "Tempel und Palast. Die Beziehungen zwischen dem König und dem Eanna-Tempel im spätbabylonischen Uruk, AOAT 358 (Münster)"
+previous_item: "18232"
+---

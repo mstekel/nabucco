@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "18547"
+occurrence_id: "4193"
+short_title: "Muller 2001"
+author: "Muller, Béatrice"
+publication_year: "2001"
+title: "Maquettes en Mésopotamie"
+pages: "377-388"
+editor: "Breniquet, Catherine"
+title: "Maquettes en Mésopotamie"
+previous_item: "18550"
+---

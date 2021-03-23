@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19468"
+occurrence_id: "4694"
+short_title: "Pearce and Doty 2000"
+author: "Doty, L. Timothy"
+publication_year: "2000"
+title: "The Activities of Anu-belšunu, Seleucid Scribe"
+pages: "331-341"
+editor: "Neumann, Hans"
+book: "Assyriologica et Semitica, Fs. Oelsner. AOAT 252. (Münster)"
+title: "The Activities of Anu-belšunu, Seleucid Scribe"
+previous_item: "19471"
+---

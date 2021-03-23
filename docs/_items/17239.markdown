@@ -1,0 +1,12 @@
+---
+layout: "bibliography"
+slug: "17239"
+occurrence_id: "247"
+short_title: "CTN 3"
+author: "Dalley, Stephanie "
+publication_year: "1984"
+title: "The Tablets from Fort Shalmaneser"
+related_objects: "6008"
+title: "The Tablets from Fort Shalmaneser"
+previous_item: "17242"
+---

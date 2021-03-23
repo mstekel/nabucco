@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "33823"
+place_id: "1520"
+parent_id: "1470"
+place_name: "Huṣṣēti-ša-Nabû-immē "
+related_objects: "7890"
+title: "Huṣṣēti-ša-Nabû-immē "
+previous_item: "33826"
+---

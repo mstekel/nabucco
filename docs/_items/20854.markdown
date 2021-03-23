@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20854"
+occurrence_id: "4381"
+short_title: "Joannès 2010"
+author: "Joannès, Francis"
+publication_year: "2010"
+title: "Les formulaires juridiques néo-babyloniens."
+pages: "261-278"
+editor: "Lemaire, André"
+book: "Trois millénaires de formulaires juridiques (Gent)"
+title: "Les formulaires juridiques néo-babyloniens."
+previous_item: "20857"
+---

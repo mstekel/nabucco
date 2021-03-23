@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12145"
+occurrence_id: "3223"
+short_title: "Studia et Acta Orientalia 1 (1958), 65-82"
+author: "Banateanu, Vlad"
+publication_year: "1958"
+title: "Les Arménians des inscriptions des Behistun"
+volume_no_: "1"
+pages: "65-82"
+journal: "Studia et Acta Orientalia"
+title: "Les Arménians des inscriptions des Behistun"
+previous_item: "12148"
+---

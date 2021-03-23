@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8230"
+occurrence_id: "3216"
+short_title: "StIr 21 (1992), 7-20"
+author: "Briant, Pierre"
+publication_year: "1992"
+title: "La Date des révoltes babyloniennes contre Xerxes´"
+volume_no_: "21"
+pages: "7-20"
+journal: "Studia Iranica"
+title: "La Date des révoltes babyloniennes contre Xerxes´"
+previous_item: "8233"
+---

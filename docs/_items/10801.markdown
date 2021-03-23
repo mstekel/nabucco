@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10801"
+occurrence_id: "1993"
+short_title: "Iraq 64 (2002), 237-245"
+author: "Horowitz, Wayne"
+publication_year: "2002"
+title: "A New exemplar of Ludlul bēl nēmeqi Tablet I from Birmingham"
+volume_no_: "64"
+pages: "237-245"
+journal: "Iraq"
+title: "A New exemplar of Ludlul bēl nēmeqi Tablet I from Birmingham"
+previous_item: "10804"
+---

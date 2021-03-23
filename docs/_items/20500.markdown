@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20500"
+occurrence_id: "4699"
+short_title: "Brack-Bernsen and Walker 2007"
+author: "Walker, Christopher,  Bromhead F."
+publication_year: "2007"
+title: "BM 57980: A wrong version of the excellent predicting Rule R"
+pages: "35-41"
+editor: "Köhbach, Markus "
+book: "Festschrift für Hermann Hunger zum 65. Geburtstag: gewidmet von seinen Freunden, Kollegen und Schülern, WZKM 97 (Wien)"
+title: "BM 57980: A wrong version of the excellent predicting Rule R"
+previous_item: "20503"
+---

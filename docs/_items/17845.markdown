@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17845"
+occurrence_id: "837"
+short_title: "Kümmel 1979"
+author: "Kümmel, Hans Martin "
+publication_year: "1979"
+title: "Familie, Beruf und Amt im spätbabylonischen Uruk. Prosopographische Untersuchungen zu Berufsgruppen des 6. Jahrhunderts v. Chr. in Uruk, ADOG 20 (Berlin)"
+title: "Familie, Beruf und Amt im spätbabylonischen Uruk. Prosopographische Untersuchungen zu Berufsgruppen des 6. Jahrhunderts v. Chr. in Uruk, ADOG 20 (Berlin)"
+previous_item: "17848"
+---

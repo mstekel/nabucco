@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16333"
+occurrence_id: "1697"
+short_title: "BiOr 53 (1996), 545-546"
+author: "Moorey, P. Roger S."
+publication_year: "1996"
+title: "Rv. E. Rehm, Der Schmuck der Achämeniden (AVO 2, 1992)"
+volume_no_: "53"
+pages: "545-546"
+journal: "Bibliotheca Orientalis"
+title: "Rv. E. Rehm, Der Schmuck der Achämeniden (AVO 2, 1992)"
+previous_item: "16336"
+---

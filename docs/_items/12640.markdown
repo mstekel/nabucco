@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12640"
+occurrence_id: "2884"
+short_title: "Or 43 (1974 publ. 1975), 411-412"
+author: "Schmitt, Rüdiger"
+publication_year: "1974"
+title: "Achaimenidisch-elamisch ha-ni-ra"
+volume_no_: "43"
+pages: "411-412"
+journal: "Orientalia"
+title: "Achaimenidisch-elamisch ha-ni-ra"
+previous_item: "12643"
+---

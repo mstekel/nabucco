@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "34921"
+place_id: "1462"
+parent_id: "70"
+place_name: "Kašši []"
+related_objects: "2520"
+title: "Kašši []"
+previous_item: "34924"
+---

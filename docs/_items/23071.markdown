@@ -1,0 +1,9 @@
+---
+layout: "archive"
+slug: "23071"
+archive_id: "241"
+archive_name: "Bēl-ana-mērehti and Nergal-ahu-iddin"
+is_part_of: "Kiš"
+title: "Bēl-ana-mērehti and Nergal-ahu-iddin"
+previous_item: "23074"
+---

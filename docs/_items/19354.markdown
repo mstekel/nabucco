@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19354"
+occurrence_id: "5189"
+short_title: "Eilers 1971"
+author: "Eilers, Wilhelm"
+publication_year: "1971"
+title: "Der Keilschrifttext des Kyros-Zylinders"
+pages: "156-166"
+editor: "Eilers, Wilhelm"
+book: "Festgabe deutscher Iranisten zur 2500-Jahrfeier Irans (Stuttgart)"
+title: "Der Keilschrifttext des Kyros-Zylinders"
+previous_item: "19357"
+---

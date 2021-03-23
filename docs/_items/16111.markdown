@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16111"
+occurrence_id: "3524"
+short_title: "ZA 94 (2004), 143-146."
+author: "Horowitz, Wayne"
+publication_year: "2004"
+title: "Rv. H. Hunger, A.J. Sachs, J.M. Steele, Astronomical Diaries and Related Texts from Babylonia, Vol. V: Lunar and Planetary Texts. Wien. 2001."
+volume_no_: "94"
+pages: "143-146"
+journal: "Zeitschrift für Assyriologie"
+title: "Rv. H. Hunger, A.J. Sachs, J.M. Steele, Astronomical Diaries and Related Texts from Babylonia, Vol. V: Lunar and Planetary Texts. Wien. 2001."
+previous_item: "16114"
+---

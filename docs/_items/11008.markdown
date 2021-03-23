@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11008"
+occurrence_id: "3109"
+short_title: "RA 94/2 (2000), 17-19"
+author: "Tammuz, Oded"
+publication_year: "2000"
+title: "A Loan Document from Elam"
+volume_no_: "94/2"
+pages: "17-19"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "A Loan Document from Elam"
+previous_item: "11011"
+---

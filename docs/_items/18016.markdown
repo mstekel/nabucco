@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18016"
+occurrence_id: "303"
+short_title: "Aperghis 2004"
+author: "Aperghis, Gerassimos G. "
+publication_year: "2004"
+title: "The Seleukid Royal Economy. the Finances and Financial Administration of the Seleukid Empire."
+title: "The Seleukid Royal Economy. the Finances and Financial Administration of the Seleukid Empire."
+previous_item: "18019"
+---

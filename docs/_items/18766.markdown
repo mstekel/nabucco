@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18766"
+occurrence_id: "4258"
+short_title: "Wunsch 2014"
+author: "Wunsch, Cornelia"
+publication_year: "2014"
+title: "Double Family Names in Neo-Babylonian Records: The Case of the Ēṭiru and Ṭābiḫu Families and Their Butchers' Prebends"
+pages: "751-787"
+editor: "Csabai, Zoltán"
+book: "Studies in Economic and Social History of the Ancient Near East in Memory of Péter Vargyas (Budapest)"
+title: "Double Family Names in Neo-Babylonian Records: The Case of the Ēṭiru and Ṭābiḫu Families and Their Butchers' Prebends"
+previous_item: "18769"
+---

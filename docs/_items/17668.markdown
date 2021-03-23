@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17668"
+occurrence_id: "534"
+short_title: "Parpola 2001"
+author: "Parpola, Simo "
+publication_year: "2001"
+title: "The Helsinki Atlas of the Near East in the Neo-Assyrian Period"
+title: "The Helsinki Atlas of the Near East in the Neo-Assyrian Period"
+previous_item: "17671"
+---

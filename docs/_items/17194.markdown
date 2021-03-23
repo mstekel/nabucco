@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17194"
+occurrence_id: "799"
+short_title: "Hansen 2000"
+author: "Hansen, Mogens Herman "
+publication_year: "2000"
+title: "A Comparative Study of thirty City-State Cultures, Historisk-filosofiske Skrifter 21 (Copenhagen)"
+title: "A Comparative Study of thirty City-State Cultures, Historisk-filosofiske Skrifter 21 (Copenhagen)"
+previous_item: "17197"
+---

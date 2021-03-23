@@ -1,0 +1,15 @@
+---
+layout: "tablet"
+slug: "28822"
+object_id: "7591"
+museum_no_: "BM 41935"
+publication: "Wunsch 2000"
+text_number: "8 C"
+duplicate: "BM 33103"
+imported: "Kathleen Abraham 15/04/2016"
+publication_name: "Wunsch 2000 8 C"
+archive: "Egibi/Nūr-Sîn"
+related_objects: "7589"
+title: "BM 41935"
+previous_item: "28825"
+---

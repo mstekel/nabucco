@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17971"
+occurrence_id: "822"
+short_title: "Jursa 2005 (GMTR 1)"
+author: "Jursa, Michael "
+publication_year: "2005"
+title: "Neo-Babylonian Legal and Administrative Documents. Typology, Contents and Archives, Guides to the Mesopotamian Textual Record 1 (Münster)"
+title: "Neo-Babylonian Legal and Administrative Documents. Typology, Contents and Archives, Guides to the Mesopotamian Textual Record 1 (Münster)"
+previous_item: "17974"
+---

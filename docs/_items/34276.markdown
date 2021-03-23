@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34276"
+place_id: "85"
+parent_id: "4"
+place_name: "Outside Babylonia"
+title: "Outside Babylonia"
+previous_item: "34279"
+---

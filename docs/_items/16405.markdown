@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16405"
+occurrence_id: "2083"
+short_title: "JAOS 117 (1997), 167-169"
+author: "Pearce, Laurie E."
+publication_year: "1997"
+title: "Rv. R.H. Sack, Cuneiform Documents from the Chaldean and Persian Periods (1994)"
+volume_no_: "117"
+pages: "167-169"
+journal: "Journal of the American Oriental Society"
+title: "Rv. R.H. Sack, Cuneiform Documents from the Chaldean and Persian Periods (1994)"
+previous_item: "16408"
+---

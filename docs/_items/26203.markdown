@@ -1,0 +1,17 @@
+---
+layout: "tablet"
+slug: "26203"
+object_id: "5984"
+museum_no_: "BM 50806"
+period: "ENB"
+day_remark: "[-]"
+month: "-"
+month_remark: "[-]"
+year_remark: "[-]"
+king: "Kan"
+king_remark: "-"
+imported: "Melanie Gross (26/05/2016)"
+place_of_issue_remark: "[-]"
+title: "BM 50806"
+previous_item: "26206"
+---

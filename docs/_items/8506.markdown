@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8506"
+occurrence_id: "1682"
+short_title: "BiOr 47 (1990), 708-710"
+author: "Dalley, Stephanie"
+publication_year: "1990"
+title: "Rv. S. Zawadzki, the Fall of Assyria and Median-Babylonian Relations (1988)"
+volume_no_: "47"
+pages: "708-710"
+journal: "Bibliotheca Orientalis"
+title: "Rv. S. Zawadzki, the Fall of Assyria and Median-Babylonian Relations (1988)"
+previous_item: "8509"
+---

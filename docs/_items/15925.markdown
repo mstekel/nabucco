@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "15925"
+occurrence_id: "2519"
+short_title: "NABU 1995/3"
+author: "Zadok, Ran"
+title: "On the Late-Assyrian Texts from Dūr-Katlimmu and the Significance of the NA Documentation for Ethno-linguistic Classification"
+volume_no_: "3"
+publication_year: "1995"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "On the Late-Assyrian Texts from Dūr-Katlimmu and the Significance of the NA Documentation for Ethno-linguistic Classification"
+previous_item: "15928"
+---

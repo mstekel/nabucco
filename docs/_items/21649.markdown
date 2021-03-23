@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "21649"
+occurrence_id: "4208"
+short_title: "Jankovic 2005"
+author: "Jankovic, Bojana"
+publication_year: "2005"
+title: "Between a rock and a hard place: an aspect of the manpower problem in the agricultural sector of Eanna."
+pages: "167-181"
+editor: "Baker, Heather D."
+title: "Between a rock and a hard place: an aspect of the manpower problem in the agricultural sector of Eanna."
+previous_item: "21652"
+---

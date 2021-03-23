@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11101"
+occurrence_id: "3611"
+short_title: "AHR 69 (1964), 723-725"
+author: "Bailkey, N."
+publication_year: "1964"
+title: "Rv. R.N. Frye, The Heritage of Persia"
+volume_no_: "69"
+pages: "723-725"
+journal: "The American Historical Review"
+title: "Rv. R.N. Frye, The Heritage of Persia"
+previous_item: "11104"
+---

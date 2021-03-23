@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8998"
+occurrence_id: "1311"
+short_title: "Akkadica 104-105 (1997), 24-57"
+author: "Battini, Laura"
+publication_year: "1997"
+title: "Les systèmes défensifs à Babylon"
+volume_no_: "104-105"
+pages: "24-57"
+journal: "Akkadica"
+title: "Les systèmes défensifs à Babylon"
+previous_item: "9001"
+---

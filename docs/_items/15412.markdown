@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15412"
+occurrence_id: "2776"
+short_title: "OLZ 48 (1953), 306-308"
+author: "von Soden, Wolfram"
+publication_year: "1953"
+title: "Rv. I. Mendelsohn, Slavery (1949)"
+volume_no_: "48"
+pages: "306-308"
+journal: "Orientalistische Literaturzeitung"
+title: "Rv. I. Mendelsohn, Slavery (1949)"
+previous_item: "15415"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20827"
+occurrence_id: "4236"
+short_title: "Walker 1997"
+author: "Walker, Christopher,  Bromhead F."
+publication_year: "1997"
+title: "Achaemenid Chronology and the Babylonian Sources"
+pages: "17-25"
+editor: "Curtis, John"
+book: "Mesopotamia and Iran in the Persian Period (London)"
+title: "Achaemenid Chronology and the Babylonian Sources"
+previous_item: "20830"
+---

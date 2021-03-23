@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8584"
+occurrence_id: "2101"
+short_title: "JAOS 123 (2003), 627-633"
+author: "Veldhuis, Niek"
+publication_year: "2003"
+title: "On the Curriculum of the Neo-Babylonian School"
+volume_no_: "123"
+pages: "627-633"
+journal: "Journal of the American Oriental Society"
+title: "On the Curriculum of the Neo-Babylonian School"
+previous_item: "8587"
+---

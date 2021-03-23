@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11536"
+occurrence_id: "2950"
+short_title: "OrAn 23 (1984), 49-52"
+author: "McEwan, Gilbert J.P."
+publication_year: "1984"
+title: "Recall of a Debt from the Reign of Nabonidus"
+volume_no_: "23"
+pages: "49-52"
+journal: "Oriens Antiquus"
+title: "Recall of a Debt from the Reign of Nabonidus"
+previous_item: "11539"
+---

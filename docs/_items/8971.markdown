@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8971"
+occurrence_id: "1159"
+short_title: "AcAntHung 25 (1977 publ. 1980), 43-67"
+author: "Komoróczy, Géza"
+publication_year: "1977"
+title: "Ummān-manda"
+volume_no_: "25"
+pages: "43-67"
+journal: "Acta Antiqua Academiae Scientiarum Hungaricae"
+title: "Ummān-manda"
+previous_item: "8974"
+---

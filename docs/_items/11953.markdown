@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11953"
+occurrence_id: "2188"
+short_title: "JCS 43-45 (1991-1993), 71-87"
+author: "Britton, John P."
+publication_year: "1991-1993"
+title: "A Table of 4th Powers and Related Texts from Seleucid Babylon"
+volume_no_: "43-45"
+pages: "71-87"
+journal: "Journal of Cuneiform Studies"
+title: "A Table of 4th Powers and Related Texts from Seleucid Babylon"
+previous_item: "11956"
+---

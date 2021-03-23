@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18166"
+occurrence_id: "428"
+short_title: "Greenfield 1983"
+author: "Greenfield, Jonas C. "
+publication_year: "1983"
+title: "The Bisitun Inscription of Darius the Great: Aramaic Version (Corpus Inscriptionum Iranicarum, Part. 1. Inscriptions of Ancient Iran. Vol 5. the Aramaic Versions of the Achaemenian Inscriptions, Texts 1)"
+title: "The Bisitun Inscription of Darius the Great: Aramaic Version (Corpus Inscriptionum Iranicarum, Part. 1. Inscriptions of Ancient Iran. Vol 5. the Aramaic Versions of the Achaemenian Inscriptions, Texts 1)"
+previous_item: "18169"
+---

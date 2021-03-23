@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18631"
+occurrence_id: "4642"
+short_title: "Wiesehöfer 2002"
+author: "Wiesehöfer, Josef"
+publication_year: "2002"
+title: "Kontinuität oder Zäsur? Babylonien unter den Achaimeniden"
+pages: "29-48"
+editor: "Kratz, Reinhard , G."
+book: "Religion and Religionskontakte im Zeitalter der Achämeniden, Veröffentlichungen der Wissenschaftlichen Gesellschaft für Theologie 22 (Gütersloh)"
+title: "Kontinuität oder Zäsur? Babylonien unter den Achaimeniden"
+previous_item: "18634"
+---

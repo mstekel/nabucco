@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15037"
+occurrence_id: "3778"
+short_title: "Kaskal 6 (2009), 151-214"
+author: "Tarasewicz, Radosław"
+publication_year: "2009"
+title: "Bitd Breeding in Neo-Babylonian Sippar"
+volume_no_: "6"
+pages: "151-214"
+journal: "KASKAL. Rivista di storia, ambiente e culture del Vicino Oriente Antico"
+title: "Bitd Breeding in Neo-Babylonian Sippar"
+previous_item: "15040"
+---

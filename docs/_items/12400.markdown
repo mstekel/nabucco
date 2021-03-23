@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12400"
+occurrence_id: "1593"
+short_title: "BASOR 326 (2002), 100-101."
+author: "Sommer, Benjamin D."
+publication_year: "2002"
+title: "Rv. D.S.Vanderhooft, The Neo-Babylonian Empire and Babylon in the Latter Prophets (Atlanta, 1999)."
+volume_no_: "326"
+pages: "100-101"
+journal: "Bulletin of the American Schools of Oriental Research"
+title: "Rv. D.S.Vanderhooft, The Neo-Babylonian Empire and Babylon in the Latter Prophets (Atlanta, 1999)."
+previous_item: "12403"
+---

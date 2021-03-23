@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "34357"
+place_id: "1390"
+parent_id: "37"
+place_name: "Ālu-ša-kî-Bēl"
+related_objects: "4431"
+title: "Ālu-ša-kî-Bēl"
+previous_item: "34360"
+---

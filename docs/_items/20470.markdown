@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20470"
+occurrence_id: "4539"
+short_title: "Madreiter 2011"
+author: "Madreiter, Irene"
+publication_year: "2011"
+title: "Ktesias und Babylonien: über eine nicht existierende Größe in den Persika"
+pages: "247-277"
+editor: "Lanfranchi, Giovanni , B."
+book: "Ktesias’ Welt / Ctesias’ World, Classica et Orientalia 1 (Wiesbaden)"
+title: "Ktesias und Babylonien: über eine nicht existierende Größe in den Persika"
+previous_item: "20473"
+---

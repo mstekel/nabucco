@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "10360"
+occurrence_id: "2606"
+short_title: "NABU 1999/105"
+author: "Jursa, Michael"
+title: "Die aramäische Beischrift auf Ni. 2670"
+volume_no_: "105"
+publication_year: "1999"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Die aramäische Beischrift auf Ni. 2670"
+previous_item: "10363"
+---

@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "19777"
+occurrence_id: "4134"
+short_title: "Gallego López 2002"
+author: "Gallego Lopéz, Alejandro"
+publication_year: "2002"
+title: "Rv. J. Bidmead, The akitu Festival. Religious Continuity and Royal Legitimation in Mesopotamia."
+pages: "103-104"
+editor: "Córdoba Zoilo, Joaquín, M."
+title: "Rv. J. Bidmead, The akitu Festival. Religious Continuity and Royal Legitimation in Mesopotamia."
+previous_item: "19780"
+---

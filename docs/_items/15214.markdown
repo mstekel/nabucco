@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15214"
+occurrence_id: "1712"
+short_title: "BiOr 58/5/6 (2001), 642-645"
+author: "Linssen, Marc J.H."
+publication_year: "2001"
+title: "Rv. R. Wallenfels, Seleucid Archival Texts in the Harvard Semitic Museum. Text Editions and Catalogue Raisonné of the Seal Impressions"
+volume_no_: "58/5/6"
+pages: "642-645"
+journal: "Bibliotheca Orientalis"
+title: "Rv. R. Wallenfels, Seleucid Archival Texts in the Harvard Semitic Museum. Text Editions and Catalogue Raisonné of the Seal Impressions"
+previous_item: "15217"
+---

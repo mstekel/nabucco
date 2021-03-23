@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15565"
+occurrence_id: "3603"
+short_title: "Achaemenid History 8 (1994), 311-327"
+author: "Kuhrt, Amélie"
+publication_year: "1994"
+title: "The transitions from Achaemenid to Seleucid rule in Babylonia. Revolution or evolution?"
+volume_no_: "8"
+pages: "311-327"
+journal: "Achaemenid History"
+title: "The transitions from Achaemenid to Seleucid rule in Babylonia. Revolution or evolution?"
+previous_item: "15568"
+---

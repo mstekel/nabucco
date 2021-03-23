@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "12577"
+occurrence_id: "2545"
+short_title: "NABU 1996/3"
+author: "del Monte, Giuseppe F."
+title: "Ad BibMes 24 22"
+volume_no_: "3"
+publication_year: "1996"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Ad BibMes 24 22"
+previous_item: "12580"
+---

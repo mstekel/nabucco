@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12628"
+occurrence_id: "2819"
+short_title: "OLZ 94 (1999), 45-49"
+author: "Oelsner, Joachim"
+publication_year: "1999"
+title: "Rv. J. McGinnis, Letter Orders from Sippar (1995)"
+volume_no_: "94"
+pages: "45-49"
+journal: "Orientalistische Literaturzeitung"
+title: "Rv. J. McGinnis, Letter Orders from Sippar (1995)"
+previous_item: "12631"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12457"
+occurrence_id: "1900"
+short_title: "IEJ 28 (1978 publ. 1979), 290-292"
+author: "Zadok, Ran"
+publication_year: "1978 publ. 1979"
+title: "Rv. M.D. Coogan, West Semitic Personal Names in the Murašû Documents (HSM 7)"
+volume_no_: "28"
+pages: "290-292"
+journal: "Israel Exploration Journal"
+title: "Rv. M.D. Coogan, West Semitic Personal Names in the Murašû Documents (HSM 7)"
+previous_item: "12460"
+---

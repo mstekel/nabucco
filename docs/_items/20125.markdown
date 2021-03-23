@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20125"
+occurrence_id: "4905"
+short_title: "Pedersén, Paul, Hein and Undersson 2010"
+author: "Hein, Irmgard"
+publication_year: "2010"
+title: "Cities and Urban Landscapes in the Ancient Near East and Egypt with Special Focus on the City of Babylon"
+pages: "113-147"
+editor: "Sinclair, Paul J.J."
+book: "The Urban Mind. Cultural and Environmental Dynamics (Uppsala)"
+title: "Cities and Urban Landscapes in the Ancient Near East and Egypt with Special Focus on the City of Babylon"
+previous_item: "20128"
+---

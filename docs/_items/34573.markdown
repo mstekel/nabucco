@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34573"
+place_id: "1294"
+parent_id: "61"
+place_name: "Tamertu-ša-Ṣēr-Antu"
+title: "Tamertu-ša-Ṣēr-Antu"
+previous_item: "34576"
+---

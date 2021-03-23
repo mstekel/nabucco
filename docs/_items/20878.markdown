@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20878"
+occurrence_id: "4509"
+short_title: "Petschow 1980-1983"
+author: "Petschow, Herbert"
+publication_year: "1980-1983"
+title: "Lehrverträge"
+pages: "556-570"
+editor: "Meissner, Bruno"
+book: "Reallexikon der Assyriologie 6 (1980-1983)"
+title: "Lehrverträge"
+previous_item: "20881"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13288"
+occurrence_id: "3371"
+short_title: "WZKM 85 (1995), 181-185"
+author: "MacGinnis, John"
+publication_year: "1995"
+title: "Statue Manufacture in Sippar"
+volume_no_: "85"
+pages: "181-185"
+journal: "Wiener Zeitschrift für die Kunde des Morgenlandes"
+title: "Statue Manufacture in Sippar"
+previous_item: "13291"
+---

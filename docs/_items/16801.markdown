@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16801"
+occurrence_id: "742"
+short_title: "Bikerman 1938"
+author: "Bickerman, Elias J. "
+publication_year: "1938"
+title: "Institutions des Séleucides, BAH 26 (Paris)"
+title: "Institutions des Séleucides, BAH 26 (Paris)"
+previous_item: "16804"
+---

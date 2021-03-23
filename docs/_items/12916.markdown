@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12916"
+occurrence_id: "1366"
+short_title: "Anatolica 7 (1979-80 publ. 1981), 99-115"
+author: "Joannès, Francis"
+publication_year: "1979-80 publ. 1981"
+title: "Les successeurs d´Alexandre le Grand en Babylonie. Essai de détermination chronologique d´après les documents cunéiformes"
+volume_no_: "7"
+pages: "99-115"
+journal: "Anatolica"
+title: "Les successeurs d´Alexandre le Grand en Babylonie. Essai de détermination chronologique d´après les documents cunéiformes"
+previous_item: "12919"
+---

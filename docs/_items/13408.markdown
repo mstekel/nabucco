@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "13408"
+occurrence_id: "4016"
+short_title: "ZA 103/1 (2013), 38-42"
+author: "Sallaberger, Walther"
+publication_year: "2013"
+title: "«Altar» und parakku ­ Zur Außenansicht der Tempel von Babylon"
+volume_no_: "2013/1"
+pages: "38-42"
+title: "«Altar» und parakku ­ Zur Außenansicht der Tempel von Babylon"
+previous_item: "13411"
+---

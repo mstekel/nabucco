@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18238"
+occurrence_id: "875"
+short_title: "Sachs;Hunger 1989"
+author: "Hunger, Hermann "
+publication_year: "1989"
+title: "Astronomical Diaries and Related Texts. Vol. 2: Diaries from 261 B.C. to 165 B.C., Österreichische Akadamie der Wissenschaften. Philosophisch-historische Klasse. Denkschriften 210 (Wien)"
+title: "Astronomical Diaries and Related Texts. Vol. 2: Diaries from 261 B.C. to 165 B.C., Österreichische Akadamie der Wissenschaften. Philosophisch-historische Klasse. Denkschriften 210 (Wien)"
+previous_item: "18241"
+---

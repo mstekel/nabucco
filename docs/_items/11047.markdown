@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11047"
+occurrence_id: "3319"
+short_title: "WeOr 19 (1988 publ. 1989), 5-34"
+author: "Kienast, Burkhart"
+publication_year: "1988 publ. 1989"
+title: "KASKAL.II ana GÌR.II ša PN šakānu"
+volume_no_: "19"
+pages: "5-34."
+journal: "Die Welt des Orients"
+title: "KASKAL.II ana GÌR.II ša PN šakānu"
+previous_item: "11050"
+---

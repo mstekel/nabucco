@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9472"
+occurrence_id: "3864"
+short_title: "TSBA 4 (1876), 256"
+author: "Tite, Lady"
+publication_year: "1976"
+title: "Babylonian Contract Tablets Presented to the Society of Biblical Archaeology, 6th April, 1875, by Lady Tite,"
+volume_no_: "4"
+pages: "256"
+journal: "Transactions of the Society of Biblical Archaeology"
+title: "Babylonian Contract Tablets Presented to the Society of Biblical Archaeology, 6th April, 1875, by Lady Tite,"
+previous_item: "9475"
+---

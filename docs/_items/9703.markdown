@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9703"
+occurrence_id: "2087"
+short_title: "JAOS 118 (1998), 91-92"
+author: "Bregstein, Linda"
+publication_year: "1998"
+title: "Rv. R. Wallenfels, Uruk. Hellenistic Seal Impressions in the Yale Babylonian Collection I (AUWE 19, 1994)"
+volume_no_: "118"
+pages: "91-92"
+journal: "Journal of the American Oriental Society"
+title: "Rv. R. Wallenfels, Uruk. Hellenistic Seal Impressions in the Yale Babylonian Collection I (AUWE 19, 1994)"
+previous_item: "9706"
+---

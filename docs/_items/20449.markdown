@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20449"
+occurrence_id: "4427"
+short_title: "Boyer 1939"
+author: "Boyer, Georges"
+publication_year: "1939"
+title: "Ṣupur X kima kunukkišu"
+pages: "208-218"
+editor: "Lautner, J.G."
+book: "Symbolae ad lura Orientis Antiqui Pertinentes Paulo Koschaker Dedicatae Koschaker. Fs. Koschaker. SD 2 (Leiden)"
+title: "Ṣupur X kima kunukkišu"
+previous_item: "20452"
+---

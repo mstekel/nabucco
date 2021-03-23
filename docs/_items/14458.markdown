@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14458"
+occurrence_id: "3665"
+short_title: "EAACO 2 (1959), 105-106"
+author: "Castellino, Giorgo R."
+publication_year: "1959"
+title: "Bïsutûn"
+volume_no_: "2"
+pages: "105-106"
+journal: "Enciclopedia dell'Arte Antica Classica e Orientale"
+title: "Bïsutûn"
+previous_item: "14461"
+---

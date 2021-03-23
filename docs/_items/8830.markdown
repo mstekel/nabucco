@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8830"
+occurrence_id: "3428"
+short_title: "ZA 65 (1976), 279-281"
+author: "von Soden, Wolfram"
+publication_year: "1976"
+title: "Rv. Schretter, Alter Orient und Hellas. Fragen zur Beeinflussung griechischen Gedankengutes aus altorientalischen Quellen"
+volume_no_: "65"
+pages: "279-281"
+journal: "Zeitschrift für Assyriologie"
+title: "Rv. Schretter, Alter Orient und Hellas. Fragen zur Beeinflussung griechischen Gedankengutes aus altorientalischen Quellen"
+previous_item: "8833"
+---

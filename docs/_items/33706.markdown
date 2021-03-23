@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "33706"
+place_id: "1485"
+parent_id: "85"
+place_name: "Tubbia"
+related_objects: "6493"
+title: "Tubbia"
+previous_item: "33709"
+---

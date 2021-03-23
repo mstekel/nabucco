@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34645"
+place_id: "670"
+parent_id: "40"
+place_name: "Til-Ajjābi"
+title: "Til-Ajjābi"
+previous_item: "34648"
+---

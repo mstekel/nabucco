@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33754"
+place_id: "598"
+parent_id: "40"
+place_name: "Parak-Māri"
+title: "Parak-Māri"
+previous_item: "33757"
+---

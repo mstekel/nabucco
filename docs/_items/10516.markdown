@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10516"
+occurrence_id: "3464"
+short_title: "ZA 81 (1991), 20-30"
+author: "Powell, Marvin A."
+publication_year: "1991"
+title: "Narām-Sîn, Son of Sargon: Ancient History, Famous Names, and a Famous Babylonian Forgery"
+volume_no_: "81"
+pages: "20-30"
+journal: "Zeitschrift für Assyriologie"
+title: "Narām-Sîn, Son of Sargon: Ancient History, Famous Names, and a Famous Babylonian Forgery"
+previous_item: "10519"
+---

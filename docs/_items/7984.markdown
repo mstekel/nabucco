@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7984"
+occurrence_id: "1892"
+short_title: "History Today 17 (1967), 301-307"
+author: "Woodcock, George"
+publication_year: "1967"
+title: "Persia and Persepolis. Part II"
+volume_no_: "17"
+pages: "301-307"
+journal: "History Today"
+title: "Persia and Persepolis. Part II"
+previous_item: "7987"
+---

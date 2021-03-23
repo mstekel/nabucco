@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18703"
+occurrence_id: "5026"
+short_title: "van der Spek 2000a"
+author: "van der Spek, Robartus"
+publication_year: "2000"
+title: "The Šatammus of Esagila in the Seleucid and Arsacid Periods"
+pages: "437-446"
+editor: "Neumann, Hans"
+book: "Assyriologica et Semitica, Fs. Oelsner. AOAT 252. (Münster)"
+title: "The Šatammus of Esagila in the Seleucid and Arsacid Periods"
+previous_item: "18706"
+---

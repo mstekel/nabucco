@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19120"
+occurrence_id: "5044"
+short_title: "Rollinger 2015"
+author: "Rollinger, Robert"
+publication_year: "2015"
+title: "Royal Strategies of Representation and the Language(s) of Power: Some Considerations on the Audience and the Dissemination of the Achaemenid Royal Inscriptions"
+pages: "117-130"
+editor: "Reinfandt, Lucian"
+book: "Official Epistolography and the Language(s) of Power. Proceedings of the First International Conference of the Research Network Imperium & Officium. Comparative Studies in Ancient Bureaucracy and Officialdom, University of Vienna, 10-12 November 2010, Papyrologica Vindobonensia 8 (Wien)"
+title: "Royal Strategies of Representation and the Language(s) of Power: Some Considerations on the Audience and the Dissemination of the Achaemenid Royal Inscriptions"
+previous_item: "19123"
+---

@@ -1,0 +1,17 @@
+---
+layout: "tablet"
+slug: "26542"
+object_id: "5825"
+museum_no_: "BM 29391"
+period: "ENB"
+day_remark: "[-]"
+month: "-"
+month_remark: "[-]"
+year_remark: "[-]"
+king: "Asb"
+king_remark: "[ ]"
+imported: "Melanie Gross (26/05/2016)"
+place_of_issue_remark: "[-] "
+title: "BM 29391"
+previous_item: "26545"
+---

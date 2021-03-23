@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18151"
+occurrence_id: "338"
+short_title: "Briant 2002"
+author: "Briant, Pierre "
+publication_year: "2002"
+title: "From Cyrus to Alexander. A History of the Persian Empire"
+title: "From Cyrus to Alexander. A History of the Persian Empire"
+previous_item: "18154"
+---

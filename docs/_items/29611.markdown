@@ -1,0 +1,14 @@
+---
+layout: "tablet"
+slug: "29611"
+object_id: "7094"
+museum_no_: "BM 31279"
+publication: "CT 22"
+text_number: "111"
+period: "-"
+type_and_content: "Letters"
+publication_name: "CT 22 111"
+archive: "Egibi/Nūr-Sîn"
+title: "BM 31279"
+previous_item: "29614"
+---

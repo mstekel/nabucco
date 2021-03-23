@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11011"
+occurrence_id: "3125"
+short_title: "RB 80 (1973 publ. 1974), 631"
+author: "Tournay, R."
+publication_year: "1973 publ. 1974"
+title: "Rv. R.H. Sack, Amēl-Marduk, 562-560 B.C. (AOATS 4)"
+volume_no_: "80"
+pages: "631"
+journal: "Revue Biblique"
+title: "Rv. R.H. Sack, Amēl-Marduk, 562-560 B.C. (AOATS 4)"
+previous_item: "11014"
+---

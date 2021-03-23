@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12214"
+occurrence_id: "3597"
+short_title: "Achaemenid History 5 (1990), 121-130"
+author: "Kuhrt, Amélie"
+publication_year: "1990"
+title: "Alexander and Babylon"
+volume_no_: "5"
+pages: "121-130"
+journal: "Achaemenid History"
+title: "Alexander and Babylon"
+previous_item: "12217"
+---

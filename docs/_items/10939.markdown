@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "10939"
+occurrence_id: "2736"
+short_title: "NABU 2010/56"
+author: "Koch, Johannes"
+title: "Nochmals: Stammte Astrolab B aus frühsumerischer Zeit?"
+volume_no_: "56"
+publication_year: "2010"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Nochmals: Stammte Astrolab B aus frühsumerischer Zeit?"
+previous_item: "10942"
+---

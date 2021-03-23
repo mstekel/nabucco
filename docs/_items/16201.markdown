@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "16201"
+occurrence_id: "4005"
+short_title: "Mesopotamia 46 (2011), 53-57"
+author: "Peruzzetto, Alessandra"
+publication_year: "2011"
+title: "The future of Babylon: mangement, conversation planning and cultural landscape at Babylon"
+volume_no_: "46"
+pages: "53-57"
+title: "The future of Babylon: mangement, conversation planning and cultural landscape at Babylon"
+previous_item: "16204"
+---

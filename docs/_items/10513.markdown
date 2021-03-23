@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10513"
+occurrence_id: "3447"
+short_title: "ZA 71 (1981), 292-296"
+author: "von Soden, Wolfram"
+publication_year: "1981"
+title: "Rv. G.J.P. McEwan, Priest and Temple in Hellenistic Babylonia (FAOS 4, 1981)"
+volume_no_: "71"
+pages: "292-296"
+journal: "Zeitschrift für Assyriologie"
+title: "Rv. G.J.P. McEwan, Priest and Temple in Hellenistic Babylonia (FAOS 4, 1981)"
+previous_item: "10516"
+---

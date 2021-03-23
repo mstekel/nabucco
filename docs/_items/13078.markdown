@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13078"
+occurrence_id: "2239"
+short_title: "JESHO 31 (1988), 186-206"
+author: "Roth, Martha T."
+publication_year: "1988"
+title: "\"She will Die by theIron Dagger\". Adultery and Neo-Babylonian Marriage"
+volume_no_: "31"
+pages: "186-206"
+journal: "Journal of the Economic and Social History of the Orient"
+title: "\"She will Die by theIron Dagger\". Adultery and Neo-Babylonian Marriage"
+previous_item: "13081"
+---

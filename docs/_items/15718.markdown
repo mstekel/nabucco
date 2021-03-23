@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15718"
+occurrence_id: "1405"
+short_title: "Antiquity 74 (2000), 971-972"
+author: "Pollock, Susan"
+publication_year: "2000"
+title: "Rv. D.T. Potts, the Archaeology of Elam: Formation and Transformation of an Ancient Iranian Site (Cambridge 1999)"
+volume_no_: "74"
+pages: "971-972"
+journal: "Antiquity"
+title: "Rv. D.T. Potts, the Archaeology of Elam: Formation and Transformation of an Ancient Iranian Site (Cambridge 1999)"
+previous_item: "15721"
+---

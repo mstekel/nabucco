@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15670"
+occurrence_id: "1080"
+short_title: "Oelsner, ZDMG 164 (2014)"
+author: "Oelsner, Joachim"
+publication_year: "2014"
+title: "Wie griechisch ist Babylonien in hellenistischer Zeit? Zu den griechischen Sprachzeugnissen aus Babylonien"
+volume_no_: "164"
+pages: "297-318"
+journal: "Zeitschrift der Deutschen Morgenländischen Gesellschaft (Wiesbaden)"
+title: "Wie griechisch ist Babylonien in hellenistischer Zeit? Zu den griechischen Sprachzeugnissen aus Babylonien"
+previous_item: "15673"
+---

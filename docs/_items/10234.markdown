@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10234"
+occurrence_id: "1928"
+short_title: "IrAn 27 (1992), 117-123"
+author: "Dandamayev, Muhammed A."
+publication_year: "1992"
+title: "Achaemenid Estates in Lahīru"
+volume_no_: "27"
+pages: "117-123"
+journal: "Iranica Antiqua"
+title: "Achaemenid Estates in Lahīru"
+previous_item: "10237"
+---

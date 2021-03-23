@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "18826"
+occurrence_id: "4579"
+short_title: "Oelsner 1997a"
+author: "Oelsner, Joachim"
+publication_year: "1997"
+title: "Erwägungen zu Aufbau, Charakter und Datierung des sog. \"Neubabylonischen Gesetzesfragments\""
+pages: "219-225"
+book: "Aufsätze zum 65. Geburtstag von Horst Klengel I, AoF 24 (1997)"
+title: "Erwägungen zu Aufbau, Charakter und Datierung des sog. \"Neubabylonischen Gesetzesfragments\""
+previous_item: "18829"
+---

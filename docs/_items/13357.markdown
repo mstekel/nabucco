@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13357"
+occurrence_id: "3743"
+short_title: "JRAS 32 (1900), 571-577"
+author: "Pinches, Theophilus G."
+publication_year: "1900"
+title: "Rv. R. Brown, Researches into the Origin of thePrimitive Constellations of the Greeks, Phoenicians, and Babylonians"
+volume_no_: "32"
+pages: "571-577"
+journal: "Journal of the Royal Asiatic Society"
+title: "Rv. R. Brown, Researches into the Origin of thePrimitive Constellations of the Greeks, Phoenicians, and Babylonians"
+previous_item: "13360"
+---

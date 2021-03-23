@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34723"
+place_id: "145"
+parent_id: "40"
+place_name: "Ālu-ša-rē‛ê"
+title: "Ālu-ša-rē‛ê"
+previous_item: "34726"
+---

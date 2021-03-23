@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11911"
+occurrence_id: "1963"
+short_title: "Iraq 42 (1980), 84-86"
+author: "Walker, Christopher,  Bromhead F."
+publication_year: "1980"
+title: "Some Mesopotamian Inscribed Vessels"
+volume_no_: "42"
+pages: "84-86"
+journal: "Iraq"
+title: "Some Mesopotamian Inscribed Vessels"
+previous_item: "11914"
+---

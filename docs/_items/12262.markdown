@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12262"
+occurrence_id: "3853"
+short_title: "TIIAz 5 (1954), 156-183"
+author: "Alijev, I.G."
+publication_year: "1954"
+title: "Über einige Fragen der ältesten Geschichte der medischen Stämme (in Azerbaijani)"
+volume_no_: "5"
+pages: "156-183"
+journal: "Tpуды Инстиеута Истории АН Аэербайджанской (Tpudy Instieuta Istorii AN Aèerbajdžanskoj)"
+title: "Über einige Fragen der ältesten Geschichte der medischen Stämme (in Azerbaijani)"
+previous_item: "12265"
+---

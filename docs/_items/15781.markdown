@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15781"
+occurrence_id: "1745"
+short_title: "BMECCJ 1 (1984), 55-62"
+author: "Cagni, Luigi"
+publication_year: "1984"
+title: "History, Administration and Culture of Achaemenid Mesopotamia - Status of Current Studies"
+volume_no_: "1"
+pages: "55-62"
+journal: "Bulletin of the Middle Eastern Culture Center in Japan"
+title: "History, Administration and Culture of Achaemenid Mesopotamia - Status of Current Studies"
+previous_item: "15784"
+---

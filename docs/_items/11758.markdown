@@ -1,0 +1,15 @@
+---
+layout: "bibliography"
+slug: "11758"
+occurrence_id: "710"
+short_title: "Rutten, RA 41 (1947)"
+author: "Rutten, Marguerite"
+publication_year: "1947"
+title: "Contestation au sujet d'une donation d'une mère à ses fils"
+volume_no_: "41"
+pages: "99-103"
+related_objects: "7666"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "Contestation au sujet d'une donation d'une mère à ses fils"
+previous_item: "11761"
+---

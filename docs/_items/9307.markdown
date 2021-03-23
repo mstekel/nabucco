@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9307"
+occurrence_id: "2978"
+short_title: "PEQ 111 (1979), 113-116"
+author: "Shea, William H."
+publication_year: "1979"
+title: "Nebukadnezzar´s Chronicle and the Date of theDestruction of Lachish III"
+volume_no_: "111"
+pages: "113-116"
+journal: "Palestine Exploration Quarterly"
+title: "Nebukadnezzar´s Chronicle and the Date of theDestruction of Lachish III"
+previous_item: "9310"
+---

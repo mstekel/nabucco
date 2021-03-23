@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34717"
+place_id: "49"
+parent_id: "4"
+place_name: "Kiš"
+title: "Kiš"
+previous_item: "34720"
+---

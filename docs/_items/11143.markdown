@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11143"
+occurrence_id: "3835"
+short_title: "Rendiconti dell´Istituto Lombardo di Scienze e Lettere 109 (1975), 242-251"
+author: "Szlechter, Émile"
+publication_year: "1975"
+title: "Le louage de maison en droit babylonien"
+volume_no_: "109"
+pages: "242-251"
+journal: "Rendiconti dell´Istituto Lombardo di Scienze e Lettere"
+title: "Le louage de maison en droit babylonien"
+previous_item: "11146"
+---

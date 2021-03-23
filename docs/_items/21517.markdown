@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21517"
+occurrence_id: "4608"
+short_title: "Brinkman 1989"
+author: "Brinkman, John A."
+publication_year: "1989"
+title: "A Legal Text from the Reign of Erība-Marduk (c.775 B.C.)"
+pages: "37-47"
+editor: "Loding, Darlene"
+book: "DUMU-E2-DUB-BA-A. Studies in theHonor of Åke W. Sjöberg (Philadelphia)"
+title: "A Legal Text from the Reign of Erība-Marduk (c.775 B.C.)"
+previous_item: "21520"
+---

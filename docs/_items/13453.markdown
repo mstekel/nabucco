@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "13453"
+occurrence_id: "1253"
+short_title: "AfO 50 (2003/2004)"
+author: "Fincke, Jeanette"
+publication_year: "2003-2004"
+title: "The Babylonian Texts of Nineveh. Report on the British Museum's Ashurbanipal Library Project"
+volume_no_: "50"
+journal: "Archiv für Orientforschung"
+title: "The Babylonian Texts of Nineveh. Report on the British Museum's Ashurbanipal Library Project"
+previous_item: "13456"
+---

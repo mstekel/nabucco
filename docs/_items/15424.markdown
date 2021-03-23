@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15424"
+occurrence_id: "2840"
+short_title: "Or 17 (1948), 532-535"
+author: "Unvala, J.M."
+publication_year: "1948"
+title: "Political and Cultural Relations at Atchana-Alalakh"
+volume_no_: "17"
+pages: "532-535"
+journal: "Orientalia"
+title: "Political and Cultural Relations at Atchana-Alalakh"
+previous_item: "15427"
+---

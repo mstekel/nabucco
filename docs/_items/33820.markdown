@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "33820"
+place_id: "1504"
+parent_id: "37"
+place_name: "Ālu-ša-Ubār "
+related_objects: "7801"
+title: "Ālu-ša-Ubār "
+previous_item: "33823"
+---

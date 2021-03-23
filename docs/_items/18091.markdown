@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18091"
+occurrence_id: "772"
+short_title: "Dittenberger 1903-1905"
+author: "Dittenberger, Wilhelmus "
+publication_year: "1903-1905"
+title: "Orientis Graeci Inscriptiones Selectae (Leipzig)"
+title: "Orientis Graeci Inscriptiones Selectae (Leipzig)"
+previous_item: "18094"
+---

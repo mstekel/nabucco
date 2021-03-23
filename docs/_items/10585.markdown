@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10585"
+occurrence_id: "3834"
+short_title: "RÉG 97 (1984), 262-263"
+author: "Garlan, Yvon"
+publication_year: "1984"
+title: "Rv. P. Briant, État et pasteurs au Moyen-Orient ancien"
+volume_no_: "97"
+pages: "1984"
+journal: "Revue des études grecques"
+title: "Rv. P. Briant, État et pasteurs au Moyen-Orient ancien"
+previous_item: "10588"
+---

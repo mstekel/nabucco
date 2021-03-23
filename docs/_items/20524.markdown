@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20524"
+occurrence_id: "4827"
+short_title: "Larsen 2000a"
+author: "Larsen, Mogens Trolle"
+publication_year: "2000"
+title: "The Old Assyrian City-State"
+pages: "77-87"
+editor: "Hansen, Mogens Herman"
+book: "A Comparative Study of thirty City-State Cultures. An Investigation Conducted by the copenhagen Polis Centre (Copenhagen)"
+title: "The Old Assyrian City-State"
+previous_item: "20527"
+---

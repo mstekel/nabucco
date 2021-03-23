@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33316"
+place_id: "682"
+parent_id: "40"
+place_name: "Til-ṣalam"
+title: "Til-ṣalam"
+previous_item: "33319"
+---

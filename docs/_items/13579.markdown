@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13579"
+occurrence_id: "1934"
+short_title: "IrAn 35 (2000), 33-46"
+author: "Vargyas, Péter"
+publication_year: "2000"
+title: "Darius I and the Daric Reconsidered"
+volume_no_: "35"
+pages: "33-46"
+journal: "Iranica Antiqua"
+title: "Darius I and the Daric Reconsidered"
+previous_item: "13582"
+---

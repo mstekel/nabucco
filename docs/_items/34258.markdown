@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "34258"
+place_id: "1472"
+parent_id: "43"
+place_name: "Ālu-ša-Bēlšunu"
+related_objects: "6534"
+title: "Ālu-ša-Bēlšunu"
+previous_item: "34261"
+---

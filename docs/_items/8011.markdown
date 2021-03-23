@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8011"
+occurrence_id: "2036"
+short_title: "JA 282 (1994), 1-18"
+author: "Grillot-Susini, Françoise"
+publication_year: "1994"
+title: "Une nouvelle approche de la morphologie élamite. Racines, bases et familles de mots"
+volume_no_: "282"
+pages: "1-18"
+journal: "Journal Asiatique"
+title: "Une nouvelle approche de la morphologie élamite. Racines, bases et familles de mots"
+previous_item: "8014"
+---

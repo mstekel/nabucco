@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21286"
+occurrence_id: "4479"
+short_title: "Tadmor 1998"
+author: "Tadmor, Hayim"
+publication_year: "1998"
+title: "Nabopolassar and Sin-shum-lishir in a Literary Perspective"
+pages: "353-357"
+editor: "Maul, Stefan M."
+book: "Festschrift für Rykle Borger zu seinem 65. Geburtstag am 24. Mai 1994, Fs. Borger, CM 10 (Groningen)"
+title: "Nabopolassar and Sin-shum-lishir in a Literary Perspective"
+previous_item: "21289"
+---

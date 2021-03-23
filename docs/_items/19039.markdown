@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19039"
+occurrence_id: "4612"
+short_title: "Brinkman 1995"
+author: "Brinkman, John A."
+publication_year: "1995"
+title: "Reflections on the Geography of Babylonia (1000-600 B.C.)"
+pages: "19-29"
+editor: "Liverani, Mario"
+book: "Neo-Assyrian Geography (Roma)"
+title: "Reflections on the Geography of Babylonia (1000-600 B.C.)"
+previous_item: "19042"
+---

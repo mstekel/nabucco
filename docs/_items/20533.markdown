@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20533"
+occurrence_id: "4875"
+short_title: "Dandamayev 1999a"
+author: "Dandamayev, Muhammed A."
+publication_year: "1999"
+title: "Achaemenid Imperial Policies and Provincial Governments"
+pages: "269-282"
+editor: "Haerinck, Ernie"
+book: "Neo-Assyrian, Median, Achaemenian and Other Studies, Fs. Stronach II, IrAnt 34 (Gent)"
+title: "Achaemenid Imperial Policies and Provincial Governments"
+previous_item: "20536"
+---

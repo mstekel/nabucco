@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12511"
+occurrence_id: "2189"
+short_title: "JCS 43-45 (1991-1993), 89-106"
+author: "Çaµirgan, G."
+publication_year: "1991-1993"
+title: "The Late Babylonian Kislīmu Ritual for Esagil"
+volume_no_: "43-45"
+pages: "89-106"
+journal: "Journal of Cuneiform Studies"
+title: "The Late Babylonian Kislīmu Ritual for Esagil"
+previous_item: "12514"
+---

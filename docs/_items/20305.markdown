@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20305"
+occurrence_id: "4762"
+short_title: "Stolper 1997"
+author: "Stolper, Matthew W."
+publication_year: "1997"
+title: "Flogging and Plucking"
+pages: "347-350"
+editor: "Andreau, Jean"
+book: "Recherche récentes sur l'empire achéménide, Topoi Supplément 1 (Lyon)"
+title: "Flogging and Plucking"
+previous_item: "20308"
+---

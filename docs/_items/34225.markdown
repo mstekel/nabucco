@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34225"
+place_id: "1042"
+parent_id: "61"
+place_name: "Hudada"
+title: "Hudada"
+previous_item: "34228"
+---

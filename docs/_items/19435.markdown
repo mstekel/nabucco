@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19435"
+occurrence_id: "4518"
+short_title: "Hunger 2004"
+author: "Hunger, Hermann"
+publication_year: "2004"
+title: "Stars, Cities and Predictions."
+pages: "16-32"
+editor: "Burnett, Charles"
+book: "Studies in the History of the Exact Sciences in Honour of David Pingree (Leiden and Boston)"
+title: "Stars, Cities and Predictions."
+previous_item: "19438"
+---

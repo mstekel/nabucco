@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8872"
+occurrence_id: "3655"
+short_title: "Bulletin of the Southern California Academy of Sciences 32/II (1933), 41-76"
+author: "Knopf, Charles S."
+publication_year: "1933"
+title: "Items of Interest from Miscellaneous Neo-Babylonian Documents,"
+volume_no_: "32/II"
+pages: "41-76"
+journal: "Bulletin of the Southern California Academy of Sciences"
+title: "Items of Interest from Miscellaneous Neo-Babylonian Documents,"
+previous_item: "8875"
+---

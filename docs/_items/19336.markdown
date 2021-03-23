@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19336"
+occurrence_id: "5093"
+short_title: "Maul 1999a"
+author: "Maul, Stefan M."
+publication_year: "1999"
+title: "Der assyrische König - Hüter der Weltordnung:"
+pages: "201-214"
+editor: "Watanabe, Kazuko"
+book: "Priests and Officials in the Ancient Near East (Heidelberg)"
+title: "Der assyrische König - Hüter der Weltordnung:"
+previous_item: "19339"
+---

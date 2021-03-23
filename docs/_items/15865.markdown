@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15865"
+occurrence_id: "2195"
+short_title: "JCS 47 (1995), 85-96"
+author: "Beaulieu, Paul-A."
+publication_year: "1995"
+title: "The Brewers of Nippur"
+volume_no_: "47"
+pages: "85-96"
+journal: "Journal of Cuneiform Studies"
+title: "The Brewers of Nippur"
+previous_item: "15868"
+---

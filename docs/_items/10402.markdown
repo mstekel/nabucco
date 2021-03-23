@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10402"
+occurrence_id: "2831"
+short_title: "OLZ 96/4-5 (2001), 515-518"
+author: "Streck, Michael , P."
+publication_year: "2001"
+title: "Rv. P. Stein, Die mittel- und neubabylonischen Königsinschriften bis zum Ende der Assyrerherrschaft. Grammatische Untersuchungen (Wiesbaden 2000)"
+volume_no_: "96/4-5"
+pages: "515-518"
+journal: "Orientalistische Literaturzeitung"
+title: "Rv. P. Stein, Die mittel- und neubabylonischen Königsinschriften bis zum Ende der Assyrerherrschaft. Grammatische Untersuchungen (Wiesbaden 2000)"
+previous_item: "10405"
+---

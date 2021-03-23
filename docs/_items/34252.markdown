@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "34252"
+place_id: "1436"
+parent_id: "46"
+place_name: "Kutha City"
+related_objects: "5692"
+title: "Kutha City"
+previous_item: "34255"
+---

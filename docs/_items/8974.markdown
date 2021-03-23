@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8974"
+occurrence_id: "1175"
+short_title: "AfO 14 (1944), 328-329"
+author: "Ungnad, Arthur"
+publication_year: "1944"
+title: "Vertrag über die Anlegung einer Erbgruft"
+volume_no_: "14"
+pages: "328-329"
+journal: "Archiv für Orientforschung"
+title: "Vertrag über die Anlegung einer Erbgruft"
+previous_item: "8977"
+---

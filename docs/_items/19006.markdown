@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19006"
+occurrence_id: "4436"
+short_title: "Wallis 1964"
+author: "Wallis, Gerhard"
+publication_year: "1964"
+title: "Aus dem Leben eines jüdischen Sklaven in Babylon,"
+pages: "14-20"
+editor: "Bammel, E."
+book: "… Und fragten nach Jesus : Beiträge aus Theologie, Kirche und Geschichte, Fs. E. Barnikol zum 70. Geburtstag (Berlin)"
+title: "Aus dem Leben eines jüdischen Sklaven in Babylon,"
+previous_item: "19009"
+---

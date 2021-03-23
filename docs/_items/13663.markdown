@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13663"
+occurrence_id: "2385"
+short_title: "L'economia palaziale 76 (1966), 559-567"
+author: "Meriggi, Piero"
+publication_year: "1966"
+title: "L´elamico: Atti del convegno sul tema: La Persia e il mondo greco-romano"
+volume_no_: "76"
+pages: "559-567"
+journal: "L'economia palaziale"
+title: "L´elamico: Atti del convegno sul tema: La Persia e il mondo greco-romano"
+previous_item: "13666"
+---

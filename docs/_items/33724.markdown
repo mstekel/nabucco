@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33724"
+place_id: "118"
+parent_id: "40"
+place_name: "Ālu-ša-Handīdi"
+title: "Ālu-ša-Handīdi"
+previous_item: "33727"
+---

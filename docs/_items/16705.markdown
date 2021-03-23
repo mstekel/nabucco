@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16705"
+occurrence_id: "4061"
+short_title: "Briant 2015"
+author: "Briant, Pierre "
+publication_year: "2015"
+title: "Darius in the Shadow of Alexander (Cambridge/London)"
+title: "Darius in the Shadow of Alexander (Cambridge/London)"
+previous_item: "16708"
+---

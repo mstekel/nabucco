@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "34030"
+place_id: "1434"
+parent_id: "82"
+place_name: "Hadālu"
+related_objects: "6015"
+title: "Hadālu"
+previous_item: "34033"
+---

@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "10918"
+occurrence_id: "2623"
+short_title: "NABU 2000/69"
+author: "Finkel, Irving L."
+title: "Semiramis and the king of Babylon"
+volume_no_: "69"
+publication_year: "2000"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Semiramis and the king of Babylon"
+previous_item: "10921"
+---

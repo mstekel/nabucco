@@ -1,0 +1,15 @@
+---
+layout: "bibliography"
+slug: "11746"
+occurrence_id: "193"
+short_title: "Weszeli and Baker, WZKM 87"
+author: "Baker, Heather D."
+publication_year: "1997"
+title: "Eseleien II"
+volume_no_: "87"
+pages: "231-247"
+related_objects: "6259"
+journal: "Wiener Zeitschrift für die Kunde des Morgenlandes"
+title: "Eseleien II"
+previous_item: "11749"
+---

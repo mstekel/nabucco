@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9667"
+occurrence_id: "1895"
+short_title: "HUCA 25 (1954), 169-208"
+author: "Lewy, Julius"
+publication_year: "1954"
+title: "The Problems Inherent in Section 70 of theBisutun Inscription"
+volume_no_: "25"
+pages: "169-208"
+journal: "Hebrew Union College Annual"
+title: "The Problems Inherent in Section 70 of theBisutun Inscription"
+previous_item: "9670"
+---

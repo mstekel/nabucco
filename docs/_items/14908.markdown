@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14908"
+occurrence_id: "3084"
+short_title: "RA 83 (1989), 53-80"
+author: "Beaulieu, Paul-A."
+publication_year: "1989"
+title: "Textes administratifs inédits d´époque hellénistique provenant des archives du Bīt Rēš"
+volume_no_: "83"
+pages: "53-80"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "Textes administratifs inédits d´époque hellénistique provenant des archives du Bīt Rēš"
+previous_item: "14911"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10531"
+occurrence_id: "3546"
+short_title: "ZDMG 113 (1963), 231-235"
+author: "Hinz, Walther"
+publication_year: "1963"
+title: "Zu § 14 der Behistun-Inschrift"
+volume_no_: "113"
+pages: "231-235"
+journal: "Zeitschrift der Deutschen Morgenländischen Gesellschaft"
+title: "Zu § 14 der Behistun-Inschrift"
+previous_item: "10534"
+---

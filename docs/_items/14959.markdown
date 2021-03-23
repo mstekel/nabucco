@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14959"
+occurrence_id: "3358"
+short_title: "WZKM 49 (1942), 312-313"
+author: "Brandenstein, Wilhelm"
+publication_year: "1942"
+title: "Rv. W. Eilers, Iranische Beamtennamen in der keilschriftlichen Überlieferung I"
+volume_no_: "49"
+pages: "312-313"
+journal: "Wiener Zeitschrift für die Kunde des Morgenlandes"
+title: "Rv. W. Eilers, Iranische Beamtennamen in der keilschriftlichen Überlieferung I"
+previous_item: "14962"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21772"
+occurrence_id: "4865"
+short_title: "Dandamayev 1995"
+author: "Dandamayev, Muhammed A."
+publication_year: "1995"
+title: "A Governor of Byblos in Sippar"
+pages: "29-31"
+editor: "Schoors, Anton"
+book: "Immigration and Emigration within the Ancient Near East, Fs. Lipiński (Leuven)"
+title: "A Governor of Byblos in Sippar"
+previous_item: "21775"
+---

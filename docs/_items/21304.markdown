@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21304"
+occurrence_id: "4575"
+short_title: "Oelsner 1995"
+author: "Oelsner, Joachim"
+publication_year: "1995"
+title: "«Number Syllabaries». Das Keilschrift-Syllabar A mit Zahlwerten"
+pages: "154-163"
+editor: "Weippert, Manfred"
+book: "Meilenstein. Festgabe für Herbert Donner, Ägypten und Altes Testament 30, Fs.Donner (Wiesbaden)"
+title: "«Number Syllabaries». Das Keilschrift-Syllabar A mit Zahlwerten"
+previous_item: "21307"
+---

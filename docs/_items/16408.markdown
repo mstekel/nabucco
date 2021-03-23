@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16408"
+occurrence_id: "2099"
+short_title: "JAOS 122/1 (2002), 105-106"
+author: "Dandamayev, Muhammed A."
+publication_year: "2002"
+title: "Rv. C. Wunsch, Das Egibi-Archiv, I: Die Felder und Gärten"
+volume_no_: "122/1"
+pages: "105-106"
+journal: "Journal of the American Oriental Society"
+title: "Rv. C. Wunsch, Das Egibi-Archiv, I: Die Felder und Gärten"
+previous_item: "16411"
+---

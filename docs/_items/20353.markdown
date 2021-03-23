@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20353"
+occurrence_id: "5018"
+short_title: "van der Spek 1992"
+author: "van der Spek, Robartus"
+publication_year: "1992"
+title: "Nippur, Sippar and Larsa in the Hellenistic Period"
+pages: "235-260"
+editor: "de Jong Ellis, Maria"
+book: "Nippur at the Centennial. Papers Read at the 35e Rencontre Assyriologique Internationale, Philadelphia, 1988, Occasional Publications of the Samuel Noah Kramer Fund 14, OPSNKF 14, RAI 35 (Philadelphia)"
+title: "Nippur, Sippar and Larsa in the Hellenistic Period"
+previous_item: "20356"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7993"
+occurrence_id: "1940"
+short_title: "Iran 42 (2004), 91-102."
+author: "Waters, Matthew, W."
+publication_year: "2004"
+title: "Cyrus and the Achaemenids"
+volume_no_: "42"
+pages: "91-102"
+journal: "Iran. Journal of the British Institute of Persian Studies"
+title: "Cyrus and the Achaemenids"
+previous_item: "7996"
+---

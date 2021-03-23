@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15673"
+occurrence_id: "1155"
+short_title: "AcAntHung 22 (1974 publ. 1976), 505-520"
+author: "Funck, Bernd"
+publication_year: "1974"
+title: "Zur Innenpolitik des Seleukos Nikator"
+volume_no_: "22"
+pages: "505-520"
+journal: "Acta Antiqua Academiae Scientiarum Hungaricae"
+title: "Zur Innenpolitik des Seleukos Nikator"
+previous_item: "15676"
+---

@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "13387"
+occurrence_id: "3903"
+short_title: "Sumer 56 (2011), 93-110"
+author: "Al-A’dami, Muhammed, Taha"
+publication_year: "2011"
+title: "The Excavation Results of Ninth Season in Sippar (1986-87)"
+volume_no_: "56"
+pages: "93-110"
+title: "The Excavation Results of Ninth Season in Sippar (1986-87)"
+previous_item: "13390"
+---

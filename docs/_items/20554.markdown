@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20554"
+occurrence_id: "4987"
+short_title: "Zadok 1986"
+author: "Zadok, Ran"
+publication_year: "1986"
+title: "Archives from Nippur in the First Millennium B.C."
+pages: "278-288"
+editor: "Veenhof, Klaas , Roelof "
+book: "Cuneiform Archives and Libraries, RAI 30, PIHANS 57 (Istanbul)"
+title: "Archives from Nippur in the First Millennium B.C."
+previous_item: "20557"
+---

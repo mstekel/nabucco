@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13507"
+occurrence_id: "1547"
+short_title: "BA 4 (1902), 1-77"
+author: "Marx, Victor"
+publication_year: "1902"
+title: "Die Stellung der Frauen in Babylonien gemäss den Kontrakten aus der Zeit von Nebukadnezar bis Darius (604-485)"
+volume_no_: "4"
+pages: "1-77"
+journal: "Beiträge zur Assyriologie"
+title: "Die Stellung der Frauen in Babylonien gemäss den Kontrakten aus der Zeit von Nebukadnezar bis Darius (604-485)"
+previous_item: "13510"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12730"
+occurrence_id: "3370"
+short_title: "WZKM 83 (1993), 31-38"
+author: "Bongenaar, A.C.V.M."
+publication_year: "1993"
+title: "Ein babylonischer Mäusefänger"
+volume_no_: "83"
+pages: "31-38"
+journal: "Wiener Zeitschrift für die Kunde des Morgenlandes"
+title: "Ein babylonischer Mäusefänger"
+previous_item: "12733"
+---

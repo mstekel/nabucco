@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20620"
+occurrence_id: "4235"
+short_title: "Kepinski 2001"
+author: "Kepinski, Christine"
+publication_year: "2001"
+title: "Tell Khoshi et l´urbanisation de la Djezireh au IIIe Millénaire"
+pages: "265-286"
+editor: "Breniquet, Catherine"
+book: "Études Mésopotamiennes, Fs. Huot (Paris)"
+title: "Tell Khoshi et l´urbanisation de la Djezireh au IIIe Millénaire"
+previous_item: "20623"
+---

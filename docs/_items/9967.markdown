@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9967"
+occurrence_id: "3513"
+short_title: "ZA 90 (2000), 78-84"
+author: "Jursa, Michael"
+publication_year: "2000"
+title: "Der 'Zahn' des Schreibers. Ein aramäischer Buchstabenname in akkadischer Transkription"
+volume_no_: "90"
+pages: "78-84"
+journal: "Zeitschrift für Assyriologie"
+title: "Der 'Zahn' des Schreibers. Ein aramäischer Buchstabenname in akkadischer Transkription"
+previous_item: "9970"
+---

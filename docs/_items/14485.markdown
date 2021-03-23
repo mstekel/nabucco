@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14485"
+occurrence_id: "3809"
+short_title: "OA 21 (1982 publ. 1983), 255-259"
+author: "Hibbert, Philippe"
+publication_year: "1982 publ. 1983"
+title: "Rv. C.B.F. Walker, Cuneiform Brick Inscriptions in the British Museum, the Ashmolean Museum, Oxford, the City of Birmingham Museums and Art Gallery, the City of Bristol Museum and Art Gallery"
+volume_no_: "21"
+pages: "255-259"
+journal: "Oriens Antiquus"
+title: "Rv. C.B.F. Walker, Cuneiform Brick Inscriptions in the British Museum, the Ashmolean Museum, Oxford, the City of Birmingham Museums and Art Gallery, the City of Bristol Museum and Art Gallery"
+previous_item: "14488"
+---

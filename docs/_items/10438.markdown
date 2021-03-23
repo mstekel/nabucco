@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10438"
+occurrence_id: "3028"
+short_title: "RA 50 (1956), 11-21"
+author: "Leibovici, Marcel"
+publication_year: "1956"
+title: "Un texte astrologique akkadien de Boghazköi"
+volume_no_: "50"
+pages: "11-21"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "Un texte astrologique akkadien de Boghazköi"
+previous_item: "10441"
+---

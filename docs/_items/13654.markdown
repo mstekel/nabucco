@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13654"
+occurrence_id: "2337"
+short_title: "JNES 58 (1999), 290-291"
+author: "Biggs, Robert D."
+publication_year: "1999"
+title: "Rv. M. Sigrist, H.H. Figulla and C.B.F. Walker, Catalogue of the Babylonian Tablets in the British Museum, Vol. II"
+volume_no_: "58"
+pages: "290-291"
+journal: "Journal of Near Eastern Studies"
+title: "Rv. M. Sigrist, H.H. Figulla and C.B.F. Walker, Catalogue of the Babylonian Tablets in the British Museum, Vol. II"
+previous_item: "13657"
+---

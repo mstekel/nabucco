@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9334"
+occurrence_id: "3122"
+short_title: "RB 70 (1963), 75-81"
+author: "Lifshitz, Baruch"
+publication_year: "1963"
+title: "Sur le culte dynastique des Séleucides"
+volume_no_: "70"
+pages: "75-81"
+journal: "Revue Biblique"
+title: "Sur le culte dynastique des Séleucides"
+previous_item: "9337"
+---

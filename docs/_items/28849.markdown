@@ -1,0 +1,15 @@
+---
+layout: "tablet"
+slug: "28849"
+object_id: "7039"
+museum_no_: "BM 34010 "
+publication: "RIAA"
+text_number: "106"
+period: "-"
+type_and_content: "Letters"
+publication_name: "RIAA 106"
+archive: "Egibi/Nūr-Sîn"
+bibliography: "reedition: to be published by Johannes Hackl. "
+title: "BM 34010 "
+previous_item: "28852"
+---

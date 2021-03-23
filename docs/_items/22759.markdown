@@ -1,0 +1,9 @@
+---
+layout: "archive"
+slug: "22759"
+archive_id: "499"
+archive_name: "Sîn-tabni"
+is_part_of: "Uruk"
+title: "Sîn-tabni"
+previous_item: "22762"
+---

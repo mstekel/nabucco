@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17410"
+occurrence_id: "531"
+short_title: "Oppert 1877"
+author: "Ménant, Joachim "
+publication_year: "1877"
+title: "Documents juridiques de l'Assyrie et de la Chaldée"
+title: "Documents juridiques de l'Assyrie et de la Chaldée"
+previous_item: "17413"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7774"
+occurrence_id: "3781"
+short_title: "KSI(N)A 61 (1963), 175-187"
+author: "Dandamayev, Muhammed A."
+publication_year: "1963"
+title: "Der Feldzug des Darius gegen den skyhischen Stamm Tigrahauda (in Russ.)"
+volume_no_: "61"
+pages: "175-187"
+journal: "Краткие сообщения Института Археологии АН ОССР (Kratkie soobŝenija Instituta Arheologii AN OSSR)"
+title: "Der Feldzug des Darius gegen den skyhischen Stamm Tigrahauda (in Russ.)"
+previous_item: "7777"
+---

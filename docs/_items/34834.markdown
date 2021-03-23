@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34834"
+place_id: "148"
+parent_id: "40"
+place_name: "Ālu-ša-Šullum"
+title: "Ālu-ša-Šullum"
+previous_item: "34837"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9877"
+occurrence_id: "3027"
+short_title: "RA 49 (1955), 42-45 and 149-153"
+author: "Lambert, Maurice"
+publication_year: "1955"
+title: "Épigraphie élamite. I u. II"
+volume_no_: "49"
+pages: "42-45 and 149-153"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "Épigraphie élamite. I u. II"
+previous_item: "9880"
+---

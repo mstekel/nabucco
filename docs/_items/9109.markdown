@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9109"
+occurrence_id: "1910"
+short_title: "IOS 8 (1978), 266-332"
+author: "Zadok, Ran"
+publication_year: "1978"
+title: "The Nippur Region during the Late Assyrian, Chaldaean and Achaemenian Periods, chiefly according to written sources"
+volume_no_: "8"
+pages: "266-332"
+journal: "Israel Oriental Studies"
+title: "The Nippur Region during the Late Assyrian, Chaldaean and Achaemenian Periods, chiefly according to written sources"
+previous_item: "9112"
+---

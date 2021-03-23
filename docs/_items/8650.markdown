@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "8650"
+occurrence_id: "2457"
+short_title: "NABU 1988/54"
+author: "Beaulieu, Paul-A."
+publication_year: "1988"
+title: "An Early Attestion of the Word hadru"
+volume_no_: "54"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "An Early Attestion of the Word hadru"
+previous_item: "8653"
+---

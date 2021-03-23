@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21097"
+occurrence_id: "4574"
+short_title: "Oelsner 1993"
+author: "Oelsner, Joachim"
+publication_year: "1993"
+title: "Aus dem Leben babylonischer \"Priester\" in der 2. Hälfte des 1. Jahrtausend v.Chr. (am Beispiel der Fande aus Uruk)"
+pages: "235-242"
+editor: "Zablocka, Julia"
+book: "Šulmu IV: Everyday Life in Ancient Near East (Prague)"
+title: "Aus dem Leben babylonischer \"Priester\" in der 2. Hälfte des 1. Jahrtausend v.Chr. (am Beispiel der Fande aus Uruk)"
+previous_item: "21100"
+---

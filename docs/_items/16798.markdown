@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16798"
+occurrence_id: "726"
+short_title: "Aaboe 1968"
+author: "Aaboe, Asger "
+publication_year: "1968"
+title: "Some Lunar Auxiliary Tables and Related Texts from the Late Babylonian Period, KDVSMM 36/12 (Kopenhagen)"
+title: "Some Lunar Auxiliary Tables and Related Texts from the Late Babylonian Period, KDVSMM 36/12 (Kopenhagen)"
+previous_item: "16801"
+---

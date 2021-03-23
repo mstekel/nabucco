@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21415"
+occurrence_id: "5167"
+short_title: "Müller and Al-Said 2002"
+author: "Al-Said, Said F."
+publication_year: "2002"
+title: "Der babylonische König Nabonid in taymanischen Inschriften"
+pages: "105-122"
+editor: "Nebes, Norbert"
+book: "Neue Beiträge zur Semitistik: Erstes Arbeitstreffen der Arbeitsgemeinschaft Semitistik in der Deutschen Morgenländischen Gesellschaft vom 11. bis 13. September 2000 an der Friedrich‐Schiller‐Universität Jena, Jenaer Beiträge zum Vorderen Orient 5 (Wiesbaden)"
+title: "Der babylonische König Nabonid in taymanischen Inschriften"
+previous_item: "21418"
+---

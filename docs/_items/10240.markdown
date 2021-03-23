@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10240"
+occurrence_id: "1960"
+short_title: "Iraq 4 (1937), 16-18"
+author: "Driver, Godfrey R."
+publication_year: "1937"
+title: "A Babylonian Tablet with an Aramaic Endorsement"
+volume_no_: "4"
+pages: "16-18"
+journal: "Iraq"
+title: "A Babylonian Tablet with an Aramaic Endorsement"
+previous_item: "10243"
+---

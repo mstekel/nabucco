@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21349"
+occurrence_id: "4815"
+short_title: "Roaf 1995"
+author: "Roaf, Michael"
+publication_year: "1995"
+title: "Media and Mesopotamia. History and Architecture"
+pages: "54-66"
+editor: "Curtis, John"
+book: "Later Mesopotamia and Iran (London)"
+title: "Media and Mesopotamia. History and Architecture"
+previous_item: "21352"
+---

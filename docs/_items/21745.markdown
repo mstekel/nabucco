@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21745"
+occurrence_id: "4721"
+short_title: "Leibovici 1956"
+author: "Leibovici, Marcel"
+publication_year: "1956"
+title: "Littérature élamite"
+pages: "326-331"
+editor: "Queneau, Raymond"
+book: "Histoire des littératures. I: Littératures anciennes, orientales et orales,  Encyclopédie de la Pléiade, par R. Queneau (Paris)"
+title: "Littérature élamite"
+previous_item: "21748"
+---

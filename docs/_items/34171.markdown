@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34171"
+place_id: "178"
+parent_id: "40"
+place_name: "Bāb-Nār-Šubat-Ea"
+title: "Bāb-Nār-Šubat-Ea"
+previous_item: "34174"
+---

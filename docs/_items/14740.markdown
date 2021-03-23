@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14740"
+occurrence_id: "2177"
+short_title: "JCS 37 (1985 publ.1986), 249-252"
+author: "Brinkman, John A."
+publication_year: "1985"
+title: "Texts and Fragments"
+volume_no_: "37"
+pages: "249-252"
+journal: "Journal of Cuneiform Studies"
+title: "Texts and Fragments"
+previous_item: "14743"
+---

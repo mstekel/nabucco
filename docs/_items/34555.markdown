@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34555"
+place_id: "1003"
+parent_id: "61"
+place_name: "Harrāti"
+title: "Harrāti"
+previous_item: "34558"
+---

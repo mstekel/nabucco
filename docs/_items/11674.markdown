@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11674"
+occurrence_id: "3692"
+short_title: "Estudios Clásicos 6 (1961), 128-129"
+author: "Rodríguez Adrados, Francisco"
+publication_year: "1961"
+title: "Rv. W. Brandenstein and M. Mayrhofer, Antiguo Persa"
+volume_no_: "6"
+pages: "128-129"
+journal: "Estudios Clásicos"
+title: "Rv. W. Brandenstein and M. Mayrhofer, Antiguo Persa"
+previous_item: "11677"
+---

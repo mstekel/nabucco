@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19087"
+occurrence_id: "4868"
+short_title: "Dandamayev 1996"
+author: "Dandamayev, Muhammed A."
+publication_year: "1996"
+title: "State Gods and Private Religion in the Near East in the First Millennium B.C.E."
+pages: "35-45"
+editor: "Berlin, Adele"
+book: "Religion and Politics in the Ancient Near East, Studies and Texts in Jewish History and Culture (Bethesda)"
+title: "State Gods and Private Religion in the Near East in the First Millennium B.C.E."
+previous_item: "19090"
+---

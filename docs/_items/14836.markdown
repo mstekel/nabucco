@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "14836"
+occurrence_id: "2694"
+short_title: "NABU 2007/14"
+author: "Lambert, Wilfred G."
+title: "Cyrus defeat of Nabonidus."
+volume_no_: "14"
+publication_year: "2007"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Cyrus defeat of Nabonidus."
+previous_item: "14839"
+---

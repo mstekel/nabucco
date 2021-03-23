@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20008"
+occurrence_id: "4280"
+short_title: "Brown 2002"
+author: "Brown, David"
+publication_year: "2002"
+title: "The Level of the Euphrates"
+pages: "37-56"
+editor: "Wunsch, Cornelia"
+book: "Mining the archives, Fs. Walker (Dresden)"
+title: "The Level of the Euphrates"
+previous_item: "20011"
+---

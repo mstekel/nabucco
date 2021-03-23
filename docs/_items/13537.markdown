@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13537"
+occurrence_id: "1709"
+short_title: "BiOr 56 (1999), 690-693"
+author: "Weszeli, Michaela"
+publication_year: "1999"
+title: "Rv. V. Donbaz and M.W. Stolper, Istanbul Murašû Texts (PIHANS 79, 1997)"
+volume_no_: "56"
+pages: "690-693"
+journal: "Bibliotheca Orientalis"
+title: "Rv. V. Donbaz and M.W. Stolper, Istanbul Murašû Texts (PIHANS 79, 1997)"
+previous_item: "13540"
+---

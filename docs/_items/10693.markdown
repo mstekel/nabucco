@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10693"
+occurrence_id: "1412"
+short_title: "AoF 1 (1974), 129-151"
+author: "Oelsner, Joachim"
+publication_year: "1974"
+title: "Keilschriftliche Beiträge zur politischen Geschichte Babyloniens in den ersten Jahrzehnten der griechischen Herrschaft (331-305 v.u.Z.)"
+volume_no_: "1"
+pages: "129-151"
+journal: "Altorientalische Forschungen"
+title: "Keilschriftliche Beiträge zur politischen Geschichte Babyloniens in den ersten Jahrzehnten der griechischen Herrschaft (331-305 v.u.Z.)"
+previous_item: "10696"
+---

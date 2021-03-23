@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12319"
+occurrence_id: "1149"
+short_title: "AcAntHung 19 (1971), 17-24"
+author: "Hinz, Walther"
+publication_year: "1971"
+title: "Zu den elamischen Burgbau-Inschriften Darius I. aus Susa"
+volume_no_: "19"
+pages: "17-24"
+journal: "Acta Antiqua Academiae Scientiarum Hungaricae"
+title: "Zu den elamischen Burgbau-Inschriften Darius I. aus Susa"
+previous_item: "12322"
+---

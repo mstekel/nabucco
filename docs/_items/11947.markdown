@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11947"
+occurrence_id: "2155"
+short_title: "JCS 2 (1948), 209-222"
+author: "Neugebauer, Otto"
+publication_year: "1948"
+title: "Solstices and Equinoxes in Babylonian Astronomy during the Seleucid Period"
+volume_no_: "2"
+pages: "209-222"
+journal: "Journal of Cuneiform Studies"
+title: "Solstices and Equinoxes in Babylonian Astronomy during the Seleucid Period"
+previous_item: "11950"
+---

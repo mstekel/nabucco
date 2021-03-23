@@ -1,0 +1,12 @@
+---
+layout: "bibliography"
+slug: "12283"
+occurrence_id: "3965"
+short_title: "NABU 2013/92"
+author: "Jiménez, Enrique"
+publication_year: "2013"
+title: "Three colophons - 1. buḫḫušu, \"to copy\"(?)"
+volume_no_: "2013/92"
+title: "Three colophons - 1. buḫḫušu, \"to copy\"(?)"
+previous_item: "12286"
+---

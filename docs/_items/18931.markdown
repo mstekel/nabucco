@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18931"
+occurrence_id: "5139"
+short_title: "Seidl 2000"
+author: "Seidl, Ursula"
+publication_year: "2000"
+title: "Babylonische und assyrische Kultbilder in den Massenmedien des 1. Jahrtausends v. Chr."
+pages: "89-114"
+editor: "Uehlinger, Christophe "
+book: "Images as media. Sources for the Cultural history of the Near East and the Eastern Mediterranean (1st millennium BCE), OBO 175, (Fribourg and Göttingen)"
+title: "Babylonische und assyrische Kultbilder in den Massenmedien des 1. Jahrtausends v. Chr."
+previous_item: "18934"
+---

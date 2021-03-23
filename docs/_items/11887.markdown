@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11887"
+occurrence_id: "1835"
+short_title: "CSSH 6 (1964), 233-249"
+author: "Finley, Moses I."
+publication_year: "1964"
+title: "Between Freedom and Slavery"
+volume_no_: "6"
+pages: "233-249"
+journal: "Comparative Studies in Society and History"
+title: "Between Freedom and Slavery"
+previous_item: "11890"
+---

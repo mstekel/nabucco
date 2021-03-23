@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15550"
+occurrence_id: "3523"
+short_title: "ZA 93 (2003), 88-115."
+author: "MacGinnis, John"
+publication_year: "2003"
+title: "A Corvée Gang from the Time of Cyrus"
+volume_no_: "93"
+pages: "88-115"
+journal: "Zeitschrift für Assyriologie"
+title: "A Corvée Gang from the Time of Cyrus"
+previous_item: "15553"
+---

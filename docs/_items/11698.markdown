@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11698"
+occurrence_id: "3820"
+short_title: "Orient-Express 1 (1991), 11"
+author: "Joannès, Francis"
+publication_year: "1991"
+title: "Réparations dans l´Esagil en 92 avant J.-C."
+volume_no_: "1"
+pages: "11"
+journal: "Orient-Express"
+title: "Réparations dans l´Esagil en 92 avant J.-C."
+previous_item: "11701"
+---

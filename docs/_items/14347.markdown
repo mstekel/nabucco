@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14347"
+occurrence_id: "3067"
+short_title: "RA 77 (1983), 92-93"
+author: "Foster, Benjamin R."
+publication_year: "1983"
+title: "Nabonidus at Kesh"
+volume_no_: "78"
+pages: "92-93"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "Nabonidus at Kesh"
+previous_item: "14350"
+---

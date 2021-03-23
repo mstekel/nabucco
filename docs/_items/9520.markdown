@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9520"
+occurrence_id: "251"
+short_title: "Oppenheim, JNES 8"
+author: "Oppenheim, A. Leo"
+publication_year: "1949"
+title: "The Golden Garments of the Gods"
+volume_no_: "8"
+pages: "172-193"
+journal: "Journal of Near Eastern Studies "
+title: "The Golden Garments of the Gods"
+previous_item: "9523"
+---

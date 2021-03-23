@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20443"
+occurrence_id: "4395"
+short_title: "Vallat 1998"
+author: "Vallat, François"
+publication_year: "1998"
+title: "Le royaume élamite de Zamin et les «lettres de Ninive»"
+pages: "95-106"
+editor: "Haerinck, Ernie"
+book: "Neo-Assyrian, Median and other studies in honor of David Stronach, IrAn 33 (Ghent)"
+title: "Le royaume élamite de Zamin et les «lettres de Ninive»"
+previous_item: "20446"
+---

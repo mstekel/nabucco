@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16432"
+occurrence_id: "2229"
+short_title: "JEOL 34 (1995/1996), 45-49"
+author: "Zawadzki, Stefan"
+publication_year: "1995-1996"
+title: "The Circumstances of Darius II´s Accession in the Light of BM 54557 as Against Ctesias´ Account"
+volume_no_: "34"
+pages: "45-49"
+journal: "Jaarbericht van het Voor-Aziatisch-Egyptisch-Gezelschap Ex Oriente Lux"
+title: "The Circumstances of Darius II´s Accession in the Light of BM 54557 as Against Ctesias´ Account"
+previous_item: "16435"
+---

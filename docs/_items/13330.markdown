@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13330"
+occurrence_id: "3599"
+short_title: "Achaemenid History 8 (1994), 229-234"
+author: "Dandamayev, Muhammed A."
+publication_year: "1994"
+title: "Achaemenid Mesopotamia. Traditions and innovations"
+volume_no_: "8"
+pages: "229-234"
+journal: "Achaemenid History"
+title: "Achaemenid Mesopotamia. Traditions and innovations"
+previous_item: "13333"
+---

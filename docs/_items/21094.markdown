@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21094"
+occurrence_id: "4558"
+short_title: "Høyrup 2012"
+author: "Høyrup, Jens"
+publication_year: "2012"
+title: "Was Babylonian Mathematics Created by ‘Babylonian Mathematicians’?"
+pages: "105-119"
+editor: "Neumann, Hans"
+book: "Wissenskultur im Alten Orient. Weltanschauung, Wissenschaften, Techniken, Technologien. 4. Internationales Colloquium der Deutschen Orient-Gesellschaft 20.-22. Februar 2002, Münster, Colloquien der Deutschen Orient-Gesellschaft 4 (Wiesbaden)"
+title: "Was Babylonian Mathematics Created by ‘Babylonian Mathematicians’?"
+previous_item: "21097"
+---

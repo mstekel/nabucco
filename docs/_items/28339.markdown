@@ -1,0 +1,16 @@
+---
+layout: "tablet"
+slug: "28339"
+object_id: "6731"
+nabucco_no_: "L1648"
+museum_no_: "L 1648"
+publication: "Joannès 1989"
+text_number: "243"
+duplicate: "Bodleian A 112"
+type_and_content: "-"
+imported: "Melanie Gross (12/12/2016)"
+publication_name: "Joannès 1989 243"
+related_objects: "6782"
+title: "L 1648"
+previous_item: "28342"
+---

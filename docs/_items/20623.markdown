@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20623"
+occurrence_id: "4251"
+short_title: "Wunsch 2002"
+author: "Wunsch, Cornelia"
+publication_year: "2002"
+title: "\"Du hast meinen Sohn geschlagen!\""
+pages: "355-364"
+editor: "Wunsch, Cornelia"
+book: "Mining the archives, Fs. Walker (Dresden)"
+title: "\"Du hast meinen Sohn geschlagen!\""
+previous_item: "20626"
+---

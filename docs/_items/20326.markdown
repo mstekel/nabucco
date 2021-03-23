@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20326"
+occurrence_id: "4874"
+short_title: "Dandamayev 1999"
+author: "Dandamayev, Muhammed A."
+publication_year: "1999"
+title: "Documentary Evidence on Nergal´s Cult in Sippar and Babylon in the Sixth Century B.C."
+pages: "109-116"
+editor: "Böck, Barbara"
+book: "Munuscula Mesopotamica, Fs. Renger, AOAT 267 (Münster)"
+title: "Documentary Evidence on Nergal´s Cult in Sippar and Babylon in the Sixth Century B.C."
+previous_item: "20329"
+---

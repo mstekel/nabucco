@@ -1,0 +1,17 @@
+---
+layout: "tablet"
+slug: "35257"
+object_id: "5753"
+museum_no_: "BM 114758"
+period: "ENB"
+day_remark: "no day"
+month: "-"
+month_remark: "no month"
+year_remark: "no year"
+king: "Kan"
+king_remark: "-"
+paraphrase: "Trees have been cut down in the garden of &Scaron;ama&scaron;. Willows (<em>hilēpu</em>) and datepalms and the length of beams."
+imported: "Melanie Gross (20/05/2017)"
+title: "BM 114758"
+previous_item: "35260"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8536"
+occurrence_id: "1845"
+short_title: "DAFI 4 (1974), 61-72"
+author: "Stronach, David"
+publication_year: "1974"
+title: "La statue de Darius le Grand découverte à Suse"
+volume_no_: "4"
+pages: "61-72"
+journal: "Cahiers de la Délégation Archéologique Française en Iran"
+title: "La statue de Darius le Grand découverte à Suse"
+previous_item: "8539"
+---

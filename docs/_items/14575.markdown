@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14575"
+occurrence_id: "1287"
+short_title: "AJA 55 (1951), 332-333"
+author: "Goetze, Albrecht"
+publication_year: "1951"
+title: "Rv. H.H. Figulla, Business Documents of the New-Babylonian Period"
+volume_no_: "55"
+pages: "332-333"
+journal: "American Journal of Archaeology"
+title: "Rv. H.H. Figulla, Business Documents of the New-Babylonian Period"
+previous_item: "14578"
+---

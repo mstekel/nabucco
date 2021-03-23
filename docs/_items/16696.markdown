@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16696"
+occurrence_id: "879"
+short_title: "San Nicolò 1922"
+author: "Nicolò, Mariano San"
+publication_year: "1922"
+title: "Die Schlussklauseln der altbabylonischen Kauf- and Tauschverträge. Ein Beitrag zur Geschichte des Barkaufes, Münchener Beiträge zur Papyrusforschung and antiken Rechtsgeschichte 4 (München)"
+title: "Die Schlussklauseln der altbabylonischen Kauf- and Tauschverträge. Ein Beitrag zur Geschichte des Barkaufes, Münchener Beiträge zur Papyrusforschung and antiken Rechtsgeschichte 4 (München)"
+previous_item: "16699"
+---

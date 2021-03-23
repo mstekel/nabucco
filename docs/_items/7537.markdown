@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "7537"
+occurrence_id: "2504"
+short_title: "NABU 1994/103"
+author: "Joannès, Francis"
+title: "A propos du zazakku à l´époque néo-babylonienne"
+volume_no_: "103"
+publication_year: "1994"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "A propos du zazakku à l´époque néo-babylonienne"
+previous_item: "7540"
+---

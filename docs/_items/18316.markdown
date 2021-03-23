@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18316"
+occurrence_id: "557"
+short_title: "SAA 3"
+author: "Livingstone, Alasdair "
+publication_year: "1989"
+title: "State Archives of Assyria (SAA), volume III"
+title: "State Archives of Assyria (SAA), volume III"
+previous_item: "18319"
+---

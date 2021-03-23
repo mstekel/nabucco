@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12898"
+occurrence_id: "1268"
+short_title: "AfO 51 (2005/2006), 412-417"
+author: "Werba, Chlodwig H."
+publication_year: "2005-2006"
+title: "Rv. R. Schmitt. Meno-logium Bagistano-Persepolitanum. Studien zu den altpersischen Monatsnamen and ihren elamischen Wiedergaben (SbÖAW 705, Veröffentlichungen zur Iranistik 30)"
+volume_no_: "51"
+pages: "412-417"
+journal: "Archiv für Orientforschung"
+title: "Rv. R. Schmitt. Meno-logium Bagistano-Persepolitanum. Studien zu den altpersischen Monatsnamen and ihren elamischen Wiedergaben (SbÖAW 705, Veröffentlichungen zur Iranistik 30)"
+previous_item: "12901"
+---

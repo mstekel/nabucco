@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20527"
+occurrence_id: "4843"
+short_title: "Dandamayev 1979a"
+author: "Dandamayev, Muhammed A."
+publication_year: "1979"
+title: "The Social Position of Neo-Babylonian Scribes"
+pages: "35-39"
+editor: "Klengel, Horst"
+book: "Gesellschaft und Kultur im alten Vorderasien (Leipzig)"
+title: "The Social Position of Neo-Babylonian Scribes"
+previous_item: "20530"
+---

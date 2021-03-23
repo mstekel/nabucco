@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21547"
+occurrence_id: "4768"
+short_title: "Stolper 2001"
+author: "Stolper, Matthew W."
+publication_year: "2001"
+title: "The testament of Mannu-kâ-attar"
+pages: "467-473"
+editor: "van Soldt, Wilfred H."
+book: "Studies Presented to Klaas R. Veenhof on the Occasion of his Sixty-Fifth Birthday, Fs. Veenhof, PIHANS 89 (Leiden)"
+title: "The testament of Mannu-kâ-attar"
+previous_item: "21550"
+---

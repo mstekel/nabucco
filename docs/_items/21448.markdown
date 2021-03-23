@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21448"
+occurrence_id: "4239"
+short_title: "Tuplin 2008"
+author: "Tuplin, Christopher"
+publication_year: "2008"
+title: "Taxation and death: certainties in the Persepolis Fortification archive?"
+pages: "317-386"
+editor: "Stolper, Matthew W."
+book: "L'archive des Fortifications de Persepolis. État des questions et perspectives de recherches, Persika 12"
+title: "Taxation and death: certainties in the Persepolis Fortification archive?"
+previous_item: "21451"
+---

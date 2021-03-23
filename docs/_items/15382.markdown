@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "15382"
+occurrence_id: "2615"
+short_title: "NABU 1999/86"
+author: "Tavernier, Jan"
+title: "The Origin of DB Aram. 66-69"
+volume_no_: "86"
+publication_year: "1999"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "The Origin of DB Aram. 66-69"
+previous_item: "15385"
+---

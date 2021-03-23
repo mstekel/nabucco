@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10318"
+occurrence_id: "2379"
+short_title: "Ktèma 22 (1997), 119-133"
+author: "Joannès, Francis"
+publication_year: "1997"
+title: "La mention des enfants dans les textes néo-babyloniens"
+volume_no_: "22"
+pages: "119-133"
+journal: "Ktèma"
+title: "La mention des enfants dans les textes néo-babyloniens"
+previous_item: "10321"
+---

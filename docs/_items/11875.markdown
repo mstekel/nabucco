@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11875"
+occurrence_id: "1770"
+short_title: "BSA 8 (1995), 215-240"
+author: "van Driel, Govert"
+publication_year: "1995"
+title: "Cattle in the Neo-Babylonian period"
+volume_no_: "8"
+pages: "215-240"
+journal: "Bulletin on Sumerian Agriculture"
+title: "Cattle in the Neo-Babylonian period"
+previous_item: "11878"
+---

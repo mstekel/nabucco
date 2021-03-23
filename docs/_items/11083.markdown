@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11083"
+occurrence_id: "3515"
+short_title: "ZA 91 (2001), 303-305"
+author: "Deutscher, Guy"
+publication_year: "2001"
+title: "Rv. P. Stein, Die mittel- und neubabylonischen Königsinschriften bis zum Ende der Assyrerherrschaft. Grammatische Untersuchungen (Wiesbaden 2000)"
+volume_no_: "91"
+pages: "303-305"
+journal: "Zeitschrift für Assyriologie"
+title: "Rv. P. Stein, Die mittel- und neubabylonischen Königsinschriften bis zum Ende der Assyrerherrschaft. Grammatische Untersuchungen (Wiesbaden 2000)"
+previous_item: "11086"
+---

@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34900"
+place_id: "1207"
+parent_id: "61"
+place_name: "Rūdaja-ša-Bīt-Nabû"
+title: "Rūdaja-ša-Bīt-Nabû"
+previous_item: "34903"
+---

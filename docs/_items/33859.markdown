@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33859"
+place_id: "505"
+parent_id: "40"
+place_name: "Huṣṣēti-ša-malahhāni"
+title: "Huṣṣēti-ša-malahhāni"
+previous_item: "33862"
+---

@@ -1,0 +1,12 @@
+---
+layout: "bibliography"
+slug: "18397"
+occurrence_id: "222"
+short_title: "TBER 6"
+author: "Durand, Jean-Marie "
+publication_year: "1981"
+title: "Textes babyloniens d'époque récente"
+related_objects: "6052"
+title: "Textes babyloniens d'époque récente"
+previous_item: "18400"
+---

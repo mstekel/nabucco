@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "8116"
+occurrence_id: "2602"
+short_title: "NABU 1999/100"
+author: "Testen, David D."
+title: "Parsing an Iranian Participle (Dar. 388 : 2)"
+volume_no_: "100"
+publication_year: "1999"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Parsing an Iranian Participle (Dar. 388 : 2)"
+previous_item: "8119"
+---

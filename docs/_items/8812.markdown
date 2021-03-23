@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8812"
+occurrence_id: "3331"
+short_title: "WeOr 27 (1996), 181-182"
+author: "Gasche, Hermann"
+publication_year: "1996"
+title: "Rv. M.A. Dandamayev, A Political History of the Achaemenid Empire (Leiden 1989)"
+volume_no_: "27"
+pages: "181-182"
+journal: "Die Welt des Orients"
+title: "Rv. M.A. Dandamayev, A Political History of the Achaemenid Empire (Leiden 1989)"
+previous_item: "8815"
+---

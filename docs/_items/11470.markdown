@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "11470"
+occurrence_id: "2592"
+short_title: "NABU 1998/55"
+author: "Zadok, Ran"
+title: "More Assyrians in Babylonian sources"
+volume_no_: "55"
+publication_year: "1998"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "More Assyrians in Babylonian sources"
+previous_item: "11473"
+---

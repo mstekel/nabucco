@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "20197"
+occurrence_id: "4185"
+short_title: "Bagg 2011"
+author: "Bagg, Ariel M."
+publication_year: "2011"
+title: "Mesopotamische Bauzeichnungen"
+pages: "543-586"
+editor: "Selz, G.J."
+title: "Mesopotamische Bauzeichnungen"
+previous_item: "20200"
+---

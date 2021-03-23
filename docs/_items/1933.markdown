@@ -1,0 +1,11 @@
+---
+layout: "glossary"
+slug: "1933"
+concept_id: "1597"
+hierarchy: "General keywords"
+label: "Dialogue document"
+related_objects: "124"
+type: "148"
+title: "Dialogue document"
+previous_item: "1936"
+---

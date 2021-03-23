@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8767"
+occurrence_id: "3089"
+short_title: "RA 85 (1991), 75-77"
+author: "Horowitz, Wayne"
+publication_year: "1991"
+title: "Antiochus I, Esagil, and a Celebration of the Ritual for Renovation of the Temples"
+volume_no_: "85"
+pages: "75-77"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "Antiochus I, Esagil, and a Celebration of the Ritual for Renovation of the Temples"
+previous_item: "8770"
+---

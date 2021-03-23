@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19210"
+occurrence_id: "4421"
+short_title: "Tolini 2013"
+author: "Tolini, Gauthier"
+publication_year: "2013"
+title: "Les ressources de la Babylonie et la table de Darius le Grand (522-486)"
+pages: "145-162"
+editor: "Lion, Brigitte"
+book: "Le banquet du monarque dans le monde antique (Rennes Tours)"
+title: "Les ressources de la Babylonie et la table de Darius le Grand (522-486)"
+previous_item: "19213"
+---

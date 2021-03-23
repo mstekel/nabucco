@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18652"
+occurrence_id: "4754"
+short_title: "Worthington 2010"
+author: "Worthington, Martin"
+publication_year: "2010"
+title: "i-ba-as-su-ú vs. i-ba-as-su from Old to Neo-Babylonian."
+pages: "661-708"
+editor: "Kogan, Leonid"
+book: "Language in the Ancient Near East. Proceedings of the53e Rencontre Assyriologique Internationale, Vol 1, Part 2, RAI 53 (Winona Lake)"
+title: "i-ba-as-su-ú vs. i-ba-as-su from Old to Neo-Babylonian."
+previous_item: "18655"
+---

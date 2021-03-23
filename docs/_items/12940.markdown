@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12940"
+occurrence_id: "1497"
+short_title: "ArOr 6 (1933), 203-206"
+author: "Steinmetzer, F.X."
+publication_year: "1933"
+title: "Eqlu libbû eqli"
+volume_no_: "6"
+pages: "203-206"
+journal: "Archív Orientalí"
+title: "Eqlu libbû eqli"
+previous_item: "12943"
+---

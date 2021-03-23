@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "14593"
+occurrence_id: "1387"
+short_title: "AnOr 9 (1934)"
+author: "Pohl, Alfred"
+publication_year: "1934"
+title: "Neubabylonische Rechtsurkunden aus den Berliner Staatlichen Museen. II"
+volume_no_: "9"
+journal: "Analecta Orientalia"
+title: "Neubabylonische Rechtsurkunden aus den Berliner Staatlichen Museen. II"
+previous_item: "14596"
+---

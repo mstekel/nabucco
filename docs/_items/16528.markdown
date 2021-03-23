@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16528"
+occurrence_id: "628"
+short_title: "Walker 1981"
+author: "Walker, Christopher  Bromhead F."
+publication_year: "1981"
+title: "Cuneiform Brick Inscriptions in the British Museum, the Ashmolean Museum, Oxford, the City of Birmingham Museums and Art Gallery, the City of Bristol Museum and Art Gallery"
+title: "Cuneiform Brick Inscriptions in the British Museum, the Ashmolean Museum, Oxford, the City of Birmingham Museums and Art Gallery, the City of Bristol Museum and Art Gallery"
+previous_item: "16531"
+---

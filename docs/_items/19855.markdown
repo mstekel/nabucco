@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19855"
+occurrence_id: "4552"
+short_title: "Margueron 2001"
+author: "Margueron, Jean-Claude"
+publication_year: "2001"
+title: "Aux origines du plan de Babylone"
+pages: "321-345"
+editor: "Breniquet, Catherine"
+book: "Études Mésopotamiennes, Fs. Huot (Paris)"
+title: "Aux origines du plan de Babylone"
+previous_item: "19858"
+---

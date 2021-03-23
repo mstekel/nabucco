@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16129"
+occurrence_id: "3620"
+short_title: "AoF 24 (1997), 366-374"
+author: "Röllig, Wolfgang"
+publication_year: "1997"
+title: "Aramaica Haburensia II: Zwei datierte aramäische Urkunden aus Tell Šēh Hamad"
+volume_no_: "24"
+pages: "366-374"
+journal: "Altorientalische Forschungen"
+title: "Aramaica Haburensia II: Zwei datierte aramäische Urkunden aus Tell Šēh Hamad"
+previous_item: "16132"
+---

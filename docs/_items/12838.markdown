@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "12838"
+occurrence_id: "3950"
+short_title: "AoF 40/1 (2013), 55-67"
+author: "Hackl, Johannes"
+publication_year: "2013"
+title: "Bitten und Danken in Briefen: Zur Deutung der Wendung ana appi šūṣû"
+volume_no_: "40/1"
+pages: "55-67"
+title: "Bitten und Danken in Briefen: Zur Deutung der Wendung ana appi šūṣû"
+previous_item: "12841"
+---

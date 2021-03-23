@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18685"
+occurrence_id: "4930"
+short_title: "Beaulieu 2005"
+author: "Beaulieu, Paul-A."
+publication_year: "2005"
+title: "Eanna's contribution to the Construction of the North Palaca at Babylon."
+pages: "45-73"
+editor: "Baker, Heather D."
+book: "Approaching the Babylonian Economy, AOAT 330 (Münster)"
+title: "Eanna's contribution to the Construction of the North Palaca at Babylon."
+previous_item: "18688"
+---

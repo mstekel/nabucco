@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17812"
+occurrence_id: "622"
+short_title: "von der Osten 1961"
+author: "von der Osten, Hans Henning "
+publication_year: "1961"
+title: "Il Mondo dei Persiani (sotto la revisione scientifica del prof. A. Pagliaro)"
+title: "Il Mondo dei Persiani (sotto la revisione scientifica del prof. A. Pagliaro)"
+previous_item: "17815"
+---

@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "11461"
+occurrence_id: "2543"
+short_title: "NABU 1996/26"
+author: "Jursa, Michael"
+title: "*atkalluššu, der «Träger»"
+volume_no_: "26"
+publication_year: "1996"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "*atkalluššu, der «Träger»"
+previous_item: "11464"
+---

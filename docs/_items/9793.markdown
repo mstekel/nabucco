@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "9793"
+occurrence_id: "2573"
+short_title: "NABU 1997/88"
+author: "Zadok, Ran"
+title: "Mushrooms"
+volume_no_: "88"
+publication_year: "1997"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Mushrooms"
+previous_item: "9796"
+---

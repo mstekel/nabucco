@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15994"
+occurrence_id: "2890"
+short_title: "Or 5 (1922), 42-63 [45 = 18 168]"
+author: "Deimel, Anton"
+publication_year: "1922"
+title: "Miszellen"
+volume_no_: "5"
+pages: "42-63"
+journal: "Orientalia"
+title: "Miszellen"
+previous_item: "15997"
+---

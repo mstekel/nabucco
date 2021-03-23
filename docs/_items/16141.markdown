@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16141"
+occurrence_id: "3684"
+short_title: "ErIs 24  (1993), 221-230"
+author: "Weisberg, David B."
+publication_year: "1993"
+title: "The R. Campbell Thompson Tablets Published by Ivan Lee Holt"
+volume_no_: "24"
+pages: "221-230"
+journal: "Eretz Israel"
+title: "The R. Campbell Thompson Tablets Published by Ivan Lee Holt"
+previous_item: "16144"
+---

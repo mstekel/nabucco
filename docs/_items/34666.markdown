@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34666"
+place_id: "1006"
+parent_id: "61"
+place_name: "Harrāti-ša-ahi"
+title: "Harrāti-ša-ahi"
+previous_item: "34669"
+---

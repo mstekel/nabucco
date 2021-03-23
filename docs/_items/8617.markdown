@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8617"
+occurrence_id: "2279"
+short_title: "JNES 2 (1943), 302-306"
+author: "Kent, Roland G."
+publication_year: "1943"
+title: "Old Persian Texts IV: The List of Provinces"
+volume_no_: "2"
+pages: "302-306"
+journal: "Journal of Near Eastern Studies"
+title: "Old Persian Texts IV: The List of Provinces"
+previous_item: "8620"
+---

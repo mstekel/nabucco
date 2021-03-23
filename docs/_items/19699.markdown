@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "19699"
+occurrence_id: "4823"
+short_title: "Bogoljubov 1962"
+author: "Bogoljubov, Michail , N."
+publication_year: "1962"
+title: "Altpersische Etymologien (in Russ.)"
+pages: "367-370"
+book: "Древний мир (Сборник статей. Академику В. В. Струве 1962) [Drevnij mir (Sbornik statej. Akademiku V. V. Struve 1962)]"
+title: "Altpersische Etymologien (in Russ.)"
+previous_item: "19702"
+---

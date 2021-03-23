@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8437"
+occurrence_id: "1310"
+short_title: "Akkadica 101 (1997), 30-35"
+author: "Waerzeggers, Caroline"
+publication_year: "1997"
+title: "Le précatif: forme de politesse en néo-babylonien"
+volume_no_: "101"
+pages: "30-35"
+journal: "Akkadica"
+title: "Le précatif: forme de politesse en néo-babylonien"
+previous_item: "8440"
+---

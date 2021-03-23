@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9406"
+occurrence_id: "3512"
+short_title: "ZA 90 (2000), 301-304"
+author: "Seidl, Ursula"
+publication_year: "2000"
+title: "Rv. D.T. Potts, the Archaeology of Elam: Formation and Transformation of an Ancient Iranian Site (Cambridge 1999)"
+volume_no_: "90"
+pages: "301-304"
+journal: "Zeitschrift für Assyriologie"
+title: "Rv. D.T. Potts, the Archaeology of Elam: Formation and Transformation of an Ancient Iranian Site (Cambridge 1999)"
+previous_item: "9409"
+---

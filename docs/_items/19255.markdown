@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19255"
+occurrence_id: "4661"
+short_title: "Hecker 2001"
+author: "Hecker, Karl"
+publication_year: "2001"
+title: "Neubabylonische Königsinschriften"
+pages: "11-20"
+editor: "Kaiser, O."
+book: "Ergänzungslieferung, TUAT 4 (Gütersloh)"
+title: "Neubabylonische Königsinschriften"
+previous_item: "19258"
+---

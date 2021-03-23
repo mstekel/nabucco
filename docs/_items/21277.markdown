@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21277"
+occurrence_id: "4431"
+short_title: "Aperghis 1998"
+author: "Aperghis, Gerassimos G."
+publication_year: "1998"
+title: "The Persepolis Fortification Texts: AnOther Look"
+pages: "35-62"
+editor: "Kuhrt, Amélie"
+book: "Studies in Persian History, Fs. Lewis, (Leiden)"
+title: "The Persepolis Fortification Texts: AnOther Look"
+previous_item: "21280"
+---

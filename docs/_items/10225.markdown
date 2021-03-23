@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10225"
+occurrence_id: "1880"
+short_title: "Göttinger Miszellen 26 (1977), 65-68"
+author: "Zadok, Ran"
+publication_year: "1977"
+title: "On some Egyptians in First Millennium Mesopotamia"
+volume_no_: "26"
+pages: "65-68"
+journal: "Göttinger Miszellen"
+title: "On some Egyptians in First Millennium Mesopotamia"
+previous_item: "10228"
+---

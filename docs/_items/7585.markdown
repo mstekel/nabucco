@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7585"
+occurrence_id: "2762"
+short_title: "OLZ 10 (1907), 140-145"
+author: "Ungnad, Arthur"
+publication_year: "1907"
+title: "Babylonische Miszellen"
+volume_no_: "10"
+pages: "140-145"
+journal: "Orientalistische Literaturzeitung"
+title: "Babylonische Miszellen"
+previous_item: "7588"
+---

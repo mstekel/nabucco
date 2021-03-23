@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13489"
+occurrence_id: "1449"
+short_title: "Archaeology 13 (1960), 162-171"
+author: "Cameron, George G."
+publication_year: "1960"
+title: "The Monuments of King Darius at Bisitun"
+volume_no_: "13"
+pages: "162-171"
+journal: "Archaeology"
+title: "The Monuments of King Darius at Bisitun"
+previous_item: "13492"
+---

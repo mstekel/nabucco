@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17539"
+occurrence_id: "532"
+short_title: "Paper 1955"
+author: "Paper, Herbert H. "
+publication_year: "1955"
+title: "The Phonology and Morphology of Royal Achaemenid Elamite"
+title: "The Phonology and Morphology of Royal Achaemenid Elamite"
+previous_item: "17542"
+---

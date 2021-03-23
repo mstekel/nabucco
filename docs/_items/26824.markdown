@@ -1,0 +1,18 @@
+---
+layout: "tablet"
+slug: "26824"
+object_id: "6055"
+museum_no_: "BM 40560"
+period: "ENB"
+place_of_issue: "Babylon city"
+day_remark: "-"
+month: "VII"
+month_remark: "-"
+year_remark: "[-]"
+king: "Sargon II"
+king_remark: "-"
+imported: "Melanie Gross (26/05/2016)"
+day_babylonian_: "19"
+title: "BM 40560"
+previous_item: "26827"
+---

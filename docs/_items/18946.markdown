@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "18946"
+occurrence_id: "234"
+short_title: "Brinkman 1964"
+author: "Brinkman, John A."
+publication_year: "1964"
+title: "Merodach-Baladan II"
+pages: "6-53"
+book: "Studies Presented to A. Leo Oppenheim, June 7, 1964"
+title: "Merodach-Baladan II"
+previous_item: "18949"
+---

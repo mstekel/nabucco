@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17833"
+occurrence_id: "770"
+short_title: "del Monte 1997"
+author: "del Monte, Giuseppe F. "
+publication_year: "1997"
+title: "Testi dalla Babilonia Ellenistica, Vol. I: Testi Cronografici, Studi Ellenistici IX (Pisa and Roma)"
+title: "Testi dalla Babilonia Ellenistica, Vol. I: Testi Cronografici, Studi Ellenistici IX (Pisa and Roma)"
+previous_item: "17836"
+---

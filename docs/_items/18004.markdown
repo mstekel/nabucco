@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18004"
+occurrence_id: "88"
+short_title: "Cagni 1990"
+author: "Cagni, Luigi "
+publication_year: "1990"
+title: "Considérations sur les textes babyloniens de Neirab près d'Alep"
+volume_no_: "2"
+pages: "169-185"
+related_objects: "2905"
+title: "Considérations sur les textes babyloniens de Neirab près d'Alep"
+previous_item: "18007"
+---

@@ -1,0 +1,10 @@
+---
+layout: "glossary"
+slug: "35545"
+concept_id: "1309"
+label: "Supply"
+hierarchy: "Supply"
+type: "172"
+title: "Supply"
+previous_item: "35548"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10684"
+occurrence_id: "1362"
+short_title: "AMIT 42 (2010), 315-318."
+author: "Schmitt, Rüdiger"
+publication_year: "2010"
+title: "Rv. P. Briant, W. Henkelman, M.W. Stolper (eds), L'archive des Fortifications de Persepolis. État des questions et perspectives de recherches (Persika 12, 2008)."
+volume_no_: "42"
+pages: "315-318"
+journal: "Archäologische Mitteilungen aus Iran und Turan"
+title: "Rv. P. Briant, W. Henkelman, M.W. Stolper (eds), L'archive des Fortifications de Persepolis. État des questions et perspectives de recherches (Persika 12, 2008)."
+previous_item: "10687"
+---

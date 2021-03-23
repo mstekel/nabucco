@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20929"
+occurrence_id: "4781"
+short_title: "Jursa 2003"
+author: "Jursa, Michael"
+publication_year: "2003"
+title: "Observations on the problem of the Median \"empire\" on the basis of Babylonian Sources."
+pages: "169-179"
+editor: "Lanfranchi, Giovanni , B."
+book: "Conitnuity of Empire (?). Assyria, Media, Persia (Padova)"
+title: "Observations on the problem of the Median \"empire\" on the basis of Babylonian Sources."
+previous_item: "20932"
+---

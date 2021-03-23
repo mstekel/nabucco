@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20314"
+occurrence_id: "4810"
+short_title: "Streck 2010"
+author: "Streck, Michael , P."
+publication_year: "2010"
+title: "Innovations in the Neo-Babylonian Lexicon."
+pages: "647-660"
+editor: "Kogan, Leonid"
+book: "Language in the Ancient Near East. Proceedings of the53e Rencontre Assyriologique Internationale, Vol 1, Part 2, RAI 53 (Winona Lake)"
+title: "Innovations in the Neo-Babylonian Lexicon."
+previous_item: "20317"
+---

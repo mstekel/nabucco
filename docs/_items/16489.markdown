@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16489"
+occurrence_id: "397"
+short_title: "Eddy 1961"
+author: "Eddy, Samuel K. "
+publication_year: "1961"
+title: "The King is Dead. Studies in the Near Eastern Resistance to Hellenism, 334-31 B.C."
+title: "The King is Dead. Studies in the Near Eastern Resistance to Hellenism, 334-31 B.C."
+previous_item: "16492"
+---

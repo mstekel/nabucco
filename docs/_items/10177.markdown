@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10177"
+occurrence_id: "1621"
+short_title: "Berytus 8 (1944), 73-83"
+author: "Bickerman, Elias J."
+publication_year: "1944"
+title: "Notes on Seleucid and Parthian Chronology"
+volume_no_: "8"
+pages: "73-83"
+journal: "Berytus"
+title: "Notes on Seleucid and Parthian Chronology"
+previous_item: "10180"
+---

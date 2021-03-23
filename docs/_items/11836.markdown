@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11836"
+occurrence_id: "1560"
+short_title: "BaM 16 (1985), 165-209"
+author: "Butz, Kilian"
+publication_year: "1985"
+title: "Zu Getreideerträgen in Mesopotamien und dem Mittelmeergebiet"
+volume_no_: "16"
+pages: "165-209"
+journal: "Baghdader Mitteilungen"
+title: "Zu Getreideerträgen in Mesopotamien und dem Mittelmeergebiet"
+previous_item: "11839"
+---

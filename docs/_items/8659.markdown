@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "8659"
+occurrence_id: "2506"
+short_title: "NABU 1994/20"
+author: "Joannès, Francis"
+title: "Une visite du gouverneur d´Arpad"
+volume_no_: "20"
+publication_year: "1994"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Une visite du gouverneur d´Arpad"
+previous_item: "8662"
+---

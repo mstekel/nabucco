@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13912"
+occurrence_id: "3728"
+short_title: "JHA 4 (1973), 1-12"
+author: "Pingree, David"
+publication_year: "1973"
+title: "The Mesopotamian Origin of Early Indian Mathematical Astronomy"
+volume_no_: "4"
+pages: "1-12"
+journal: "Journal of the History of Astronomy"
+title: "The Mesopotamian Origin of Early Indian Mathematical Astronomy"
+previous_item: "13915"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9139"
+occurrence_id: "2070"
+short_title: "JAOS 111 (1991), 19-37"
+author: "Roth, Martha T."
+publication_year: "1991"
+title: "The Dowries of the Women in the Itti-Marduk-balāṭu Family"
+volume_no_: "111"
+pages: "19-37"
+journal: "Journal of the American Oriental Society"
+title: "The Dowries of the Women in the Itti-Marduk-balāṭu Family"
+previous_item: "9142"
+---

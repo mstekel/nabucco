@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34525"
+place_id: "523"
+parent_id: "40"
+place_name: "Huṣṣēti-ša-Qa‛mānu"
+title: "Huṣṣēti-ša-Qa‛mānu"
+previous_item: "34528"
+---

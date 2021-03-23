@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16690"
+occurrence_id: "844"
+short_title: "McDowell 1935a"
+author: "McDowell, R.H. "
+publication_year: "1935"
+title: "Stamped and inscribed objects from Seleucia on the Tigris, University of Michigan Studies, Humanistic Series 36 (Ann Arbor)"
+title: "Stamped and inscribed objects from Seleucia on the Tigris, University of Michigan Studies, Humanistic Series 36 (Ann Arbor)"
+previous_item: "16693"
+---

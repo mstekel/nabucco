@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13003"
+occurrence_id: "1837"
+short_title: "Current Anthropology 15 (1974), 239-258"
+author: "Adams, Robert McC."
+publication_year: "1974"
+title: "Anthropological Perspectives on Ancient Trade"
+volume_no_: "15"
+pages: "239-258"
+journal: "Current Anthropology"
+title: "Anthropological Perspectives on Ancient Trade"
+previous_item: "13006"
+---

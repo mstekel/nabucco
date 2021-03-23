@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10861"
+occurrence_id: "2316"
+short_title: "JNES 45 (1986), 81-82"
+author: "Sack, Ronald H."
+publication_year: "1986"
+title: "Rv. F. Joannès, Textes économiques de la babylonie récente"
+volume_no_: "45"
+pages: "81-82"
+journal: "Journal of Near Eastern Studies"
+title: "Rv. F. Joannès, Textes économiques de la babylonie récente"
+previous_item: "10864"
+---

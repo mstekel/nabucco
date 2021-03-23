@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10660"
+occurrence_id: "1229"
+short_title: "AfO 44/45 (1997/1998), 165-166"
+author: "Jursa, Michael"
+publication_year: "1997-1998"
+title: "Ein neubabylonischer Brief aus einer Wiener Privatsammlung"
+volume_no_: "44-45"
+pages: "165-166"
+journal: "Archiv für Orientforschung"
+title: "Ein neubabylonischer Brief aus einer Wiener Privatsammlung"
+previous_item: "10663"
+---

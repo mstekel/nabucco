@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8344"
+occurrence_id: "3830"
+short_title: "Phoenix 5 (1959), 88-92"
+author: "Leemans, W.F."
+publication_year: "1959"
+title: "De steles van Nabonidus uit Harran"
+volume_no_: "5"
+pages: "88-92"
+journal: "Phoenix"
+title: "De steles van Nabonidus uit Harran"
+previous_item: "8347"
+---

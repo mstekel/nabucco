@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14080"
+occurrence_id: "1628"
+short_title: "BiOr 11 (1954), 161-162"
+author: "de Menasce, Jean"
+publication_year: "1954"
+title: "Mots d'emprunt et Noms propres Iraniens dans les nouveaux documents Araméens"
+volume_no_: "11"
+pages: "161-162"
+journal: "Bibliotheca Orientalis"
+title: "Mots d'emprunt et Noms propres Iraniens dans les nouveaux documents Araméens"
+previous_item: "14083"
+---

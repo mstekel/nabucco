@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14461"
+occurrence_id: "3681"
+short_title: "Eos 75 (1987), 69-86"
+author: "Zawadzki, Stefan"
+publication_year: "1987"
+title: "Gubaru: A Governor or a Vassal King of Babylonia ?"
+volume_no_: "75"
+pages: "69-86"
+journal: "Eos. Commentarii Societatis Philologae Polonorum"
+title: "Gubaru: A Governor or a Vassal King of Babylonia ?"
+previous_item: "14464"
+---

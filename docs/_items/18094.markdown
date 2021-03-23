@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18094"
+occurrence_id: "788"
+short_title: "George 1992"
+author: "George, Andrew R."
+publication_year: "1992"
+title: "Babylonian Topographical Texts, OLA 40 (Leuven)"
+title: "Babylonian Topographical Texts, OLA 40 (Leuven)"
+previous_item: "18097"
+---

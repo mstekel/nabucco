@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "8938"
+occurrence_id: "4008"
+short_title: "Kaskal 10 (2013), 69-87"
+author: "Pirngruber, Reinhard"
+publication_year: "2013"
+title: "Police Forces in First Millennium BC Babylonia and Beyond"
+volume_no_: "10"
+pages: "69-87"
+title: "Police Forces in First Millennium BC Babylonia and Beyond"
+previous_item: "8941"
+---

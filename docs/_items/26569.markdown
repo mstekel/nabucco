@@ -1,0 +1,18 @@
+---
+layout: "tablet"
+slug: "26569"
+object_id: "5971"
+museum_no_: "BM 64146"
+period: "ENB"
+place_of_issue: "Babylon city"
+day_remark: "[ ]?"
+month: "VII"
+month_remark: "-"
+year_remark: "[-]"
+king: "Kan"
+king_remark: "-"
+imported: "Melanie Gross (26/05/2016)"
+day_babylonian_: "20"
+title: "BM 64146"
+previous_item: "26572"
+---

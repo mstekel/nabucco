@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17674"
+occurrence_id: "568"
+short_title: "Schaumberger 1935"
+author: "Schaumberger, Johann "
+publication_year: "1935"
+title: "Sternkande and Sterndienst in Babel. Assyriologische, astronomische und astralMythologische Untersuchungen. 3. Ergänzungsheft zum ersten und zweiten Buch"
+title: "Sternkande and Sterndienst in Babel. Assyriologische, astronomische und astralMythologische Untersuchungen. 3. Ergänzungsheft zum ersten und zweiten Buch"
+previous_item: "17677"
+---

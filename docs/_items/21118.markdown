@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21118"
+occurrence_id: "4686"
+short_title: "Graslin 2007"
+author: "Graslin, Laetitia"
+publication_year: "2007"
+title: "Le vocabulaire des échanges dans les textes mésopotamiens d'époque néo-babylonienenne"
+pages: "11-33"
+editor: "Andreau, Jean"
+book: "Vocabulaire et expression de l'économie dans le monde antique (Paris)"
+title: "Le vocabulaire des échanges dans les textes mésopotamiens d'époque néo-babylonienenne"
+previous_item: "21121"
+---

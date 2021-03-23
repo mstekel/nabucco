@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8464"
+occurrence_id: "1456"
+short_title: "ArOr 11 (1940), 298"
+author: "Hroznð, B."
+publication_year: "1940"
+title: "Rv. E.W. Moore, Neo-Babylonian Documents in the University of Michigan Collection"
+volume_no_: "11"
+pages: "298"
+journal: "Archív Orientalí"
+title: "Rv. E.W. Moore, Neo-Babylonian Documents in the University of Michigan Collection"
+previous_item: "8467"
+---

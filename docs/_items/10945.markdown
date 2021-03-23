@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10945"
+occurrence_id: "2768"
+short_title: "OLZ 34 (1931), 922-937"
+author: "Eilers, Wilhelm"
+publication_year: "1931"
+title: "Keilinschriften und antike Rechtsgeschichte"
+volume_no_: "34"
+pages: "922-937"
+journal: "Orientalistische Literaturzeitung"
+title: "Keilinschriften und antike Rechtsgeschichte"
+previous_item: "10948"
+---

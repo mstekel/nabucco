@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "7558"
+occurrence_id: "2617"
+short_title: "NABU 2000/24"
+author: "Vargyas, Péter"
+title: "Recall of a Debt (OA 23, 49-52)"
+volume_no_: "24"
+publication_year: "2000"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Recall of a Debt (OA 23, 49-52)"
+previous_item: "7561"
+---

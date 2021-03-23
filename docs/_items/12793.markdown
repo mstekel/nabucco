@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12793"
+occurrence_id: "3710"
+short_title: "Historia mandi III (1954), 56-115"
+author: "Nyberg, Henrik S."
+publication_year: "1954"
+title: "Das Reich der Achämeniden"
+volume_no_: "III"
+pages: "56-115"
+journal: "Historia mandi"
+title: "Das Reich der Achämeniden"
+previous_item: "12796"
+---

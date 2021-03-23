@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12418"
+occurrence_id: "1690"
+short_title: "BiOr 50 (1993), 545-563"
+author: "van Driel, Govert"
+publication_year: "1993"
+title: "Bones and the Mesopotamian State? Animal Husbandry in an Urban Context"
+volume_no_: "50"
+pages: "545-563"
+journal: "Bibliotheca Orientalis"
+title: "Bones and the Mesopotamian State? Animal Husbandry in an Urban Context"
+previous_item: "12421"
+---

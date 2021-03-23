@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7687"
+occurrence_id: "3313"
+short_title: "WeOr 15 (1984), 93-95"
+author: "Hibbert, Philippe"
+publication_year: "1984"
+title: "Liebeslyrik in der arsakidischen Zeit"
+volume_no_: "15"
+pages: "93-95"
+journal: "Die Welt des Orients"
+title: "Liebeslyrik in der arsakidischen Zeit"
+previous_item: "7690"
+---

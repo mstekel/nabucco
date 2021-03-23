@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "14503"
+occurrence_id: "3905"
+short_title: "AuOr 29/2 (2011), 304-307"
+author: "Arnaud, Daniel"
+publication_year: "2011"
+title: "Deux dédicaces privées en néo-assyrien et en néo-babylonien"
+volume_no_: "29/2"
+pages: "304-307"
+title: "Deux dédicaces privées en néo-assyrien et en néo-babylonien"
+previous_item: "14506"
+---

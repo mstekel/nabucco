@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "9232"
+occurrence_id: "2572"
+short_title: "NABU 1997/7"
+author: "Zadok, Ran"
+title: "Some Iranian Anthroponyms and Toponyms"
+volume_no_: "7"
+publication_year: "1997"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Some Iranian Anthroponyms and Toponyms"
+previous_item: "9235"
+---

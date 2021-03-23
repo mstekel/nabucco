@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9748"
+occurrence_id: "2330"
+short_title: "JNES 54 (1995), 308-310"
+author: "Frame, Grant"
+publication_year: "1995"
+title: "Rv. K. Kessler, Uruk. Urkunden aus Privahäusern. Die Wohnhäuser westlich des Eanna-Tempelbereichs. Teil I. Die Archive der Söhne des Bēl-ušallim, des Nabû-ušallim and des Bēl-supê-muhur (AUWE 8, 1991)"
+volume_no_: "54"
+pages: "308-310"
+journal: "Journal of Near Eastern Studies"
+title: "Rv. K. Kessler, Uruk. Urkunden aus Privahäusern. Die Wohnhäuser westlich des Eanna-Tempelbereichs. Teil I. Die Archive der Söhne des Bēl-ušallim, des Nabû-ušallim and des Bēl-supê-muhur (AUWE 8, 1991)"
+previous_item: "9751"
+---

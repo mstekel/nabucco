@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "34495"
+place_id: "43"
+parent_id: "4"
+place_name: "Sippar"
+related_objects: "2841"
+title: "Sippar"
+previous_item: "34498"
+---

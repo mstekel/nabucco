@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14692"
+occurrence_id: "1920"
+short_title: "IrAn 2 (1962), 1-21"
+author: "Hinz, Walther"
+publication_year: "1962"
+title: "Zur Entzifferung der elamischen Strichinschrift"
+volume_no_: "2"
+pages: "1-21"
+journal: "Iranica Antiqua"
+title: "Zur Entzifferung der elamischen Strichinschrift"
+previous_item: "14695"
+---

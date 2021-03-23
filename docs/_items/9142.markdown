@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9142"
+occurrence_id: "2086"
+short_title: "JAOS 118 (1998), 450-451"
+author: "Bagnall, Roger S."
+publication_year: "1998"
+title: "Rv. M.J. Geller and H. Maehler (eds), Legal Documents of the Hellenistic World (London 1995)"
+volume_no_: "118"
+pages: "450-451"
+journal: "Journal of the American Oriental Society"
+title: "Rv. M.J. Geller and H. Maehler (eds), Legal Documents of the Hellenistic World (London 1995)"
+previous_item: "9145"
+---

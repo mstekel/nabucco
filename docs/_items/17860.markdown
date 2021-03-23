@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17860"
+occurrence_id: "923"
+short_title: "Petschow 1939"
+author: "Petschow, Herbert "
+publication_year: "1939"
+title: "Die neubabylonischen Kaufformulare. Leipziger rechtswissenschaftliche Studien 118"
+title: "Die neubabylonischen Kaufformulare. Leipziger rechtswissenschaftliche Studien 118"
+previous_item: "17863"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18796"
+occurrence_id: "4419"
+short_title: "Tolini 2009b"
+author: "Tolini, Gauthier"
+publication_year: "2009"
+title: "Les repas du Grand Roi en Babylonie: Cambyse et le palais d'Abanu."
+pages: "237-254"
+editor: "Lion, Brigitte"
+book: "Et il y eut un esprit dans l'Homme. Jean Bottéro et la Mésopotamie (Paris 2009), ."
+title: "Les repas du Grand Roi en Babylonie: Cambyse et le palais d'Abanu."
+previous_item: "18799"
+---

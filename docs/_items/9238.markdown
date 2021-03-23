@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "9238"
+occurrence_id: "2604"
+short_title: "NABU 1999/103"
+author: "Jursa, Michael"
+title: "VS 6, 252+276"
+volume_no_: "103"
+publication_year: "1999"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "VS 6, 252+276"
+previous_item: "9241"
+---

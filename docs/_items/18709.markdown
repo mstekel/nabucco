@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18709"
+occurrence_id: "5058"
+short_title: "Sack 1997"
+author: "Sack, Ronald H."
+publication_year: "1997"
+title: "Nabonidus of Babylon"
+pages: "455-473"
+editor: "Young, Gordon D."
+book: "Crossing Boundaries and Linking Horizons: Studies in Honor of Michael C. Astour, Fs.Astour (Bethesda)"
+title: "Nabonidus of Babylon"
+previous_item: "18712"
+---

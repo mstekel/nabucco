@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16954"
+occurrence_id: "881"
+short_title: "San Nicolò 1950"
+author: "Nicolò, Mariano San"
+publication_year: "1950"
+title: "Der Neubabylonische Lehrvertrag in rechtsvergleichender Betrachtung, SBAW 1959/3 (München)"
+title: "Der Neubabylonische Lehrvertrag in rechtsvergleichender Betrachtung, SBAW 1959/3 (München)"
+previous_item: "16957"
+---

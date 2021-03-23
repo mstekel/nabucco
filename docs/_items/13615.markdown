@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13615"
+occurrence_id: "2126"
+short_title: "JAOS 76 (1956), 44-46"
+author: "Hallock, Richard T."
+publication_year: "1956"
+title: "Rv. H.H. Paper, the Phonology and Morphology of Royal Achaemenid Elamite"
+volume_no_: "76"
+pages: "44-46"
+journal: "Journal of the American Oriental Society"
+title: "Rv. H.H. Paper, the Phonology and Morphology of Royal Achaemenid Elamite"
+previous_item: "13618"
+---

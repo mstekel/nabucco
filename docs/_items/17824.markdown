@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17824"
+occurrence_id: "695"
+short_title: "Ungnad, SSS 10 (1908), "
+author: "Ungnad, Arthur "
+publication_year: "1908"
+title: "Selected business documents of the Neo-Babylonian period. Semitic Study Series 10 (Leiden)."
+title: "Selected business documents of the Neo-Babylonian period. Semitic Study Series 10 (Leiden)."
+previous_item: "17827"
+---

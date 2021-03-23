@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13561"
+occurrence_id: "1838"
+short_title: "CW 57/1283 (1964), 155"
+author: "Jameson, M.H."
+publication_year: "1964"
+title: "Rv. R.N. Frye, The Heritage of Persia"
+volume_no_: "57/1283"
+pages: "155"
+journal: "The Classical World"
+title: "Rv. R.N. Frye, The Heritage of Persia"
+previous_item: "13564"
+---

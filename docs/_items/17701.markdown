@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17701"
+occurrence_id: "750"
+short_title: "Brosius;Kuhrt 1998"
+author: "Brosius, Maria "
+publication_year: "1998"
+title: "Studies in Persian History: Essays in Memory of David M. Lewis, Achaemenid History 11 (Leiden)"
+title: "Studies in Persian History: Essays in Memory of David M. Lewis, Achaemenid History 11 (Leiden)"
+previous_item: "17704"
+---

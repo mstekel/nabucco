@@ -1,0 +1,15 @@
+---
+layout: "bibliography"
+slug: "13447"
+occurrence_id: "1218"
+short_title: "AfO 38/39 (1991/1992), 74-100"
+author: "MacGinnis, John"
+publication_year: "1991-1992"
+title: "Neo-Babylonian Prebend Texts from the British Museum,"
+volume_no_: "38-39"
+pages: "74-100"
+related_objects: "8272"
+journal: "Archiv für Orientforschung"
+title: "Neo-Babylonian Prebend Texts from the British Museum,"
+previous_item: "13450"
+---

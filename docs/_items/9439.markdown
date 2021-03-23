@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9439"
+occurrence_id: "3688"
+short_title: "ErIs 27 (2003), 25*-28*."
+author: "Dalley, Stephanie"
+publication_year: "2003"
+title: "The Transition from Neo-Assyrians to Neo-Babylonians: Break or Continuity?"
+volume_no_: "27"
+pages: "25*-28*."
+journal: "Eretz Israel"
+title: "The Transition from Neo-Assyrians to Neo-Babylonians: Break or Continuity?"
+previous_item: "9442"
+---

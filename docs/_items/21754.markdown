@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21754"
+occurrence_id: "4769"
+short_title: "Stolper 2003"
+author: "Stolper, Matthew W."
+publication_year: "2003"
+title: "\"No-one has exact information except for you\". Communication between Babylon and Uruk in the First Achaemenid reigns."
+pages: "265-287"
+editor: "Kuhrt, Amélie"
+book: "A Persian Perspective. Essays in Memory of Heleen Sancisi-Weerdenburg (Leiden)"
+title: "\"No-one has exact information except for you\". Communication between Babylon and Uruk in the First Achaemenid reigns."
+previous_item: "21757"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12673"
+occurrence_id: "3064"
+short_title: "RA 77 (1983 publ.1984), 189-190"
+author: "Zadok, Ran"
+publication_year: "1983 publ. 1984"
+title: "N/LB rab-bānê < Aram. rabbānē \"nobles\" or sim."
+volume_no_: "77"
+pages: "189-190"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "N/LB rab-bānê < Aram. rabbānē \"nobles\" or sim."
+previous_item: "12676"
+---

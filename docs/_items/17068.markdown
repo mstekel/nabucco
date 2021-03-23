@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17068"
+occurrence_id: "815"
+short_title: "Jacobsen 1982 (publ. 1983)"
+author: "Jacobsen, Thorkild "
+publication_year: "1982 (publ. 1983)"
+title: "Salinity and Irrigation. Agriculture in Antiquity. Diyala Basin Archaeological Projects: Report on Essential Results, 1957-58, Bibliotheca Mesopotamica, Vol. 14 (Malibu)"
+title: "Salinity and Irrigation. Agriculture in Antiquity. Diyala Basin Archaeological Projects: Report on Essential Results, 1957-58, Bibliotheca Mesopotamica, Vol. 14 (Malibu)"
+previous_item: "17071"
+---

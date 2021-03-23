@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13243"
+occurrence_id: "3129"
+short_title: "RBPH  46 (1968), 1370"
+author: "Limet, Henri"
+publication_year: "1968"
+title: "Rv. B.L. van der Waerden, Erwachende Wissenschaft. II: Die Anfänge der Astronomie"
+volume_no_: "46"
+pages: "1370"
+journal: "Revue Belge de Philologie et d´Histoire"
+title: "Rv. B.L. van der Waerden, Erwachende Wissenschaft. II: Die Anfänge der Astronomie"
+previous_item: "13246"
+---

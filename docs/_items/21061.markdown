@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21061"
+occurrence_id: "4382"
+short_title: "Joannès 2010a"
+author: "Joannès, Francis"
+publication_year: "2010"
+title: "Textile Terminology in the Neo-Babylonian Documentation"
+pages: "400-408"
+editor: "Michel, Cécile"
+book: "Textile Terminologies in the Ancient Near East and Mediterranean from the Third to the First Millennia BC, Ancient Textiles Series 8 (Oxford)"
+title: "Textile Terminology in the Neo-Babylonian Documentation"
+previous_item: "21064"
+---

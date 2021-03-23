@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11206"
+occurrence_id: "1163"
+short_title: "Aegyptus 12 (1932), 35-47"
+author: "Nicolò, Mariano, San"
+publication_year: "1932"
+title: "Un contratto vitalizio del tempo di Dario I"
+volume_no_: "12"
+pages: "35-47"
+journal: "Aegyptus"
+title: "Un contratto vitalizio del tempo di Dario I"
+previous_item: "11209"
+---

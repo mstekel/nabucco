@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17722"
+occurrence_id: "871"
+short_title: "Rollinger 1993"
+author: "Rollinger, Robert "
+publication_year: "1993"
+title: "Herodots babylonischer Logos. Eine kritische Untersuchung der Glaubwürdigkeitsdiskussion an Hand ausgewählter Beispiele: ... Konsequenzen für eine Geschichte Babylons in persischer Zeit, Innsbrucker Beiträge zur Kulturwissenschaft 84 (Innsbruck)"
+title: "Herodots babylonischer Logos. Eine kritische Untersuchung der Glaubwürdigkeitsdiskussion an Hand ausgewählter Beispiele: ... Konsequenzen für eine Geschichte Babylons in persischer Zeit, Innsbrucker Beiträge zur Kulturwissenschaft 84 (Innsbruck)"
+previous_item: "17725"
+---

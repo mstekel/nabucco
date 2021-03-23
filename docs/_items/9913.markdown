@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9913"
+occurrence_id: "3219"
+short_title: "StIr 5 (1976), 9-31"
+author: "Delauney, Jacques A."
+publication_year: "1976"
+title: "Remarques sur quelques noms de personne des archives élamites de Persepolis"
+volume_no_: "5"
+pages: "11567"
+journal: "Studia Iranica"
+title: "Remarques sur quelques noms de personne des archives élamites de Persepolis"
+previous_item: "9916"
+---

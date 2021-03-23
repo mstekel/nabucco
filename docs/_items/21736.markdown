@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21736"
+occurrence_id: "4673"
+short_title: "Abraham 2007"
+author: "Abraham, Kathleen"
+publication_year: "2007"
+title: "An Inheritance Division Among Judeans in Babylonia From the Early Persian Period"
+pages: "207-221"
+editor: "Lubetski, Meir"
+book: "New Seals and Inscriptions, Hebrew, Idumean, and Cuneiform, Hebrew Bible Monographs 8 (Sheffield)"
+title: "An Inheritance Division Among Judeans in Babylonia From the Early Persian Period"
+previous_item: "21739"
+---

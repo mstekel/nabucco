@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15529"
+occurrence_id: "3407"
+short_title: "ZA 52 (1957), 265-305"
+author: "Huber, Peter J."
+publication_year: "1957"
+title: "Zur täglichen Bewegen des Jupiter nach babylonischen Texten"
+volume_no_: "52"
+pages: "265-305"
+journal: "Zeitschrift für Assyriologie"
+title: "Zur täglichen Bewegen des Jupiter nach babylonischen Texten"
+previous_item: "15532"
+---

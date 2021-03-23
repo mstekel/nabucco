@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "14815"
+occurrence_id: "2582"
+short_title: "NABU 1998/123"
+author: "del Monte, Giuseppe F."
+title: "Due nuovi documenti da Uruk seleucide"
+volume_no_: "123"
+publication_year: "1998"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Due nuovi documenti da Uruk seleucide"
+previous_item: "14818"
+---

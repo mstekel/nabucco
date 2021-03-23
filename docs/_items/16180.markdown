@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16180"
+occurrence_id: "3892"
+short_title: "ZSSR 95 (1978), 327-329"
+author: "Haase, R."
+publication_year: "1978"
+title: "Rv. G. Ries, Die neubabylonischen Bodenpachtformulare"
+volume_no_: "95"
+pages: "327-329"
+journal: "Zeitschrift der Savigny-Stiftung für Rechtsgeschichte. Romanistische Abteilung."
+title: "Rv. G. Ries, Die neubabylonischen Bodenpachtformulare"
+previous_item: "16183"
+---

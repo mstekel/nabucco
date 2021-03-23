@@ -1,0 +1,12 @@
+---
+layout: "bibliography"
+slug: "8383"
+occurrence_id: "4039"
+short_title: "NABU 2013/52"
+author: "Theis, Christoffer"
+publication_year: "2013"
+title: "Varia Akkadica: Spätbabylonische Texte aus Uruk II, 20, rs. 12-15"
+volume_no_: "2013/52"
+title: "Varia Akkadica: Spätbabylonische Texte aus Uruk II, 20, rs. 12-15"
+previous_item: "8386"
+---

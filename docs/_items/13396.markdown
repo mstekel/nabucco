@@ -1,0 +1,12 @@
+---
+layout: "bibliography"
+slug: "13396"
+occurrence_id: "3951"
+short_title: "NABU 2014/55"
+author: "Gysembergh, Victor"
+publication_year: "2014"
+title: "CUSAS XV Revised: NB and LB documents"
+volume_no_: "2014/55"
+title: "CUSAS XV Revised: NB and LB documents"
+previous_item: "13399"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14752"
+occurrence_id: "2242"
+short_title: "JESHO 39 (1996), 224-242"
+author: "Powell, Marvin A."
+publication_year: "1996"
+title: "Money in Mesopotamia"
+volume_no_: "39"
+pages: "224-242"
+journal: "Journal of the Economic and Social History of the Orient"
+title: "Money in Mesopotamia"
+previous_item: "14755"
+---

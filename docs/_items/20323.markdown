@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20323"
+occurrence_id: "4858"
+short_title: "Dandamayev 1989"
+author: "Dandamayev, Muhammed A."
+publication_year: "1989"
+title: "The Old Iranian pasa'du"
+pages: "563-566"
+editor: "Haerinck, Ernie"
+book: "Archäeologia Iranica et Orientalis, Miscellanea in honorem Louis Vanden Berghe I (Ghent)"
+title: "The Old Iranian pasa'du"
+previous_item: "20326"
+---

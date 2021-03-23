@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19015"
+occurrence_id: "4484"
+short_title: "Baker 2007"
+author: "Baker, Heather D."
+publication_year: "2007"
+title: "Urban Form in the First millennium BC."
+pages: "66-77"
+editor: "Leick, Gwendolyn"
+book: "The Babylonian World (Abingdon and New York)"
+title: "Urban Form in the First millennium BC."
+previous_item: "19018"
+---

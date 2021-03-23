@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7669"
+occurrence_id: "3215"
+short_title: "StIr 20 (1991), s.p."
+author: "Gignoux, Philippe"
+publication_year: "1991"
+title: "Rv. M.A. Dandamayev, A Political History of the Achaemenid Empire (Leiden 1989)"
+volume_no_: "20"
+pages: "s.p."
+journal: "Studia Iranica"
+title: "Rv. M.A. Dandamayev, A Political History of the Achaemenid Empire (Leiden 1989)"
+previous_item: "7672"
+---

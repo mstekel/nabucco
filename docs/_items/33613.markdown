@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33613"
+place_id: "115"
+parent_id: "40"
+place_name: "Ālu-ša-Hammija"
+title: "Ālu-ša-Hammija"
+previous_item: "33616"
+---

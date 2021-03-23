@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "19156"
+occurrence_id: "4131"
+short_title: "Rossi 2000"
+author: "Rossi, Adriano V."
+publication_year: "2000"
+title: "L´iscrizione originaria di Bisotun: DB elam. A+L"
+pages: "2065-2107"
+editor: "Graziani, Simonetta"
+title: "L´iscrizione originaria di Bisotun: DB elam. A+L"
+previous_item: "19159"
+---

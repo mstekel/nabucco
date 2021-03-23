@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "18934"
+occurrence_id: "5155"
+short_title: "Beljavskij 1968"
+author: "Beljavskij, Vitali A."
+publication_year: "1968"
+title: "Der Grundbesitz des Hauses Egibi"
+pages: "160-181"
+book: "Dokladi otdelenij i komissij Geografičeskogo obščestva SSSR, vypusk 5, Étnografija (Leningrado)"
+title: "Der Grundbesitz des Hauses Egibi"
+previous_item: "18937"
+---

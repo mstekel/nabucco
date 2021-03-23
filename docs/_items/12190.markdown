@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12190"
+occurrence_id: "3467"
+short_title: "ZA 81 (1991), 87-107"
+author: "Maul, Stefan M."
+publication_year: "1991"
+title: "Neues zu den \"Graeco-Babyloniaca\""
+volume_no_: "81"
+pages: "87-107"
+journal: "Zeitschrift für Assyriologie"
+title: "Neues zu den \"Graeco-Babyloniaca\""
+previous_item: "12193"
+---

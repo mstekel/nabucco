@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15463"
+occurrence_id: "3053"
+short_title: "RA 74 (1980), 183-4"
+author: "Joannès, Francis"
+publication_year: "1980"
+title: "Kaššaia, fille de Nabuchodonosor II"
+volume_no_: "74"
+pages: "183-4"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "Kaššaia, fille de Nabuchodonosor II"
+previous_item: "15466"
+---

@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17794"
+occurrence_id: "517"
+short_title: "Morawe 1956"
+author: "Morawe, Günter "
+publication_year: "1956"
+title: "Die neubabylonischen Chroniken untersucht nach Aufbau, Tendenz and Schreibgebrauch (Dissertation)"
+title: "Die neubabylonischen Chroniken untersucht nach Aufbau, Tendenz and Schreibgebrauch (Dissertation)"
+previous_item: "17797"
+---

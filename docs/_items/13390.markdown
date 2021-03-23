@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "13390"
+occurrence_id: "3919"
+short_title: "JCS 61 (2009), 133-138"
+author: "Böck, Barbara"
+publication_year: "2009"
+title: "Texts and Fragments. Three New Sources of Muššu’u"
+volume_no_: "61"
+pages: "133-138"
+title: "Texts and Fragments. Three New Sources of Muššu’u"
+previous_item: "13393"
+---

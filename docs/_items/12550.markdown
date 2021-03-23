@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12550"
+occurrence_id: "2399"
+short_title: "Mesopotamia 10-11 (1975/1976), 5-29"
+author: "Owen, David , I."
+publication_year: "1975/1976"
+title: "Cuneiform Texts in the Collection of Professor Norman Totten, Part II"
+volume_no_: "10-11."
+pages: "5-29."
+journal: "Mesopotamia"
+title: "Cuneiform Texts in the Collection of Professor Norman Totten, Part II"
+previous_item: "12553"
+---

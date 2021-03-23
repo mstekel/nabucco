@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15793"
+occurrence_id: "1810"
+short_title: "BSOAS 62 (1999), 323-325"
+author: "Schmitt, Rüdiger"
+publication_year: "1999"
+title: "On two Xerxes inscriptions"
+volume_no_: "62"
+pages: "323-325"
+journal: "Bulletin of the School of Oriental and African Studies"
+title: "On two Xerxes inscriptions"
+previous_item: "15796"
+---

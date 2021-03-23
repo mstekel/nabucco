@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16996"
+occurrence_id: "363"
+short_title: "CRAI 44/1-3"
+author: "de Martino, Stefano B."
+publication_year: "1999"
+title: "Landscapes. Territories, Frontiers and Horizons in the Ancient Near East, RAI 44/I"
+title: "Landscapes. Territories, Frontiers and Horizons in the Ancient Near East, RAI 44/I"
+previous_item: "16999"
+---

@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18028"
+occurrence_id: "376"
+short_title: "Dandamayev and Lukonin 1988"
+author: "Dandamayev, Muhammed A. G"
+publication_year: "1988"
+title: "The Culture and Social Institutions of Ancient Iran"
+title: "The Culture and Social Institutions of Ancient Iran"
+previous_item: "18031"
+---

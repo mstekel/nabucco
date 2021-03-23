@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7702"
+occurrence_id: "3393"
+short_title: "ZA 44 (1938), 150-169"
+author: "Weissbach, Franz, H."
+publication_year: "1938"
+title: "Die dreisprachige Inschrift Darius Susa e,"
+volume_no_: "44"
+pages: "150-169"
+journal: "Zeitschrift für Assyriologie"
+title: "Die dreisprachige Inschrift Darius Susa e,"
+previous_item: "7705"
+---

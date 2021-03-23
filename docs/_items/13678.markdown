@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "13678"
+occurrence_id: "2466"
+short_title: "NABU 1989/47"
+author: "Zadok, Ran"
+publication_year: "1989"
+title: "NA ga-ba-' = West Semitic gb'"
+volume_no_: "47"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "NA ga-ba-' = West Semitic gb'"
+previous_item: "13681"
+---

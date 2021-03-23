@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34741"
+place_id: "433"
+parent_id: "40"
+place_name: "Galūtu"
+title: "Galūtu"
+previous_item: "34744"
+---

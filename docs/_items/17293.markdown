@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17293"
+occurrence_id: "601"
+short_title: "Thompson 1900 (RMA)"
+author: "Thompson, R. Campbell "
+publication_year: "1900"
+title: "Reports of the Magicians and Astrologers of Nineveh and Babylon. I: the Cuneiform Texts, II: English Translation, Vocabulary, etc."
+title: "Reports of the Magicians and Astrologers of Nineveh and Babylon. I: the Cuneiform Texts, II: English Translation, Vocabulary, etc."
+previous_item: "17296"
+---

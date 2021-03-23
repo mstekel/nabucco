@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11320"
+occurrence_id: "1785"
+short_title: "BSOAS 44 (1981), 1-7"
+author: "Sims-Williams, Nicholas"
+publication_year: "1981"
+title: "The Final Paragraph of theTomb-Inscription of Darius I (DNb, 50-60), the Old Persian Text in the Light of an Aramaic Version"
+volume_no_: "44"
+pages: "1-7"
+journal: "Bulletin of the School of Oriental and African Studies"
+title: "The Final Paragraph of theTomb-Inscription of Darius I (DNb, 50-60), the Old Persian Text in the Light of an Aramaic Version"
+previous_item: "11323"
+---

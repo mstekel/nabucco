@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9892"
+occurrence_id: "3107"
+short_title: "RA 93 (1999), 141-155"
+author: "Beaulieu, Paul-A."
+publication_year: "1999"
+title: "Un inventaire de joaillerie sacrée de l´Eanna d´Uruk"
+volume_no_: "93"
+pages: "141-155"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "Un inventaire de joaillerie sacrée de l´Eanna d´Uruk"
+previous_item: "9895"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15502"
+occurrence_id: "3261"
+short_title: "Transeuphratène 13 (1997), 201-206"
+author: "Elayi, Josette"
+publication_year: "1997"
+title: "Rv. P. Briant, Histoire de l´Empire perse de Cyrus à Alexandre (1996)"
+volume_no_: "13"
+pages: "201-206"
+journal: "Transeuphratène"
+title: "Rv. P. Briant, Histoire de l´Empire perse de Cyrus à Alexandre (1996)"
+previous_item: "15505"
+---

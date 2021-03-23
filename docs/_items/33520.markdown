@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33520"
+place_id: "400"
+parent_id: "40"
+place_name: "Bīt-Zukkītu"
+title: "Bīt-Zukkītu"
+previous_item: "33523"
+---

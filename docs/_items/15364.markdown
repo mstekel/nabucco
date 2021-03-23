@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "15364"
+occurrence_id: "2518"
+short_title: "NABU 1995/21"
+author: "Joannès, Francis"
+title: "Les relations entre Babylone et les Mèdes"
+volume_no_: "21"
+publication_year: "1995"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Les relations entre Babylone et les Mèdes"
+previous_item: "15367"
+---

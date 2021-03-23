@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16021"
+occurrence_id: "3038"
+short_title: "RA 57 (1963), 159-162"
+author: "Lambert, Maurice"
+publication_year: "1963"
+title: "Rv. Iranica Antiqua 1 (1961)"
+volume_no_: "57"
+pages: "159-162"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "Rv. Iranica Antiqua 1 (1961)"
+previous_item: "16024"
+---

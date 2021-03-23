@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33499"
+place_id: "64"
+parent_id: "4"
+place_name: "Larsa"
+title: "Larsa"
+previous_item: "33502"
+---

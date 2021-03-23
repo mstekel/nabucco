@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12754"
+occurrence_id: "3502"
+short_title: "ZA 89 (1999), 286-295"
+author: "Streck, Michael , P."
+publication_year: "1999"
+title: "Rv. S.W. Cole, Nippur IV. the Early Neo-Babylonian Governor´s Archive from Nippur (OIP 114, 1996)"
+volume_no_: "89"
+pages: "286-295"
+journal: "Zeitschrift für Assyriologie"
+title: "Rv. S.W. Cole, Nippur IV. the Early Neo-Babylonian Governor´s Archive from Nippur (OIP 114, 1996)"
+previous_item: "12757"
+---

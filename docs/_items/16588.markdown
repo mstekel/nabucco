@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "16588"
+occurrence_id: "52"
+short_title: "TMH 2/3"
+author: "Krückmann, O. "
+publication_year: "1933"
+title: "Neubabylonische Rechts- und Verwaltungstexte. Texte und Materialien der Frau Professor Hilprecht Collection of Babylonian Antiquities im Eigentum der Universität Jena (Leipzig)."
+volume_no_: "2/3"
+related_objects: "6812"
+title: "Neubabylonische Rechts- und Verwaltungstexte. Texte und Materialien der Frau Professor Hilprecht Collection of Babylonian Antiquities im Eigentum der Universität Jena (Leipzig)."
+previous_item: "16591"
+---

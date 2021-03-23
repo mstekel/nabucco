@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7870"
+occurrence_id: "1275"
+short_title: "AION 50/ 2 (1960), 127-133"
+author: "Belardi, W."
+publication_year: "1960"
+title: "Rv. W. Brandenstein and M. Mayrhofer, Antiguo Persa"
+volume_no_: "50/2"
+pages: "127-133"
+journal: "Annali dell'Istituto Orientale di Napoli"
+title: "Rv. W. Brandenstein and M. Mayrhofer, Antiguo Persa"
+previous_item: "7873"
+---

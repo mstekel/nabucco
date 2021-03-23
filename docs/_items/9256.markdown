@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "9256"
+occurrence_id: "2700"
+short_title: "NABU 2007/54"
+author: "Jursa, Michael"
+title: "Texte aus dem 'Palastarchiv' Nebuchadnezzars, außerhalb von Berlin"
+volume_no_: "54"
+publication_year: "2007"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Texte aus dem 'Palastarchiv' Nebuchadnezzars, außerhalb von Berlin"
+previous_item: "9259"
+---

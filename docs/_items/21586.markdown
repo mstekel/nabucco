@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21586"
+occurrence_id: "4976"
+short_title: "Briant 1994"
+author: "Briant, Pierre"
+publication_year: "1994"
+title: "L´eau du Grand Roi"
+pages: "45-65"
+editor: "Milano, Lucio"
+book: "Drinking in Ancient Societies, History of the Ancient Near East Studies 6 (Padova)"
+title: "L´eau du Grand Roi"
+previous_item: "21589"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7645"
+occurrence_id: "3087"
+short_title: "RA 85 (1991 publ. 1992), 169-187"
+author: "Castel, Corinne"
+publication_year: "1991 publ. 1992"
+title: "Temples à l'époque néo-babylonienne: une même conception de l'espace sacré"
+volume_no_: "85"
+pages: "169-187"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "Temples à l'époque néo-babylonienne: une même conception de l'espace sacré"
+previous_item: "7648"
+---

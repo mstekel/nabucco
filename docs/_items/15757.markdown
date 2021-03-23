@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15757"
+occurrence_id: "1615"
+short_title: "BCSMS 39 (2004), 5-14."
+author: "Chadwick, Robert"
+publication_year: "2004"
+title: "Who were the Skywatchers of the Ancient Near East."
+volume_no_: "39"
+pages: "5-14."
+journal: "Bulletin. The Canadian Society for Mesopotamian Studies"
+title: "Who were the Skywatchers of the Ancient Near East."
+previous_item: "15760"
+---

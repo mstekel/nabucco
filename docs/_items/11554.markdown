@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11554"
+occurrence_id: "3046"
+short_title: "RA 68 (1974 publ. 1975), 157-166"
+author: "Vallat, François"
+publication_year: "1974 publ. 1975"
+title: "La triple inscription cunéiforme de la statue de Darius Ier (DSab)"
+volume_no_: "68"
+pages: "157-166"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "La triple inscription cunéiforme de la statue de Darius Ier (DSab)"
+previous_item: "11557"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19456"
+occurrence_id: "4630"
+short_title: "Britton 2004"
+author: "Britton, John P."
+publication_year: "2004"
+title: "An Early Observation Text for Mars: HSM 1899.2.112 (= HSM 1490)."
+pages: "33-55"
+editor: "Burnett, Charles"
+book: "Studies in the History of the Exact Sciences in Honour of David Pingree (Leiden and Boston )"
+title: "An Early Observation Text for Mars: HSM 1899.2.112 (= HSM 1490)."
+previous_item: "19459"
+---

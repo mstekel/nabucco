@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "12271"
+occurrence_id: "3901"
+short_title: "AfO 52 (2011), 22-76"
+author: "Abraham, Kathleen"
+publication_year: "2011"
+title: "Aramaic Loanwords in Akkadian — a Reassessment of the Proposals"
+volume_no_: "52"
+pages: "22-76"
+title: "Aramaic Loanwords in Akkadian — a Reassessment of the Proposals"
+previous_item: "12274"
+---

@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34996"
+place_id: "967"
+parent_id: "61"
+place_name: "Dūru-ša-Ammi-jabab"
+title: "Dūru-ša-Ammi-jabab"
+previous_item: "34999"
+---

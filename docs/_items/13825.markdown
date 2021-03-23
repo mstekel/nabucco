@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13825"
+occurrence_id: "3258"
+short_title: "TLZ 64 (1939), 282-283"
+author: "Clemen, Carl"
+publication_year: "1939"
+title: "Rv. F.W. König, Relief and Inschrift des Königs Dareios I. am Felsen von Bagistan"
+volume_no_: "64"
+pages: "282-283"
+journal: "Theologische Literaturzeitung"
+title: "Rv. F.W. König, Relief and Inschrift des Königs Dareios I. am Felsen von Bagistan"
+previous_item: "13828"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14629"
+occurrence_id: "1581"
+short_title: "BaM 6 (1973), 79-86"
+author: "Nissen, Hans J."
+publication_year: "1973"
+title: "Südbabylonien in parhischer and sassanidischer Zeit"
+volume_no_: "6"
+pages: "79-86"
+journal: "Baghdader Mitteilungen"
+title: "Südbabylonien in parhischer and sassanidischer Zeit"
+previous_item: "14632"
+---

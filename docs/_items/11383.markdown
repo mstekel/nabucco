@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11383"
+occurrence_id: "2122"
+short_title: "JAOS 75 (1955), 166-173"
+author: "Sarton, George"
+publication_year: "1955"
+title: "Chaldaean Astronomy of the last Three Centuries B.C."
+volume_no_: "75"
+pages: "166-173"
+journal: "Journal of the American Oriental Society"
+title: "Chaldaean Astronomy of the last Three Centuries B.C."
+previous_item: "11386"
+---

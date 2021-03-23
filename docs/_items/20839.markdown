@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20839"
+occurrence_id: "4300"
+short_title: "Frahm 2002"
+author: "Frahm, Eckart"
+publication_year: "2002"
+title: "Zwischen Tradition und Neuerung. Babylonische Priestergelehrte im achämenidenzeitlichen Uruk"
+pages: "74-108"
+editor: "Kratz, Reinhard , G."
+book: "Religion und Religionskontakte im Zeitalter der Achämeniden, Veröffentlichungen der Wissenschaftlichen Gesellschaft für Theologie 22 (Gütersloh)"
+title: "Zwischen Tradition und Neuerung. Babylonische Priestergelehrte im achämenidenzeitlichen Uruk"
+previous_item: "20842"
+---

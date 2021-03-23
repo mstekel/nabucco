@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14893"
+occurrence_id: "3004"
+short_title: "RA 12 (1915), 1- 13"
+author: "Scheil, Vincent"
+publication_year: "1915"
+title: "La libération judiciaire d'un fils donné en gage sous Neriglissor en 558 av. J.-C."
+volume_no_: "12"
+pages: "1-13."
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "La libération judiciaire d'un fils donné en gage sous Neriglissor en 558 av. J.-C."
+previous_item: "14896"
+---

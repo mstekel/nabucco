@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20215"
+occurrence_id: "4281"
+short_title: "Brown 2010"
+author: "Brown, David"
+publication_year: "2010"
+title: "Disenchanted with the Gods? the advent of accurate predictions and ist influence on scholarly attitudes towards the supernatural in ancient Mesopotamia and ancient Greece."
+pages: "11-27"
+editor: "Robson, Eleanor"
+book: "Your Praise is Sweet: A Memorial Volume for Jeremy Black from Students, Colleagues and Friends (London)"
+title: "Disenchanted with the Gods? the advent of accurate predictions and ist influence on scholarly attitudes towards the supernatural in ancient Mesopotamia and ancient Greece."
+previous_item: "20218"
+---

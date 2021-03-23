@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18667"
+occurrence_id: "4834"
+short_title: "Dandamayev 1967"
+author: "Dandamayev, Muhammed A."
+publication_year: "1967"
+title: "Die Lehnsbeziehungen in Babylonien unter den ersten Achämeniden"
+pages: "37-42"
+editor: "Wiessner, Gernot"
+book: "Festschrift für Wilhelm Eilers. Ein Dokument der internationalen Forschung zum 27. September 1966 (Wiesbaden)"
+title: "Die Lehnsbeziehungen in Babylonien unter den ersten Achämeniden"
+previous_item: "18670"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8206"
+occurrence_id: "3088"
+short_title: "RA 85 (1991 publ. 1992), 49-62"
+author: "Stolper, Matthew W."
+publication_year: "1991 publ. 1992"
+title: "A Property in Bīt Pāniya"
+volume_no_: "85"
+pages: "49-62"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "A Property in Bīt Pāniya"
+previous_item: "8209"
+---

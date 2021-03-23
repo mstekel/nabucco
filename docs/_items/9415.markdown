@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9415"
+occurrence_id: "3560"
+short_title: "ZDMG 135 (1985), 185-186"
+author: "Kümmel, Hans Martin"
+publication_year: "1985"
+title: "Rv. G.J.P. McEwan, Priest and Temple in Hellenistic Babylonia (FAOS 4, 1981)"
+volume_no_: "135"
+pages: "185-186"
+journal: "Zeitschrift der Deutschen Morgenländischen Gesellschaft"
+title: "Rv. G.J.P. McEwan, Priest and Temple in Hellenistic Babylonia (FAOS 4, 1981)"
+previous_item: "9418"
+---

@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "8920"
+occurrence_id: "3911"
+short_title: "JCS 66 (2014), 113-128"
+author: "Bartelmus, Alexa"
+publication_year: "2014"
+title: "Collecting and Connecting History: Nabonidus and the Kassite Rebuilding of E(ul)maš of (Ištar)-Annunītu in Sippar-Annunītu"
+volume_no_: "66"
+pages: "113-128"
+title: "Collecting and Connecting History: Nabonidus and the Kassite Rebuilding of E(ul)maš of (Ištar)-Annunītu in Sippar-Annunītu"
+previous_item: "8923"
+---

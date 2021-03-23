@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33946"
+place_id: "124"
+parent_id: "40"
+place_name: "Ālu-ša-maqtūtu"
+title: "Ālu-ša-maqtūtu"
+previous_item: "33949"
+---

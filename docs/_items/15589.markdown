@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15589"
+occurrence_id: "3731"
+short_title: "JNSL 10 (1982 publ. 1983), 53-65"
+author: "Fensham, Frank C."
+publication_year: "1982 publ. 1983"
+title: "Nebukadrezzar in the Book of Jeremiah"
+volume_no_: "10"
+pages: "53-65"
+journal: "Journal of North-West Semitic Languages"
+title: "Nebukadrezzar in the Book of Jeremiah"
+previous_item: "15592"
+---

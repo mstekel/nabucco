@@ -1,0 +1,16 @@
+---
+layout: "tablet"
+slug: "25144"
+object_id: "6829"
+nabucco_no_: "HS504"
+museum_no_: "HS 504"
+publication: "TMH 2/3"
+text_number: "60"
+type_and_content: "Promissory notes ina muẖẖi"
+imported: "Melanie Gross (12/12/2016)"
+publication_name: "TMH 2/3 60"
+archive: "Ea-ilūtu-bāni, Ilī-bāni and Nanāhu"
+bibliography: "Joannès 1989, 180."
+title: "HS 504"
+previous_item: "25147"
+---

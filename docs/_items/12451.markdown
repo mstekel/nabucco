@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12451"
+occurrence_id: "1868"
+short_title: "Folia Orientalia 15 (1974), 205-228 (Russ.)"
+author: "Beljavskij, Vitali A."
+publication_year: "1974"
+title: "Die Herstellung von Kleidung bei den Babyloniern im 6. Jh. v.u.Z."
+volume_no_: "15"
+pages: "205-228"
+journal: "Folia Orientalia"
+title: "Die Herstellung von Kleidung bei den Babyloniern im 6. Jh. v.u.Z."
+previous_item: "12454"
+---

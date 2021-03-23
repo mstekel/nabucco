@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10675"
+occurrence_id: "1314"
+short_title: "Akkadica 122 (2001), 65-70"
+author: "Waerzeggers, Caroline"
+publication_year: "2001"
+title: "A Note on the Marriage Gift biblu in the Neo-Babylonian Period"
+volume_no_: "122"
+pages: "65-70"
+journal: "Akkadica"
+title: "A Note on the Marriage Gift biblu in the Neo-Babylonian Period"
+previous_item: "10678"
+---

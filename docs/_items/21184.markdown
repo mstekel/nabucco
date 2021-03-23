@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21184"
+occurrence_id: "5038"
+short_title: "Rollinger 2003a"
+author: "Rollinger, Robert"
+publication_year: "2003"
+title: "Kerkenes Dag and the Median \"empire\"."
+pages: "321-326"
+editor: "Lanfranchi, Giovanni , B."
+book: "Conitnuity of Empire (?). Assyria, Media, Persia (Padova)"
+title: "Kerkenes Dag and the Median \"empire\"."
+previous_item: "21187"
+---

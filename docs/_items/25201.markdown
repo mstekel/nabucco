@@ -1,0 +1,17 @@
+---
+layout: "tablet"
+slug: "25201"
+object_id: "6894"
+nabucco_no_: "HS667"
+museum_no_: "HS 667"
+publication: "TMH 2/3"
+text_number: "223"
+type_and_content: "Receipts"
+paraphrase: "Receipt of bricks: <strong>A</strong>, by order of (<em>ina na&scaron;parti</em>) <strong>C</strong>, receives 2,210 bricks from <strong>B</strong> in the presence (<em>ina u&scaron;uzzi</em>) of 1 witness and the scribe (not specified).<br /> &nbsp;<br /> <strong>A</strong> = Balāṭu; <strong>B</strong> = Zēr-Bābili; <strong>C</strong> = Ibnāya; Scribe = Arad-Bēl<br /> &nbsp;<br /> &nbsp;"
+imported: "Melanie Gross (12/12/2016)"
+publication_name: "TMH 2/3 223"
+archive: "Ea-ilūtu-bāni, Ilī-bāni and Nanāhu"
+bibliography: "Joannès 1989, 230. "
+title: "HS 667"
+previous_item: "25204"
+---

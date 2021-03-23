@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "20413"
+occurrence_id: "4234"
+short_title: "Palou and Palou 1962"
+author: "Palou, Christiane"
+publication_year: "1962"
+title: "La Perse Antique"
+pages: "979"
+book: "« Que sais-je? », No. 979"
+title: "La Perse Antique"
+previous_item: "20416"
+---

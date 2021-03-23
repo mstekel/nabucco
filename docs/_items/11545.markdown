@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11545"
+occurrence_id: "2998"
+short_title: "RA 100 (2006), 83-96"
+author: "Waerzeggers, Caroline"
+publication_year: "2006"
+title: "Neo-Babylonian Laandry"
+volume_no_: "100"
+pages: "83-96"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "Neo-Babylonian Laandry"
+previous_item: "11548"
+---

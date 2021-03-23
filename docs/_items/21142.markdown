@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21142"
+occurrence_id: "4814"
+short_title: "Roaf 1990"
+author: "Roaf, Michael"
+publication_year: "1990"
+title: "Sculptors and Designers at Persepolis"
+pages: "105-114"
+editor: "Gunter, Ann, C."
+book: "Investigating Artistic Environments in the Ancient Near East (Washington D.C.)"
+title: "Sculptors and Designers at Persepolis"
+previous_item: "21145"
+---

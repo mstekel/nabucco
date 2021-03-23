@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14224"
+occurrence_id: "2402"
+short_title: "Mesopotamia 17 (1982 publ. 1983), 158-160"
+author: "Saporetti, Claudio"
+publication_year: "1982 publ. 1983"
+title: "Rv. G.J.P. McEwan, Priest and Temple in Hellenistic Babylonia (FAOS 4, 1981)"
+volume_no_: "17"
+pages: "158-160"
+journal: "Mesopotamia"
+title: "Rv. G.J.P. McEwan, Priest and Temple in Hellenistic Babylonia (FAOS 4, 1981)"
+previous_item: "14227"
+---

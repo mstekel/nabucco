@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10267"
+occurrence_id: "2104"
+short_title: "JAOS 128 (2008), 559-564"
+author: "Weisberg, David B."
+publication_year: "2008"
+title: "On Reading Archival Texts: M. Jursa's Comments to OIP 122 and the Limits of Criticism."
+volume_no_: "128"
+pages: "559-564"
+journal: "Journal of the American Oriental Society"
+title: "On Reading Archival Texts: M. Jursa's Comments to OIP 122 and the Limits of Criticism."
+previous_item: "10270"
+---

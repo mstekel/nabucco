@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11131"
+occurrence_id: "3771"
+short_title: "JSS 5 (1960), 74-77"
+author: "Bottéro, Jean"
+publication_year: "1960"
+title: "Rv. R. A. Parker and W.H. Dubberstein, Babylonian Chronology 626 B.C. - A.D. 75"
+volume_no_: "5"
+pages: "74-77"
+journal: "Journal of Semitic Studies"
+title: "Rv. R. A. Parker and W.H. Dubberstein, Babylonian Chronology 626 B.C. - A.D. 75"
+previous_item: "11134"
+---

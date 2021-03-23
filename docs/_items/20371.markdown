@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20371"
+occurrence_id: "5114"
+short_title: "Zawadzki 2014b"
+author: "Zawadzki, Stefan"
+publication_year: "2014"
+title: "Nabonidus and Sippar"
+pages: "875-884"
+editor: "Schuster-Brandis, Anais"
+book: "Krieg und Frieden im Alten Vorderasien. 52e Rencontre Assyriologique Internationale. International Congress of Assyriology and Near Eastern Archaeology. Münster, 17.-21. Juli 2006, Alter Orient und Altes Testament 401 (Münster)"
+title: "Nabonidus and Sippar"
+previous_item: "20374"
+---

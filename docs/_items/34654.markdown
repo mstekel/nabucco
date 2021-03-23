@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34654"
+place_id: "814"
+parent_id: "61"
+place_name: "Bāb-nalmē"
+title: "Bāb-nalmē"
+previous_item: "34657"
+---

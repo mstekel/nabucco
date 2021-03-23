@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13942"
+occurrence_id: "3888"
+short_title: "ZSSR 58 (1938), 238-244"
+author: "Lautner, J.G."
+publication_year: "1938"
+title: "Rv. M. San Nicolò, Zur Nachbürgschaft in den KeilschriftUrkunden und in den gräko-ägyptischen Papyri"
+volume_no_: "58"
+pages: "238-244"
+journal: "Zeitschrift der Savigny-Stiftung für Rechtsgeschichte. Romanistische Abteilung."
+title: "Rv. M. San Nicolò, Zur Nachbürgschaft in den KeilschriftUrkunden und in den gräko-ägyptischen Papyri"
+previous_item: "13945"
+---

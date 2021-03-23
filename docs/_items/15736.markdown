@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15736"
+occurrence_id: "1502"
+short_title: "ArOr 67 (1999), 541-545"
+author: "Dandamayev, Muhammed A."
+publication_year: "1999"
+title: "A Neo Babylonian Colony in Transpotamia (?)"
+volume_no_: "67"
+pages: "541-545"
+journal: "Archív Orientalí"
+title: "A Neo Babylonian Colony in Transpotamia (?)"
+previous_item: "15739"
+---

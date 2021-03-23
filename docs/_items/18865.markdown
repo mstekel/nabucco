@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18865"
+occurrence_id: "4787"
+short_title: "Jursa 2005a"
+author: "Jursa, Michael"
+publication_year: "2005"
+title: "Nochmals: aramäische Buchstabennamen in akkadischer Transliteration"
+pages: "399-405"
+editor: "Rollinger, Robert"
+book: "Von Sumer bis Homer, Festschrift für Manfred Schretter, AOAT 325 (Münster)"
+title: "Nochmals: aramäische Buchstabennamen in akkadischer Transliteration"
+previous_item: "18868"
+---

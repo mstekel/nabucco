@@ -1,0 +1,9 @@
+---
+layout: "news"
+slug: "32743"
+start_date: "24-06-2017"
+end_date: "31-10-2017"
+title: "Partner Projects"
+description: "The partner project <em>The Priesthood of Uruk in Late First Millennium BCE Babylonia</em> will guide you into the rich world of the priests from Uruk and their archives; and if you are interested in cuneiform texts mentioning Judeans and Israelites, you find them in transliteration and many of them also in translation, with the personal names lemmatized, in the partner project <em>Cuneiform Texts Mentioning Israelites, Judeans, and Related Population Groups</em>."
+previous_item: "32746"
+---

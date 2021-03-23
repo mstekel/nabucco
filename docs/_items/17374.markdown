@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17374"
+occurrence_id: "314"
+short_title: "Bausani 1965"
+author: "Bausani, Alessandro "
+publication_year: "1965"
+title: "Die Perser. Von den Anfängen bis zur Gegenwart"
+title: "Die Perser. Von den Anfängen bis zur Gegenwart"
+previous_item: "17377"
+---

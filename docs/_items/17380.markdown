@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17380"
+occurrence_id: "350"
+short_title: "Cardascia 1951"
+author: "Cardascia, Guillaume "
+publication_year: "1951"
+title: "Les archives de Murašû"
+title: "Les archives de Murašû"
+previous_item: "17383"
+---

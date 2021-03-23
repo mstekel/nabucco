@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17638"
+occurrence_id: "352"
+short_title: "Cavigneaux 1981"
+author: "Cavigneaux, Antoine "
+publication_year: "1981"
+title: "Textes scolaires du Temple de Nabû ša Harê (Texts from Babylon, Vol. 1)"
+title: "Textes scolaires du Temple de Nabû ša Harê (Texts from Babylon, Vol. 1)"
+previous_item: "17641"
+---

@@ -1,0 +1,9 @@
+---
+layout: "archive"
+slug: "22783"
+archive_id: "106"
+archive_name: "Šangû-Ninurta"
+is_part_of: "Babylon"
+title: "Šangû-Ninurta"
+previous_item: "22786"
+---

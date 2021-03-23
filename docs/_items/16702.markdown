@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16702"
+occurrence_id: "911"
+short_title: "Wiesehöfer 1978"
+author: "Wiesehöfer, Josef "
+publication_year: "1978"
+title: "Der Aufstand Gaumātas und die Anfänge Dareios´ I, Habelts Dissertationsdrucke, Reihe Alte Geschichte, Heft 13 (Bonn)"
+title: "Der Aufstand Gaumātas und die Anfänge Dareios´ I, Habelts Dissertationsdrucke, Reihe Alte Geschichte, Heft 13 (Bonn)"
+previous_item: "16705"
+---

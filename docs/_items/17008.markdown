@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17008"
+occurrence_id: "435"
+short_title: "Herzfeld 1938"
+author: "Herzfeld, Ernst "
+publication_year: "1938"
+title: "Altpersische Inschriften"
+title: "Altpersische Inschriften"
+previous_item: "17011"
+---

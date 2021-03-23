@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19333"
+occurrence_id: "5077"
+short_title: "Richardson 2002"
+author: "Richardson, Seth"
+publication_year: "2002"
+title: "Ewe Should Be So Lucky: Extispicy Reports and Everyday Life"
+pages: "229-244"
+editor: "Wunsch, Cornelia"
+book: "Mining the archives, Fs. Walker (Dresden)"
+title: "Ewe Should Be So Lucky: Extispicy Reports and Everyday Life"
+previous_item: "19336"
+---

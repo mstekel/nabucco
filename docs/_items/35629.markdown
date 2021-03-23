@@ -1,0 +1,10 @@
+---
+layout: "glossary"
+slug: "35629"
+concept_id: "1234"
+label: "Redemption"
+hierarchy: "Content type"
+type: "172"
+title: "Redemption"
+previous_item: "35632"
+---

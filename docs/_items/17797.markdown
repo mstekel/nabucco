@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17797"
+occurrence_id: "535"
+short_title: "Pearce 1982"
+author: "Pearce, Laurie E. "
+publication_year: "1982"
+title: "Cuneiform Cryptography: Numerical Substitution for Syllabiv and Logographic Signs"
+title: "Cuneiform Cryptography: Numerical Substitution for Syllabiv and Logographic Signs"
+previous_item: "17800"
+---

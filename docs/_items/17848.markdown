@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17848"
+occurrence_id: "855"
+short_title: "Olmstead 1962"
+author: "Olmstead, Albert T.E. "
+publication_year: "1962"
+title: "History of the Persian Empire, Phoenix Paperbacks (Chicago)"
+title: "History of the Persian Empire, Phoenix Paperbacks (Chicago)"
+previous_item: "17851"
+---

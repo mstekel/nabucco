@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14605"
+occurrence_id: "1451"
+short_title: "Archéologia 219 (1986), 56-61"
+author: "Joannès, Francis"
+publication_year: "1986"
+title: "Les archives d'une famille babylonienne sur des tablettes d'argile trouvées à Borsippa"
+volume_no_: "219"
+pages: "56-61"
+journal: "Archéologia"
+title: "Les archives d'une famille babylonienne sur des tablettes d'argile trouvées à Borsippa"
+previous_item: "14608"
+---

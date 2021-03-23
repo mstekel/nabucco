@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33406"
+place_id: "349"
+parent_id: "40"
+place_name: "Bīt-Sîn-erība"
+title: "Bīt-Sîn-erība"
+previous_item: "33409"
+---

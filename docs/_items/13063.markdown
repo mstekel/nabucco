@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13063"
+occurrence_id: "2157"
+short_title: "JCS 20 (1966), 1-33"
+author: "Aaboe, Asger"
+publication_year: "1966"
+title: "Some Dateless Computed Lists of Longitudes of Characteristic Planetary Phenomena from the Late-Babylonian Period"
+volume_no_: "20"
+pages: "1-33"
+journal: "Journal of Cuneiform Studies"
+title: "Some Dateless Computed Lists of Longitudes of Characteristic Planetary Phenomena from the Late-Babylonian Period"
+previous_item: "13066"
+---

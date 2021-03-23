@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15478"
+occurrence_id: "3133"
+short_title: "Recueils de la Soviété Jean Bodin pour l´Histoire Comparative des Institutions, XLI (1983), 133-145"
+author: "Dandamayev, Muhammed A."
+publication_year: "1983"
+title: "Aliens and the community in Babylonia in the 6th-5th Centuries B.C. Les communautés rurales. Deuxième partie: Antiquité"
+volume_no_: "XLI"
+pages: "133-145"
+journal: "Recueils de la Soviété Jean Bodin pour l´Histoire Comparative des Institutions"
+title: "Aliens and the community in Babylonia in the 6th-5th Centuries B.C. Les communautés rurales. Deuxième partie: Antiquité"
+previous_item: "15481"
+---

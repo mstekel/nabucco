@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "10072"
+occurrence_id: "158"
+short_title: "Zadok, NABU 2000/2"
+author: "Zadok, Ran"
+publication_year: "2000"
+title: "An early Neo-Babylonian sale document"
+volume_no_: "2000/2"
+related_objects: "5678"
+title: "An early Neo-Babylonian sale document"
+previous_item: "10075"
+---

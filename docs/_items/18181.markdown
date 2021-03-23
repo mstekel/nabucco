@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18181"
+occurrence_id: "520"
+short_title: "Neugebauer 1951"
+author: "Neugebauer, Otto "
+publication_year: "1951"
+title: "The exact sciences in Antiquity"
+title: "The exact sciences in Antiquity"
+previous_item: "18184"
+---

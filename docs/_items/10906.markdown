@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "10906"
+occurrence_id: "2558"
+short_title: "NABU 1997/135"
+author: "MacGinnis, John"
+title: "Ba‚ continuo"
+volume_no_: "135"
+publication_year: "1997"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Ba‚ continuo"
+previous_item: "10909"
+---

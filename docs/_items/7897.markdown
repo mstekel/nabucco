@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7897"
+occurrence_id: "1423"
+short_title: "AoF 20 (1993), 134-147"
+author: "Dalley, Stephanie"
+publication_year: "1993"
+title: "Niniveh after 612 BC"
+volume_no_: "20"
+pages: "134-147"
+journal: "Altorientalische Forschungen"
+title: "Niniveh after 612 BC"
+previous_item: "7900"
+---

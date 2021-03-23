@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14464"
+occurrence_id: "3697"
+short_title: "Eudemus 1 (1941), 9-22"
+author: "Pannekoek, Anton"
+publication_year: "1941"
+title: "Some Remarks on the Moon´s Diameter and the Eclipse Tables in Babylonian Astronomy"
+volume_no_: "1"
+pages: "9-22."
+journal: "Eudemus"
+title: "Some Remarks on the Moon´s Diameter and the Eclipse Tables in Babylonian Astronomy"
+previous_item: "14467"
+---

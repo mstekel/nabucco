@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "14239"
+occurrence_id: "2483"
+short_title: "NABU 1991/65-66"
+author: "Gehlken, Erlend"
+title: "Der längste Tag in Babylon (MUL.APIN und die Wasseruhr)"
+volume_no_: "65-66"
+publication_year: "1991"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Der längste Tag in Babylon (MUL.APIN und die Wasseruhr)"
+previous_item: "14242"
+---

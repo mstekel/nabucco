@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17026"
+occurrence_id: "546"
+short_title: "R 5"
+author: "Pinches, Theophilus G. "
+publication_year: "1880-1884"
+title: "The Cuneiform Inscriptions of Western Asia. Volume V"
+title: "The Cuneiform Inscriptions of Western Asia. Volume V"
+previous_item: "17029"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10561"
+occurrence_id: "3706"
+short_title: "Gymnasium 75 (1968), 167"
+author: "Kiechle, F"
+publication_year: "1968"
+title: "Rv. A. Bausani, Die Perser. Von den Anfängen bis zur Gegenwart"
+volume_no_: "75"
+pages: "167"
+journal: "Gymnasium"
+title: "Rv. A. Bausani, Die Perser. Von den Anfängen bis zur Gegenwart"
+previous_item: "10564"
+---

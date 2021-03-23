@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33733"
+place_id: "262"
+parent_id: "40"
+place_name: "Bīt-Haddija"
+title: "Bīt-Haddija"
+previous_item: "33736"
+---

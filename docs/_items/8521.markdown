@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8521"
+occurrence_id: "1764"
+short_title: "BSA 2 (1985), 119-126"
+author: "Stol, Marten"
+publication_year: "1985"
+title: "Remarks on the Cultivation of Sesame and the Extraction of its Oil"
+volume_no_: "2"
+pages: "119-126"
+journal: "Bulletin on Sumerian Agriculture"
+title: "Remarks on the Cultivation of Sesame and the Extraction of its Oil"
+previous_item: "8524"
+---

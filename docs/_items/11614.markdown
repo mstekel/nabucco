@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11614"
+occurrence_id: "3368"
+short_title: "WZKM 72 (1980 publ. 1981), 196-197"
+author: "Hunger, Hermann"
+publication_year: "1980 publ. 1981"
+title: "Rv. E. Salonen, Neubabylonische Urkunden verschiedenen Inhalts, II"
+volume_no_: "72"
+pages: "196-197"
+journal: "Wiener Zeitschrift für die Kunde des Morgenlandes"
+title: "Rv. E. Salonen, Neubabylonische Urkunden verschiedenen Inhalts, II"
+previous_item: "11617"
+---

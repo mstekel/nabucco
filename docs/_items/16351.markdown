@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16351"
+occurrence_id: "1794"
+short_title: "BSOAS 51 (1988), 121-122"
+author: "Healey, J.F."
+publication_year: "1988"
+title: "Rv. D.J. Wiseman, Nebuchadrezzar and Babylon (1985)"
+volume_no_: "51"
+pages: "121-122"
+journal: "Bulletin of the School of Oriental and African Studies"
+title: "Rv. D.J. Wiseman, Nebuchadrezzar and Babylon (1985)"
+previous_item: "16354"
+---

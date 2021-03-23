@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18274"
+occurrence_id: "305"
+short_title: "Augapfel 1917"
+author: "Augapfel, Julius "
+publication_year: "1917"
+title: "Babylonische Rechtsurkunden aus der Regierungszeit Artaxerxes I. und Darius II."
+title: "Babylonische Rechtsurkunden aus der Regierungszeit Artaxerxes I. und Darius II."
+previous_item: "18277"
+---

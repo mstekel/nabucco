@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10258"
+occurrence_id: "2056"
+short_title: "JANES 9 (1977 publ. 1978), 31-57"
+author: "Muscarella, Oscar White"
+publication_year: "1977 publ. 1978"
+title: "The Archaeological Evidence for Relations between Greece and Iran in the First Millennium B.C."
+volume_no_: "9"
+pages: "31-57"
+journal: "Journal of the Ancient Near Eastern Society of Columbia University"
+title: "The Archaeological Evidence for Relations between Greece and Iran in the First Millennium B.C."
+previous_item: "10261"
+---

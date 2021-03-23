@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "10069"
+occurrence_id: "4120"
+short_title: "NABU 2016/78"
+author: "Adelhofer, Matthias"
+publication_year: "2016"
+title: "Tamītu “oath” and uˀiltu ša tamīti “oath summons” in Uruk"
+volume_no_: "2016 (03)"
+journal: "Notes assyriologiques brèves et utilitaires"
+title: "Tamītu “oath” and uˀiltu ša tamīti “oath summons” in Uruk"
+previous_item: "10072"
+---

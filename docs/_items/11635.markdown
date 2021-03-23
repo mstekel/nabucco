@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11635"
+occurrence_id: "3482"
+short_title: "ZA 86 (1996), 272-274"
+author: "Wunsch, Cornelia"
+publication_year: "1996"
+title: "Rv. F. Joannès, Les tablettes néo-babyloniennes de la Bodleian Library conservées à l´Ashmolean Museum (OECT 12, 1990)"
+volume_no_: "86"
+pages: "272-274"
+journal: "Zeitschrift für Assyriologie"
+title: "Rv. F. Joannès, Les tablettes néo-babyloniennes de la Bodleian Library conservées à l´Ashmolean Museum (OECT 12, 1990)"
+previous_item: "11638"
+---

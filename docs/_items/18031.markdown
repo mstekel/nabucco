@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18031"
+occurrence_id: "392"
+short_title: "Driver 1948"
+author: "Driver, Godfrey R. "
+publication_year: "1948"
+title: "Semitic Writing from Pictograph to Alphabet"
+title: "Semitic Writing from Pictograph to Alphabet"
+previous_item: "18034"
+---

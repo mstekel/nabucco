@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "21079"
+occurrence_id: "4478"
+short_title: "Tadmor 1965"
+author: "Tadmor, Hayim"
+publication_year: "1965"
+title: "The Inscriptions of Nabunaid: Historical Arrangement,"
+pages: "351-363"
+book: "Studies in Honor of Benno Landsberger on His Seventy-fifth Birthday, April 21, 1963. Assyriological Studies 16 (Chicago)"
+title: "The Inscriptions of Nabunaid: Historical Arrangement,"
+previous_item: "21082"
+---

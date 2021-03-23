@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14350"
+occurrence_id: "3083"
+short_title: "RA 83 (1989), 153-162"
+author: "Bruschweiler, Françoise"
+publication_year: "1989"
+title: "Un échange de terrains entre Nabuchodonozor II et un inconnu dans la région de Sippar"
+volume_no_: "83"
+pages: "153-162"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "Un échange de terrains entre Nabuchodonozor II et un inconnu dans la région de Sippar"
+previous_item: "14353"
+---

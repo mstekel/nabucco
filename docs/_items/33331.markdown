@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33331"
+place_id: "922"
+parent_id: "61"
+place_name: "Bīt-Šapru'"
+title: "Bīt-Šapru'"
+previous_item: "33334"
+---

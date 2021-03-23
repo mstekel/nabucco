@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18253"
+occurrence_id: "4094"
+short_title: "Nielsen 2011"
+author: "Nielsen, John P. "
+publication_year: "2011"
+title: "Sons and Descendants. A Social History of Kin Groups and Family Names in the Early Neo-Babylonian Period, 747-626 BC, Culture and History of the Ancient Near East 43 (Leiden/Boston)"
+title: "Sons and Descendants. A Social History of Kin Groups and Family Names in the Early Neo-Babylonian Period, 747-626 BC, Culture and History of the Ancient Near East 43 (Leiden/Boston)"
+previous_item: "18256"
+---

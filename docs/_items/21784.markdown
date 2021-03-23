@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21784"
+occurrence_id: "4929"
+short_title: "Beaulieu 2001"
+author: "Beaulieu, Paul-A."
+publication_year: "2001"
+title: "The Abduction of Ishtar from the Eanna Temple: theChanging Memories of an Event"
+pages: "29-40"
+editor: "Huehnergard, John"
+book: "Proceedings of the XLVe Rencontre Assyriologique Internationale, Part I, Harvard University: Historiography in the Cuneiform World (Bethesda 2001),"
+title: "The Abduction of Ishtar from the Eanna Temple: theChanging Memories of an Event"
+previous_item: "21787"
+---

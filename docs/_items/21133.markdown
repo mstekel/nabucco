@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21133"
+occurrence_id: "4766"
+short_title: "Stolper 2000"
+author: "Stolper, Matthew W."
+publication_year: "2000"
+title: "No Harm Done: On Late Achaemenid pirku Guarantees"
+pages: "467-477"
+editor: "Neumann, Hans"
+book: "Assyriologica et Semitica, Fs. Oelsner. AOAT 252. (Münster)"
+title: "No Harm Done: On Late Achaemenid pirku Guarantees"
+previous_item: "21136"
+---

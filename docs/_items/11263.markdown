@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11263"
+occurrence_id: "1478"
+short_title: "ArOr 39 (1971), 357"
+author: "Klíma, Otokar"
+publication_year: "1971"
+title: "Rv. R.T. Hallock, Persepolis Fortification Tablets (OIP 92)"
+volume_no_: "39"
+pages: "357"
+journal: "Archív Orientalí"
+title: "Rv. R.T. Hallock, Persepolis Fortification Tablets (OIP 92)"
+previous_item: "11266"
+---

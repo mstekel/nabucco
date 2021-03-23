@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15193"
+occurrence_id: "1598"
+short_title: "BASOR 93 (1944), 14-17"
+author: "Oppenheim, A. Leo"
+publication_year: "1944"
+title: "Assyriological Gleanings II"
+volume_no_: "93"
+pages: "14-17"
+journal: "Bulletin of the American Schools of Oriental Research"
+title: "Assyriological Gleanings II"
+previous_item: "15196"
+---

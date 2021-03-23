@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9589"
+occurrence_id: "1475"
+short_title: "ArOr 37/IV (1969 publ. 1970), 473-522"
+author: "Hruška, Blahoslav"
+publication_year: "1969 publ. 1970"
+title: "Das spätbabylonische Lehrgedicht \"Inannas Erhöhung\""
+volume_no_: "37/IV"
+pages: "473-522"
+journal: "Archív Orientalí"
+title: "Das spätbabylonische Lehrgedicht \"Inannas Erhöhung\""
+previous_item: "9592"
+---

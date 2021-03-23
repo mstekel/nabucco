@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11350"
+occurrence_id: "1946"
+short_title: "Iraq 16 (1954), 59-114"
+author: "Mallowan, Max E.L."
+publication_year: "1954"
+title: "The Excavations at Nimrud (Kalhu), 1953,"
+volume_no_: "16"
+pages: "59-114"
+journal: "Iraq"
+title: "The Excavations at Nimrud (Kalhu), 1953,"
+previous_item: "11353"
+---

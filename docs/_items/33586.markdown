@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "33586"
+place_id: "1430"
+parent_id: "1429"
+place_name: "Marad City"
+related_objects: "5902"
+title: "Marad City"
+previous_item: "33589"
+---

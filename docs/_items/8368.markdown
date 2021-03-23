@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "8368"
+occurrence_id: "3958"
+short_title: "WZKM 103 (2013), 121-87"
+author: "Hackl, Johannes"
+publication_year: "2013"
+title: "Frau Weintraube, Frau Heuschrecke und Frau Gut ­ Untersuchungen zu den babylonischen Namen von Sklavinnen in neubabylonischer und persischer Zeit"
+volume_no_: "103"
+pages: "121-87"
+title: "Frau Weintraube, Frau Heuschrecke und Frau Gut ­ Untersuchungen zu den babylonischen Namen von Sklavinnen in neubabylonischer und persischer Zeit"
+previous_item: "8371"
+---

@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "21523"
+occurrence_id: "4640"
+short_title: "Klíma 1964"
+author: "Klíma, Josef"
+publication_year: "1964"
+title: "Beiträge zur Struktur der neubabylonischen Gesellschaft"
+pages: "11-21."
+book: "Compte rendu de l’onzième rencontre assyriologique internationale – Publications de l’Institut Néerlandais pour le Proche-Orient à Leiden 2, RAI 11 (Leiden)"
+title: "Beiträge zur Struktur der neubabylonischen Gesellschaft"
+previous_item: "21526"
+---

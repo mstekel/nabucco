@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "12733"
+occurrence_id: "3386"
+short_title: "Oppert, ZA 3 (1888)"
+author: "Oppert, Jules"
+publication_year: "1888"
+title: "Une femme gardienne de son mari"
+volume_no_: "3"
+pages: "17-22"
+title: "Une femme gardienne de son mari"
+previous_item: "12736"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9706"
+occurrence_id: "2103"
+short_title: "JAOS 126/3 (2006), 452-458"
+author: "Jursa, Michael"
+publication_year: "2006"
+title: "Rv. D.B. Weisberg, Neo-Babylonian Texts in the Oriental Institute. OIP 122 (Chicago 2003)."
+volume_no_: "126/3"
+pages: "452-458"
+journal: "Journal of the American Oriental Society"
+title: "Rv. D.B. Weisberg, Neo-Babylonian Texts in the Oriental Institute. OIP 122 (Chicago 2003)."
+previous_item: "9709"
+---

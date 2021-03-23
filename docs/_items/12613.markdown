@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "12613"
+occurrence_id: "2739"
+short_title: "NABU 2010/59"
+author: "Kolev, Rumen, K."
+title: "The Real Age of the Babylonian Astrolabe."
+volume_no_: "59"
+publication_year: "2010"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "The Real Age of the Babylonian Astrolabe."
+previous_item: "12616"
+---

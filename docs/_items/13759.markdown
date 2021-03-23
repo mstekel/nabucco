@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13759"
+occurrence_id: "2902"
+short_title: "Or 55 (1986), 468-472"
+author: "Farber, Walter"
+publication_year: "1986"
+title: "Rv. G.J.P. McEwan, Texts from Hellenistic Babylonia in the Ashmolean Museum (OECT 9)"
+volume_no_: "55"
+pages: "468-472"
+journal: "Orientalia"
+title: "Rv. G.J.P. McEwan, Texts from Hellenistic Babylonia in the Ashmolean Museum (OECT 9)"
+previous_item: "13762"
+---

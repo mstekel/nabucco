@@ -1,0 +1,17 @@
+---
+layout: "tablet"
+slug: "33019"
+object_id: "8844"
+museum_no_: "BM 43152"
+publication: "Jursa 1999"
+page_number: "227"
+period: "Each"
+type_and_content: "-"
+paraphrase: "Fragment: Bēl-rēmanni/<em>Mu&scaron;eb&scaron;i-Marduk</em>//&Scaron;ang&ucirc;-&Scaron;ama&scaron; is mentioned in unclear context together with Ileˀˀi-Marduk and <em>Nab&ucirc;</em>-mukīn-apli.<br /> &nbsp;"
+imported: "Matthias Adelhofer (07/06/17)"
+publication_name: "Jursa 1999 "
+archive: "Šangû-Šamaš A"
+orientation: "Landscape"
+title: "BM 43152"
+previous_item: "33022"
+---

@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "9802"
+occurrence_id: "2621"
+short_title: "NABU 2000/49"
+author: "MacGinnis, John"
+title: "Family Matters"
+volume_no_: "49"
+publication_year: "2000"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Family Matters"
+previous_item: "9805"
+---

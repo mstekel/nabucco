@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18883"
+occurrence_id: "4883"
+short_title: "Dandamayev 2004"
+author: "Dandamayev, Muhammed A."
+publication_year: "2004"
+title: "Twin Towns and Ethnic Minorities in First-Millennium Babylonia"
+pages: "137-151"
+editor: "Ulf, Christoph"
+book: "Commerce and Monetary Systems in the Ancient World: Means of Transmission and Cultural Interaction, Proc. 5 Annual Symposium of the Assyrian and Babylonian Intellectual Heritage Project Innsbruck (Stuttgart)"
+title: "Twin Towns and Ethnic Minorities in First-Millennium Babylonia"
+previous_item: "18886"
+---

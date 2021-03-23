@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34285"
+place_id: "229"
+parent_id: "40"
+place_name: "Bīt-Bānija"
+title: "Bīt-Bānija"
+previous_item: "34288"
+---

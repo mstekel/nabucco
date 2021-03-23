@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13636"
+occurrence_id: "2240"
+short_title: "JESHO 32 (1989), 203-229"
+author: "van Driel, Govert"
+publication_year: "1989"
+title: "The Murašûs in Context"
+volume_no_: "32"
+pages: "203-229"
+journal: "Journal of the Economic and Social History of the Orient"
+title: "The Murašûs in Context"
+previous_item: "13639"
+---

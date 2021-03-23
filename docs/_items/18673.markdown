@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18673"
+occurrence_id: "4866"
+short_title: "Dandamayev 1995a"
+author: "Dandamayev, Muhammed A."
+publication_year: "1995"
+title: "The Confrontation between State and Temple in Babylonia in the Sixth Century B.C."
+pages: "77-88"
+editor: "de Pury, Albert"
+book: "Le Temple lieu de Conflit. Actes du colloque de Cartigny 1991 (Les Cahiers du CEPOA 7). Leuven)"
+title: "The Confrontation between State and Temple in Babylonia in the Sixth Century B.C."
+previous_item: "18676"
+---

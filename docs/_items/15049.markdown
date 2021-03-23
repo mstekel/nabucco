@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15049"
+occurrence_id: "3842"
+short_title: "RHDFÉ 55 (1977), 643-647"
+author: "Cardascia, Guillaume"
+publication_year: "1977"
+title: "Rv. G. Ries, Die neubabylonischen Bodenpachtformulare"
+volume_no_: "55"
+pages: "643-647"
+journal: "Revue historique du droit français et étranger"
+title: "Rv. G. Ries, Die neubabylonischen Bodenpachtformulare"
+previous_item: "15052"
+---

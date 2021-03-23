@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21445"
+occurrence_id: "4223"
+short_title: "Waerzeggers 2005"
+author: "Waerzeggers, Caroline"
+publication_year: "2005"
+title: "The dispersal history of the Borsippa archives."
+pages: "343-363"
+editor: "Baker, Heather D."
+book: "Approaching the Babylonian Economy, AOAT 330 (Münster)"
+title: "The dispersal history of the Borsippa archives."
+previous_item: "21448"
+---

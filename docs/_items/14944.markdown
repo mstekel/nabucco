@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14944"
+occurrence_id: "3276"
+short_title: "TRG 55 (1987), 231-266"
+author: "Lévy, J.-Ph."
+publication_year: "1987"
+title: "Coup d'oeil historique d'ensemble sur les sûretés réelles"
+volume_no_: "55"
+pages: "231-266"
+journal: "Tijdschrift voor Rechtsgeschiedenis"
+title: "Coup d'oeil historique d'ensemble sur les sûretés réelles"
+previous_item: "14947"
+---

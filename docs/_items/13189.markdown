@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13189"
+occurrence_id: "2836"
+short_title: "Or 12 (1943), 24-30"
+author: "Friedrich, Johannes"
+publication_year: "1943"
+title: "Die Partikeln der zitierten Rede im Achämenidisch-Elamischen"
+volume_no_: "12"
+pages: "24-30"
+journal: "Orientalia"
+title: "Die Partikeln der zitierten Rede im Achämenidisch-Elamischen"
+previous_item: "13192"
+---

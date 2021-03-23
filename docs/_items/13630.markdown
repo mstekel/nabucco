@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13630"
+occurrence_id: "2207"
+short_title: "JCS 56 (2004), 105-126"
+author: "Koch, Johannes"
+publication_year: "2004"
+title: "Ein astralMythologischer Bericht aus der Zeit der Diadochenkämpfe."
+volume_no_: "56"
+pages: "105-126"
+journal: "Journal of Cuneiform Studies"
+title: "Ein astralMythologischer Bericht aus der Zeit der Diadochenkämpfe."
+previous_item: "13633"
+---

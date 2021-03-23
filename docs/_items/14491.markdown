@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14491"
+occurrence_id: "3841"
+short_title: "Revue historique, CCCII/3 (2000), 693-717"
+author: "Joannès, Francis"
+publication_year: "2000"
+title: "De Babylone à Sumer: le parcours intellectuel des lettrés de la Babylonie récente"
+volume_no_: "CCCII/3"
+pages: "693-717"
+journal: "Revue historique"
+title: "De Babylone à Sumer: le parcours intellectuel des lettrés de la Babylonie récente"
+previous_item: "14494"
+---

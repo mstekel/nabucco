@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10285"
+occurrence_id: "2201"
+short_title: "JCS 51 (1999), 101-106"
+author: "Frame, Grant"
+publication_year: "1999"
+title: "A Siege Document from Babylon Dating to 649 B.C."
+volume_no_: "51"
+pages: "101-106"
+journal: "Journal of Cuneiform Studies"
+title: "A Siege Document from Babylon Dating to 649 B.C."
+previous_item: "10288"
+---

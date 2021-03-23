@@ -1,0 +1,12 @@
+---
+layout: "bibliography"
+slug: "13954"
+occurrence_id: "3952"
+short_title: "NABU 2014/32"
+author: "Gysembergh, Victor"
+publication_year: "2014"
+title: "Die Interpretation der Leberamarkierung riḫṣu in Šumma multābiltu"
+volume_no_: "2014/32"
+title: "Die Interpretation der Leberamarkierung riḫṣu in Šumma multābiltu"
+previous_item: "13957"
+---

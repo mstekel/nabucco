@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21769"
+occurrence_id: "4849"
+short_title: "Dandamayev 1984"
+author: "Dandamayev, Muhammed A."
+publication_year: "1984"
+title: "The diaspora. A. Babylonia in the Persian Age"
+pages: "326-342"
+editor: "Finkelstein, Louis"
+book: "The Cambridge History of Judaism. Vol. 1 (Cambridge)"
+title: "The diaspora. A. Babylonia in the Persian Age"
+previous_item: "21772"
+---

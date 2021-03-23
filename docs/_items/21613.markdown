@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21613"
+occurrence_id: "5120"
+short_title: "Paulus 2014"
+author: "Paulus, Susanne"
+publication_year: "2014"
+title: "Eine ungewöhnliche Adoption und ein fataler Totschlag ­ Babylonische Familiengeschichten aus dem frühen 1. Jt. v. Chr."
+pages: "547-561"
+editor: "Marti, Lionel"
+book: "La famille dans le Proche-Orient ancien: réalités, symbolismes, et images. Proceedings of the 55th Rencontre Assyriologique Internationale at Paris, 6-9 July 2009 (Winona Lake)"
+title: "Eine ungewöhnliche Adoption und ein fataler Totschlag ­ Babylonische Familiengeschichten aus dem frühen 1. Jt. v. Chr."
+previous_item: "21616"
+---

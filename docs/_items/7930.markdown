@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7930"
+occurrence_id: "1601"
+short_title: "BCSMS 25 (1993), 74"
+author: "Fortin, M."
+publication_year: "1993"
+title: "Rv. P. Briant, Darius. Les Perses et l'Empire."
+volume_no_: "25"
+pages: "74"
+journal: "Bulletin. The Canadian Society for Mesopotamian Studies"
+title: "Rv. P. Briant, Darius. Les Perses et l'Empire."
+previous_item: "7933"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11242"
+occurrence_id: "1363"
+short_title: "AMIT 42 (2010), 318-324."
+author: "Jacobs, Bruno"
+publication_year: "2010"
+title: "Rv. A. Kuhrt, the Persian Empire: A Corpus of Sources from the Achaemenid Period (Routledge 2007)."
+volume_no_: "42"
+pages: "318-324"
+journal: "Archäologische Mitteilungen aus Iran und Turan"
+title: "Rv. A. Kuhrt, the Persian Empire: A Corpus of Sources from the Achaemenid Period (Routledge 2007)."
+previous_item: "11245"
+---

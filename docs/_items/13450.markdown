@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13450"
+occurrence_id: "1236"
+short_title: "AfO 44/45 (1997/1998), 419-424"
+author: "Jursa, Michael"
+publication_year: "1997-1998"
+title: "Rv. S.W. Cole, Nippur IV. the Early Neo-Babylonian Governor´s Archive from Nippur (OIP 114, 1996)"
+volume_no_: "44-45"
+pages: "419-424"
+journal: "Archiv für Orientforschung"
+title: "Rv. S.W. Cole, Nippur IV. the Early Neo-Babylonian Governor´s Archive from Nippur (OIP 114, 1996)"
+previous_item: "13453"
+---

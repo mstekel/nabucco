@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11194"
+occurrence_id: "255"
+short_title: "Nougayrol, BiOr 10/1-2"
+author: "Nougayrol, Jean"
+publication_year: "1953"
+title: "Correction à BiOr IX, 166 s."
+volume_no_: "10/1-2"
+pages: "76"
+journal: "Bibliotheca Orientalis "
+title: "Correction à BiOr IX, 166 s."
+previous_item: "11197"
+---

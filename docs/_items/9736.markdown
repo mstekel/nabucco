@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9736"
+occurrence_id: "2265"
+short_title: "JNES 13 (1954), 115-117"
+author: "Hamp, Eric P."
+publication_year: "1954"
+title: "Final Vowels in Old Persian"
+volume_no_: "13"
+pages: "115-117"
+journal: "Journal of Near Eastern Studies"
+title: "Final Vowels in Old Persian"
+previous_item: "9739"
+---

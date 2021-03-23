@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19612"
+occurrence_id: "4359"
+short_title: "Joannès 1995a"
+author: "Joannès, Francis"
+publication_year: "1995"
+title: "L´itinéraire des Dix-Mille en Mésopotamie et l´apport des sources cunéiformes"
+pages: "173-199"
+editor: "Briant, Pierre"
+book: "Dans les pas des Dix-Mille: Peuple et pays du Proche-Orient vus par un Grec, Pallas 43 (Toulouse)"
+title: "L´itinéraire des Dix-Mille en Mésopotamie et l´apport des sources cunéiformes"
+previous_item: "19615"
+---

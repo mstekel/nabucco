@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10576"
+occurrence_id: "3786"
+short_title: "Lexington Theological Quarterly 12 (1977), 23-31"
+author: "Reed, William L."
+publication_year: "1977"
+title: "Nabonidus, Babylonian Reformer or Renegade?"
+volume_no_: "12"
+pages: "23-31"
+journal: "Lexington Theological Quarterly"
+title: "Nabonidus, Babylonian Reformer or Renegade?"
+previous_item: "10579"
+---

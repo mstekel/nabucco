@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8734"
+occurrence_id: "2910"
+short_title: "Or 58 (1989), 551-555"
+author: "Rochberg-Halton, Francesca"
+publication_year: "1989"
+title: "Rv. A.J. Sachs and H. Hunger, Astronomical Diaries and related Texts from Babylonia. Vol. 1: Diaries from 652 B.C. to 262 B.C. (Wien 1988)"
+volume_no_: "58"
+pages: "551-555"
+journal: "Orientalia"
+title: "Rv. A.J. Sachs and H. Hunger, Astronomical Diaries and related Texts from Babylonia. Vol. 1: Diaries from 652 B.C. to 262 B.C. (Wien 1988)"
+previous_item: "8737"
+---

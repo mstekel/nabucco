@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18643"
+occurrence_id: "4706"
+short_title: "Cagni, Fusaro and Graziani 1999"
+author: "Fusaro, Giovanna"
+publication_year: "1999"
+title: "Die Nutzung des Ackerbodens im Mesopotamien der achaemenidischen Zeit: Die Pachtauflage (imittu)"
+pages: "197-212"
+editor: "Klengel, Horst"
+book: "Landwirtschaft im Alten Orient, RAI 41 (Berlin)"
+title: "Die Nutzung des Ackerbodens im Mesopotamien der achaemenidischen Zeit: Die Pachtauflage (imittu)"
+previous_item: "18646"
+---

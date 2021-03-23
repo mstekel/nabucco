@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16915"
+occurrence_id: "631"
+short_title: "Watson 2011"
+author: "Horowitz, Wayne "
+publication_year: "2011"
+title: "Writing Science before the Greeks. A Naturalistic Analysis of the Babylonian Astronomical Treatise MUL.APIN."
+title: "Writing Science before the Greeks. A Naturalistic Analysis of the Babylonian Astronomical Treatise MUL.APIN."
+previous_item: "16918"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9550"
+occurrence_id: "1262"
+short_title: "AfO 51 (2005/2006), 125-146"
+author: "Scurlock, JoAnn"
+publication_year: "2005-2006"
+title: "Sorcery in the Stars: STT 300, BRM 4.19-20 and the Mandaic Book of the Zodiac."
+volume_no_: "51"
+pages: "125-146"
+journal: "Archiv für Orientforschung"
+title: "Sorcery in the Stars: STT 300, BRM 4.19-20 and the Mandaic Book of the Zodiac."
+previous_item: "9553"
+---

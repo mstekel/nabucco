@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "11482"
+occurrence_id: "2656"
+short_title: "NABU 2003/35"
+author: "Zadok, Ran"
+title: "Neo/Late-Babylonian Geography and Documentation"
+volume_no_: "35"
+publication_year: "2003"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Neo/Late-Babylonian Geography and Documentation"
+previous_item: "11485"
+---

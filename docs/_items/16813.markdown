@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16813"
+occurrence_id: "813"
+short_title: "Hunger 1997"
+author: "Hunger, Hermann "
+publication_year: "1997"
+title: "Astrology and other Predictions in Mesopotamia. Mesopotamian Astronomy in the Achaemenid and Hellenistic Periods, Conferenze IsMEO 10 (Roma)"
+title: "Astrology and other Predictions in Mesopotamia. Mesopotamian Astronomy in the Achaemenid and Hellenistic Periods, Conferenze IsMEO 10 (Roma)"
+previous_item: "16816"
+---

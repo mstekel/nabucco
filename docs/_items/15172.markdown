@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15172"
+occurrence_id: "1485"
+short_title: "ArOr 46 (1978), 170-173"
+author: "Hruška, Blahoslav"
+publication_year: "1978"
+title: "Gab es ein \"kapitalistisches\" Unternehmen in der neubabylonischen Zeit?"
+volume_no_: "46"
+pages: "170-173"
+journal: "Archív Orientalí"
+title: "Gab es ein \"kapitalistisches\" Unternehmen in der neubabylonischen Zeit?"
+previous_item: "15175"
+---

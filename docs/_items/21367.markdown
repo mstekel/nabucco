@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21367"
+occurrence_id: "4911"
+short_title: "Corò Capitanio 2004"
+author: "Corò Capitanio, Paola"
+publication_year: "2004"
+title: "Meat, Prebends and Rank. On the distribution of sacrificial meat in Seleucid Uruk."
+pages: "257-267"
+editor: "Grottanelli, C."
+book: "Foods and Identity in the Ancient World, HANE/S 9 (Padova)"
+title: "Meat, Prebends and Rank. On the distribution of sacrificial meat in Seleucid Uruk."
+previous_item: "21370"
+---

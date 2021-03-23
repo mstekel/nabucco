@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18298"
+occurrence_id: "446"
+short_title: "Hyatt 1941"
+author: "Hyatt, J. Philip "
+publication_year: "1941"
+title: "The Treatment of Final Vowels in Early Neo-Babylonian (Yale Oriental Series 23)"
+title: "The Treatment of Final Vowels in Early Neo-Babylonian (Yale Oriental Series 23)"
+previous_item: "18301"
+---

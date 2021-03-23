@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16900"
+occurrence_id: "545"
+short_title: "Potts 1999"
+author: "Potts, Daniel T. "
+publication_year: "1999"
+title: "The Archaeology of Elam. Formation and Transformation of an Ancient Iranian State (Cambridge World Archaeology)"
+title: "The Archaeology of Elam. Formation and Transformation of an Ancient Iranian State (Cambridge World Archaeology)"
+previous_item: "16903"
+---

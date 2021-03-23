@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "20398"
+occurrence_id: "4153"
+short_title: "Kuhrt 2007a"
+author: "Kuhrt, Amélie"
+publication_year: "2007"
+title: "Cyrus the Great of Persia: Images and Realities."
+pages: "169-191"
+editor: "Feldman, M.H."
+title: "Cyrus the Great of Persia: Images and Realities."
+previous_item: "20401"
+---

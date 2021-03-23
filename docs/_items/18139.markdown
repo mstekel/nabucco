@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18139"
+occurrence_id: "217"
+short_title: "Delaunay 1977"
+author: "Delauney, Jacques A. "
+publication_year: "1977"
+title: "Nouvelle édition de A.R. Moldenke, Cuneiform Texts in the Metropolitan Museum of Art, Paris	 "
+title: "Nouvelle édition de A.R. Moldenke, Cuneiform Texts in the Metropolitan Museum of Art, Paris	 "
+previous_item: "18142"
+---

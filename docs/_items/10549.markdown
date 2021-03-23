@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "10549"
+occurrence_id: "3642"
+short_title: "BLOT (1987), 34-35"
+author: "Mayes, A.D.H."
+publication_year: "1987"
+title: "Rv. M. Silver, Economic Structures of the Ancient Near East (1985)"
+pages: "34-35"
+journal: "Book List. Society for Old Testament Studies (Llansadwrn, Menai Bridge)"
+title: "Rv. M. Silver, Economic Structures of the Ancient Near East (1985)"
+previous_item: "10552"
+---

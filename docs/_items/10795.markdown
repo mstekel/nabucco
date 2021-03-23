@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10795"
+occurrence_id: "1961"
+short_title: "Iraq 41 (1979), 121-140"
+author: "George, Andrew, R."
+publication_year: "1979"
+title: "Cuneiform Texts in the Birmingham City Museum"
+volume_no_: "41"
+pages: "121-140"
+journal: "Iraq"
+title: "Cuneiform Texts in the Birmingham City Museum"
+previous_item: "10798"
+---

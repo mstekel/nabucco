@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20953"
+occurrence_id: "4909"
+short_title: "Neugebauer 1988"
+author: "Neugebauer, Otto"
+publication_year: "1988"
+title: "A Babylonian Lunar Ephemeris from Roman Egypt"
+pages: "301-304"
+editor: "Sjöberg, Å.W."
+book: "A Scientific Humanist, Gs. Sachs, OPSNKF 9 (Philadelphia)"
+title: "A Babylonian Lunar Ephemeris from Roman Egypt"
+previous_item: "20956"
+---

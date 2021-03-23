@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15202"
+occurrence_id: "1646"
+short_title: "BiOr 20 (1963), 296"
+author: "Ullens de Schooten, Marie Th."
+publication_year: "1963"
+title: "Rv. Ch. Palou and J. Palou, La Perse Antique"
+volume_no_: "20"
+pages: "296"
+journal: "Bibliotheca Orientalis"
+title: "Rv. Ch. Palou and J. Palou, La Perse Antique"
+previous_item: "15205"
+---

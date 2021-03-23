@@ -1,0 +1,15 @@
+---
+layout: "tablet"
+slug: "29458"
+object_id: "7640"
+museum_no_: "BM 41551"
+publication: "Wunsch 2000"
+text_number: "10B"
+duplicate: "BM 31959+"
+imported: "Stefania Ermidoro 14/04/2017"
+publication_name: "Wunsch 2000 10B"
+archive: "Egibi/Nūr-Sîn"
+related_objects: "7639"
+title: "BM 41551"
+previous_item: "29461"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9616"
+occurrence_id: "1620"
+short_title: "Berytus 13 (1959-60), 83-121"
+author: "Nodelman, Sheldom A."
+publication_year: "1959-60"
+title: "A preliminary history of Characene"
+volume_no_: "13"
+pages: "83-121"
+journal: "Berytus"
+title: "A preliminary history of Characene"
+previous_item: "9619"
+---

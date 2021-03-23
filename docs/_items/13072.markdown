@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13072"
+occurrence_id: "2206"
+short_title: "JCS 55 (2003), 99-123"
+author: "Zawadzki, Stefan"
+publication_year: "2003"
+title: "Bookkeeping Practices at the Eanna Temple in Uruk in the Light of the Text NBC 4897"
+volume_no_: "55"
+pages: "99-123"
+journal: "Journal of Cuneiform Studies"
+title: "Bookkeeping Practices at the Eanna Temple in Uruk in the Light of the Text NBC 4897"
+previous_item: "13075"
+---

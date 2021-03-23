@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "18520"
+occurrence_id: "112"
+short_title: "TCL 13"
+author: ",  "
+publication_year: "1929"
+title: "Contrats néo-babyloniens II: achéménides et séleucides. Textes cunéiformes du Louvre 13."
+volume_no_: "13"
+related_objects: "6918"
+title: "Contrats néo-babyloniens II: achéménides et séleucides. Textes cunéiformes du Louvre 13."
+previous_item: "18523"
+---

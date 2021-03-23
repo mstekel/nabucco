@@ -1,0 +1,10 @@
+---
+layout: "archive"
+slug: "22996"
+archive_id: "181"
+archive_name: "Kudurrānu"
+is_part_of: "Borsippa"
+related_objects: "5778"
+title: "Kudurrānu"
+previous_item: "22999"
+---

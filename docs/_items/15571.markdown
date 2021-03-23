@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "15571"
+occurrence_id: "3635"
+short_title: "BLOT (1950), 23-24"
+author: "Rankin, O.S."
+publication_year: "1950"
+title: "Rv. A.R. Bellinger, The End of the Seleucids"
+pages: "23-24"
+journal: "Book List. Society for Old Testament Studies (Llansadwrn, Menai Bridge)"
+title: "Rv. A.R. Bellinger, The End of the Seleucids"
+previous_item: "15574"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13495"
+occurrence_id: "1482"
+short_title: "ArOr 40 (1972), 124-129"
+author: "Powell, Marvin A."
+publication_year: "1972"
+title: "Der neubabylonische Familienname Ašgandu und die Urkundengruppe Nbn 314, TCL Xll 122, Nbn 668"
+volume_no_: "40"
+pages: "124-129"
+journal: "Archív Orientalí"
+title: "Der neubabylonische Familienname Ašgandu und die Urkundengruppe Nbn 314, TCL Xll 122, Nbn 668"
+previous_item: "13498"
+---

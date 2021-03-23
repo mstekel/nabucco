@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15058"
+occurrence_id: "3890"
+short_title: "ZSSR 79 (1962), 340-344"
+author: "Klíma, Josef"
+publication_year: "1962"
+title: "Rv. M. San Nicolò and H. Petschow, Babylonische Rechtsurkunden aus dem 6. Jahrhundert v. Chr."
+volume_no_: "79"
+pages: "340-344"
+journal: "Zeitschrift der Savigny-Stiftung für Rechtsgeschichte. Romanistische Abteilung."
+title: "Rv. M. San Nicolò and H. Petschow, Babylonische Rechtsurkunden aus dem 6. Jahrhundert v. Chr."
+previous_item: "15061"
+---

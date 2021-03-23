@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18073"
+occurrence_id: "640"
+short_title: "Wüst 1966"
+author: "Wüst, Walther "
+publication_year: "1966"
+title: "Altpersische Studien. Sprach- and kulturgeschichtliche Beiträge zum Glossar der Achämeniden-Inschriften (= PHMA 8/11)"
+title: "Altpersische Studien. Sprach- and kulturgeschichtliche Beiträge zum Glossar der Achämeniden-Inschriften (= PHMA 8/11)"
+previous_item: "18076"
+---

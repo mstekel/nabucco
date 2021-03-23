@@ -1,0 +1,10 @@
+---
+layout: "glossary"
+slug: "35605"
+concept_id: "1276"
+label: "Settlement of accounts"
+hierarchy: "Content type"
+type: "172"
+title: "Settlement of accounts"
+previous_item: "35608"
+---

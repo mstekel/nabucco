@@ -1,0 +1,10 @@
+---
+layout: "glossary"
+slug: "35680"
+concept_id: "1294"
+label: "Incoming & outgoing"
+hierarchy: "Content type"
+type: "172"
+title: "Incoming & outgoing"
+previous_item: "35683"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16114"
+occurrence_id: "3540"
+short_title: "ZDMG 106 (1956), 371-372"
+author: "van der Waerden, Bartel L."
+publication_year: "1956"
+title: "Rv. O. Neugebauer, Astronomical Cuneiform Texts"
+volume_no_: "106"
+pages: "371-372"
+journal: "Zeitschrift der Deutschen Morgenländischen Gesellschaft"
+title: "Rv. O. Neugebauer, Astronomical Cuneiform Texts"
+previous_item: "16117"
+---

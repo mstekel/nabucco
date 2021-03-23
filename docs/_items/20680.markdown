@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20680"
+occurrence_id: "4556"
+short_title: "Glassner 200"
+author: "Glassner, Jean-Jacques"
+publication_year: "2000"
+title: "L´historien mésopotamien et la fin des empires"
+pages: "383-393"
+editor: "Graziani, Simonetta"
+book: "Studi sul vicino oriente antico dedicati alla memoria di Luigi Cagni (Napoli)"
+title: "L´historien mésopotamien et la fin des empires"
+previous_item: "20683"
+---

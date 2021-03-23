@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11419"
+occurrence_id: "2317"
+short_title: "JNES 46 (1987), 239-240"
+author: "Farber, Walter"
+publication_year: "1987"
+title: "Rv. T.G. Pinches, Cuneiform Texts from Babylonian Tablets in the British Museum. Parts 55-57. Neo-Babylonian and Achaemenid Economic Texts (1982)"
+volume_no_: "46"
+pages: "239-240"
+journal: "Journal of Near Eastern Studies"
+title: "Rv. T.G. Pinches, Cuneiform Texts from Babylonian Tablets in the British Museum. Parts 55-57. Neo-Babylonian and Achaemenid Economic Texts (1982)"
+previous_item: "11422"
+---

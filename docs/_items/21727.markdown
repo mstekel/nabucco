@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21727"
+occurrence_id: "4625"
+short_title: "Postgate 1972"
+author: "Postgate, John Nicholas"
+publication_year: "1972"
+title: "The Role of the Temple in the Mesopotamian Secular Community"
+pages: "811-825"
+editor: "Dimbleby, G.M."
+book: "Man, Settlement and Urbanism. Proceedings of a meeting of the Research Seminar in Archaeology and Related Subjects held at the Institute of Archaeology (London)"
+title: "The Role of the Temple in the Mesopotamian Secular Community"
+previous_item: "21730"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11149"
+occurrence_id: "3867"
+short_title: "Universidad de Antioquia 156 (1964), 75-86"
+author: "Lákatos, Eugenio"
+publication_year: "1964"
+title: "La astronomía egipcia y babilónica en relación con la astronomía bíblica"
+volume_no_: "156"
+pages: "75-86"
+journal: "Universidad de Antioquia"
+title: "La astronomía egipcia y babilónica en relación con la astronomía bíblica"
+previous_item: "11152"
+---

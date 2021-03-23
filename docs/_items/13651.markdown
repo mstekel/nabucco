@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13651"
+occurrence_id: "2321"
+short_title: "JNES 48 (1989), 283-305"
+author: "Stolper, Matthew W."
+publication_year: "1989"
+title: "The Govenor of Babylon and Across-the-River in 486 B.C."
+volume_no_: "48"
+pages: "283-305"
+journal: "Journal of Near Eastern Studies"
+title: "The Govenor of Babylon and Across-the-River in 486 B.C."
+previous_item: "13654"
+---

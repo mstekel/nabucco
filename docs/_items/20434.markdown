@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20434"
+occurrence_id: "4347"
+short_title: "Rochberg-Halton 1988"
+author: "Rochberg-Halton, Francesca"
+publication_year: "1988"
+title: "Benefic and Malefic Planets in Babylonian Astrology"
+pages: "323-328"
+editor: "Sjöberg, Å.W."
+book: "A Scientific Humanist, Gs. Sachs, OPSNKF 9 (Philadelphia)"
+title: "Benefic and Malefic Planets in Babylonian Astrology"
+previous_item: "20437"
+---

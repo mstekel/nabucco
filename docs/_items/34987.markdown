@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34987"
+place_id: "823"
+parent_id: "61"
+place_name: "Baṭnānu"
+title: "Baṭnānu"
+previous_item: "34990"
+---

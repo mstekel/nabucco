@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11362"
+occurrence_id: "2010"
+short_title: "Iura 27 (1976 publ. 1980), 169"
+author: "Szlechter, Émile"
+publication_year: "1976 publ. 1980"
+title: "Rv. G. Ries, Die neubabylonischen Bodenpachtformulare"
+volume_no_: "27"
+pages: "169"
+journal: "Iura"
+title: "Rv. G. Ries, Die neubabylonischen Bodenpachtformulare"
+previous_item: "11365"
+---

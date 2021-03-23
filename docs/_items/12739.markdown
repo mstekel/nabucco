@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12739"
+occurrence_id: "3419"
+short_title: "ZA 61 (1971), 159-170"
+author: "Oelsner, Joachim"
+publication_year: "1971"
+title: "Rv. D.A. Kennedy, Cuneiform Texts from Babylonian Tablets in the British Museum. Part XLIX. Late Babylonian Economic Texts"
+volume_no_: "61"
+pages: "159-170"
+journal: "Zeitschrift für Assyriologie"
+title: "Rv. D.A. Kennedy, Cuneiform Texts from Babylonian Tablets in the British Museum. Part XLIX. Late Babylonian Economic Texts"
+previous_item: "12742"
+---

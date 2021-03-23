@@ -1,0 +1,12 @@
+---
+layout: "tablet"
+slug: "29479"
+object_id: "7044"
+museum_no_: "BM 32894 "
+duplicate: "BM 30358"
+imported: "Kathleen Abraham 31/01/2017"
+archive: "Egibi/Nūr-Sîn"
+related_objects: "7043"
+title: "BM 32894 "
+previous_item: "29482"
+---

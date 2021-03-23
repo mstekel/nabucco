@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10567"
+occurrence_id: "3738"
+short_title: "JRAS 107 (1975), 105"
+author: "Meriggi, Piero"
+publication_year: "1975"
+title: "Der Stand der Erforschung des Proto-Elamischen (Abstract)"
+volume_no_: "107"
+pages: "105"
+journal: "Journal of the Royal Asiatic Society"
+title: "Der Stand der Erforschung des Proto-Elamischen (Abstract)"
+previous_item: "10570"
+---

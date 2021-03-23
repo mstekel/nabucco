@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17893"
+occurrence_id: "336"
+short_title: "Briant 1982"
+author: "Briant, Pierre "
+publication_year: "1982"
+title: "Rois, tributs et paysans. Études sur les formations tributaires du Moyen-Orient ancien, Annales littéraires de l´Université de Besançon, vol. 269 = Centre de Recherches d´Histoire Ancienne, vol. 43"
+title: "Rois, tributs et paysans. Études sur les formations tributaires du Moyen-Orient ancien, Annales littéraires de l´Université de Besançon, vol. 269 = Centre de Recherches d´Histoire Ancienne, vol. 43"
+previous_item: "17896"
+---

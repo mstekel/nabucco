@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "9778"
+occurrence_id: "2491"
+short_title: "NABU 1992/46"
+author: "Wallenfels, Ronald"
+title: "30 Ajjaru 219 SE = 19 June 93 BCE"
+volume_no_: "46"
+publication_year: "1992"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "30 Ajjaru 219 SE = 19 June 93 BCE"
+previous_item: "9781"
+---

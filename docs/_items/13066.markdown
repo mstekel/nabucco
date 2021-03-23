@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13066"
+occurrence_id: "2173"
+short_title: "JCS 34 (1982 publ. 1983), 59-61"
+author: "Powell, Marvin A."
+publication_year: "1982"
+title: "Merodach-Baladan at Dur-Jakin. A Note on the Defense of Babylonian Cities"
+volume_no_: "34"
+pages: "59-61"
+journal: "Journal of Cuneiform Studies"
+title: "Merodach-Baladan at Dur-Jakin. A Note on the Defense of Babylonian Cities"
+previous_item: "13069"
+---

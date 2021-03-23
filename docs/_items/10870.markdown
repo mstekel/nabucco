@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10870"
+occurrence_id: "2364"
+short_title: "JNES 69 (2010), 269-270"
+author: "Conklin, Blane W."
+publication_year: "2010"
+title: "Rv. O. Lipschits and M. Oeming (eds), Judah and the Judeans in the Persian Period."
+volume_no_: "69"
+pages: "269-270"
+journal: "Journal of Near Eastern Studies"
+title: "Rv. O. Lipschits and M. Oeming (eds), Judah and the Judeans in the Persian Period."
+previous_item: "10873"
+---

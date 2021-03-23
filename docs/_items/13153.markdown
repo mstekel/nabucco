@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "13153"
+occurrence_id: "2643"
+short_title: "NABU 2002/45"
+author: "Zadok, Ran"
+title: "Two Old Iranian Anthroponyms"
+volume_no_: "45"
+publication_year: "2002"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Two Old Iranian Anthroponyms"
+previous_item: "13156"
+---

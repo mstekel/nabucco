@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "34042"
+place_id: "1506"
+parent_id: "37"
+place_name: "Bāb-Nār-Barsip  "
+related_objects: "7767"
+title: "Bāb-Nār-Barsip  "
+previous_item: "34045"
+---

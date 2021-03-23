@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13870"
+occurrence_id: "3504"
+short_title: "ZA 89 (1999), 65-87"
+author: "Müller-Kessler, Christa, Christa"
+publication_year: "1999"
+title: "Spätbabylonische Gotheiten in spätantiken mandäischen Texten"
+volume_no_: "89"
+pages: "65-87"
+journal: "Zeitschrift für Assyriologie"
+title: "Spätbabylonische Gotheiten in spätantiken mandäischen Texten"
+previous_item: "13873"
+---

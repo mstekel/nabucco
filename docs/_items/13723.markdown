@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "13723"
+occurrence_id: "2709"
+short_title: "NABU 2008/27"
+author: "Baker, Heather D."
+title: "The layout of the ziggurat temple at Babylon"
+volume_no_: "27"
+publication_year: "2008"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "The layout of the ziggurat temple at Babylon"
+previous_item: "13726"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15580"
+occurrence_id: "3683"
+short_title: "ErIs 16 (1982), 218*-226*"
+author: "Weisberg, David B."
+publication_year: "1982"
+title: "Wool and Linen Material in Texts from the Time of Nebuchadnezzar"
+volume_no_: "16"
+pages: "218*-226*"
+journal: "Eretz Israel"
+title: "Wool and Linen Material in Texts from the Time of Nebuchadnezzar"
+previous_item: "15583"
+---

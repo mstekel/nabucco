@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11230"
+occurrence_id: "1297"
+short_title: "AJA 92 (1988), 587-588"
+author: "Stolper, Matthew W."
+publication_year: "1988"
+title: "The Kasr Archive"
+volume_no_: "92"
+pages: "587-588"
+journal: "American Journal of Archaeology"
+title: "The Kasr Archive"
+previous_item: "11233"
+---

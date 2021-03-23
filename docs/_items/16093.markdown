@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16093"
+occurrence_id: "3425"
+short_title: "ZA 64 (1975), 192-234"
+author: "Berger, Paul-R."
+publication_year: "1975"
+title: "Der Kyros-Zylinder mit dem Zusatzfragment BIN II Nr. 32 und die akkadischen Personennamen im Danielbuch"
+volume_no_: "64"
+pages: "192-234"
+journal: "Zeitschrift für Assyriologie"
+title: "Der Kyros-Zylinder mit dem Zusatzfragment BIN II Nr. 32 und die akkadischen Personennamen im Danielbuch"
+previous_item: "16096"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16468"
+occurrence_id: "2422"
+short_title: "Mesopotamia 43 (2008), 181-182"
+author: "Verderame, Lorenzo"
+publication_year: "2008"
+title: "Rv. J.M. Steele (ed), Calendars and Years: Astronomy and Time in the Ancient Near East."
+volume_no_: "43"
+pages: "181-182"
+journal: "Mesopotamia"
+title: "Rv. J.M. Steele (ed), Calendars and Years: Astronomy and Time in the Ancient Near East."
+previous_item: "16471"
+---

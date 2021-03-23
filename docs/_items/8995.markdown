@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8995"
+occurrence_id: "1293"
+short_title: "AJA 68 (1964), 205-206"
+author: "Lambert, Wilfred G."
+publication_year: "1964"
+title: "Rv. L.Woolley and M.E.L. Mallowan, the Neo-Babylonian and Persian Periods (= UE IX)"
+volume_no_: "68"
+pages: "205-206"
+journal: "American Journal of Archaeology"
+title: "Rv. L.Woolley and M.E.L. Mallowan, the Neo-Babylonian and Persian Periods (= UE IX)"
+previous_item: "8998"
+---

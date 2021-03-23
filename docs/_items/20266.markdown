@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20266"
+occurrence_id: "4554"
+short_title: "Fincke 2014"
+author: "Fincke, Jeanette"
+publication_year: "2014"
+title: "Babylonische Gelehrte am neuassyrischen Hof: zwischen Anpassung und Individualität"
+pages: "269-292"
+editor: "Schuster-Brandis, Anais"
+book: "Krieg und Frieden im Alten Vorderasien. 52e Rencontre Assyriologique Internationale. International Congress of Assyriology and Near Eastern Archaeology. Münster, 17.-21. Juli 2006, Alter Orient und Altes Testament 401 (Münster)"
+title: "Babylonische Gelehrte am neuassyrischen Hof: zwischen Anpassung und Individualität"
+previous_item: "20269"
+---

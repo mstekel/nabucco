@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "12019"
+occurrence_id: "2544"
+short_title: "NABU 1996/29"
+author: "MacGinnis, John"
+title: "A furher note on the zazakku"
+volume_no_: "29"
+publication_year: "1996"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "A furher note on the zazakku"
+previous_item: "12022"
+---

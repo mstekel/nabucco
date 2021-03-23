@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13096"
+occurrence_id: "2336"
+short_title: "JNES 58 (1999), 148-149"
+author: "Biggs, Robert D."
+publication_year: "1999"
+title: "Rv. R.H. Sack, Cuneiform Documents from the Chaldean and Persian Periods (1994)"
+volume_no_: "58"
+pages: "148-149"
+journal: "Journal of Near Eastern Studies"
+title: "Rv. R.H. Sack, Cuneiform Documents from the Chaldean and Persian Periods (1994)"
+previous_item: "13099"
+---

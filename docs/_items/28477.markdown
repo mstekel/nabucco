@@ -1,0 +1,15 @@
+---
+layout: "tablet"
+slug: "28477"
+object_id: "7085"
+museum_no_: "BM 31457"
+publication: "CT 22"
+text_number: "110 "
+period: "-"
+type_and_content: "Letters"
+publication_name: "CT 22 110 "
+archive: "Egibi/Nūr-Sîn"
+bibliography: "Wunsch 1993, 321. "
+title: "BM 31457"
+previous_item: "28480"
+---

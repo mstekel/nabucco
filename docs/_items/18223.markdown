@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18223"
+occurrence_id: "789"
+short_title: "George 1993"
+author: "George, Andrew R."
+publication_year: "1993"
+title: "House Most High. The Temples of Ancient Mesopotamia, Mesopotamian Civilizations 5 (Winona Lake)"
+title: "House Most High. The Temples of Ancient Mesopotamia, Mesopotamian Civilizations 5 (Winona Lake)"
+previous_item: "18226"
+---

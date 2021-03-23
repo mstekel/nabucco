@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17395"
+occurrence_id: "438"
+short_title: "Hinterberger 2004"
+author: "Hinterberger, Martin "
+publication_year: "2004"
+title: "Haus and Hausgrundstücke in Babylonien. Untersuchungen nach Urkunden des 1. Jahrtausends v. Christus."
+title: "Haus and Hausgrundstücke in Babylonien. Untersuchungen nach Urkunden des 1. Jahrtausends v. Christus."
+previous_item: "17398"
+---

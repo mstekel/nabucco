@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34990"
+place_id: "871"
+parent_id: "61"
+place_name: "Bīt-hanšē"
+title: "Bīt-hanšē"
+previous_item: "34993"
+---

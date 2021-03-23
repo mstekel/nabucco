@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18730"
+occurrence_id: "5170"
+short_title: "Hinz 1964"
+author: "Hinz, Walther"
+publication_year: "London 1964"
+title: "Persia c. 1800-1550 B.C."
+pages: "Chapter VII"
+editor: "Walker, Christopher,  Bromhead F."
+book: "The Cambridge Ancient History. CAH II (Cambridge)"
+title: "Persia c. 1800-1550 B.C."
+previous_item: "18733"
+---

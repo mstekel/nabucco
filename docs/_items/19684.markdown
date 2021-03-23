@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19684"
+occurrence_id: "4743"
+short_title: "Garrison 2008"
+author: "Garrison, Mark B."
+publication_year: "2008"
+title: "The uninscribed tablets from the Fortification archive: a preliminary analysis."
+pages: "149-238"
+editor: "Stolper, Matthew W."
+book: "L'archive des Fortifications de Persepolis. État des questions et perspectives de recherches Persika 12 (Paris)"
+title: "The uninscribed tablets from the Fortification archive: a preliminary analysis."
+previous_item: "19687"
+---

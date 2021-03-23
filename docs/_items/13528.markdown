@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13528"
+occurrence_id: "1659"
+short_title: "BiOr 33 (1976 publ. 1977), 213-219"
+author: "Zadok, Ran"
+publication_year: "1976 publ. 1977"
+title: "Rv. W. Hinz, Altiranisches Sprachgut der Nebenüberlieferungen (Göttinger Orientforschungen, Iranica 3)"
+volume_no_: "33"
+pages: "213-219"
+journal: "Bibliotheca Orientalis"
+title: "Rv. W. Hinz, Altiranisches Sprachgut der Nebenüberlieferungen (Göttinger Orientforschungen, Iranica 3)"
+previous_item: "13531"
+---

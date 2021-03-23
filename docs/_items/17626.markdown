@@ -1,0 +1,12 @@
+---
+layout: "bibliography"
+slug: "17626"
+occurrence_id: "259"
+short_title: "Smith 1887"
+author: "Smith, Sydney A. "
+publication_year: "1887"
+title: "Miscellaneous Assyrian Texts of the British Museum, with Textual Notes"
+related_objects: "5653"
+title: "Miscellaneous Assyrian Texts of the British Museum, with Textual Notes"
+previous_item: "17629"
+---

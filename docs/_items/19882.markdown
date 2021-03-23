@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "19882"
+occurrence_id: "4696"
+short_title: "Melikset-Bekov 1960"
+author: "Melikset-Bekov, Levon M."
+publication_year: "1960"
+title: "Die ersten Achämeniden und die Bezeichnungen der Flüsse Transkaukasiens (in Russ.)"
+pages: "247-254"
+book: "Труды Тбилисского Государственного Университета 91/1960 (Trudy Tbilisskogo Gosudarstvennogo Universiteta 91/1960)"
+title: "Die ersten Achämeniden und die Bezeichnungen der Flüsse Transkaukasiens (in Russ.)"
+previous_item: "19885"
+---

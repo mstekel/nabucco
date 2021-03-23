@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8545"
+occurrence_id: "1893"
+short_title: "HTR 44 (1951), 153-165"
+author: "Bickerman, Elias J."
+publication_year: "1951"
+title: "The Maxim of Antigonus of Socho"
+volume_no_: "44"
+pages: "153-165"
+journal: "Harvard Theological Review"
+title: "The Maxim of Antigonus of Socho"
+previous_item: "8548"
+---

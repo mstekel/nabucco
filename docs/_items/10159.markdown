@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10159"
+occurrence_id: "1524"
+short_title: "ASJ 20 (1998), 181-199"
+author: "Streck, Michael , P."
+publication_year: "1998"
+title: "The Tense Systems in theSumerian-Akkadian Linguistic Area"
+volume_no_: "20"
+pages: "181-199"
+journal: "Acta Sumerologica"
+title: "The Tense Systems in theSumerian-Akkadian Linguistic Area"
+previous_item: "10162"
+---

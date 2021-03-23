@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12382"
+occurrence_id: "1496"
+short_title: "ArOr 57 (1989), 80-81"
+author: "Pečírková, Jana"
+publication_year: "1989"
+title: "Rv. M.W. Stolper, Entrepreneurs and Empire. The Murašû Archive, the Murašû Firm, and the Persian Rule in Babylonia (1985)"
+volume_no_: "57"
+pages: "80-81"
+journal: "Archív Orientalí"
+title: "Rv. M.W. Stolper, Entrepreneurs and Empire. The Murašû Archive, the Murašû Firm, and the Persian Rule in Babylonia (1985)"
+previous_item: "12385"
+---

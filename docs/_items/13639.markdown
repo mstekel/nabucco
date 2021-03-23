@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "13639"
+occurrence_id: "2256"
+short_title: "JJP 13 (1961), 131-175"
+author: "Rabinowitz, Jacob J."
+publication_year: "1961"
+title: "Neo-Babylonian Documents and Jewish Law,"
+volume_no_: "13"
+pages: "131-175"
+title: "Neo-Babylonian Documents and Jewish Law,"
+previous_item: "13642"
+---

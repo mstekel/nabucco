@@ -1,0 +1,12 @@
+---
+layout: "bibliography"
+slug: "10603"
+occurrence_id: "3930"
+short_title: "NABU 2012/34"
+author: "Da Riva, Rocío"
+publication_year: "2012"
+title: "Addenda to GMTR 4 (Appendix 12)"
+volume_no_: "2012/34"
+title: "Addenda to GMTR 4 (Appendix 12)"
+previous_item: "10606"
+---

@@ -1,0 +1,10 @@
+---
+layout: "glossary"
+slug: "35620"
+concept_id: "1279"
+label: "Court protocol"
+hierarchy: "Content type"
+type: "172"
+title: "Court protocol"
+previous_item: "35623"
+---

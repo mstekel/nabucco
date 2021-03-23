@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34540"
+place_id: "763"
+parent_id: "61"
+place_name: "Amatu"
+title: "Amatu"
+previous_item: "34543"
+---

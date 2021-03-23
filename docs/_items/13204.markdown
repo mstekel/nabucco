@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13204"
+occurrence_id: "2918"
+short_title: "Or 66 (1997), 157-180"
+author: "Beaulieu, Paul-A."
+publication_year: "1997"
+title: "Akkadische Lexikographie: CAD Š2 and Š3"
+volume_no_: "66"
+pages: "157-180"
+journal: "Orientalia"
+title: "Akkadische Lexikographie: CAD Š2 and Š3"
+previous_item: "13207"
+---

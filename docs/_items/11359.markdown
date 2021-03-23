@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11359"
+occurrence_id: "1994"
+short_title: "Iraq 64 (2002), 247-248"
+author: "Al-Rawi, Farouk , N.H."
+publication_year: "2002"
+title: "Tablets from the Sippar library X. A dedication of Zabaya of Larsa"
+volume_no_: "64"
+pages: "247-248"
+journal: "Iraq"
+title: "Tablets from the Sippar library X. A dedication of Zabaya of Larsa"
+previous_item: "11362"
+---

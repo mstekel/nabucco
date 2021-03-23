@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17629"
+occurrence_id: "300"
+short_title: "Adams 1981"
+author: "Adams, Robert McC. "
+publication_year: "1981"
+title: "Heartland of Cities. Surveys of Ancient Settlement and Land Use on the Central Floodplain of the Euphrates"
+title: "Heartland of Cities. Surveys of Ancient Settlement and Land Use on the Central Floodplain of the Euphrates"
+previous_item: "17632"
+---

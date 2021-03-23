@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17167"
+occurrence_id: "616"
+short_title: "van der Waerden 1943"
+author: "van der Waerden, Bartel L. "
+publication_year: "1943"
+title: "Die Berechnung der ersten and letzten Sichtbarkeit von Mond and Planeten and die Venustafeln des Ammi‚aduqa (= Berichte der mah.-phys. Kl. d. Sächs. Akademie d. Wiss. 94. Bd.)"
+title: "Die Berechnung der ersten and letzten Sichtbarkeit von Mond and Planeten and die Venustafeln des Ammi‚aduqa (= Berichte der mah.-phys. Kl. d. Sächs. Akademie d. Wiss. 94. Bd.)"
+previous_item: "17170"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8173"
+occurrence_id: "2909"
+short_title: "Or 58 (1989), 297-299"
+author: "Dandamayev, Muhammed A."
+publication_year: "1989"
+title: "Rv. M.W. Stolper, Entrepreneurs and Empire. The Murašû Archive, the Murašû Firm, and Persian Rule in Babylonia (1985)"
+volume_no_: "58"
+pages: "297-299"
+journal: "Orientalia"
+title: "Rv. M.W. Stolper, Entrepreneurs and Empire. The Murašû Archive, the Murašû Firm, and Persian Rule in Babylonia (1985)"
+previous_item: "8176"
+---

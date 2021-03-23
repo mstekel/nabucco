@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19429"
+occurrence_id: "4486"
+short_title: "Baker 2011a"
+author: "Baker, Heather D."
+publication_year: "2011"
+title: "Babylonian Land Survey in Socio-Political Context"
+pages: "293-323"
+editor: "Selz, G.J."
+book: "The Empirical Dimension of Ancient Near Eastern Studies, Wiener Offene Orientalistik 6 (Wien)  (with the collaboration of Klaus Wagensonner)"
+title: "Babylonian Land Survey in Socio-Political Context"
+previous_item: "19432"
+---

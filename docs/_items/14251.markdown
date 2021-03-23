@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "14251"
+occurrence_id: "2548"
+short_title: "NABU 1996/67"
+author: "Brinkman, John A."
+title: "A Second Isin Dynasty Economic Text"
+volume_no_: "67"
+publication_year: "1996"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "A Second Isin Dynasty Economic Text"
+previous_item: "14254"
+---

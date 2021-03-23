@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17272"
+occurrence_id: "476"
+short_title: "Koschaker 1931"
+author: "Koschaker, Paul "
+publication_year: "1931"
+title: "Über einige griechische Rechtsurkunden aus den östlichen Randgebieten des Hellenismus"
+title: "Über einige griechische Rechtsurkunden aus den östlichen Randgebieten des Hellenismus"
+previous_item: "17275"
+---

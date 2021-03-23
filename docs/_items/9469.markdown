@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9469"
+occurrence_id: "3848"
+short_title: "SMSR 49 (1983 publ. 1984), 463-464"
+author: "Capomacchia, Anna Maria G."
+publication_year: "1983 publ. 1984"
+title: "Rv. S.M. Burstein, The Babyloniaca of Berossus (SANE 1/5)"
+volume_no_: "49"
+pages: "463-464"
+journal: "Studi e materiali di storia delle religioni"
+title: "Rv. S.M. Burstein, The Babyloniaca of Berossus (SANE 1/5)"
+previous_item: "9472"
+---

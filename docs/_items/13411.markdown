@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "13411"
+occurrence_id: "4032"
+short_title: "JNES 74/2 (2015), 378-380"
+author: "Svärd, Saana"
+publication_year: "2015"
+title: "Rv. M. Chavalas, Women in the Ancient Near East: A Sourcebook"
+volume_no_: "74/2"
+pages: "378-380"
+title: "Rv. M. Chavalas, Women in the Ancient Near East: A Sourcebook"
+previous_item: "13414"
+---

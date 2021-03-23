@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17689"
+occurrence_id: "656"
+short_title: "Kohler, Peiser BRL 2 (1891)"
+author: "Kohler, Josef E."
+publication_year: "1891"
+title: "Aus dem babylonischen Rechtsleben II (BRL II)"
+title: "Aus dem babylonischen Rechtsleben II (BRL II)"
+previous_item: "17692"
+---

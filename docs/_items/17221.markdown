@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17221"
+occurrence_id: "4084"
+short_title: "Jursa 2010"
+author: "Jursa, Michael "
+publication_year: "2010"
+title: "Aspects of the Economic History of Babylonia in the First Millennium BC. Economic Geography, Economic Mentalities, Agriculture, the Use of Money and the Problem of Economic Growth, Alter Orient und Altes Testament 377 (Münster)"
+title: "Aspects of the Economic History of Babylonia in the First Millennium BC. Economic Geography, Economic Mentalities, Agriculture, the Use of Money and the Problem of Economic Growth, Alter Orient und Altes Testament 377 (Münster)"
+previous_item: "17224"
+---

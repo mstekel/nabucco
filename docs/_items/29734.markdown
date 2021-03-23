@@ -1,0 +1,14 @@
+---
+layout: "tablet"
+slug: "29734"
+object_id: "7079"
+museum_no_: "BM 42448"
+publication: "CT 22"
+text_number: "83"
+period: "-"
+type_and_content: "Letters"
+publication_name: "CT 22 83"
+archive: "Egibi/Nūr-Sîn"
+title: "BM 42448"
+previous_item: "29737"
+---

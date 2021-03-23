@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17536"
+occurrence_id: "515"
+short_title: "Molé, 1963"
+author: "Molé, Marijan "
+publication_year: "1963"
+title: "Culte, Mythe et cosmologie dans l´Iran ancien. Le problème zoroastrien et la tradition mazdéenne (= Annales du Musée Guimet. Bibliohèque d´études. Tome LXIX)"
+title: "Culte, Mythe et cosmologie dans l´Iran ancien. Le problème zoroastrien et la tradition mazdéenne (= Annales du Musée Guimet. Bibliohèque d´études. Tome LXIX)"
+previous_item: "17539"
+---

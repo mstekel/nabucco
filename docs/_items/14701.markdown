@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14701"
+occurrence_id: "1968"
+short_title: "Iraq 45 (1983), 187-198"
+author: "McEwan, Gilbert J.P."
+publication_year: "1983"
+title: "Distribution of Meat in Eanna"
+volume_no_: "45"
+pages: "187-198"
+journal: "Iraq"
+title: "Distribution of Meat in Eanna"
+previous_item: "14704"
+---

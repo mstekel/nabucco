@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11368"
+occurrence_id: "2042"
+short_title: "JAC 16 (2001), 139-141"
+author: "Ness, Lester"
+publication_year: "2001"
+title: "Rv. D. Brown, Mesopotamian Planetary Astronomy-Astrology"
+volume_no_: "16"
+pages: "139-141"
+journal: "Journal of Ancient Civilizations"
+title: "Rv. D. Brown, Mesopotamian Planetary Astronomy-Astrology"
+previous_item: "11371"
+---

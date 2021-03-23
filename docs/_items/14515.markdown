@@ -1,0 +1,12 @@
+---
+layout: "bibliography"
+slug: "14515"
+occurrence_id: "3969"
+short_title: "NABU 2013/13"
+author: "Jursa, Michael"
+publication_year: "2013"
+title: "Eine Kambyses-zeitliche Kopie einer Aššur-etel-ilāni-Inschrift"
+volume_no_: "2013/13"
+title: "Eine Kambyses-zeitliche Kopie einer Aššur-etel-ilāni-Inschrift"
+previous_item: "14518"
+---

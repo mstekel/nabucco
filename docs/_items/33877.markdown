@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33877"
+place_id: "793"
+parent_id: "61"
+place_name: "Bāb-Harri-Marduk-apla-iddina"
+title: "Bāb-Harri-Marduk-apla-iddina"
+previous_item: "33880"
+---

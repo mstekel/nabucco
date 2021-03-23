@@ -1,0 +1,15 @@
+---
+layout: "bibliography"
+slug: "15652"
+occurrence_id: "141"
+short_title: "de Jong Ellis, JCS 36/1"
+author: "de Jong Ellis, Maria"
+publication_year: "1984"
+title: "Neo-Babylonian Texts in the Yale Babylonian Collection"
+volume_no_: "36/1"
+pages: "1-63"
+related_objects: "5458"
+journal: "Journal of Cuneiform Studies"
+title: "Neo-Babylonian Texts in the Yale Babylonian Collection"
+previous_item: "15655"
+---

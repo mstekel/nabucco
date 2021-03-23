@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16096"
+occurrence_id: "3441"
+short_title: "ZA 70 (1981), 105-137"
+author: "Koch, Heidemarie"
+publication_year: "1981"
+title: "Steuern in der achämenidischen Persis?"
+volume_no_: "70"
+pages: "105-137"
+journal: "Zeitschrift für Assyriologie"
+title: "Steuern in der achämenidischen Persis?"
+previous_item: "16099"
+---

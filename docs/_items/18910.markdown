@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18910"
+occurrence_id: "5027"
+short_title: "van der Spek 2001"
+author: "van der Spek, Robartus"
+publication_year: "2001"
+title: "The Theatre of Babylon in cuneiform"
+pages: "445-456"
+editor: "van Soldt, Wilfred H."
+book: "Studies Presented to Klaas R. Veenhof on the Occasion of his Sixty-Fifth Birthday, Fs. Veenhof, PIHANS 89 (Leiden)"
+title: "The Theatre of Babylon in cuneiform"
+previous_item: "18913"
+---

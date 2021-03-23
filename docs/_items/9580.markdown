@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9580"
+occurrence_id: "1426"
+short_title: "AoF 22 (1995), 247-264"
+author: "Schaudig, Hanspeter"
+publication_year: "1995"
+title: "Ein Zylinder Nabonids im Vorderasiatischen Museum zu Berlin"
+volume_no_: "22"
+pages: "247-264"
+journal: "Altorientalische Forschungen"
+title: "Ein Zylinder Nabonids im Vorderasiatischen Museum zu Berlin"
+previous_item: "9583"
+---

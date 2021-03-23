@@ -1,0 +1,9 @@
+---
+layout: "archive"
+slug: "22750"
+archive_id: "304"
+archive_name: "Ea-eppēš-ilī A"
+is_part_of: "Sippar"
+title: "Ea-eppēš-ilī A"
+previous_item: "22753"
+---

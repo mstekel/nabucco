@@ -1,0 +1,15 @@
+---
+layout: "bibliography"
+slug: "10711"
+occurrence_id: "1509"
+short_title: "ARRIM 8 (1990), 49-62"
+author: "Peters, Celeste A."
+publication_year: "1990"
+title: "Cuneiform Texts at the University of British Columbia"
+volume_no_: "8"
+pages: "49-62"
+related_objects: "7996"
+journal: "Annual Review of the Royal Inscriptions of Mesopotamia Project"
+title: "Cuneiform Texts at the University of British Columbia"
+previous_item: "10714"
+---

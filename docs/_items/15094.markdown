@@ -1,0 +1,15 @@
+---
+layout: "bibliography"
+slug: "15094"
+occurrence_id: "172"
+short_title: "Kessler, BaM 23"
+author: "Kessler, Karlheinz"
+publication_year: "1992"
+title: "Duplikate und Fragmente aus Uruk, Teil III"
+volume_no_: "23"
+pages: "465-471"
+related_objects: "5668"
+journal: "Baghdader Mitteilungen"
+title: "Duplikate und Fragmente aus Uruk, Teil III"
+previous_item: "15097"
+---

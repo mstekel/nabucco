@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9664"
+occurrence_id: "1879"
+short_title: "Gnomon 38 (1966), 182-186"
+author: "Trumpf, J."
+publication_year: "1966"
+title: "Rv. G. Binder, Die Aussetzung des Königskindes. Kyros and Romulus"
+volume_no_: "38"
+pages: "182-186"
+journal: "Gnomon"
+title: "Rv. G. Binder, Die Aussetzung des Königskindes. Kyros and Romulus"
+previous_item: "9667"
+---

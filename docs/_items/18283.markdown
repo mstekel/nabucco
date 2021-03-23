@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18283"
+occurrence_id: "357"
+short_title: "CM 12"
+author: "Wallenfels, Ronald "
+publication_year: "1998"
+title: "Seleucid Archival Texts in the Harvard Semitic Museum. Text Editions and Catalogue Raisonné of the Seal Impressions (CM 12)"
+title: "Seleucid Archival Texts in the Harvard Semitic Museum. Text Editions and Catalogue Raisonné of the Seal Impressions (CM 12)"
+previous_item: "18286"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11005"
+occurrence_id: "3093"
+short_title: "RA 87 (1993), 131-136"
+author: "Lee, Thomas G."
+publication_year: "1993"
+title: "The Jasper Cylinder Seal of Aššurbanipal and Nabonidus´ Making of Sîn´s Statue"
+volume_no_: "87"
+pages: "131-136"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "The Jasper Cylinder Seal of Aššurbanipal and Nabonidus´ Making of Sîn´s Statue"
+previous_item: "11008"
+---

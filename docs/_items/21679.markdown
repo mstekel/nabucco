@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21679"
+occurrence_id: "4369"
+short_title: "Joannès 2001"
+author: "Joannès, Francis"
+publication_year: "2001"
+title: "Les débuts de l´époque hellénistique à Larsa"
+pages: "249-264"
+editor: "Breniquet, Catherine"
+book: "Études Mésopotamiennes, Fs. Huot (Paris)"
+title: "Les débuts de l´époque hellénistique à Larsa"
+previous_item: "21682"
+---

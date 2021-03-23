@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14362"
+occurrence_id: "3147"
+short_title: "RIDA 3e Série 18 (1971), 43-107"
+author: "Szlechter, Émile"
+publication_year: "1971"
+title: "Les Lois Néo-Babyloniennes"
+volume_no_: "3/18."
+pages: "43-107"
+journal: "Revue Internationale des Droits de l'Antiquité"
+title: "Les Lois Néo-Babyloniennes"
+previous_item: "14365"
+---

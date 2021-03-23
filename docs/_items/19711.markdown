@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19711"
+occurrence_id: "4887"
+short_title: "Dandamayev 2008a"
+author: "Dandamayev, Muhammed A."
+publication_year: "2008"
+title: "A Pugnacious Scribe from Uruk"
+pages: "70-74"
+editor: "Kahn, Dan’el"
+book: "Treasures on Camels’ Humps. Historical and Literary Studies from the Ancient Near East Presented to Israel Eph‘al (Jerusalem)"
+title: "A Pugnacious Scribe from Uruk"
+previous_item: "19714"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9025"
+occurrence_id: "1457"
+short_title: "ArOr 12 (1941), 113-120"
+author: "Bolla-Kotek, Sibylle, von"
+publication_year: "1941"
+title: "Drei Diebstahlsfälle von Tempeleigentum in Uruk"
+volume_no_: "12"
+pages: "113-120"
+journal: "Archív Orientalí"
+title: "Drei Diebstahlsfälle von Tempeleigentum in Uruk"
+previous_item: "9028"
+---

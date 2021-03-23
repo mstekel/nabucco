@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14581"
+occurrence_id: "1321"
+short_title: "Akkadica 124 (2003), 13-17."
+author: "Gurzadyan, Vahe G."
+publication_year: "2003"
+title: "The Venus Tablet and Refraction"
+volume_no_: "124"
+pages: "13-17"
+journal: "Akkadica"
+title: "The Venus Tablet and Refraction"
+previous_item: "14584"
+---

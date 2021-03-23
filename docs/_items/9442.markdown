@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9442"
+occurrence_id: "3704"
+short_title: "Folia Orientalia 20 (1979, ersch. 1980) 175-184"
+author: "Zawadzki, Stefan"
+publication_year: "1978"
+title: "The Economic Crisis in Uruk during the last Years of Assyrian Rule in the Light of theSo-Called Nabû-ušallim´s Archives"
+volume_no_: "20"
+pages: "175-184"
+journal: "Folia Orientalia"
+title: "The Economic Crisis in Uruk during the last Years of Assyrian Rule in the Light of theSo-Called Nabû-ušallim´s Archives"
+previous_item: "9445"
+---

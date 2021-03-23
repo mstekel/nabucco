@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20062"
+occurrence_id: "4569"
+short_title: "Oelsner 1984"
+author: "Oelsner, Joachim"
+publication_year: "1984"
+title: "Die neu- und spätbabylonische Zeit"
+pages: "221-240"
+editor: "Archi, Alfonso"
+book: "Circulation of Goods in Non-Palatial Context in the Ancient Near East. Proceedings of the International Conference Organized by the Istituto per gli studi Micenei ed Egeo-Anatolici, Incunabula Graeca 82 (Roma)"
+title: "Die neu- und spätbabylonische Zeit"
+previous_item: "20065"
+---

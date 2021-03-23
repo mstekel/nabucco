@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18844"
+occurrence_id: "4675"
+short_title: "Abraham 2012b"
+author: "Abraham, Kathleen"
+publication_year: "2012"
+title: "Bricks and Brick Stamps in the Moussaieff Private Collection"
+pages: "129-136"
+editor: "Lubetski, Edith"
+book: "New Inscriptions and Seals Relating to the Biblical World, Archaeology and Biblical Studies 18 (Atlanta)"
+title: "Bricks and Brick Stamps in the Moussaieff Private Collection"
+previous_item: "18847"
+---

@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34870"
+place_id: "724"
+parent_id: "61"
+place_name: "Ālu-ša-Izkur-dān"
+title: "Ālu-ša-Izkur-dān"
+previous_item: "34873"
+---

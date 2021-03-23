@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10540"
+occurrence_id: "3594"
+short_title: "AA 31 (1969), 95-96"
+author: "Porada, Edith"
+publication_year: "1969"
+title: "Rv. J.-L. Huot, Persia I. From the Origins to the Achaemenids"
+volume_no_: "31"
+pages: "95-96"
+journal: "Archäologischer Anzeiger"
+title: "Rv. J.-L. Huot, Persia I. From the Origins to the Achaemenids"
+previous_item: "10543"
+---

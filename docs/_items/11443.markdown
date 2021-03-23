@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "11443"
+occurrence_id: "2445"
+short_title: "NABU 1987/84"
+author: "Petschow, Herbert"
+publication_year: "1987"
+title: "Zur Eroberung Babyloniens durch Cyrus. Die letzten vorpersischen und ersten persischen Datierungen aus den Tagen um die persische Eroberung Babyloniens - Bemerkungen zu CT 55, 191"
+volume_no_: "84"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Zur Eroberung Babyloniens durch Cyrus. Die letzten vorpersischen und ersten persischen Datierungen aus den Tagen um die persische Eroberung Babyloniens - Bemerkungen zu CT 55, 191"
+previous_item: "11446"
+---

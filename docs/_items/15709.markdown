@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15709"
+occurrence_id: "1355"
+short_title: "AMI 9 (1976), 63-95"
+author: "Calmeyer, Peter"
+publication_year: "1976"
+title: "Zur Genese altiranischer Motive V: Synarchie"
+volume_no_: "9"
+pages: "63-95"
+journal: "Archäologische Mitteilungen aus Iran"
+title: "Zur Genese altiranischer Motive V: Synarchie"
+previous_item: "15712"
+---

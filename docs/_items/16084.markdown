@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16084"
+occurrence_id: "3376"
+short_title: "WZKM 91 (2001), 347-363"
+author: "Jursa, Michael"
+publication_year: "2001"
+title: "Šamaš-tirri-kuṣur, a Smith manufacturing weapons in the Ebabbar temple at Sippar"
+volume_no_: "91"
+pages: "347-363"
+journal: "Wiener Zeitschrift für die Kunde des Morgenlandes"
+title: "Šamaš-tirri-kuṣur, a Smith manufacturing weapons in the Ebabbar temple at Sippar"
+previous_item: "16087"
+---

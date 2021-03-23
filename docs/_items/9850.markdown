@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9850"
+occurrence_id: "2879"
+short_title: "Or 38 (1969), 122-125"
+author: "Zablocka, Julia"
+publication_year: "1969"
+title: "Ein vollständigeres Duplikat zur Nebukadnezar II-Inschrift VAB 4 Nr. 46"
+volume_no_: "38"
+pages: "122-125"
+journal: "Orientalia"
+title: "Ein vollständigeres Duplikat zur Nebukadnezar II-Inschrift VAB 4 Nr. 46"
+previous_item: "9853"
+---

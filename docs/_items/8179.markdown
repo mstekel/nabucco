@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8179"
+occurrence_id: "2944"
+short_title: "Or 79 (2010), 390-400"
+author: "Schmitt, Rüdiger"
+publication_year: "2010"
+title: "Zu den Persepolis Fortification Tablets in Iran Bastan Museum."
+volume_no_: "79"
+pages: "390-400"
+journal: "Orientalia"
+title: "Zu den Persepolis Fortification Tablets in Iran Bastan Museum."
+previous_item: "8182"
+---

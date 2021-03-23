@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18763"
+occurrence_id: "4242"
+short_title: "Ambos 2013b"
+author: "Ambos, Claus"
+publication_year: "2013"
+title: "Mesopotamische Baurituale aus dem 1. Jahrtausend v. Chr. Nachträge und Verbesserungen"
+pages: "17-37"
+editor: "Ambos, Claus"
+book: "Approaching Rituals in Ancient Cultures. Questioni di Rito: Rituali come Fonte di Conoscenza delle Religioni e delle Concezioni del Mondo nelle Culture Antiche. Proceedings of the Conference, November 28-30, 2011, Roma, Rivista degli Studi Orientali (Rome)"
+title: "Mesopotamische Baurituale aus dem 1. Jahrtausend v. Chr. Nachträge und Verbesserungen"
+previous_item: "18766"
+---

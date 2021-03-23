@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "33472"
+place_id: "1411"
+parent_id: "88"
+place_name: "Dilbat city"
+related_objects: "5544"
+title: "Dilbat city"
+previous_item: "33475"
+---

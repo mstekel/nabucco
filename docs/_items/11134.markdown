@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11134"
+occurrence_id: "3787"
+short_title: "Lingua 8 (1959), 442-446"
+author: "Kuiper, Franciscus Bernardus J."
+publication_year: "1959"
+title: "Rv. W. Brandenstein and M. Mayrhofer, Antiguo Persa"
+volume_no_: "8"
+pages: "442-446"
+journal: "Lingua"
+title: "Rv. W. Brandenstein and M. Mayrhofer, Antiguo Persa"
+previous_item: "11137"
+---

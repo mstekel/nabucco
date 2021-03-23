@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "10369"
+occurrence_id: "2654"
+short_title: "NABU 2003/33"
+author: "Zadok, Ran"
+title: "Updating the Apammu Dossier"
+volume_no_: "33"
+publication_year: "2003"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Updating the Apammu Dossier"
+previous_item: "10372"
+---

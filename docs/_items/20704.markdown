@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "20704"
+occurrence_id: "4684"
+short_title: "Erdmann 1959"
+author: "Erdmann, Kurt"
+publication_year: "1959"
+title: "Persepolis - Versuch einer Deutung"
+pages: "469-471"
+book: "AIOK, 28 August bis 4. September 1957, Congrès International des Orientalistes (Wiesbaden)"
+title: "Persepolis - Versuch einer Deutung"
+previous_item: "20707"
+---

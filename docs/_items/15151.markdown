@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15151"
+occurrence_id: "1371"
+short_title: "AnCl 33 (1964), 261-263"
+author: "Tefnin, R."
+publication_year: "1964"
+title: "Rv. W. Hinz, Persia c. 2400-1800 B.C. (CAH I. XXIII)"
+volume_no_: "33"
+pages: "261-263"
+journal: "L´Antiquité classique"
+title: "Rv. W. Hinz, Persia c. 2400-1800 B.C. (CAH I. XXIII)"
+previous_item: "15154"
+---

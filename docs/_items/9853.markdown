@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9853"
+occurrence_id: "2895"
+short_title: "Or 52 (1983), 143-155"
+author: "Petschow, Herbert"
+publication_year: "1983"
+title: "Die Sklavenkaufverträge des šandabakku Enlil-kidinnī von Nippur (I)"
+volume_no_: "52"
+pages: "143-155"
+journal: "Orientalia"
+title: "Die Sklavenkaufverträge des šandabakku Enlil-kidinnī von Nippur (I)"
+previous_item: "9856"
+---

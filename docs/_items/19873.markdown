@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "19873"
+occurrence_id: "4648"
+short_title: "Jusifov 1960"
+author: "Jusifov, Ju.B."
+publication_year: "1960"
+title: "Documents de dettes de Suse (VIIIe siècle av. notre ère) (in Russ.)"
+pages: "518-524"
+book: "Issledovanija po Istorii Kultury Naradov Vostoka. Sbornik v tschest adademika I. A. Orbeli\"  (= Recherches sur l'histoire de la culture des peuples de l'Orient. Recueil en honneur de l'académicien I. A. Orbeli), IIKNV"
+title: "Documents de dettes de Suse (VIIIe siècle av. notre ère) (in Russ.)"
+previous_item: "19876"
+---

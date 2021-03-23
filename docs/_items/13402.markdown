@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "13402"
+occurrence_id: "3984"
+short_title: "ZAR 20 (2014), 47-66"
+author: "Magdalene, Rachel F."
+publication_year: "2014"
+title: "Administration of the Judicial System in the Late Babylonian Period"
+volume_no_: "20"
+pages: "47-66"
+title: "Administration of the Judicial System in the Late Babylonian Period"
+previous_item: "13405"
+---

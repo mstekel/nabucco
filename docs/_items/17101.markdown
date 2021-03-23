@@ -1,0 +1,12 @@
+---
+layout: "bibliography"
+slug: "17101"
+occurrence_id: "64"
+short_title: "CUSAS 28"
+author: "Pearce, Laurie E. "
+publication_year: "2014"
+title: "Documents of Judean Exiles and West Semites in Babylonia in the Collection of David Sofer"
+related_objects: "2284"
+title: "Documents of Judean Exiles and West Semites in Babylonia in the Collection of David Sofer"
+previous_item: "17104"
+---

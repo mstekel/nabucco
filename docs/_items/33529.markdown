@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33529"
+place_id: "544"
+parent_id: "40"
+place_name: "Imm[er]tu"
+title: "Imm[er]tu"
+previous_item: "33532"
+---

@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16750"
+occurrence_id: "417"
+short_title: "Gibson 1972"
+author: "Gibson, McGuire "
+publication_year: "1972"
+title: "The City and area of Kish"
+title: "The City and area of Kish"
+previous_item: "16753"
+---

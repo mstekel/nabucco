@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10792"
+occurrence_id: "1945"
+short_title: "Iraq 16 (1954), 202-211"
+author: "Sachs, Abraham J."
+publication_year: "1954"
+title: "A Babylonian King List of the Hellenistic Period"
+volume_no_: "16"
+pages: "202-211"
+journal: "Iraq"
+title: "A Babylonian King List of the Hellenistic Period"
+previous_item: "10795"
+---

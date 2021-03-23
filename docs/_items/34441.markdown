@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34441"
+place_id: "952"
+parent_id: "61"
+place_name: "Dūr-gizzēti"
+title: "Dūr-gizzēti"
+previous_item: "34444"
+---

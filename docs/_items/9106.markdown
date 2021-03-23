@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9106"
+occurrence_id: "1894"
+short_title: "HUCA 19 (1948), 405-489"
+author: "Lewy, Julius"
+publication_year: "1948"
+title: "The Late Assyro-Babylonian cult of the Moon and its culmination at the Time of Nabonidus"
+volume_no_: "19"
+pages: "405-489"
+journal: "Hebrew Union College Annual"
+title: "The Late Assyro-Babylonian cult of the Moon and its culmination at the Time of Nabonidus"
+previous_item: "9109"
+---

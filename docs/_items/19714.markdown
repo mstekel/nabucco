@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19714"
+occurrence_id: "4903"
+short_title: "Pedersén 1999"
+author: "Pedersén, Olof"
+publication_year: "1999"
+title: "Archive und Bibliotheken in Babylon"
+pages: "307-321"
+editor: "Renger, Johannes"
+book: "Babylon: Focus mesopotamischer Geschichte, Wiege früher Gelehrsamkeit, Mythos in der Moderne, CDOG 2 (Saarbrücken)"
+title: "Archive und Bibliotheken in Babylon"
+previous_item: "19717"
+---

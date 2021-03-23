@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9424"
+occurrence_id: "3608"
+short_title: "ACIO 25 I (1962), 256-262"
+author: "Veselovskij, I.N."
+publication_year: "1962"
+title: "Die Stern-Astronomie des alten Orients"
+volume_no_: "25 I"
+pages: "256-262"
+journal: "Actes du Congrès International des Orientalistes"
+title: "Die Stern-Astronomie des alten Orients"
+previous_item: "9427"
+---

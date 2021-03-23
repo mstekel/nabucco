@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9760"
+occurrence_id: "2394"
+short_title: "MDOG 79 (1942), 3-7"
+author: "Wetzel, Friedrich"
+publication_year: "1942"
+title: "Babylon in der Spätzeit"
+volume_no_: "79"
+pages: "3-7."
+journal: "Mitteilungen der Deutschen Orient-Gesellschaft"
+title: "Babylon in der Spätzeit"
+previous_item: "9763"
+---

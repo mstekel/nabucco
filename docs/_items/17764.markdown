@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17764"
+occurrence_id: "334"
+short_title: "Briant 1977"
+author: "Briant, Pierre "
+publication_year: "1977"
+title: "Alexandre le Grand (Que sais-je 622)"
+title: "Alexandre le Grand (Que sais-je 622)"
+previous_item: "17767"
+---

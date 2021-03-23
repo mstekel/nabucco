@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33463"
+place_id: "1264"
+parent_id: "61"
+place_name: "Šubat-parakki"
+title: "Šubat-parakki"
+previous_item: "33466"
+---

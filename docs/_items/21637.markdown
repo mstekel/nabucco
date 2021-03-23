@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "21637"
+occurrence_id: "4143"
+short_title: "Kuhrt 1987a"
+author: "Kuhrt, Amélie"
+publication_year: "1987"
+title: "Usurpation, conquest and ceremonial: from Babylon to Persia"
+pages: "20-55"
+editor: "Cannadine, D."
+title: "Usurpation, conquest and ceremonial: from Babylon to Persia"
+previous_item: "21640"
+---

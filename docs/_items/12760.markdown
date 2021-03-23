@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12760"
+occurrence_id: "3534"
+short_title: "ZAR 15 (2009), 31-55."
+author: "Oelsner, Joachim"
+publication_year: "2009"
+title: "Bemerkungen zu den neu- und spätbabylonischen Kaufformularen."
+volume_no_: "15"
+pages: "31-55"
+journal: "Zeitschrift für Altorientalische und Biblische Rechtsgeschichte"
+title: "Bemerkungen zu den neu- und spätbabylonischen Kaufformularen."
+previous_item: "12763"
+---

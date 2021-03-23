@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34420"
+place_id: "616"
+parent_id: "40"
+place_name: "Qidudu"
+title: "Qidudu"
+previous_item: "34423"
+---

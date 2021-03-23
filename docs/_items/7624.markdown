@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7624"
+occurrence_id: "2975"
+short_title: "PASb III (1979), 81-100 (Russ., Engl. Summary 270f.)+A1945"
+author: "Dandamayev, Muhammed A."
+publication_year: "1979"
+title: "Data of the Babylonian Texts of the 6th-5th Centuries B.C. on Fishery"
+volume_no_: "III"
+pages: "81-100"
+journal: "Peredneaziatckij Szbornik"
+title: "Data of the Babylonian Texts of the 6th-5th Centuries B.C. on Fishery"
+previous_item: "7627"
+---

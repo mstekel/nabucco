@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34006"
+place_id: "1084"
+parent_id: "61"
+place_name: "Ibulu"
+title: "Ibulu"
+previous_item: "34009"
+---

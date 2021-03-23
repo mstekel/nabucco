@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15727"
+occurrence_id: "1453"
+short_title: "Archéologia 266 (1991), 14-20 (and 31-37)"
+author: "Faton, Andrée"
+publication_year: "1991"
+title: "La capitale de Nabuchodonosor reconstruite"
+volume_no_: "266"
+pages: "14-20"
+journal: "Archéologia"
+title: "La capitale de Nabuchodonosor reconstruite"
+previous_item: "15730"
+---

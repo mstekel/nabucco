@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18721"
+occurrence_id: "5122"
+short_title: "Herbordt 2011"
+author: "Herbordt, Suzanne"
+publication_year: "2011"
+title: "Ein Stempelsiegel der Achämenidenzeit"
+pages: "111-116, pl. XLV"
+editor: "Streck, Michael , P."
+book: "Die Keilschrifttexte des Altorientalischen Instituts des Universität Leipzig, Leipziger Altorientalische Studien 1 (Wiesbaden)"
+title: "Ein Stempelsiegel der Achämenidenzeit"
+previous_item: "18724"
+---

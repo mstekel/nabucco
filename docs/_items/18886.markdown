@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18886"
+occurrence_id: "4899"
+short_title: "Heeßel 2011"
+author: "Heeßel, Nils , P."
+publication_year: "2011"
+title: "Die divinatorischen Texte aus Assur ­ Assyrische Gelehrte und babylonische Traditionen"
+pages: "371-384"
+editor: "Renger, Johannes"
+book: "Assur ­ Gott, Stadt und Land. 5. Internationales Colloquium der Deutschen Orient-Gesellschaft 18.-21. Februar 2004 in Berlin, Colloquien der Deutschen Orient-Gesellschaft 5 (Wiesbaden)"
+title: "Die divinatorischen Texte aus Assur ­ Assyrische Gelehrte und babylonische Traditionen"
+previous_item: "18889"
+---

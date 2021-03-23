@@ -1,0 +1,10 @@
+---
+layout: "glossary"
+slug: "35575"
+concept_id: "1222"
+label: "Exchange"
+hierarchy: "Content type"
+type: "172"
+title: "Exchange"
+previous_item: "35578"
+---

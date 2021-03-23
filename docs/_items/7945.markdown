@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7945"
+occurrence_id: "1681"
+short_title: "BiOr 45 (1988), 357-364"
+author: "Joannès, Francis"
+publication_year: "1988"
+title: "Rv. G.J.P. McEwan, Late Babylonian Texts in the Ashmolean Museum (OECT 10, 1984)"
+volume_no_: "45"
+pages: "357-364"
+journal: "Bibliotheca Orientalis"
+title: "Rv. G.J.P. McEwan, Late Babylonian Texts in the Ashmolean Museum (OECT 10, 1984)"
+previous_item: "7948"
+---

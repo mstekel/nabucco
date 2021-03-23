@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11389"
+occurrence_id: "2154"
+short_title: "JCS 19 (1965), 79-86"
+author: "Aaboe, Asger"
+publication_year: "1965"
+title: "Some Seleucid Mathematical Tables (Extended Reciprocals and Squares of Regular Numbers)"
+volume_no_: "19"
+pages: "79-86"
+journal: "Journal of Cuneiform Studies"
+title: "Some Seleucid Mathematical Tables (Extended Reciprocals and Squares of Regular Numbers)"
+previous_item: "11392"
+---

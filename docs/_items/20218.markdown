@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20218"
+occurrence_id: "4297"
+short_title: "Wiseman 1988"
+author: "Wiseman, Donald J."
+publication_year: "1988"
+title: "A Note on Some Prices in Late Babylonian Astronomical Diaries"
+pages: "363-373"
+editor: "Sjöberg, Å.W."
+book: "A Scientific Humanist, Gs. Sachs, OPSNKF 9 (Philadelphia)"
+title: "A Note on Some Prices in Late Babylonian Astronomical Diaries"
+previous_item: "20221"
+---

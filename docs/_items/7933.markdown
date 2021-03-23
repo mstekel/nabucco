@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7933"
+occurrence_id: "1617"
+short_title: "Beiträge zur Namenforschung 15 (1964), 180-236"
+author: "Eilers, Wilhelm"
+publication_year: "1964"
+title: "Kyros. Eine namenkandliche Studie"
+volume_no_: "15"
+pages: "180-236"
+journal: "Beiträge zur Namenforschung"
+title: "Kyros. Eine namenkandliche Studie"
+previous_item: "7936"
+---

@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "33712"
+place_id: "1519"
+parent_id: "37"
+place_name: "Ālu-ša-Mušētiq"
+related_objects: "6713"
+title: "Ālu-ša-Mušētiq"
+previous_item: "33715"
+---

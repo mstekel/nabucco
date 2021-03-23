@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15001"
+occurrence_id: "3586"
+short_title: "ZSS 68 (1951), 74-130"
+author: "Ehrhardt, Arnold "
+publication_year: "1951"
+title: "Rechtsvergleichende Studien zum antiken Sklavenrecht I., Wergeld und Schadenersatz"
+volume_no_: "68"
+pages: "74-130"
+journal: "Zeitschrift der Savigny-Stiftung für Rechtsgeschichte, romantistische Abteilung"
+title: "Rechtsvergleichende Studien zum antiken Sklavenrecht I., Wergeld und Schadenersatz"
+previous_item: "15004"
+---

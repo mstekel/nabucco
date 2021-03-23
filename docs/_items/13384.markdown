@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13384"
+occurrence_id: "3887"
+short_title: "ZSSR 116 (1999), 582-585"
+author: "Ries, Gerhard"
+publication_year: "1999"
+title: "Rv. M.J. Geller and H. Maehler (eds), Legal Documents of the Hellenistic World (London 1995)"
+volume_no_: "116"
+pages: "582-585"
+journal: "Zeitschrift der Savigny-Stiftung für Rechtsgeschichte. Romanistische Abteilung."
+title: "Rv. M.J. Geller and H. Maehler (eds), Legal Documents of the Hellenistic World (London 1995)"
+previous_item: "13387"
+---

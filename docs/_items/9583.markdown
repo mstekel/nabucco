@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9583"
+occurrence_id: "1442"
+short_title: "AOS 121/4 (2001), 700-702"
+author: "Dandamayev, Muhammed A."
+publication_year: "2001"
+title: "Rv. P-A. Beaulieu, Legal and Administrative Texts from the Reign of Nabonidus"
+volume_no_: "121/4"
+pages: "700-702"
+journal: "American Oriental Studies"
+title: "Rv. P-A. Beaulieu, Legal and Administrative Texts from the Reign of Nabonidus"
+previous_item: "9586"
+---

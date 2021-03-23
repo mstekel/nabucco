@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9532"
+occurrence_id: "1160"
+short_title: "AcOr 51 (1990), 279-284"
+author: "Schmitt, Rüdiger"
+publication_year: "1990"
+title: "Rv. F. Grillot-Susini, Eléments de grammaire élamite (\"Synthèse\" 29, 1987)"
+volume_no_: "51"
+pages: "279-284"
+journal: "Acta Orientalia"
+title: "Rv. F. Grillot-Susini, Eléments de grammaire élamite (\"Synthèse\" 29, 1987)"
+previous_item: "9535"
+---

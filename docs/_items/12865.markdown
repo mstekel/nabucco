@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12865"
+occurrence_id: "239"
+short_title: "Thureau-Dangin, RA 6/4"
+author: "Thureau-Dangin, François"
+publication_year: "1907"
+title: "Inscriptions diverses du Louvre"
+volume_no_: "6/4"
+pages: "133-38"
+journal: "Revue d’Assyriologique et d’Archéologie"
+title: "Inscriptions diverses du Louvre"
+previous_item: "12868"
+---

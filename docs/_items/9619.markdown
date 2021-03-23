@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9619"
+occurrence_id: "1636"
+short_title: "BiOr 15 (1958), 107"
+author: "van der Waerden, Bartel L."
+publication_year: "1958"
+title: "Rv. R.A. Parker and W.H. Dubberstein, Babylonian Chronology (1957)"
+volume_no_: "15"
+pages: "107"
+journal: "Bibliotheca Orientalis"
+title: "Rv. R.A. Parker and W.H. Dubberstein, Babylonian Chronology (1957)"
+previous_item: "9622"
+---

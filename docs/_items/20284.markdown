@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "20284"
+occurrence_id: "4650"
+short_title: "Oppert 1885"
+author: "Oppert, Jules"
+publication_year: "1885"
+title: "Les Inscriptions du Pseudo-Smerdis et de l´usurpateur Nidintabel fixant le Calendrier perse"
+pages: "253-264"
+book: "Actes du sixième congrès international des Orientalistes, Section sémitique B (Leiden)"
+title: "Les Inscriptions du Pseudo-Smerdis et de l´usurpateur Nidintabel fixant le Calendrier perse"
+previous_item: "20287"
+---

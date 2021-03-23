@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "17884"
+occurrence_id: "263"
+short_title: "UCP 9/2"
+author: "Lutz, Henry F. "
+publication_year: "1927"
+title: "Neo-Babylonian Administrative Documents from Erech. Parts I and II"
+volume_no_: "9"
+pages: "1-115"
+related_objects: "5962"
+title: "Neo-Babylonian Administrative Documents from Erech. Parts I and II"
+previous_item: "17887"
+---

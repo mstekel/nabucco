@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11656"
+occurrence_id: "3596"
+short_title: "Achaemenid History 4 (1990), 195-205"
+author: "Stolper, Matthew W."
+publication_year: "1990"
+title: "The Kasr Archive"
+volume_no_: "4"
+pages: "195-205"
+journal: "Achaemenid History"
+title: "The Kasr Archive"
+previous_item: "11659"
+---

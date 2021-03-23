@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "33718"
+place_id: "22"
+parent_id: "40"
+place_name: "Nippur city"
+related_objects: "8508"
+title: "Nippur city"
+previous_item: "33721"
+---

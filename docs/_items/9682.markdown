@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9682"
+occurrence_id: "1975"
+short_title: "Iraq 54 (1992), 35-55"
+author: "Stevenson, D.W.W"
+publication_year: "1992"
+title: "A Proposal for the Irrigation of the Hanging Gardens of Babylon"
+volume_no_: "54"
+pages: "35-55"
+journal: "Iraq"
+title: "A Proposal for the Irrigation of the Hanging Gardens of Babylon"
+previous_item: "9685"
+---

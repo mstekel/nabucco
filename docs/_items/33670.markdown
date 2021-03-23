@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "33670"
+place_id: "1027"
+parent_id: "61"
+place_name: "Himuru"
+related_objects: "2511"
+title: "Himuru"
+previous_item: "33673"
+---

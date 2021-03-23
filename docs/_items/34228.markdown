@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34228"
+place_id: "1090"
+parent_id: "61"
+place_name: "Imṭūnu"
+title: "Imṭūnu"
+previous_item: "34231"
+---

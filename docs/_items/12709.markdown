@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12709"
+occurrence_id: "3256"
+short_title: "Theologie and Glaube 33 (1941), 344-345"
+author: "Blome, Fr."
+publication_year: "1941"
+title: "Rv. G. Brunner, Der Nabuchodonosor des Buches Judith"
+volume_no_: "33"
+pages: "344-345"
+journal: "Theologie and Glaube"
+title: "Rv. G. Brunner, Der Nabuchodonosor des Buches Judith"
+previous_item: "12712"
+---

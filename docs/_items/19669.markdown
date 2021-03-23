@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19669"
+occurrence_id: "4663"
+short_title: "Meuli 1954"
+author: "Meuli, Karl"
+publication_year: "1954"
+title: "Ein altpersischer Kriegsbrauch"
+pages: "63-86"
+editor: "Meier, Fritz"
+book: "Westöstliche Abhandlungen, Rudolf Tschudi zum siebzigsten Geburtstag (Wiesbaden)"
+title: "Ein altpersischer Kriegsbrauch"
+previous_item: "19672"
+---

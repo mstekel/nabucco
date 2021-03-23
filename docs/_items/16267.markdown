@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16267"
+occurrence_id: "1340"
+short_title: "AMI 20 (1987 publ. 1989), 147-159"
+author: "Koch, Heidemarie"
+publication_year: "1987 publ. 1989"
+title: "Einige Überlegungen zur Bauplanung in Persepolis"
+volume_no_: "20"
+pages: "147-159"
+journal: "Archäologische Mitteilungen aus Iran"
+title: "Einige Überlegungen zur Bauplanung in Persepolis"
+previous_item: "16270"
+---

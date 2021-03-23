@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8587"
+occurrence_id: "2117"
+short_title: "JAOS 62 (1942), 266-277"
+author: "Kent, Roland G."
+publication_year: "1942"
+title: "Old Persian Studies"
+volume_no_: "62"
+pages: "266-277"
+journal: "Journal of the American Oriental Society"
+title: "Old Persian Studies"
+previous_item: "8590"
+---

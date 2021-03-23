@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21661"
+occurrence_id: "4272"
+short_title: "Weisberg 1997"
+author: "Weisberg, David B."
+publication_year: "1997"
+title: "Polytheism and Politics: Some Comments on Nabonidus´ Foreign Policy"
+pages: "547-556"
+editor: "Young, Gordon D."
+book: "Crossing Boundaries and Linking Horizons: Studies in Honor of Michael C. Astour, Fs.Astour (Bethesda)"
+title: "Polytheism and Politics: Some Comments on Nabonidus´ Foreign Policy"
+previous_item: "21664"
+---

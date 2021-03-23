@@ -1,0 +1,15 @@
+---
+layout: "bibliography"
+slug: "15109"
+occurrence_id: "721"
+short_title: "Wunsch, AfO 42/43 (1995/1996)"
+author: "Wunsch, Cornelia"
+publication_year: "1995/1996"
+title: "Die Frauen der Familie Egibi"
+volume_no_: "42/43"
+pages: "33-63"
+related_objects: "7698"
+journal: "Archiv für Orientforschung"
+title: "Die Frauen der Familie Egibi"
+previous_item: "15112"
+---

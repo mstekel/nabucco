@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20107"
+occurrence_id: "4809"
+short_title: "Streck 2001"
+author: "Streck, Michael , P."
+publication_year: "2001"
+title: "Keilschrift und Alphabet"
+pages: "77-97"
+editor: "Borchers, Dörte"
+book: "Hieroglyphen - Alphabete - Schriftformen, Studien zu Multiliteralismus, Schriftwechsel und Orthrographieneuregelungen, Lingua Aegyptia, Studia monographica 3 (Göttingen)"
+title: "Keilschrift und Alphabet"
+previous_item: "20110"
+---

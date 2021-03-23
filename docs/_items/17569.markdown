@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17569"
+occurrence_id: "732"
+short_title: "Archi 1984"
+author: "Archi, Alfonso "
+publication_year: "1984"
+title: "Circulation of Goods in Non-Palatial Context in the Ancient Near East. Proceedings of the International Conference Organized by the Istituto per gli studi Micenei ed Egeo-Anatolici, Incunabula Graeca 82 (Roma)"
+title: "Circulation of Goods in Non-Palatial Context in the Ancient Near East. Proceedings of the International Conference Organized by the Istituto per gli studi Micenei ed Egeo-Anatolici, Incunabula Graeca 82 (Roma)"
+previous_item: "17572"
+---

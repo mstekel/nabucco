@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8284"
+occurrence_id: "3510"
+short_title: "ZA 90 (2000), 281-284"
+author: "Liebig, Michael"
+publication_year: "2000"
+title: "Aššur-etel-ilāni, Sin-šum-līšir, Sin-šar-iškun und die Babylonische Chronik"
+volume_no_: "90"
+pages: "281-284"
+journal: "Zeitschrift für Assyriologie"
+title: "Aššur-etel-ilāni, Sin-šum-līšir, Sin-šar-iškun und die Babylonische Chronik"
+previous_item: "8287"
+---

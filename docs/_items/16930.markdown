@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16930"
+occurrence_id: "743"
+short_title: "Bongenaar 2000"
+author: "Bongenaar, A.C.V.M. "
+publication_year: "2000"
+title: "Interdependency of Institutions and Private Entrepreneurs, MOS Studies 2 (Istanbul, Leiden)"
+title: "Interdependency of Institutions and Private Entrepreneurs, MOS Studies 2 (Istanbul, Leiden)"
+previous_item: "16933"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19645"
+occurrence_id: "4535"
+short_title: "Thuesen 2000"
+author: "Thuesen, Ingolf"
+publication_year: "2000"
+title: "The City-State in Ancient Western Syria"
+pages: "55-65"
+editor: "Hansen, Mogens Herman"
+book: "A Comparative Study of thirty City-State Cultures. An Investigation Conducted by the copenhagen Polis Centre (Copenhagen)"
+title: "The City-State in Ancient Western Syria"
+previous_item: "19648"
+---

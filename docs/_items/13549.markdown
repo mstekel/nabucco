@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13549"
+occurrence_id: "1773"
+short_title: "BSOAS 19 (1957), 317-320"
+author: "Gershevitch, Ilya"
+publication_year: "1957"
+title: "Sisoo at Susa (Old Persian yakā- = Dalbergia sissoo Roxb.)"
+volume_no_: "19"
+pages: "317-320"
+journal: "Bulletin of the School of Oriental and African Studies"
+title: "Sisoo at Susa (Old Persian yakā- = Dalbergia sissoo Roxb.)"
+previous_item: "13552"
+---

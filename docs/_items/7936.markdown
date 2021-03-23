@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7936"
+occurrence_id: "1633"
+short_title: "BiOr 13 (1956), 231-232"
+author: "Huber, Peter J."
+publication_year: "1956"
+title: "Rv. Late Babylonian Astronomical Texts (copied by T.G. Pinches and J.N. Strassmaier, prepared for publication by A.J. Sachs)"
+volume_no_: "13"
+pages: "231-232"
+journal: "Bibliotheca Orientalis"
+title: "Rv. Late Babylonian Astronomical Texts (copied by T.G. Pinches and J.N. Strassmaier, prepared for publication by A.J. Sachs)"
+previous_item: "7939"
+---

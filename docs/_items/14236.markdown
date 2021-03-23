@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "14236"
+occurrence_id: "2467"
+short_title: "NABU 1989/64"
+author: "Beaulieu, Paul-A."
+publication_year: "1989"
+title: "A Neo-Babylonian Text Mentioning Bēlet-dūri"
+volume_no_: "64"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "A Neo-Babylonian Text Mentioning Bēlet-dūri"
+previous_item: "14239"
+---

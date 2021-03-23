@@ -1,0 +1,12 @@
+---
+layout: "bibliography"
+slug: "17386"
+occurrence_id: "387"
+short_title: "Dillard 1975"
+author: "Dillard, Raymond B. "
+publication_year: "1975"
+title: "Neo-babylonian Texts from the John Frederick Lewis Collection of the Free Library of Philadelphia"
+related_objects: "8191"
+title: "Neo-babylonian Texts from the John Frederick Lewis Collection of the Free Library of Philadelphia"
+previous_item: "17389"
+---

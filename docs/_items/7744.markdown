@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7744"
+occurrence_id: "3621"
+short_title: "AOP 14 (1943), 118-128"
+author: "Lesny, Vincenc"
+publication_year: "1943"
+title: "Der Gebrauch des Personalpronomens als Satzsubjekt im Altpersischen"
+volume_no_: "14"
+pages: "118-128"
+journal: "Archivimi Orientale Pragense"
+title: "Der Gebrauch des Personalpronomens als Satzsubjekt im Altpersischen"
+previous_item: "7747"
+---

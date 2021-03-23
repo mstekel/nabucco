@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19543"
+occurrence_id: "5094"
+short_title: "Maul 2000"
+author: "Maul, Stefan M."
+publication_year: "2000"
+title: "Sonnenfinsternisse in Assyrien: Eine Bedrohung der Weltordnung"
+pages: "1-12"
+editor: "Köhler, H."
+book: "\"Stürme auf finsterem Pfad…\" Ein Symposion zur Sonnenfinsternis in der Antike (Heidelberg)"
+title: "Sonnenfinsternisse in Assyrien: Eine Bedrohung der Weltordnung"
+previous_item: "19546"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18556"
+occurrence_id: "4241"
+short_title: "Ambos 2013a"
+author: "Ambos, Claus"
+publication_year: "2013"
+title: "Rituale beim Abriß und Wiederaufbau eines Tempels"
+pages: "19-31"
+editor: "Löhnert, Anne "
+book: "Tempel im Alten Orient. 7. Internationales Colloquium der Deutschen Orient-Gesellschaft 11.-13. Oktober 2009, München, Colloquien der Deutschen Orient-Gesellschaft (Wiesbaden)"
+title: "Rituale beim Abriß und Wiederaufbau eines Tempels"
+previous_item: "18559"
+---

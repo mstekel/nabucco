@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10504"
+occurrence_id: "3398"
+short_title: "ZA 49 (1949), 347-353"
+author: "Hinz, Walther"
+publication_year: "1949"
+title: "Rv. G.G. Cameron, Persepolis Treasury Tablets (OIP 65, Chicago 1948)"
+volume_no_: "49"
+pages: "347-353"
+journal: "Zeitschrift für Assyriologie"
+title: "Rv. G.G. Cameron, Persepolis Treasury Tablets (OIP 65, Chicago 1948)"
+previous_item: "10507"
+---

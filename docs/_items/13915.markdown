@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13915"
+occurrence_id: "3744"
+short_title: "JRAS 58 (1926), 105-113"
+author: "Pinches, Theophilus G."
+publication_year: "1926"
+title: "Tablets Belonging to Lord Amherst of Hackney: 227. Belshazzar's Captain and His three Slaves. Nabonidus, 10h Year, 545 B.C.,"
+volume_no_: "58"
+pages: "105-113"
+journal: "Journal of the Royal Asiatic Society"
+title: "Tablets Belonging to Lord Amherst of Hackney: 227. Belshazzar's Captain and His three Slaves. Nabonidus, 10h Year, 545 B.C.,"
+previous_item: "13918"
+---

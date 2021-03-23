@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17662"
+occurrence_id: "498"
+short_title: "LKU"
+author: "Falkenstein, Adam "
+publication_year: "1931"
+title: "Literarische Keilschrifttexte aus Uruk"
+title: "Literarische Keilschrifttexte aus Uruk"
+previous_item: "17665"
+---

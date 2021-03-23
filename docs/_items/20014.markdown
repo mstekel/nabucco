@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20014"
+occurrence_id: "4312"
+short_title: "Lo Cascio 2013"
+author: "Lo Cascio, Elio"
+publication_year: "2013"
+title: "Un Commento A \"The Babylonian Economy in the Sixth and Early Fifth Century BC: Monetization, Agrarian Expansion and Economic Growth\" Di Michael Jursa"
+pages: "139-141"
+editor: "D'Agostino, Franco"
+book: "L'economia dell'antica Mesopotamia (III-I millennio a.C.). Per un dialogo interdisciplinare (Rome)"
+title: "Un Commento A \"The Babylonian Economy in the Sixth and Early Fifth Century BC: Monetization, Agrarian Expansion and Economic Growth\" Di Michael Jursa"
+previous_item: "20017"
+---

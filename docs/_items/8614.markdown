@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8614"
+occurrence_id: "2263"
+short_title: "JNES 10 (1951), 20-34"
+author: "van der Waerden, Bartel L."
+publication_year: "1951"
+title: "Babylonian Astronomy. III. The Earliest Astronomical Computations"
+volume_no_: "10"
+pages: "20-34"
+journal: "Journal of Near Eastern Studies"
+title: "Babylonian Astronomy. III. The Earliest Astronomical Computations"
+previous_item: "8617"
+---

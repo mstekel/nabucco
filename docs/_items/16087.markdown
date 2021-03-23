@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16087"
+occurrence_id: "3392"
+short_title: "ZA 41 (1933), 255 ff."
+author: "Landsberger, Benno"
+publication_year: "1933"
+title: "Rv. E. Unger, Babylon. Die heilige Stadt nach der Beschreibung der Babylonier (1931)"
+volume_no_: "41"
+pages: "255ff."
+journal: "Zeitschrift für Assyriologie"
+title: "Rv. E. Unger, Babylon. Die heilige Stadt nach der Beschreibung der Babylonier (1931)"
+previous_item: "16090"
+---

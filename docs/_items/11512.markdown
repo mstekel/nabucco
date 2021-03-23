@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11512"
+occurrence_id: "2817"
+short_title: "OLZ 93 (1998), 641-647"
+author: "Zawadzki, Stefan"
+publication_year: "1998"
+title: "Rv. M. Jursa, Die Landwirtschaft in Sippar in neubabylonischer Zeit (AfO Beiheft 25, 1995)"
+volume_no_: "93"
+pages: "641-647"
+journal: "Orientalistische Literaturzeitung"
+title: "Rv. M. Jursa, Die Landwirtschaft in Sippar in neubabylonischer Zeit (AfO Beiheft 25, 1995)"
+previous_item: "11515"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11842"
+occurrence_id: "1592"
+short_title: "BASOR 286 (1992), 15-18"
+author: "Tushingham, Arlotte Douglas "
+publication_year: "1992"
+title: "A «Neo-Babylonian» Seal from Tell Taanach"
+volume_no_: "286"
+pages: "15-18"
+journal: "Bulletin of the American Schools of Oriental Research"
+title: "A «Neo-Babylonian» Seal from Tell Taanach"
+previous_item: "11845"
+---

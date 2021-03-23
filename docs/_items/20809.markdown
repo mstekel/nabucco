@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "20809"
+occurrence_id: "4139"
+short_title: "Slotsky 1997"
+author: "Slotsky, Alice L."
+publication_year: "1997"
+title: "You CAN teach an old dog new tricks: Computer Age Analysis of Ancient Data (Prices in the Astronomical Diaries of -463 to -72)"
+pages: "355-360"
+editor: "Andreau, Jean"
+title: "You CAN teach an old dog new tricks: Computer Age Analysis of Ancient Data (Prices in the Astronomical Diaries of -463 to -72)"
+previous_item: "20812"
+---

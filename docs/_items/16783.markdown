@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16783"
+occurrence_id: "613"
+short_title: "van de Mieroop, City"
+author: "van de Mieroop, Marc "
+publication_year: "1997"
+title: "The Ancient Mesopotamian City. XV"
+title: "The Ancient Mesopotamian City. XV"
+previous_item: "16786"
+---

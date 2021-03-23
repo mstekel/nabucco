@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9067"
+occurrence_id: "1684"
+short_title: "BiOr 48 (1991), 202-210"
+author: "Joannès, Francis"
+publication_year: "1991"
+title: "Rv. E.V. Leichty, Catalogue of the Babylonian Tablets in the British Museum. Vol. VI Tablets from Sippar, 1 (1986)"
+volume_no_: "48"
+pages: "202-210"
+journal: "Bibliotheca Orientalis"
+title: "Rv. E.V. Leichty, Catalogue of the Babylonian Tablets in the British Museum. Vol. VI Tablets from Sippar, 1 (1986)"
+previous_item: "9070"
+---

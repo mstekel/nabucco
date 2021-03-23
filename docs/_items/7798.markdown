@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "7798"
+occurrence_id: "3909"
+short_title: "AfO 52 (2011), 117-120"
+author: "Baker, Heather D."
+publication_year: "2011"
+title: "The statue of Bēl in the Ninurta temple at Babylon"
+volume_no_: "52"
+pages: "117-120"
+title: "The statue of Bēl in the Ninurta temple at Babylon"
+previous_item: "7801"
+---

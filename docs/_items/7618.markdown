@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7618"
+occurrence_id: "2943"
+short_title: "Or 78 (2009), 105-111"
+author: "Koch, Heidemarie"
+publication_year: "2009"
+title: "Rv. A. Kuhrt. The Persian Empire: A Corpus of Sources from the Achaemenid Period (Routledge 2007)"
+volume_no_: "78"
+pages: "105-111"
+journal: "Orientalia"
+title: "Rv. A. Kuhrt. The Persian Empire: A Corpus of Sources from the Achaemenid Period (Routledge 2007)"
+previous_item: "7621"
+---

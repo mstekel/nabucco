@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10156"
+occurrence_id: "1508"
+short_title: "ARRIM 7 (1989), 1-54"
+author: "Frayne, Douglas R."
+publication_year: "1989"
+title: "Cuneiform Texts in the Collections of McGill University, Montreal"
+volume_no_: "7"
+pages: "1-54"
+journal: "Annual Review of the Royal Inscriptions of Mesopotamia Project"
+title: "Cuneiform Texts in the Collections of McGill University, Montreal"
+previous_item: "10159"
+---

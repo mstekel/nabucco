@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9943"
+occurrence_id: "3381"
+short_title: "ZA 1 (1886), 441-446"
+author: "Bezold, Carl"
+publication_year: "1886"
+title: "Mitteilungen aus Wien"
+volume_no_: "1"
+pages: "441-446"
+journal: "Zeitschrift für Assyriologie"
+title: "Mitteilungen aus Wien"
+previous_item: "9946"
+---

@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "12790"
+occurrence_id: "3694"
+short_title: "Ethnographie NS 56 (Paris 1962)"
+author: "Virolleaud, Charles"
+publication_year: "1962"
+title: "L´astrologie chaldéenne ou les origines de l´astrologie"
+volume_no_: "56"
+journal: "Ethnographie NS"
+title: "L´astrologie chaldéenne ou les origines de l´astrologie"
+previous_item: "12793"
+---

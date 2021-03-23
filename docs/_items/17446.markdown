@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17446"
+occurrence_id: "767"
+short_title: "de Vaan 1995"
+author: "de Vaan, Job M.C.T. "
+publication_year: "1995"
+title: "»Ich bin eine Schwertklinge des Königs«. Die Sprache des Bēl-ibni, AOAT 242 (Kevelaer and Neukirchen-Vluyn)"
+title: "»Ich bin eine Schwertklinge des Königs«. Die Sprache des Bēl-ibni, AOAT 242 (Kevelaer and Neukirchen-Vluyn)"
+previous_item: "17449"
+---

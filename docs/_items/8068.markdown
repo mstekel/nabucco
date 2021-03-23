@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8068"
+occurrence_id: "2343"
+short_title: "JNES 60 (2001), 161-176"
+author: "Tavernier, Jan"
+publication_year: "2001"
+title: "An Achaemenid Royal Inscription: the Text of Paragraph 13 of the Aramaic Version of the Bisitun Inscription"
+volume_no_: "60"
+pages: "161-176"
+journal: "Journal of Near Eastern Studies"
+title: "An Achaemenid Royal Inscription: the Text of Paragraph 13 of the Aramaic Version of the Bisitun Inscription"
+previous_item: "8071"
+---

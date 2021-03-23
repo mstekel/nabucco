@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16303"
+occurrence_id: "1536"
+short_title: "AuOr 22 (2004), 170-174."
+author: "Da Riva, Rocío"
+publication_year: "2004"
+title: "La tablillas del templo de Samas III: Agricultura y ganadería."
+volume_no_: "22"
+pages: "170-174"
+journal: "Aula Orientalis"
+title: "La tablillas del templo de Samas III: Agricultura y ganadería."
+previous_item: "16306"
+---

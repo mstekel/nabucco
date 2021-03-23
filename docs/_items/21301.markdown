@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21301"
+occurrence_id: "4559"
+short_title: "Black 1997"
+author: "Black, Jeremy A."
+publication_year: "1997"
+title: "Hellenistic Cuneiform Writing from Assyria: The Tablet from Tell Fisna"
+pages: "229-239"
+editor: "Ohnuma, K."
+book: "Special Volume in Commemoration of the 70th Birthday of Professor Hideo Fujii (Tokyo)"
+title: "Hellenistic Cuneiform Writing from Assyria: The Tablet from Tell Fisna"
+previous_item: "21304"
+---

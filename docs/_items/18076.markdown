@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18076"
+occurrence_id: "659"
+short_title: "Parker;Dubberstein 1956"
+author: "Dubberstein, Waldo H. "
+publication_year: "1956"
+title: "Babylonian Chronology 626 B.C. - A.D. 75. (Brown University Studies 19)"
+title: "Babylonian Chronology 626 B.C. - A.D. 75. (Brown University Studies 19)"
+previous_item: "18079"
+---

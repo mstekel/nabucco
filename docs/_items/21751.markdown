@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21751"
+occurrence_id: "4753"
+short_title: "Sauvage 2001"
+author: "Sauvage, Martin"
+publication_year: "2001"
+title: "Les briques de grande taille à empreintes de doigts: le Choga Mami transitional et la culture de Oueili"
+pages: "417-447"
+editor: "Breniquet, Catherine"
+book: "Études Mésopotamiennes, Fs. Huot (Paris)"
+title: "Les briques de grande taille à empreintes de doigts: le Choga Mami transitional et la culture de Oueili"
+previous_item: "21754"
+---

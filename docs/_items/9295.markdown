@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9295"
+occurrence_id: "2911"
+short_title: "Or 6 (1937), 245-251"
+author: "Ungnad, Arthur"
+publication_year: "1937"
+title: "Babylonische Kriegsanleihen"
+volume_no_: "6"
+pages: "245-251"
+journal: "Orientalia"
+title: "Babylonische Kriegsanleihen"
+previous_item: "9298"
+---

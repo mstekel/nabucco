@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7957"
+occurrence_id: "1747"
+short_title: "BMECCJ 16/1 (1973), 1-24"
+author: "Sato, Susumu"
+publication_year: "1973"
+title: "On the kurtaš"
+volume_no_: "16/1"
+pages: "1-24."
+journal: "Bulletin of the Middle Eastern Culture Center in Japan"
+title: "On the kurtaš"
+previous_item: "7960"
+---

@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "12001"
+occurrence_id: "2446"
+short_title: "NABU 1987/86"
+author: "Joannès, Francis"
+publication_year: "1987"
+title: "Une copie privée d'acte juridique"
+volume_no_: "86"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Une copie privée d'acte juridique"
+previous_item: "12004"
+---

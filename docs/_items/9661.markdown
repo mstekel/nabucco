@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9661"
+occurrence_id: "1863"
+short_title: "DV 1 (1973), 185-193 (Russ., Engl. Summary S. 238 f.)"
+author: "Sarkisjan, Gagik Ch."
+publication_year: "1973"
+title: "New Data concerning City-owned Land in Seleucid Babylonia"
+volume_no_: "1"
+pages: "185-193"
+journal: "Drevnij Vostok"
+title: "New Data concerning City-owned Land in Seleucid Babylonia"
+previous_item: "9664"
+---

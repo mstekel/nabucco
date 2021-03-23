@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12337"
+occurrence_id: "1251"
+short_title: "AfO 48/49 (2001/2002), 244-247"
+author: "Gerber, C."
+publication_year: "2001-2002"
+title: "Rv. H. Hunger and D. Pingree, Astral Sciences in Mesopotamia, HdO 44 (Leiden and Boston/Köln 1999)"
+volume_no_: "48-49"
+pages: "244-247"
+journal: "Archiv für Orientforschung"
+title: "Rv. H. Hunger and D. Pingree, Astral Sciences in Mesopotamia, HdO 44 (Leiden and Boston/Köln 1999)"
+previous_item: "12340"
+---

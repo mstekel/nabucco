@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11281"
+occurrence_id: "1575"
+short_title: "BaM 31 (2000), 309-375 (21 Tab.)"
+author: "Ehrenberg, Erica"
+publication_year: "2000"
+title: "A Corpus of Early Fifth Century Seal Impressions in the Yale Babylonian Collection"
+volume_no_: "31"
+pages: "309-375"
+journal: "Baghdader Mitteilungen"
+title: "A Corpus of Early Fifth Century Seal Impressions in the Yale Babylonian Collection"
+previous_item: "11284"
+---

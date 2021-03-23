@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14611"
+occurrence_id: "1484"
+short_title: "ArOr 42 (1974), 87-88"
+author: "Pečírková, Jana"
+publication_year: "1974"
+title: "Rv. J.A. Brinkman, A Political History of Post-Kassite Babylonia (AnOr 43)"
+volume_no_: "42"
+pages: "87-88"
+journal: "Archív Orientalí"
+title: "Rv. J.A. Brinkman, A Political History of Post-Kassite Babylonia (AnOr 43)"
+previous_item: "14614"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21136"
+occurrence_id: "4782"
+short_title: "Jursa 2003a"
+author: "Jursa, Michael"
+publication_year: "2003"
+title: "Betten, Kopfpölster und 'Kühlschränke'."
+pages: "229-238"
+editor: "Selz, G.J."
+book: "Festschrift für Burkhart Kienast zu seinem 70. Geburtstage dargebracht von Freanden, Schülern und Kollegen (Münster)"
+title: "Betten, Kopfpölster und 'Kühlschränke'."
+previous_item: "21139"
+---

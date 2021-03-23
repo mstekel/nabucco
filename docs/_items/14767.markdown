@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14767"
+occurrence_id: "2323"
+short_title: "JNES 51 (1992), 61-62"
+author: "Stolper, Matthew W."
+publication_year: "1992"
+title: "Babylonian Evidence for the End of the Reign of Darius I. A Correction"
+volume_no_: "51"
+pages: "61-62"
+journal: "Journal of Near Eastern Studies"
+title: "Babylonian Evidence for the End of the Reign of Darius I. A Correction"
+previous_item: "14770"
+---

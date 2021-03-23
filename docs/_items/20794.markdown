@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20794"
+occurrence_id: "5164"
+short_title: "Kuntner and Heinsch 2013"
+author: "Heinsch, Sandra"
+publication_year: "2013"
+title: "Die babylonischen Tempel in der Zeit nach den Chaldäern"
+pages: "219-262"
+editor: "Löhnert, Anne "
+book: "Tempel im Alten Orient. 7. Internationales Colloquium der Deutschen Orient-Gesellschaft 11.-13. Oktober 2009, München, Colloquien der Deutschen Orient-Gesellschaft (Wiesbaden)"
+title: "Die babylonischen Tempel in der Zeit nach den Chaldäern"
+previous_item: "20797"
+---

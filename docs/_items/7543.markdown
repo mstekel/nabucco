@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "7543"
+occurrence_id: "2536"
+short_title: "NABU 1995/98"
+author: "Streck, Michael , P."
+title: "Zahl und Zeit, Ergänzungen and Korrekturen"
+volume_no_: "98"
+publication_year: "1995"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Zahl und Zeit, Ergänzungen and Korrekturen"
+previous_item: "7546"
+---

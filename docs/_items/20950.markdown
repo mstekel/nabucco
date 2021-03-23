@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20950"
+occurrence_id: "4893"
+short_title: "Czechowicz 1993"
+author: "Czechowicz, Nadja"
+publication_year: "1993"
+title: "Eine neue Urkunde aus Nippur, Sin-šar-iškun 6"
+pages: "63-65"
+editor: "Zablocka, Julia"
+book: "Šulmu IV: Everyday Life in Ancient Near East (Prague)"
+title: "Eine neue Urkunde aus Nippur, Sin-šar-iškun 6"
+previous_item: "20953"
+---

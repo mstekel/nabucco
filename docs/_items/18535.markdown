@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18535"
+occurrence_id: "324"
+short_title: "Boiy 2004"
+author: "Boiy, Tom "
+publication_year: "2004"
+title: "Late Achaemenid and Hellenistic Babylon (OLA 136)"
+title: "Late Achaemenid and Hellenistic Babylon (OLA 136)"
+previous_item: "18538"
+---

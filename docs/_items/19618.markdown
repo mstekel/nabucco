@@ -1,0 +1,12 @@
+---
+layout: "bibliography"
+slug: "19618"
+occurrence_id: "4391"
+short_title: "Vallat 1992"
+author: "Vallat, François"
+publication_year: "1992"
+title: "Les prétendus fonctionnaires unsak des textes néo-élamites et achémenides"
+book: "Data. Achaemenid History Newsletter 1 (1992), 5 no.4"
+title: "Les prétendus fonctionnaires unsak des textes néo-élamites et achémenides"
+previous_item: "19621"
+---

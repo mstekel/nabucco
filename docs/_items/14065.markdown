@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14065"
+occurrence_id: "1548"
+short_title: "BA 4 (1902), 423-430"
+author: "Kohler, Josef"
+publication_year: "1902"
+title: "Ein Beitrag zum neubabylonischen Recht"
+volume_no_: "4"
+pages: "423-430"
+journal: "Beiträge zur Assyriologie"
+title: "Ein Beitrag zum neubabylonischen Recht"
+previous_item: "14068"
+---

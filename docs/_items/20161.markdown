@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20161"
+occurrence_id: "5097"
+short_title: "Hauser 1999"
+author: "Hauser, Stefan R."
+publication_year: "1999"
+title: "Der hellenisierte Orient. Bemerkungen zum Verhältnis von Alter Geschichte, Klassischer und Vorderasiatischer Archäologie"
+pages: "316-341"
+editor: "Kühne, Hartmut"
+book: "Fluchtpunkt Uruk. Archäologische Einheit aus Methodischer Vielfalt, Fs.Nissen (Rahden Leidorf)"
+title: "Der hellenisierte Orient. Bemerkungen zum Verhältnis von Alter Geschichte, Klassischer und Vorderasiatischer Archäologie"
+previous_item: "20164"
+---

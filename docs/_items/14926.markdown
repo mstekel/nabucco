@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14926"
+occurrence_id: "3180"
+short_title: "Scholastik 40 (1965), 606-607"
+author: "Haspecker, J."
+publication_year: "1965"
+title: "Rv. W. Dommershausen, Nabonid im Buche Daniel"
+volume_no_: "40"
+pages: "606-607"
+journal: "Scholastik"
+title: "Rv. W. Dommershausen, Nabonid im Buche Daniel"
+previous_item: "14929"
+---

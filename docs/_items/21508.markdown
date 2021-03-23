@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "21508"
+occurrence_id: "4560"
+short_title: "Black 2000"
+author: "Black, Jeremy A."
+publication_year: "2000"
+title: "Les bêtes qui parlent: les animaux dans les récits Mythologiques sumériens"
+pages: "367-382"
+book: "Topoi Supplément 2, Les animaux et les hommes dans le monde syro-mésopotamien aux époques historiques (Lyon)"
+title: "Les bêtes qui parlent: les animaux dans les récits Mythologiques sumériens"
+previous_item: "21511"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13039"
+occurrence_id: "2029"
+short_title: "JA 262 (1974), 31-35"
+author: "Grillot-Susini, Françoise"
+publication_year: "1974"
+title: "À propos du verbe moyen élamite"
+volume_no_: "262"
+pages: "31-35"
+journal: "Journal Asiatique"
+title: "À propos du verbe moyen élamite"
+previous_item: "13042"
+---

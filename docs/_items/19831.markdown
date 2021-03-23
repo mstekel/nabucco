@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19831"
+occurrence_id: "4424"
+short_title: "Müller 2002"
+author: "Müller, Gefrid G.W."
+publication_year: "2002"
+title: "Fünf Achtel"
+pages: "497-500"
+editor: "Schaudig, Hanspeter"
+book: "Ex Mesopotamia et Syria Lux. Fs. Dietrich. AOAT 281 (Münster)"
+title: "Fünf Achtel"
+previous_item: "19834"
+---

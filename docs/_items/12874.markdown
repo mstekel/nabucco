@@ -1,0 +1,15 @@
+---
+layout: "bibliography"
+slug: "12874"
+occurrence_id: "714"
+short_title: "Oelsner, AoF 12"
+author: "Oelsner, Joachim"
+publication_year: "1985"
+title: "Eine Urkunde des Egibi-Archives über Vermietung eines Sklaven."
+volume_no_: "12"
+pages: "365-367"
+related_objects: "7688"
+journal: "Altorientalische Forschungen "
+title: "Eine Urkunde des Egibi-Archives über Vermietung eines Sklaven."
+previous_item: "12877"
+---

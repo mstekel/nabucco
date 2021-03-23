@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17038"
+occurrence_id: "615"
+short_title: "van der Spek 1994"
+author: "van der Spek, Robartus "
+publication_year: "1994"
+title: "\"... en hun machhebbers worden weldoeners genoemd.\" Religieuze en economische politiek in het Seleucidische Rijk"
+title: "\"... en hun machhebbers worden weldoeners genoemd.\" Religieuze en economische politiek in het Seleucidische Rijk"
+previous_item: "17041"
+---

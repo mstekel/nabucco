@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14746"
+occurrence_id: "2209"
+short_title: "JCS 57 (2005), 129-133"
+author: "Steele, John M."
+publication_year: "2005"
+title: "A New Scheme from uruk for the Retrograde Arc of Mars."
+volume_no_: "57"
+pages: "129-133"
+journal: "Journal of Cuneiform Studies"
+title: "A New Scheme from uruk for the Retrograde Arc of Mars."
+previous_item: "14749"
+---

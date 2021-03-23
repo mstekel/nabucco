@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "19264"
+occurrence_id: "4709"
+short_title: "Zer-Kavod (Ehrenkranz) 1964"
+author: "Zer-Kavod (Ehrenkranz), Mordecai"
+publication_year: "1964"
+title: "Cyrus, King of Persia: Vision and Actuality in the Bible"
+pages: "67-88"
+book: "Back to the Sources. Materials for Bible Study Circles, El ha-'Ayin 39 (Jerusalem)"
+title: "Cyrus, King of Persia: Vision and Actuality in the Bible"
+previous_item: "19267"
+---

@@ -1,0 +1,15 @@
+---
+layout: "bibliography"
+slug: "20389"
+occurrence_id: "118"
+short_title: "TEST123"
+author: "Ungnad, Arthur"
+publication_year: "2016"
+title: "Volledige titel test123"
+book: "The never ending story"
+pages: "188"
+related_objects: "2929"
+related_publications: "75"
+title: "Volledige titel test123"
+previous_item: "20392"
+---

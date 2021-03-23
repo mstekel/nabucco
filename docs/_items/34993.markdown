@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34993"
+place_id: "919"
+parent_id: "61"
+place_name: "Bīt-Šama'-il"
+title: "Bīt-Šama'-il"
+previous_item: "34996"
+---

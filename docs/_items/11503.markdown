@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11503"
+occurrence_id: "2769"
+short_title: "OLZ 37 (1934), 89-100"
+author: "Eilers, Wilhelm"
+publication_year: "1934"
+title: "Rv. O. Krückmann, Babylonische Rechts- und Verwaltungsurkunden aus der Zeit Alexanders and der Diadochen (Weimar 1931)"
+volume_no_: "37"
+pages: "89-100"
+journal: "Orientalistische Literaturzeitung"
+title: "Rv. O. Krückmann, Babylonische Rechts- und Verwaltungsurkunden aus der Zeit Alexanders and der Diadochen (Weimar 1931)"
+previous_item: "11506"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12355"
+occurrence_id: "1349"
+short_title: "AMI 28 (1995/1996), 305-307"
+author: "Heltzer, Michael"
+publication_year: "1995/1996"
+title: "The Flogging and Plucking of Beards in the Achaemenid Empire and the Chronology of Nehemia"
+volume_no_: "28"
+pages: "305-307"
+journal: "Archäologische Mitteilungen aus Iran"
+title: "The Flogging and Plucking of Beards in the Achaemenid Empire and the Chronology of Nehemia"
+previous_item: "12358"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19051"
+occurrence_id: "4676"
+short_title: "Watanabe 1995"
+author: "Watanabe, Kazuko"
+publication_year: "1995"
+title: "Beschriftete neubabylonische Siegel"
+pages: "225-234"
+editor: "Mikasa, H.I.H. Prince Takahito"
+book: "Essays on Ancient Anatolia and its Surrounding Civilizations, BMECCJ 8 (Wiesbaden)"
+title: "Beschriftete neubabylonische Siegel"
+previous_item: "19054"
+---

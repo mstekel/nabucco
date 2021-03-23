@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "19375"
+occurrence_id: "4197"
+short_title: "Funck 1979"
+author: "Funck, Bernd"
+publication_year: "1979"
+title: "Studien zur sozialökonomischen Situation Babyloniens im 7. und 6. Jahrhundert v.u.Z."
+pages: "47-67"
+editor: "Klengel, Horst"
+title: "Studien zur sozialökonomischen Situation Babyloniens im 7. und 6. Jahrhundert v.u.Z."
+previous_item: "19378"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11611"
+occurrence_id: "3352"
+short_title: "WeOr 9/1 (1977), 35-56"
+author: "Zadok, Ran"
+publication_year: "1977"
+title: "Historical and Onomastic Notes"
+volume_no_: "9/1."
+pages: "35-56"
+journal: "Die Welt des Orients"
+title: "Historical and Onomastic Notes"
+previous_item: "11614"
+---

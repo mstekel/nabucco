@@ -1,0 +1,10 @@
+---
+layout: "glossary"
+slug: "35587"
+concept_id: "1225"
+label: "Inheritance"
+hierarchy: "Content type"
+type: "172"
+title: "Inheritance"
+previous_item: "35590"
+---

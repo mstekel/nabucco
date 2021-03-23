@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9190"
+occurrence_id: "2345"
+short_title: "JNES 60 (2001), 290-291"
+author: "Biggs, Robert D."
+publication_year: "2001"
+title: "Rv. E. Von Weiher, Uruk: Spätbabylonische Texte aus dem Planquadrat U 18. Teil V, Mainz 1998"
+volume_no_: "60"
+pages: "290-291"
+journal: "Journal of Near Eastern Studies"
+title: "Rv. E. Von Weiher, Uruk: Spätbabylonische Texte aus dem Planquadrat U 18. Teil V, Mainz 1998"
+previous_item: "9193"
+---

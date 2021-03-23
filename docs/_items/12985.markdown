@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12985"
+occurrence_id: "1740"
+short_title: "BiOr 8 (1951), 42-46"
+author: "Goossens, Godefroy"
+publication_year: "1951"
+title: "Rv. A.T. Olmstead, History of the Persian Empire (Achaemenid Period)"
+volume_no_: "8"
+pages: "42-46"
+journal: "Bibliotheca Orientalis"
+title: "Rv. A.T. Olmstead, History of the Persian Empire (Achaemenid Period)"
+previous_item: "12988"
+---

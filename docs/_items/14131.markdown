@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14131"
+occurrence_id: "1903"
+short_title: "IIJ 12 (1970), 121-125"
+author: "Windfuhr, Gernot, L."
+publication_year: "1970"
+title: "Notes on the Old Persian Signs"
+volume_no_: "12"
+pages: "121-125"
+journal: "Indo-Iranian Journal"
+title: "Notes on the Old Persian Signs"
+previous_item: "14134"
+---

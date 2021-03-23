@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16666"
+occurrence_id: "686"
+short_title: "ABC"
+author: "Grayson, Albert K. "
+publication_year: "1975"
+title: "Assyrian and Babylonian Chronicles. TCS 5 (Locust Valley, N.Y.). "
+title: "Assyrian and Babylonian Chronicles. TCS 5 (Locust Valley, N.Y.). "
+previous_item: "16669"
+---

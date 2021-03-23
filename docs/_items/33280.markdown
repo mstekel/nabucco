@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33280"
+place_id: "106"
+parent_id: "40"
+place_name: "Ālu-ša-Ardāni"
+title: "Ālu-ša-Ardāni"
+previous_item: "33283"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15316"
+occurrence_id: "2259"
+short_title: "JNES 1 (1942), 239"
+author: "Dubberstein, Waldo H."
+publication_year: "1942"
+title: "Rv. E.W. Moore, Neo-Babylonian Documents in the University of Michigan Collection"
+volume_no_: "1"
+pages: "239"
+journal: "Journal of Near Eastern Studies"
+title: "Rv. E.W. Moore, Neo-Babylonian Documents in the University of Michigan Collection"
+previous_item: "15319"
+---

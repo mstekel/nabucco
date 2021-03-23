@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8050"
+occurrence_id: "2246"
+short_title: "JESHO 43 (2000), 132-161"
+author: "Postgate, John Nicholas"
+publication_year: "2000"
+title: "Rv. M. Hudson, How Interest Rates Were Set, 2500 BC-1000 AD: Máš, tokos and foenus as Metaphors for Interest Accruals"
+volume_no_: "43"
+pages: "132-161"
+journal: "Journal of the Economic and Social History of the Orient"
+title: "Rv. M. Hudson, How Interest Rates Were Set, 2500 BC-1000 AD: Máš, tokos and foenus as Metaphors for Interest Accruals"
+previous_item: "8053"
+---

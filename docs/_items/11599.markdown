@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11599"
+occurrence_id: "3286"
+short_title: "UF 27 (1995), 627-640"
+author: "Zadok, Ran"
+publication_year: "1995"
+title: "Notes on Syro-Palestinian Toponymy and Anthroponymy"
+volume_no_: "27"
+pages: "627-640"
+journal: "Ugarit-Forschungen"
+title: "Notes on Syro-Palestinian Toponymy and Anthroponymy"
+previous_item: "11602"
+---

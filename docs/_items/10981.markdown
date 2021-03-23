@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10981"
+occurrence_id: "2965"
+short_title: "PalSb 11/74 (1964), 182-187"
+author: "Dandamayev, Muhammed A."
+publication_year: "1964"
+title: "Ein neues Buch über spätbabylonischer Rechtsurkunden"
+volume_no_: "11/74."
+pages: "182-187"
+journal: "Palestinskij Szbornik"
+title: "Ein neues Buch über spätbabylonischer Rechtsurkunden"
+previous_item: "10984"
+---

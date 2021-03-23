@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33565"
+place_id: "1120"
+parent_id: "61"
+place_name: "Kirāti"
+title: "Kirāti"
+previous_item: "33568"
+---

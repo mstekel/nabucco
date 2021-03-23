@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7651"
+occurrence_id: "3119"
+short_title: "RAr 15 (1940), 273"
+author: "Contenau, Georges"
+publication_year: "1940"
+title: "Rv. E.W. Moore, Neo-Babylonian Documents in the University of Michigan Collection"
+volume_no_: "15"
+pages: "273"
+journal: "Revue archéologique"
+title: "Rv. E.W. Moore, Neo-Babylonian Documents in the University of Michigan Collection"
+previous_item: "7654"
+---

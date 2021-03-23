@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19411"
+occurrence_id: "4390"
+short_title: "Vallat 1986"
+author: "Vallat, François"
+publication_year: "1986"
+title: "Table accadienne de Darius Ier"
+pages: "277-287"
+editor: "Vallat, François"
+book: "Fragmenta historiae Aelamicae, Fs. Steve (Paris)"
+title: "Table accadienne de Darius Ier"
+previous_item: "19414"
+---

@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18361"
+occurrence_id: "841"
+short_title: "Linssen 2004 (CM 25)"
+author: "Linssen, Marc J.H. "
+publication_year: "2004"
+title: "The Cults of Uruk and Babylon: the Temple Ritual Texts as Evidence for Hellenistic Cult Practice, CM 25 (Leiden)"
+title: "The Cults of Uruk and Babylon: the Temple Ritual Texts as Evidence for Hellenistic Cult Practice, CM 25 (Leiden)"
+previous_item: "18364"
+---

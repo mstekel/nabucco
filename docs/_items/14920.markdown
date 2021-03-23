@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14920"
+occurrence_id: "3148"
+short_title: "RIDA 3e Série 19 (1972), 43-127"
+author: "Szlechter, Émile"
+publication_year: "1972"
+title: "Les Lois Néo-Babyloniennes (II)"
+volume_no_: "3/19."
+pages: "43-127"
+journal: "Revue Internationale des Droits de l'Antiquité"
+title: "Les Lois Néo-Babyloniennes (II)"
+previous_item: "14923"
+---

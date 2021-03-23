@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12772"
+occurrence_id: "3598"
+short_title: "Achaemenid History 8 (1994), 107-129"
+author: "Seidl, Ursula"
+publication_year: "1994"
+title: "Achaimenidische Entlehnungen aus der urartäischen Kultur"
+volume_no_: "8"
+pages: "107-129"
+journal: "Achaemenid History"
+title: "Achaimenidische Entlehnungen aus der urartäischen Kultur"
+previous_item: "12775"
+---

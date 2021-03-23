@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "20410"
+occurrence_id: "4218"
+short_title: "Zaccagnini 1994"
+author: "Zaccagnini, Carlo"
+publication_year: "1994"
+title: "Les échanges dans l´Antiquité. Paradigmes théoriques et analyse des sources"
+pages: "213-225"
+editor: "Bresson, Alain"
+title: "Les échanges dans l´Antiquité. Paradigmes théoriques et analyse des sources"
+previous_item: "20413"
+---

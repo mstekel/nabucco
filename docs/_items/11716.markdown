@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "11716"
+occurrence_id: "3916"
+short_title: "Mesopotamia 46 (2011), 23-34"
+author: "Bergamini, Giovanni"
+publication_year: "2011"
+title: "Babylon in the Achaemenid and Hellenistic period: the changing landscape of a myth"
+volume_no_: "46"
+pages: "23-34"
+title: "Babylon in the Achaemenid and Hellenistic period: the changing landscape of a myth"
+previous_item: "11719"
+---

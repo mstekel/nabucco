@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13660"
+occurrence_id: "2369"
+short_title: "Klio 60 (1978), 101-116"
+author: "Oelsner, Joachim"
+publication_year: "1978"
+title: "Kontinuität und Wandel in Gesellschaft und Kultur Babyloniens in hellenistischer Zeit"
+volume_no_: "60"
+pages: "101-116"
+journal: "Klio"
+title: "Kontinuität und Wandel in Gesellschaft und Kultur Babyloniens in hellenistischer Zeit"
+previous_item: "13663"
+---

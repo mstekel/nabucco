@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18787"
+occurrence_id: "4371"
+short_title: "Joannès 2005"
+author: "Joannès, Francis"
+publication_year: "2005"
+title: "Les relations entre Babylonie et Iran au debut de la période achéménide: quelques remarques."
+pages: "183-196"
+editor: "Baker, Heather D."
+book: "Approaching the Babylonian Economy, AOAT 330 (Münster)"
+title: "Les relations entre Babylonie et Iran au debut de la période achéménide: quelques remarques."
+previous_item: "18790"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11551"
+occurrence_id: "3030"
+short_title: "RA 50 (1956), 73-84"
+author: "Cavaignac, Eugène"
+publication_year: "1956"
+title: "Sur deux dates d´Antiochus le Grand"
+volume_no_: "50"
+pages: "73-84"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "Sur deux dates d´Antiochus le Grand"
+previous_item: "11554"
+---

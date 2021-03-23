@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21790"
+occurrence_id: "4961"
+short_title: "Vargyas 2010a"
+author: "Vargyas, Péter"
+publication_year: "2010"
+title: "Getreidekursangaben und Preistarife in Assyrian un Babylonien des 2. und 1. Jahrtausends"
+pages: "38-44"
+editor: "Csabai, Zoltán"
+book: "From Elephantine to Babylon. Selected Studies of Péter Vargyas on Ancient Near Eastern Economy, Ancient Near Eastern and Mediterranean Studies 1 (Budapest)"
+title: "Getreidekursangaben und Preistarife in Assyrian un Babylonien des 2. und 1. Jahrtausends"
+previous_item: "21793"
+---

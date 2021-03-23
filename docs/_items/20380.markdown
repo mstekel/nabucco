@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20380"
+occurrence_id: "5162"
+short_title: "Farber 2012"
+author: "Farber, Walter"
+publication_year: "2012"
+title: "Lamaštu-Beschwörungen zwischen Schulunterricht und medizinischer Praxis"
+pages: "225-235"
+editor: "Neumann, Hans"
+book: "Wissenskultur im Alten Orient. Weltanschauung, Wissenschaften, Techniken, Technologien. 4. Internationales Colloquium der Deutschen Orient-Gesellschaft 20.-22. Februar 2002, Münster, Colloquien der Deutschen Orient-Gesellschaft 4 (Wiesbaden)"
+title: "Lamaštu-Beschwörungen zwischen Schulunterricht und medizinischer Praxis"
+previous_item: "20383"
+---

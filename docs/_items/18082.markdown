@@ -1,0 +1,12 @@
+---
+layout: "bibliography"
+slug: "18082"
+occurrence_id: "717"
+short_title: "Abraham 2004"
+author: "Abraham, Kathleen "
+publication_year: "2004"
+title: "Business and Politics under the Persian Empire. The Financial Dealings of Marduk-nāṣir-apli of the House of Egibi (521-487 B.C.E.)"
+related_objects: "4306"
+title: "Business and Politics under the Persian Empire. The Financial Dealings of Marduk-nāṣir-apli of the House of Egibi (521-487 B.C.E.)"
+previous_item: "18085"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19846"
+occurrence_id: "4504"
+short_title: "Saggs 1996"
+author: "Saggs, Henry W.F."
+publication_year: "1996"
+title: "Chaldeans in the Nimrud Letters"
+pages: "379-390"
+editor: "Ambros, Arne, A."
+book: "Festschrift Hirsch, WZKM 86 (Wien)"
+title: "Chaldeans in the Nimrud Letters"
+previous_item: "19849"
+---

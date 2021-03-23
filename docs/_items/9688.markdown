@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9688"
+occurrence_id: "2007"
+short_title: "Isis 56 (1965), 69"
+author: "Gingerich, Owen"
+publication_year: "1965"
+title: "Lunar Visibilities in Ancient Babylon"
+volume_no_: "56"
+pages: "69"
+journal: "Isis"
+title: "Lunar Visibilities in Ancient Babylon"
+previous_item: "9691"
+---

@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "19762"
+occurrence_id: "5159"
+short_title: "Tuman 1987"
+author: "Tuman, Vladimir S."
+publication_year: "1987"
+title: "Astrological omens from lunar eclipses as a source for Babylonian Chronology"
+pages: "609-628"
+book: "XXXIVème Rencontre Assyriologique Internationale, RAI 34 Abstracts (Istanbul)"
+title: "Astrological omens from lunar eclipses as a source for Babylonian Chronology"
+previous_item: "19765"
+---

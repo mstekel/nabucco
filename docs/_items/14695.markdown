@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14695"
+occurrence_id: "1936"
+short_title: "IrAn 4 (1964), 36-54"
+author: "Frye, Richard N."
+publication_year: "1964"
+title: "The Charisma of Kingship in Ancient Iran"
+volume_no_: "4"
+pages: "36-54"
+journal: "Iranica Antiqua"
+title: "The Charisma of Kingship in Ancient Iran"
+previous_item: "14698"
+---

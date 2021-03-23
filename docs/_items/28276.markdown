@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "28276"
+occurrence_id: "5210"
+short_title: "Abstracta Iranica 8 (1985), 32"
+author: "Grillot-Susini, Françoise"
+publication_year: "1985"
+title: "Rv. M.W. Stolper, Texts from Tall-i Malyan, Vol. 1"
+volume_no_: "8"
+pages: "32"
+journal: "Abstracta Iranica"
+title: "Rv. M.W. Stolper, Texts from Tall-i Malyan, Vol. 1"
+previous_item: "28339"
+---

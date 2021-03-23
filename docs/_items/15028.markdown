@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15028"
+occurrence_id: "3730"
+short_title: "JHS 111 (1991), 71-86"
+author: "Kuhrt, Amélie"
+publication_year: "1991"
+title: "Aspects of Seleucid Royal Ideology: the Cylinder of Antiochus I from Borsippa"
+volume_no_: "111"
+pages: "71-86"
+journal: "Journal of Hellenic Studies"
+title: "Aspects of Seleucid Royal Ideology: the Cylinder of Antiochus I from Borsippa"
+previous_item: "15031"
+---

@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17302"
+occurrence_id: "653"
+short_title: "Zimmern 1917"
+author: "Zimmern, Heinrich "
+publication_year: "1917"
+title: "Akkadische Fremdwörter"
+title: "Akkadische Fremdwörter"
+previous_item: "17305"
+---

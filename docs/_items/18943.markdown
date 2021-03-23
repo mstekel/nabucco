@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18943"
+occurrence_id: "5203"
+short_title: "Mitsuma 2013"
+author: "Mitsuma, Yasuyuki"
+publication_year: "2013"
+title: "The Offering for the Ritual of King Seleucus III and His Offspring"
+pages: "739-744"
+editor: "Albà, Adelina, Millet"
+book: "Time and History in the Ancient Near East. Proceedings of the 56th Rencontre Assyriologique Internationale at Barcelona 26-30 July 2010 (Winona Lake)"
+title: "The Offering for the Ritual of King Seleucus III and His Offspring"
+previous_item: "18946"
+---

@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17698"
+occurrence_id: "733"
+short_title: "Arnold 1985"
+author: "Arnold, Bill T. "
+publication_year: "1985"
+title: "Babylonian Letters from the Kuyunjik Collection: Seventh Century Uruk in New Epistolary Evidence, Ph.D. Dissertation - Hebrew Union College (Cincinnati)"
+title: "Babylonian Letters from the Kuyunjik Collection: Seventh Century Uruk in New Epistolary Evidence, Ph.D. Dissertation - Hebrew Union College (Cincinnati)"
+previous_item: "17701"
+---

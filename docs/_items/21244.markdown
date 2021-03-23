@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21244"
+occurrence_id: "4254"
+short_title: "Wunsch 2007"
+author: "Wunsch, Cornelia"
+publication_year: "2007"
+title: "The Egibi Family."
+pages: "236-247"
+editor: "Leick, Gwendolyn"
+book: "The Babylonian World (Abingdon and New York)"
+title: "The Egibi Family."
+previous_item: "21247"
+---

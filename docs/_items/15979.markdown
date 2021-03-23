@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15979"
+occurrence_id: "2809"
+short_title: "OLZ 83 (1988), 141-146"
+author: "Oelsner, Joachim"
+publication_year: "1988"
+title: "Rv. H. Kreissig, Wirtschaft and Gesellschaft im Seleukidenreich (1978)"
+volume_no_: "83"
+pages: "141-146"
+journal: "Orientalistische Literaturzeitung"
+title: "Rv. H. Kreissig, Wirtschaft and Gesellschaft im Seleukidenreich (1978)"
+previous_item: "15982"
+---

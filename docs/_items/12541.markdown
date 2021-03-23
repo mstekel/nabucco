@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12541"
+occurrence_id: "2351"
+short_title: "JNES 63 (2003), 71-72"
+author: "Sack, Ronald H."
+publication_year: "2003"
+title: "Rv. D.S. Vanderhooft, The Neo-Babylonian Empire and Babylon in the Later Prophets."
+volume_no_: "63"
+pages: "71-72"
+journal: "Journal of Near Eastern Studies"
+title: "Rv. D.S. Vanderhooft, The Neo-Babylonian Empire and Babylon in the Later Prophets."
+previous_item: "12544"
+---

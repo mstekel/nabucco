@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16951"
+occurrence_id: "865"
+short_title: "Pongratz-Leisten 1994"
+author: "Pongratz-Leisten, Beate "
+publication_year: "1994"
+title: "Ina šulmi īrub. Die kulttopographische und ideologische Programmatik der akītu-Prozession Babylonien und Assyrian im 1. Jahrtausend v. Chr., BaF 16 (Mainz am Rhein)"
+title: "Ina šulmi īrub. Die kulttopographische und ideologische Programmatik der akītu-Prozession Babylonien und Assyrian im 1. Jahrtausend v. Chr., BaF 16 (Mainz am Rhein)"
+previous_item: "16954"
+---

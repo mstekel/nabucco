@@ -1,0 +1,12 @@
+---
+layout: "bibliography"
+slug: "17365"
+occurrence_id: "202"
+short_title: "UET 1"
+author: "Gadd, Cyril J. "
+publication_year: "1928"
+title: "Ur Excavations Texts I: Royal Inscriptions"
+volume_no_: "1"
+title: "Ur Excavations Texts I: Royal Inscriptions"
+previous_item: "17368"
+---

@@ -1,0 +1,10 @@
+---
+layout: "glossary"
+slug: "35611"
+concept_id: "1579"
+label: "Single"
+hierarchy: "Content type"
+type: "172"
+title: "Single"
+previous_item: "35614"
+---

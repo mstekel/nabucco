@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8398"
+occurrence_id: "249"
+short_title: "Brinkman, OrNS 34"
+author: "Brinkman, John A."
+publication_year: "1965"
+title: "Ur: 721-605 B.C."
+volume_no_: "34"
+pages: "241-258 "
+journal: "Orientalia Nova Series"
+title: "Ur: 721-605 B.C."
+previous_item: "8401"
+---

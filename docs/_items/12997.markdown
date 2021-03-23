@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12997"
+occurrence_id: "1805"
+short_title: "BSOAS 59 (1996), 338"
+author: "George, Andrew, R."
+publication_year: "1996"
+title: "Rv. R.H. Sack, Cuneiform Documents from the Chaldean and Persian Periods (1994)"
+volume_no_: "59"
+pages: "338"
+journal: "Bulletin of the School of Oriental and African Studies"
+title: "Rv. R.H. Sack, Cuneiform Documents from the Chaldean and Persian Periods (1994)"
+previous_item: "13000"
+---

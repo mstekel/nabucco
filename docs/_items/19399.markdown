@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19399"
+occurrence_id: "4325"
+short_title: "Ebeling 1938a"
+author: "Ebeling, Erich"
+publication_year: "1938"
+title: "Bordell"
+pages: "60"
+editor: "Meissner, Bruno"
+book: "Reallexikon der Assyriologie 2 (1938)"
+title: "Bordell"
+previous_item: "19402"
+---

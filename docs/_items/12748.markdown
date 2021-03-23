@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12748"
+occurrence_id: "3468"
+short_title: "ZA 82 (1992), 98-111"
+author: "Beaulieu, Paul-A."
+publication_year: "1992"
+title: "New Light on Secret Knowledge in Late Babylonian Culture"
+volume_no_: "82"
+pages: "98-111"
+journal: "Zeitschrift für Assyriologie"
+title: "New Light on Secret Knowledge in Late Babylonian Culture"
+previous_item: "12751"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19126"
+occurrence_id: "5076"
+short_title: "Cleuziou 2001"
+author: "Cleuziou, Serge"
+publication_year: "2001"
+title: "Autrefois la Mésopotamie allait jusqu´à la mer..."
+pages: "91-104"
+editor: "Breniquet, Catherine"
+book: "Études Mésopotamiennes, Fs. Huot (Paris)"
+title: "Autrefois la Mésopotamie allait jusqu´à la mer..."
+previous_item: "19129"
+---

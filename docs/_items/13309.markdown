@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13309"
+occurrence_id: "3485"
+short_title: "ZA 86 (1996), 294-301"
+author: "Miglus, Peter A."
+publication_year: "1996"
+title: "Rv. H. Schmid, Der Tempelturm Etemenanki in Babylon (BaF 17, 1995)"
+volume_no_: "86"
+pages: "294-301"
+journal: "Zeitschrift für Assyriologie"
+title: "Rv. H. Schmid, Der Tempelturm Etemenanki in Babylon (BaF 17, 1995)"
+previous_item: "13312"
+---

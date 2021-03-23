@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18487"
+occurrence_id: "826"
+short_title: "Koch 1988"
+author: "Koch, Heidemarie "
+publication_year: "1988"
+title: "Persien zur Zeit des Dareios. Das Achämenidenreich im Lichte neuer Quellen, Kleine Schriften aus dem Vorgeschichtlichen Seminar der Philipps-Universität Marburg, Heft 25 (Marburg)"
+title: "Persien zur Zeit des Dareios. Das Achämenidenreich im Lichte neuer Quellen, Kleine Schriften aus dem Vorgeschichtlichen Seminar der Philipps-Universität Marburg, Heft 25 (Marburg)"
+previous_item: "18490"
+---

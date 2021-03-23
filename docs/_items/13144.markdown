@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "13144"
+occurrence_id: "2595"
+short_title: "NABU 1998/66"
+author: "Zadok, Ran"
+title: "Late-Babylonian ušru"
+volume_no_: "66"
+publication_year: "1998"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Late-Babylonian ušru"
+previous_item: "13147"
+---

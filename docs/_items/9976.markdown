@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9976"
+occurrence_id: "3561"
+short_title: "ZDMG 146 (1996), 198-199"
+author: "Schramm, Wolfgang"
+publication_year: "1996"
+title: "Rv. H. Koch, Achämeniden-Studien (1993)"
+volume_no_: "146"
+pages: "198-199"
+journal: "Zeitschrift der Deutschen Morgenländischen Gesellschaft"
+title: "Rv. H. Koch, Achämeniden-Studien (1993)"
+previous_item: "9979"
+---

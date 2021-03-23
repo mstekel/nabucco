@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "20617"
+occurrence_id: "4219"
+short_title: "Zaccagnini 1997"
+author: "Zaccagnini, Carlo"
+publication_year: "1997"
+title: "Prices and price formation in the Ancient Near East. A methodological approach"
+pages: "361-384"
+editor: "Andreau, Jean"
+title: "Prices and price formation in the Ancient Near East. A methodological approach"
+previous_item: "20620"
+---

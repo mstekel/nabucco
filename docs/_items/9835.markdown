@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9835"
+occurrence_id: "2798"
+short_title: "OLZ 76 (1981), 248-249"
+author: "Dandamayev, Muhammed A."
+publication_year: "1981"
+title: "Rv. E. Salonen, Neubabylonische Urkunden verschiedenen Inhalts, II"
+volume_no_: "76"
+pages: "248-249"
+journal: "Orientalistische Literaturzeitung"
+title: "Rv. E. Salonen, Neubabylonische Urkunden verschiedenen Inhalts, II"
+previous_item: "9838"
+---

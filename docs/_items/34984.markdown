@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34984"
+place_id: "775"
+parent_id: "61"
+place_name: "Aššurītu"
+title: "Aššurītu"
+previous_item: "34987"
+---

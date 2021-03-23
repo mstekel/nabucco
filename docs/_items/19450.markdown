@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19450"
+occurrence_id: "4598"
+short_title: "de Vaan 1998"
+author: "de Vaan, Job M.C.T."
+publication_year: "1998"
+title: "Idiom im Neubabylonischen (I). Erläuterungen zum Vokabular des Generals Bēl-ibni"
+pages: "71-80"
+editor: "Dietrich, Manfried"
+book: "dubsar anta-men. Studien zur Altorientalistik, Fs. Römer AOAT 253 (Münster)"
+title: "Idiom im Neubabylonischen (I). Erläuterungen zum Vokabular des Generals Bēl-ibni"
+previous_item: "19453"
+---

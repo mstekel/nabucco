@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19246"
+occurrence_id: "4613"
+short_title: "Dillery 2013"
+author: "Dillery, John"
+publication_year: "2013"
+title: "Berossos' Narrative of Nabopolassar and Nebuchadnezzar II from Josephus"
+pages: "75-96"
+editor: "Lanfranchi, Giovanni , B."
+book: "The World of Berossos. Proceedings of the 4th International Colloquium on «The Ancient Near East between Classical and Ancient Oriental Traditions», Hatfield College, Durham, 7th-9th July 2010,  Classica et Orientalia 5 (Wiesbaden)"
+title: "Berossos' Narrative of Nabopolassar and Nebuchadnezzar II from Josephus"
+previous_item: "19249"
+---

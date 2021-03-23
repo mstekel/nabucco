@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17212"
+occurrence_id: "899"
+short_title: "Vanderhooft 1999"
+author: "Vanderhooft, David S. "
+publication_year: "1999"
+title: "The Neo-Babylonian Empire and Babylon in the Latter Prophets, HSM 59 (Atlanta)"
+title: "The Neo-Babylonian Empire and Babylon in the Latter Prophets, HSM 59 (Atlanta)"
+previous_item: "17215"
+---

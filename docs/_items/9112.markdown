@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9112"
+occurrence_id: "1926"
+short_title: "IrAn 24 (1989), 79-85"
+author: "Calmeyer, Peter"
+publication_year: "1989"
+title: "Beobachtungen an der Silbervase aus Persepolis"
+volume_no_: "24"
+pages: "79-85"
+journal: "Iranica Antiqua"
+title: "Beobachtungen an der Silbervase aus Persepolis"
+previous_item: "9115"
+---

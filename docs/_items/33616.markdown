@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33616"
+place_id: "163"
+parent_id: "40"
+place_name: "Arqā"
+title: "Arqā"
+previous_item: "33619"
+---

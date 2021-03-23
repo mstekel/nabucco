@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "15967"
+occurrence_id: "2745"
+short_title: "NABU 2011/32"
+author: "Tarasewicz, Radosław"
+title: "The syllabic writing of theMonth addaru"
+volume_no_: "32"
+publication_year: "2011"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "The syllabic writing of theMonth addaru"
+previous_item: "15970"
+---

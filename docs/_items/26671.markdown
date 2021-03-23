@@ -1,0 +1,18 @@
+---
+layout: "tablet"
+slug: "26671"
+object_id: "5874"
+museum_no_: "BM 77942"
+period: "ENB"
+day_remark: "-"
+month: "I"
+month_remark: "-"
+year_remark: "[-]"
+king: "Ššu"
+king_remark: "-"
+imported: "Melanie Gross (26/05/2016)"
+day_babylonian_: "9"
+place_of_issue_remark: "[-]"
+title: "BM 77942"
+previous_item: "26674"
+---

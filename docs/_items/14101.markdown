@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14101"
+occurrence_id: "1742"
+short_title: "BMECCJ 1 (1984), 1-10"
+author: "Muntingh, Lukas M."
+publication_year: "1984"
+title: "The Conception of Ancient Syro-Palestinian Kingship in the Light of Contemporary Royal Archives with Special Reference to the Recent Discoveries at Tell Mardikh (Ebla) in Syria"
+volume_no_: "1"
+pages: "1-10"
+journal: "Bulletin of the Middle Eastern Culture Center in Japan"
+title: "The Conception of Ancient Syro-Palestinian Kingship in the Light of Contemporary Royal Archives with Special Reference to the Recent Discoveries at Tell Mardikh (Ebla) in Syria"
+previous_item: "14104"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12535"
+occurrence_id: "2319"
+short_title: "JNES 47 (1988), 207-208"
+author: "Roth, Martha T."
+publication_year: "1988"
+title: "Rv. M.A. Dandamayev, Slavery in Babylonia from Nabopolassar to Alexander the Great (626-331 B.C.)"
+volume_no_: "47"
+pages: "207-208"
+journal: "Journal of Near Eastern Studies"
+title: "Rv. M.A. Dandamayev, Slavery in Babylonia from Nabopolassar to Alexander the Great (626-331 B.C.)"
+previous_item: "12538"
+---

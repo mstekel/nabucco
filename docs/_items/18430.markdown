@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18430"
+occurrence_id: "469"
+short_title: "Kohler, Ungnad, HAU (1911)"
+author: "Kohler, Josef "
+publication_year: "1911"
+title: "Hundert ausgewählte Urkunden aus der Spätzeit des babylonischen Schrifttums von Xerxes bis Mihridates II. (485-93 v.Chr.)"
+title: "Hundert ausgewählte Urkunden aus der Spätzeit des babylonischen Schrifttums von Xerxes bis Mihridates II. (485-93 v.Chr.)"
+previous_item: "18433"
+---

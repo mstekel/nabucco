@@ -1,0 +1,9 @@
+---
+layout: "archive"
+slug: "22795"
+archive_id: "310"
+archive_name: "Iššar-tarībi"
+is_part_of: "Sippar"
+title: "Iššar-tarībi"
+previous_item: "22798"
+---

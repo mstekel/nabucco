@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34612"
+place_id: "142"
+parent_id: "40"
+place_name: "Ālu-ša-Qurabatūa"
+title: "Ālu-ša-Qurabatūa"
+previous_item: "34615"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10321"
+occurrence_id: "2395"
+short_title: "MDOG 82 (1950), 47-53"
+author: "Wetzel, Friedrich"
+publication_year: "1950"
+title: "Babylon bei den klassischen Schriftstellern ausser Herodot"
+volume_no_: "82"
+pages: "47-53"
+journal: "Mitteilungen der Deutschen Orient-Gesellschaft"
+title: "Babylon bei den klassischen Schriftstellern ausser Herodot"
+previous_item: "10324"
+---

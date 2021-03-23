@@ -1,0 +1,10 @@
+---
+layout: "glossary"
+slug: "35539"
+concept_id: "1213"
+label: "Consecration"
+hierarchy: "Content type"
+type: "172"
+title: "Consecration"
+previous_item: "35542"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18892"
+occurrence_id: "4931"
+short_title: "Beaulieu 2005a"
+author: "Beaulieu, Paul-A."
+publication_year: "2005"
+title: "The god Amurru as emblem of Ethnic and cultural identity?"
+pages: "31-46"
+editor: "van Soldt, Wilfred H."
+book: "Ethnicity in Ancient Mesopotamia. RAI 48, PIHANS 102 (Leiden)"
+title: "The god Amurru as emblem of Ethnic and cultural identity?"
+previous_item: "18895"
+---

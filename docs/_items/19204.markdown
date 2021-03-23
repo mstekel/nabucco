@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19204"
+occurrence_id: "4389"
+short_title: "Vallat 1983"
+author: "Vallat, François"
+publication_year: "1983"
+title: "Les briques élamites de Deylam"
+pages: "11-18"
+editor: "Mackenzie, David N."
+book: "Kunst, Kultur und Geschichte der Achämenidenzeit und ihr Fortleben, Archäologische Mitteilungen aus Iran, Ergänzungsband 10 (Berlin)"
+title: "Les briques élamites de Deylam"
+previous_item: "19207"
+---

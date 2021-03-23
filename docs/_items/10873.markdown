@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10873"
+occurrence_id: "2380"
+short_title: "Ktèma 29 (2004), 259-265."
+author: "Scurlock, JoAnn"
+publication_year: "2004"
+title: "\"Chaldean\" Astrology: Sextus Empiricus Illustrated by Selected Cuneiform Sources."
+volume_no_: "29"
+pages: "259-265"
+journal: "Ktèma"
+title: "\"Chaldean\" Astrology: Sextus Empiricus Illustrated by Selected Cuneiform Sources."
+previous_item: "10876"
+---

@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33556"
+place_id: "976"
+parent_id: "61"
+place_name: "Dūru-ša-Gidāni"
+title: "Dūru-ša-Gidāni"
+previous_item: "33559"
+---

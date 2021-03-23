@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10696"
+occurrence_id: "1428"
+short_title: "AoF 22 (1995), 34-36"
+author: "Dandamayev, Muhammed A."
+publication_year: "1995"
+title: "The Ebabbar Temple and Iranian Magi"
+volume_no_: "22"
+pages: "34-36"
+journal: "Altorientalische Forschungen"
+title: "The Ebabbar Temple and Iranian Magi"
+previous_item: "10699"
+---

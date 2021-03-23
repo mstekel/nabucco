@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8167"
+occurrence_id: "2875"
+short_title: "Or 36 (1967), 421-425"
+author: "Berger, Paul-R."
+publication_year: "1967"
+title: "Akkadisches aus Elam. Zu dem akkadischen Passus eines elamischen Backsteins aus Tschogha Sambil"
+volume_no_: "36"
+pages: "421-425"
+journal: "Orientalia"
+title: "Akkadisches aus Elam. Zu dem akkadischen Passus eines elamischen Backsteins aus Tschogha Sambil"
+previous_item: "8170"
+---

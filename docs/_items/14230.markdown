@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "14230"
+occurrence_id: "2434"
+short_title: "NABU 1987/111"
+author: "Giovinazzo, Grazia"
+publication_year: "1987"
+title: "Le vin šap dans les tablettes de Persépolis"
+volume_no_: "111"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Le vin šap dans les tablettes de Persépolis"
+previous_item: "14233"
+---

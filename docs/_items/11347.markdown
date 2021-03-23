@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11347"
+occurrence_id: "1930"
+short_title: "IrAn 31 (1996), 167-178"
+author: "Wolski, Józef"
+publication_year: "1996"
+title: "Quelques remarques concernant la chronologie des débuts de l´Etat parhe"
+volume_no_: "31"
+pages: "167-178"
+journal: "Iranica Antiqua"
+title: "Quelques remarques concernant la chronologie des débuts de l´Etat parhe"
+previous_item: "11350"
+---

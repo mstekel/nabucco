@@ -1,0 +1,14 @@
+---
+layout: "tablet"
+slug: "28861"
+object_id: "7104"
+museum_no_: "BM 41612"
+publication: "CT 22"
+text_number: "200 "
+period: "-"
+type_and_content: "Letters"
+publication_name: "CT 22 200 "
+archive: "Egibi/Nūr-Sîn"
+title: "BM 41612"
+previous_item: "28864"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10471"
+occurrence_id: "3204"
+short_title: "Sprache 12 (1966), 190-226"
+author: "Szemerényi, Oswald"
+publication_year: "1966"
+title: "Iranica II (Nos. 9-31)"
+volume_no_: "12"
+pages: "190-226"
+journal: "Sprache"
+title: "Iranica II (Nos. 9-31)"
+previous_item: "10474"
+---

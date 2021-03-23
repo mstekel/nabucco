@@ -1,0 +1,16 @@
+---
+layout: "tablet"
+slug: "33115"
+object_id: "8863"
+museum_no_: "BM 43613"
+publication: "Jursa 1999"
+page_number: "241"
+period: "Each"
+type_and_content: "Indeterminate texts"
+paraphrase: "Fragment concerning the baker&#39;s prebend. Uncertain whether to be attributable to &Scaron;ang&ucirc;-&Scaron;ama&scaron; A."
+imported: "Matthias Adelhofer (08/06/17)"
+publication_name: "Jursa 1999 "
+archive: "Šangû-Šamaš A"
+title: "BM 43613"
+previous_item: "33118"
+---

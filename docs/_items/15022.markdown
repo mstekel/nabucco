@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15022"
+occurrence_id: "3698"
+short_title: "EV 15 (1963), 24-35"
+author: "Dandamayev, Muhammed A."
+publication_year: "1963"
+title: "Das Problem der altpersischen Schrift"
+volume_no_: "15"
+pages: "24-35"
+journal: "Ëpigrafika Vostoka"
+title: "Das Problem der altpersischen Schrift"
+previous_item: "15025"
+---

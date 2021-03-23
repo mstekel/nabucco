@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12508"
+occurrence_id: "2172"
+short_title: "JCS 32 (1980), 65-80"
+author: "Finkel, Irving L."
+publication_year: "1980"
+title: "Bilingual Chronicle Fragments"
+volume_no_: "32"
+pages: "65-80"
+journal: "Journal of Cuneiform Studies"
+title: "Bilingual Chronicle Fragments"
+previous_item: "12511"
+---

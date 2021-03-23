@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13258"
+occurrence_id: "3209"
+short_title: "Sprache 21 (1975 publ. 1976), 178-184"
+author: "Schmitt, Rüdiger"
+publication_year: "1975 publ. 1976"
+title: "Analecta Irano-Aramaica"
+volume_no_: "21"
+pages: "178-184"
+journal: "Sprache"
+title: "Analecta Irano-Aramaica"
+previous_item: "13261"
+---

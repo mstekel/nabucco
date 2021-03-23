@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16144"
+occurrence_id: "3700"
+short_title: "Ex Oriente Lux 10 (1945-1948), 432-455"
+author: "Leemans, W.F."
+publication_year: "1945-1948"
+title: "Marduk-apal-iddina II, zijn tijd en zijn geslacht"
+volume_no_: "10"
+pages: "432-455"
+journal: "Ex Oriente Lux"
+title: "Marduk-apal-iddina II, zijn tijd en zijn geslacht"
+previous_item: "16147"
+---

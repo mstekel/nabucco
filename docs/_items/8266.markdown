@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8266"
+occurrence_id: "3410"
+short_title: "ZA 53 (1959), 241-247"
+author: "Petschow, Herbert"
+publication_year: "1959"
+title: "Zum neubabylonischen Bürgschaftsrecht"
+volume_no_: "53"
+pages: "241-247"
+journal: "Zeitschrift für Assyriologie"
+title: "Zum neubabylonischen Bürgschaftsrecht"
+previous_item: "8269"
+---

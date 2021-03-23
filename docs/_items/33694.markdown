@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33694"
+place_id: "1413"
+parent_id: "37"
+place_name: "Ma-ši-˹x-x-x˺"
+title: "Ma-ši-˹x-x-x˺"
+previous_item: "33697"
+---

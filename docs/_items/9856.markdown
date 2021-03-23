@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9856"
+occurrence_id: "2912"
+short_title: "Or 60 (1991), 58-81"
+author: "Beaulieu, Paul-A."
+publication_year: "1991"
+title: "Neo-Babylonian Larsa: A Preliminary Study"
+volume_no_: "60"
+pages: "58-81"
+journal: "Orientalia"
+title: "Neo-Babylonian Larsa: A Preliminary Study"
+previous_item: "9859"
+---

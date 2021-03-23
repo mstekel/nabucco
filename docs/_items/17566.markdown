@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17566"
+occurrence_id: "693"
+short_title: "SpTU 1"
+author: "Hunger, Hermann "
+publication_year: "1976 (publ. 1977)"
+title: "Spätbabylonische Texte aus Uruk, Teil I. ADFU 9 (Berlin). "
+title: "Spätbabylonische Texte aus Uruk, Teil I. ADFU 9 (Berlin). "
+previous_item: "17569"
+---

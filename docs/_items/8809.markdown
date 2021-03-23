@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8809"
+occurrence_id: "3315"
+short_title: "WeOr 17 (1986 publ.1987), 162-163"
+author: "Koch, Heidemarie"
+publication_year: "1986 publ.1987"
+title: "Rv. E. Carter and M.W. Stolper, Elam (1984)"
+volume_no_: "17"
+pages: "162-163"
+journal: "Die Welt des Orients"
+title: "Rv. E. Carter and M.W. Stolper, Elam (1984)"
+previous_item: "8812"
+---

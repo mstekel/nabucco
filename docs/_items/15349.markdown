@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "15349"
+occurrence_id: "2436"
+short_title: "NABU 1987/113"
+author: "Vallat, François"
+publication_year: "1987"
+title: "Perse, Persépolis dans les textes achéménides rédigés en élamite"
+volume_no_: "113"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Perse, Persépolis dans les textes achéménides rédigés en élamite"
+previous_item: "15352"
+---

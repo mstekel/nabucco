@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34177"
+place_id: "274"
+parent_id: "40"
+place_name: "Bīt-Iltehlāja"
+title: "Bīt-Iltehlāja"
+previous_item: "34180"
+---

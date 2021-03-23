@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "18007"
+occurrence_id: "160"
+short_title: "OECT 12"
+author: "Joannès, Francis "
+publication_year: "1990"
+title: "Les tablettes néo-babyloniennes de la Bodleian Library conservées à l´Ashmolean Museum (Neo-Babylonian Tablets in the Ashmolean Museum)"
+volume_no_: "12"
+related_objects: "7737"
+title: "Les tablettes néo-babyloniennes de la Bodleian Library conservées à l´Ashmolean Museum (Neo-Babylonian Tablets in the Ashmolean Museum)"
+previous_item: "18010"
+---

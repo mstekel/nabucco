@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "9505"
+occurrence_id: "4041"
+short_title: "Topoi 19/1 (2014), 123-180"
+author: "Tolini, Gauthier"
+publication_year: "2014"
+title: "Les sanctuaires de Babylonie à l'époche achéménide. Entre légitimation, soumission et révoltes"
+volume_no_: "19/1"
+pages: "123-180"
+title: "Les sanctuaires de Babylonie à l'époche achéménide. Entre légitimation, soumission et révoltes"
+previous_item: "9508"
+---

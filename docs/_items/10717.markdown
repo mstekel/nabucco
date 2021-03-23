@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10717"
+occurrence_id: "1542"
+short_title: "AUSS 9 (1971), 99-128"
+author: "Shea, William H."
+publication_year: "1971"
+title: "An Unrecognized King of Babylon in the Early Achaemenid Period"
+volume_no_: "9"
+pages: "99-128"
+journal: "Andrews University Seminar Studies"
+title: "An Unrecognized King of Babylon in the Early Achaemenid Period"
+previous_item: "10720"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13012"
+occurrence_id: "1885"
+short_title: "Historia 37 (1988), 54-71"
+author: "McNeal, Richard"
+publication_year: "1988"
+title: "The Brides of Babylon: Herodotus I.196"
+volume_no_: "37"
+pages: "54-71"
+journal: "Historia"
+title: "The Brides of Babylon: Herodotus I.196"
+previous_item: "13015"
+---

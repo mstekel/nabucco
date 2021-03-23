@@ -1,0 +1,12 @@
+---
+layout: "bibliography"
+slug: "18259"
+occurrence_id: "37"
+short_title: "IMT"
+author: "Donbaz, Veysel "
+publication_year: "1997"
+title: "Istanbul Murašû Texts, PIHANS 79 (Istanbul and Leiden)"
+related_objects: "2137"
+title: "Istanbul Murašû Texts, PIHANS 79 (Istanbul and Leiden)"
+previous_item: "18262"
+---

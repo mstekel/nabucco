@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12538"
+occurrence_id: "2335"
+short_title: "JNES 57 (1998), 313-316"
+author: "Beaulieu, Paul-A."
+publication_year: "1998"
+title: "Rv. E. von Weiher, Uruk. Spätbabylonische Texte aus dem Planquadrat U 18, Teil IV"
+volume_no_: "57"
+pages: "313-316"
+journal: "Journal of Near Eastern Studies"
+title: "Rv. E. von Weiher, Uruk. Spätbabylonische Texte aus dem Planquadrat U 18, Teil IV"
+previous_item: "12541"
+---

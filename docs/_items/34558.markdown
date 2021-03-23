@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34558"
+place_id: "1051"
+parent_id: "61"
+place_name: "Hurbat-Šadē"
+title: "Hurbat-Šadē"
+previous_item: "34561"
+---

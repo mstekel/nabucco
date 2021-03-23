@@ -1,0 +1,17 @@
+---
+layout: "tablet"
+slug: "31138"
+object_id: "4393"
+museum_no_: "MLC 0542"
+publication: "BRM 1"
+text_number: "081"
+duplicate: "BM 30980"
+period: "Each"
+place_of_issue: "Babylon city"
+imported: "Kathleen Abraham (18/04/2016)"
+publication_name: "BRM 1 081"
+archive: "Egibi/Nūr-Sîn"
+related_objects: "4338"
+title: "MLC 0542"
+previous_item: "31141"
+---

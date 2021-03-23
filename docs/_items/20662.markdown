@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20662"
+occurrence_id: "4460"
+short_title: "Frame 2013a"
+author: "Frame, Grant"
+publication_year: "2013"
+title: "The Political History and Historical Geography of the Aramean, Chaldean, and Arab Tribes in Babylonia in the Neo-Assyrian Period"
+pages: "87-121"
+editor: "Berlejung, Angelika"
+book: "Arameans, Chaldeans, and Arabs in Babylonia and Palestine in the First Millennium B.C., Leipziger Altorientalische Studien 3 (Wiesbaden)"
+title: "The Political History and Historical Geography of the Aramean, Chaldean, and Arab Tribes in Babylonia in the Neo-Assyrian Period"
+previous_item: "20665"
+---

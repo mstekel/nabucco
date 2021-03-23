@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21145"
+occurrence_id: "4830"
+short_title: "Dandamayev 1963b"
+author: "Dandamayev, Muhammed A."
+publication_year: "1963"
+title: "Foreign Slaves on the Estates of the Achaemenid Kings and heir Nobles"
+pages: "147-154"
+editor: "Gafurov, Bobodzhan , G."
+book: "Trudy dvadtsat' piatogo Mezhdunarodnogo kongressa vostokovedov II (Moscow)"
+title: "Foreign Slaves on the Estates of the Achaemenid Kings and heir Nobles"
+previous_item: "21148"
+---

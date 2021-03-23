@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14680"
+occurrence_id: "1856"
+short_title: "DLZ 78 (1957), 296-298"
+author: "Petschow, Herbert"
+publication_year: "1957"
+title: "Rv. E. Ebeling, Glossar zu den neubabylonischen Briefen (1953)"
+volume_no_: "78"
+pages: "296-298"
+journal: "Deutsche Literatur-Zeitung"
+title: "Rv. E. Ebeling, Glossar zu den neubabylonischen Briefen (1953)"
+previous_item: "14683"
+---

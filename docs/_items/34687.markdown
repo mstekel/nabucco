@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "34687"
+place_id: "1348"
+parent_id: "40"
+place_name: "Šaṭir"
+related_objects: "1885"
+title: "Šaṭir"
+previous_item: "34690"
+---

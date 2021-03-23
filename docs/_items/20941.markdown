@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "20941"
+occurrence_id: "4845"
+short_title: "Dandamayev 1979c"
+author: "Dandamayev, Muhammed A."
+publication_year: "1979"
+title: "Le statut juridique de l'ikkaru néo-babylonien"
+pages: "153-161"
+book: "Terre et paysans dépendants dans les sociétés antiques, Colloque international, Besançon, 2 et 3 mai 1974 (Paris)"
+title: "Le statut juridique de l'ikkaru néo-babylonien"
+previous_item: "20944"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8443"
+occurrence_id: "1342"
+short_title: "AMI 21 (1988 publ.1990), 27-53"
+author: "Calmeyer, Peter"
+publication_year: "1988 publ.1990"
+title: "Zur Genese altiranischer Motive X. Die elamisch-persische Tracht"
+volume_no_: "21"
+pages: "27-53"
+journal: "Archäologische Mitteilungen aus Iran"
+title: "Zur Genese altiranischer Motive X. Die elamisch-persische Tracht"
+previous_item: "8446"
+---

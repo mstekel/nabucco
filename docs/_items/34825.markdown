@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "34825"
+place_id: "1547"
+parent_id: "40"
+place_name: "Bīt Mīnû-ana-Bēl-dānu"
+related_objects: "8554"
+title: "Bīt Mīnû-ana-Bēl-dānu"
+previous_item: "34828"
+---

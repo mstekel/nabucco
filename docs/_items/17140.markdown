@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17140"
+occurrence_id: "458"
+short_title: "Kent 1953"
+author: "Kent, Roland G. "
+publication_year: "1953"
+title: "Old Persian Grammar Lexicon Texts (= AOS 33)"
+title: "Old Persian Grammar Lexicon Texts (= AOS 33)"
+previous_item: "17143"
+---

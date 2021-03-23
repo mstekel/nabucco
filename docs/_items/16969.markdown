@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16969"
+occurrence_id: "4103"
+short_title: "Schmidl 2012"
+author: "Schmidl, Martina "
+publication_year: "2012"
+title: "Rhetorik neubabylonischer Privatbriefe, Unpublished Master thesis (Vienna)"
+title: "Rhetorik neubabylonischer Privatbriefe, Unpublished Master thesis (Vienna)"
+previous_item: "16972"
+---

@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "8104"
+occurrence_id: "2537"
+short_title: "NABU 1996/100"
+author: "Weszeli, Michaela"
+title: "BM 63396 - Esel"
+volume_no_: "100"
+publication_year: "1996"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "BM 63396 - Esel"
+previous_item: "8107"
+---

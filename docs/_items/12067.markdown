@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12067"
+occurrence_id: "2802"
+short_title: "OLZ 78 (1983), 246-250"
+author: "Oelsner, Joachim"
+publication_year: "1983"
+title: "Rv. H. Hunger, Spätbabylonische Texte aus Uruk, Teil I"
+volume_no_: "78"
+pages: "246-250"
+journal: "Orientalistische Literaturzeitung"
+title: "Rv. H. Hunger, Spätbabylonische Texte aus Uruk, Teil I"
+previous_item: "12070"
+---

@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "8113"
+occurrence_id: "2586"
+short_title: "NABU 1998/19"
+author: "Zadok, Ran"
+title: "Pūlu 'Vicia Faba' in Neo-Babylonian"
+volume_no_: "19"
+publication_year: "1998"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Pūlu 'Vicia Faba' in Neo-Babylonian"
+previous_item: "8116"
+---

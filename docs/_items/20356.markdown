@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20356"
+occurrence_id: "5034"
+short_title: "Biggs 1994"
+author: "Biggs, Robert D."
+publication_year: "1994"
+title: "Šušan in Babylonia"
+pages: "299-304"
+editor: "Degraeve, A."
+book: "Cinquante-deux Reflexions sur le Proche-orient ancien offertes en Hommage à Léon de Meijer. MHEOP 2 (Leuven)"
+title: "Šušan in Babylonia"
+previous_item: "20359"
+---

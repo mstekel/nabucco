@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21811"
+occurrence_id: "5073"
+short_title: "Mirelman 2010"
+author: "Mirelman, Sam"
+publication_year: "2010"
+title: "Performative Indications in Late Babylonian Texts"
+pages: "241-264"
+editor: "Shehata, Dahlia"
+book: "Musiker und Tradierung. Studien zur Rolle von Musikern bei der Verschriftlichung und Tradierung von literarischen Werken, Wiener Offene Orientalistik 8 (Vienna)"
+title: "Performative Indications in Late Babylonian Texts"
+previous_item: "21814"
+---

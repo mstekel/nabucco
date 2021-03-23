@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14749"
+occurrence_id: "2226"
+short_title: "JEOL 30 (1989), 61-64"
+author: "van Driel, Govert"
+publication_year: "1989"
+title: "The Edict of Belšazzar. An Alternative Interpretation"
+volume_no_: "30"
+pages: "61-64"
+journal: "Jaarbericht van het Voor-Aziatisch-Egyptisch-Gezelschap Ex Oriente Lux"
+title: "The Edict of Belšazzar. An Alternative Interpretation"
+previous_item: "14752"
+---

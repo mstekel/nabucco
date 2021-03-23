@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "7666"
+occurrence_id: "3199"
+short_title: "SPAW 1890, 1319-1332"
+author: "Schrader, Eberhard"
+publication_year: "1890"
+title: "Die Datierung der babylonischen sogenannten Arsacideninschriften"
+pages: "1319-1332"
+journal: "Sitzungsberichte der Preußischen Akademie der Wissenschaften"
+title: "Die Datierung der babylonischen sogenannten Arsacideninschriften"
+previous_item: "7669"
+---

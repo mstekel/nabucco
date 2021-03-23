@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18877"
+occurrence_id: "4851"
+short_title: "Dandamayev 1986"
+author: "Dandamayev, Muhammed A."
+publication_year: "1986"
+title: "The Neo-Babylonian Archives"
+pages: "273-277"
+editor: "Veenhof, Klaas , Roelof "
+book: "Cuneiform Archives and Libraries, RAI 30, PIHANS 57 (Istanbul)"
+title: "The Neo-Babylonian Archives"
+previous_item: "18880"
+---

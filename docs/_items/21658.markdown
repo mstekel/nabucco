@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21658"
+occurrence_id: "4256"
+short_title: "Wunsch 2012"
+author: "Wunsch, Cornelia"
+publication_year: "2012"
+title: "Legal Narrative in Neo-Babylonian Trial Documents. Text Reconstruction, Interpretation, and Assyriological Method"
+pages: "3-34"
+editor: "Avemarie, Friedrich"
+book: "Law and Narrative in the Bible and in Neighbouring Ancient Cultures (Tübingen)"
+title: "Legal Narrative in Neo-Babylonian Trial Documents. Text Reconstruction, Interpretation, and Assyriological Method"
+previous_item: "21661"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7597"
+occurrence_id: "2826"
+short_title: "OLZ 95 (2000), 478-481"
+author: "Frye, Richard N."
+publication_year: "2000"
+title: "Rv. J. Wiesehöfer, Das Parther-Reich und seine Zeugnisse (Historia Einzelschriften 122, 1998)"
+volume_no_: "95"
+pages: "478-481"
+journal: "Orientalistische Literaturzeitung"
+title: "Rv. J. Wiesehöfer, Das Parther-Reich und seine Zeugnisse (Historia Einzelschriften 122, 1998)"
+previous_item: "7600"
+---

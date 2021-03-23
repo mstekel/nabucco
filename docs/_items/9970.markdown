@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9970"
+occurrence_id: "3529"
+short_title: "ZA 97 (2007), 152-154."
+author: "Streck, Michael , P."
+publication_year: "2007"
+title: "Rv. D.B. Weisberg, Neo-Babylonian Texts in the Oriental Institute Collection (OIP 122. Chicago, 2003)."
+volume_no_: "97"
+pages: "152-154"
+journal: "Zeitschrift für Assyriologie"
+title: "Rv. D.B. Weisberg, Neo-Babylonian Texts in the Oriental Institute Collection (OIP 122. Chicago, 2003)."
+previous_item: "9973"
+---

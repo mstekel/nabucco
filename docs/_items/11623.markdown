@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "11623"
+occurrence_id: "3416"
+short_title: "Berger, ZA 60 = NF 26 (1970)"
+author: "Berger, Paul-R."
+publication_year: "1970"
+title: "Zur Nabonid-Inschrift Nr. 3 und ihren Duplikaten"
+volume_no_: "60"
+pages: "128-133"
+title: "Zur Nabonid-Inschrift Nr. 3 und ihren Duplikaten"
+previous_item: "11626"
+---

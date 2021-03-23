@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13462"
+occurrence_id: "1301"
+short_title: "AJSL 55 (1938), 417-419"
+author: "Dubberstein, Waldo H."
+publication_year: "1938"
+title: "The Chronology of Cyrus and Cambyses"
+volume_no_: "55"
+pages: "417-419"
+journal: "American Journal of Semitic Languages and Literatures"
+title: "The Chronology of Cyrus and Cambyses"
+previous_item: "13465"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19216"
+occurrence_id: "4453"
+short_title: "van Driel 2000"
+author: "van Driel, Govert"
+publication_year: "2000"
+title: "Institutional and Non-Institutional Economy in Ancient Mesopotamia"
+pages: "5-23"
+editor: "Bongenaar, A.C.V.M."
+book: "Interdependency of Institutions and Private Entrepreneurs (Istanbul and Leiden)"
+title: "Institutional and Non-Institutional Economy in Ancient Mesopotamia"
+previous_item: "19219"
+---

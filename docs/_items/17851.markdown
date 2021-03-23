@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17851"
+occurrence_id: "872"
+short_title: "Root 1979"
+author: "Root, Margaret Cool "
+publication_year: "1979"
+title: "The King and Kingship in Achaemenid Art. Essays on the Creation of an Iconography of Empire, AcIr 19 = 3ème Série: Textes et Mémoires, Vol. 9 (Université de Liège Diss.)"
+title: "The King and Kingship in Achaemenid Art. Essays on the Creation of an Iconography of Empire, AcIr 19 = 3ème Série: Textes et Mémoires, Vol. 9 (Université de Liège Diss.)"
+previous_item: "17854"
+---

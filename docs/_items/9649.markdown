@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9649"
+occurrence_id: "1799"
+short_title: "BSOAS 54 (1991), 1-4"
+author: "Geller, Mark J."
+publication_year: "1991"
+title: "New Information on Antiochus IV from Babylonian Astronomical Diaries"
+volume_no_: "54"
+pages: "1-4"
+journal: "Bulletin of the School of Oriental and African Studies"
+title: "New Information on Antiochus IV from Babylonian Astronomical Diaries"
+previous_item: "9652"
+---

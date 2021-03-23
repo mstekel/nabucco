@@ -1,0 +1,12 @@
+---
+layout: "bibliography"
+slug: "16978"
+occurrence_id: "198"
+short_title: "RGTC 8"
+author: "Zadok, Ran "
+publication_year: "1985"
+title: "Geographical Names According to New- and Late-Babylonian Texts Répertoire Géographique des Textes Cunéiformes"
+volume_no_: "8"
+title: "Geographical Names According to New- and Late-Babylonian Texts Répertoire Géographique des Textes Cunéiformes"
+previous_item: "16981"
+---

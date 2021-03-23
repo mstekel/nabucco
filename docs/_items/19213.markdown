@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19213"
+occurrence_id: "4437"
+short_title: "Wilhelm 1990"
+author: "Wilhelm, Gernot"
+publication_year: "1990"
+title: "Marginalien zu Herodots Klio 199"
+pages: "505-524"
+editor: "Huehnergard, John"
+book: "Lingering over Words: Studies in Ancient Near Eastern Literature in Honor of William L. Moran. Harvard Semitic Studies 37 (Atlanta)"
+title: "Marginalien zu Herodots Klio 199"
+previous_item: "19216"
+---

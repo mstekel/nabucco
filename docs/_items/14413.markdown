@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14413"
+occurrence_id: "3422"
+short_title: "ZA 62 (1972), 137-139"
+author: "Degen, Rainer"
+publication_year: "1972"
+title: "Rv. M. Dietrich, Die Aramäer Südbabyloniens in der Sargonidenzeit (700-648) (AOAT 7)"
+volume_no_: "62"
+pages: "137-139"
+journal: "Zeitschrift für Assyriologie"
+title: "Rv. M. Dietrich, Die Aramäer Südbabyloniens in der Sargonidenzeit (700-648) (AOAT 7)"
+previous_item: "14416"
+---

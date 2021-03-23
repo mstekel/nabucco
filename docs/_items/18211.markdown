@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18211"
+occurrence_id: "720"
+short_title: "Borger, HKL (1967-1975)"
+author: "Borger, Rykle "
+publication_year: "1967-1975"
+title: "Handbuch der Keilschriftenliteratur. Repertorium der sumerischen und akkadischen Texte."
+title: "Handbuch der Keilschriftenliteratur. Repertorium der sumerischen und akkadischen Texte."
+previous_item: "18214"
+---

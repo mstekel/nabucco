@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10579"
+occurrence_id: "3802"
+short_title: "NumC xxxviI (1906), 17-25"
+author: "Imhoof-Blumer, Frédéric"
+publication_year: "1906"
+title: "The Mint of Babylon: a rejoinder"
+volume_no_: "xxxvil"
+pages: "17-25"
+journal: "The Numismatic Chronicle"
+title: "The Mint of Babylon: a rejoinder"
+previous_item: "10582"
+---

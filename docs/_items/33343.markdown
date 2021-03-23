@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33343"
+place_id: "1114"
+parent_id: "61"
+place_name: "Kār-Nanâ"
+title: "Kār-Nanâ"
+previous_item: "33346"
+---

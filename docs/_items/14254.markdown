@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "14254"
+occurrence_id: "2565"
+short_title: "NABU 1997/34"
+author: "Jursa, Michael"
+title: "Aromatika"
+volume_no_: "34"
+publication_year: "1997"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Aromatika"
+previous_item: "14257"
+---

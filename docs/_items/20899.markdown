@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20899"
+occurrence_id: "4621"
+short_title: "MacGinnis 2002"
+author: "MacGinnis, John"
+publication_year: "2002"
+title: "Working in Elam"
+pages: "177-182"
+editor: "Wunsch, Cornelia"
+book: "Mining the archives, Fs. Walker (Dresden)"
+title: "Working in Elam"
+previous_item: "20902"
+---

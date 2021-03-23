@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14494"
+occurrence_id: "3857"
+short_title: "Topoi 15 (2007), 21-74"
+author: "Clancier, Philippe"
+publication_year: "2007"
+title: "La Babylonie hellénistique. Apercu d'histoire politique et culturelle."
+volume_no_: "15"
+pages: "21-74"
+journal: "Topoi"
+title: "La Babylonie hellénistique. Apercu d'histoire politique et culturelle."
+previous_item: "14497"
+---

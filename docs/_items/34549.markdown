@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34549"
+place_id: "907"
+parent_id: "61"
+place_name: "Bīt-rē'ê"
+title: "Bīt-rē'ê"
+previous_item: "34552"
+---

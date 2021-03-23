@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10597"
+occurrence_id: "3898"
+short_title: "ZVS 82 (1968), 62-68"
+author: "Eilers, Wilhelm"
+publication_year: "1968"
+title: "Zum altpersischen Relativpronomen"
+volume_no_: "82"
+pages: "62-68"
+journal: "Zeitschrift für vergleichende Sprachforschung auf dem Gebiete der Indogermanischen Sprachen"
+title: "Zum altpersischen Relativpronomen"
+previous_item: "10600"
+---

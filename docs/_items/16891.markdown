@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16891"
+occurrence_id: "492"
+short_title: "Lanz 1976"
+author: "Lanz, Hugo "
+publication_year: "1976"
+title: "Die neubabylonischen harrānu-Geschäftsunternehmen, Münchener Universitätsschriften, Juristische Fakultät. Abhandlungen zur rechtswissenschaftlichen Grundlagenforschung 18 (Berlin)"
+title: "Die neubabylonischen harrānu-Geschäftsunternehmen, Münchener Universitätsschriften, Juristische Fakultät. Abhandlungen zur rechtswissenschaftlichen Grundlagenforschung 18 (Berlin)"
+previous_item: "16894"
+---

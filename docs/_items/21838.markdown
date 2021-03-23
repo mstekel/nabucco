@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21838"
+occurrence_id: "226"
+short_title: "Gurney 1982"
+author: "Gurney, Oliver R."
+publication_year: "1982"
+title: "Three Contracts from Babylon, in M.A. Dandamayev, I. Gershevitch, H. Klengel, G. Komoróczy, M.T. Larsen and J.N. Postgate (eds), Societies and Languages of the Ancient Near East. Studies in Honour of I.M. Diakonoff, Warminster, Aris & Philipps, 120-128"
+pages: "120-28"
+editor: "Komoróczy, Géza"
+book: "Societies and Languages of the Ancient Near East. Studies in Honour of I.M. Diakonoff"
+title: "Three Contracts from Babylon, in M.A. Dandamayev, I. Gershevitch, H. Klengel, G. Komoróczy, M.T. Larsen and J.N. Postgate (eds), Societies and Languages of the Ancient Near East. Studies in Honour of I.M. Diakonoff, Warminster, Aris & Philipps, 120-128"
+previous_item: "21841"
+---

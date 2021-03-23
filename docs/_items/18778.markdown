@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18778"
+occurrence_id: "4322"
+short_title: "Reiner 1996"
+author: "Reiner, Erica"
+publication_year: "1996"
+title: "Suspendu entre ciel et terre"
+pages: "311-313"
+editor: "D'Agostino, Franco"
+book: "Collectanea Orientalia. Histoire, arts de l´espace de industrie de la terre, Fs.Spycket (Neuchâtel and Paris)"
+title: "Suspendu entre ciel et terre"
+previous_item: "18781"
+---

@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "21634"
+occurrence_id: "4127"
+short_title: "Skaist 1995"
+author: "Skaist, Aaron"
+publication_year: "1995"
+title: "Šīmu gamru. Its Function and History"
+pages: "619-626"
+editor: "Sokoloff, Michael"
+title: "Šīmu gamru. Its Function and History"
+previous_item: "21637"
+---

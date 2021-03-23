@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7978"
+occurrence_id: "1860"
+short_title: "Droit et Cultures 52 (2006), 13-26."
+author: "Démare-Lafont, Sophie"
+publication_year: "2006"
+title: "datu sa sarri, La « loi du roi » dans la Babylonie achéménide et séleucide"
+volume_no_: "52"
+pages: "13-26"
+journal: "Droit et Cultures"
+title: "datu sa sarri, La « loi du roi » dans la Babylonie achéménide et séleucide"
+previous_item: "7981"
+---

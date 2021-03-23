@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20440"
+occurrence_id: "4379"
+short_title: "Joannès 2009d"
+author: "Joannès, Francis"
+publication_year: "2009"
+title: "Diversité ehnique et culturelle en Babylonie récente."
+pages: "217-236"
+editor: "Chauveau, Michel"
+book: "Organisation des pouvoirs et contacts culturels dans les pays de l’empire achéménide. Actes du colloque … 9-10 novembre 2007,  Persika 14 (Paris)"
+title: "Diversité ehnique et culturelle en Babylonie récente."
+previous_item: "20443"
+---

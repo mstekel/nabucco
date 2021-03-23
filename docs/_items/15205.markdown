@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15205"
+occurrence_id: "1662"
+short_title: "BiOr 35 (1978 publ. 1980), 230-233"
+author: "Stolper, Matthew W."
+publication_year: "1978 publ. 1980"
+title: "Rv. G. Ries, Die neubabylonischen Bodenpachtformulare"
+volume_no_: "35"
+pages: "230-233"
+journal: "Bibliotheca Orientalis"
+title: "Rv. G. Ries, Die neubabylonischen Bodenpachtformulare"
+previous_item: "15208"
+---

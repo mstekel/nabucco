@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20332"
+occurrence_id: "4906"
+short_title: "Neugebauer 1948"
+author: "Neugebauer, Otto"
+publication_year: "1948"
+title: "Arithmetical Methods for the Dating of Babylonian Astronomical Texts"
+pages: "265-275"
+editor: "Courant, Richard"
+book: "Studies and essays: presented to R. Courant on his 60th birthday, January 8, 1948 (New York)"
+title: "Arithmetical Methods for the Dating of Babylonian Astronomical Texts"
+previous_item: "20335"
+---

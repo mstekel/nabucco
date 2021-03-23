@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9733"
+occurrence_id: "2249"
+short_title: "JESHO 53 (2010), 531-578"
+author: "Kozuh, Michael"
+publication_year: "2010"
+title: "Lamb, Mutton, and Goat in the Babylonian Temple Eonomy."
+volume_no_: "53"
+pages: "531-578"
+journal: "Journal of the Economic and Social History of the Orient"
+title: "Lamb, Mutton, and Goat in the Babylonian Temple Eonomy."
+previous_item: "9736"
+---

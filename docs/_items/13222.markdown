@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13222"
+occurrence_id: "3017"
+short_title: "RA 30 (1933), 189-191"
+author: "Langdon, Stephen.H."
+publication_year: "1933"
+title: "Tablets from Barghuhiat,"
+volume_no_: "30"
+pages: "189-191"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "Tablets from Barghuhiat,"
+previous_item: "13225"
+---

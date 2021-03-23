@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17398"
+occurrence_id: "461"
+short_title: "Khalidi 1984"
+author: "Khalidi, Tarif "
+publication_year: "1984"
+title: "Land Tenure and Social Transformation in the Middle East"
+title: "Land Tenure and Social Transformation in the Middle East"
+previous_item: "17401"
+---

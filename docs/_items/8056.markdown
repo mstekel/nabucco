@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8056"
+occurrence_id: "2278"
+short_title: "JNES 2 (1943), 105-114"
+author: "Kent, Roland G."
+publication_year: "1943"
+title: "Old Persian Texts III: Darius´ Behistan Inscription"
+volume_no_: "2"
+pages: "105-114"
+journal: "Journal of Near Eastern Studies"
+title: "Old Persian Texts III: Darius´ Behistan Inscription"
+previous_item: "8059"
+---

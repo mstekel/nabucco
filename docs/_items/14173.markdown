@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14173"
+occurrence_id: "2127"
+short_title: "JAOS 85 (1965), 48-58"
+author: "Hahn, E. Adelaide"
+publication_year: "1965"
+title: "On Alleged Anacoluha in Old Persian"
+volume_no_: "85"
+pages: "48-58"
+journal: "Journal of the American Oriental Society"
+title: "On Alleged Anacoluha in Old Persian"
+previous_item: "14176"
+---

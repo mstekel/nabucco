@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9940"
+occurrence_id: "3365"
+short_title: "WZKM 68 (1976 publ. 1977), 198-201"
+author: "Butz, Kilian"
+publication_year: "1976"
+title: "Rv. M.W. Stolper, Management and Politics in Later Achaemenid Babylonia: New Texts from the Murašû Archive"
+volume_no_: "68"
+pages: "198-201"
+journal: "Wiener Zeitschrift für die Kunde des Morgenlandes"
+title: "Rv. M.W. Stolper, Management and Politics in Later Achaemenid Babylonia: New Texts from the Murašû Archive"
+previous_item: "9943"
+---

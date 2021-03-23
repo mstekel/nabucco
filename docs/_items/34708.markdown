@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "34708"
+place_id: "1512"
+parent_id: "1470"
+place_name: "Ibri"
+related_objects: "8178"
+title: "Ibri"
+previous_item: "34711"
+---

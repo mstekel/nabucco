@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19681"
+occurrence_id: "4727"
+short_title: "Root 2008"
+author: "Root, Margaret Cool"
+publication_year: "2008"
+title: "The legible image: how did seals and sealings matter in Persepolis?"
+pages: "87-148"
+editor: "Stolper, Matthew W."
+book: "L'archive des Fortifications de Persepolis. État des questions et perspectives de recherches Persika 12 (Paris)"
+title: "The legible image: how did seals and sealings matter in Persepolis?"
+previous_item: "19684"
+---

@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16837"
+occurrence_id: "4081"
+short_title: "Holtz 2009"
+author: "Holtz, Shalom E. "
+publication_year: "2009"
+title: "Neo-Babylonian Court Procedure, Cuneiform Monographs 38 (Leiden/Boston)"
+title: "Neo-Babylonian Court Procedure, Cuneiform Monographs 38 (Leiden/Boston)"
+previous_item: "16840"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20755"
+occurrence_id: "4956"
+short_title: "Vargyas 1999"
+author: "Vargyas, Péter"
+publication_year: "1999"
+title: "Agrarkrisen and Umfang der Agrarproduktion im Babylonien des 1. Jahrtausends"
+pages: "189-196"
+editor: "Klengel, Horst"
+book: "Landwirtschaft im Alten Orient, RAI 41 (Berlin)"
+title: "Agrarkrisen and Umfang der Agrarproduktion im Babylonien des 1. Jahrtausends"
+previous_item: "20758"
+---

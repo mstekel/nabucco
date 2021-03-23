@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9298"
+occurrence_id: "2928"
+short_title: "Or 69 (2000), 433-438"
+author: "van der Spek, Robartus"
+publication_year: "2000"
+title: "Rv. G.F. del Monte, Testi dalla Babilonia Ellenistica, Vol. I: Testi Cronografici (Studi Hellenistici IX, 1997)"
+volume_no_: "69"
+pages: "433-438"
+journal: "Orientalia"
+title: "Rv. G.F. del Monte, Testi dalla Babilonia Ellenistica, Vol. I: Testi Cronografici (Studi Hellenistici IX, 1997)"
+previous_item: "9301"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12973"
+occurrence_id: "1674"
+short_title: "BiOr 41 (1984), 33-46"
+author: "Zadok, Ran"
+publication_year: "1984"
+title: "Assyro-Babylonian Lexical and Onomastic Notes"
+volume_no_: "41"
+pages: "33-46"
+journal: "Bibliotheca Orientalis"
+title: "Assyro-Babylonian Lexical and Onomastic Notes"
+previous_item: "12976"
+---

@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "7804"
+occurrence_id: "3941"
+short_title: "ZA 101/1 (2011), 127-151"
+author: "Waerzeggers, Caroline"
+publication_year: "2011"
+title: "The Prebend of Temple Scribe in First Millennium Babylonia"
+volume_no_: "101/1"
+pages: "127-151"
+title: "The Prebend of Temple Scribe in First Millennium Babylonia"
+previous_item: "7807"
+---

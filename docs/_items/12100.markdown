@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12100"
+occurrence_id: "2983"
+short_title: "PSBA 16 (1893-94), 308-311"
+author: "Pinches, Theophilus G."
+publication_year: "1893-94"
+title: "Names of Plants and things made herefrom in Babylonia"
+volume_no_: "16"
+pages: "308-311"
+journal: "Proceedings of the Society of Biblical Archaeology"
+title: "Names of Plants and things made herefrom in Babylonia"
+previous_item: "12103"
+---

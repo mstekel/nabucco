@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "20377"
+occurrence_id: "5146"
+short_title: "Struve 1968b"
+author: "Struve, Vassili V."
+publication_year: "1968"
+title: "Der Feldzug des Dareios I. gegen die Saken-Massageten (in Russ.)"
+pages: "51-66, 228-233"
+book: "Этюды по истории… [Ètjudy po istorii...]"
+title: "Der Feldzug des Dareios I. gegen die Saken-Massageten (in Russ.)"
+previous_item: "20380"
+---

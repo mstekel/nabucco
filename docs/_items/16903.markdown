@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16903"
+occurrence_id: "562"
+short_title: "Salonen 1969"
+author: "Salonen, Armas "
+publication_year: "1969"
+title: "Iran - Land of the king of Kings"
+title: "Iran - Land of the king of Kings"
+previous_item: "16906"
+---

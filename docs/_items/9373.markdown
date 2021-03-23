@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9373"
+occurrence_id: "3332"
+short_title: "WeOr 27 (1996), 182-183"
+author: "Gasche, Hermann"
+publication_year: "1996"
+title: "Rv. M.A. Dandamayev, Iranians in Achaemenid Babylonia (1992)"
+volume_no_: "27"
+pages: "182-183"
+journal: "Die Welt des Orients"
+title: "Rv. M.A. Dandamayev, Iranians in Achaemenid Babylonia (1992)"
+previous_item: "9376"
+---

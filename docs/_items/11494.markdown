@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "11494"
+occurrence_id: "2721"
+short_title: "NABU 2009/22"
+author: "Koch, Johannes"
+title: "Hatten die Pleiades (MUL.MUL) mit dem \"Buckelstier\" (mul.gu4.an.na = Taurus) der Babylonier zu tun?"
+volume_no_: "22"
+publication_year: "2009"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Hatten die Pleiades (MUL.MUL) mit dem \"Buckelstier\" (mul.gu4.an.na = Taurus) der Babylonier zu tun?"
+previous_item: "11497"
+---

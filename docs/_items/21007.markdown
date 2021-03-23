@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21007"
+occurrence_id: "5197"
+short_title: "Röllig 2001"
+author: "Röllig, Wolfgang"
+publication_year: "2001"
+title: "Aramaica Haburensia V: Limu-Datierung in aramäischen Urkunden des 7. Jh. v. Chr."
+pages: "45-56"
+editor: "Wevers, John W."
+book: "The World of the Aramaeans II. Studies in History and Archaeology, Fs. Dion 2, JSOT Suppl. 325 (Sheffield)"
+title: "Aramaica Haburensia V: Limu-Datierung in aramäischen Urkunden des 7. Jh. v. Chr."
+previous_item: "21010"
+---

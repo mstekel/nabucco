@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15679"
+occurrence_id: "1188"
+short_title: "AfO 18 (1958), 300-313"
+author: "Köcher, Franz"
+publication_year: "1958"
+title: "Ein Inventartext aus Kâr-Tukulti-Ninurta"
+volume_no_: "18"
+pages: "300-313"
+journal: "Archiv für Orientforschung"
+title: "Ein Inventartext aus Kâr-Tukulti-Ninurta"
+previous_item: "15682"
+---

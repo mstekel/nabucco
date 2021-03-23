@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "18940"
+occurrence_id: "5187"
+short_title: "Allinger-Csollich 1985/6"
+author: "Allinger-Csollich, Wilfried"
+publication_year: "1985/6"
+title: "Forschungsarbeiten an der Ziqqurat von Borsippa im Iraq: 1. Die Ausgrabungen in Borsippa (1.1 Die Stadt Borsippa, 1.2 Der Stufenturm von Borsippa, 1.3 Der Brand auf dem Birs Nimrud)"
+pages: "308-340"
+book: "Wiener Berichte über Naturwissenschaft in der Kunst. Doppelband 2/3 (Wien)"
+title: "Forschungsarbeiten an der Ziqqurat von Borsippa im Iraq: 1. Die Ausgrabungen in Borsippa (1.1 Die Stadt Borsippa, 1.2 Der Stufenturm von Borsippa, 1.3 Der Brand auf dem Birs Nimrud)"
+previous_item: "18943"
+---

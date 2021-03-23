@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14392"
+occurrence_id: "3309"
+short_title: "WeOr 10 (1979), 121-124"
+author: "Schramm, Wolfgang"
+publication_year: "1979"
+title: "Rv. H. Hunger, Spätbabylonische Texte aus Uruk, Teil I"
+volume_no_: "10"
+pages: "121-124"
+journal: "Die Welt des Orients"
+title: "Rv. H. Hunger, Spätbabylonische Texte aus Uruk, Teil I"
+previous_item: "14395"
+---

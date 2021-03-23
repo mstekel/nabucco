@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20179"
+occurrence_id: "5193"
+short_title: "Hallo 1988"
+author: "Hallo, William W."
+publication_year: "1988"
+title: "The Nabonassar Era and Other Epochs in Mesopotamian Chronology and Chronography"
+pages: "175-190"
+editor: "Sjöberg, Å.W."
+book: "A Scientific Humanist, Gs. Sachs, OPSNKF 9 (Philadelphia)"
+title: "The Nabonassar Era and Other Epochs in Mesopotamian Chronology and Chronography"
+previous_item: "20182"
+---

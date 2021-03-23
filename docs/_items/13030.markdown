@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13030"
+occurrence_id: "1981"
+short_title: "Iraq 58 (1996), 147-190"
+author: "George, Andrew, R."
+publication_year: "1996"
+title: "Tablets from the Sippar Library VI. Atra-hasīs"
+volume_no_: "58"
+pages: "147-190"
+journal: "Iraq"
+title: "Tablets from the Sippar Library VI. Atra-hasīs"
+previous_item: "13033"
+---

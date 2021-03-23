@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "10054"
+occurrence_id: "3978"
+short_title: "VDI 276 (2011), 3-27"
+author: "Ladynin, Ivan A."
+publication_year: "2011"
+title: "The Statue of Darius I from Susa: an Essay of Interpretation in the Light of Egyptian and Near Eastern Religious and Ideological Notions"
+volume_no_: "276"
+pages: "3-27"
+title: "The Statue of Darius I from Susa: an Essay of Interpretation in the Light of Egyptian and Near Eastern Religious and Ideological Notions"
+previous_item: "10057"
+---

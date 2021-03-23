@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "34585"
+place_id: "1439"
+parent_id: "55"
+place_name: "Udani"
+related_objects: "6019"
+title: "Udani"
+previous_item: "34588"
+---

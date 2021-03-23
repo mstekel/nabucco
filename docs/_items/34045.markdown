@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "34045"
+place_id: "1522"
+parent_id: "37"
+place_name: "Ālu-ša-Murānu"
+related_objects: "8103"
+title: "Ālu-ša-Murānu"
+previous_item: "34048"
+---

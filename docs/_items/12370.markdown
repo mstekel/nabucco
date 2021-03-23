@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12370"
+occurrence_id: "1431"
+short_title: "AoF 28 (2001), 325-337"
+author: "Korenjak, M."
+publication_year: "2001"
+title: "Addikritušu: Ein namentlich genannter Grieche aus der Zeit Asarhaddons (680-669 v.Chr.). Überlegungen zu ABL 140"
+volume_no_: "28"
+pages: "325-337"
+journal: "Altorientalische Forschungen"
+title: "Addikritušu: Ein namentlich genannter Grieche aus der Zeit Asarhaddons (680-669 v.Chr.). Überlegungen zu ABL 140"
+previous_item: "12373"
+---

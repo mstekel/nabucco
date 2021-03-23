@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8818"
+occurrence_id: "3363"
+short_title: "WZKM 65/66 (1973/74 publ. 1975), 327-328"
+author: "Hunger, Hermann"
+publication_year: "1973/74 publ. 1975"
+title: "Rv. E. Salonen, Über das Erwerbsleben im Alten Mesopotamien. Untersuchungen zu den akkadischen Berufsnamen. Teil I"
+volume_no_: "65/66"
+pages: "327-328"
+journal: "Wiener Zeitschrift für die Kunde des Morgenlandes"
+title: "Rv. E. Salonen, Über das Erwerbsleben im Alten Mesopotamien. Untersuchungen zu den akkadischen Berufsnamen. Teil I"
+previous_item: "8821"
+---

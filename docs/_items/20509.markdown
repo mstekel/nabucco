@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20509"
+occurrence_id: "4747"
+short_title: "Geller 1998a"
+author: "Geller, Mark J."
+publication_year: "1998"
+title: "An Incantation against Curses"
+pages: "127-140"
+editor: "Maul, Stefan M."
+book: "Festschrift für Rykle Borger zu seinem 65. Geburtstag am 24. Mai 1994, Fs. Borger, CM 10 (Groningen)"
+title: "An Incantation against Curses"
+previous_item: "20512"
+---

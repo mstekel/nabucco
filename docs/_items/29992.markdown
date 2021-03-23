@@ -1,0 +1,17 @@
+---
+layout: "tablet"
+slug: "29992"
+object_id: "7081"
+museum_no_: "BM 31278"
+period: "Each"
+type_and_content: "Letters"
+day_remark: "-"
+month: "-"
+month_remark: "-"
+year_remark: "-"
+king: "Dar"
+king_remark: "-"
+archive: "Egibi/Nūr-Sîn"
+title: "BM 31278"
+previous_item: "29995"
+---

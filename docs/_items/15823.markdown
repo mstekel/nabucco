@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15823"
+occurrence_id: "1970"
+short_title: "Iraq 46 (1984), 43-55"
+author: "Sachs, Abraham J."
+publication_year: "1984"
+title: "Kepler´s View of the Star of Bethlehem and the Babylonian Almanac for 7/6 B.C."
+volume_no_: "46"
+pages: "43-55"
+journal: "Iraq"
+title: "Kepler´s View of the Star of Bethlehem and the Babylonian Almanac for 7/6 B.C."
+previous_item: "15826"
+---

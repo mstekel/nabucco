@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "15640"
+occurrence_id: "4004"
+short_title: "Mesopotamia 46 (2011), 9-22"
+author: "Pedersén, Olof"
+publication_year: "2011"
+title: "Work on a digital model of Babylon using archaeological and textual evidence"
+volume_no_: "46"
+pages: "9-22"
+title: "Work on a digital model of Babylon using archaeological and textual evidence"
+previous_item: "15643"
+---

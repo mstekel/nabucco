@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14668"
+occurrence_id: "1791"
+short_title: "BSOAS 47 (1984), 411-412"
+author: "Wiseman, Donald J."
+publication_year: "1984"
+title: "Rv. T.G. Pinches and I.L. Finkel, Cuneiform Texts from Babylonian Tablets in the British Museum. Parts 55-57. Neo-Babylonian and Achaemenid Economic Texts"
+volume_no_: "47"
+pages: "411-412"
+journal: "Bulletin of the School of Oriental and African Studies"
+title: "Rv. T.G. Pinches and I.L. Finkel, Cuneiform Texts from Babylonian Tablets in the British Museum. Parts 55-57. Neo-Babylonian and Achaemenid Economic Texts"
+previous_item: "14671"
+---

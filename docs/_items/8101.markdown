@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "8101"
+occurrence_id: "2521"
+short_title: "NABU 1995/35"
+author: "Dandamayev, Muhammed A."
+title: "An Unidentified Document from Xerxes´ Reign and the Ebabbara Temple"
+volume_no_: "35"
+publication_year: "1995"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "An Unidentified Document from Xerxes´ Reign and the Ebabbara Temple"
+previous_item: "8104"
+---

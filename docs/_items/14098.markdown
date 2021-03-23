@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14098"
+occurrence_id: "1726"
+short_title: "BiOr 62 (2005), 546-553"
+author: "van der Spek, Robartus"
+publication_year: "2005"
+title: "Rv. H. Hunger, Astronomical Diaries and Related Texts. Volume V: Lunar and Planetary Texts."
+volume_no_: "62"
+pages: "546-553"
+journal: "Bibliotheca Orientalis"
+title: "Rv. H. Hunger, Astronomical Diaries and Related Texts. Volume V: Lunar and Planetary Texts."
+previous_item: "14101"
+---

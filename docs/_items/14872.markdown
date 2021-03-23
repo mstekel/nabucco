@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14872"
+occurrence_id: "2888"
+short_title: "Or 47 (1978), 91-98"
+author: "Fales, Frederick Mario"
+publication_year: "1978"
+title: "A Cuneiform Correspondence to Alphabetic «š» [Hebr.] in West Semitic Names of theI Millennium B.C."
+volume_no_: "47"
+pages: "91-98"
+journal: "Orientalia"
+title: "A Cuneiform Correspondence to Alphabetic «š» [Hebr.] in West Semitic Names of theI Millennium B.C."
+previous_item: "14875"
+---

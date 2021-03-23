@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17242"
+occurrence_id: "297"
+short_title: "Achaemenid History 8"
+author: "Kuhrt, Amélie "
+publication_year: "1994"
+title: "Achaemenid History VIII. Continuity and Change, Proceedings of the last Achaemenid history workshop April 6-8, 1990"
+title: "Achaemenid History VIII. Continuity and Change, Proceedings of the last Achaemenid history workshop April 6-8, 1990"
+previous_item: "17245"
+---

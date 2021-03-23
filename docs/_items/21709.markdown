@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21709"
+occurrence_id: "4529"
+short_title: "Diakonoff 1968"
+author: "Diakonoff, Igor M."
+publication_year: "1968"
+title: "The Origin of the 'Old Persian' Writing System and the Ancient Oriental Epigraphic and Annalistic Traditions"
+pages: "98-124"
+editor: "Gershevitch, Ilya"
+book: "W.B. Henning Memorial Volume (London)"
+title: "The Origin of the 'Old Persian' Writing System and the Ancient Oriental Epigraphic and Annalistic Traditions"
+previous_item: "21712"
+---

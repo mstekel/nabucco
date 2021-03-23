@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21619"
+occurrence_id: "5152"
+short_title: "Curtis 2000"
+author: "Curtis, Vesta Sarkhosh"
+publication_year: "2000"
+title: "Parthian Culture and Costume"
+pages: "23-34"
+editor: "Curtis, John"
+book: "Mesopotamia and Iran in the Parthian and Sasanian Periods (London)"
+title: "Parthian Culture and Costume"
+previous_item: "21622"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11041"
+occurrence_id: "3285"
+short_title: "UF 25 (1993), 499-500"
+author: "Heltzer, Michael"
+publication_year: "1993"
+title: "Rv. S. Graziani, Testi editi ed inediti datati al regno di Bardiya (522 a.C.) (1991)"
+volume_no_: "25"
+pages: "499-500"
+journal: "Ugarit-Forschungen"
+title: "Rv. S. Graziani, Testi editi ed inediti datati al regno di Bardiya (522 a.C.) (1991)"
+previous_item: "11044"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11872"
+occurrence_id: "1754"
+short_title: "BOR 1 (1886/1887), 76ff."
+author: "Pinches, Theophilus G."
+publication_year: "1886/1887"
+title: "A Fragment of a Babylonian Tihe-List"
+volume_no_: "1"
+pages: "76ff."
+journal: "Babylonian and Oriental Record"
+title: "A Fragment of a Babylonian Tihe-List"
+previous_item: "11875"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10534"
+occurrence_id: "3562"
+short_title: "ZDMG 148 (1998), 204-206"
+author: "Schramm, Wolfgang"
+publication_year: "1998"
+title: "Rv. G. Frame, Babylonia 689-627 B.C. A Political History (PIHANS 69, 1992)"
+volume_no_: "148"
+pages: "204-206"
+journal: "Zeitschrift der Deutschen Morgenländischen Gesellschaft"
+title: "Rv. G. Frame, Babylonia 689-627 B.C. A Political History (PIHANS 69, 1992)"
+previous_item: "10537"
+---

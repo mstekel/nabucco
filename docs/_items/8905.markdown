@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8905"
+occurrence_id: "3831"
+short_title: "PO 149-150/1-2 (1989) 143-144"
+author: "Skladanek, Bogdan"
+publication_year: "1989"
+title: "Rv. St. Zawadzki, the Fall of Assyria and Median-Babylonian Relations (1988)"
+volume_no_: "149-150/1-2"
+pages: "143-144"
+journal: "Patrologia orientalis"
+title: "Rv. St. Zawadzki, the Fall of Assyria and Median-Babylonian Relations (1988)"
+previous_item: "8908"
+---

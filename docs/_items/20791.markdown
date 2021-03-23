@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "20791"
+occurrence_id: "5148"
+short_title: "Struve 1968d"
+author: "Struve, Vassili V."
+publication_year: "1968"
+title: "Die Chronologie des 6. Jahrhunderts v. Chr. im Werk Herodots und das Datum des Feldzuges des Dareios I. gegen die Skyhen des Schwarzmeergebietes (in Russ.)"
+pages: "86-102, 237-242"
+book: "Этюды по истории… [Ètjudy po istorii...]"
+title: "Die Chronologie des 6. Jahrhunderts v. Chr. im Werk Herodots und das Datum des Feldzuges des Dareios I. gegen die Skyhen des Schwarzmeergebietes (in Russ.)"
+previous_item: "20794"
+---

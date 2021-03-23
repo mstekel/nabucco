@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "19666"
+occurrence_id: "4647"
+short_title: "Jusifov 1959"
+author: "Jusifov, Ju.B."
+publication_year: "1959"
+title: "Zur Frage der Tätigkeit des Gaumāta- (in Russ.)"
+pages: "251-255"
+book: "Доклады АН АзербССР 15/3 (Doklady AN AzerbSSR 15/3)"
+title: "Zur Frage der Tätigkeit des Gaumāta- (in Russ.)"
+previous_item: "19669"
+---

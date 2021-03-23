@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16357"
+occurrence_id: "1827"
+short_title: "Centaurus 34 (1991), 91-114"
+author: "Jones, Alexander"
+publication_year: "1991"
+title: "Babylonian and Greek Astronomy in a Papyrus Concerning Mars"
+volume_no_: "34"
+pages: "91-114"
+journal: "Centaurus"
+title: "Babylonian and Greek Astronomy in a Papyrus Concerning Mars"
+previous_item: "16360"
+---

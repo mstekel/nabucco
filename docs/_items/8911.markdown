@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "8911"
+occurrence_id: "3863"
+short_title: "TPS (1979), 114-190"
+author: "Gershevitch, Ilya"
+publication_year: "1979"
+title: "The Alloglottography of Old Persian"
+pages: "114-190"
+journal: "Transactions of the Philological Society"
+title: "The Alloglottography of Old Persian"
+previous_item: "8914"
+---

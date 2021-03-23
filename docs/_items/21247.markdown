@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21247"
+occurrence_id: "4270"
+short_title: "Weisberg 1993"
+author: "Weisberg, David B."
+publication_year: "1993"
+title: "A Sale of Property from the Time of Esarhaddon, \"King of Lands\""
+pages: "297-299"
+editor: "Snell, Daniel C."
+book: "The Tablet and the Scroll. Near Eastern Studies in Honor of William W. Hallo, Fs. Hallo (Bethesda)"
+title: "A Sale of Property from the Time of Esarhaddon, \"King of Lands\""
+previous_item: "21250"
+---

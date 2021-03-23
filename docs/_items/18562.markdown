@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18562"
+occurrence_id: "4273"
+short_title: "Weisberg 1998"
+author: "Weisberg, David B."
+publication_year: "1998"
+title: "The \"Antiquarian\" Interests of the Neo-Babylonian Kings"
+pages: "177-186"
+editor: "Westenholz, Joan Goodnick"
+book: "Capital Cities: Urban planning and spiritual Dimensions ( Jerusalem)"
+title: "The \"Antiquarian\" Interests of the Neo-Babylonian Kings"
+previous_item: "18565"
+---

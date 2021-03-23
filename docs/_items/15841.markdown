@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15841"
+occurrence_id: "2066"
+short_title: "JAOS 105 (1985), 330-331"
+author: "Dandamayev, Muhammed A."
+publication_year: "1985"
+title: "Rv. G.J.P. McEwan, Texts from Hellenistic Babylonia in the Ashmolean Museum (OECT 9)"
+volume_no_: "105"
+pages: "330-331"
+journal: "Journal of the American Oriental Society"
+title: "Rv. G.J.P. McEwan, Texts from Hellenistic Babylonia in the Ashmolean Museum (OECT 9)"
+previous_item: "15844"
+---

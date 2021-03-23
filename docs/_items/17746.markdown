@@ -1,0 +1,12 @@
+---
+layout: "bibliography"
+slug: "17746"
+occurrence_id: "81"
+short_title: "YOS 6"
+author: "Dougherty, Raymond Ph. "
+publication_year: "1920"
+title: "Records from Erech, Time of Nabonidus (555-538 B.C.). Yale Oriental Series, Babylonian Texts 6 (New Haven)"
+related_objects: "2766"
+title: "Records from Erech, Time of Nabonidus (555-538 B.C.). Yale Oriental Series, Babylonian Texts 6 (New Haven)"
+previous_item: "17749"
+---

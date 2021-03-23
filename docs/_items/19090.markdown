@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19090"
+occurrence_id: "4884"
+short_title: "Dandamayev 2005"
+author: "Dandamayev, Muhammed A."
+publication_year: "2005"
+title: "Freedom and Slavery in the Ancient Near East during the Neo-Babylonian and Persian Periods."
+pages: "219-229"
+editor: "Rollinger, Robert"
+book: "Von Sumer bis Homer, Festschrift für Manfred Schretter, AOAT 325 (Münster)"
+title: "Freedom and Slavery in the Ancient Near East during the Neo-Babylonian and Persian Periods."
+previous_item: "19093"
+---

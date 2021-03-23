@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16060"
+occurrence_id: "3246"
+short_title: "Syria 64 (1987), 156"
+author: "Glassner, Jean-Jacques"
+publication_year: "1987"
+title: "Rv. A. Abou-Assaf, P. Bordreuil and A.R. Millard, La statue de Tell Fekherye et son inscription bilingüe assyro-araméenne (1982)"
+volume_no_: "64"
+pages: "156"
+journal: "Syria"
+title: "Rv. A. Abou-Assaf, P. Bordreuil and A.R. Millard, La statue de Tell Fekherye et son inscription bilingüe assyro-araméenne (1982)"
+previous_item: "16063"
+---

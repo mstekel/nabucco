@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7684"
+occurrence_id: "3295"
+short_title: "Visible Religion, Annual for Religious Iconography IV-V (1985-86), 76-95"
+author: "Calmeyer, Peter"
+publication_year: "1985-86"
+title: "Dareios in Bagestana and Xerxes in Persepolis: Zur parataktischen Komposition achaimenidischer Herrscherdarstellungen: Approaches to Iconology"
+volume_no_: "IV-V"
+pages: "76-95"
+journal: "Visible Religion, Annual for Religious Iconography"
+title: "Dareios in Bagestana and Xerxes in Persepolis: Zur parataktischen Komposition achaimenidischer Herrscherdarstellungen: Approaches to Iconology"
+previous_item: "7687"
+---

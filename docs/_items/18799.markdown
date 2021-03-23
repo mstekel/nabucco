@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18799"
+occurrence_id: "4435"
+short_title: "Ries 1999"
+author: "Ries, Gerhard"
+publication_year: "1999"
+title: "Zur Strafbarkeit des Meineids im Recht des Alten Orients"
+pages: "457-468"
+editor: "Beuhien, V."
+book: "Festschrift für Dieter Medicus Zum 70. Geburtstag (Köln)"
+title: "Zur Strafbarkeit des Meineids im Recht des Alten Orients"
+previous_item: "18802"
+---

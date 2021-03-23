@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "13141"
+occurrence_id: "2579"
+short_title: "NABU 1998/117"
+author: "Luther, Andreas"
+title: "Tall Šēh Hamad / Dūr-Katlimmu / Magdalu?"
+volume_no_: "117"
+publication_year: "1998"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Tall Šēh Hamad / Dūr-Katlimmu / Magdalu?"
+previous_item: "13144"
+---

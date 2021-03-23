@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17083"
+occurrence_id: "898"
+short_title: "van Dijk 1957 (TLB 2)"
+author: "van Dijk, Jan J.A. "
+publication_year: "1957"
+title: "Textes divers, TLB 2 (Leiden)"
+title: "Textes divers, TLB 2 (Leiden)"
+previous_item: "17086"
+---

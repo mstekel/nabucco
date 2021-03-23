@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20047"
+occurrence_id: "4489"
+short_title: "Baker 2014a"
+author: "Baker, Heather D."
+publication_year: "2014"
+title: "The Babylonian Cities: Investigating Urban Morphology Using Texts and Archaeology"
+pages: "171-188"
+editor: "May, Natalie, N."
+book: "The Fabric of Cities. Aspects of Urbanism, Urban Topography and Society in Mesopotamia, Greece and Rome, Culture and History of the Ancient Near East 68 (Leiden/Boston)"
+title: "The Babylonian Cities: Investigating Urban Morphology Using Texts and Archaeology"
+previous_item: "20050"
+---

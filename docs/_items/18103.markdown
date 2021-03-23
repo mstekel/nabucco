@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18103"
+occurrence_id: "839"
+short_title: "Lidzbarski 1921"
+author: "Lidzbarski, Mark "
+publication_year: "1921"
+title: "Altaramäische Urkunden aus Assur, WVDOG 38 (Leipzig)"
+title: "Altaramäische Urkunden aus Assur, WVDOG 38 (Leipzig)"
+previous_item: "18106"
+---

@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34057"
+place_id: "127"
+parent_id: "40"
+place_name: "Ālu-ša-Nabû-dajjānu"
+title: "Ālu-ša-Nabû-dajjānu"
+previous_item: "34060"
+---

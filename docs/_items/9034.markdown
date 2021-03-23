@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9034"
+occurrence_id: "1506"
+short_title: "ArOr 7 (1935), 367-371"
+author: "Nicolò, Mariano, San"
+publication_year: "1935"
+title: "Parerga Babyloniaca XVII: Ein Mühlenbannrecht des Tempels Eanna in neubabylonischer Zeit"
+volume_no_: "7"
+pages: "367-371"
+journal: "Archív Orientalí"
+title: "Parerga Babyloniaca XVII: Ein Mühlenbannrecht des Tempels Eanna in neubabylonischer Zeit"
+previous_item: "9037"
+---

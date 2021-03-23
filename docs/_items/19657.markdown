@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19657"
+occurrence_id: "4599"
+short_title: "Hackl and Pirngruber 2015"
+author: "Hackl, Johannes"
+publication_year: "2015"
+title: "Prices and related data from northern Babylonia in the Late Achaemenid and Early Hellenistic periods, c. 480-300 BC"
+pages: "107-127"
+editor: "van Leeuwen, Bas"
+book: "A History of Market Performance. From Ancient Babylonia to the Modern World, Routledge Explorations in Economic History (New York)"
+title: "Prices and related data from northern Babylonia in the Late Achaemenid and Early Hellenistic periods, c. 480-300 BC"
+previous_item: "19660"
+---

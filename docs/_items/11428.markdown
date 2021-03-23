@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11428"
+occurrence_id: "2365"
+short_title: "JNES 7 (1948), 106-110"
+author: "Eilers, Wilhelm"
+publication_year: "1948"
+title: "The End of theBehistan Inscription (Col. V: 18-20 and 34-36)"
+volume_no_: "7"
+pages: "106-110"
+journal: "Journal of Near Eastern Studies"
+title: "The End of theBehistan Inscription (Col. V: 18-20 and 34-36)"
+previous_item: "11431"
+---

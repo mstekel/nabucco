@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10420"
+occurrence_id: "2930"
+short_title: "Or 70/2 (2001), 202-203"
+author: "Koch, Heidemarie"
+publication_year: "2001"
+title: "Rv. M.L. Khačikyan,The Elamite Language (Documenta Asiana, 4, Roma 1998)"
+volume_no_: "70/2"
+pages: "202-203"
+journal: "Orientalia"
+title: "Rv. M.L. Khačikyan,The Elamite Language (Documenta Asiana, 4, Roma 1998)"
+previous_item: "10423"
+---

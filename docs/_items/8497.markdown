@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8497"
+occurrence_id: "1634"
+short_title: "BiOr 13 (1956), 252-255"
+author: "Redard, G."
+publication_year: "1956"
+title: "Rv. A. Gabriel, Die Erforschung Persiens"
+volume_no_: "13"
+pages: "252-255"
+journal: "Bibliotheca Orientalis"
+title: "Rv. A. Gabriel, Die Erforschung Persiens"
+previous_item: "8500"
+---

@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18193"
+occurrence_id: "592"
+short_title: "Streck 1995"
+author: "Streck, Michael  P."
+publication_year: "1995"
+title: "Zahl und Zeit. Grammatik der Numeralia und des Verbalsystems im Spätbabylonischen (CM 5)"
+title: "Zahl und Zeit. Grammatik der Numeralia und des Verbalsystems im Spätbabylonischen (CM 5)"
+previous_item: "18196"
+---

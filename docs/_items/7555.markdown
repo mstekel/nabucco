@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "7555"
+occurrence_id: "2601"
+short_title: "NABU 1998/9 "
+author: "Donbaz, Veysel"
+title: "A Late-Babylonian Text from Assur"
+volume_no_: "1"
+publication_year: "1998"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "A Late-Babylonian Text from Assur"
+previous_item: "7558"
+---

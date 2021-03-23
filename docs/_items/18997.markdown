@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18997"
+occurrence_id: "4388"
+short_title: "de Callataÿ 2014"
+author: "de Callataÿ, François"
+publication_year: "2014"
+title: "Did Seleucid kings impose payments made only in fresh coins of their own coinages? Units of account, not real coins"
+pages: "531-555"
+editor: "Csabai, Zoltán"
+book: "Studies in Economic and Social History of the Ancient Near East in Memory of Péter Vargyas (Budapest)"
+title: "Did Seleucid kings impose payments made only in fresh coins of their own coinages? Units of account, not real coins"
+previous_item: "19000"
+---

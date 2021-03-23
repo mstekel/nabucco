@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34210"
+place_id: "802"
+parent_id: "61"
+place_name: "Bāb-šakata"
+title: "Bāb-šakata"
+previous_item: "34213"
+---

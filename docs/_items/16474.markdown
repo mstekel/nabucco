@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "16474"
+occurrence_id: "2454"
+short_title: "NABU 1988/26"
+author: "Cavigneaux, Antoine"
+publication_year: "1988"
+title: "Lexicographie"
+volume_no_: "26"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Lexicographie"
+previous_item: "16477"
+---

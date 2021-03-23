@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19327"
+occurrence_id: "5045"
+short_title: "Rollinger and Henkelman 2009"
+author: "Rollinger, Robert"
+publication_year: "2009"
+title: "New observations on “Greeks” in the Achaemenid empire according to Cuneiform texts from Babylonia and Persepolis."
+pages: "331-352"
+editor: "Chauveau, Michel"
+book: "Organisation des pouvoirs et contacts culturels dans les pays de l’empire achéménide. Actes du colloque … 9-10 novembre 2007,  Persika 14 (Paris)"
+title: "New observations on “Greeks” in the Achaemenid empire according to Cuneiform texts from Babylonia and Persepolis."
+previous_item: "19330"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20962"
+occurrence_id: "4957"
+short_title: "Vargyas 2000"
+author: "Vargyas, Péter"
+publication_year: "2000"
+title: "Silver and Money in Achaemenid and Hellenistic Babylonia"
+pages: "513-521"
+editor: "Neumann, Hans"
+book: "Assyriologica et Semitica, Fs. Oelsner. AOAT 252. (Münster)"
+title: "Silver and Money in Achaemenid and Hellenistic Babylonia"
+previous_item: "20965"
+---

@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "12031"
+occurrence_id: "2609"
+short_title: "NABU 1999/16"
+author: "Zawadzki, Stefan"
+title: "Patinnu = TÚG.MURUB4.ÍB.LÁ"
+volume_no_: "16"
+publication_year: "1999"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Patinnu = TÚG.MURUB4.ÍB.LÁ"
+previous_item: "12034"
+---

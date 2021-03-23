@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15235"
+occurrence_id: "1825"
+short_title: "Centaurus 24 (1980-1981), 14-35"
+author: "Aaboe, Asger"
+publication_year: "1980-1981"
+title: "Observation and theory in Babylonian Astronomy"
+volume_no_: "24"
+pages: "14-35"
+journal: "Centaurus"
+title: "Observation and theory in Babylonian Astronomy"
+previous_item: "15238"
+---

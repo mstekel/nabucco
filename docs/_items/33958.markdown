@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33958"
+place_id: "316"
+parent_id: "40"
+place_name: "Bīt-Nabû-gāmil"
+title: "Bīt-Nabû-gāmil"
+previous_item: "33961"
+---

@@ -1,0 +1,15 @@
+---
+layout: "tablet"
+slug: "32635"
+object_id: "4305"
+museum_no_: "BM 33957"
+publication: "RIAA"
+text_number: "53"
+duplicate: "BM 33928"
+imported: "Kathleen Abraham (18/04/2016)"
+publication_name: "RIAA 53"
+archive: "Egibi/Nūr-Sîn"
+related_objects: "4386"
+title: "BM 33957"
+previous_item: "32638"
+---

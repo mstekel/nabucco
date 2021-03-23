@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18706"
+occurrence_id: "5042"
+short_title: "Rollinger 2011"
+author: "Rollinger, Robert"
+publication_year: "2011"
+title: "Ktesias' Medischer Logos."
+pages: "313-350"
+editor: "Lanfranchi, Giovanni , B."
+book: "Ktesias' Welt (Wiesbaden)"
+title: "Ktesias' Medischer Logos."
+previous_item: "18709"
+---

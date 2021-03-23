@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "20170"
+occurrence_id: "5145"
+short_title: "Struve 1968a"
+author: "Struve, Vassili V."
+publication_year: "1968"
+title: "Dareios I. und die Skyhen des Schwarzmeergebietes (in Russ.)"
+pages: "103-114, 242-245"
+book: "Этюды по истории… [Ètjudy po istorii...]"
+title: "Dareios I. und die Skyhen des Schwarzmeergebietes (in Russ.)"
+previous_item: "20173"
+---

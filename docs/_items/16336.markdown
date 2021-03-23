@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16336"
+occurrence_id: "1714"
+short_title: "BiOr 59/3/4 (2002), 245-259"
+author: "Lipiński, Edward"
+publication_year: "2002"
+title: "New Aramaic Clay Tablets"
+volume_no_: "59/3/4"
+pages: "245-259"
+journal: "Bibliotheca Orientalis"
+title: "New Aramaic Clay Tablets"
+previous_item: "16339"
+---

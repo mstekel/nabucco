@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "15922"
+occurrence_id: "2503"
+short_title: "NABU 1993/83"
+author: "Weisberg, David B."
+title: "A Mār Banūtu Text from theTown of ¿ubat"
+volume_no_: "83"
+publication_year: "1993"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "A Mār Banūtu Text from theTown of ¿ubat"
+previous_item: "15925"
+---

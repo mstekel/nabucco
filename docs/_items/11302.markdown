@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11302"
+occurrence_id: "1688"
+short_title: "BiOr 49/5/6 (2002), 481-486"
+author: "Lipiński, Edward"
+publication_year: "2002"
+title: "Dying and Rising Gods"
+volume_no_: "49/5/6"
+pages: "481-486"
+journal: "Bibliotheca Orientalis"
+title: "Dying and Rising Gods"
+previous_item: "11305"
+---

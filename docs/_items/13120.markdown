@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "13120"
+occurrence_id: "2465"
+short_title: "NABU 1989/37"
+author: "Joannès, Francis"
+publication_year: "1989"
+title: "La titulature de Xerxès"
+volume_no_: "37"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "La titulature de Xerxès"
+previous_item: "13123"
+---

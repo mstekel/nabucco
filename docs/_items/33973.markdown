@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33973"
+place_id: "556"
+parent_id: "40"
+place_name: "Kutal-Eanna"
+title: "Kutal-Eanna"
+previous_item: "33976"
+---

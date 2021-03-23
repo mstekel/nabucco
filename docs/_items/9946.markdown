@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9946"
+occurrence_id: "3397"
+short_title: "ZA 49 (1949), 291-312"
+author: "van der Waerden, Bartel L."
+publication_year: "1949"
+title: "Dauer der Nacht und Zeit des Monduntergangs in den Tafeln des Nabû-zuqup-GI.NA"
+volume_no_: "49"
+pages: "291-312"
+journal: "Zeitschrift für Assyriologie"
+title: "Dauer der Nacht und Zeit des Monduntergangs in den Tafeln des Nabû-zuqup-GI.NA"
+previous_item: "9949"
+---

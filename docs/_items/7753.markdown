@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7753"
+occurrence_id: "3669"
+short_title: "Echos du monde classique 28 (1984), 71-74"
+author: "Burstein, Stanley M."
+publication_year: "1984"
+title: "Callishenes and Babylonian Astronomy: A Note on FGrHist 124 T3"
+volume_no_: "28"
+pages: "71-74"
+journal: "Echos du monde classique"
+title: "Callishenes and Babylonian Astronomy: A Note on FGrHist 124 T3"
+previous_item: "7756"
+---

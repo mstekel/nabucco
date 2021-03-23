@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21091"
+occurrence_id: "4542"
+short_title: "Finkel 2013"
+author: "Finkel, Irving L."
+publication_year: "2013"
+title: "Translation of the Cyrus Cylinder"
+pages: "78-84"
+editor: "Daryaee, Touraj"
+book: "Cyrus the Great. An Ancient Iranian King (Santa Monica)"
+title: "Translation of the Cyrus Cylinder"
+previous_item: "21094"
+---

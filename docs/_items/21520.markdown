@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21520"
+occurrence_id: "4624"
+short_title: "MacGinnis 2014"
+author: "MacGinnis, John"
+publication_year: "2014"
+title: "Minions to the Rule of Erra. The Impact of War on the Civilian Population of Babylonia in the First Millennium BC"
+pages: "113-125"
+editor: "Nadali, Davide"
+book: "The Other Face of the Battle. The Impact of War on Civilians in the Ancient Near East, Alter Orient und Altes Testament 413 (Münster)"
+title: "Minions to the Rule of Erra. The Impact of War on the Civilian Population of Babylonia in the First Millennium BC"
+previous_item: "21523"
+---

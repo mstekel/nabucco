@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "7816"
+occurrence_id: "4006"
+short_title: "Iraq 75 (2013), 197-210"
+author: "Pirngruber, Reinhard"
+publication_year: "2013"
+title: "The Historical Sections of the Astronomical Diaries in Context: Developments in a Late Babylonian Scientific Text Corpus"
+volume_no_: "75"
+pages: "197-210"
+title: "The Historical Sections of the Astronomical Diaries in Context: Developments in a Late Babylonian Scientific Text Corpus"
+previous_item: "7819"
+---

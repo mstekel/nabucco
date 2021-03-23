@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "10357"
+occurrence_id: "2590"
+short_title: "NABU 1998/49"
+author: "Horowitz, Wayne"
+title: "The 364 Day Year in Mesopotamia"
+volume_no_: "49"
+publication_year: "1998"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "The 364 Day Year in Mesopotamia"
+previous_item: "10360"
+---

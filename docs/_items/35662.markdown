@@ -1,0 +1,10 @@
+---
+layout: "glossary"
+slug: "35662"
+concept_id: "1081"
+label: "Letter"
+hierarchy: "Content type"
+type: "172"
+title: "Letter"
+previous_item: "35665"
+---

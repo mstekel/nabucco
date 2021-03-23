@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "15184"
+occurrence_id: "1550"
+short_title: "Bab. 15 (1935)"
+author: "Rutten, Marguerite"
+publication_year: "1935"
+title: "Contrats de l'époque séleucide conservés au Musée du Louvre."
+volume_no_: "15"
+journal: "Babyloniaca"
+title: "Contrats de l'époque séleucide conservés au Musée du Louvre."
+previous_item: "15187"
+---

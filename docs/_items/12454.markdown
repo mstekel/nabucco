@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12454"
+occurrence_id: "1884"
+short_title: "Historia 27 (1978), 228-230"
+author: "Hadley, Robert A."
+publication_year: "1978"
+title: "The foundation Date of Seleucia-on-he-Tigris"
+volume_no_: "27"
+pages: "228-230"
+journal: "Historia"
+title: "The foundation Date of Seleucia-on-he-Tigris"
+previous_item: "12457"
+---

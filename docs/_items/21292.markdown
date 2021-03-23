@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21292"
+occurrence_id: "4511"
+short_title: "Hunger 1969"
+author: "Hunger, Hermann"
+publication_year: "1969"
+title: "Kryptographische astrologische Omina"
+pages: "133-145"
+editor: "Dietrich, Manfried"
+book: "Lišan mihurti, Fs. Von Soden, AOAT 1 (Neukirchen-Vluyn)"
+title: "Kryptographische astrologische Omina"
+previous_item: "21295"
+---

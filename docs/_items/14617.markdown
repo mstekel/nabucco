@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14617"
+occurrence_id: "1516"
+short_title: "ASJ 13 (1991), 97-109"
+author: "Beaulieu, Paul-A."
+publication_year: "1991"
+title: "UBARA (EZENxKASKAL)ki = Udannu"
+volume_no_: "13"
+pages: "97-109"
+journal: "Acta Sumerologica"
+title: "UBARA (EZENxKASKAL)ki = Udannu"
+previous_item: "14620"
+---

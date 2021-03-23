@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13666"
+occurrence_id: "2401"
+short_title: "Mesopotamia 15 (1980), 109-134"
+author: "Nemet-Nejat, Karen Rhea"
+publication_year: "1980"
+title: "Late Babylonian Field Plans: a Typology"
+volume_no_: "15"
+pages: "109-134"
+journal: "Mesopotamia"
+title: "Late Babylonian Field Plans: a Typology"
+previous_item: "13669"
+---

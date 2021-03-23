@@ -1,0 +1,10 @@
+---
+layout: "archive"
+slug: "22756"
+archive_id: "412"
+archive_name: "Sîn-nāṣir"
+is_part_of: "Uruk"
+related_objects: "5395"
+title: "Sîn-nāṣir"
+previous_item: "22759"
+---

@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34864"
+place_id: "628"
+parent_id: "40"
+place_name: "Sipira‛ni"
+title: "Sipira‛ni"
+previous_item: "34867"
+---

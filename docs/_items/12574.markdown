@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "12574"
+occurrence_id: "2529"
+short_title: "NABU 1995/55"
+author: "Zawadzki, Stefan"
+title: "Chronology of the Reigns of Nebuchadnezzar III and Nebuchadnezzar IV,"
+volume_no_: "55"
+publication_year: "1995"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Chronology of the Reigns of Nebuchadnezzar III and Nebuchadnezzar IV,"
+previous_item: "12577"
+---

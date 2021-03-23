@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17581"
+occurrence_id: "802"
+short_title: "Hecker 1966"
+author: "Hecker, Karl "
+publication_year: "1966"
+title: "Die Keilschrifttexte der Universitätsbibliohek Giessen Unter Benutzung nachgelassener Vorarbeiten von Julius Lewy; hrsg. und bearb. von Karl Hecker, Berichte und Arbeiten aus der Universitätsbibliohek Giessen 9 (Giessen)"
+title: "Die Keilschrifttexte der Universitätsbibliohek Giessen Unter Benutzung nachgelassener Vorarbeiten von Julius Lewy; hrsg. und bearb. von Karl Hecker, Berichte und Arbeiten aus der Universitätsbibliohek Giessen 9 (Giessen)"
+previous_item: "17584"
+---

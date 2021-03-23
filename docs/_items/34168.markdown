@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34168"
+place_id: "130"
+parent_id: "40"
+place_name: "Ālu-ša-Nabû-iqbi"
+title: "Ālu-ša-Nabû-iqbi"
+previous_item: "34171"
+---

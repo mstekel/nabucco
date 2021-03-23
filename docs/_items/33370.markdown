@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "33370"
+place_id: "1464"
+parent_id: "70"
+place_name: "Ālu-ša-Amurru-šar-uṣur ša muhhi nār Zabinā"
+related_objects: "2328"
+title: "Ālu-ša-Amurru-šar-uṣur ša muhhi nār Zabinā"
+previous_item: "33373"
+---

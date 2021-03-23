@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12811"
+occurrence_id: "3806"
+short_title: "OA 11 (1972), 74-76"
+author: "Fales, Frederick Mario"
+publication_year: "1972"
+title: "Rv. D. Cocquerillat, Palmeraies et cultures de l´Éanna d´Uruk (559-520)"
+volume_no_: "11"
+pages: "74-76"
+journal: "Oriens Antiquus"
+title: "Rv. D. Cocquerillat, Palmeraies et cultures de l´Éanna d´Uruk (559-520)"
+previous_item: "12814"
+---

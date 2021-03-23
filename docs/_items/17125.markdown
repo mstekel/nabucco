@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17125"
+occurrence_id: "364"
+short_title: "Csabai 2010"
+author: "Csabai, Zoltán "
+publication_year: "2010"
+title: "From Elephantine to Babylon. Selected Studies of Péter Vargyas on Ancient Near Eastern Economy"
+title: "From Elephantine to Babylon. Selected Studies of Péter Vargyas on Ancient Near Eastern Economy"
+previous_item: "17128"
+---

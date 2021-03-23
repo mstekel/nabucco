@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20110"
+occurrence_id: "4825"
+short_title: "Eng 2004"
+author: "Eng, Milton"
+publication_year: "2004"
+title: "What's in a Name? Cyrus and the Dating of Deutero-Isaiah."
+pages: "216-224"
+editor: "Kaltner, J."
+book: "Inspired Speech: Prophecy in the Ancient Near East, Fs. H.B. Huffmon (New York)"
+title: "What's in a Name? Cyrus and the Dating of Deutero-Isaiah."
+previous_item: "20113"
+---

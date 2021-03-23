@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19420"
+occurrence_id: "4438"
+short_title: "Wilhelm 2001"
+author: "Wilhelm, Gernot"
+publication_year: "2001"
+title: "Hurritisch naipti „Weidung“, „Weide“ oder eine bestimmte Art von Weide"
+pages: "449-453"
+editor: "Prechel, Doris"
+book: "Kulturgeschichten, Fs. Haas (Saarbrücken)"
+title: "Hurritisch naipti „Weidung“, „Weide“ oder eine bestimmte Art von Weide"
+previous_item: "19423"
+---

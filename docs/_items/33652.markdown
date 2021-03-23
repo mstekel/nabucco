@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33652"
+place_id: "739"
+parent_id: "61"
+place_name: "Ālu-ša-mār-šarri"
+title: "Ālu-ša-mār-šarri"
+previous_item: "33655"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18664"
+occurrence_id: "4818"
+short_title: "Weszeli 1994"
+author: "Weszeli, Michaela"
+publication_year: "1994"
+title: "Frauen im Wirtschaftsleben Mesopotamiens (7.-5. Jahrhundert v. Chr.)"
+pages: "111-142"
+editor: "Specht, E."
+book: "Frauenreichtum. Die Frau als Wirtschaftsfaktor im Altertum, Reihe Frauenforschung 27 (Wien)"
+title: "Frauen im Wirtschaftsleben Mesopotamiens (7.-5. Jahrhundert v. Chr.)"
+previous_item: "18667"
+---

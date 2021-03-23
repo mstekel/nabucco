@@ -1,0 +1,10 @@
+---
+layout: "glossary"
+slug: "35608"
+concept_id: "1324"
+label: "Indeterminate text"
+hierarchy: "Content type"
+type: "172"
+title: "Indeterminate text"
+previous_item: "35611"
+---

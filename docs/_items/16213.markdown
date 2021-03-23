@@ -1,0 +1,15 @@
+---
+layout: "bibliography"
+slug: "16213"
+occurrence_id: "142"
+short_title: "FB 10"
+author: "Jakob-Rost, Liane"
+publication_year: "1968"
+title: "Ein neubabylonisches Tontafelarchiv aus dem 7. Jahrhundert v.u.Z."
+volume_no_: "10"
+pages: "39-62"
+related_objects: "5405"
+journal: "Forschungen und Berichte"
+title: "Ein neubabylonisches Tontafelarchiv aus dem 7. Jahrhundert v.u.Z."
+previous_item: "16216"
+---

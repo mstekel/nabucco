@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34234"
+place_id: "1186"
+parent_id: "61"
+place_name: "Piqūdu"
+title: "Piqūdu"
+previous_item: "34237"
+---

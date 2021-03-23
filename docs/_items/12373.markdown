@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12373"
+occurrence_id: "1447"
+short_title: "Arch. Anz. 1 (1983), 33-37"
+author: "Fleischer, Robert"
+publication_year: "1983"
+title: "Ein Bildhauerauftrag unter Dareios II."
+volume_no_: "1"
+pages: "33-37"
+journal: "Archäologischer Anzeiger"
+title: "Ein Bildhauerauftrag unter Dareios II."
+previous_item: "12376"
+---

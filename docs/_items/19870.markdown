@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19870"
+occurrence_id: "4632"
+short_title: "Britton and Walker 1996"
+author: "Walker, Christopher,  Bromhead F."
+publication_year: "1996"
+title: "Astronomy and Astrology in Mesopotamia"
+pages: "42-67"
+editor: "Walker, Christopher,  Bromhead F."
+book: "Astronomy before the Telescope (London)"
+title: "Astronomy and Astrology in Mesopotamia"
+previous_item: "19873"
+---

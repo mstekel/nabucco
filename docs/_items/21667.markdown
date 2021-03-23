@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21667"
+occurrence_id: "4304"
+short_title: "Volterra 1957"
+author: "Volterra, Edoardo"
+publication_year: "1957"
+title: "Le affrancazioni di schiavi nei documenti aramaici del V secolo a.C.,"
+pages: "675-696"
+editor: "Furlani, Giuseppe"
+book: "Scritti in onore di Giuseppe Furlani (Roma)"
+title: "Le affrancazioni di schiavi nei documenti aramaici del V secolo a.C.,"
+previous_item: "21670"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16315"
+occurrence_id: "1600"
+short_title: "BCSMS 1 (2006), 52-53."
+author: "Power, B."
+publication_year: "2006"
+title: "Rv. A.C.V.M. Bongenaar (ed), Interdependency of Institutions and Private Entrepreneurs, MOS Studies 2, PIHANS 87 (Istanbul and Leiden 2000)"
+volume_no_: "1"
+pages: "52-53"
+journal: "Bulletin. The Canadian Society for Mesopotamian Studies"
+title: "Rv. A.C.V.M. Bongenaar (ed), Interdependency of Institutions and Private Entrepreneurs, MOS Studies 2, PIHANS 87 (Istanbul and Leiden 2000)"
+previous_item: "16318"
+---

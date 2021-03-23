@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20296"
+occurrence_id: "4714"
+short_title: "Mayrhofer 1978"
+author: "Mayrhofer, Manfred"
+publication_year: "1978"
+title: "Alt-Neue Iraniernamen aus Persepolis"
+pages: "56-60"
+editor: "Georgiev, V.I."
+book: "Studia in honorem Veselini Beševliev (Sofia)"
+title: "Alt-Neue Iraniernamen aus Persepolis"
+previous_item: "20299"
+---

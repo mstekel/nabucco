@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12070"
+occurrence_id: "2818"
+short_title: "OLZ 94 (1999), 326-332"
+author: "Oelsner, Joachim"
+publication_year: "1999"
+title: "Rv. A.J. Sachs and H. Hunger, Astronomical Diaries and Related Texts from Babylonia, Vol. III (1996)"
+volume_no_: "94"
+pages: "326-332"
+journal: "Orientalistische Literaturzeitung"
+title: "Rv. A.J. Sachs and H. Hunger, Astronomical Diaries and Related Texts from Babylonia, Vol. III (1996)"
+previous_item: "12073"
+---

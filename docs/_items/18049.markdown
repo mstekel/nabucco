@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18049"
+occurrence_id: "501"
+short_title: "Mallowan 1956"
+author: "Mallowan, Max E.L. "
+publication_year: "1956"
+title: "Twenty-Five Years of Mesopotamian Discovery (1932- 1956)"
+title: "Twenty-Five Years of Mesopotamian Discovery (1932- 1956)"
+previous_item: "18052"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15223"
+occurrence_id: "1760"
+short_title: "BOR 4 (1889/1890), 131-135"
+author: "Pinches, Theophilus G."
+publication_year: "1889/1890"
+title: "A Babylonian Tablet dated in the Reign of Aspasiné"
+volume_no_: "4"
+pages: "131-135"
+journal: "Babylonian and Oriental Record"
+title: "A Babylonian Tablet dated in the Reign of Aspasiné"
+previous_item: "15226"
+---

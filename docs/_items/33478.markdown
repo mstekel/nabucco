@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "33478"
+place_id: "1445"
+parent_id: "37"
+place_name: "Nāru-eššu-elû"
+related_objects: "6267"
+title: "Nāru-eššu-elû"
+previous_item: "33481"
+---

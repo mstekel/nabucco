@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "18829"
+occurrence_id: "4595"
+short_title: "Munn-Rankin 1967"
+author: "Munn-Rankin, Joan Margaret"
+publication_year: "1963"
+title: "Darius"
+pages: "76-77"
+book: "Encyclopaedia Britannica 7 (London)"
+title: "Darius"
+previous_item: "18832"
+---

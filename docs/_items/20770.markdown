@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "20770"
+occurrence_id: "5036"
+short_title: "Rollinger 1998"
+author: "Rollinger, Robert"
+publication_year: "1998"
+title: "Überlegungen zu Herodot, Xerxes und dessen angeblicher Zerstörung Babylons"
+pages: "339-373"
+book: "Aufsätze zum 65. Geburtstag von Horst Klengel II, AoF 25 (1998)"
+title: "Überlegungen zu Herodot, Xerxes und dessen angeblicher Zerstörung Babylons"
+previous_item: "20773"
+---

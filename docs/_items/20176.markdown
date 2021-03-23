@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20176"
+occurrence_id: "5177"
+short_title: "Horowitz 2010"
+author: "Horowitz, Wayne"
+publication_year: "2010"
+title: "They multiplied the sag by the us in the sky."
+pages: "51-61"
+editor: "Porter, Barbara N."
+book: "Gazing on the Deep. Ancient Near Eastern and Other Studies in Honor of Tzvi Abusch (Bethesda)"
+title: "They multiplied the sag by the us in the sky."
+previous_item: "20179"
+---

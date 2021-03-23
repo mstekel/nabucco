@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18508"
+occurrence_id: "4078"
+short_title: "Goetze 2009"
+author: "Goetze, Albrecht "
+publication_year: "2009"
+title: "Cuneiform Texts from Various Collections (Yale Oriental Series)"
+title: "Cuneiform Texts from Various Collections (Yale Oriental Series)"
+previous_item: "18511"
+---

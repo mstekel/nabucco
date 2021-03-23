@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18100"
+occurrence_id: "823"
+short_title: "Kaufman 1974"
+author: "Kaufman, Stephen A. "
+publication_year: "1974"
+title: "The Akkadian Influences on Aramaic, The Oriental Institute of the University of Chicago, AS 19 (Chicago and London)"
+title: "The Akkadian Influences on Aramaic, The Oriental Institute of the University of Chicago, AS 19 (Chicago and London)"
+previous_item: "18103"
+---

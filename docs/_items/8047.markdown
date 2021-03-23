@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8047"
+occurrence_id: "2230"
+short_title: "JEOL 35-36 (1997-2000), 111-126"
+author: "Michel, Cécile"
+publication_year: "1997-2000"
+title: "La chronologie du IIe millénaire à l'ombre d'une eclipse de soleil"
+volume_no_: "35-36"
+pages: "111-126"
+journal: "Jaarbericht van het Voor-Aziatisch-Egyptisch-Gezelschap Ex Oriente Lux"
+title: "La chronologie du IIe millénaire à l'ombre d'une eclipse de soleil"
+previous_item: "8050"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9973"
+occurrence_id: "3545"
+short_title: "ZDMG 110 (1961), 236-251"
+author: "Hinz, Walther"
+publication_year: "1961"
+title: "Zu den Persepolis-Täfelchen von Preis (Wein und Schafe - Der unsak - Die Problemwörter zak and šak - Der Preis von Eseln and Rindern - Die Verbalwurzel kaz- - Wo lag Hidali?)"
+volume_no_: "110"
+pages: "236-251"
+journal: "Zeitschrift der Deutschen Morgenländischen Gesellschaft"
+title: "Zu den Persepolis-Täfelchen von Preis (Wein und Schafe - Der unsak - Die Problemwörter zak and šak - Der Preis von Eseln and Rindern - Die Verbalwurzel kaz- - Wo lag Hidali?)"
+previous_item: "9976"
+---

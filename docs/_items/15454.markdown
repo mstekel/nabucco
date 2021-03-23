@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15454"
+occurrence_id: "3005"
+short_title: "RA 12 (1915), 73-84"
+author: "Langdon, Stephen.H."
+publication_year: "1915"
+title: "A bilingual tablet from Erech of the First century BC"
+volume_no_: "12"
+pages: "73-84"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "A bilingual tablet from Erech of the First century BC"
+previous_item: "15457"
+---

@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18538"
+occurrence_id: "341"
+short_title: "Briend 1995"
+author: "Briend, Jacques "
+publication_year: "1995"
+title: "Recherches pluridisciplinaires sur une province de l´empire achéménide. Actes de la Table ronde \"La Transeuphratène et l´Égypte a l´époque perse\""
+title: "Recherches pluridisciplinaires sur une province de l´empire achéménide. Actes de la Table ronde \"La Transeuphratène et l´Égypte a l´époque perse\""
+previous_item: "18541"
+---

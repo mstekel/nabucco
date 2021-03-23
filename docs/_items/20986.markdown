@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20986"
+occurrence_id: "5085"
+short_title: "Kedar 2014"
+author: "Kedar, Sivan"
+publication_year: "2014"
+title: "Apprenticeship in the Neo-Babylonian Period: A Study of Bargaining Power"
+pages: "537-546"
+editor: "Marti, Lionel"
+book: "La famille dans le Proche-Orient ancien: réalités, symbolismes, et images. Proceedings of the 55th Rencontre Assyriologique Internationale at Paris, 6-9 July 2009 (Winona Lake)"
+title: "Apprenticeship in the Neo-Babylonian Period: A Study of Bargaining Power"
+previous_item: "20989"
+---

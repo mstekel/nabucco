@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "12832"
+occurrence_id: "3918"
+short_title: "AoF 42/1 (2015), 1-14"
+author: "Bloch, Yigal"
+publication_year: "2015"
+title: "The Contribution of Babylonian Tablets in the Collection of David Sofer to the Chronology of the Revolts against Darius I"
+volume_no_: "42/1"
+pages: "1-14"
+title: "The Contribution of Babylonian Tablets in the Collection of David Sofer to the Chronology of the Revolts against Darius I"
+previous_item: "12835"
+---

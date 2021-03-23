@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12775"
+occurrence_id: "3614"
+short_title: "AION-L 7 (1966), 209-210"
+author: "Mayrhofer, Manfred"
+publication_year: "1966"
+title: "Rv. J.P. Asmussen, Historiske tekster fra Achaemenidetiden"
+volume_no_: "7"
+pages: "209-210"
+journal: "Annali dell’Istituto Orientale di Napoli"
+title: "Rv. J.P. Asmussen, Historiske tekster fra Achaemenidetiden"
+previous_item: "12778"
+---

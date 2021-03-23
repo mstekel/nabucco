@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34903"
+place_id: "1255"
+parent_id: "61"
+place_name: "Šīhu-ša-Marduk-apla-uṣur"
+title: "Šīhu-ša-Marduk-apla-uṣur"
+previous_item: "34906"
+---

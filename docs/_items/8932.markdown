@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "8932"
+occurrence_id: "3976"
+short_title: "JAOS 134/3 (2014), 507-512"
+author: "Kozuh, Michael"
+publication_year: "2014"
+title: "Rv. B. Jacobs and R. Rollinger, Der Achämenidenhof"
+volume_no_: "134/3"
+pages: "507-512"
+title: "Rv. B. Jacobs and R. Rollinger, Der Achämenidenhof"
+previous_item: "8935"
+---

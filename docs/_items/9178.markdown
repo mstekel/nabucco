@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9178"
+occurrence_id: "2280"
+short_title: "JNES 2 (1943), 307-313"
+author: "Cameron, George G."
+publication_year: "1943"
+title: "Darius, Egypt, and the \"Lands beyond theSea\""
+volume_no_: "2"
+pages: "307-313"
+journal: "Journal of Near Eastern Studies"
+title: "Darius, Egypt, and the \"Lands beyond theSea\""
+previous_item: "9181"
+---

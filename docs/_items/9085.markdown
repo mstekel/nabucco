@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9085"
+occurrence_id: "1781"
+short_title: "BSOAS 41 (1978), 421"
+author: "Lambert, Wilfred G."
+publication_year: "1978"
+title: "Rv. H. Lanz, Die neubabylonischen harrānu-Geschäftsunternehmen"
+volume_no_: "41"
+pages: "421"
+journal: "Bulletin of the School of Oriental and African Studies"
+title: "Rv. H. Lanz, Die neubabylonischen harrānu-Geschäftsunternehmen"
+previous_item: "9088"
+---

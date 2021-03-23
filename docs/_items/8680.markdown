@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "8680"
+occurrence_id: "2619"
+short_title: "NABU 2000/3"
+author: "Zadok, Ran"
+title: "Notes on Babylonian Geography"
+volume_no_: "3"
+publication_year: "2000"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Notes on Babylonian Geography"
+previous_item: "8683"
+---

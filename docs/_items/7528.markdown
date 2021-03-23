@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "7528"
+occurrence_id: "2455"
+short_title: "NABU 1988/27"
+author: "Cavigneaux, Antoine"
+publication_year: "1988"
+title: "Onomastique"
+volume_no_: "27"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Onomastique"
+previous_item: "7531"
+---

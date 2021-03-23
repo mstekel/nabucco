@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13900"
+occurrence_id: "3664"
+short_title: "Dossiers Histoire et Archéologie 103 (1986)"
+author: "al-Jadir, Walid"
+publication_year: "1986"
+title: "Sippar: Ville du dieu Soleil"
+volume_no_: "103"
+pages: "52-54"
+journal: "Dossiers Histoire et Archéologie"
+title: "Sippar: Ville du dieu Soleil"
+previous_item: "13903"
+---

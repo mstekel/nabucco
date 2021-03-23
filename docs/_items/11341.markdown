@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11341"
+occurrence_id: "1898"
+short_title: "HZ 204 (1967), 732-733"
+author: "Horst, H. Jacob"
+publication_year: "1967"
+title: "Rv. A. Bausani, Die Perser. Von den Anfängen bis zur Gegenwart"
+volume_no_: "204"
+pages: "732-733"
+journal: "Historische Zeitschrift"
+title: "Rv. A. Bausani, Die Perser. Von den Anfängen bis zur Gegenwart"
+previous_item: "11344"
+---

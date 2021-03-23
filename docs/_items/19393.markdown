@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "19393"
+occurrence_id: "4293"
+short_title: "Collon 2000"
+author: "Collon, Dominique"
+publication_year: "2000"
+title: "L´animal dans les échanges et les relations diplomatiques"
+pages: "125-140"
+book: "Topoi Supplément 2, Les animaux et les hommes dans le monde syro-mésopotamien aux époques historiques (Lyon)"
+title: "L´animal dans les échanges et les relations diplomatiques"
+previous_item: "19396"
+---

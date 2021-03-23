@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14875"
+occurrence_id: "2905"
+short_title: "Or 55 (1986), 95-97"
+author: "Zaccagnini, Carlo"
+publication_year: "1986"
+title: "Rv. P. Briant, Rois, tributs et paysans. Ètudes sur les formations tributaires du Moyen-Orient ancien"
+volume_no_: "55"
+pages: "95-97"
+journal: "Orientalia"
+title: "Rv. P. Briant, Rois, tributs et paysans. Ètudes sur les formations tributaires du Moyen-Orient ancien"
+previous_item: "14878"
+---

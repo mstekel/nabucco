@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8170"
+occurrence_id: "2892"
+short_title: "Or 50 (1981), 114-115"
+author: "Mayer, Werner R."
+publication_year: "1981"
+title: "Rv. M. Dietrich, Neo-Babylonian Letters from the Kuyunjik Collection (CT 54)"
+volume_no_: "50"
+pages: "114-115"
+journal: "Orientalia"
+title: "Rv. M. Dietrich, Neo-Babylonian Letters from the Kuyunjik Collection (CT 54)"
+previous_item: "8173"
+---

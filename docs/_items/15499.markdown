@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15499"
+occurrence_id: "3245"
+short_title: "Syria 55 (1978), 396-397"
+author: "Caquot, André"
+publication_year: "1978"
+title: "Rv. M.D. Coogan, West Semitic Personal Names in the Murašû Documents (HSM 7)"
+volume_no_: "55"
+pages: "396-397"
+journal: "Syria"
+title: "Rv. M.D. Coogan, West Semitic Personal Names in the Murašû Documents (HSM 7)"
+previous_item: "15502"
+---

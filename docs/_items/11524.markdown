@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11524"
+occurrence_id: "2882"
+short_title: "Or 42 (1973), 320-323"
+author: "Hallock, Richard T."
+publication_year: "1973"
+title: "The Persepolis Fortification Archive"
+volume_no_: "42"
+pages: "320-323"
+journal: "Orientalia"
+title: "The Persepolis Fortification Archive"
+previous_item: "11527"
+---

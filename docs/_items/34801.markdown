@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "34801"
+place_id: "1402"
+parent_id: "37"
+place_name: "Pāni-abul-Enlil"
+related_objects: "4454"
+title: "Pāni-abul-Enlil"
+previous_item: "34804"
+---

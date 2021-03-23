@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7963"
+occurrence_id: "1779"
+short_title: "BSOAS 37 (1974), 450-452"
+author: "Wiseman, Donald J."
+publication_year: "1974"
+title: "Rv. R.H. Sack, Amēl-Marduk, 562-560 B.C. (AOATS 4)"
+volume_no_: "37"
+pages: "450-452"
+journal: "Bulletin of the School of Oriental and African Studies"
+title: "Rv. R.H. Sack, Amēl-Marduk, 562-560 B.C. (AOATS 4)"
+previous_item: "7966"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8704"
+occurrence_id: "2748"
+short_title: "NAPR 10 (1996), 39-84"
+author: "Gasche, Hermann"
+publication_year: "1996"
+title: "Les tombes achéménides tardives et séleucides de Tell ed-Dēr, Abū Qubūr et Mahmūdīyah"
+volume_no_: "10"
+pages: "39-84"
+journal: "Northern Akkad Project Reports"
+title: "Les tombes achéménides tardives et séleucides de Tell ed-Dēr, Abū Qubūr et Mahmūdīyah"
+previous_item: "8707"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12232"
+occurrence_id: "3693"
+short_title: "ET 25 (1913/1914), 420-423"
+author: "Pinches, Theophilus G."
+publication_year: "1913/1914"
+title: "Glimpses of Life in Erech"
+volume_no_: "25"
+pages: "420-423"
+journal: "Etudes et Travaux. Travaux du Centre d’Archéologie Méditerranéenne de l’Académie Polonaise des Sciences sous la direction de K. Michalowski"
+title: "Glimpses of Life in Erech"
+previous_item: "12235"
+---

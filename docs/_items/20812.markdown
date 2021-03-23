@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "20812"
+occurrence_id: "4155"
+short_title: "Kuhrt 2008a"
+author: "Kuhrt, Amélie"
+publication_year: "2008"
+title: "The Persepolis archives: concluding observations"
+pages: "563-570"
+editor: "Stolper, Matthew W."
+title: "The Persepolis archives: concluding observations"
+previous_item: "20815"
+---

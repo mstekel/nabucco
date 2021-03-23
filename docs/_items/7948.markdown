@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7948"
+occurrence_id: "1698"
+short_title: "BiOr 54 (1997), 285-305"
+author: "van de Mieroop, Marc"
+publication_year: "1997"
+title: "On writing a History of the Ancient Near East"
+volume_no_: "54"
+pages: "285-305"
+journal: "Bibliotheca Orientalis"
+title: "On writing a History of the Ancient Near East"
+previous_item: "7951"
+---

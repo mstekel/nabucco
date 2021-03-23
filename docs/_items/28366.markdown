@@ -1,0 +1,13 @@
+---
+layout: "tablet"
+slug: "28366"
+object_id: "7731"
+nabucco_no_: "BM94577"
+museum_no_: "BM 94577"
+duplicate: "HS 446"
+imported: "Melanie Gross (12/12/2016)"
+join: "BM 94753; BM 94924"
+related_objects: "6813"
+title: "BM 94577"
+previous_item: "28381"
+---

@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "18613"
+occurrence_id: "4546"
+short_title: "Croatto 1963"
+author: "Croatto, J. Severino"
+publication_year: "1963"
+title: "Behistūn, Inscripción de"
+pages: "1090"
+book: "EncBiblia 1 (Barcelona)"
+title: "Behistūn, Inscripción de"
+previous_item: "18616"
+---

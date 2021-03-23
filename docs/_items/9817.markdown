@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "9817"
+occurrence_id: "2701"
+short_title: "NABU 2007/65"
+author: "Koch, Johannes"
+title: "Nochmals: BM 55466+"
+volume_no_: "65"
+publication_year: "2007"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Nochmals: BM 55466+"
+previous_item: "9820"
+---

@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "18820"
+occurrence_id: "4547"
+short_title: "Croatto 1964"
+author: "Croatto, J. Severino"
+publication_year: "1964"
+title: "Elam, Elamitas"
+pages: "1181-1186"
+book: "EncBiblia 2 (Barcelona)"
+title: "Elam, Elamitas"
+previous_item: "18823"
+---

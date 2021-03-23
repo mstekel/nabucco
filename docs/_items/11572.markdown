@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11572"
+occurrence_id: "3142"
+short_title: "RIDA 2e Série 1 (1952), 33-86"
+author: "Pirenne, Jacques"
+publication_year: "1952"
+title: "Les institutions du peuple hébreu"
+volume_no_: "2/1."
+pages: "33-86"
+journal: "Revue Internationale des Droits de l'Antiquité"
+title: "Les institutions du peuple hébreu"
+previous_item: "11575"
+---

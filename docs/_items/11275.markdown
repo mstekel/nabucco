@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11275"
+occurrence_id: "1543"
+short_title: "Australian Journal of Biblical Archaeology 1/2 (1969), 51-78"
+author: "Rainey, Anson F."
+publication_year: "1969"
+title: "The Satrapy \"Beyond the River\""
+volume_no_: "1/2."
+pages: "51-78"
+journal: "Australian Journal of Biblical Archaeology"
+title: "The Satrapy \"Beyond the River\""
+previous_item: "11278"
+---

@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "33802"
+place_id: "1375"
+parent_id: "37"
+place_name: "Šaḫrīn"
+related_objects: "7573"
+title: "Šaḫrīn"
+previous_item: "33805"
+---

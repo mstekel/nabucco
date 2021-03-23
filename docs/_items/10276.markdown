@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10276"
+occurrence_id: "2152"
+short_title: "JCS 18 (1964), 31-34"
+author: "Aaboe, Asger"
+publication_year: "1964"
+title: "A Seleucid Table of Daily Solar (?) Positions"
+volume_no_: "18"
+pages: "31-34"
+journal: "Journal of Cuneiform Studies"
+title: "A Seleucid Table of Daily Solar (?) Positions"
+previous_item: "10279"
+---

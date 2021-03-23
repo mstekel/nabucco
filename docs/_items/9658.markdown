@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9658"
+occurrence_id: "1847"
+short_title: "DAFI 8 (1978), 81-84"
+author: "Grillot-Susini, Françoise"
+publication_year: "1978"
+title: "Le verbe élamite \"pi(š)ši\""
+volume_no_: "8"
+pages: "81-84"
+journal: "Cahiers de la Délégation Archéologique Française en Iran"
+title: "Le verbe élamite \"pi(š)ši\""
+previous_item: "9661"
+---

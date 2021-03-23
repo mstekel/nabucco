@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16375"
+occurrence_id: "1923"
+short_title: "Iran 23 (1985), 21-37"
+author: "Moorey, P. Roger S."
+publication_year: "1985"
+title: "The Iranian Contribution to Achaemenid Material Culture"
+volume_no_: "23"
+pages: "21-37"
+journal: "Iran. Journal of the British Institute of Persian Studies"
+title: "The Iranian Contribution to Achaemenid Material Culture"
+previous_item: "16378"
+---

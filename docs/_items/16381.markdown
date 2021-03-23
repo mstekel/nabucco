@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16381"
+occurrence_id: "1955"
+short_title: "Iraq 29 (1967), 117-132"
+author: "Biggs, Robert D."
+publication_year: "1967"
+title: "More Babylonian \"Prophecies\""
+volume_no_: "29"
+pages: "117-132"
+journal: "Iraq"
+title: "More Babylonian \"Prophecies\""
+previous_item: "16384"
+---

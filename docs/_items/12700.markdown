@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12700"
+occurrence_id: "3208"
+short_title: "Sprache 18 (1972), 53-54"
+author: "Mayrhofer, Manfred"
+publication_year: "1972"
+title: "Altpersische Wörter auf einer neugefandenen elamischen Inschrift"
+volume_no_: "18"
+pages: "53-54"
+journal: "Sprache"
+title: "Altpersische Wörter auf einer neugefandenen elamischen Inschrift"
+previous_item: "12703"
+---

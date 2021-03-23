@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13567"
+occurrence_id: "1870"
+short_title: "Folia Orientalia 18 (1977), 187-197"
+author: "Zawadzki, Stefan"
+publication_year: "1977"
+title: "Some Remarks Concerning the Property of the Eanna Temple in Uruk (7th Century B.C.)"
+volume_no_: "18"
+pages: "187-197"
+journal: "Folia Orientalia"
+title: "Some Remarks Concerning the Property of the Eanna Temple in Uruk (7th Century B.C.)"
+previous_item: "13570"
+---

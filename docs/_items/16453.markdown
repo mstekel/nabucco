@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16453"
+occurrence_id: "2342"
+short_title: "JNES 6 (1947), 116-120"
+author: "Oppenheim, A. Leo"
+publication_year: "1947"
+title: "A Fiscal Practice of the Ancient Near East"
+volume_no_: "6"
+pages: "116-120"
+journal: "Journal of Near Eastern Studies"
+title: "A Fiscal Practice of the Ancient Near East"
+previous_item: "16456"
+---

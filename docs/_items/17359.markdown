@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "17359"
+occurrence_id: "69"
+short_title: "VS 5"
+author: "Delitzsch, Friedrich "
+publication_year: "1908"
+title: "Vorderasiatische Schriftdenkmäler der Königlichen Museen zu Berlin. 5"
+volume_no_: "5"
+related_objects: "2376"
+title: "Vorderasiatische Schriftdenkmäler der Königlichen Museen zu Berlin. 5"
+previous_item: "17362"
+---

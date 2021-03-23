@@ -1,0 +1,15 @@
+---
+layout: "tablet"
+slug: "28825"
+object_id: "7610"
+museum_no_: "BM 32216"
+publication: "Wunsch 2000"
+text_number: "12B"
+duplicate: "BM 30365"
+imported: "Kathleen Abraham 20/12/2016"
+publication_name: "Wunsch 2000 12B"
+archive: "Egibi/Nūr-Sîn"
+related_objects: "7611"
+title: "BM 32216"
+previous_item: "28828"
+---

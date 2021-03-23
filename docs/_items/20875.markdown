@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20875"
+occurrence_id: "4493"
+short_title: "Koch 1983"
+author: "Koch, Heidemarie"
+publication_year: "1983"
+title: "Zu den Lohnverhältnissen der Dareioszeit in Persien"
+pages: "19-50"
+editor: "Mackenzie, David N."
+book: "Kunst, Kultur und Geschichte der Achämenidenzeit und ihr Fortleben, Archäologische Mitteilungen aus Iran, Ergänzungsband 10 (Berlin)"
+title: "Zu den Lohnverhältnissen der Dareioszeit in Persien"
+previous_item: "20878"
+---

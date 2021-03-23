@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7654"
+occurrence_id: "3135"
+short_title: "Religious Studies Review 10 (1984), 389"
+author: "Sasson, Jack M."
+publication_year: "1984"
+title: "Rv. F. Joannès, Textes économiques de la Babylonie récente"
+volume_no_: "10"
+pages: "389"
+journal: "Religious Studies Review"
+title: "Rv. F. Joannès, Textes économiques de la Babylonie récente"
+previous_item: "7657"
+---

@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16867"
+occurrence_id: "345"
+short_title: "Budge 1922"
+author: "Budge, E.A. Wallis "
+publication_year: "1922"
+title: "A Guide to the Babylonian and Assyrian Antiquities, third Edition"
+title: "A Guide to the Babylonian and Assyrian Antiquities, third Edition"
+previous_item: "16870"
+---

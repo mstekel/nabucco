@@ -1,0 +1,13 @@
+---
+layout: "tablet"
+slug: "25618"
+object_id: "7703"
+nabucco_no_: "BM94819"
+museum_no_: "BM 94819"
+place_of_issue: "Borsippa city"
+paraphrase: "Lease of vats: <strong>A</strong> rents out to <strong>B</strong> empty vats. He will give the vats until the 15<sup>th</sup> of Ṭebēt (X). Per broken or lost vat, <strong>C</strong> will pay 1 &frac12; shekels of silver. Witnesses and the scribe.<br /> &nbsp;<br /> <strong>A</strong> = Aplāya/Nab&ucirc;-zēru-ibni//Arkāt-ilāni; <strong>B</strong> = Nab&ucirc;-bēl&scaron;unu/Nab&ucirc;-lē&rsquo;i//Bā&rsquo;iru; <strong>C</strong> = Nab&ucirc;-&scaron;umu-i&scaron;kun/Puhhuru//(Ea-)-ilūtu-bāni; Scribe = Nab&ucirc;-&scaron;umu-iddin//Ahhia&rsquo;ūtu<br /> &nbsp;"
+imported: "Melanie Gross (12/12/2016)"
+archive: "Ea-ilūtu-bāni, Ilī-bāni and Nanāhu"
+title: "BM 94819"
+previous_item: "25621"
+---

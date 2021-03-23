@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14980"
+occurrence_id: "3472"
+short_title: "ZA 83 (1993), 298-299"
+author: "Brodersen, Kai"
+publication_year: "1993"
+title: "Rv. R. Rollinger, Herodots babylonischer Logos. Eine kritische Untersuchung der Glaubwürdigkeitsdiskussion (Innsbrucker Beiträge zur Kulturwissenschaft, Sonderheft 84 1993)"
+volume_no_: "83"
+pages: "298-299"
+journal: "Zeitschrift für Assyriologie"
+title: "Rv. R. Rollinger, Herodots babylonischer Logos. Eine kritische Untersuchung der Glaubwürdigkeitsdiskussion (Innsbrucker Beiträge zur Kulturwissenschaft, Sonderheft 84 1993)"
+previous_item: "14983"
+---

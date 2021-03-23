@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12331"
+occurrence_id: "1216"
+short_title: "AfO 38/39 (1991/1992), 101-109"
+author: "Koch, Johannes"
+publication_year: "1991-1992"
+title: "Zu einigen astronomischen \"Diaries\""
+volume_no_: "38-39"
+pages: "101-109"
+journal: "Archiv für Orientforschung"
+title: "Zu einigen astronomischen \"Diaries\""
+previous_item: "12334"
+---

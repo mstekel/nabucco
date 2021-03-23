@@ -1,0 +1,10 @@
+---
+layout: "glossary"
+slug: "35584"
+concept_id: "1573"
+label: "Multiple instances"
+hierarchy: "Content type"
+type: "172"
+title: "Multiple instances"
+previous_item: "35587"
+---

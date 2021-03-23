@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11845"
+occurrence_id: "1608"
+short_title: "BCSMS 30 (1995), 23-29"
+author: "Dandamayev, Muhammed A."
+publication_year: "1995"
+title: "Babylonian Popular Assemblies in the First Millennium B.C."
+volume_no_: "30"
+pages: "23-29"
+journal: "Bulletin. The Canadian Society for Mesopotamian Studies"
+title: "Babylonian Popular Assemblies in the First Millennium B.C."
+previous_item: "11848"
+---

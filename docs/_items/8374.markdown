@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "8374"
+occurrence_id: "3991"
+short_title: "JNES 72/2 (2013), 279-284"
+author: "Mikołajczak, Tytus , K."
+publication_year: "2013"
+title: "Rv. B. Jacobs and R. Rollinger (eds), Der Achämenidenhof"
+volume_no_: "72/2"
+pages: "279-284"
+title: "Rv. B. Jacobs and R. Rollinger (eds), Der Achämenidenhof"
+previous_item: "8377"
+---

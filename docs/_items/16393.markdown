@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16393"
+occurrence_id: "2019"
+short_title: "JA 243 (1955), 117-118"
+author: "Benveniste, Émile"
+publication_year: "1955"
+title: "Rv. E.F. Schmidt, Persepolis I: Structures, Reliefs, Inscriptions"
+volume_no_: "243"
+pages: "117-118"
+journal: "Journal Asiatique"
+title: "Rv. E.F. Schmidt, Persepolis I: Structures, Reliefs, Inscriptions"
+previous_item: "16396"
+---

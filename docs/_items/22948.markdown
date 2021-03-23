@@ -1,0 +1,9 @@
+---
+layout: "archive"
+slug: "22948"
+archive_id: "175"
+archive_name: "Ilšu-abūšu B"
+is_part_of: "Borsippa"
+title: "Ilšu-abūšu B"
+previous_item: "22951"
+---

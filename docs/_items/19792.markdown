@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "19792"
+occurrence_id: "4215"
+short_title: "Kienast 1987"
+author: "Kienast, Burkhart"
+publication_year: "1987"
+title: "NA4 KIŠIB LUGAL ša šiprēti"
+pages: "167-174"
+editor: "Rochberg-Halton, Francesca"
+title: "NA4 KIŠIB LUGAL ša šiprēti"
+previous_item: "19795"
+---

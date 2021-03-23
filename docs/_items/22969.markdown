@@ -1,0 +1,9 @@
+---
+layout: "archive"
+slug: "22969"
+archive_id: "130"
+archive_name: "Huṣābu"
+is_part_of: "Borsippa"
+title: "Huṣābu"
+previous_item: "22972"
+---

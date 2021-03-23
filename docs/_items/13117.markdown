@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "13117"
+occurrence_id: "2448"
+short_title: "NABU 1987/90"
+author: "Giovinazzo, Grazia"
+publication_year: "1987"
+title: "L'expression appa NG(-ma) hupe(-ma) en élamite achéménide"
+volume_no_: "90"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "L'expression appa NG(-ma) hupe(-ma) en élamite achéménide"
+previous_item: "13120"
+---

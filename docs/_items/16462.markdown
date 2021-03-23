@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16462"
+occurrence_id: "2390"
+short_title: "MARI 4 (1985), 579-583"
+author: "Gasche, Hermann"
+publication_year: "1985"
+title: "Tell ed-Dēr et Abu Habbah: Deux villes situées à la croisée des chemins nord-sud, est-ouest"
+volume_no_: "4"
+pages: "579-583"
+journal: "Mari, Annales de Recherches Interdisciplinaires"
+title: "Tell ed-Dēr et Abu Habbah: Deux villes situées à la croisée des chemins nord-sud, est-ouest"
+previous_item: "16465"
+---

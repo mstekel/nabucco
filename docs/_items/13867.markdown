@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13867"
+occurrence_id: "3487"
+short_title: "ZA 86 (1996), 80-88"
+author: "von Soden, Wolfram"
+publication_year: "1996"
+title: "Rv. G. Frame, Rulers of Babylonia from the Second Dynasty of Isin to the End of Assyrian Dominition (1157-612 BC) (RIMB 2, 1995)"
+volume_no_: "86"
+pages: "80-88"
+journal: "Zeitschrift für Assyriologie"
+title: "Rv. G. Frame, Rulers of Babylonia from the Second Dynasty of Isin to the End of Assyrian Dominition (1157-612 BC) (RIMB 2, 1995)"
+previous_item: "13870"
+---

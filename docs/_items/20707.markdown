@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20707"
+occurrence_id: "4700"
+short_title: "Brack-Bernsen and John M. Steele 2011"
+author: "Steele, John M."
+publication_year: "2011"
+title: "14-Month Intervals of Lunar Velocity and Column Phi in Babylonian Astronomy: Atypical Text C."
+pages: "111-130"
+editor: "Selz, G.J."
+book: "Die empirische Dimension altorientalischer Forschungen, WOO 6 (Graz)"
+title: "14-Month Intervals of Lunar Velocity and Column Phi in Babylonian Astronomy: Atypical Text C."
+previous_item: "20710"
+---

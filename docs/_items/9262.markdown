@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "9262"
+occurrence_id: "2733"
+short_title: "NABU 2010/43"
+author: "Mirelman, Sam"
+title: "Drum construction in thelilissu ritual."
+volume_no_: "43"
+publication_year: "2010"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Drum construction in thelilissu ritual."
+previous_item: "9265"
+---

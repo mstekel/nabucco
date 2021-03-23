@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16756"
+occurrence_id: "455"
+short_title: "Jusifov 1968"
+author: "Jusifov, Ju.B. "
+publication_year: "1968"
+title: "Elam. Sozial-ökonomische Geschichte"
+title: "Elam. Sozial-ökonomische Geschichte"
+previous_item: "16759"
+---

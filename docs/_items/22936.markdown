@@ -1,0 +1,9 @@
+---
+layout: "archive"
+slug: "22936"
+archive_id: "385"
+archive_name: "Damiqu"
+is_part_of: "Uruk"
+title: "Damiqu"
+previous_item: "22939"
+---

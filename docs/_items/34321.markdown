@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34321"
+place_id: "805"
+parent_id: "61"
+place_name: "Bābu"
+title: "Bābu"
+previous_item: "34324"
+---

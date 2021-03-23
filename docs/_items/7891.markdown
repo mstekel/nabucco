@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7891"
+occurrence_id: "1391"
+short_title: "AnTan 11 (1964), 145-147"
+author: "Komoróczy, Géza"
+publication_year: "1964"
+title: "Das Kriegswesen im alten Vorderasien. Die Ergebnisse des XII. internationalen Assyriologentreffens"
+volume_no_: "11"
+pages: "145-147"
+journal: "Antik Tanulmányok"
+title: "Das Kriegswesen im alten Vorderasien. Die Ergebnisse des XII. internationalen Assyriologentreffens"
+previous_item: "7894"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8851"
+occurrence_id: "3543"
+short_title: "ZDMG 109 (1959), 200-202"
+author: "Seidl, E."
+publication_year: "1959"
+title: "Rv. H. Petschow, Neubabylonisches Pfandrecht (Berlin 1956)"
+volume_no_: "109"
+pages: "200-202"
+journal: "Zeitschrift der Deutschen Morgenländischen Gesellschaft"
+title: "Rv. H. Petschow, Neubabylonisches Pfandrecht (Berlin 1956)"
+previous_item: "8854"
+---

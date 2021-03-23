@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18871"
+occurrence_id: "4819"
+short_title: "Weszeli 1996"
+author: "Weszeli, Michaela"
+publication_year: "1996"
+title: "Eseleien"
+pages: "461-478"
+editor: "Ambros, Arne, A."
+book: "Festschrift Hirsch, WZKM 86 (Wien)"
+title: "Eseleien"
+previous_item: "18874"
+---

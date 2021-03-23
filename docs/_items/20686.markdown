@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20686"
+occurrence_id: "4588"
+short_title: "Oelsner 2011"
+author: "Oelsner, Joachim"
+publication_year: "2011"
+title: "Bemerkungen zu den «Archivfunden» aus den hellenistischen Heiligtümern Uruks"
+pages: "217-226"
+editor: "Barjamovic, Gojko "
+book: "Akkade is King. A Collection of Papers by Friends and Colleagues Presented to Aage Westenholz on the Occasion of his 70th Birthday 15th of May 2009, PIHANS 118 (Leiden)"
+title: "Bemerkungen zu den «Archivfunden» aus den hellenistischen Heiligtümern Uruks"
+previous_item: "20689"
+---

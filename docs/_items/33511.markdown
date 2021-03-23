@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33511"
+place_id: "256"
+parent_id: "40"
+place_name: "Bīt-Gaššīšu"
+title: "Bīt-Gaššīšu"
+previous_item: "33514"
+---

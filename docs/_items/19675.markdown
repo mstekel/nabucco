@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19675"
+occurrence_id: "4695"
+short_title: "Sassmannshausen 1999"
+author: "Sassmannshausen, Leonhard"
+publication_year: "1999"
+title: "Bauern in der Kassitenzeit"
+pages: "155-160"
+editor: "Klengel, Horst"
+book: "Landwirtschaft im Alten Orient, RAI 41 (Berlin)"
+title: "Bauern in der Kassitenzeit"
+previous_item: "19678"
+---

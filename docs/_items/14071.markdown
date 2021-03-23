@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14071"
+occurrence_id: "1580"
+short_title: "BaM 5 (1970), 193-304"
+author: "Hunger, Hermann"
+publication_year: "1970"
+title: "Das Archiv des Nabû-ušallim"
+volume_no_: "5"
+pages: "193-304"
+journal: "Baghdader Mitteilungen"
+title: "Das Archiv des Nabû-ušallim"
+previous_item: "14074"
+---

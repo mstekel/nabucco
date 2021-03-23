@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33979"
+place_id: "652"
+parent_id: "40"
+place_name: "Šēlā"
+title: "Šēlā"
+previous_item: "33982"
+---

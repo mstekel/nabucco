@@ -1,0 +1,15 @@
+---
+layout: "bibliography"
+slug: "13432"
+occurrence_id: "715"
+short_title: "JAOS 40 (1920)"
+author: "Sukhankar, Vishnu, S."
+publication_year: "1920"
+title: "An Assyrian Tablet found in Bombay [copy etc. by C.E. Keiser]"
+volume_no_: "40"
+pages: "142-144"
+related_objects: "7668"
+journal: "Journal of the American Oriental Society"
+title: "An Assyrian Tablet found in Bombay [copy etc. by C.E. Keiser]"
+previous_item: "13435"
+---

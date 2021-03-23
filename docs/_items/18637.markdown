@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18637"
+occurrence_id: "4674"
+short_title: "Abraham 2012a"
+author: "Abraham, Kathleen"
+publication_year: "2012"
+title: "A Unique Bilingual and Biliteral Artifact from the Time of Nebuchadnezzar II in the Moussaieff Private Collection"
+pages: "111-128"
+editor: "Lubetski, Edith"
+book: "New Inscriptions and Seals Relating to the Biblical World, Archaeology and Biblical Studies 18 (Atlanta)"
+title: "A Unique Bilingual and Biliteral Artifact from the Time of Nebuchadnezzar II in the Moussaieff Private Collection"
+previous_item: "18640"
+---

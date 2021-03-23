@@ -1,0 +1,15 @@
+---
+layout: "tablet"
+slug: "29953"
+object_id: "7580"
+museum_no_: "BM 34074"
+publication: "Wunsch 2000"
+text_number: "125 C"
+duplicate: "BM 32188+"
+imported: "Kathleen Abraham 20/12/2016"
+publication_name: "Wunsch 2000 125 C"
+archive: "Egibi/Nūr-Sîn"
+related_objects: "7578"
+title: "BM 34074"
+previous_item: "29956"
+---

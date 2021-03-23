@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "21436"
+occurrence_id: "4175"
+short_title: "Reiche and Malgorzata Sandowicz 2009"
+author: "Reiche, Andrzej"
+publication_year: "2009"
+title: "Neo-Babylonian Seal from the Potocki Collection at the National Museum in Warsaw"
+pages: "195-220"
+editor: "Drewnowska-Rymarz, Olga"
+title: "Neo-Babylonian Seal from the Potocki Collection at the National Museum in Warsaw"
+previous_item: "21439"
+---

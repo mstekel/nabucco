@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12913"
+occurrence_id: "1350"
+short_title: "AMI 30 (1998), 155-209"
+author: "Rollinger, Robert"
+publication_year: "1998"
+title: "Der Stammbaum des achaimenidischen Königshauses oder die Frage der Legitimität der Herrschaft des Dareios"
+volume_no_: "30"
+pages: "155-209"
+journal: "Archäologische Mitteilungen aus Iran"
+title: "Der Stammbaum des achaimenidischen Königshauses oder die Frage der Legitimität der Herrschaft des Dareios"
+previous_item: "12916"
+---

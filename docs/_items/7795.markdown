@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7795"
+occurrence_id: "3893"
+short_title: "ZVS 79 (1965), 247-254"
+author: "Hoffmann, Karl"
+publication_year: "1965"
+title: "Zu den altiranischen Bruchzahlen"
+volume_no_: "79"
+pages: "247-254"
+journal: "Zeitschrift für vergleichende Sprachforschung auf dem Gebiete der Indogermanischen Sprachen"
+title: "Zu den altiranischen Bruchzahlen"
+previous_item: "7798"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8209"
+occurrence_id: "3104"
+short_title: "RA 91 (1997), 167-172"
+author: "Rollinger, Robert"
+publication_year: "1997"
+title: "Zur Bezeichnung von \"Griechen\" in Keilschrifttexten"
+volume_no_: "91"
+pages: "167-172"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "Zur Bezeichnung von \"Griechen\" in Keilschrifttexten"
+previous_item: "8212"
+---

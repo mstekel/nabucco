@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33334"
+place_id: "970"
+parent_id: "61"
+place_name: "Dūru-ša-Barīhi"
+title: "Dūru-ša-Barīhi"
+previous_item: "33337"
+---

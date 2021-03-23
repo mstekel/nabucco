@@ -1,0 +1,10 @@
+---
+layout: "glossary"
+slug: "35506"
+concept_id: "1252"
+label: "Lease"
+hierarchy: "Content type"
+type: "172"
+title: "Lease"
+previous_item: "35509"
+---

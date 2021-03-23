@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "19165"
+occurrence_id: "4180"
+short_title: "Green and Hausleiter 2001"
+author: "Green, Anthony"
+publication_year: "2001"
+title: "Götter in Til Barsib"
+pages: "145-170"
+editor: "Prechel, Doris"
+title: "Götter in Til Barsib"
+previous_item: "19168"
+---

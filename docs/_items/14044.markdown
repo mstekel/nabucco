@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14044"
+occurrence_id: "1434"
+short_title: "AoF 3 (1975), 25-45"
+author: "Oelsner, Joachim"
+publication_year: "1975"
+title: "Randbemerkungen zur arsakidischen Geschichte an Hand von babylonischen Keilschrifttexten"
+volume_no_: "3"
+pages: "25-45"
+journal: "Altorientalische Forschungen"
+title: "Randbemerkungen zur arsakidischen Geschichte an Hand von babylonischen Keilschrifttexten"
+previous_item: "14047"
+---

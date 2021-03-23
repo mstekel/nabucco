@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18805"
+occurrence_id: "4467"
+short_title: "Hirsch 1998"
+author: "Hirsch, Hans"
+publication_year: "1998"
+title: "Kommen und Gehen in Nippur"
+pages: "369-382"
+editor: "Dietrich, Manfried"
+book: "«and Mose schrieb dieses Lied auf». Studien zum Alten Testament and zum Alten Orient. Festschrift … Loretz … AOAT 250 (Münster)"
+title: "Kommen und Gehen in Nippur"
+previous_item: "18808"
+---

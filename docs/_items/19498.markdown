@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19498"
+occurrence_id: "4854"
+short_title: "Dandamayev 1987"
+author: "Dandamayev, Muhammed A."
+publication_year: "1987"
+title: "Free Hired Labor in Babylonia During the Sixth through Fourth Centuries B.C."
+pages: "271-279"
+editor: "Powell, Marvin A."
+book: "Labor in the Ancient Near East, AOS 68 (New Haven)"
+title: "Free Hired Labor in Babylonia During the Sixth through Fourth Centuries B.C."
+previous_item: "19501"
+---

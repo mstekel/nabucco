@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12796"
+occurrence_id: "3726"
+short_title: "JBR 25 (1957), 203-205"
+author: "Finegan, Jack"
+publication_year: "1957"
+title: "Nebuchadnezzar and Jerusalem"
+volume_no_: "25"
+pages: "203-205"
+journal: "Journal of Bible and Religion"
+title: "Nebuchadnezzar and Jerusalem"
+previous_item: "12799"
+---

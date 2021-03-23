@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "19552"
+occurrence_id: "5142"
+short_title: "Tjurin 1956"
+author: "Tjurin, V.O."
+publication_year: "1956"
+title: "Zur Festlegung der Bedeutung sozial-ökonomischer Termini der Behistun-Inschrift  (in Russ.)"
+pages: "499-525"
+book: "Труды института языкознания АН СССР  6 (1956) [Trudy instituta jazykoznanija AN SSSR 6 (1956)]"
+title: "Zur Festlegung der Bedeutung sozial-ökonomischer Termini der Behistun-Inschrift  (in Russ.)"
+previous_item: "19555"
+---

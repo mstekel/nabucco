@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "19510"
+occurrence_id: "4918"
+short_title: "Garelli 1958"
+author: "Garelli, Paul"
+publication_year: "1958"
+title: "Nabonide"
+pages: "269-286"
+book: "Dictionnaire de la Bible. Supplément 31 (1958)"
+title: "Nabonide"
+previous_item: "19513"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12247"
+occurrence_id: "3773"
+short_title: "JTVI 57 (1925), 10-29"
+author: "Pinches, Theophilus G."
+publication_year: "1925"
+title: "The Worship of Idols in Assyrian History in Relation to Bible References"
+volume_no_: "57"
+pages: "10-29"
+journal: "Journal of the Transactions of the Victoria Institute"
+title: "The Worship of Idols in Assyrian History in Relation to Bible References"
+previous_item: "12250"
+---

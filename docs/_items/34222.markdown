@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34222"
+place_id: "994"
+parent_id: "61"
+place_name: "Hamarānu"
+title: "Hamarānu"
+previous_item: "34225"
+---

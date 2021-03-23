@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "20188"
+occurrence_id: "4136"
+short_title: "Jones 1993"
+author: "Jones, Alexander"
+publication_year: "1993"
+title: "Evidence for Babylonian Arithmetical Schemes in Greek Astronomy"
+pages: "77-94"
+editor: "Galter, Hannes , D."
+title: "Evidence for Babylonian Arithmetical Schemes in Greek Astronomy"
+previous_item: "20191"
+---

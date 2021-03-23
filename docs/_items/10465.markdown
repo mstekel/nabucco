@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10465"
+occurrence_id: "3172"
+short_title: "SAAB 7 (1994), 139-150"
+author: "Fales, Frederick Mario"
+publication_year: "1994"
+title: "West Semitic Names in the Šeh Hamad Texts"
+volume_no_: "7"
+pages: "139-150"
+journal: "State Archives of Assyria, Bulletin"
+title: "West Semitic Names in the Šeh Hamad Texts"
+previous_item: "10468"
+---

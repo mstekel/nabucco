@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11704"
+occurrence_id: "3852"
+short_title: "TIIAz 13 (1958), 80-107"
+author: "Jusifov, Ju.B."
+publication_year: "1958"
+title: "Das königliche Handwerk im Elam medisch-persischer Zeit (in Azerbaijani)"
+volume_no_: "13"
+pages: "80-107"
+journal: "Tpуды Инстиеута Истории АН Аэербайджанской (Tpudy Instieuta Istorii AN Aèerbajdžanskoj)"
+title: "Das königliche Handwerk im Elam medisch-persischer Zeit (in Azerbaijani)"
+previous_item: "11707"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9628"
+occurrence_id: "1685"
+short_title: "BiOr 49 (1992), 28-50"
+author: "van Driel, Govert"
+publication_year: "1992"
+title: "Neo-Babylonian Texts from Borsippa"
+volume_no_: "49"
+pages: "28-50"
+journal: "Bibliotheca Orientalis"
+title: "Neo-Babylonian Texts from Borsippa"
+previous_item: "9631"
+---

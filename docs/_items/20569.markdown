@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20569"
+occurrence_id: "5067"
+short_title: "Schmitt 1998a"
+author: "Schmitt, Rüdiger"
+publication_year: "1998"
+title: "Übersetzung im Dienst der Politik: Die mehrsprachigen Königsinschriften im Achaimenidenreich"
+pages: "157-165"
+editor: "Ölberg, Hermann , M."
+book: "Wort - Text - Sprache und Kultur, Fs. Hans Schmeja zum 65. Geburtstag (Innsbruck)"
+title: "Übersetzung im Dienst der Politik: Die mehrsprachigen Königsinschriften im Achaimenidenreich"
+previous_item: "20572"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9409"
+occurrence_id: "3528"
+short_title: "ZA 96 (2006), 278-280."
+author: "Kessler, Karlheinz"
+publication_year: "2006"
+title: "Rv. M.J.H. Linssen, The Cults of Uruk and Babylon. the Temple Ritual Texts as Evidence for Hellenistic Cult Practice (CM 25. Leiden and Boston, 2004) and Boiy, Tom: Late Achaemenid and Hellenistic Babylon (OLA 136. Leuven, 2004)."
+volume_no_: "96"
+pages: "278-280"
+journal: "Zeitschrift für Assyriologie"
+title: "Rv. M.J.H. Linssen, The Cults of Uruk and Babylon. the Temple Ritual Texts as Evidence for Hellenistic Cult Practice (CM 25. Leiden and Boston, 2004) and Boiy, Tom: Late Achaemenid and Hellenistic Babylon (OLA 136. Leuven, 2004)."
+previous_item: "9412"
+---

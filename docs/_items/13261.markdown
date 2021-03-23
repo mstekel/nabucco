@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13261"
+occurrence_id: "3225"
+short_title: "Sumer 13 (1955), 190-195"
+author: "Saggs, Henry W.F."
+publication_year: "1955"
+title: "A Cylinder from Tell al Lahm"
+volume_no_: "13"
+pages: "190-195"
+journal: "Sumer"
+title: "A Cylinder from Tell al Lahm"
+previous_item: "13264"
+---

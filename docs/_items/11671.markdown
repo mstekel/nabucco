@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11671"
+occurrence_id: "3676"
+short_title: "Eos 72 (1984 publ.1985), 423-429"
+author: "Zawadzki, Stefan"
+publication_year: "1984 publ. 1985"
+title: "Rv. D.B. Weisberg, Texts from the Time of Nebuchadnezzar (YOS 17)"
+volume_no_: "72"
+pages: "423-429"
+journal: "Eos. Commentarii Societatis Philologae Polonorum"
+title: "Rv. D.B. Weisberg, Texts from the Time of Nebuchadnezzar (YOS 17)"
+previous_item: "11674"
+---

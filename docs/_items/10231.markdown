@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10231"
+occurrence_id: "1912"
+short_title: "Iran 14 (1976), 61-78"
+author: "Zadok, Ran"
+publication_year: "1976"
+title: "On the Connections between Iran and Babylonia in the Sixth Century B.C."
+volume_no_: "14"
+pages: "61-78"
+journal: "Iran. Journal of the British Institute of Persian Studies"
+title: "On the Connections between Iran and Babylonia in the Sixth Century B.C."
+previous_item: "10234"
+---

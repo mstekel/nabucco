@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17761"
+occurrence_id: "318"
+short_title: "Benveniste 1966"
+author: "Benveniste, Émile "
+publication_year: "1966"
+title: "Titres et noms propres en Iranien ancien"
+title: "Titres et noms propres en Iranien ancien"
+previous_item: "17764"
+---

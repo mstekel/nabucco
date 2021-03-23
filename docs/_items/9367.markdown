@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9367"
+occurrence_id: "3300"
+short_title: "VT 11 (1961), 128-136"
+author: "Auerbach, Elias"
+publication_year: "1961"
+title: "Wann eroberte Nebukadnezar Jerusalem?"
+volume_no_: "11"
+pages: "128-136"
+journal: "Vetus Testamentum"
+title: "Wann eroberte Nebukadnezar Jerusalem?"
+previous_item: "9370"
+---

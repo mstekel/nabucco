@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8263"
+occurrence_id: "3394"
+short_title: "ZA 46 (1940), 53-82"
+author: "Weissbach, Franz, H."
+publication_year: "1940"
+title: "Die fünfte Kolumne der grossen Bisutūn-Inschrift"
+volume_no_: "46"
+pages: "53-82"
+journal: "Zeitschrift für Assyriologie"
+title: "Die fünfte Kolumne der grossen Bisutūn-Inschrift"
+previous_item: "8266"
+---

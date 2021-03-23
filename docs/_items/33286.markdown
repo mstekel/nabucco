@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33286"
+place_id: "202"
+parent_id: "40"
+place_name: "Bīt-ae[]"
+title: "Bīt-ae[]"
+previous_item: "33289"
+---

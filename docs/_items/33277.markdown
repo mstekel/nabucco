@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33277"
+place_id: "58"
+parent_id: "4"
+place_name: "Isin"
+title: "Isin"
+previous_item: "33280"
+---

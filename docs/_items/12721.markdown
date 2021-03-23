@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12721"
+occurrence_id: "3322"
+short_title: "WeOr 2 (1957), 322-337"
+author: "Eilers, Wilhelm"
+publication_year: "1957"
+title: "Akkad. kaspum 'Silber, Geld' and Sinnverwandtes"
+volume_no_: "2"
+pages: "322-337"
+journal: "Die Welt des Orients"
+title: "Akkad. kaspum 'Silber, Geld' and Sinnverwandtes"
+previous_item: "12724"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13504"
+occurrence_id: "1530"
+short_title: "Augustinianum 9 (1969), 305-361"
+author: "Vattioni, Francesco"
+publication_year: "1969"
+title: "Preliminari alle iscrizioni aramaiche"
+volume_no_: "9"
+pages: "305-361"
+journal: "Augustinianum"
+title: "Preliminari alle iscrizioni aramaiche"
+previous_item: "13507"
+---

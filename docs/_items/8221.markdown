@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8221"
+occurrence_id: "3168"
+short_title: "SAAB 2/1 (1988), 41-57"
+author: "Fales, Frederick Mario"
+publication_year: "1988"
+title: "Babylonian Slave-Documents in the State Archives of Remanni-Adad"
+volume_no_: "2/1."
+pages: "41-57"
+journal: "State Archives of Assyria, Bulletin"
+title: "Babylonian Slave-Documents in the State Archives of Remanni-Adad"
+previous_item: "8224"
+---

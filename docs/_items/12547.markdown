@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12547"
+occurrence_id: "2383"
+short_title: "Language 20 (1944), 1-10"
+author: "Kent, Roland G."
+publication_year: "1944"
+title: "The Old Persian Relative and Article"
+volume_no_: "20"
+pages: "1-10"
+journal: "Language"
+title: "The Old Persian Relative and Article"
+previous_item: "12550"
+---

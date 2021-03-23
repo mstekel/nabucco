@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "34807"
+place_id: "1441"
+parent_id: "43"
+place_name: "Alu-ša-Nabû"
+related_objects: "6251"
+title: "Alu-ša-Nabû"
+previous_item: "34810"
+---

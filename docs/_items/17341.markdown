@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17341"
+occurrence_id: "900"
+short_title: "Vargyas 2001"
+author: "Vargyas, Péter "
+publication_year: "2001"
+title: "A History of Babylonian Prices in the First Millennium BC. 1, HSAO 10 (Heidelberg)"
+title: "A History of Babylonian Prices in the First Millennium BC. 1, HSAO 10 (Heidelberg)"
+previous_item: "17344"
+---

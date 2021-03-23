@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20593"
+occurrence_id: "5195"
+short_title: "Röllig 1969"
+author: "Röllig, Wolfgang"
+publication_year: "1969"
+title: "Nitokris von Babylon"
+pages: "127-135"
+editor: "Stier, Hans Erich"
+book: "Beiträge zur Alten Geschichte und deren Nachleben, Fs.Alheim (Berlin)"
+title: "Nitokris von Babylon"
+previous_item: "20596"
+---

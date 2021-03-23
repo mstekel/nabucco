@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "14830"
+occurrence_id: "2662"
+short_title: "NABU 2004/56"
+author: "Jursa, Michael"
+title: "Neunzehn, syllabisch"
+volume_no_: "56"
+publication_year: "2004"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Neunzehn, syllabisch"
+previous_item: "14833"
+---

@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "15358"
+occurrence_id: "2485"
+short_title: "NABU 1991/79"
+author: "Beaulieu, Paul-A."
+title: "Egg Offerings for the Gods of Babylon"
+volume_no_: "79"
+publication_year: "1991"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Egg Offerings for the Gods of Babylon"
+previous_item: "15361"
+---

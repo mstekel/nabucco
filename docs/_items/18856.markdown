@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18856"
+occurrence_id: "4739"
+short_title: "Thomsen 2000"
+author: "Thomsen, Marie-Louise"
+publication_year: "2000"
+title: "The Identity of the Lion-Man"
+pages: "1049-1063"
+editor: "Graziani, Simonetta"
+book: "Studi sul vicino oriente antico dedicati alla memoria di Luigi Cagni (Napoli)"
+title: "The Identity of the Lion-Man"
+previous_item: "18859"
+---

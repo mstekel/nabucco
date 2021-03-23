@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "35029"
+place_id: "1443"
+parent_id: "55"
+place_name: "Bīt-Haremarē pīhat Dannu-Nergal"
+related_objects: "6259"
+title: "Bīt-Haremarē pīhat Dannu-Nergal"
+previous_item: "35032"
+---

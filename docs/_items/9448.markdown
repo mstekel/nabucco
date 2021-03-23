@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9448"
+occurrence_id: "3736"
+short_title: "JQR 74 (1984 publ. 1986), 294-297"
+author: "Zadok, Ran"
+publication_year: "1984 publ. 1986"
+title: "Some Jews in Babylonian Documents"
+volume_no_: "74"
+pages: "294-297"
+journal: "Jewish Quarterly Review"
+title: "Some Jews in Babylonian Documents"
+previous_item: "9451"
+---

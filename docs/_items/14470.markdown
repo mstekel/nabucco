@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14470"
+occurrence_id: "3729"
+short_title: "JHS 103 (1983), 156-159"
+author: "Sherwin-White, Susan"
+publication_year: "1983"
+title: "Ritual for a Seleucid King at Babylon?"
+volume_no_: "103"
+pages: "156-159"
+journal: "Journal of Hellenic Studies"
+title: "Ritual for a Seleucid King at Babylon?"
+previous_item: "14473"
+---

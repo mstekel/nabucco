@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9037"
+occurrence_id: "1522"
+short_title: "ASJ 19 (1997), 797-814"
+author: "Zadok, Ran"
+publication_year: "1997"
+title: "A Late Babylonian Boat Rental"
+volume_no_: "19"
+pages: "797-814"
+journal: "Acta Sumerologica"
+title: "A Late Babylonian Boat Rental"
+previous_item: "9040"
+---

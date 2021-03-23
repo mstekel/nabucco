@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20512"
+occurrence_id: "4763"
+short_title: "Stolper 1998"
+author: "Stolper, Matthew W."
+publication_year: "1998"
+title: "Inscribed in Egyptian"
+pages: "133-143"
+editor: "Kuhrt, Amélie"
+book: "Studies in Persian History, Fs. Lewis, (Leiden)"
+title: "Inscribed in Egyptian"
+previous_item: "20515"
+---

@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "14794"
+occurrence_id: "2468"
+short_title: "NABU 1989/65"
+author: "Beaulieu, Paul-A."
+publication_year: "1989"
+title: "The Capacity of themašīhu Measure in Neo-Babylonian Eanna"
+volume_no_: "65"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "The Capacity of themašīhu Measure in Neo-Babylonian Eanna"
+previous_item: "14797"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8488"
+occurrence_id: "1586"
+short_title: "BASOR 139 (1955), 16-17"
+author: "Albright, William F."
+publication_year: "1955"
+title: "Rv. F.W. König, Handbuch der chaldischen Inschriften"
+volume_no_: "139"
+pages: "16-17"
+journal: "Bulletin of the American Schools of Oriental Research"
+title: "Rv. F.W. König, Handbuch der chaldischen Inschriften"
+previous_item: "8491"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13576"
+occurrence_id: "1918"
+short_title: "Iran 18 (1980), 75-81"
+author: "Walker, Christopher,  Bromhead F."
+publication_year: "1980"
+title: "Elamite Inscriptions in the British Museum"
+volume_no_: "18"
+pages: "75-81"
+journal: "Iran. Journal of the British Institute of Persian Studies"
+title: "Elamite Inscriptions in the British Museum"
+previous_item: "13579"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8053"
+occurrence_id: "2262"
+short_title: "JNES 1 (1942), 415-423"
+author: "Kent, Roland G."
+publication_year: "1942"
+title: "Old Persian Texts. I: The Darius Suez Inscription, II: An Inscription of Darius II"
+volume_no_: "1"
+pages: "415-423"
+journal: "Journal of Near Eastern Studies"
+title: "Old Persian Texts. I: The Darius Suez Inscription, II: An Inscription of Darius II"
+previous_item: "8056"
+---

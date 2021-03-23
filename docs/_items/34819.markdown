@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "34819"
+place_id: "1513"
+parent_id: "1470"
+place_name: "Ālu-ša-BI.LU "
+related_objects: "7873"
+title: "Ālu-ša-BI.LU "
+previous_item: "34822"
+---

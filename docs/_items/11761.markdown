@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11761"
+occurrence_id: "1148"
+short_title: "AcAntHung 17 (1969), 105-107"
+author: "Diakonoff, Igor M."
+publication_year: "1969"
+title: "On the Interpretation of § 60 of the Bisutūn Inscription (Elamite Versian)"
+volume_no_: "17"
+pages: "105-107"
+journal: "Acta Antiqua Academiae Scientiarum Hungaricae"
+title: "On the Interpretation of § 60 of the Bisutūn Inscription (Elamite Versian)"
+previous_item: "11764"
+---

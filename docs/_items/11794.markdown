@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11794"
+occurrence_id: "1332"
+short_title: "AMI 11 (1978 publ. 1979), 7-12"
+author: "Wilhelm, Gernot"
+publication_year: "1978 publ. 1979"
+title: "Ist das Elamische eine Ergativsprache?"
+volume_no_: "11"
+pages: "7-12."
+journal: "Archäologische Mitteilungen aus Iran"
+title: "Ist das Elamische eine Ergativsprache?"
+previous_item: "11797"
+---

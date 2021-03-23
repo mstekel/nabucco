@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19129"
+occurrence_id: "5092"
+short_title: "Maul 1999"
+author: "Maul, Stefan M."
+publication_year: "1999"
+title: "Gottesdienst im Sonnenheiligtum zu Sippar"
+pages: "285-316"
+editor: "Böck, Barbara"
+book: "Munuscula Mesopotamica, Fs. Renger, AOAT 267 (Münster)"
+title: "Gottesdienst im Sonnenheiligtum zu Sippar"
+previous_item: "19132"
+---

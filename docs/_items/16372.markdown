@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16372"
+occurrence_id: "1907"
+short_title: "Incontri Linguistici 5 (1979), 61-72"
+author: "Schmitt, Rüdiger"
+publication_year: "1979"
+title: "Artaxerxes, Ardašir and Verwandte"
+volume_no_: "5"
+pages: "61-72"
+journal: "Incontri Linguistici"
+title: "Artaxerxes, Ardašir and Verwandte"
+previous_item: "16375"
+---

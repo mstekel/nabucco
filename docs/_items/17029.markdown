@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17029"
+occurrence_id: "563"
+short_title: "Salonen 1973"
+author: "Salonen, Armas "
+publication_year: "1973"
+title: "Vögel und Vogelfang im Alten Mesopotamien (Suomalaisen Tiedeakatemian Toimituksia), Annales Academiae Scientiarum Fennicae 180"
+title: "Vögel und Vogelfang im Alten Mesopotamien (Suomalaisen Tiedeakatemian Toimituksia), Annales Academiae Scientiarum Fennicae 180"
+previous_item: "17032"
+---

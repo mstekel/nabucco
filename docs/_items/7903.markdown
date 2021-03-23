@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7903"
+occurrence_id: "1455"
+short_title: "Archives internationales d´histoire des sciences 25 (1975), 181-222"
+author: "Aaboe, Asger"
+publication_year: "1975"
+title: "The Babylonian theory of Lunar Latitude and Eclipses according to System A"
+volume_no_: "25"
+pages: "181-222"
+journal: "Archives internationales d´histoire des sciences"
+title: "The Babylonian theory of Lunar Latitude and Eclipses according to System A"
+previous_item: "7906"
+---

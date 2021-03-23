@@ -1,0 +1,14 @@
+---
+layout: "tablet"
+slug: "30259"
+object_id: "7099"
+museum_no_: "BM 31290"
+publication: "CT 22"
+text_number: "151"
+period: "-"
+type_and_content: "Letters"
+publication_name: "CT 22 151"
+archive: "Egibi/Nūr-Sîn"
+title: "BM 31290"
+previous_item: "30262"
+---

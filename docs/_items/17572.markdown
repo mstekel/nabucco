@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17572"
+occurrence_id: "749"
+short_title: "Brinkman 1985"
+author: "Brinkman, John A. "
+publication_year: "1984 publ. 1985"
+title: "Prelude to Empire. Babylonian Society and Politics, 747-626 B.C., OPBF 7 (Philadelphia)"
+title: "Prelude to Empire. Babylonian Society and Politics, 747-626 B.C., OPBF 7 (Philadelphia)"
+previous_item: "17575"
+---

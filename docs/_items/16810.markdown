@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16810"
+occurrence_id: "796"
+short_title: "Grillot-Susini 1987"
+author: "Grillot-Susini, Françoise "
+publication_year: "1987"
+title: "Éléments de grammaire élamite, Editions Recherche sur les Civilisations, «Synthèse» no. 29 (Paris)"
+title: "Éléments de grammaire élamite, Editions Recherche sur les Civilisations, «Synthèse» no. 29 (Paris)"
+previous_item: "16813"
+---

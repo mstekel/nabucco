@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16597"
+occurrence_id: "228"
+short_title: "Moorey 1978"
+author: "Moorey, P. Roger S. "
+publication_year: "1978"
+title: "Kish Excavations 1923–1933. With a Microfiche Catalogue of the Objects in Oxford excavated by the Oxford – Field Museum, Chicago Expedition to Kish in Iraq, 1923–1933"
+title: "Kish Excavations 1923–1933. With a Microfiche Catalogue of the Objects in Oxford excavated by the Oxford – Field Museum, Chicago Expedition to Kish in Iraq, 1923–1933"
+previous_item: "16600"
+---

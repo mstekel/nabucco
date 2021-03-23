@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15493"
+occurrence_id: "3213"
+short_title: "StIr 10 (1981 publ. 1982), 323-324"
+author: "Itœ, Gikyo"
+publication_year: "1981 publ. 1982"
+title: "On Old Persian ’rt’c brzmniy"
+volume_no_: "10"
+pages: "323-324"
+journal: "Studia Iranica"
+title: "On Old Persian ’rt’c brzmniy"
+previous_item: "15496"
+---

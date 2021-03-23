@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10738"
+occurrence_id: "1654"
+short_title: "BiOr 29 (1972), 33-37"
+author: "Borger, Rykle"
+publication_year: "1972"
+title: "Rv. B. Landsberger, Brief des Bischofs von Esagila an König Asarhaddon"
+volume_no_: "29"
+pages: "33-37"
+journal: "Bibliotheca Orientalis"
+title: "Rv. B. Landsberger, Brief des Bischofs von Esagila an König Asarhaddon"
+previous_item: "10741"
+---

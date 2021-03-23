@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "10885"
+occurrence_id: "2444"
+short_title: "NABU 1987/72"
+author: "Deller, Karlheinz"
+publication_year: "1987"
+title: "Neo-Babylonian \"Practical\" Lu-Lists"
+volume_no_: "72"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Neo-Babylonian \"Practical\" Lu-Lists"
+previous_item: "10888"
+---

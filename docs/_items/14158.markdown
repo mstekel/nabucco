@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14158"
+occurrence_id: "2047"
+short_title: "JANES 16-17 (1984-1985 publ. 1987), 143-151"
+author: "Hallo, William W."
+publication_year: "1984-1985 publ. 1987"
+title: "The Concept of Eras from Nabonassar to Seleucus"
+volume_no_: "16-17"
+pages: "143-151"
+journal: "Journal of the Ancient Near Eastern Society of Columbia University"
+title: "The Concept of Eras from Nabonassar to Seleucus"
+previous_item: "14161"
+---

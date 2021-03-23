@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20578"
+occurrence_id: "5115"
+short_title: "Zawadzki 2014c"
+author: "Zawadzki, Stefan"
+publication_year: "2014"
+title: "If you have a sheep, you have all you need. Sheep Husbandry and Wool in the Economy of the Neo-Babylonian Ebabbar Temple at Sippar"
+pages: "428-452"
+editor: "Breniquet, Catherine"
+book: "Wool Economy in the Ancient Near East and the Aegean. From the Beginnings of Sheep Husbandry to Institutional Textile Industry (Oxford)"
+title: "If you have a sheep, you have all you need. Sheep Husbandry and Wool in the Economy of the Neo-Babylonian Ebabbar Temple at Sippar"
+previous_item: "20581"
+---

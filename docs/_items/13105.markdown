@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13105"
+occurrence_id: "2384"
+short_title: "Language 29 (1953), 66-68"
+author: "Paper, Herbert H."
+publication_year: "1953"
+title: "An Elamite Etymology (an-la-gi and ap-pan-la-um-me)"
+volume_no_: "29"
+pages: "66-68"
+journal: "Language"
+title: "An Elamite Etymology (an-la-gi and ap-pan-la-um-me)"
+previous_item: "13108"
+---

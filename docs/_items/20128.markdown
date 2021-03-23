@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "20128"
+occurrence_id: "4921"
+short_title: "Beaulieu 1984"
+author: "Beaulieu, Paul-A."
+publication_year: "1984"
+title: "La stèle funéraire de la mère de Nabonide"
+pages: "57-63"
+book: "Collected Papers of the Society for Near Eastern Studies, RTCA 2,  (Montreal)"
+title: "La stèle funéraire de la mère de Nabonide"
+previous_item: "20131"
+---

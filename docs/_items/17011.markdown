@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17011"
+occurrence_id: "457"
+short_title: "Katzenstein 1973"
+author: "Katzenstein, H. Jacob "
+publication_year: "1973"
+title: "The History of Tyre: From the Beginning of the Second Millennium B.C.E. until the Fall of the Neo-Babylonian Empire in 538 B.C.E."
+title: "The History of Tyre: From the Beginning of the Second Millennium B.C.E. until the Fall of the Neo-Babylonian Empire in 538 B.C.E."
+previous_item: "17014"
+---

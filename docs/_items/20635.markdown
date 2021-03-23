@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20635"
+occurrence_id: "4315"
+short_title: "Ehrenberg 1995"
+author: "Ehrenberg, Erica"
+publication_year: "1995"
+title: "Der uridimmu und seine Symbolstandarten"
+pages: "103-105"
+editor: "Hauptmann, H."
+book: "Beiträge zur Kulturgeschichte Vorderasiens, Fs. Boehmer (Mainz)"
+title: "Der uridimmu und seine Symbolstandarten"
+previous_item: "20638"
+---

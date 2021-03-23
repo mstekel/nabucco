@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12652"
+occurrence_id: "2952"
+short_title: "OrAn 27 (1988), 271-286"
+author: "Koch, Heidemarie"
+publication_year: "1988"
+title: "Die Begegnung zwischen Persern and Griechen"
+volume_no_: "27"
+pages: "271-286"
+journal: "Oriens Antiquus"
+title: "Die Begegnung zwischen Persern and Griechen"
+previous_item: "12655"
+---

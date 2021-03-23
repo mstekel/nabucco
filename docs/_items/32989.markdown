@@ -1,0 +1,17 @@
+---
+layout: "tablet"
+slug: "32989"
+object_id: "8843"
+museum_no_: "BM 43099"
+publication: "Jursa 1999"
+page_number: "224"
+period: "Each"
+type_and_content: "Indeterminate legal texts"
+paraphrase: "Fragment: The position of a <em>field seems to be described.</em>"
+imported: "Matthias Adelhofer (07/06/17)"
+publication_name: "Jursa 1999 "
+archive: "Šangû-Šamaš A"
+orientation: "Landscape"
+title: "BM 43099"
+previous_item: "32992"
+---

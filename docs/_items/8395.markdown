@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8395"
+occurrence_id: "218"
+short_title: "Durand, RA 75"
+author: "Durand, Jean-Marie"
+publication_year: "1981"
+title: "Note à propos de la date d’ABL 290"
+volume_no_: "75"
+pages: "181-85"
+journal: "Revue d’Assyriologie et d’Archéologie orientale"
+title: "Note à propos de la date d’ABL 290"
+previous_item: "8398"
+---

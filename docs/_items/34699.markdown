@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "34699"
+place_id: "1459"
+parent_id: "70"
+place_name: "Bīt-Ṭāb-Bēl"
+related_objects: "7997"
+title: "Bīt-Ṭāb-Bēl"
+previous_item: "34702"
+---

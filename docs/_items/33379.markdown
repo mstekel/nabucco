@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "33379"
+place_id: "1516"
+parent_id: "85"
+place_name: "Urāzu-mētanu"
+related_objects: "7790"
+title: "Urāzu-mētanu"
+previous_item: "33382"
+---

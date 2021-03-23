@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15898"
+occurrence_id: "2373"
+short_title: "Klio 66 (1984), 35-39"
+author: "Kreissig, Heinz"
+publication_year: "1984"
+title: "Eine beachtenswerte theorie zur Organisation altvorderorientalischer Tempelgemeinden im Achämenidenreich. Zu J. P. Weinbergs \"Bürger-Tempel-Gemeinde\" in Juda"
+volume_no_: "66"
+pages: "35-39"
+journal: "Klio"
+title: "Eine beachtenswerte theorie zur Organisation altvorderorientalischer Tempelgemeinden im Achämenidenreich. Zu J. P. Weinbergs \"Bürger-Tempel-Gemeinde\" in Juda"
+previous_item: "15901"
+---

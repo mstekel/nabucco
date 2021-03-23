@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "19786"
+occurrence_id: "4183"
+short_title: "Invernizzi 2001"
+author: "Invernizzi, Antonio"
+publication_year: "2001"
+title: "La Découverte d´Ur par Pietro Della Valle"
+pages: "244-248"
+editor: "Breniquet, Catherine"
+title: "La Découverte d´Ur par Pietro Della Valle"
+previous_item: "19789"
+---

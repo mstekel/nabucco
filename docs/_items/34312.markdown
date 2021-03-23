@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34312"
+place_id: "661"
+parent_id: "40"
+place_name: "Tamertu-ša-Humāja"
+title: "Tamertu-ša-Humāja"
+previous_item: "34315"
+---

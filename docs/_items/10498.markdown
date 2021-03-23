@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10498"
+occurrence_id: "3366"
+short_title: "WZKM 68 (1976 publ. 1977), 207-208"
+author: "Hunger, Hermann"
+publication_year: "1976 publ. 1977"
+title: "Rv. E. Salonen, Neubabylonische Urkunden verschiedenen Inhalts, I"
+volume_no_: "68"
+pages: "207-208"
+journal: "Wiener Zeitschrift für die Kunde des Morgenlandes"
+title: "Rv. E. Salonen, Neubabylonische Urkunden verschiedenen Inhalts, I"
+previous_item: "10501"
+---

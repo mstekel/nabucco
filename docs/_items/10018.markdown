@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10018"
+occurrence_id: "3785"
+short_title: "Les Dossiers d´Archéologie 210 (1995), 80-83"
+author: "Weisberg, David B."
+publication_year: "1995"
+title: "La culture de l´Empire néo-babylonien"
+volume_no_: "210"
+pages: "80-83"
+journal: "Les Dossiers d´Archéologie"
+title: "La culture de l´Empire néo-babylonien"
+previous_item: "10021"
+---

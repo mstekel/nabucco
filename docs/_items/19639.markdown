@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19639"
+occurrence_id: "4503"
+short_title: "Cseke 2014"
+author: "Cseke, Henrietta"
+publication_year: "2014"
+title: "The Economic Determination of the Changing Interests. A Survey Based on the Loan Documents of the Neo-Babylonian Sîn-uballiṭ Archive"
+pages: "557-578"
+editor: "Csabai, Zoltán"
+book: "Studies in Economic and Social History of the Ancient Near East in Memory of Péter Vargyas (Budapest)"
+title: "The Economic Determination of the Changing Interests. A Survey Based on the Loan Documents of the Neo-Babylonian Sîn-uballiṭ Archive"
+previous_item: "19642"
+---

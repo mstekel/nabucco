@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12403"
+occurrence_id: "1609"
+short_title: "BCSMS 32 (1997), 11-16"
+author: "Jones, Alexander"
+publication_year: "1997"
+title: "Babylonian Astronomy and Its Legacy"
+volume_no_: "32"
+pages: "11-16"
+journal: "Bulletin. The Canadian Society for Mesopotamian Studies"
+title: "Babylonian Astronomy and Its Legacy"
+previous_item: "12406"
+---

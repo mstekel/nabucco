@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10417"
+occurrence_id: "2913"
+short_title: "Or 63 (1994), 157-208"
+author: "Renger, Johannes"
+publication_year: "1994"
+title: "On Economic Structures in Ancient Mesopotamia"
+volume_no_: "63"
+pages: "157-208"
+journal: "Orientalia"
+title: "On Economic Structures in Ancient Mesopotamia"
+previous_item: "10420"
+---

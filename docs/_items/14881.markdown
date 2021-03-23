@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14881"
+occurrence_id: "2940"
+short_title: "Or 75 (2006), 289-291."
+author: "Dandamayev, Muhammed A."
+publication_year: "2006"
+title: "Rv. H. Baker, The archive of the Nappahu Family"
+volume_no_: "75"
+pages: "289-291"
+journal: "Orientalia"
+title: "Rv. H. Baker, The archive of the Nappahu Family"
+previous_item: "14884"
+---

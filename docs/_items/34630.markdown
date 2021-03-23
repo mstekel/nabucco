@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34630"
+place_id: "430"
+parent_id: "40"
+place_name: "Gālija"
+title: "Gālija"
+previous_item: "34633"
+---

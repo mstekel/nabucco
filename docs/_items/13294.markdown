@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13294"
+occurrence_id: "3403"
+short_title: "ZA 51 (1955), 225-236"
+author: "Eilers, Wilhelm"
+publication_year: "1955"
+title: "Altpersische Miszellen. I (zu pir-ra-tam4-ma)"
+volume_no_: "51"
+pages: "225-236"
+journal: "Zeitschrift für Assyriologie"
+title: "Altpersische Miszellen. I (zu pir-ra-tam4-ma)"
+previous_item: "13297"
+---

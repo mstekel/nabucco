@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12169"
+occurrence_id: "3353"
+short_title: "WZJ 19 (1970), 905-912"
+author: "Oelsner, Joachim"
+publication_year: "1970"
+title: "Eine Rechtsurkunde aus dem seleukidischen Uruk in der Hilprecht-Sammlung Vorderasiatischer Altertümer"
+volume_no_: "19"
+pages: "905-912"
+journal: "Wissenschaftliche Zeitschrift der Friedrich-Schiller-Universtät Jena"
+title: "Eine Rechtsurkunde aus dem seleukidischen Uruk in der Hilprecht-Sammlung Vorderasiatischer Altertümer"
+previous_item: "12172"
+---

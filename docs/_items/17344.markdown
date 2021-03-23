@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17344"
+occurrence_id: "917"
+short_title: "Zadok 1984"
+author: "Zadok, Ran "
+publication_year: "1984"
+title: "The Elamite Onomasticon, AION Suppl. 40 vol. 44/3 (Napoli)"
+title: "The Elamite Onomasticon, AION Suppl. 40 vol. 44/3 (Napoli)"
+previous_item: "17347"
+---

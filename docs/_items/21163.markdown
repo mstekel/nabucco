@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21163"
+occurrence_id: "4926"
+short_title: "Beaulieu 2000a"
+author: "Beaulieu, Paul-A."
+publication_year: "2000"
+title: "The Descendants of Sîn-lēqi-unninni"
+pages: "1-16"
+editor: "Neumann, Hans"
+book: "Assyriologica et Semitica, Fs. Oelsner. AOAT 252. (Münster)"
+title: "The Descendants of Sîn-lēqi-unninni"
+previous_item: "21166"
+---

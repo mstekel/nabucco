@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34300"
+place_id: "469"
+parent_id: "40"
+place_name: "Haṭallūa"
+title: "Haṭallūa"
+previous_item: "34303"
+---

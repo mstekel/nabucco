@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21067"
+occurrence_id: "4414"
+short_title: "Sarkisjan 1982"
+author: "Sarkisjan, Gagik Ch."
+publication_year: "1982"
+title: "Zum Problem des Herrschertitels in Uruk der Seleukidenzeit"
+pages: "333-335"
+editor: "Komoróczy, Géza"
+book: "Societies and Languages of the Ancient Near East Fs. Diakonoff (Warminster)"
+title: "Zum Problem des Herrschertitels in Uruk der Seleukidenzeit"
+previous_item: "21070"
+---

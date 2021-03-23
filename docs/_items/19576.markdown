@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "19576"
+occurrence_id: "4166"
+short_title: "Fuchs 2011"
+author: "Fuchs, Andreas"
+publication_year: "2011"
+title: "Das Osttigrisgebiet von Agum II. bis zu Darius I. (ca. 1500 bis 500 v. Chr.)"
+pages: "229-320"
+editor: "Miglus, Peter A."
+title: "Das Osttigrisgebiet von Agum II. bis zu Darius I. (ca. 1500 bis 500 v. Chr.)"
+previous_item: "19579"
+---

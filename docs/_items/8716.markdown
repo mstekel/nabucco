@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8716"
+occurrence_id: "2812"
+short_title: "OLZ 84 (1989), 672-676"
+author: "Oelsner, Joachim"
+publication_year: "1989"
+title: "Rv. A.J. Sachs and H. Hunger, Astronomical Diaries and related Texts from Babylonia. Vol 1: Diaries from 652 B.C. to 262 B.C. (Wien 1988)"
+volume_no_: "84"
+pages: "672-676"
+journal: "Orientalistische Literaturzeitung"
+title: "Rv. A.J. Sachs and H. Hunger, Astronomical Diaries and related Texts from Babylonia. Vol 1: Diaries from 652 B.C. to 262 B.C. (Wien 1988)"
+previous_item: "8719"
+---

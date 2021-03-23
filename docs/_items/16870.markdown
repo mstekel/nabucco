@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16870"
+occurrence_id: "362"
+short_title: "Cowley 1923"
+author: "Cowley, Arthur E. "
+publication_year: "1923"
+title: "Aramaic Papyri of the Fifth Century B.C."
+title: "Aramaic Papyri of the Fifth Century B.C."
+previous_item: "16873"
+---

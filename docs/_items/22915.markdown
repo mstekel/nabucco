@@ -1,0 +1,9 @@
+---
+layout: "archive"
+slug: "22915"
+archive_id: "433"
+archive_name: "Ubāru/Anu-ahhē-iqīša"
+is_part_of: "Uruk"
+title: "Ubāru/Anu-ahhē-iqīša"
+previous_item: "22918"
+---

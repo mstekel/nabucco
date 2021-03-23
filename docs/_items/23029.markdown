@@ -1,0 +1,9 @@
+---
+layout: "archive"
+slug: "23029"
+archive_id: "340"
+archive_name: "Mušēzib"
+is_part_of: "Sippar"
+title: "Mušēzib"
+previous_item: "23032"
+---

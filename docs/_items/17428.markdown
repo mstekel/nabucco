@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17428"
+occurrence_id: "635"
+short_title: "Widengren 1961"
+author: "Widengren, Geo "
+publication_year: "1961"
+title: "Iranische Geisteswelt von den Anfängen bis zum Islam"
+title: "Iranische Geisteswelt von den Anfängen bis zum Islam"
+previous_item: "17431"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7915"
+occurrence_id: "1520"
+short_title: "ASJ 17 (1995), 1-14"
+author: "Beaulieu, Paul-A."
+publication_year: "1995"
+title: "An Excerpt from a Menology with Reverse Writing"
+volume_no_: "17"
+pages: "1-14"
+journal: "Acta Sumerologica"
+title: "An Excerpt from a Menology with Reverse Writing"
+previous_item: "7918"
+---

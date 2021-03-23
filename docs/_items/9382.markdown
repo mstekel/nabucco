@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9382"
+occurrence_id: "3380"
+short_title: "WZKM 98 (2008), 81-94."
+author: "Hackl, Johannes"
+publication_year: "2008"
+title: "Irreale Sätze in den spB Briefen."
+volume_no_: "98"
+pages: "81-94"
+journal: "Wiener Zeitschrift für die Kunde des Morgenlandes"
+title: "Irreale Sätze in den spB Briefen."
+previous_item: "9385"
+---

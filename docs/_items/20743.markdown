@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20743"
+occurrence_id: "4892"
+short_title: "Cholidis 2002"
+author: "Cholidis, Nadja"
+publication_year: "2002"
+title: "Kyros und die kriegerische Ištar? Kritische Bemerkungen zu einer \"altorientalischen\" Steintafel"
+pages: "105-113"
+editor: "Schaudig, Hanspeter"
+book: "Ex Mesopotamia et Syria Lux. Fs. Dietrich. AOAT 281 (Münster)"
+title: "Kyros und die kriegerische Ištar? Kritische Bemerkungen zu einer \"altorientalischen\" Steintafel"
+previous_item: "20746"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7771"
+occurrence_id: "3765"
+short_title: "JSS 30 (1985 publ. 1986), 169-180"
+author: "McEwan, Gilbert J.P."
+publication_year: "1985 publ. 1986"
+title: "The First Seleucid Document from Babylonia"
+volume_no_: "30"
+pages: "169-180"
+journal: "Journal of Semitic Studies"
+title: "The First Seleucid Document from Babylonia"
+previous_item: "7774"
+---

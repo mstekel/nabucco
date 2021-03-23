@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34948"
+place_id: "199"
+parent_id: "40"
+place_name: "Bīt-ahi"
+title: "Bīt-ahi"
+previous_item: "34951"
+---

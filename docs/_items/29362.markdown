@@ -1,0 +1,14 @@
+---
+layout: "tablet"
+slug: "29362"
+object_id: "7092"
+museum_no_: "BM 33076"
+publication: "CT 22"
+text_number: "127 "
+period: "-"
+type_and_content: "Letters"
+publication_name: "CT 22 127 "
+archive: "Egibi/Nūr-Sîn"
+title: "BM 33076"
+previous_item: "29365"
+---

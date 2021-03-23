@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9676"
+occurrence_id: "1943"
+short_title: "Iraq 12 (1959), 44-51"
+author: "Robinson, Edward Stanley G."
+publication_year: "1959"
+title: "A \"Silversmih´s Hoard\" from Mesopotamia"
+volume_no_: "12"
+pages: "44-51"
+journal: "Iraq"
+title: "A \"Silversmih´s Hoard\" from Mesopotamia"
+previous_item: "9679"
+---

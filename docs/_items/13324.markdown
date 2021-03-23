@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13324"
+occurrence_id: "3567"
+short_title: "ZDMG 91 (1937), 88-146"
+author: "Thieme, Paul"
+publication_year: "1937"
+title: "Über einige persische Wörter im Sanskrit,"
+volume_no_: "91"
+pages: "88-146"
+journal: "Zeitschrift der Deutschen Morgenländischen Gesellschaft"
+title: "Über einige persische Wörter im Sanskrit,"
+previous_item: "13327"
+---

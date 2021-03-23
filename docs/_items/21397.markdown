@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "21397"
+occurrence_id: "5071"
+short_title: "Humphreys 1969"
+author: "Humphreys, S.C."
+publication_year: "1969"
+title: "History, Economics and Anthropology"
+pages: "165-212"
+book: "The Work of Karl Polanyi: History and Theory 8 (Ann Arbor)"
+title: "History, Economics and Anthropology"
+previous_item: "21400"
+---

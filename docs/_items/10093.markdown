@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10093"
+occurrence_id: "1161"
+short_title: "AcOr 62 (2001), 22-64"
+author: "Hayajneh, Hani"
+publication_year: "2001"
+title: "Der babylonische König Nabonid und der RBSRS in einigen neu publizierten frühnordarabischen Inschriften aus Taymā’"
+volume_no_: "62"
+pages: "22-64"
+journal: "Acta Orientalia"
+title: "Der babylonische König Nabonid und der RBSRS in einigen neu publizierten frühnordarabischen Inschriften aus Taymā’"
+previous_item: "10096"
+---

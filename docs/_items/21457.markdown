@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21457"
+occurrence_id: "4287"
+short_title: "Vanderhooft 2003"
+author: "Vanderhooft, David S."
+publication_year: "2003"
+title: "Babylonian Strategies of Imperial Control in the West: Royal Practice and Rethoric"
+pages: "263-284"
+editor: "Blenkinsopp, Joseph "
+book: "Judah and the Judeans in the Neo-Babylonian Period (Winona Lake)"
+title: "Babylonian Strategies of Imperial Control in the West: Royal Practice and Rethoric"
+previous_item: "21460"
+---

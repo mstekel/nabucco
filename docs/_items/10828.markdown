@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10828"
+occurrence_id: "2137"
+short_title: "JAOS 99 (1979 publ. 1980), 480-481"
+author: "Sack, Ronald H."
+publication_year: "1979 publ. 1980"
+title: "Rv. E. Salonen, Neubabylonische Urkunden verschiedenen Inhalts, II"
+volume_no_: "99"
+pages: "480-481"
+journal: "Journal of the American Oriental Society"
+title: "Rv. E. Salonen, Neubabylonische Urkunden verschiedenen Inhalts, II"
+previous_item: "10831"
+---

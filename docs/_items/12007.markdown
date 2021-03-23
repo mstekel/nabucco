@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "12007"
+occurrence_id: "2479"
+short_title: "NABU 1990/93"
+author: "Beaulieu, Paul-A."
+publication_year: "1990"
+title: "Cuts of Meat for King Nabuchadnezzar"
+volume_no_: "93"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Cuts of Meat for King Nabuchadnezzar"
+previous_item: "12010"
+---

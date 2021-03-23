@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17188"
+occurrence_id: "764"
+short_title: "Dandamayev 1976"
+author: "Dandamayev, Muhammed A. "
+publication_year: "1976 [German edition 1963a]"
+title: "Persien unter den ersten Achämeniden (6. Jahrhundert v.Chr.), Beiträge zur Iranistik 8 (Wiesbaden)"
+title: "Persien unter den ersten Achämeniden (6. Jahrhundert v.Chr.), Beiträge zur Iranistik 8 (Wiesbaden)"
+previous_item: "17191"
+---

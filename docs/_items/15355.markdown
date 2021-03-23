@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "15355"
+occurrence_id: "2469"
+short_title: "NABU 1989/66"
+author: "Beaulieu, Paul-A."
+publication_year: "1989"
+title: "Agade in the Late Babylonian Period"
+volume_no_: "66"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Agade in the Late Babylonian Period"
+previous_item: "15358"
+---

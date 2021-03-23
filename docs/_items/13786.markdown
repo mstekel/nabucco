@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13786"
+occurrence_id: "3050"
+short_title: "RA 70 (1976 publ. 1977), 183-184"
+author: "Brinkman, John A."
+publication_year: "1976 publ. 1977"
+title: "A Note on the Shamash Cult at Sippar in theElevenh Century B.C."
+volume_no_: "70"
+pages: "183-184"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "A Note on the Shamash Cult at Sippar in theElevenh Century B.C."
+previous_item: "13789"
+---

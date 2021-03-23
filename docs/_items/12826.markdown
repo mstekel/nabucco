@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12826"
+occurrence_id: "3886"
+short_title: "ZOA 2 (2009), 358-363"
+author: "Al-Said, Said F."
+publication_year: "2009"
+title: "Eine neuentdeckte Erwähnung des Königs Nabonid in den hamudischen Inschriften"
+volume_no_: "2"
+pages: "358-363"
+journal: "Zeitschrift für Orient-Archäologie"
+title: "Eine neuentdeckte Erwähnung des Königs Nabonid in den hamudischen Inschriften"
+previous_item: "12829"
+---

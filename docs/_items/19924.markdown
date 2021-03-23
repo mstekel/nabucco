@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19924"
+occurrence_id: "4920"
+short_title: "Naster 1980"
+author: "Naster, Paul"
+publication_year: "1980"
+title: "Geboortepremies en tewerkstelling von jongeren te Persepolis (van Darius I tot Artaxerxes I)"
+pages: "19-27"
+editor: "Théodoridès, Aristide"
+book: "L´Enfant dans les civilisations orientales (Leuven)"
+title: "Geboortepremies en tewerkstelling von jongeren te Persepolis (van Darius I tot Artaxerxes I)"
+previous_item: "19927"
+---

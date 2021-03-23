@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18835"
+occurrence_id: "4627"
+short_title: "Oates 1991"
+author: "Oates, John"
+publication_year: "1991"
+title: "The Fall of Assyria (635-609 B.C.)"
+pages: "162-193"
+editor: "Walker, Christopher,  Bromhead F."
+book: "The Cambridge Ancient History. CAH III/2 (1991),"
+title: "The Fall of Assyria (635-609 B.C.)"
+previous_item: "18838"
+---

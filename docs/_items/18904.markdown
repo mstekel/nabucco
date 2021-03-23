@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18904"
+occurrence_id: "4995"
+short_title: "Dougherty 1942"
+author: "Dougherty, Raymond Ph."
+publication_year: "1942"
+title: "The names of two Aramean scribes stamped upon clay bullae"
+pages: "94-97"
+editor: "Rostovtzeff, Michael I."
+book: "Seleucid Babylonia, Excursus II, YClSt 3 (New Haven)"
+title: "The names of two Aramean scribes stamped upon clay bullae"
+previous_item: "18907"
+---

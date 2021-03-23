@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33658"
+place_id: "835"
+parent_id: "61"
+place_name: "Bīrānāti"
+title: "Bīrānāti"
+previous_item: "33661"
+---

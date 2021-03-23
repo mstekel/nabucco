@@ -1,0 +1,10 @@
+---
+layout: "archive"
+slug: "23014"
+archive_id: "88"
+archive_name: "Esagilāya"
+is_part_of: "Babylon"
+related_objects: "5551"
+title: "Esagilāya"
+previous_item: "23017"
+---

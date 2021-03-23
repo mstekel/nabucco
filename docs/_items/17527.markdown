@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17527"
+occurrence_id: "462"
+short_title: "King 1902 (STC)"
+author: "King, Leonard W. "
+publication_year: "1902"
+title: "The seven tablets of creation, 2 Vol."
+title: "The seven tablets of creation, 2 Vol."
+previous_item: "17530"
+---

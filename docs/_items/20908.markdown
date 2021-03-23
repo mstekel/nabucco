@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20908"
+occurrence_id: "4669"
+short_title: "Kessler 2002"
+author: "Kessler, Karlheinz"
+publication_year: "2002"
+title: "harinê - Zu einer problematischen Passage der Nabonid-Chronik"
+pages: "389-393"
+editor: "Bobzin, Hartmut"
+book: "\"Sprich doch mit deinen Knechten aramäisch, wir verstehen es!\", 60 Beiträge zur Semitistik, Festschrift für Otto Jastrow zum 60. Geburtstag (Wiesbaden)"
+title: "harinê - Zu einer problematischen Passage der Nabonid-Chronik"
+previous_item: "20911"
+---

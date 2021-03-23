@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19945"
+occurrence_id: "5032"
+short_title: "van der Spek, van Leeuwen and van Zanden 2015"
+author: "van Leeuwen, Bas"
+publication_year: "2015"
+title: "Markets from Babylon to Belfast: some concluding remarks"
+pages: "529-544"
+editor: "van Leeuwen, Bas"
+book: "A History of Market Performance. From Ancient Babylonia to the Modern World, Routledge Explorations in Economic History (New York)"
+title: "Markets from Babylon to Belfast: some concluding remarks"
+previous_item: "19948"
+---

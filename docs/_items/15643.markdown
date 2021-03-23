@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "15643"
+occurrence_id: "4020"
+short_title: "JNES 74/2 (2015), 197-210"
+author: "Sandowicz, Malgorzata"
+publication_year: "2015"
+title: "More on the End of the Neo-Babylonian Empire"
+volume_no_: "74/2"
+pages: "197-210"
+title: "More on the End of the Neo-Babylonian Empire"
+previous_item: "15646"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10492"
+occurrence_id: "3334"
+short_title: "WeOr 29 (1998), 109-123"
+author: "Koch, Johannes"
+publication_year: "1998"
+title: "Zur Bedeutung von ina UGU ṭur-ri ... in zwei Astronomical Diaries"
+volume_no_: "29"
+pages: "109-123"
+journal: "Die Welt des Orients"
+title: "Zur Bedeutung von ina UGU ṭur-ri ... in zwei Astronomical Diaries"
+previous_item: "10495"
+---

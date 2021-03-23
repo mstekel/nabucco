@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "21226"
+occurrence_id: "4157"
+short_title: "Kuhrt 2010a"
+author: "Kuhrt, Amélie"
+publication_year: "2010"
+title: "Xerxes and the Babylonian Temples: A Restatement of the Case"
+pages: "491-494"
+editor: "Curtis, John"
+title: "Xerxes and the Babylonian Temples: A Restatement of the Case"
+previous_item: "21229"
+---

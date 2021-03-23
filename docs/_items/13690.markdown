@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "13690"
+occurrence_id: "2531"
+short_title: "NABU 1995/57"
+author: "Zawadzki, Stefan"
+title: "Two «Missing» Documents from the British Museum Collection 83-1-18 Rediscovered"
+volume_no_: "57"
+publication_year: "1995"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Two «Missing» Documents from the British Museum Collection 83-1-18 Rediscovered"
+previous_item: "13693"
+---

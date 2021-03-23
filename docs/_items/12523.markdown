@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12523"
+occurrence_id: "2254"
+short_title: "JHS 81 (1961), 153-155"
+author: "Farell, W.J."
+publication_year: "1961"
+title: "A Revised Itinerary of the Route Followed by Cyrus the Younger through Syria, 401 B.C."
+volume_no_: "81"
+pages: "153-155"
+journal: "Journal of Hellenic Studies"
+title: "A Revised Itinerary of the Route Followed by Cyrus the Younger through Syria, 401 B.C."
+previous_item: "12526"
+---

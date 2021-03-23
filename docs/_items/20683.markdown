@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20683"
+occurrence_id: "4572"
+short_title: "Oelsner 1988"
+author: "Oelsner, Joachim"
+publication_year: "1988"
+title: "Grandbesitz/Grandeigentum im achämenidischen and seleukidischen Babylonien"
+pages: "117-134"
+editor: "Brentjes, Burchard"
+book: "Das Grundeigentum in Mesopotamien (Berlin)"
+title: "Grandbesitz/Grandeigentum im achämenidischen and seleukidischen Babylonien"
+previous_item: "20686"
+---

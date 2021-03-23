@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "10891"
+occurrence_id: "2477"
+short_title: "NABU 1990/7"
+author: "Stolper, Matthew W."
+publication_year: "1990"
+title: "In the Chronicle of the Diadochi r. 3f."
+volume_no_: "7"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "In the Chronicle of the Diadochi r. 3f."
+previous_item: "10894"
+---

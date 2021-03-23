@@ -1,0 +1,10 @@
+---
+layout: "archive"
+slug: "22819"
+archive_id: "361"
+archive_name: "Sîn-uballiṭ"
+is_part_of: "Ur"
+related_objects: "2790"
+title: "Sîn-uballiṭ"
+previous_item: "22822"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12421"
+occurrence_id: "1707"
+short_title: "BiOr 56 (1999), 273-307"
+author: "Zawadzki, Stefan"
+publication_year: "1999"
+title: "Rv. A.C.V.M. Bongenaar. The Neo-Babylonian Ebabbar Temple at Sippar: its Administration and its Prosopography, PIHANS 80 (Leiden 1997)"
+volume_no_: "56"
+pages: "273-307"
+journal: "Bibliotheca Orientalis"
+title: "Rv. A.C.V.M. Bongenaar. The Neo-Babylonian Ebabbar Temple at Sippar: its Administration and its Prosopography, PIHANS 80 (Leiden 1997)"
+previous_item: "12424"
+---

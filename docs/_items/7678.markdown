@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7678"
+occurrence_id: "3263"
+short_title: "Transeuphratène 18 (1999), 144"
+author: "Elayi, Josette"
+publication_year: "1999"
+title: "Rv. J. Andreau, P. Briant and R. Descat, Économie antique. Prix et formation des prix dans les économies antiques (Entretiens d´Archéologie et d´Histoire 3)"
+volume_no_: "18"
+pages: "144"
+journal: "Transeuphratène"
+title: "Rv. J. Andreau, P. Briant and R. Descat, Économie antique. Prix et formation des prix dans les économies antiques (Entretiens d´Archéologie et d´Histoire 3)"
+previous_item: "7681"
+---

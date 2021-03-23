@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16519"
+occurrence_id: "575"
+short_title: "Sherwin-White and Kuhrt  1993"
+author: "Kuhrt, Amélie "
+publication_year: "1993"
+title: "From Samarkhand to Sardis. A New Approach to the Seleucid Empire"
+title: "From Samarkhand to Sardis. A New Approach to the Seleucid Empire"
+previous_item: "16522"
+---

@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "34027"
+place_id: "1416"
+parent_id: "61"
+place_name: "Ša-ṣuru-Adad"
+related_objects: "5401"
+title: "Ša-ṣuru-Adad"
+previous_item: "34030"
+---

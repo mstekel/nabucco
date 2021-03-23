@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "34891"
+place_id: "1060"
+parent_id: "61"
+place_name: "Huṣṣēti-ša-Bazūzu"
+related_objects: "8073"
+title: "Huṣṣēti-ša-Bazūzu"
+previous_item: "34894"
+---

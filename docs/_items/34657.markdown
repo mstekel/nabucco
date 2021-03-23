@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34657"
+place_id: "862"
+parent_id: "61"
+place_name: "Bīt-Guppā"
+title: "Bīt-Guppā"
+previous_item: "34660"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8485"
+occurrence_id: "1570"
+short_title: "BaM 29 (1998), 95-330"
+author: "Allinger-Csollich, Wilfried"
+publication_year: "1998"
+title: "Birs Nimrud II. \"Tieftempel\" - \"Hochtempel\" (Vergleichende Studien: Borsippa - Babylon)"
+volume_no_: "29"
+pages: "95-330"
+journal: "Baghdader Mitteilungen"
+title: "Birs Nimrud II. \"Tieftempel\" - \"Hochtempel\" (Vergleichende Studien: Borsippa - Babylon)"
+previous_item: "8488"
+---

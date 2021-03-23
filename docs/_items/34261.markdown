@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "34261"
+place_id: "1492"
+parent_id: "37"
+place_name: "Nāru-eššu (Babylon)"
+related_objects: "7611"
+title: "Nāru-eššu (Babylon)"
+previous_item: "34264"
+---

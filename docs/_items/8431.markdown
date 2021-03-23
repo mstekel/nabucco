@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8431"
+occurrence_id: "1276"
+short_title: "AION 54 (1994), 126-127"
+author: "Giovinazzo, Grazia"
+publication_year: "1994"
+title: "Rv. F. Vallat, Les noms géographiques des sources suso-élamites (RGTC 11, 1993)"
+volume_no_: "54"
+pages: "126-127"
+journal: "Annali dell'Istituto Orientale di Napoli"
+title: "Rv. F. Vallat, Les noms géographiques des sources suso-élamites (RGTC 11, 1993)"
+previous_item: "8434"
+---

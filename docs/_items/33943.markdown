@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33943"
+place_id: "76"
+parent_id: "4"
+place_name: "Dēr (NE Babylonia)"
+title: "Dēr (NE Babylonia)"
+previous_item: "33946"
+---

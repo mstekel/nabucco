@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9013"
+occurrence_id: "1393"
+short_title: "AnTan 16 (1969), 203-204"
+author: "Harmatta, János"
+publication_year: "1969"
+title: "Der Beiname des Dareios III., * Kodomannos/Codomannus, sei aus dem altpers. *Katu-manah, \"der mit kämpferischer Seele\", entlehnt und bedeutet eine Anerkennung des Königs von persischer Seite"
+volume_no_: "16"
+pages: "203-204"
+journal: "Antik Tanulmányok"
+title: "Der Beiname des Dareios III., * Kodomannos/Codomannus, sei aus dem altpers. *Katu-manah, \"der mit kämpferischer Seele\", entlehnt und bedeutet eine Anerkennung des Königs von persischer Seite"
+previous_item: "9016"
+---

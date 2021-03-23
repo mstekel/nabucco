@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "8929"
+occurrence_id: "3959"
+short_title: "Kaskal 8 (2011), 177-221"
+author: "Jankovic, Bojana"
+publication_year: "2011"
+title: "Das Brief-Dossier des Šumu-ukīn"
+volume_no_: "8"
+pages: "177-221"
+title: "Das Brief-Dossier des Šumu-ukīn"
+previous_item: "8932"
+---

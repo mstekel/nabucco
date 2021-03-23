@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34099"
+place_id: "799"
+parent_id: "61"
+place_name: "Bāb-Nāri-ša-Aššurīti"
+title: "Bāb-Nāri-ša-Aššurīti"
+previous_item: "34102"
+---

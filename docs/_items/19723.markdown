@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19723"
+occurrence_id: "4951"
+short_title: "Huber and Britton 2007"
+author: "Britton, John P."
+publication_year: "2007"
+title: "A Lunar Six Text from 591 B.C."
+pages: "213-217"
+editor: "Köhbach, Markus "
+book: "Festschrift für Hermann Hunger zum 65. Geburtstag: gewidmet von seinen Freunden, Kollegen und Schülern, WZKM 97 (Wien)"
+title: "A Lunar Six Text from 591 B.C."
+previous_item: "19726"
+---

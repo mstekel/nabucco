@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19753"
+occurrence_id: "5111"
+short_title: "Zawadzki 2010a"
+author: "Zawadzki, Stefan"
+publication_year: "2010"
+title: "The Portrait of Nabonidus and Cyrus in Their(?) Chronicle: When and Why the Present Version Was Composed"
+pages: "142-154"
+editor: "Charvát, Petr"
+book: "Who Was King? Who Was Not King? The Rulers and the Ruled in the Ancient Near East (Prague)"
+title: "The Portrait of Nabonidus and Cyrus in Their(?) Chronicle: When and Why the Present Version Was Composed"
+previous_item: "19756"
+---

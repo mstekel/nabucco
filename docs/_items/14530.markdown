@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "14530"
+occurrence_id: "4050"
+short_title: "JNES 71/2 (2012), 275-284"
+author: "Wells, Bruce"
+publication_year: "2012"
+title: "The Grammar of the Neo-Babylonian Assertory Oath"
+volume_no_: "71/2"
+pages: "275-284"
+title: "The Grammar of the Neo-Babylonian Assertory Oath"
+previous_item: "14533"
+---

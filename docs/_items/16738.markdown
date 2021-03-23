@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16738"
+occurrence_id: "344"
+short_title: "Brunner 1959"
+author: "Brunner, Gottfried "
+publication_year: "1959"
+title: "Der Nabuchodonosor des Buches Judith. Beitrag zur Geschichte Israels nach dem Exil und in den ersten Regierungsjahren Darius´ I."
+title: "Der Nabuchodonosor des Buches Judith. Beitrag zur Geschichte Israels nach dem Exil und in den ersten Regierungsjahren Darius´ I."
+previous_item: "16741"
+---

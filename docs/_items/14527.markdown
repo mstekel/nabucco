@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "14527"
+occurrence_id: "4034"
+short_title: "Palamedes 7 (2012), 25-42"
+author: "Tarasewicz, Radosław"
+publication_year: "2012"
+title: "On the ḫazannu in the Neo-Babylonian and Persian Periods"
+volume_no_: "7"
+pages: "25-42"
+title: "On the ḫazannu in the Neo-Babylonian and Persian Periods"
+previous_item: "14530"
+---

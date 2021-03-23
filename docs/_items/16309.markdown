@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16309"
+occurrence_id: "1568"
+short_title: "BaM 25 (1994), 601-604"
+author: "Livingstone, Alasdair"
+publication_year: "1994"
+title: "Late Babylonian as a Matter of Fact. A Reply to J. McGinnis´ Review of E. Gehlken, Uruk, Spätbabylonische Wirtschaftstexte aus dem Eanna-Archiv, Teil I, Texte verschiedenen Inhalts (Berlin 1990)"
+volume_no_: "25"
+pages: "601-604"
+journal: "Baghdader Mitteilungen"
+title: "Late Babylonian as a Matter of Fact. A Reply to J. McGinnis´ Review of E. Gehlken, Uruk, Spätbabylonische Wirtschaftstexte aus dem Eanna-Archiv, Teil I, Texte verschiedenen Inhalts (Berlin 1990)"
+previous_item: "16312"
+---

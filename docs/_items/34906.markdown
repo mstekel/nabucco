@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34906"
+place_id: "1303"
+parent_id: "61"
+place_name: "Til-agurrēti"
+title: "Til-agurrēti"
+previous_item: "34909"
+---

@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "9991"
+occurrence_id: "3641"
+short_title: "BLOT (1983), 101"
+author: "Lambert, Wilfred G."
+publication_year: "1983"
+title: "Rv. G.J.P. McEwan, Priest and Temple in Hellenistic Babylonia (FAOS 4, 1981)"
+pages: "101"
+journal: "Book List. Society for Old Testament Studies (Llansadwrn, Menai Bridge)"
+title: "Rv. G.J.P. McEwan, Priest and Temple in Hellenistic Babylonia (FAOS 4, 1981)"
+previous_item: "9994"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15505"
+occurrence_id: "3277"
+short_title: "UCP 10/2 (1940), 257-264"
+author: "Lutz, Henry F."
+publication_year: "1940"
+title: "A Recorded Deposition concerning Presentment for Tax Payment,"
+volume_no_: "10/II."
+pages: "257-264"
+journal: "University of California Publications"
+title: "A Recorded Deposition concerning Presentment for Tax Payment,"
+previous_item: "15508"
+---

@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34783"
+place_id: "1105"
+parent_id: "61"
+place_name: "Kapri-ša-nāqidāti"
+title: "Kapri-ša-nāqidāti"
+previous_item: "34786"
+---

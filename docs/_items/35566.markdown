@@ -1,0 +1,10 @@
+---
+layout: "glossary"
+slug: "35566"
+concept_id: "1267"
+label: "Security for debt"
+hierarchy: "Content type"
+type: "172"
+title: "Security for debt"
+previous_item: "35569"
+---

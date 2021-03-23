@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11899"
+occurrence_id: "1899"
+short_title: "IEJ 13 (1963), 69-73"
+author: "Speiser, Ephraim A."
+publication_year: "1963"
+title: "Unrecognized Dedication,"
+volume_no_: "13"
+pages: "69-73"
+journal: "Israel Exploration Journal"
+title: "Unrecognized Dedication,"
+previous_item: "11902"
+---

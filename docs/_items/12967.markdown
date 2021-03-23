@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12967"
+occurrence_id: "1642"
+short_title: "BiOr 17 (1960), 79-86"
+author: "Erdmann, Kurt"
+publication_year: "1960"
+title: "Rv. E.F. Schmidt, Persepolis II: Contents of theTreasury and other Discoveries"
+volume_no_: "17"
+pages: "79-86"
+journal: "Bibliotheca Orientalis"
+title: "Rv. E.F. Schmidt, Persepolis II: Contents of theTreasury and other Discoveries"
+previous_item: "12970"
+---

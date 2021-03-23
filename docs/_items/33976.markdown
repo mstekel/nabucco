@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33976"
+place_id: "604"
+parent_id: "40"
+place_name: "Puṣāja"
+title: "Puṣāja"
+previous_item: "33979"
+---

@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17866"
+occurrence_id: "4089"
+short_title: "Llewellyn-Jones 2013"
+author: "Llewellyn-Jones, Lloyd "
+publication_year: "2013"
+title: "King and Court in Ancient Persia 559 to 331 BCE, Debates and Documents in Ancient History (Edinburgh)"
+title: "King and Court in Ancient Persia 559 to 331 BCE, Debates and Documents in Ancient History (Edinburgh)"
+previous_item: "17869"
+---

@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "35047"
+place_id: "1549"
+parent_id: "43"
+place_name: "Til-gubbi"
+related_objects: "8688"
+title: "Til-gubbi"
+previous_item: "35050"
+---

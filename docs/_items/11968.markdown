@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11968"
+occurrence_id: "2269"
+short_title: "JNES 17 (1958), 157"
+author: "Oppenheim, A. Leo"
+publication_year: "1958"
+title: "Rv. O. Neugebauer, Astronomical Cuneiform Texts"
+volume_no_: "17"
+pages: "157"
+journal: "Journal of Near Eastern Studies"
+title: "Rv. O. Neugebauer, Astronomical Cuneiform Texts"
+previous_item: "11971"
+---

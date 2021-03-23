@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21112"
+occurrence_id: "4654"
+short_title: "Monerie 2015"
+author: "Monerie, Julien"
+publication_year: "2015"
+title: "Writing Greek with Weapons Singularly III-designed for the Purpose: The Transcription of Greek in Cuneiform"
+pages: "349-363"
+editor: "van Dongen, Erik "
+book: "Mesopotamia in the Ancient World. Impact, Continuities, Parallels. Proceedings of the Seventh Symposium of the Melammu Project Held in Obergurgl, Austria, November 4-8, 2013, Melammu Symposia 7 (Münster)"
+title: "Writing Greek with Weapons Singularly III-designed for the Purpose: The Transcription of Greek in Cuneiform"
+previous_item: "21115"
+---

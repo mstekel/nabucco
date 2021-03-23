@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16840"
+occurrence_id: "4102"
+short_title: "Sass and Marzahn 2010"
+author: "Marzahn, Joachim "
+publication_year: "2010"
+title: "Aramaic and Figural Stamp Impressions on Bricks of the Sixth Century B.C. from Babylon. With Drawings by N. Zýevi, Wissenschaftliche Veröffentlichungen der Deutschen Orient-Gesellschaft 127 (Wiesbaden)"
+title: "Aramaic and Figural Stamp Impressions on Bricks of the Sixth Century B.C. from Babylon. With Drawings by N. Zýevi, Wissenschaftliche Veröffentlichungen der Deutschen Orient-Gesellschaft 127 (Wiesbaden)"
+previous_item: "16843"
+---

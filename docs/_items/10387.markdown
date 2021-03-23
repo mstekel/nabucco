@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10387"
+occurrence_id: "2751"
+short_title: "NAPR 2 (1989), 3-6"
+author: "Vallat, François"
+publication_year: "1989"
+title: "Le palais d'Artaxerxès II à Babylone"
+volume_no_: "2"
+pages: "3-6"
+journal: "Northern Akkad Project Reports"
+title: "Le palais d'Artaxerxès II à Babylone"
+previous_item: "10390"
+---

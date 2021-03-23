@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14710"
+occurrence_id: "2016"
+short_title: "JA 11/9 (1917), 473-497"
+author: "Fossey, M. Charles"
+publication_year: "1917"
+title: "Études assyriennes"
+volume_no_: "11/9"
+pages: "473-497"
+journal: "Journal Asiatique"
+title: "Études assyriennes"
+previous_item: "14713"
+---

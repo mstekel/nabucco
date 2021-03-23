@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "9235"
+occurrence_id: "2588"
+short_title: "NABU 1998/26"
+author: "Fincke, Jeanette"
+title: "SpTU III Nr. 85 joint zu SpTU II Nr. 22"
+volume_no_: "26"
+publication_year: "1998"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "SpTU III Nr. 85 joint zu SpTU II Nr. 22"
+previous_item: "9238"
+---

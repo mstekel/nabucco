@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16027"
+occurrence_id: "3070"
+short_title: "RA 78 (1984 publ.1985), 71-81"
+author: "Joannès, Francis"
+publication_year: "1984 publ. 1985"
+title: "Contrats de mariage d'époque récente"
+volume_no_: "78"
+pages: "71-81"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "Contrats de mariage d'époque récente"
+previous_item: "16030"
+---

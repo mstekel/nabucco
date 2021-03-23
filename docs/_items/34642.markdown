@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34642"
+place_id: "622"
+parent_id: "40"
+place_name: "Ridimhu"
+title: "Ridimhu"
+previous_item: "34645"
+---

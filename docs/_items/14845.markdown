@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "14845"
+occurrence_id: "2743"
+short_title: "NABU 2011/29"
+author: "Zadok, Ran"
+title: "On the prebendal career of the descendants of Nabu-kin-zeri (NKZ) and other members of the Reíi-alpe clan (with a summary)"
+volume_no_: "29"
+publication_year: "2011"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "On the prebendal career of the descendants of Nabu-kin-zeri (NKZ) and other members of the Reíi-alpe clan (with a summary)"
+previous_item: "14848"
+---

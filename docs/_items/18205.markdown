@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18205"
+occurrence_id: "661"
+short_title: "von Bolla-Kotek 1940/1969"
+author: "Bolla-Kotek, Sibylle von"
+publication_year: "1940; second ed. 1969"
+title: "Untersuchungen zur Tiermiete und Viehpacht im Altertum (Münchener Beiträge zur Papyrusforschung and antiken Rechtsgeschichte 30)"
+title: "Untersuchungen zur Tiermiete und Viehpacht im Altertum (Münchener Beiträge zur Papyrusforschung and antiken Rechtsgeschichte 30)"
+previous_item: "18208"
+---

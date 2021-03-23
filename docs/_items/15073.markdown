@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "15073"
+occurrence_id: "3971"
+short_title: "MDOG 145 (2013), 53-82"
+author: "Kaniuth, Kai"
+publication_year: "2013"
+title: "Spätbabylonische Glasurziegelreliefs aus Borsippa"
+volume_no_: "145"
+pages: "53-82"
+title: "Spätbabylonische Glasurziegelreliefs aus Borsippa"
+previous_item: "15076"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10489"
+occurrence_id: "3318"
+short_title: "WeOr 19 (1988 publ. 1989), 173-174"
+author: "Kessler, Karlheinz"
+publication_year: "1988 publ. 1989"
+title: "Rv. K.R. Nemet-Nejat, Late Babylonian Field Plans in the British Museum (SPSM 11, 1982)"
+volume_no_: "19"
+pages: "173-174"
+journal: "Die Welt des Orients"
+title: "Rv. K.R. Nemet-Nejat, Late Babylonian Field Plans in the British Museum (SPSM 11, 1982)"
+previous_item: "10492"
+---

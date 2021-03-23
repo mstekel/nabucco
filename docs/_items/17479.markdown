@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17479"
+occurrence_id: "4086"
+short_title: "Kozuh 2014"
+author: "Kozuh, Michael "
+publication_year: "2014"
+title: "The Sacrificial Economy. Assessors, Contractors, and Thieves in the Management of Sacrificial Sheep at the Eanna Temple of Uruk (ca. 625-520 B.C.), Explorations in Ancient Near Eastern Civilizations 2 (Winona Lake)"
+title: "The Sacrificial Economy. Assessors, Contractors, and Thieves in the Management of Sacrificial Sheep at the Eanna Temple of Uruk (ca. 625-520 B.C.), Explorations in Ancient Near Eastern Civilizations 2 (Winona Lake)"
+previous_item: "17482"
+---

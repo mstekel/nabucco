@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "34474"
+place_id: "1438"
+parent_id: "70"
+place_name: "Kissik"
+related_objects: "5885"
+title: "Kissik"
+previous_item: "34477"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19741"
+occurrence_id: "5047"
+short_title: "Da Riva 1999"
+author: "Da Riva, Rocío"
+publication_year: "1999"
+title: "Recogiendo leña en los jardines de Šamaš"
+pages: "81-94"
+editor: "Ayán, J., J."
+book: "Ša ṭudu idū. Estudios sobre las culturas antiguas de Oriente y Egipto, Fs. Garrido Herrero (Madrid)"
+title: "Recogiendo leña en los jardines de Šamaš"
+previous_item: "19744"
+---

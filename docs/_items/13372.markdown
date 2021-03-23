@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13372"
+occurrence_id: "3823"
+short_title: "Persica 3 (1967-68), 1-9"
+author: "Duchesne-Guillemin, Jacques"
+publication_year: "1967-1968"
+title: "Religion et politique, de Cyrus à Xerxes"
+volume_no_: "3"
+pages: "1-9."
+journal: "Persica"
+title: "Religion et politique, de Cyrus à Xerxes"
+previous_item: "13375"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19273"
+occurrence_id: "4757"
+short_title: "Stolper 1977"
+author: "Stolper, Matthew W."
+publication_year: "1977"
+title: "Three Iranian Loanwords in Late Babylonian Texts"
+pages: "251-266"
+editor: "Levine, Louis D."
+book: "Mountains and Lowlands: Essays in the Archaeology of Greater Mesopotamia, BibMes 7 (Malibu, CA)"
+title: "Three Iranian Loanwords in Late Babylonian Texts"
+previous_item: "19276"
+---

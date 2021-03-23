@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18331"
+occurrence_id: "642"
+short_title: "Yarshater 1983"
+author: "Yarshater, Ehsan "
+publication_year: "1983"
+title: "The Cambridge History of Iran. Vol. 3, Parts I and II. the Seleucid, Parthian and Sasanian Periods"
+title: "The Cambridge History of Iran. Vol. 3, Parts I and II. the Seleucid, Parthian and Sasanian Periods"
+previous_item: "18334"
+---

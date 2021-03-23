@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8035"
+occurrence_id: "2164"
+short_title: "JCS 26 (1974 publ. 1975), 211-250"
+author: "de Jong Ellis, Maria"
+publication_year: "1974"
+title: "Taxation in Ancient Mesopotamia: the History of the Term miksu"
+volume_no_: "26"
+pages: "211-250"
+journal: "Journal of Cuneiform Studies"
+title: "Taxation in Ancient Mesopotamia: the History of the Term miksu"
+previous_item: "8038"
+---

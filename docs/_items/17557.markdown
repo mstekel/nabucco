@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17557"
+occurrence_id: "636"
+short_title: "Widengren 1969"
+author: "Widengren, Geo "
+publication_year: "1969"
+title: "Der Feudalismus im alten Iran. Männerband, Gefolgswesen, Feudalismus in der iranischen Gesellschaft im Hinblick auf die indogermanischen Verhältnisse (Wissenschaftliche Abhandlungen der Arbeitsgemeinde für Forschung des Landes Nordrhein-Westfalen, 40)"
+title: "Der Feudalismus im alten Iran. Männerband, Gefolgswesen, Feudalismus in der iranischen Gesellschaft im Hinblick auf die indogermanischen Verhältnisse (Wissenschaftliche Abhandlungen der Arbeitsgemeinde für Forschung des Landes Nordrhein-Westfalen, 40)"
+previous_item: "17560"
+---

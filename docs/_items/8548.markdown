@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8548"
+occurrence_id: "1909"
+short_title: "IOS 7 (1977 publ. 1978), 89-138"
+author: "Zadok, Ran"
+publication_year: "1977 publ. 1978"
+title: "Iranians and Individuals Bearing Iranian Names in Achaemenian Babylonia"
+volume_no_: "7"
+pages: "89-138"
+journal: "Israel Oriental Studies"
+title: "Iranians and Individuals Bearing Iranian Names in Achaemenian Babylonia"
+previous_item: "8551"
+---

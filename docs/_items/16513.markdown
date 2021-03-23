@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16513"
+occurrence_id: "541"
+short_title: "Porten 1968"
+author: "Porten, Bezalel "
+publication_year: "1968"
+title: "Archives from Elephantine"
+title: "Archives from Elephantine"
+previous_item: "16516"
+---

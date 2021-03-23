@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13081"
+occurrence_id: "2255"
+short_title: "JHS 90 (1970), 246-247"
+author: "Burn, A.R."
+publication_year: "1970"
+title: "Rv. E. Herzfeld, the Persian Empire"
+volume_no_: "90"
+pages: "246-247"
+journal: "Journal of Hellenic Studies"
+title: "Rv. E. Herzfeld, the Persian Empire"
+previous_item: "13084"
+---

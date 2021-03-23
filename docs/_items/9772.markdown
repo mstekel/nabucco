@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "9772"
+occurrence_id: "2459"
+short_title: "NABU 1988/57"
+author: "Petschow, Herbert"
+publication_year: "1988"
+title: "Kreditverträge ohne Beurkandung: VS 3, 217, 222, Cyr 223"
+volume_no_: "57"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Kreditverträge ohne Beurkandung: VS 3, 217, 222, Cyr 223"
+previous_item: "9775"
+---

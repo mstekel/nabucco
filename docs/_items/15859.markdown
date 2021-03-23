@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15859"
+occurrence_id: "2162"
+short_title: "JCS 22 (1968-69), 92-113"
+author: "Sachs, Abraham J."
+publication_year: "1968-69"
+title: "Some Atypical Astronomical Cuneiform Texts II"
+volume_no_: "22"
+pages: "92-113"
+journal: "Journal of Cuneiform Studies"
+title: "Some Atypical Astronomical Cuneiform Texts II"
+previous_item: "15862"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8347"
+occurrence_id: "3846"
+short_title: "SDHI 8 (1942), 159-162"
+author: "Funck, Bernd"
+publication_year: "1942"
+title: "Rv. H. Petschow, Die neubabylonischen Kaufformulare"
+volume_no_: "8"
+pages: "159-162"
+journal: "Studia et documenta historiae et iuris"
+title: "Rv. H. Petschow, Die neubabylonischen Kaufformulare"
+previous_item: "8350"
+---

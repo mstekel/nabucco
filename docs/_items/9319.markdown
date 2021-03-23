@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9319"
+occurrence_id: "3042"
+short_title: "RA 64 (1970), 149-160"
+author: "Vallat, François"
+publication_year: "1970"
+title: "Tablette élamite de Darius Ier,"
+volume_no_: "64"
+pages: "149-160"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "Tablette élamite de Darius Ier,"
+previous_item: "9322"
+---

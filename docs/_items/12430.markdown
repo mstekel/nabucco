@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12430"
+occurrence_id: "1755"
+short_title: "BOR 1 (1887), 81-85"
+author: "Pinches, Theophilus G."
+publication_year: "1887"
+title: "Tablets Referring to the Apprenticeship of Slaves at Babylon"
+volume_no_: "1"
+pages: "81-85"
+journal: "Babylonian and Oriental Record"
+title: "Tablets Referring to the Apprenticeship of Slaves at Babylon"
+previous_item: "12433"
+---

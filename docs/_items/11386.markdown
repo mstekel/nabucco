@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11386"
+occurrence_id: "2138"
+short_title: "JAOS 99 (1979), 110-111"
+author: "Heimpel, W."
+publication_year: "1979"
+title: "Rv. H. Hunger, Spätbabylonische Texte aus Uruk, Teil I"
+volume_no_: "99"
+pages: "110-111"
+journal: "Journal of the American Oriental Society"
+title: "Rv. H. Hunger, Spätbabylonische Texte aus Uruk, Teil I"
+previous_item: "11389"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13375"
+occurrence_id: "3839"
+short_title: "Revue d'assyriologie et d'archéologie orientale 98 (2004), 109-120."
+author: "Zadok, Ran"
+publication_year: "2004"
+title: "Old Iranian Anthroponyms and Related Material in Late Babylonian Sources."
+volume_no_: "98"
+pages: "109-120"
+journal: "Revue d'assyriologie et d'archéologie orientale"
+title: "Old Iranian Anthroponyms and Related Material in Late Babylonian Sources."
+previous_item: "13378"
+---

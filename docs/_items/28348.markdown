@@ -1,0 +1,14 @@
+---
+layout: "tablet"
+slug: "28348"
+object_id: "7458"
+nabucco_no_: "BM64220"
+museum_no_: "BM 64220"
+text_number: "53b"
+duplicate: "BM 74661"
+imported: "Melanie Gross (03/11/2016)"
+join: "BM 71057"
+related_objects: "6573"
+title: "BM 64220"
+previous_item: "28351"
+---

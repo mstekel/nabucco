@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16291"
+occurrence_id: "1471"
+short_title: "ArOr 31 (1963), 706"
+author: "Klíma, Otokar"
+publication_year: "1963"
+title: "Rv. J.P. Asmussen, Historiske texster fra Achaemenidetiden"
+volume_no_: "31"
+pages: "706"
+journal: "Archív Orientalí"
+title: "Rv. J.P. Asmussen, Historiske texster fra Achaemenidetiden"
+previous_item: "16294"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10705"
+occurrence_id: "1477"
+short_title: "ArOr 39 (1971), 215-217"
+author: "Klíma, Josef"
+publication_year: "1971"
+title: "Rv. D.B. Weisberg, Guild Structure and Political Allegiance in Early Achaemenid Mesopotamia (YNER 1)"
+volume_no_: "39"
+pages: "215-217"
+journal: "Archív Orientalí"
+title: "Rv. D.B. Weisberg, Guild Structure and Political Allegiance in Early Achaemenid Mesopotamia (YNER 1)"
+previous_item: "10708"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19663"
+occurrence_id: "4631"
+short_title: "Britton 2007"
+author: "Britton, John P."
+publication_year: "2007"
+title: "Calendars, Intercalations and Year-Lengths in Mesopotamian Astronomy."
+pages: "115-132"
+editor: "Steele, John M."
+book: "Calendars and Years - Astronomy and Time in the Ancient Near East (Oxford)"
+title: "Calendars, Intercalations and Year-Lengths in Mesopotamian Astronomy."
+previous_item: "19666"
+---

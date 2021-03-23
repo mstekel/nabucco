@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14848"
+occurrence_id: "2759"
+short_title: "NZ 37 (1905), 1-8"
+author: "Imhoof-Blumer, Frédéric"
+publication_year: "1905"
+title: "Die Münzstätte Babylon"
+volume_no_: "37"
+pages: "1-8."
+journal: "Numismatische Zeitschrift"
+title: "Die Münzstätte Babylon"
+previous_item: "14851"
+---

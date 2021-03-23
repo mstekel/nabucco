@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18982"
+occurrence_id: "4307"
+short_title: "Matsushima 1995"
+author: "Matsushima, Eiko"
+publication_year: "1995"
+title: "Eleven Neo-Babylonian texts relating to the Lubuštu (Clothing ceremony)"
+pages: "235-243"
+editor: "Mikasa, H.I.H. Prince Takahito"
+book: "Essays on Ancient Anatolia and its Surrounding Civilizations, BMECCJ 8 (Wiesbaden)"
+title: "Eleven Neo-Babylonian texts relating to the Lubuštu (Clothing ceremony)"
+previous_item: "18985"
+---

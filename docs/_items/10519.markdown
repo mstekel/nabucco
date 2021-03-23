@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10519"
+occurrence_id: "3480"
+short_title: "ZA 86 (1996), 211-216"
+author: "Tyborowski, Wtold"
+publication_year: "1996"
+title: "The third Year of Nebuchadnezzar II (602 B.C.) According to the Babylonian Chronicle BM 21946 - an Attempt at an Interpretation"
+volume_no_: "86"
+pages: "211-216"
+journal: "Zeitschrift für Assyriologie"
+title: "The third Year of Nebuchadnezzar II (602 B.C.) According to the Babylonian Chronicle BM 21946 - an Attempt at an Interpretation"
+previous_item: "10522"
+---

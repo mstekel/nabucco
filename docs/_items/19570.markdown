@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "19570"
+occurrence_id: "4133"
+short_title: "Grayson 1995"
+author: "Grayson, Albert K."
+publication_year: "1995"
+title: "Eunuchs in Power. Their Role in the Assyrian Bureaucracy"
+pages: "85-98"
+editor: "Dietrich, Manfried"
+title: "Eunuchs in Power. Their Role in the Assyrian Bureaucracy"
+previous_item: "19573"
+---

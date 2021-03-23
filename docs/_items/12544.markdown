@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12544"
+occurrence_id: "2367"
+short_title: "JNES 8 (1949), 6-26"
+author: "van der Waerden, Bartel L."
+publication_year: "1949"
+title: "Babylonian Astronomy II. the thirtysix Stars"
+volume_no_: "8"
+pages: "6-26"
+journal: "Journal of Near Eastern Studies"
+title: "Babylonian Astronomy II. the thirtysix Stars"
+previous_item: "12547"
+---

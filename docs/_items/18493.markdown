@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18493"
+occurrence_id: "860"
+short_title: "Parpola 1983"
+author: "Parpola, Simo "
+publication_year: "1983"
+title: "Letters from Assyrian Scolars to the kings Esarhaddon and Assurbanipal, part II: Commentary and Appendices, AOAT 5/2 (Neukirchen and Vluyn)"
+title: "Letters from Assyrian Scolars to the kings Esarhaddon and Assurbanipal, part II: Commentary and Appendices, AOAT 5/2 (Neukirchen and Vluyn)"
+previous_item: "18496"
+---

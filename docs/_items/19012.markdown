@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19012"
+occurrence_id: "4468"
+short_title: "Kümmel 1982"
+author: "Kümmel, Hans Martin"
+publication_year: "1982"
+title: "Bestechung im Alten Orient"
+pages: "55-64"
+editor: "Schuller, W."
+book: "Korruption im Altertum (München and Wien)"
+title: "Bestechung im Alten Orient"
+previous_item: "19015"
+---

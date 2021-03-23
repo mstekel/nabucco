@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17281"
+occurrence_id: "530"
+short_title: "Oppenheim1970"
+author: "Oppenheim, A. Leo "
+publication_year: "1970"
+title: "Trade in the Ancient Near East (Fifth International Congress of Economic History)"
+title: "Trade in the Ancient Near East (Fifth International Congress of Economic History)"
+previous_item: "17284"
+---

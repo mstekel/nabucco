@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12094"
+occurrence_id: "2951"
+short_title: "OrAn 25 (1986), 29-50"
+author: "Frame, Grant"
+publication_year: "1986"
+title: "Some Neo-Babylonian and Persian Documents Involving Boats"
+volume_no_: "25"
+pages: "29-50"
+journal: "Oriens Antiquus"
+title: "Some Neo-Babylonian and Persian Documents Involving Boats"
+previous_item: "12097"
+---

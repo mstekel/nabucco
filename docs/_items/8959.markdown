@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8959"
+occurrence_id: "250"
+short_title: "Gadd, BMQ 16/2"
+author: "Gadd, Cyril J."
+publication_year: "1951"
+title: "Babylonian Antiquities from the Alnwick Castle Collection"
+volume_no_: "16/2"
+pages: "43-45"
+journal: "The British Museum Quarterly"
+title: "Babylonian Antiquities from the Alnwick Castle Collection"
+previous_item: "8962"
+---

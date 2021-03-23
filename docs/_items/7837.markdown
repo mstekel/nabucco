@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7837"
+occurrence_id: "248"
+short_title: "Oates, Iraq 21/2"
+author: "Oates, David"
+publication_year: "1959"
+title: "Fort Shalmaneser: An Interim Report"
+volume_no_: "21/2"
+pages: "98-129"
+journal: "Iraq"
+title: "Fort Shalmaneser: An Interim Report"
+previous_item: "7840"
+---

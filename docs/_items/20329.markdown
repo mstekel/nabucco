@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20329"
+occurrence_id: "4890"
+short_title: "Dandamayev 2014"
+author: "Dandamayev, Muhammed A."
+publication_year: "2014"
+title: "Documentary Evidence on Wine from the Eanna Temple Archives in Uruk"
+pages: "424-481"
+editor: "Csabai, Zoltán"
+book: "Studies in Economic and Social History of the Ancient Near East in Memory of Péter Vargyas (Budapest)"
+title: "Documentary Evidence on Wine from the Eanna Temple Archives in Uruk"
+previous_item: "20332"
+---

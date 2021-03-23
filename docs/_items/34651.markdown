@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34651"
+place_id: "766"
+parent_id: "61"
+place_name: "Angillu"
+title: "Angillu"
+previous_item: "34654"
+---

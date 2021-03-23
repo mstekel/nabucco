@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20761"
+occurrence_id: "4988"
+short_title: "Zadok 1995"
+author: "Zadok, Ran"
+publication_year: "1995"
+title: "Foreigners and Foreign Linguistic Material in Mesopotamia and Egypt"
+pages: "431-447"
+editor: "Schoors, Anton"
+book: "Immigration and Emigration within the Ancient Near East, Fs. Lipiński (Leuven)"
+title: "Foreigners and Foreign Linguistic Material in Mesopotamia and Egypt"
+previous_item: "20764"
+---

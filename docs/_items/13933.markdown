@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13933"
+occurrence_id: "3840"
+short_title: "Revue des Qumran 4/13 (1963), 115-121"
+author: "Grelot, Pierre"
+publication_year: "1963"
+title: "Rv. R. Meyer, Das Gebet des Nabonid"
+volume_no_: "4/13."
+pages: "115-121"
+journal: "Revue des Qumran"
+title: "Rv. R. Meyer, Das Gebet des Nabonid"
+previous_item: "13936"
+---

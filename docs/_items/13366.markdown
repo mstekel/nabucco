@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13366"
+occurrence_id: "3791"
+short_title: "MSS 45 (1985), 165-169"
+author: "Mayrhofer, Manfred"
+publication_year: "1985"
+title: "*h1d-ti- «Speise, Futter» im Iranischen"
+volume_no_: "45"
+pages: "165-169"
+journal: "Münchener Studien zur Sprachwissenschaft"
+title: "*h1d-ti- «Speise, Futter» im Iranischen"
+previous_item: "13369"
+---

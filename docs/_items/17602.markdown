@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17602"
+occurrence_id: "921"
+short_title: "Zawadzki 2006"
+author: "Zawadzki, Stefan "
+publication_year: "2006"
+title: "Garments of the Gods. Studies on the Textile Industry and the Pantheon of Sippar according to the Texts from the Ebabbar Archive, OBO 218 (Freiburg and Göttingen)"
+title: "Garments of the Gods. Studies on the Textile Industry and the Pantheon of Sippar according to the Texts from the Ebabbar Archive, OBO 218 (Freiburg and Göttingen)"
+previous_item: "17605"
+---

@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "12829"
+occurrence_id: "3902"
+short_title: "ZA 104/1 (2014), 114-116"
+author: "Abrahami, Philippe"
+publication_year: "2014"
+title: "Rv. of J. MacGinnis (with C. Cornelia Wunsch): The Arrows of the Sun"
+volume_no_: "104/1"
+pages: "114-116"
+title: "Rv. of J. MacGinnis (with C. Cornelia Wunsch): The Arrows of the Sun"
+previous_item: "12832"
+---

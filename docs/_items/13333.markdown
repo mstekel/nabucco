@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13333"
+occurrence_id: "3615"
+short_title: "AJ 36 (1956), 79"
+author: "Childe, V. Gordon"
+publication_year: "1956"
+title: "Rv. R. Ghirshman, Iran: From the Earliest Times to the Islamic Conquest"
+volume_no_: "36"
+pages: "79"
+journal: "Antiquaries Journal (London)"
+title: "Rv. R. Ghirshman, Iran: From the Earliest Times to the Islamic Conquest"
+previous_item: "13336"
+---

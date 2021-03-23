@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33640"
+place_id: "547"
+parent_id: "40"
+place_name: "Iq[]bi[]ṣu(?)"
+title: "Iq[]bi[]ṣu(?)"
+previous_item: "33643"
+---

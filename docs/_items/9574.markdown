@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9574"
+occurrence_id: "1394"
+short_title: "AnTan 18 (1971 publ. 1972), 210-221"
+author: "Harmatta, János"
+publication_year: "1971 publ. 1972"
+title: "Kyros und das babylonische Marduk-Priestertum"
+volume_no_: "18"
+pages: "106"
+journal: "Antik Tanulmányok"
+title: "Kyros und das babylonische Marduk-Priestertum"
+previous_item: "9577"
+---

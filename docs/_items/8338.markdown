@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8338"
+occurrence_id: "3798"
+short_title: "NBGAW 1 (1964), 13-17"
+author: "Klíma, Otokar"
+publication_year: "1964"
+title: "Zur Interpretation des awestischen Yasna 65,7 f. und der Bisutun-Inschrift I 63 f."
+volume_no_: "1"
+pages: "13-17"
+journal: "Neue Beiträge zur Geschichte der Alten Welt"
+title: "Zur Interpretation des awestischen Yasna 65,7 f. und der Bisutun-Inschrift I 63 f."
+previous_item: "8341"
+---

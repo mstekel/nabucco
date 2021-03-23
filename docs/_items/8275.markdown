@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8275"
+occurrence_id: "3460"
+short_title: "ZA 78 (1988 publ. 1989), 76-98"
+author: "Brinkman, John A."
+publication_year: "1988 publ. 1989"
+title: "A Royal Kudurru from the Reign of Aššur-nādin-šumi"
+volume_no_: "78"
+pages: "76-98"
+journal: "Zeitschrift für Assyriologie"
+title: "A Royal Kudurru from the Reign of Aššur-nādin-šumi"
+previous_item: "8278"
+---

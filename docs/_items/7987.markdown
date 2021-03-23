@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7987"
+occurrence_id: "1908"
+short_title: "IOS 6 (1976), 65-70"
+author: "Zadok, Ran"
+publication_year: "1976"
+title: "On some Iranian Names in Late-Babylonian Documents"
+volume_no_: "6"
+pages: "65-70"
+journal: "Israel Oriental Studies"
+title: "On some Iranian Names in Late-Babylonian Documents"
+previous_item: "7990"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18739"
+occurrence_id: "233"
+short_title: "Brinkman 1979"
+author: "Brinkman, John A."
+publication_year: "1979"
+title: "Babylonia under the Assyrian Empire, 745–627 B.C."
+pages: "223-250"
+editor: "Larsen, Mogens Trolle"
+book: "Power and Propaganda. A Symposium on Ancient Empires"
+title: "Babylonia under the Assyrian Empire, 745–627 B.C."
+previous_item: "18742"
+---

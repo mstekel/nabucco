@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10750"
+occurrence_id: "1720"
+short_title: "BiOr 60 (2003), 407-411"
+author: "Beaulieu, Paul-A."
+publication_year: "2003"
+title: "Rv. M. Jursa, Das Archiv des Bel-remanni"
+volume_no_: "60"
+pages: "407-411"
+journal: "Bibliotheca Orientalis"
+title: "Rv. M. Jursa, Das Archiv des Bel-remanni"
+previous_item: "10753"
+---

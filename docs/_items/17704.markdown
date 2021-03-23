@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17704"
+occurrence_id: "769"
+short_title: "Debevoise 1934"
+author: "Debevoise, Neilson C. "
+publication_year: "1934"
+title: "Parthian pottery from Seleucia on the Tigris, University of Michigan Studies, Humanistic Series 32 (Ann Arbor)"
+title: "Parthian pottery from Seleucia on the Tigris, University of Michigan Studies, Humanistic Series 32 (Ann Arbor)"
+previous_item: "17707"
+---

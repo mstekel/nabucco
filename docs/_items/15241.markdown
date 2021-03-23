@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15241"
+occurrence_id: "1857"
+short_title: "DLZ 78 (1957), 734-736"
+author: "Kunderewicz, Cezary"
+publication_year: "1957"
+title: "Rv. H. Petschow, Neubabylonisches Pfandrecht (Berlin 1956)"
+volume_no_: "78"
+pages: "734-736"
+journal: "Deutsche Literatur-Zeitung"
+title: "Rv. H. Petschow, Neubabylonisches Pfandrecht (Berlin 1956)"
+previous_item: "15244"
+---

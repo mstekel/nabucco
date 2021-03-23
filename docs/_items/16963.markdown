@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16963"
+occurrence_id: "4063"
+short_title: "Charpin 2010"
+author: "Charpin, Dominique "
+publication_year: "2010"
+title: "Reading and Writing in Babylon (Cambridge/London)"
+title: "Reading and Writing in Babylon (Cambridge/London)"
+previous_item: "16966"
+---

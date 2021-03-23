@@ -1,0 +1,16 @@
+---
+layout: "tablet"
+slug: "33082"
+object_id: "8862"
+museum_no_: "BM 43601"
+publication: "Jursa 1999"
+page_number: "241"
+period: "Each"
+type_and_content: "Indeterminate texts"
+paraphrase: "Fragment mentioning <em>Bēl-rēmann</em>i/Mu&scaron;eb&scaron;i-<em>Marduk</em>"
+imported: "Matthias Adelhofer (08/06/17)"
+publication_name: "Jursa 1999 "
+archive: "Šangû-Šamaš A"
+title: "BM 43601"
+previous_item: "33085"
+---

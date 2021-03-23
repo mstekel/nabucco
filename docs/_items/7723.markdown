@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7723"
+occurrence_id: "3509"
+short_title: "ZA 90 (2000), 263-280"
+author: "Streck, Michael , P."
+publication_year: "2000"
+title: "Keilschrifttexte aus Münchener Sammlungen"
+volume_no_: "90"
+pages: "263-280"
+journal: "Zeitschrift für Assyriologie"
+title: "Keilschrifttexte aus Münchener Sammlungen"
+previous_item: "7726"
+---

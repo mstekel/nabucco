@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "34918"
+place_id: "1442"
+parent_id: "55"
+place_name: "Alu-ša-Nabû-iqīša"
+related_objects: "6250"
+title: "Alu-ša-Nabû-iqīša"
+previous_item: "34921"
+---

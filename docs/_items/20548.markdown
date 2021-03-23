@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20548"
+occurrence_id: "4955"
+short_title: "Vargyas 1997a"
+author: "Vargyas, Péter"
+publication_year: "1997"
+title: "Les prix des denrées alimentaires de première nécessité en Babylonie à l´époque achéménide et hellénistique"
+pages: "335-354"
+editor: "Andreau, Jean"
+book: "Économie antique. Prix et formation des prix dans les économies antiques, Entretiens d´Archéologie et d´Histoire 3 ( Saint-Bertrand-de-Comminges)"
+title: "Les prix des denrées alimentaires de première nécessité en Babylonie à l´époque achéménide et hellénistique"
+previous_item: "20551"
+---

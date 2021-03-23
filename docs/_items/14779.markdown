@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14779"
+occurrence_id: "2387"
+short_title: "Mandus 16 (1980), 284-286"
+author: "Calmeyer, Peter"
+publication_year: "1980"
+title: "Rv. H. Koch, Die religiösen Verhältnisse der Dareioszeit. Untersuchungen an Hand der elamischen Persepolistäfelchen"
+volume_no_: "16"
+pages: "284-286"
+journal: "Mandus"
+title: "Rv. H. Koch, Die religiösen Verhältnisse der Dareioszeit. Untersuchungen an Hand der elamischen Persepolistäfelchen"
+previous_item: "14782"
+---

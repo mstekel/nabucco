@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16546"
+occurrence_id: "757"
+short_title: "Cole 1996"
+author: "Cole, Steven W. "
+publication_year: "1996"
+title: "Nippur in Late Assyrian Times c. 755-612 BC, SAAS 4 (Helsinki)"
+title: "Nippur in Late Assyrian Times c. 755-612 BC, SAAS 4 (Helsinki)"
+previous_item: "16549"
+---

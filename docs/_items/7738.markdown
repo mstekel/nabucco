@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7738"
+occurrence_id: "3589"
+short_title: "ZSS 91 (1974), 384-388"
+author: "Ries, Gerhard"
+publication_year: "1974"
+title: "Rv. D.O. Edzard (ed.), Gesellschaftsklassen im Alten Zweistromland und in den angrenzenden Gebieten, RAI 18."
+volume_no_: "91"
+pages: "384-388"
+journal: "Zeitschrift der Savigny-Stiftung für Rechtsgeschichte, romantistische Abteilung"
+title: "Rv. D.O. Edzard (ed.), Gesellschaftsklassen im Alten Zweistromland und in den angrenzenden Gebieten, RAI 18."
+previous_item: "7741"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8272"
+occurrence_id: "3443"
+short_title: "ZA 70 (1981), 145-150"
+author: "von Soden, Wolfram"
+publication_year: "1981"
+title: "Rv. M. Dietrich, Neo-Babylonian Letters from the Kuyunjik Collection (CT 54)"
+volume_no_: "70"
+pages: "145-150"
+journal: "Zeitschrift für Assyriologie"
+title: "Rv. M. Dietrich, Neo-Babylonian Letters from the Kuyunjik Collection (CT 54)"
+previous_item: "8275"
+---

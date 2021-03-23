@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33622"
+place_id: "259"
+parent_id: "40"
+place_name: "Bīt-Gīrā"
+title: "Bīt-Gīrā"
+previous_item: "33625"
+---

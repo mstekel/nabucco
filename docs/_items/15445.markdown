@@ -1,0 +1,15 @@
+---
+layout: "bibliography"
+slug: "15445"
+occurrence_id: "2957"
+short_title: "Orient 30/31 (1995), 9-27"
+author: "Matsushima, Eiko"
+publication_year: "1995"
+title: "Quelques problèmes supplémentaires de l´elippu ša kusīti"
+volume_no_: "30/31"
+pages: "9-27"
+journal: "Orient. Report of the Society for Near Eastern Studies
+in Japan"
+title: "Quelques problèmes supplémentaires de l´elippu ša kusīti"
+previous_item: "15448"
+---

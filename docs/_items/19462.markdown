@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19462"
+occurrence_id: "4662"
+short_title: "Hoffmann 1969"
+author: "Hoffmann, Karl"
+publication_year: "1969"
+title: "Altiranisch"
+pages: "1-19."
+editor: "Spuler , Bertold"
+book: "Handbuch der Orientalistik, I. Abt., Bd. 4, Abschn. 1, Iranistik 1. Linguistik (Leiden)"
+title: "Altiranisch"
+previous_item: "19465"
+---

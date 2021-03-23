@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14143"
+occurrence_id: "1967"
+short_title: "Iraq 45 (1983), 136-137"
+author: "Pearce, Laurie E."
+publication_year: "1983"
+title: "Cuneiform Number-Syllabaries"
+volume_no_: "45"
+pages: "136-137"
+journal: "Iraq"
+title: "Cuneiform Number-Syllabaries"
+previous_item: "14146"
+---

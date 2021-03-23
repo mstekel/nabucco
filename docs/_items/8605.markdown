@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8605"
+occurrence_id: "2214"
+short_title: "JCS 60 (2008), 81-85"
+author: "Holtz, Shalom E."
+publication_year: "2008"
+title: "The Career of a Neo-Babylonian Court Scribe."
+volume_no_: "60"
+pages: "81-85"
+journal: "Journal of Cuneiform Studies"
+title: "The Career of a Neo-Babylonian Court Scribe."
+previous_item: "8608"
+---

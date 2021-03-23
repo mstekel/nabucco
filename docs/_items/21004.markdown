@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21004"
+occurrence_id: "5181"
+short_title: "Lambert 1989"
+author: "Lambert, Wilfred G."
+publication_year: "1989"
+title: "The Laws of Hammurabi in the First Millennium"
+pages: "95-98"
+editor: "Lebeau, Marc"
+book: "Reflets des deux Fleuves, Fs.Finet, Akkadika Supplementum VI (Leuven)"
+title: "The Laws of Hammurabi in the First Millennium"
+previous_item: "21007"
+---

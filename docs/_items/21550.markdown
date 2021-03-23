@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21550"
+occurrence_id: "4784"
+short_title: "Jursa 2004a"
+author: "Jursa, Michael"
+publication_year: "2004"
+title: "Accounting in Neo-Babylonian Institutional Archives: Structure, Usage, and Implications"
+pages: "145-198"
+editor: "Wunsch, Cornelia"
+book: "Creating Economic Order. Bethesda, CDL Press 2004 (ISCANEE 4), ."
+title: "Accounting in Neo-Babylonian Institutional Archives: Structure, Usage, and Implications"
+previous_item: "21553"
+---

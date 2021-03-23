@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11587"
+occurrence_id: "3222"
+short_title: "StOr 46 (1975), 81-90"
+author: "Heinrich, Ernst"
+publication_year: "1975"
+title: "Noch einmal: Überdachung des hronsaals in Babylonien"
+volume_no_: "46"
+pages: "81-90"
+journal: "Studia Orientalia"
+title: "Noch einmal: Überdachung des hronsaals in Babylonien"
+previous_item: "11590"
+---

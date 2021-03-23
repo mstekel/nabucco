@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8887"
+occurrence_id: "3735"
+short_title: "JQR 63 (1972), 171-174"
+author: "Stigers, Harold G."
+publication_year: "1972"
+title: "A Neo-Babylonian Quit-Claim Deed"
+volume_no_: "63"
+pages: "171-174"
+journal: "Jewish Quarterly Review"
+title: "A Neo-Babylonian Quit-Claim Deed"
+previous_item: "8890"
+---

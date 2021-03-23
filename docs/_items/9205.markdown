@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9205"
+occurrence_id: "2425"
+short_title: "Musées de France 7 (1957), 99-104"
+author: "Nougayrol, Jean"
+title: "Portrait d´une Sémiramis: La Revue des Arts"
+volume_no_: "7"
+pages: "99-104"
+publication_year: "1957"
+journal: "Musées de France"
+title: "Portrait d´une Sémiramis: La Revue des Arts"
+previous_item: "9208"
+---

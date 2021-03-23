@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33892"
+place_id: "1033"
+parent_id: "61"
+place_name: "Hiri[]"
+title: "Hiri[]"
+previous_item: "33895"
+---

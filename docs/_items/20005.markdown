@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20005"
+occurrence_id: "4264"
+short_title: "Potts 1996"
+author: "Potts, Daniel T."
+publication_year: "1996"
+title: "The Parthian Presence in the Arabian Gulf"
+pages: "269-285"
+editor: "Reade, Julian E."
+book: "The Indian Ocean in Antiquity (London and New York)"
+title: "The Parthian Presence in the Arabian Gulf"
+previous_item: "20008"
+---

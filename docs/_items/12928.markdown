@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12928"
+occurrence_id: "1432"
+short_title: "AoF 29 (2002), 205-233."
+author: "Streck, Michael , P."
+publication_year: "2002"
+title: "\"Der Wiederaufbau Babylons unter Asarhaddon and Assurbanipal in Briefen aus Ninive\"."
+volume_no_: "29"
+pages: "205-233"
+journal: "Altorientalische Forschungen"
+title: "\"Der Wiederaufbau Babylons unter Asarhaddon and Assurbanipal in Briefen aus Ninive\"."
+previous_item: "12931"
+---

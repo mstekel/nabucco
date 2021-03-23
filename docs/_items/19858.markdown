@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "19858"
+occurrence_id: "4568"
+short_title: "Oelsner 1981a"
+author: "Oelsner, Joachim"
+publication_year: "1981"
+title: "Gesellschaft und Wirtschaft des seleukidischen Babylonien. Einige Beobachtungen an den Keilschrifttexten aus Uruk"
+pages: "39-44"
+book: "Klio 63/1 = Fs. H. Kreissig"
+title: "Gesellschaft und Wirtschaft des seleukidischen Babylonien. Einige Beobachtungen an den Keilschrifttexten aus Uruk"
+previous_item: "19861"
+---

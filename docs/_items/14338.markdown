@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14338"
+occurrence_id: "3019"
+short_title: "RA 37 (1940), 75"
+author: "Thureau-Dangin, François"
+publication_year: "1940"
+title: "Rv. E. Herzfeld, Altpersische Inschriften"
+volume_no_: "37"
+pages: "75"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "Rv. E. Herzfeld, Altpersische Inschriften"
+previous_item: "14341"
+---

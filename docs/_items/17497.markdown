@@ -1,0 +1,12 @@
+---
+layout: "bibliography"
+slug: "17497"
+occurrence_id: "258"
+short_title: "Pinches 1915"
+author: "Pinches, Theophilus G. "
+publication_year: "1915"
+title: "The Babylonian Tablets of the Berens Collection, Asiatic Society Monographs 16 (London)"
+related_objects: "5938"
+title: "The Babylonian Tablets of the Berens Collection, Asiatic Society Monographs 16 (London)"
+previous_item: "17500"
+---

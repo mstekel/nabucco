@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11518"
+occurrence_id: "2849"
+short_title: "Or 23 (1954), 277-283"
+author: "Nicolò, Mariano, San"
+publication_year: "1954"
+title: "Rv. G. Cardascia, Les archives des Murašû (Paris 1951)"
+volume_no_: "23"
+pages: "277-283"
+journal: "Orientalia"
+title: "Rv. G. Cardascia, Les archives des Murašû (Paris 1951)"
+previous_item: "11521"
+---

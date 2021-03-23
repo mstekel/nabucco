@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14773"
+occurrence_id: "2355"
+short_title: "JNES 64 (2005), 101-107"
+author: "Neujahr, Matthew"
+publication_year: "2005"
+title: "When Darius Defeated Alexander: Composition and Redaction in the Dynastic Prophecy."
+volume_no_: "64"
+pages: "101-107"
+journal: "Journal of Near Eastern Studies"
+title: "When Darius Defeated Alexander: Composition and Redaction in the Dynastic Prophecy."
+previous_item: "14776"
+---

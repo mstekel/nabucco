@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14659"
+occurrence_id: "1743"
+short_title: "BMECCJ 1 (1984), 27-36"
+author: "Ikeda, Yutaka"
+publication_year: "1984"
+title: "Hittites and Aramaens in the Land of Bit-Adini"
+volume_no_: "1"
+pages: "27-36"
+journal: "Bulletin of the Middle Eastern Culture Center in Japan"
+title: "Hittites and Aramaens in the Land of Bit-Adini"
+previous_item: "14662"
+---

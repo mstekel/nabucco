@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12439"
+occurrence_id: "1804"
+short_title: "BSOAS 58 (1995), 158-159"
+author: "Zadok, Ran"
+publication_year: "1995"
+title: "Rv. M.A. Dandamayev, Iranians in Achaemenid Babylonia (1992)"
+volume_no_: "58"
+pages: "158-159"
+journal: "Bulletin of the School of Oriental and African Studies"
+title: "Rv. M.A. Dandamayev, Iranians in Achaemenid Babylonia (1992)"
+previous_item: "12442"
+---

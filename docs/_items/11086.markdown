@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11086"
+occurrence_id: "3531"
+short_title: "ZAR 10 (2004), 292-316."
+author: "Magdalene, Rachel F."
+publication_year: "2004"
+title: "Who is Job's Redeemer? Job 19:25 in Light of Neo-Babylonian Law."
+volume_no_: "10"
+pages: "292-316"
+journal: "Zeitschrift für Altorientalische und Biblische Rechtsgeschichte"
+title: "Who is Job's Redeemer? Job 19:25 in Light of Neo-Babylonian Law."
+previous_item: "11089"
+---

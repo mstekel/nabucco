@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10312"
+occurrence_id: "2347"
+short_title: "JNES 60 (2001), 65-69"
+author: "Koch, Johannes"
+publication_year: "2001"
+title: "Rv. N.M. Swerdlow, the Babylonian theory of the Planets"
+volume_no_: "60"
+pages: "65-69"
+journal: "Journal of Near Eastern Studies"
+title: "Rv. N.M. Swerdlow, the Babylonian theory of the Planets"
+previous_item: "10315"
+---

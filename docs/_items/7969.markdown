@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7969"
+occurrence_id: "1812"
+short_title: "BSOAS 66 (2003), 67-71."
+author: "Geller, Mark J."
+publication_year: "2003"
+title: "Rv. A.J. Sachs and H. Hunger, Astronomical Diaries and Related Texts from Babylonia, Vol. III. Diaries from 164 B.C. to 61 B.C."
+volume_no_: "66"
+pages: "67-71"
+journal: "Bulletin of the School of Oriental and African Studies"
+title: "Rv. A.J. Sachs and H. Hunger, Astronomical Diaries and Related Texts from Babylonia, Vol. III. Diaries from 164 B.C. to 61 B.C."
+previous_item: "7972"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14635"
+occurrence_id: "1613"
+short_title: "BCSMS 39 (2004), 15-20."
+author: "Jones, Alexander"
+publication_year: "2004"
+title: "The Legacy of Ancient Near Eastern Astronomy."
+volume_no_: "39"
+pages: "15-20"
+journal: "Bulletin. The Canadian Society for Mesopotamian Studies"
+title: "The Legacy of Ancient Near Eastern Astronomy."
+previous_item: "14638"
+---

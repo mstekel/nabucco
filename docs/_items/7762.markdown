@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7762"
+occurrence_id: "3717"
+short_title: "Index 8 (1978-79), 48-98"
+author: "Briant, Pierre"
+publication_year: "1978-79"
+title: "Contrainte militaire, dépendance rurale et exploitation des territoires en Asie achéménide"
+volume_no_: "8"
+pages: "48-98"
+journal: "Index"
+title: "Contrainte militaire, dépendance rurale et exploitation des territoires en Asie achéménide"
+previous_item: "7765"
+---

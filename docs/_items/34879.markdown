@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34879"
+place_id: "868"
+parent_id: "61"
+place_name: "Bīt-Iqīšā"
+title: "Bīt-Iqīšā"
+previous_item: "34882"
+---

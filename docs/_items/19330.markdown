@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19330"
+occurrence_id: "5061"
+short_title: "Head 2010"
+author: "Head, Ronan"
+publication_year: "2010"
+title: "\"Assyria at Bisitun and theuniversal kingship of Darius I of Persia.\""
+pages: "117-124"
+editor: "Robson, Eleanor"
+book: "Your Praise is Sweet: A Memorial Volume for Jeremy Black from Students, Colleagues and Friends (London)"
+title: "\"Assyria at Bisitun and theuniversal kingship of Darius I of Persia.\""
+previous_item: "19333"
+---

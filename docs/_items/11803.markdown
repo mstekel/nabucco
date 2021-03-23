@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11803"
+occurrence_id: "1381"
+short_title: "Annali di Ca' Foscari 39/3 (2000), 5-19"
+author: "Cussini, Eleonora"
+publication_year: "2000"
+title: "The Murašû aramaic epigraphs: Palaeographic Notes"
+volume_no_: "39/3"
+pages: "5-19"
+journal: "Annali di Ca' Foscari. Rivista della Facoltà di Lingue e Letterature Straniere dell'Università Ca' Foscari di Venezia (Serie Orientale)"
+title: "The Murašû aramaic epigraphs: Palaeographic Notes"
+previous_item: "11806"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10522"
+occurrence_id: "3497"
+short_title: "ZA 89 (1999), 115-139"
+author: "Rollinger, Robert"
+publication_year: "1999"
+title: "Zur Lokalisation von Parsu(m)a(š) in der Fārs und zu einigen Fragen der frühen persischen Geschichte"
+volume_no_: "89"
+pages: "115-139"
+journal: "Zeitschrift für Assyriologie"
+title: "Zur Lokalisation von Parsu(m)a(š) in der Fārs und zu einigen Fragen der frühen persischen Geschichte"
+previous_item: "10525"
+---

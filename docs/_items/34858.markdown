@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34858"
+place_id: "532"
+parent_id: "40"
+place_name: "Huṣṣūti-ša-Bau-ēreš"
+title: "Huṣṣūti-ša-Bau-ēreš"
+previous_item: "34861"
+---

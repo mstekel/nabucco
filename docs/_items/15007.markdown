@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15007"
+occurrence_id: "3618"
+short_title: "AJAH 3 (1978), 32-52"
+author: "Bigwood, Joan M."
+publication_year: "1978"
+title: "Ctesias' Description of Babylon"
+volume_no_: "3"
+pages: "32-52"
+journal: "American Journal of Archaeology"
+title: "Ctesias' Description of Babylon"
+previous_item: "15010"
+---

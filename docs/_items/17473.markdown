@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17473"
+occurrence_id: "920"
+short_title: "Zawadzki 1996a"
+author: "Zawadzki, Stefan "
+publication_year: "1996"
+title: "Mane, Tekel, Fares. Z ródla do dziejów Babilonii Chaldejskiej (Quellen zur Geschichte des chaldäischen Babylonien)"
+title: "Mane, Tekel, Fares. Z ródla do dziejów Babilonii Chaldejskiej (Quellen zur Geschichte des chaldäischen Babylonien)"
+previous_item: "17476"
+---

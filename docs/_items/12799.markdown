@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12799"
+occurrence_id: "3742"
+short_title: "JRAS 116 (1984), 282-284"
+author: "Hinnells, J.R."
+publication_year: "1984"
+title: "Rv. E. Yarshater (ed), The Cambridge History of Iran. Vol. 3, Parts I and II. the Seleucid, Parthian and Sasanian Periods, Cambridge 1983"
+volume_no_: "116"
+pages: "282-284"
+journal: "Journal of the Royal Asiatic Society"
+title: "Rv. E. Yarshater (ed), The Cambridge History of Iran. Vol. 3, Parts I and II. the Seleucid, Parthian and Sasanian Periods, Cambridge 1983"
+previous_item: "12802"
+---

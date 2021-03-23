@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19951"
+occurrence_id: "5064"
+short_title: "Schmitt 1993"
+author: "Schmitt, Rüdiger"
+publication_year: "1993"
+title: "Die Sprachverhältnisse im Achaimenidenreich"
+pages: "77-102"
+editor: "Tornaghi, P."
+book: "Lingue e culture in contatto nel Mondo Antico e Altomedievale (Brescia)"
+title: "Die Sprachverhältnisse im Achaimenidenreich"
+previous_item: "19954"
+---

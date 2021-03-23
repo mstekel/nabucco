@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13477"
+occurrence_id: "1384"
+short_title: "AnOr 12 (1935), 319-326"
+author: "Ungnad, Arthur"
+publication_year: "1935"
+title: "Babylonische Familiennamen"
+volume_no_: "12"
+pages: "319-326"
+journal: "Analecta Orientalia"
+title: "Babylonische Familiennamen"
+previous_item: "13480"
+---

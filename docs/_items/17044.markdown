@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17044"
+occurrence_id: "650"
+short_title: "Zadok 2002"
+author: "Zadok, Ran "
+publication_year: "2002"
+title: "The Ethno-Linguistic Character of Northwestern Iran and Kurdistan in the Neo-Assyrian Period."
+title: "The Ethno-Linguistic Character of Northwestern Iran and Kurdistan in the Neo-Assyrian Period."
+previous_item: "17047"
+---

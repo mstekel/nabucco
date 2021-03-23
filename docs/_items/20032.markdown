@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20032"
+occurrence_id: "4409"
+short_title: "Duyrat 2015"
+author: "Duyrat, Frédérique"
+publication_year: "2015"
+title: "The circulation of coins in Syria and Mesopotamia in the sixth to first centuries BC"
+pages: "363-395"
+editor: "van Leeuwen, Bas"
+book: "A History of Market Performance. From Ancient Babylonia to the Modern World, Routledge Explorations in Economic History (New York)"
+title: "The circulation of coins in Syria and Mesopotamia in the sixth to first centuries BC"
+previous_item: "20035"
+---

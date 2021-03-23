@@ -1,0 +1,12 @@
+---
+layout: "bibliography"
+slug: "16729"
+occurrence_id: "286"
+short_title: "OIP 97"
+author: "Biggs, Robert D. C."
+publication_year: "1978"
+title: "Nippur II. The North Temple and the Sounding E. Excavations of the Joint Expedition to Nippur of The American Schools of Oriental Research and The Oriental Institute of the University of Chicago "
+related_objects: "5815"
+title: "Nippur II. The North Temple and the Sounding E. Excavations of the Joint Expedition to Nippur of The American Schools of Oriental Research and The Oriental Institute of the University of Chicago "
+previous_item: "16732"
+---

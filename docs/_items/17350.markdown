@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17350"
+occurrence_id: "4085"
+short_title: "Kosmin 2014"
+author: "Kosmin, Paul J. "
+publication_year: "2014"
+title: "The Land of the Elephant Kings. Space, Territory, and Ideology in the Seleucid Empire (Cambridge/London)"
+title: "The Land of the Elephant Kings. Space, Territory, and Ideology in the Seleucid Empire (Cambridge/London)"
+previous_item: "17353"
+---

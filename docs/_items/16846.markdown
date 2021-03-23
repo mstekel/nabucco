@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "16846"
+occurrence_id: "58"
+short_title: "BIN 1"
+author: "Keiser, Clarence  E."
+publication_year: "1918"
+title: "Letters and Contracts from Erech written in the Neo-Babylonian Period. Babylonian Inscriptions in the Collection of James B. Nies 1 (New Haven) "
+volume_no_: "1"
+related_objects: "1963"
+title: "Letters and Contracts from Erech written in the Neo-Babylonian Period. Babylonian Inscriptions in the Collection of James B. Nies 1 (New Haven) "
+previous_item: "16849"
+---

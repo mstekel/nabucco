@@ -1,0 +1,12 @@
+---
+layout: "bibliography"
+slug: "13957"
+occurrence_id: "3968"
+short_title: "NABU 2012/75"
+author: "Jursa, Michael"
+publication_year: "2012"
+title: "malDītu \"nach\", \"nachher\" in spätbabylonischen Urkunden und Briefen"
+volume_no_: "2012/75"
+title: "malDītu \"nach\", \"nachher\" in spätbabylonischen Urkunden und Briefen"
+previous_item: "13960"
+---

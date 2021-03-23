@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16126"
+occurrence_id: "3604"
+short_title: "Achaemenid History 8 (1994), 329-351"
+author: "Stolper, Matthew W."
+publication_year: "1994"
+title: "On some aspects of continuity between Achaemenid and hellenistic Babylonian legal texts"
+volume_no_: "8"
+pages: "329-351"
+journal: "Achaemenid History"
+title: "On some aspects of continuity between Achaemenid and hellenistic Babylonian legal texts"
+previous_item: "16129"
+---

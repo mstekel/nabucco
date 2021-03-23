@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19567"
+occurrence_id: "282"
+short_title: "Weiher 1979"
+author: "von Weiher, Egbert"
+publication_year: "1979"
+title: "Die Tontafelfunde der 29. und 30. Kampagne"
+pages: "95-111"
+editor: "Schmidt, Jürgen"
+book: "XXIX. und XXX. Vorläufiger Bericht über die von dem Deutschen Archäologischen Institut aus Mitteln der Deutschen Forschungsgemeinschaft unternommenen Ausgrabungen in Uruk-Warka 1970/71 und 1971/72 (UVB 29-30)"
+title: "Die Tontafelfunde der 29. und 30. Kampagne"
+previous_item: "19570"
+---

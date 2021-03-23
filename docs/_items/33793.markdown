@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33793"
+place_id: "1225"
+parent_id: "61"
+place_name: "Šalāmē"
+title: "Šalāmē"
+previous_item: "33796"
+---

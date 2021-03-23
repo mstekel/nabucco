@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10558"
+occurrence_id: "3690"
+short_title: "ErIs 27 (2003), 91-109."
+author: "Hurowitz, Victor A."
+publication_year: "2003"
+title: "The Sun-Disk Tablet of Nebobaladan, King of Babylon (BBSt 36)."
+volume_no_: "27"
+pages: "91-109"
+journal: "Eretz Israel"
+title: "The Sun-Disk Tablet of Nebobaladan, King of Babylon (BBSt 36)."
+previous_item: "10561"
+---

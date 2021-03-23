@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8317"
+occurrence_id: "3686"
+short_title: "ErIs 27 (2003), 136*-152*."
+author: "Michalowski, Piotr"
+publication_year: "2003"
+title: "The Doors of the Past."
+volume_no_: "27"
+pages: "136*-152*."
+journal: "Eretz Israel"
+title: "The Doors of the Past."
+previous_item: "8320"
+---

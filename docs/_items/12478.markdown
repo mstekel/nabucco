@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12478"
+occurrence_id: "2012"
+short_title: "Iura 8 (1957), 502-505"
+author: "Klíma, Josef"
+publication_year: "1957"
+title: "Rv. H. Petschow, Neubabylonisches Pfandrecht (Berlin 1956)"
+volume_no_: "8"
+pages: "502-505"
+journal: "Iura"
+title: "Rv. H. Petschow, Neubabylonisches Pfandrecht (Berlin 1956)"
+previous_item: "12481"
+---

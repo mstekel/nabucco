@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15769"
+occurrence_id: "1679"
+short_title: "BiOr 44 (1987), 36-79"
+author: "Black, Jeremy A."
+publication_year: "1987"
+title: "Sumerian balag Compositions"
+volume_no_: "44"
+pages: "36-79"
+journal: "Bibliotheca Orientalis"
+title: "Sumerian balag Compositions"
+previous_item: "15772"
+---

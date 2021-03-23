@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17647"
+occurrence_id: "407"
+short_title: "Freydank 1974"
+author: "Freydank, Helmut "
+publication_year: "1974"
+title: "Wirtschaft und Gesellschaft in Uruk in der zweiten Hälfte des 6. Jahrhunderts v.u.Z. - Versuch einer Zusammenfassung"
+title: "Wirtschaft und Gesellschaft in Uruk in der zweiten Hälfte des 6. Jahrhunderts v.u.Z. - Versuch einer Zusammenfassung"
+previous_item: "17650"
+---

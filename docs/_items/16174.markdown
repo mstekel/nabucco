@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16174"
+occurrence_id: "3860"
+short_title: "Topoi 9 (1999), 389-391"
+author: "Joannès, Francis"
+publication_year: "1999"
+title: "Rv. G.F. del Monte, Testi dalla Babilonia Ellenistica, Vol. I: Testi Cronografici (Studi Hellenistici IX, 1997)"
+volume_no_: "9"
+pages: "389-391"
+journal: "Topoi"
+title: "Rv. G.F. del Monte, Testi dalla Babilonia Ellenistica, Vol. I: Testi Cronografici (Studi Hellenistici IX, 1997)"
+previous_item: "16177"
+---

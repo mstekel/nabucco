@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14713"
+occurrence_id: "2032"
+short_title: "JA 266 (1978), 1-35"
+author: "Grillot-Susini, Françoise"
+publication_year: "1978"
+title: "Les affixes nominaux et les pronoms indépendants de la langue élamite"
+volume_no_: "266"
+pages: "1-35"
+journal: "Journal Asiatique"
+title: "Les affixes nominaux et les pronoms indépendants de la langue élamite"
+previous_item: "14716"
+---

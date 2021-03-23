@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9388"
+occurrence_id: "3412"
+short_title: "ZA 56 (1964), 262-274"
+author: "Oelsner, Joachim"
+publication_year: "1964"
+title: "Ein Beitrag zu keilschriftlichen Königstitulaturen in hellenistischer Zeit,"
+volume_no_: "56"
+pages: "262-274"
+journal: "Zeitschrift für Assyriologie"
+title: "Ein Beitrag zu keilschriftlichen Königstitulaturen in hellenistischer Zeit,"
+previous_item: "9391"
+---

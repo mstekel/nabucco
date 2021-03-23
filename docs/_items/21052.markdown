@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21052"
+occurrence_id: "4333"
+short_title: "Leichty and Walker 2004"
+author: "Walker, Christopher,  Bromhead F."
+publication_year: "2004"
+title: "Three Babylonian Chronicle and Scientific Texts."
+pages: "203-212"
+editor: "Frame, Grant"
+book: "From the Upper Sea to the Lower Sea. Studies in the History of Assyria and Babylonia in Honour of A. K. Grayson (Leiden)"
+title: "Three Babylonian Chronicle and Scientific Texts."
+previous_item: "21055"
+---

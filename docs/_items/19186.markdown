@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19186"
+occurrence_id: "4292"
+short_title: "Rathbone 2014"
+author: "Rathbone, Dominic"
+publication_year: "2014"
+title: "Mediterranean and Near Eastern Grain Prices c. 300 to 31 BC: Some Preliminary Conclusions"
+pages: "313-322"
+editor: "Baker, Heather D."
+book: "Documentary Sources in Ancient Near Eastern and Greco-Roman Economic History. Methodology and Practice (Oxford/Philadelphia)"
+title: "Mediterranean and Near Eastern Grain Prices c. 300 to 31 BC: Some Preliminary Conclusions"
+previous_item: "19189"
+---

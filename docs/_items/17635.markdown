@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17635"
+occurrence_id: "333"
+short_title: "Briant 1973"
+author: "Briant, Pierre "
+publication_year: "1973"
+title: "Antigone le Borgne. Les débuts de sa carrière et les problèmes de l´assemblée macédonienne (centre de recherches d´histoire ancienne 10)"
+title: "Antigone le Borgne. Les débuts de sa carrière et les problèmes de l´assemblée macédonienne (centre de recherches d´histoire ancienne 10)"
+previous_item: "17638"
+---

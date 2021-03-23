@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14116"
+occurrence_id: "1823"
+short_title: "Centaurus 14 (1969), 267-286"
+author: "Schmidt, Olaf"
+publication_year: "1969"
+title: "A Mean Value Principle in Babylonian Planetary theory"
+volume_no_: "14"
+pages: "267-286"
+journal: "Centaurus"
+title: "A Mean Value Principle in Babylonian Planetary theory"
+previous_item: "14119"
+---

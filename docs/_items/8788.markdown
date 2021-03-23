@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8788"
+occurrence_id: "3201"
+short_title: "Specimina Nova Universitatis Quinqueecclesiensis 12 (1996), 323-325"
+author: "Vargyas, Péter"
+publication_year: "1996"
+title: "On some Unusual Neo-Babylonian Interest Rates"
+volume_no_: "12"
+pages: "323-325"
+journal: "Specimina Nova Universitatis Quinqueecclesiensis"
+title: "On some Unusual Neo-Babylonian Interest Rates"
+previous_item: "8791"
+---

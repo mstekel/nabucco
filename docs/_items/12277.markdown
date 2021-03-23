@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "12277"
+occurrence_id: "3933"
+short_title: "Mesopotamia 47 (2012), 1-102"
+author: "Damerji, Muayad Said Basim"
+publication_year: "2012"
+title: "Babylon ­ KA.DINGIR.RA ­ «Gate of God». The Story of a City Killed by Legends and Oblivion"
+volume_no_: "47"
+pages: "1-102"
+title: "Babylon ­ KA.DINGIR.RA ­ «Gate of God». The Story of a City Killed by Legends and Oblivion"
+previous_item: "12280"
+---

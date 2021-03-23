@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "9814"
+occurrence_id: "2685"
+short_title: "NABU 2006/23"
+author: "Tavernier, Jan"
+title: "*Yuvaiča and *Yuviča"
+volume_no_: "23"
+publication_year: "2006"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "*Yuvaiča and *Yuviča"
+previous_item: "9817"
+---

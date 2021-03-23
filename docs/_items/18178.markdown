@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18178"
+occurrence_id: "502"
+short_title: "Mallowan 1969"
+author: "Mallowan, Max E.L. "
+publication_year: "1969"
+title: "Elamite Problems"
+title: "Elamite Problems"
+previous_item: "18181"
+---

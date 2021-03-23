@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13831"
+occurrence_id: "3290"
+short_title: "UF 40 (2008), 533-545."
+author: "Schaudig, Hanspeter"
+publication_year: "2008"
+title: "A Tanit-Signfrom Babylon and the Conquest of Tyre by Nebuchadnezzar II."
+volume_no_: "40"
+pages: "533-545"
+journal: "Ugarit-Forschungen"
+title: "A Tanit-Signfrom Babylon and the Conquest of Tyre by Nebuchadnezzar II."
+previous_item: "13834"
+---

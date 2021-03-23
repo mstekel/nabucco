@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9529"
+occurrence_id: "1144"
+short_title: "Academie royale de Belgique, Bulletin de la Classe des Lettres et des Sciences morales et politiques, 5e série, 27 (1941), 222-244"
+author: "Goossens, Godefroy"
+publication_year: "1941"
+title: "Au déclin de la civilisation babylonienne: Uruk sous les Séleucides"
+volume_no_: "5e série, 27"
+pages: "222-244"
+journal: "Academie royale de Belgique, Bulletin de la Classe des Lettres et des Sciences morales et politiques"
+title: "Au déclin de la civilisation babylonienne: Uruk sous les Séleucides"
+previous_item: "9532"
+---

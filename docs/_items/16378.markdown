@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16378"
+occurrence_id: "1939"
+short_title: "IrAn 41 (2006), 59-69."
+author: "Waters, Matthew, W."
+publication_year: "2006"
+title: "A Neo-Elamite Royal Family."
+volume_no_: "41"
+pages: "59-69"
+journal: "Iranica Antiqua"
+title: "A Neo-Elamite Royal Family."
+previous_item: "16381"
+---

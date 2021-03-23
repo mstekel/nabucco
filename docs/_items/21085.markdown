@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21085"
+occurrence_id: "4510"
+short_title: "Gasche and Cole 2001"
+author: "Gasche, Hermann"
+publication_year: "2001"
+title: "Irnina, Zubi and other Watercourses in the Area North of Sippar: A Summary"
+pages: "197-210"
+editor: "Breniquet, Catherine"
+book: "Études Mésopotamiennes, Fs. Huot (Paris)"
+title: "Irnina, Zubi and other Watercourses in the Area North of Sippar: A Summary"
+previous_item: "21088"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14356"
+occurrence_id: "3115"
+short_title: "RA 99 (2005), 180-182."
+author: "Joannès, Francis"
+publication_year: "2005"
+title: "Rv. S. W. Cole, The Early Neo-Babylonian Governor's Archive from Nippur (= OIP 114, Chicago, 1996)."
+volume_no_: "99"
+pages: "180-182"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "Rv. S. W. Cole, The Early Neo-Babylonian Governor's Archive from Nippur (= OIP 114, Chicago, 1996)."
+previous_item: "14359"
+---

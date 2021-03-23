@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "13714"
+occurrence_id: "2660"
+short_title: "NABU 2004/44"
+author: "Zadok, Ran"
+title: "A promissory note from the atkuppu archive"
+volume_no_: "44"
+publication_year: "2004"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "A promissory note from the atkuppu archive"
+previous_item: "13717"
+---

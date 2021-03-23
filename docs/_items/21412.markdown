@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "21412"
+occurrence_id: "5151"
+short_title: "Struve 1971"
+author: "Struve, Vassili V."
+publication_year: "1968"
+title: "Neue Angaben zur alten Geschichte Armeniens, bezeugt in der Behistun-Inschrift  (in Russ.)"
+pages: "7-23, 216-221"
+book: "Этюды по истории Северного Причерноморья, Кавказа и Средней Азии (Ленинград 1968)[Ètjudy po istorii Severnogo Pričernomor’ja, Kavkaza i Srednej Azii (Leningrad 1968)]"
+title: "Neue Angaben zur alten Geschichte Armeniens, bezeugt in der Behistun-Inschrift  (in Russ.)"
+previous_item: "21415"
+---

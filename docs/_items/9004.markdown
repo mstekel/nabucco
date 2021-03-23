@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9004"
+occurrence_id: "1343"
+short_title: "AMI 21 (1988 publ.1990), 91-137"
+author: "Abka´i-Kahvari, Manijeh"
+publication_year: "1988 publ.1990"
+title: "Die achämenidischen Metallschalen"
+volume_no_: "21"
+pages: "91-137"
+journal: "Archäologische Mitteilungen aus Iran"
+title: "Die achämenidischen Metallschalen"
+previous_item: "9007"
+---

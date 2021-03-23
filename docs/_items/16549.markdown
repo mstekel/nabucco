@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16549"
+occurrence_id: "776"
+short_title: "Ebeling 1930-1934 (NBrU)"
+author: "Ebeling, Erich "
+publication_year: "1930-1934"
+title: "Neubabylonische Briefe aus Uruk, Beiträge zur Keilschriftforschung and Religionsgeschichte des Vorderen Orients 1-4 (Berlin)"
+title: "Neubabylonische Briefe aus Uruk, Beiträge zur Keilschriftforschung and Religionsgeschichte des Vorderen Orients 1-4 (Berlin)"
+previous_item: "16552"
+---

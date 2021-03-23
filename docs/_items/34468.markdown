@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "34468"
+place_id: "1393"
+parent_id: "37"
+place_name: "Ālu-ša-libbi-ālaya"
+related_objects: "4433"
+title: "Ālu-ša-libbi-ālaya"
+previous_item: "34471"
+---

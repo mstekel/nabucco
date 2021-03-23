@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21370"
+occurrence_id: "4927"
+short_title: "Beaulieu 2000b"
+author: "Beaulieu, Paul-A."
+publication_year: "2000"
+title: "A Land Grant on a Cylinder Seal and Assurbanipal´s Babylonian Policy"
+pages: "25-45"
+editor: "Graziani, Simonetta"
+book: "Studi sul vicino oriente antico dedicati alla memoria di Luigi Cagni (Napoli)"
+title: "A Land Grant on a Cylinder Seal and Assurbanipal´s Babylonian Policy"
+previous_item: "21373"
+---

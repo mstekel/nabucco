@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13744"
+occurrence_id: "2821"
+short_title: "OLZ 94 (1999), 52-54"
+author: "Kessler, Karlheinz"
+publication_year: "1999"
+title: "Rv. G. Frame, Babylonia 689-627 B.C. A Political History (PIHANS 69, 1992)"
+volume_no_: "94"
+pages: "52-54"
+journal: "Orientalistische Literaturzeitung"
+title: "Rv. G. Frame, Babylonia 689-627 B.C. A Political History (PIHANS 69, 1992)"
+previous_item: "13747"
+---

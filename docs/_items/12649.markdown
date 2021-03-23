@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12649"
+occurrence_id: "2934"
+short_title: "Or 71/1 (2002), 55-156"
+author: "Bongenaar, A.C.V.M."
+publication_year: "2002"
+title: "Tablets from Sippar: Supplementary bibliography etc. for Leichty, Catalogues VI-VIII, up to the End of 2000"
+volume_no_: "71/1"
+pages: "55-156"
+journal: "Orientalia"
+title: "Tablets from Sippar: Supplementary bibliography etc. for Leichty, Catalogues VI-VIII, up to the End of 2000"
+previous_item: "12652"
+---

@@ -1,0 +1,9 @@
+---
+layout: "archive"
+slug: "23023"
+archive_id: "232"
+archive_name: "Silim-Bēl/Arrabi"
+is_part_of: "Isin"
+title: "Silim-Bēl/Arrabi"
+previous_item: "23026"
+---

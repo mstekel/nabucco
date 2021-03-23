@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "34039"
+place_id: "1490"
+parent_id: "37"
+place_name: "Bābtu"
+related_objects: "8174"
+title: "Bābtu"
+previous_item: "34042"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15799"
+occurrence_id: "1842"
+short_title: "DAFI 3 (1973), 115-169"
+author: "Grillot-Susini, Françoise"
+publication_year: "1973"
+title: "La postposition génitive -na en élamite"
+volume_no_: "3"
+pages: "115-169"
+journal: "Cahiers de la Délégation Archéologique Française en Iran"
+title: "La postposition génitive -na en élamite"
+previous_item: "15802"
+---

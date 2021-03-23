@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19810"
+occurrence_id: "4311"
+short_title: "Cussini 2013"
+author: "Cussini, Eleonora"
+publication_year: "2013"
+title: "The Career of Some Elephantine and Murašû Scribes and Witnesses"
+pages: "39-52"
+editor: "Botta, Alejandro, F."
+book: "In the Shadow of Bezalel. Aramaic, Biblical, and Ancient Near Eastern Studies in Honor of Bezalel Porten, Culture and History of the Ancient Near East 60 (Leiden/Boston)"
+title: "The Career of Some Elephantine and Murašû Scribes and Witnesses"
+previous_item: "19813"
+---

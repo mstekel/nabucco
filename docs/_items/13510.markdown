@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13510"
+occurrence_id: "1563"
+short_title: "BaM 22 (1991), 383-499"
+author: "Allinger-Csollich, Wilfried"
+publication_year: "1991"
+title: "Birs Nimrud I. Die Baukörper der Ziqqurat von Borsippa. Ein Vorbericht"
+volume_no_: "22"
+pages: "383-499"
+journal: "Baghdader Mitteilungen"
+title: "Birs Nimrud I. Die Baukörper der Ziqqurat von Borsippa. Ein Vorbericht"
+previous_item: "13513"
+---

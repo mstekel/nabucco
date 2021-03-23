@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "35017"
+place_id: "1306"
+parent_id: "61"
+place_name: "Til-atūnē"
+title: "Til-atūnē"
+previous_item: "35020"
+---

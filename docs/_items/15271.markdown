@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15271"
+occurrence_id: "2017"
+short_title: "JA 230 (1938), 501-507"
+author: "Bazin-Foucher, Eugénie"
+publication_year: "1938"
+title: "Rv. E. Bikerman, Institutions des Séleucides"
+volume_no_: "230"
+pages: "501-507"
+journal: "Journal Asiatique"
+title: "Rv. E. Bikerman, Institutions des Séleucides"
+previous_item: "15274"
+---

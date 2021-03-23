@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15535"
+occurrence_id: "3440"
+short_title: "ZA 7 (1892), 220-254"
+author: "Epping, Jos"
+publication_year: "1892"
+title: "Babylonische Mondbeobachtungen aus den Jahren 38 und 79 der Seleuciden-Aera"
+volume_no_: "7"
+pages: "220-254"
+journal: "Zeitschrift für Assyriologie"
+title: "Babylonische Mondbeobachtungen aus den Jahren 38 und 79 der Seleuciden-Aera"
+previous_item: "15538"
+---

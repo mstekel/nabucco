@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "8086"
+occurrence_id: "2439"
+short_title: "NABU 1987/32"
+author: "Vallat, François"
+publication_year: "1987"
+title: "L'expression <<E.V.>> (En Ville) à l'époque néo-élamite"
+volume_no_: "32"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "L'expression <<E.V.>> (En Ville) à l'époque néo-élamite"
+previous_item: "8089"
+---

@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17320"
+occurrence_id: "782"
+short_title: "Frei;Koch 1996"
+author: "Frei, Peter "
+publication_year: "1996"
+title: "Reichsidee und Reichsorganisation im Perserreich. Zweite, bearbeitete and stark erweiterte Auflage, OBO 55 (Freiburg and Göttinge)"
+title: "Reichsidee und Reichsorganisation im Perserreich. Zweite, bearbeitete and stark erweiterte Auflage, OBO 55 (Freiburg and Göttinge)"
+previous_item: "17323"
+---

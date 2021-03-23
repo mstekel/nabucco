@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "8128"
+occurrence_id: "2666"
+short_title: "NABU 2004/69"
+author: "Frame, Grant"
+title: "ABL 1274 and the Careers of Sin-sarra-usur and Sin-tabni-usur"
+volume_no_: "69"
+publication_year: "2004"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "ABL 1274 and the Careers of Sin-sarra-usur and Sin-tabni-usur"
+previous_item: "8131"
+---

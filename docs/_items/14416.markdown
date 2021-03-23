@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14416"
+occurrence_id: "3438"
+short_title: "ZA 69 (1980), 300-304"
+author: "Farber, Walter"
+publication_year: "1980"
+title: "Rv. H. Hunger, Spätbabylonische Texte aus Uruk, Teil I"
+volume_no_: "69"
+pages: "300-304"
+journal: "Zeitschrift für Assyriologie"
+title: "Rv. H. Hunger, Spätbabylonische Texte aus Uruk, Teil I"
+previous_item: "14419"
+---

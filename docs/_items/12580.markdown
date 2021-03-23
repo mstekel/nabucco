@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "12580"
+occurrence_id: "2561"
+short_title: "NABU 1997/16"
+author: "Zadok, Ran"
+title: "girgû, girrigû"
+volume_no_: "16"
+publication_year: "1997"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "girgû, girrigû"
+previous_item: "12583"
+---

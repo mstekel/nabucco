@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9418"
+occurrence_id: "3576"
+short_title: "ZPE 119 (1997), 167-172"
+author: "Jones, Alexander"
+publication_year: "1997"
+title: "A Greek Papyrus Containing Babylonian Lunar theory"
+volume_no_: "119"
+pages: "167-172"
+journal: "Zeitschrift für Papyrologie und Epigraphik"
+title: "A Greek Papyrus Containing Babylonian Lunar theory"
+previous_item: "9421"
+---

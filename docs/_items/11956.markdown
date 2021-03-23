@@ -1,0 +1,15 @@
+---
+layout: "bibliography"
+slug: "11956"
+occurrence_id: "2204"
+short_title: "JCS 53 (2001), 83-132"
+author: "Stolper, Matthew W."
+publication_year: "2001"
+title: "Fifth Century Nippur: Texts of the Murašûs and from their Surroundings"
+volume_no_: "53"
+pages: "83-132"
+related_objects: "8554"
+journal: "Journal of Cuneiform Studies"
+title: "Fifth Century Nippur: Texts of the Murašûs and from their Surroundings"
+previous_item: "11959"
+---

@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16621"
+occurrence_id: "416"
+short_title: "Ghirshman 1955"
+author: "Ghirshman, Roman "
+publication_year: "1955"
+title: "Iran: From the Earliest Times to the Islamic Conquest ( Penguin Books)"
+title: "Iran: From the Earliest Times to the Islamic Conquest ( Penguin Books)"
+previous_item: "16624"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10168"
+occurrence_id: "1573"
+short_title: "BaM 31 (2000), 213-248 (15 Pl., 4 Tab.)"
+author: "Cavigneaux, Antoine"
+publication_year: "2000"
+title: "Neue Texte historischen Inhalts aus den irakischen Grabungen von Babylon"
+volume_no_: "31"
+pages: "213-248"
+journal: "Baghdader Mitteilungen"
+title: "Neue Texte historischen Inhalts aus den irakischen Grabungen von Babylon"
+previous_item: "10171"
+---

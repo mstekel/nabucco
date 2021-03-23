@@ -1,0 +1,15 @@
+---
+layout: "tablet"
+slug: "29446"
+object_id: "7558"
+museum_no_: "MNB 1810"
+publication: "TCL 13"
+text_number: "219"
+duplicate: "BM 32165+"
+imported: "Kathleen Abraham 20/12/2016"
+publication_name: "TCL 13 219"
+archive: "Egibi/Nūr-Sîn"
+related_objects: "7577"
+title: "MNB 1810"
+previous_item: "29449"
+---

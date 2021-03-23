@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34288"
+place_id: "277"
+parent_id: "40"
+place_name: "Bīt-Iltehri-nūrī"
+title: "Bīt-Iltehri-nūrī"
+previous_item: "34291"
+---

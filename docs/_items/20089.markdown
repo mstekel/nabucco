@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20089"
+occurrence_id: "4713"
+short_title: "Mayrhofer 1974"
+author: "Mayrhofer, Manfred"
+publication_year: "1973 publ. 1974"
+title: "Der Reiner-Test"
+pages: "191-197"
+editor: "Rüster, Ch."
+book: "Documentum Asiae Minoris Antiquae, Fs. Otten, Heinrich (Wiesbaden)"
+title: "Der Reiner-Test"
+previous_item: "20092"
+---

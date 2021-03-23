@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13345"
+occurrence_id: "3679"
+short_title: "Eos 74 (1986), 337-343"
+author: "Zawadzki, Stefan"
+publication_year: "1986"
+title: "Babylonian Chronicle BM 25127, 1-17: one or two years ?"
+volume_no_: "74"
+pages: "337-343"
+journal: "Eos. Commentarii Societatis Philologae Polonorum"
+title: "Babylonian Chronicle BM 25127, 1-17: one or two years ?"
+previous_item: "13348"
+---

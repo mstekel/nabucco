@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8065"
+occurrence_id: "2327"
+short_title: "JNES 53 (1994), 111-115"
+author: "Kinnier Wilson, James V."
+publication_year: "1994"
+title: "The sāmānu Disease in Babylonian Medicine"
+volume_no_: "53"
+pages: "111-115"
+journal: "Journal of Near Eastern Studies"
+title: "The sāmānu Disease in Babylonian Medicine"
+previous_item: "8068"
+---

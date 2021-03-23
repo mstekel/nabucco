@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15166"
+occurrence_id: "1452"
+short_title: "Archéologia 224 (1987), 18-27"
+author: "al-Jadir, Walid"
+publication_year: "1987"
+title: "Une bibliohèque et ses tablettes"
+volume_no_: "224"
+pages: "18-27"
+journal: "Archéologia"
+title: "Une bibliohèque et ses tablettes"
+previous_item: "15169"
+---

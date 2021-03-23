@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12073"
+occurrence_id: "2834"
+short_title: "Or 12 (1943), 159-160"
+author: "Pohl, Alfred"
+publication_year: "1943"
+title: "Rv. A. Falkenstein, Topographie von Uruk. I"
+volume_no_: "12"
+pages: "159-160"
+journal: "Orientalia"
+title: "Rv. A. Falkenstein, Topographie von Uruk. I"
+previous_item: "12076"
+---

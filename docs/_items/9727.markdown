@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9727"
+occurrence_id: "2216"
+short_title: "JCS 62 (2010), 95-104"
+author: "Nielsen, John P."
+publication_year: "2010"
+title: "Three Early Neo-Babylonian Tablets Belonging to Bel-etir of theMisiraya Kin Group."
+volume_no_: "62"
+pages: "95-104"
+journal: "Journal of Cuneiform Studies"
+title: "Three Early Neo-Babylonian Tablets Belonging to Bel-etir of theMisiraya Kin Group."
+previous_item: "9730"
+---

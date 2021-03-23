@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10150"
+occurrence_id: "1476"
+short_title: "ArOr 39 (1971), 1-13"
+author: "Matouš, Lubor"
+publication_year: "1971"
+title: "Einige Bemerkungen zu altsumerischen Rechtsurkunden"
+volume_no_: "39"
+pages: "1-13"
+journal: "Archív Orientalí"
+title: "Einige Bemerkungen zu altsumerischen Rechtsurkunden"
+previous_item: "10153"
+---

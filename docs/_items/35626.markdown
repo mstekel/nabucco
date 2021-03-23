@@ -1,0 +1,10 @@
+---
+layout: "glossary"
+slug: "35626"
+concept_id: "817"
+label: "Legal - Temporary"
+hierarchy: "Content type"
+type: "172"
+title: "Legal - Temporary"
+previous_item: "35629"
+---

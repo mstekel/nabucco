@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9643"
+occurrence_id: "1766"
+short_title: "BSA 5 (1990), 218"
+author: "van Driel, Govert"
+publication_year: "1990"
+title: "Note on BSAg 4 pp. 127 and 150-1"
+volume_no_: "5"
+pages: "218"
+journal: "Bulletin on Sumerian Agriculture"
+title: "Note on BSAg 4 pp. 127 and 150-1"
+previous_item: "9646"
+---

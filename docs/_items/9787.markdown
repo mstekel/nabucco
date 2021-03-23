@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "9787"
+occurrence_id: "2540"
+short_title: "NABU 1996/20"
+author: "Weszeli, Michaela"
+title: "Zu BM 85367 and BM 85576"
+volume_no_: "20"
+publication_year: "1996"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Zu BM 85367 and BM 85576"
+previous_item: "9790"
+---

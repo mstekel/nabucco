@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9454"
+occurrence_id: "3768"
+short_title: "JSS 4 (1959), 1-15"
+author: "Lambert, Wilfred G."
+publication_year: "1959"
+title: "Divine Love Lyrics from Babylon"
+volume_no_: "4"
+pages: "1-15"
+journal: "Journal of Semitic Studies"
+title: "Divine Love Lyrics from Babylon"
+previous_item: "9457"
+---

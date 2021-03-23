@@ -1,0 +1,9 @@
+---
+layout: "archive"
+slug: "22882"
+archive_id: "265"
+archive_name: "ENB letters"
+is_part_of: "Nippur"
+title: "ENB letters"
+previous_item: "22885"
+---

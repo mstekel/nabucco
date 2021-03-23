@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15835"
+occurrence_id: "2034"
+short_title: "JA 278 (1990), 213-222"
+author: "Grillot-Susini, Françoise"
+publication_year: "1990"
+title: "Les textes de fondation du Palais de Suse"
+volume_no_: "278"
+pages: "213-222"
+journal: "Journal Asiatique"
+title: "Les textes de fondation du Palais de Suse"
+previous_item: "15838"
+---

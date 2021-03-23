@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34972"
+place_id: "583"
+parent_id: "40"
+place_name: "Nāqidīni"
+title: "Nāqidīni"
+previous_item: "34975"
+---

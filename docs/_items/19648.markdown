@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19648"
+occurrence_id: "4551"
+short_title: "Meyer 2001"
+author: "Meyer, Jan-Waalke"
+publication_year: "2001"
+title: "Zur Bedeutung der Bootsmodelle aus dem Alten Orient"
+pages: "267-283"
+editor: "Prechel, Doris"
+book: "Kulturgeschichten, Fs. Haas (Saarbrücken)"
+title: "Zur Bedeutung der Bootsmodelle aus dem Alten Orient"
+previous_item: "19651"
+---

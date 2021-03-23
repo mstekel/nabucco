@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10963"
+occurrence_id: "2864"
+short_title: "Or 31 (1962), 34-44"
+author: "Hinz, Walther"
+publication_year: "1962"
+title: "Elamisch hu-sa"
+volume_no_: "31"
+pages: "34-44"
+journal: "Orientalia"
+title: "Elamisch hu-sa"
+previous_item: "10966"
+---

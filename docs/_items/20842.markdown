@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20842"
+occurrence_id: "4316"
+short_title: "Ehrenberg 1998"
+author: "Ehrenberg, Erica"
+publication_year: "1998"
+title: "Archaism and Individualism in the Late Babylonian Period"
+pages: "125-140"
+editor: "Proseckð, Jiri"
+book: "Intellectual Life of the Ancient Near East, RAI 43 (Prague)"
+title: "Archaism and Individualism in the Late Babylonian Period"
+previous_item: "20845"
+---

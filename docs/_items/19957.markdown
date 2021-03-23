@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19957"
+occurrence_id: "5096"
+short_title: "Maul 2013"
+author: "Maul, Stefan M."
+publication_year: "2013"
+title: "Das Haus des Götterkönigs: Gedanken zur Konzeption überregionaler Heiligtümer im Alten Orient"
+pages: "311-324"
+editor: "Löhnert, Anne "
+book: "Tempel im Alten Orient. 7. Internationales Colloquium der Deutschen Orient-Gesellschaft 11.-13. Oktober 2009, München, Colloquien der Deutschen Orient-Gesellschaft (Wiesbaden)"
+title: "Das Haus des Götterkönigs: Gedanken zur Konzeption überregionaler Heiligtümer im Alten Orient"
+previous_item: "19960"
+---

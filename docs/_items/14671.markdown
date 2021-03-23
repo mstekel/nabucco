@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14671"
+occurrence_id: "1808"
+short_title: "BSOAS 60 (1997), 347-349"
+author: "Bivar, Adrian David H."
+publication_year: "1997"
+title: "Rv. P. Briant, Histoire de l´Empire perse de Cyrus à Alexandre (1996)"
+volume_no_: "60"
+pages: "347-349"
+journal: "Bulletin of the School of Oriental and African Studies"
+title: "Rv. P. Briant, Histoire de l´Empire perse de Cyrus à Alexandre (1996)"
+previous_item: "14674"
+---

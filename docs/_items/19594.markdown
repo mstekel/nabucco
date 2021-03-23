@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19594"
+occurrence_id: "4262"
+short_title: "Arnaud 2001"
+author: "Arnaud, Daniel"
+publication_year: "2001"
+title: "Le panthéon de l´Ebabbar de Larsa à l´époque paléo-babylonienne"
+pages: "21-32"
+editor: "Breniquet, Catherine"
+book: "Études Mésopotamiennes, Fs. Huot (Paris)"
+title: "Le panthéon de l´Ebabbar de Larsa à l´époque paléo-babylonienne"
+previous_item: "19597"
+---

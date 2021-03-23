@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20149"
+occurrence_id: "5033"
+short_title: "van der Spek, Foldvari and van Leeuwen 2015"
+author: "van Leeuwen, Bas"
+publication_year: "2015"
+title: "Growing silver and changing prices: the development of the money stock in ancient Babylonia and medieval England"
+pages: "489-505"
+editor: "van Leeuwen, Bas"
+book: "A History of Market Performance. From Ancient Babylonia to the Modern World, Routledge Explorations in Economic History (New York)"
+title: "Growing silver and changing prices: the development of the money stock in ancient Babylonia and medieval England"
+previous_item: "20152"
+---

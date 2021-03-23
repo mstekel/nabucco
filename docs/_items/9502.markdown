@@ -1,0 +1,12 @@
+---
+layout: "bibliography"
+slug: "9502"
+occurrence_id: "4025"
+short_title: "NABU 2013/12"
+author: "Siddall, Luis R."
+publication_year: "2013"
+title: "ḪA-BI-(GAL) in Babylonian King List A: an alternative proposal"
+volume_no_: "2013/12"
+title: "ḪA-BI-(GAL) in Babylonian King List A: an alternative proposal"
+previous_item: "9505"
+---

@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "8350"
+occurrence_id: "3862"
+short_title: "TPS (1969), 167-200"
+author: "Gershevitch, Ilya"
+publication_year: "1969"
+title: "Iranian Nouns and Names in Elamite Garb"
+pages: "167-200"
+journal: "Transactions of the Philological Society"
+title: "Iranian Nouns and Names in Elamite Garb"
+previous_item: "8353"
+---

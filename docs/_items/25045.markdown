@@ -1,0 +1,16 @@
+---
+layout: "tablet"
+slug: "25045"
+object_id: "6808"
+nabucco_no_: "BodleianA175"
+museum_no_: "Bodleian A 175"
+publication: "Joannès 1989"
+text_number: "293"
+type_and_content: "Letters"
+paraphrase: "Broken letter from Kunāya to Puhhuru about the settlement of accounts (<em>nishu nasāhu</em>) and available amounts of silver.<br /> &nbsp;"
+imported: "Melanie Gross (12/12/2016)"
+publication_name: "Joannès 1989 293"
+archive: "Ea-ilūtu-bāni, Ilī-bāni and Nanāhu"
+title: "Bodleian A 175"
+previous_item: "25048"
+---

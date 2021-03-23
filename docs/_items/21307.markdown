@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "21307"
+occurrence_id: "4591"
+short_title: "Munn-Rankin 1963"
+author: "Munn-Rankin, Joan Margaret"
+publication_year: "1963"
+title: "Achaemenidae"
+pages: "89"
+book: "Encyclopaedia Britannica 1 (London)"
+title: "Achaemenidae"
+previous_item: "21310"
+---

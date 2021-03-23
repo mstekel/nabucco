@@ -1,0 +1,16 @@
+---
+layout: "tablet"
+slug: "33022"
+object_id: "8860"
+museum_no_: "BM 43511"
+publication: "Jursa 1999"
+page_number: "239"
+period: "Each"
+type_and_content: "Indeterminate texts"
+paraphrase: "Fragment"
+imported: "Matthias Adelhofer (07/06/17)"
+publication_name: "Jursa 1999 "
+archive: "Šangû-Šamaš A"
+title: "BM 43511"
+previous_item: "33025"
+---

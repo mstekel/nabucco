@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8509"
+occurrence_id: "1699"
+short_title: "BiOr 54 (1997), 307-309"
+author: "Elayi, Josette"
+publication_year: "1997"
+title: "Rv. P. Briant, Dans les pas des Dix-Mille. Peuples et pays du Proche-Orient vus par un Grec (1995)"
+volume_no_: "54"
+pages: "307-309"
+journal: "Bibliotheca Orientalis"
+title: "Rv. P. Briant, Dans les pas des Dix-Mille. Peuples et pays du Proche-Orient vus par un Grec (1995)"
+previous_item: "8512"
+---

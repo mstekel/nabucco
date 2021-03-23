@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21544"
+occurrence_id: "4752"
+short_title: "Roth 1989a"
+author: "Roth, Martha T."
+publication_year: "1989"
+title: "A Case of Contested Status,"
+pages: "481-489"
+editor: "Loding, Darlene"
+book: "DUMU-E2-DUB-BA-A. Studies in theHonor of Åke W. Sjöberg (Philadelphia)"
+title: "A Case of Contested Status,"
+previous_item: "21547"
+---

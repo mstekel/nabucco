@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20119"
+occurrence_id: "4873"
+short_title: "Dandamayev 1998-2001"
+author: "Dandamayev, Muhammed A."
+publication_year: "1998-2001"
+title: "Nabonid. A. the last king of the Late Babylonian empire"
+pages: "6-11."
+editor: "Meissner, Bruno"
+book: "Reallexikon der Assyriologie 9 (1998-2001)"
+title: "Nabonid. A. the last king of the Late Babylonian empire"
+previous_item: "20122"
+---

@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34393"
+place_id: "184"
+parent_id: "40"
+place_name: "Bar[]e"
+title: "Bar[]e"
+previous_item: "34396"
+---

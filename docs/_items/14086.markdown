@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14086"
+occurrence_id: "1660"
+short_title: "BiOr 33 (1976), 5-6"
+author: "Zadok, Ran"
+publication_year: "1976"
+title: "Three Iranian Words in Late Babylonian Documents"
+volume_no_: "33"
+pages: "5-6"
+journal: "Bibliotheca Orientalis"
+title: "Three Iranian Words in Late Babylonian Documents"
+previous_item: "14089"
+---

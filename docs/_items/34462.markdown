@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34462"
+place_id: "1291"
+parent_id: "61"
+place_name: "Tamertu-ša-sīsē"
+title: "Tamertu-ša-sīsē"
+previous_item: "34465"
+---

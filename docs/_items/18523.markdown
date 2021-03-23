@@ -1,0 +1,12 @@
+---
+layout: "bibliography"
+slug: "18523"
+occurrence_id: "182"
+short_title: "Beaulieu 2003"
+author: "Beaulieu, Paul-A. "
+publication_year: "2003"
+title: "The Pantheon of Uruk during the Neo-Babylonian Period (CM 23)"
+related_objects: "5751"
+title: "The Pantheon of Uruk during the Neo-Babylonian Period (CM 23)"
+previous_item: "18526"
+---

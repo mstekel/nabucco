@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17932"
+occurrence_id: "570"
+short_title: "Schmitt 2003"
+author: "Schmitt, Rüdiger "
+publication_year: "2003"
+title: "Meno-Logium Bagistano-Persepolitanum: Studien zu de altpersischen Monatsnamen und ihren elamischen Wiedergaben."
+title: "Meno-Logium Bagistano-Persepolitanum: Studien zu de altpersischen Monatsnamen und ihren elamischen Wiedergaben."
+previous_item: "17935"
+---

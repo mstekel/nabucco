@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21808"
+occurrence_id: "5057"
+short_title: "Sack 1995"
+author: "Sack, Ronald H."
+publication_year: "1995"
+title: "Royal and Temple Officials in Eanna and Uruk in the Chaldean Period"
+pages: "425-432"
+editor: "Dietrich, Manfried"
+book: "Vom Alten Orient zum Alten Testament, Fs.von Soden, AOAT 240 (Münster)"
+title: "Royal and Temple Officials in Eanna and Uruk in the Chaldean Period"
+previous_item: "21811"
+---

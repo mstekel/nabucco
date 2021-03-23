@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34342"
+place_id: "1141"
+parent_id: "61"
+place_name: "Maškattu-ša-Amurru"
+title: "Maškattu-ša-Amurru"
+previous_item: "34345"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13669"
+occurrence_id: "2417"
+short_title: "Mesopotamia 31 (1996), 248-251"
+author: "Mollo, Paolo"
+publication_year: "1996"
+title: "Rv. R. Wallenfels, Uruk. Hellenistic Seal Impressions in the Yale Babylonian Collection. I. Cuneiform Tablets (AUWE 19, 1994)"
+volume_no_: "31"
+pages: "248-251"
+journal: "Mesopotamia"
+title: "Rv. R. Wallenfels, Uruk. Hellenistic Seal Impressions in the Yale Babylonian Collection. I. Cuneiform Tablets (AUWE 19, 1994)"
+previous_item: "13672"
+---

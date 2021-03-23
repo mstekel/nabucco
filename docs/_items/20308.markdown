@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20308"
+occurrence_id: "4778"
+short_title: "Jursa 2000"
+author: "Jursa, Michael"
+publication_year: "2000"
+title: "ṭerdu. Von Entführung in Babylon und Majestätsbeleidigung in Larsa"
+pages: "497-514"
+editor: "Graziani, Simonetta"
+book: "Studi sul vicino oriente antico dedicati alla memoria di Luigi Cagni (Napoli)"
+title: "ṭerdu. Von Entführung in Babylon und Majestätsbeleidigung in Larsa"
+previous_item: "20311"
+---

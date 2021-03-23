@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15778"
+occurrence_id: "1729"
+short_title: "BiOr 64 (2007), 307-320"
+author: "Kozuh, Michael"
+publication_year: "2007"
+title: "The Egibis in English."
+volume_no_: "64"
+pages: "307-320"
+journal: "Bibliotheca Orientalis"
+title: "The Egibis in English."
+previous_item: "15781"
+---

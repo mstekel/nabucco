@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14665"
+occurrence_id: "1775"
+short_title: "BSOAS 27 (1964), 175-176"
+author: "Bivar, Adrian David H."
+publication_year: "1964"
+title: "Rv. R.N. Frye, The Heritage of Persia"
+volume_no_: "27"
+pages: "175-176"
+journal: "Bulletin of the School of Oriental and African Studies"
+title: "Rv. R.N. Frye, The Heritage of Persia"
+previous_item: "14668"
+---

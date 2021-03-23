@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13531"
+occurrence_id: "1675"
+short_title: "BiOr 42 (1985), 541-562"
+author: "van der Spek, Robartus"
+publication_year: "1985"
+title: "The Babylonian Temple during theMacedonian and Parthian Domination"
+volume_no_: "42"
+pages: "541-562"
+journal: "Bibliotheca Orientalis"
+title: "The Babylonian Temple during theMacedonian and Parthian Domination"
+previous_item: "13534"
+---

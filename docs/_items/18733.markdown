@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18733"
+occurrence_id: "5186"
+short_title: "Allinger-Csollich, Heinsch and Kuntner 2010"
+author: "Heinsch, Sandra"
+publication_year: "2010"
+title: "Babylon. Past, Present, Future. The Project «Comparative Studies Babylon-Borsippa»: a Synopsis"
+pages: "29-38"
+editor: "Pinnock, Frances "
+book: "Proceedings of the 6th International Congress of the Archaeology of the Ancient Near East. 5 May - 10 May 2009, «Sapienza», Università di Roma. With the collaboration of L. Romano. Vol. 1: Near Eastern Archaeology in the Past, Present and Future. Heritage and Identity. Ethnoarchaeological and Interdisciplinary Approach, Results and Perspectives. Visual Expression and Craft Production in the Definition of Social Relations and Status (Wiesbaden)"
+title: "Babylon. Past, Present, Future. The Project «Comparative Studies Babylon-Borsippa»: a Synopsis"
+previous_item: "18736"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21466"
+occurrence_id: "4336"
+short_title: "Gehlken 2000"
+author: "Gehlken, Erlend"
+publication_year: "2000"
+title: "Sonnenaufgang in Sippar: Tafel 27 der Serie Enūma Anu Enlil. In memoriam Professor Luigi Cagni"
+pages: "345-353"
+editor: "Graziani, Simonetta"
+book: "Studi sul vicino oriente antico dedicati alla memoria di Luigi Cagni (Napoli)"
+title: "Sonnenaufgang in Sippar: Tafel 27 der Serie Enūma Anu Enlil. In memoriam Professor Luigi Cagni"
+previous_item: "21469"
+---

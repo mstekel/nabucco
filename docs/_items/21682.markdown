@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21682"
+occurrence_id: "4385"
+short_title: "Gherardo 1998"
+author: "Gomes Gherardo, Francisco José"
+publication_year: "1998"
+title: "War Motivations of the Hebrew People in Face of the Neo-Babylonic Offensive"
+pages: "499-506"
+editor: "Uguroglu, A."
+book: "XXXIVème Rencontre assyriologique internationale Istanbul RAI 34 (Ankara)"
+title: "War Motivations of the Hebrew People in Face of the Neo-Babylonic Offensive"
+previous_item: "21685"
+---

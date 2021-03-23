@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12241"
+occurrence_id: "3741"
+short_title: "JRAS 115 (1983), 306-307"
+author: "Andrews, P. A."
+publication_year: "1983"
+title: "Rv. P. Briant, État et pasteurs au Moyen-Orient ancien"
+volume_no_: "115"
+pages: "306-307"
+journal: "Journal of the Royal Asiatic Society"
+title: "Rv. P. Briant, État et pasteurs au Moyen-Orient ancien"
+previous_item: "12244"
+---

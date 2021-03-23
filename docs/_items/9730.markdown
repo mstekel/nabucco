@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9730"
+occurrence_id: "2233"
+short_title: "JEOL 42 (2010), 141-157"
+author: "De Jong, Teije"
+publication_year: "2010"
+title: "A New look at theVenus observations of Ammisaduqa: traces of the Santorini eruption in theatmosphere of Babylon?"
+volume_no_: "42"
+pages: "141-157"
+journal: "Jaarbericht van het Voor-Aziatisch-Egyptisch-Gezelschap Ex Oriente Lux"
+title: "A New look at theVenus observations of Ammisaduqa: traces of the Santorini eruption in theatmosphere of Babylon?"
+previous_item: "9733"
+---

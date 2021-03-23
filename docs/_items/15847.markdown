@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15847"
+occurrence_id: "2098"
+short_title: "JAOS 121/4 (2001), 645-649"
+author: "Boiy, Tom"
+publication_year: "2001"
+title: "Dating Problems in Cuneiform Tablets Concerning the Reign of Antigonus Monophhalmus"
+volume_no_: "121/4"
+pages: "645-649"
+journal: "Journal of the American Oriental Society"
+title: "Dating Problems in Cuneiform Tablets Concerning the Reign of Antigonus Monophhalmus"
+previous_item: "15850"
+---

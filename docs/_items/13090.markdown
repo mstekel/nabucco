@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13090"
+occurrence_id: "2304"
+short_title: "JNES 39 (1980), 47-52"
+author: "Powell, Marvin A."
+publication_year: "1980"
+title: "Karkar, Dabrum, and Tall Gidr: An Unresolved Geographical Problem"
+volume_no_: "39"
+pages: "47-52"
+journal: "Journal of Near Eastern Studies"
+title: "Karkar, Dabrum, and Tall Gidr: An Unresolved Geographical Problem"
+previous_item: "13093"
+---

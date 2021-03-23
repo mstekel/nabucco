@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7711"
+occurrence_id: "3442"
+short_title: "ZA 70 (1981), 143-145"
+author: "von Soden, Wolfram"
+publication_year: "1981"
+title: "Rv. S. Dalley, A Catalogue of the Akkadian Cuneiform Tablets in the Collections of the Royal Scottish Museum, with copies of the Texts"
+volume_no_: "70"
+pages: "143-145"
+journal: "Zeitschrift für Assyriologie"
+title: "Rv. S. Dalley, A Catalogue of the Akkadian Cuneiform Tablets in the Collections of the Royal Scottish Museum, with copies of the Texts"
+previous_item: "7714"
+---

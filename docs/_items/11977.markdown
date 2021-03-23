@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11977"
+occurrence_id: "2318"
+short_title: "JNES 46 (1987), 319-320"
+author: "Brinkman, John A."
+publication_year: "1987"
+title: "Rv. M. Fales, Assyrian Royal Inscriptions: New Horizons in Literary, Ideological, and Historical Analysis (Rome 198l)"
+volume_no_: "46"
+pages: "319-320"
+journal: "Journal of Near Eastern Studies"
+title: "Rv. M. Fales, Assyrian Royal Inscriptions: New Horizons in Literary, Ideological, and Historical Analysis (Rome 198l)"
+previous_item: "11980"
+---

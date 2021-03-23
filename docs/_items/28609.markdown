@@ -1,0 +1,14 @@
+---
+layout: "tablet"
+slug: "28609"
+object_id: "7102"
+museum_no_: "BM 31294"
+publication: "CT 22"
+text_number: "194 "
+period: "-"
+type_and_content: "Letters"
+publication_name: "CT 22 194 "
+archive: "Egibi/Nūr-Sîn"
+title: "BM 31294"
+previous_item: "28612"
+---

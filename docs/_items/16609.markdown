@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16609"
+occurrence_id: "343"
+short_title: "Brosius 1996"
+author: "Brosius, Maria "
+publication_year: "1996"
+title: "Women in Ancient Persia 559-331 BC"
+title: "Women in Ancient Persia 559-331 BC"
+previous_item: "16612"
+---

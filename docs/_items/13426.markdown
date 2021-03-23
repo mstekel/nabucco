@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13426"
+occurrence_id: "267"
+short_title: "Revillout, PSBA 9 (1887)"
+author: "Revillout, Eugène"
+publication_year: "1887"
+title: "Un Nouevau Nom Royal Perse"
+volume_no_: "9"
+pages: "233-240"
+journal: "Proceedings of the Society of Biblical Archaeology "
+title: "Un Nouevau Nom Royal Perse"
+previous_item: "13429"
+---

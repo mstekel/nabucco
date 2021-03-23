@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "19804"
+occurrence_id: "4279"
+short_title: "Ben-Gurion 1964"
+author: "Ben-Gurion, David"
+publication_year: "1964"
+title: "On the Character of Cyrus the king"
+pages: "17-32"
+book: "Back to the Sources. Materials for Bible Study Circles, El ha-'Ayin 39 (Jerusalem)"
+title: "On the Character of Cyrus the king"
+previous_item: "19807"
+---

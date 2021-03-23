@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17416"
+occurrence_id: "566"
+short_title: "San Nicolò 1931"
+author: "Nicolò, Mariano San"
+publication_year: "1931"
+title: "Beiträge zur Rechtsgeschichte im Bereiche der keilschriftlichen Rechtsquellen"
+title: "Beiträge zur Rechtsgeschichte im Bereiche der keilschriftlichen Rechtsquellen"
+previous_item: "17419"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12091"
+occurrence_id: "2933"
+short_title: "Or 71 (2002), 465-467"
+author: "Koch, Heidemarie"
+publication_year: "2002"
+title: "Rv. P. Briant, Bulletin d'histoire achémenide II"
+volume_no_: "71"
+pages: "465-467"
+journal: "Orientalia"
+title: "Rv. P. Briant, Bulletin d'histoire achémenide II"
+previous_item: "12094"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9832"
+occurrence_id: "2782"
+short_title: "OLZ 53 (1958), 446-449"
+author: "Friedrich, Johannes"
+publication_year: "1958"
+title: "Rv. F.W. König, Handbuch der chaldischen Inschriften. II"
+volume_no_: "53"
+pages: "446-449"
+journal: "Orientalistische Literaturzeitung"
+title: "Rv. F.W. König, Handbuch der chaldischen Inschriften. II"
+previous_item: "9835"
+---

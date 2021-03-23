@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13378"
+occurrence_id: "3855"
+short_title: "Topoi 12-13/1 (2005), 117-132"
+author: "Maucourant, Jérôme"
+publication_year: "2005"
+title: "À propos de l'économie des sanctuaires de l'Antiquité: une perspective institutionnaliste."
+volume_no_: "12-13/1"
+pages: "117-132"
+journal: "Topoi"
+title: "À propos de l'économie des sanctuaires de l'Antiquité: une perspective institutionnaliste."
+previous_item: "13381"
+---

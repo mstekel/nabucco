@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "21235"
+occurrence_id: "4206"
+short_title: "Gufler and Madreiter 2015"
+author: "Gufler, Birgit"
+publication_year: "2015"
+title: "The Ancient Near East and the Genre of Greek Historiography"
+pages: "381-396"
+editor: "van Dongen, Erik "
+title: "The Ancient Near East and the Genre of Greek Historiography"
+previous_item: "21238"
+---

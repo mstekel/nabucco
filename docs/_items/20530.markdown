@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20530"
+occurrence_id: "4859"
+short_title: "Dandamayev 1990"
+author: "Dandamayev, Muhammed A."
+publication_year: "1990"
+title: "The Economy of the Uruk Region in the 6th-5th Centuries B.C. (Nergal-nāṣir, son of Nanâ-ibni)"
+pages: "85-93"
+editor: "Aerts, E."
+book: "Tenth International Economic History Congress, IEHC X (Leuven)"
+title: "The Economy of the Uruk Region in the 6th-5th Centuries B.C. (Nergal-nāṣir, son of Nanâ-ibni)"
+previous_item: "20533"
+---

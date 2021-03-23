@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12412"
+occurrence_id: "1657"
+short_title: "BiOr 31 (1974 publ. 1975), 281-282"
+author: "Dandamayev, Muhammed A."
+publication_year: "1974 publ. 1975"
+title: "Rv. R.H. Sack, Amēl-Marduk, 562-560 B.C. (AOATS 4)"
+volume_no_: "31"
+pages: "281-282"
+journal: "Bibliotheca Orientalis"
+title: "Rv. R.H. Sack, Amēl-Marduk, 562-560 B.C. (AOATS 4)"
+previous_item: "12415"
+---

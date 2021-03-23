@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9571"
+occurrence_id: "1377"
+short_title: "Annales HSS 57/3 (2002), 687-689."
+author: "Leveau, Philippe"
+publication_year: "2002"
+title: "Rv. P. Briant (ed), Irrigation et drainage dans l'Antiquité, qanatas et canalisation souterraines en Iran, en Égypte et en Grèce (= Persika 2). Paris 2001."
+volume_no_: "57/3"
+pages: "687-689"
+journal: "Annales. Histoire, Science Sociales"
+title: "Rv. P. Briant (ed), Irrigation et drainage dans l'Antiquité, qanatas et canalisation souterraines en Iran, en Égypte et en Grèce (= Persika 2). Paris 2001."
+previous_item: "9574"
+---

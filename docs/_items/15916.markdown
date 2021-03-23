@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "15916"
+occurrence_id: "2470"
+short_title: "NABU 1989/70"
+author: "Brinkman, John A."
+publication_year: "1989"
+title: "Comment on L.W.King, Babylonian Boundary Stones, no. 27 (BM 90937)"
+volume_no_: "70"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Comment on L.W.King, Babylonian Boundary Stones, no. 27 (BM 90937)"
+previous_item: "15919"
+---

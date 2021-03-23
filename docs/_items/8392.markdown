@@ -1,0 +1,15 @@
+---
+layout: "bibliography"
+slug: "8392"
+occurrence_id: "178"
+short_title: "Da Riva, AoF 28"
+author: "Da Riva, Rocío"
+publication_year: "2001"
+title: "Sippar in the Reign of Sîn-šum-līšir (626 BC)"
+volume_no_: "28"
+pages: "40-64 "
+related_objects: "5709"
+journal: "Altorientalische Forschungen "
+title: "Sippar in the Reign of Sîn-šum-līšir (626 BC)"
+previous_item: "8395"
+---

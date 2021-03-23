@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11752"
+occurrence_id: "256"
+short_title: "Nougayrol, BiOr 9/5-6"
+author: "Nougayrol, Jean"
+publication_year: "1952"
+title: "Une Ère d’Alexandre de Grand en Babylonie?"
+volume_no_: "9/5-6"
+pages: "166-67"
+journal: "Bibliotheca Orientalis"
+title: "Une Ère d’Alexandre de Grand en Babylonie?"
+previous_item: "11755"
+---

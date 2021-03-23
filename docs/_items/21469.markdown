@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21469"
+occurrence_id: "4352"
+short_title: "Breyer 2002"
+author: "Breyer, Francis Amadeus K."
+publication_year: "2002"
+title: "Zur Verwendung eiens pluralis maiestatis in den Inschriften Nabonids"
+pages: "89-93"
+editor: "Schaudig, Hanspeter"
+book: "Ex Mesopotamia et Syria Lux. Fs. Dietrich. AOAT 281 (Münster)"
+title: "Zur Verwendung eiens pluralis maiestatis in den Inschriften Nabonids"
+previous_item: "21472"
+---

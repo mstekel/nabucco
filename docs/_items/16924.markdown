@@ -1,0 +1,12 @@
+---
+layout: "bibliography"
+slug: "16924"
+occurrence_id: "688"
+short_title: "YOS 3"
+author: "Clay, Albert T. "
+publication_year: "1919"
+title: "Neo-Babylonian Letters from Erech. Yale Oriental Series, Babylonian Texts 3 (New Haven)"
+volume_no_: "3"
+title: "Neo-Babylonian Letters from Erech. Yale Oriental Series, Babylonian Texts 3 (New Haven)"
+previous_item: "16927"
+---

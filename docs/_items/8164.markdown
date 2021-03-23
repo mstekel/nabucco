@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8164"
+occurrence_id: "2859"
+short_title: "Or 27 (1958), 304-306"
+author: "Pohl, Alfred"
+publication_year: "1958"
+title: "Rv. H.H. von der Osten, Die Welt der Perser"
+volume_no_: "27"
+pages: "304-306"
+journal: "Orientalia"
+title: "Rv. H.H. von der Osten, Die Welt der Perser"
+previous_item: "8167"
+---

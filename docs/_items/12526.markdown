@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12526"
+occurrence_id: "2270"
+short_title: "JNES 17 (1958), 157-158"
+author: "Oppenheim, A. Leo"
+publication_year: "1958"
+title: "Rv. T.G. Pinches and J.N. Strassmaier, Late Babylonian Astronomical and Related Texts"
+volume_no_: "17"
+pages: "157-158"
+journal: "Journal of Near Eastern Studies"
+title: "Rv. T.G. Pinches and J.N. Strassmaier, Late Babylonian Astronomical and Related Texts"
+previous_item: "12529"
+---

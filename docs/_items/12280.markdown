@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "12280"
+occurrence_id: "3949"
+short_title: "Mesopotamia 46 (2011), 41-51"
+author: "Graziani, Simonetta"
+publication_year: "2011"
+title: "Babylon caput mundi. «What city is unto this great city?»"
+volume_no_: "46"
+pages: "41-51"
+title: "Babylon caput mundi. «What city is unto this great city?»"
+previous_item: "12283"
+---

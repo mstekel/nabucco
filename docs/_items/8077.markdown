@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8077"
+occurrence_id: "2391"
+short_title: "Mathematical Reviews 34/4, 422"
+author: "Schmidt, Olaf"
+publication_year: "1967"
+title: "Rv. A. Aaboe, On Period Relations in Babylonian Astronomy"
+volume_no_: "34/4"
+pages: "422"
+journal: "Mathematical Reviews"
+title: "Rv. A. Aaboe, On Period Relations in Babylonian Astronomy"
+previous_item: "8080"
+---

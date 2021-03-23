@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "33361"
+place_id: "1410"
+parent_id: "52"
+place_name: "Borsippa city"
+related_objects: "5810"
+title: "Borsippa city"
+previous_item: "33364"
+---

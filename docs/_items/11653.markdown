@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11653"
+occurrence_id: "3580"
+short_title: "ZSS 49 (1929), 24-54"
+author: "Nicolò, Mariano, San"
+publication_year: "1929"
+title: "Einiges aus den babylonischen Rechtsurkunden"
+volume_no_: "49"
+pages: "24-54"
+journal: "Zeitschrift der Savigny-Stiftung für Rechtsgeschichte, romantistische Abteilung"
+title: "Einiges aus den babylonischen Rechtsurkunden"
+previous_item: "11656"
+---

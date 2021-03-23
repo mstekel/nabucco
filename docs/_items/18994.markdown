@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18994"
+occurrence_id: "4372"
+short_title: "Joannès 2006"
+author: "Joannès, Francis"
+publication_year: "2006"
+title: "La fiscalité de la Babylonie achéménide"
+pages: "49-57"
+editor: "Perna, M."
+book: "Fiscality in Mycenaean and Near Eastern Archives, Studi Egei e Vicinorientali 3 (Paris)"
+title: "La fiscalité de la Babylonie achéménide"
+previous_item: "18997"
+---

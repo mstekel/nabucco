@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20344"
+occurrence_id: "4970"
+short_title: "Clancier 2009a"
+author: "Clancier, Philippe"
+publication_year: "2009"
+title: "Les activités des femmes dans les temples de Babylone aux époques hellénistique et parhe."
+pages: "321-332"
+editor: "Lion, Brigitte"
+book: "Femmes, cultures et sociétés dans les civilisations méditerranéennes et proche-orientales de l'Antiquité, Topoi Supplément 10 (Lyon)"
+title: "Les activités des femmes dans les temples de Babylone aux époques hellénistique et parhe."
+previous_item: "20347"
+---

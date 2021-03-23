@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7759"
+occurrence_id: "3701"
+short_title: "Filomata 204 (1967), 191-199"
+author: "Gansiniec, Zofia"
+publication_year: "1967"
+title: "Das Denkmal Dareios´ I. in Behistun"
+volume_no_: "204"
+pages: "191-199"
+journal: "Filomata"
+title: "Das Denkmal Dareios´ I. in Behistun"
+previous_item: "7762"
+---

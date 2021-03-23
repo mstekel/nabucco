@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11992"
+occurrence_id: "2398"
+short_title: "Méditerranées 17 (1998), 99-109"
+author: "Vargyas, Péter"
+publication_year: "1998"
+title: "L´économie de la Mésopotamie et les tablettes astronomiques"
+volume_no_: "17"
+pages: "99-109"
+journal: "Méditerranées. Revue de Centre d'Études Internationales sur la Romanité"
+title: "L´économie de la Mésopotamie et les tablettes astronomiques"
+previous_item: "11995"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14899"
+occurrence_id: "3036"
+short_title: "RA 56 (1962), 158"
+author: "Lambert, Maurice"
+publication_year: "1962"
+title: "Rv. B. Tuckerman, Planetary, Lunar and Solar Positions, 601 B.C. to A.D. 1"
+volume_no_: "56"
+pages: "158"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "Rv. B. Tuckerman, Planetary, Lunar and Solar Positions, 601 B.C. to A.D. 1"
+previous_item: "14902"
+---

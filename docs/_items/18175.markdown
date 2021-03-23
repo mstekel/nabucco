@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18175"
+occurrence_id: "484"
+short_title: "Kugler 1909"
+author: "Kugler, Franz X. "
+publication_year: "1909-1924"
+title: "Sternkande and Sterndienst in Babel. Assyriologische, astronomische und astralMythologische Untersuchungen. II. Buch: Natur, Mythos and Geschichte als Grandlagen babyl.Zeitordnung nebst eingehenden Untersuch. der älteren Sternkande und Meteorologie"
+title: "Sternkande and Sterndienst in Babel. Assyriologische, astronomische und astralMythologische Untersuchungen. II. Buch: Natur, Mythos and Geschichte als Grandlagen babyl.Zeitordnung nebst eingehenden Untersuch. der älteren Sternkande und Meteorologie"
+previous_item: "18178"
+---

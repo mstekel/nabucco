@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "20713"
+occurrence_id: "4732"
+short_title: "San Nicolò 1925a"
+author: "Nicolò, Mariano, San"
+publication_year: "1925"
+title: "La clausola di difetto o eccedenza di misura nella vendita immobiliare"
+pages: "41-50"
+book: "Studi in onore di Pietro Bonfante, II (MIlano)"
+title: "La clausola di difetto o eccedenza di misura nella vendita immobiliare"
+previous_item: "20716"
+---

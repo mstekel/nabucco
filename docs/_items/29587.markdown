@@ -1,0 +1,17 @@
+---
+layout: "tablet"
+slug: "29587"
+object_id: "7663"
+museum_no_: "Ash. 1971.404"
+publication: "OECT 10"
+text_number: "136  "
+duplicate: "BM 30770"
+type_and_content: "Other"
+paraphrase: "Undertaking of payment.<br /> <strong><sup>f</sup></strong><strong>A<sub>1</sub></strong>, <strong>A<sub>2</sub> </strong>and <strong>A<sub>3</sub></strong> will pay the 45 shekels of silver, together with their interest, which they owe to <strong>B</strong> to the creditor&rsquo;s son, <strong>C</strong>. This corresponds to a debt that they owe to Marduk (i.e. to the Esagila). Names of 5 witnesses and the scribe.<br /> &nbsp;<br /> <strong><sup>f</sup></strong><strong>A<sub>1</sub></strong> = <sup>f</sup>Ka&scaron;&scaron;at/Nab&ucirc;-ēṭir//Rab-ban&ecirc;; <strong>A<sub>2</sub></strong> = Marduk-&scaron;āpik-zēri/Bēl-uballiṭ/Nāgiru; <strong>A<sub>3</sub></strong> = Bēl-iddin, son of <strong>A<sub>2</sub></strong>; <strong>B</strong> = Itti-Marduk-balāṭu/Nab&ucirc;-ahhē-iddin//Egibi; <strong>C</strong> = Marduk-nāṣir-apli"
+imported: "Kathleen Abraham 14/04/2017"
+publication_name: "OECT 10 136  "
+archive: "Egibi/Nūr-Sîn"
+related_objects: "7027"
+title: "Ash. 1971.404"
+previous_item: "29590"
+---

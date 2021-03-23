@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11764"
+occurrence_id: "1164"
+short_title: "Aegyptus 27 (1947), 118-143"
+author: "Nicolò, Mariano, San"
+publication_year: "1947"
+title: "Due atti matrimoniali neobabilonesi"
+volume_no_: "27"
+pages: "118-143"
+journal: "Aegyptus"
+title: "Due atti matrimoniali neobabilonesi"
+previous_item: "11767"
+---

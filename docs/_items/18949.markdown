@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "18949"
+occurrence_id: "4130"
+short_title: "Falkenstein 1959"
+author: "Falkenstein, Adam"
+publication_year: "1959"
+title: "Akiti-Fest and akiti-Feshaus"
+pages: "147-182"
+editor: "Moortgat, Anton"
+title: "Akiti-Fest and akiti-Feshaus"
+previous_item: "18952"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7594"
+occurrence_id: "2810"
+short_title: "OLZ 83 (1988), 410-414"
+author: "Oelsner, Joachim"
+publication_year: "1988"
+title: "Rv. T.G. Pinches, Cuneiform Texts from Babylonian Tablets in the British Museum Parts 55-57. Neo-Babylonian and Achaemenid Economic Texts"
+volume_no_: "83"
+pages: "410-414"
+journal: "Orientalistische Literaturzeitung"
+title: "Rv. T.G. Pinches, Cuneiform Texts from Babylonian Tablets in the British Museum Parts 55-57. Neo-Babylonian and Achaemenid Economic Texts"
+previous_item: "7597"
+---

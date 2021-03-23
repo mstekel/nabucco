@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14140"
+occurrence_id: "1951"
+short_title: "Iraq 24 (1962), 41-51"
+author: "Millard, Alan R."
+publication_year: "1962"
+title: "Alphabetic Inscriptions on Ivories from Nimrud"
+volume_no_: "24"
+pages: "41-51"
+journal: "Iraq"
+title: "Alphabetic Inscriptions on Ivories from Nimrud"
+previous_item: "14143"
+---

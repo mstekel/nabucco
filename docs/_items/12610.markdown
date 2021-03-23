@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "12610"
+occurrence_id: "2723"
+short_title: "NABU 2009/28"
+author: "Koch, Johannes"
+title: "Neues vom Stern balu"
+volume_no_: "28"
+publication_year: "2009"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Neues vom Stern balu"
+previous_item: "12613"
+---

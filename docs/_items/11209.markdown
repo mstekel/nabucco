@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11209"
+occurrence_id: "1179"
+short_title: "AfO 16 (1953), 262"
+author: "Weidner, Ernst F."
+publication_year: "1953"
+title: "Kurzbeiträge: išpalurtu in astrologischen Texten"
+volume_no_: "16"
+pages: "262"
+journal: "Archiv für Orientforschung"
+title: "Kurzbeiträge: išpalurtu in astrologischen Texten"
+previous_item: "11212"
+---

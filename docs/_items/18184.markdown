@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18184"
+occurrence_id: "538"
+short_title: "Pinches 1902"
+author: "Pinches, Theophilus G. "
+publication_year: "1902"
+title: "The Old Testament in the Light of the Historical Record and Legends of Assyria and Babylonia"
+title: "The Old Testament in the Light of the Historical Record and Legends of Assyria and Babylonia"
+previous_item: "18187"
+---

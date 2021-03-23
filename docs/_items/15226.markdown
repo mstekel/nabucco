@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15226"
+occurrence_id: "1776"
+short_title: "BSOAS 30 (1967), 495-504"
+author: "Wiseman, Donald J."
+publication_year: "1967"
+title: "A Late Babylonian Tribute List?"
+volume_no_: "30"
+pages: "495-504"
+journal: "Bulletin of the School of Oriental and African Studies"
+title: "A Late Babylonian Tribute List?"
+previous_item: "15229"
+---

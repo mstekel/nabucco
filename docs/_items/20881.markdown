@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20881"
+occurrence_id: "4525"
+short_title: "Gelb 1972"
+author: "Gelb, Ignace J."
+publication_year: "1972"
+title: "From Freedom to Slavery"
+pages: "82-92"
+editor: "Edzard, Dietz , O."
+book: "Gesellschaftsklassen im Alten Zweistromland und in den angrenzenden Gebieten ABAW Phil.-hist. Klasse NF 75, Veröffentlichungen der Kommission zur Erschließung von Keilschrifttexten, Serie A/6, RAI 18  (München)"
+title: "From Freedom to Slavery"
+previous_item: "20884"
+---

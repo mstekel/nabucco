@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19045"
+occurrence_id: "4644"
+short_title: "Wiesehöfer 2005"
+author: "Wiesehöfer, Josef"
+publication_year: "2005"
+title: "Daniel, Herodot und «Dareios der Meder»: Auch ein Beitrag zur Idee der Abfolge von Weltreichen"
+pages: "647-654"
+editor: "Rollinger, Robert"
+book: "Von Sumer bis Homer, Festschrift für Manfred Schretter, AOAT 325 (Münster)"
+title: "Daniel, Herodot und «Dareios der Meder»: Auch ein Beitrag zur Idee der Abfolge von Weltreichen"
+previous_item: "19048"
+---

@@ -1,0 +1,12 @@
+---
+layout: "bibliography"
+slug: "14512"
+occurrence_id: "3953"
+short_title: "NABU 2014/31"
+author: "Gysembergh, Victor"
+publication_year: "2014"
+title: "Farben und Elementarkräfte in U. Koch-Westenholz, BLO 27:2-3"
+volume_no_: "2014/31"
+title: "Farben und Elementarkräfte in U. Koch-Westenholz, BLO 27:2-3"
+previous_item: "14515"
+---

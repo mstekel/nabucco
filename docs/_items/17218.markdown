@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17218"
+occurrence_id: "4065"
+short_title: "Crawford 2015"
+author: "Crawford, Harriet "
+publication_year: "2015"
+title: "Ur. The City of the Moon God, Archaeological Histories (London/New Delhi/New York/Sydney)"
+title: "Ur. The City of the Moon God, Archaeological Histories (London/New Delhi/New York/Sydney)"
+previous_item: "17221"
+---

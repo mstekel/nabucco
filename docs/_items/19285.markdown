@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19285"
+occurrence_id: "4821"
+short_title: "Weszeli 2007"
+author: "Weszeli, Michaela"
+publication_year: "2007"
+title: "Zur Bedeutung von uskû und uskûtu"
+pages: "561-577"
+editor: "Köhbach, Markus "
+book: "Festschrift für Hermann Hunger zum 65. Geburtstag: gewidmet von seinen Freunden, Kollegen und Schülern, WZKM 97 (Wien)"
+title: "Zur Bedeutung von uskû und uskûtu"
+previous_item: "19288"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13978"
+occurrence_id: "208"
+short_title: "Brinkman, OrNS 41"
+author: "Brinkman, John A."
+publication_year: "1972"
+title: "Documents Relating to the Reign of Aššur-nādin-šumi, OrNS 41, 245-248"
+volume_no_: "41"
+pages: "245-248"
+journal: "Orientalia Nova Series"
+title: "Documents Relating to the Reign of Aššur-nādin-šumi, OrNS 41, 245-248"
+previous_item: "13981"
+---

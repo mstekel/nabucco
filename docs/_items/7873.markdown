@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7873"
+occurrence_id: "1291"
+short_title: "AJA 60 (1956), 192"
+author: "Frye, Richard N."
+publication_year: "1956"
+title: "Rv. G.G. Cameron, Persepolis Treasury Tablets"
+volume_no_: "60"
+pages: "192"
+journal: "American Journal of Archaeology"
+title: "Rv. G.G. Cameron, Persepolis Treasury Tablets"
+previous_item: "7876"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13444"
+occurrence_id: "1202"
+short_title: "AfO 22 (1968/69), 1-8"
+author: "Lambert, Wilfred G."
+publication_year: "1968-69"
+title: "A New Source for the Reign of Nabonidus"
+volume_no_: "22"
+pages: "1-8"
+journal: "Archiv für Orientforschung"
+title: "A New Source for the Reign of Nabonidus"
+previous_item: "13447"
+---

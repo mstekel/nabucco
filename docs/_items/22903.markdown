@@ -1,0 +1,9 @@
+---
+layout: "archive"
+slug: "22903"
+archive_id: "217"
+archive_name: "Ea-qarrād-ilī"
+is_part_of: "Dilbat"
+title: "Ea-qarrād-ilī"
+previous_item: "22906"
+---

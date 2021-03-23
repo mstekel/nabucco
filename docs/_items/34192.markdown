@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "34192"
+place_id: "514"
+parent_id: "40"
+place_name: "Huṣṣēti-ša-Nabû-nāṣir"
+related_objects: "2254"
+title: "Huṣṣēti-ša-Nabû-nāṣir"
+previous_item: "34195"
+---

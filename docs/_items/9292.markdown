@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9292"
+occurrence_id: "2894"
+short_title: "Or 51 (1982), 391-393"
+author: "Zadok, Ran"
+publication_year: "1982"
+title: "Notes on the Early History of the Israelites and Judeans in Mesopotamia"
+volume_no_: "51"
+pages: "391-393"
+journal: "Orientalia"
+title: "Notes on the Early History of the Israelites and Judeans in Mesopotamia"
+previous_item: "9295"
+---

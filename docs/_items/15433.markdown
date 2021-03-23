@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15433"
+occurrence_id: "2889"
+short_title: "Or 48 (1979 publ. 1980), 538-539"
+author: "Dahood, Mitchel"
+publication_year: "1979"
+title: "Rv. M.D. Coogan, West Semitic Personal Names in the Murašû Documents (HSM 7)"
+volume_no_: "48"
+pages: "538-539"
+journal: "Orientalia"
+title: "Rv. M.D. Coogan, West Semitic Personal Names in the Murašû Documents (HSM 7)"
+previous_item: "15436"
+---

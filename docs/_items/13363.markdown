@@ -1,0 +1,15 @@
+---
+layout: "bibliography"
+slug: "13363"
+occurrence_id: "3775"
+short_title: "Kaskal 2 (2005), 209-224"
+author: "Joannès, Francis"
+publication_year: "2005"
+title: "L'économie et la société en Babylonie au Ier millénaire avant J.-C."
+volume_no_: "2"
+pages: "209-224"
+journal: "KASKAL. Rivista di storia, ambiente e culture del
+Vicino Oriente Antico"
+title: "L'économie et la société en Babylonie au Ier millénaire avant J.-C."
+previous_item: "13366"
+---

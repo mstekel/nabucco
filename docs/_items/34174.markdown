@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34174"
+place_id: "226"
+parent_id: "40"
+place_name: "Bīt-Balassu"
+title: "Bīt-Balassu"
+previous_item: "34177"
+---

@@ -1,0 +1,15 @@
+---
+layout: "tablet"
+slug: "28342"
+object_id: "6599"
+nabucco_no_: "BM74595"
+museum_no_: "BM 74595"
+publication: "Waerzeggers 2014"
+text_number: "80b"
+duplicate: "BM 61134"
+imported: "Melanie Gross (03/11/2016)"
+publication_name: "Waerzeggers 2014 80b"
+related_objects: "7460"
+title: "BM 74595"
+previous_item: "28345"
+---

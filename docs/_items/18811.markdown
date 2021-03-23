@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18811"
+occurrence_id: "4499"
+short_title: "Sancisi-Weerdenburg 1995"
+author: "Sancisi-Weerdenburg, Heleen"
+publication_year: "1995"
+title: "Darius I and the Persian Empire"
+pages: "1035-1050"
+editor: "Sasson, Jack M."
+book: "Civilizations of the Ancient Near East I-IV"
+title: "Darius I and the Persian Empire"
+previous_item: "18814"
+---

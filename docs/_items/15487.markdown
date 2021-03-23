@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15487"
+occurrence_id: "3181"
+short_title: "SCIAMVS 3 (2002), 3-90"
+author: "Hunger, Hermann"
+publication_year: "2002"
+title: "TU 11 - A Collection of Rules for the Prediction of Lunar Phases and of Month Lengths"
+volume_no_: "3"
+pages: "3-90"
+journal: "SCIAMVS. Sources and Commentaries in Exact Sciences"
+title: "TU 11 - A Collection of Rules for the Prediction of Lunar Phases and of Month Lengths"
+previous_item: "15490"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10255"
+occurrence_id: "2040"
+short_title: "JAC 12 (1997), 25-35"
+author: "Dalley, Stephanie"
+publication_year: "1997"
+title: "Babylonian Influence in the Far East through the Buddha and Mani"
+volume_no_: "12"
+pages: "25-35"
+journal: "Journal of Ancient Civilizations"
+title: "Babylonian Influence in the Far East through the Buddha and Mani"
+previous_item: "10258"
+---

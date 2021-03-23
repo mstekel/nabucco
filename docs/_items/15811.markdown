@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15811"
+occurrence_id: "1906"
+short_title: "Incontri Linguistici 19 (1996), 33-57"
+author: "Fales, Frederick Mario"
+publication_year: "1996"
+title: "Most Ancient Aramaic Texts and Linguistics: A Review of Recent Studies"
+volume_no_: "19"
+pages: "33-57"
+journal: "Incontri Linguistici"
+title: "Most Ancient Aramaic Texts and Linguistics: A Review of Recent Studies"
+previous_item: "15814"
+---

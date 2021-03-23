@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14863"
+occurrence_id: "2839"
+short_title: "Or 17 (1948), 371-387"
+author: "Follet, René"
+publication_year: "1948"
+title: "Rv. A. van Praag, Droit matrimonial Assyro-Babylonien (Amsterdam 1945)"
+volume_no_: "17"
+pages: "371-387"
+journal: "Orientalia"
+title: "Rv. A. van Praag, Droit matrimonial Assyro-Babylonien (Amsterdam 1945)"
+previous_item: "14866"
+---

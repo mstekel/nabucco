@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18919"
+occurrence_id: "5075"
+short_title: "Japhet 2003"
+author: "Japhet, Sara"
+publication_year: "2003"
+title: "Periodization: Between History and Ideology the Neo-Babylonian Period in Biblical Historiography"
+pages: "75-92"
+editor: "Blenkinsopp, Joseph "
+book: "Judah and the Judeans in the Neo-Babylonian Period (Winona Lake)"
+title: "Periodization: Between History and Ideology the Neo-Babylonian Period in Biblical Historiography"
+previous_item: "18922"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10642"
+occurrence_id: "708"
+short_title: "Archi, OrAn 14 (1975)"
+author: "Archi, Alfonso"
+publication_year: "1975"
+title: "Testi cuneiforme - II"
+volume_no_: "23"
+pages: "11-20; 123-125"
+journal: "Oriens Antiquus"
+title: "Testi cuneiforme - II"
+previous_item: "10645"
+---

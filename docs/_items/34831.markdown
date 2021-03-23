@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34831"
+place_id: "100"
+parent_id: "40"
+place_name: "Ālu-ša-Addidāja"
+title: "Ālu-ša-Addidāja"
+previous_item: "34834"
+---

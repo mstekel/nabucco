@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9604"
+occurrence_id: "1556"
+short_title: "BaM 14 (1983), 95-96"
+author: "Boehmer, Rainer , Michael"
+publication_year: "1983"
+title: "Beigaben aus neubabylonischen Gräbern in Uruk"
+volume_no_: "14"
+pages: "95-96"
+journal: "Baghdader Mitteilungen"
+title: "Beigaben aus neubabylonischen Gräbern in Uruk"
+previous_item: "9607"
+---

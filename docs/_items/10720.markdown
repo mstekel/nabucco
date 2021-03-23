@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10720"
+occurrence_id: "1558"
+short_title: "BaM 15 (1984), 261-272"
+author: "Kessler, Karlheinz"
+publication_year: "1984"
+title: "Duplikate and Fragmente aus Uruk, Teil II"
+volume_no_: "15"
+pages: "261-272"
+journal: "Baghdader Mitteilungen"
+title: "Duplikate and Fragmente aus Uruk, Teil II"
+previous_item: "10723"
+---

@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34720"
+place_id: "97"
+parent_id: "40"
+place_name: "Ahšānu"
+title: "Ahšānu"
+previous_item: "34723"
+---

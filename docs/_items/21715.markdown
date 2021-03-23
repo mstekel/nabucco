@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "21715"
+occurrence_id: "4561"
+short_title: "Kurylowicz 1964"
+author: "Kurylowicz, Jerzy"
+publication_year: "1964"
+title: "Zur altpersischen Keilschrift"
+pages: "563-569"
+book: "Lex tua verita: Festschrift für Hubert Junker zur Vollendung des 70. Lebensjahres am 8. Aug. 1961. Dargeboten von Kollegen, Freunden u. Schülern, Zeitschrift für Phonetik, Sprachwissenschaft und Kommunikationsforschung 17/6 (1964)"
+title: "Zur altpersischen Keilschrift"
+previous_item: "21718"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12937"
+occurrence_id: "1481"
+short_title: "ArOr 4 (1932), 34-40"
+author: "Nicolò, Mariano, San"
+publication_year: "1932"
+title: "Parerga Babyloniaca [I-II]"
+volume_no_: "4"
+pages: "34-40"
+journal: "Archív Orientalí"
+title: "Parerga Babyloniaca [I-II]"
+previous_item: "12940"
+---

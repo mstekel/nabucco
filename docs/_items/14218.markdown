@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14218"
+occurrence_id: "2370"
+short_title: "Klio 60 (1978), 216-218"
+author: "Kreissig, Heinz"
+publication_year: "1978"
+title: "Zur antiken und zur altorientalischen Komponente im sog. Hellenismus"
+volume_no_: "60"
+pages: "216-218"
+journal: "Klio"
+title: "Zur antiken und zur altorientalischen Komponente im sog. Hellenismus"
+previous_item: "14221"
+---

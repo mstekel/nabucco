@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7927"
+occurrence_id: "1585"
+short_title: "BASOR 120 (1950), 22-25"
+author: "Albright, William F."
+publication_year: "1950"
+title: "Cilicia and Babylonia under the Chaldean Kings"
+volume_no_: "120"
+pages: "22-25"
+journal: "Bulletin of the American Schools of Oriental Research"
+title: "Cilicia and Babylonia under the Chaldean Kings"
+previous_item: "7930"
+---

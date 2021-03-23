@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8329"
+occurrence_id: "3750"
+short_title: "JRAS 73 (1941), 282"
+author: "Gadd, Cyril J."
+publication_year: "1941"
+title: "Rv. E.W. Moore, Neo-Babylonian Documents in the University of Michigan Collection"
+volume_no_: "73"
+pages: "282"
+journal: "Journal of the Royal Asiatic Society"
+title: "Rv. E.W. Moore, Neo-Babylonian Documents in the University of Michigan Collection"
+previous_item: "8332"
+---

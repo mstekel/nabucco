@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "21841"
+occurrence_id: "4128"
+short_title: "Sachs 1974"
+author: "Sachs, Abraham J."
+publication_year: "1974"
+title: "Babylonian Observational Astronomy"
+pages: "43-50"
+editor: "Kendall, D.G."
+title: "Babylonian Observational Astronomy"
+previous_item: "21844"
+---

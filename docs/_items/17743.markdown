@@ -1,0 +1,12 @@
+---
+layout: "bibliography"
+slug: "17743"
+occurrence_id: "25"
+short_title: "Dar."
+author: "Strassmaier, Johann N. "
+publication_year: "1897"
+title: "Inschriften von Darius, König von Babylon (521-485 v.Chr.), Babylonische Texte X-XII (Leipzig)"
+related_objects: "4427"
+title: "Inschriften von Darius, König von Babylon (521-485 v.Chr.), Babylonische Texte X-XII (Leipzig)"
+previous_item: "17746"
+---

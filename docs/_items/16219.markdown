@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16219"
+occurrence_id: "215"
+short_title: "Scheil, RT 24"
+author: "Scheil, Vincent"
+publication_year: "1902"
+title: "Notes d’Épigraphie et d’Archéologie Assyriennes"
+volume_no_: "24"
+pages: "24-29"
+journal: "Recueil de Travaux Relatifs a la Philologie et a l’Archéologie Égyptiennes et Assyriennes"
+title: "Notes d’Épigraphie et d’Archéologie Assyriennes"
+previous_item: "16222"
+---

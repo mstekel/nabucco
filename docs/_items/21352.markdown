@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "21352"
+occurrence_id: "4831"
+short_title: "Dandamayev 1963a"
+author: "Dandamayev, Muhammed A."
+publication_year: "1963"
+title: "Kontrakte über die Vermietung von Vieh des Satrapen Aršamu (in Russian)"
+pages: "127-148"
+book: "Problemy sotsial'no-ekonomiches- koi istorii drevnego mira (Moscow and Leningrad)  = Fs. Tjumenev"
+title: "Kontrakte über die Vermietung von Vieh des Satrapen Aršamu (in Russian)"
+previous_item: "21355"
+---

@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "8947"
+occurrence_id: "4056"
+short_title: "Isimu 13 (2011), 25-60"
+author: "Pino Cano, Juan, Antonio"
+publication_year: "2013"
+title: "Aššurbanipal contra Babilonia"
+volume_no_: "11"
+pages: "25-60"
+title: "Aššurbanipal contra Babilonia"
+previous_item: "8950"
+---

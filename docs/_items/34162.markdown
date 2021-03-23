@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "34162"
+place_id: "34"
+parent_id: "40"
+place_name: "Til-Gabbara"
+related_objects: "1231"
+title: "Til-Gabbara"
+previous_item: "34165"
+---

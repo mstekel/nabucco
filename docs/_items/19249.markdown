@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19249"
+occurrence_id: "4629"
+short_title: "Britton 2002a"
+author: "Britton, John P."
+publication_year: "2002"
+title: "Treatments of Annual Phenomena in Cuneiform Sources"
+pages: "21-78"
+editor: "Imhausen, A."
+book: "Under One Sky. AOAT 297 (Münster)"
+title: "Treatments of Annual Phenomena in Cuneiform Sources"
+previous_item: "19252"
+---

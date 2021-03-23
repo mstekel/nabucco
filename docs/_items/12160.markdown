@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12160"
+occurrence_id: "3305"
+short_title: "WeOr 1 (1947), 78-92"
+author: "Alt, Albrecht"
+publication_year: "1947"
+title: "Eine neue Provinz des Keilschriftrechts"
+volume_no_: "1"
+pages: "78-92"
+journal: "Die Welt des Orients"
+title: "Eine neue Provinz des Keilschriftrechts"
+previous_item: "12163"
+---

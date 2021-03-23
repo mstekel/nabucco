@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34165"
+place_id: "82"
+parent_id: "4"
+place_name: "Tribal areas"
+title: "Tribal areas"
+previous_item: "34168"
+---

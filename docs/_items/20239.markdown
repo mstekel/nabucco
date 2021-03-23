@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "20239"
+occurrence_id: "4410"
+short_title: "Cornelius 1969"
+author: "Cornelius, Friedrich"
+publication_year: "1969"
+title: "Das Alter der babylonischen Astronomie"
+pages: "170-173"
+book: "XVII. DOT Vorträge 1: Zeitschrift der Deutschen Morgenländischer Gesellschaft. Supplementa I"
+title: "Das Alter der babylonischen Astronomie"
+previous_item: "20242"
+---

@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34330"
+place_id: "949"
+parent_id: "61"
+place_name: "Du'īl"
+title: "Du'īl"
+previous_item: "34333"
+---

@@ -1,0 +1,18 @@
+---
+layout: "tablet"
+slug: "26689"
+object_id: "5972"
+museum_no_: "IM 64669"
+period: "ENB"
+day_remark: "-"
+month: "VII"
+month_remark: "-"
+year_remark: "[-]"
+king: "Kan"
+king_remark: "-"
+imported: "Melanie Gross (26/05/2016)"
+day_babylonian_: "25"
+place_of_issue_remark: "[-]"
+title: "IM 64669"
+previous_item: "26692"
+---

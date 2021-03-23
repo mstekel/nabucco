@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21193"
+occurrence_id: "5086"
+short_title: "Cluzan and David 2001"
+author: "David, Hélène"
+publication_year: "2001"
+title: "De Tello à Ra's al-Jinz: la résurgence d´une image peut-elle traduire une communauté de pensée ?"
+pages: "105-119"
+editor: "Breniquet, Catherine"
+book: "Études Mésopotamiennes, Fs. Huot (Paris)"
+title: "De Tello à Ra's al-Jinz: la résurgence d´une image peut-elle traduire une communauté de pensée ?"
+previous_item: "21196"
+---

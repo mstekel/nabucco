@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "14548"
+occurrence_id: "719"
+short_title: "Oppenheim, Or 9 (1940)"
+author: "Oppenheim, A. Leo"
+title: "Deux notes de lexicographie accadienne"
+pages: "219-222"
+publication_year: "1940"
+journal: "Orientalia"
+title: "Deux notes de lexicographie accadienne"
+previous_item: "14551"
+---

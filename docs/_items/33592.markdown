@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "33592"
+place_id: "1466"
+parent_id: "70"
+place_name: "Hamat"
+related_objects: "2499"
+title: "Hamat"
+previous_item: "33595"
+---

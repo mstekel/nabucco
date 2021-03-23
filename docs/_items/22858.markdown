@@ -1,0 +1,9 @@
+---
+layout: "archive"
+slug: "22858"
+archive_id: "262"
+archive_name: "Itti-Šamaš-balāṭu and Šamaš-bāri"
+is_part_of: "Larsa"
+title: "Itti-Šamaš-balāṭu and Šamaš-bāri"
+previous_item: "22861"
+---

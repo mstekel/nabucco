@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14905"
+occurrence_id: "3068"
+short_title: "RA 78 (1984 publ. 1985), 49-70"
+author: "Cocquerillat, Denise"
+publication_year: "1984 publ. 1985"
+title: "Compléments aux \"Palmeraies et cultures de l'Eanna d'Uruk\" II. L'aménagement de la campagne d'Uruk et son peuplement avant l'époque des Fermes générales (VIIIe-Vie siècle av. J.-C.)"
+volume_no_: "78"
+pages: "49-70"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "Compléments aux \"Palmeraies et cultures de l'Eanna d'Uruk\" II. L'aménagement de la campagne d'Uruk et son peuplement avant l'époque des Fermes générales (VIIIe-Vie siècle av. J.-C.)"
+previous_item: "14908"
+---

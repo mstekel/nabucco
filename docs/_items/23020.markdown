@@ -1,0 +1,9 @@
+---
+layout: "archive"
+slug: "23020"
+archive_id: "184"
+archive_name: "Lā-kuppuru"
+is_part_of: "Borsippa"
+title: "Lā-kuppuru"
+previous_item: "23023"
+---

@@ -1,0 +1,12 @@
+---
+layout: "bibliography"
+slug: "8386"
+occurrence_id: "4055"
+short_title: "NABU 2015/86"
+author: "Zadok, Ran"
+publication_year: "2015"
+title: "Yamu-iziri the summoner of Yahūdu and Aramaic linguistic interference"
+volume_no_: "2015/86"
+title: "Yamu-iziri the summoner of Yahūdu and Aramaic linguistic interference"
+previous_item: "8389"
+---

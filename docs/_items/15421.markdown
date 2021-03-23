@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15421"
+occurrence_id: "2824"
+short_title: "OLZ 95 (2000), 377-386"
+author: "Cancik-Kirschbaum, Eva"
+publication_year: "2000"
+title: "Rv. G. Frame, Rulers of Babylonia from the Second Dynasty of Isin to the End of Assyrian Domination (1157-612 BC) (RIMB 2, 1995)"
+volume_no_: "95"
+pages: "377-386"
+journal: "Orientalistische Literaturzeitung"
+title: "Rv. G. Frame, Rulers of Babylonia from the Second Dynasty of Isin to the End of Assyrian Domination (1157-612 BC) (RIMB 2, 1995)"
+previous_item: "15424"
+---

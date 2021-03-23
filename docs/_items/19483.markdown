@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19483"
+occurrence_id: "4774"
+short_title: "Waters 2013"
+author: "Waters, Matthew, W."
+publication_year: "2013"
+title: "Elam, Assyria, and Babylonia in the early first millennium BC"
+pages: "478-492"
+editor: "Potts, Daniel T."
+book: "Oxford Handbook of Ancient Iran (Oxford)"
+title: "Elam, Assyria, and Babylonia in the early first millennium BC"
+previous_item: "19486"
+---

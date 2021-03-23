@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9724"
+occurrence_id: "2200"
+short_title: "JCS 5 (1951), 36-44"
+author: "Klíma, Josef"
+publication_year: "1951"
+title: "Rv. I. Mendelsohn, Slavery (1949) and von B.J. Siegel, Slavery During the third Dynasty of Ur (1947)."
+volume_no_: "5"
+pages: "36-44"
+journal: "Journal of Cuneiform Studies"
+title: "Rv. I. Mendelsohn, Slavery (1949) and von B.J. Siegel, Slavery During the third Dynasty of Ur (1947)."
+previous_item: "9727"
+---

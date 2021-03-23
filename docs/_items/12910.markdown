@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12910"
+occurrence_id: "1334"
+short_title: "AMI 16 (1983 publ. 1985), 141-222"
+author: "Calmeyer, Peter"
+publication_year: "1983"
+title: "Zur Genese altiranischer Motive, VIII. Die \"statistische Landcharte des Perserreiches\" - II"
+volume_no_: "16"
+pages: "141-222"
+journal: "Archäologische Mitteilungen aus Iran"
+title: "Zur Genese altiranischer Motive, VIII. Die \"statistische Landcharte des Perserreiches\" - II"
+previous_item: "12913"
+---

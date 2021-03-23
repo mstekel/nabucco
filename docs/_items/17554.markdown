@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17554"
+occurrence_id: "620"
+short_title: "Verger 1965"
+author: "Verger, Alessandro "
+publication_year: "1965"
+title: "Ricerche giuridiche sui papiri aramaici di Elefantina"
+title: "Ricerche giuridiche sui papiri aramaici di Elefantina"
+previous_item: "17557"
+---

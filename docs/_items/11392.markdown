@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11392"
+occurrence_id: "2170"
+short_title: "JCS 30 (1978 publ. 1980), 234-249"
+author: "Walker, Christopher,  Bromhead F."
+publication_year: "1978"
+title: "Texts and Fragments"
+volume_no_: "30"
+pages: "234-249"
+journal: "Journal of Cuneiform Studies"
+title: "Texts and Fragments"
+previous_item: "11395"
+---

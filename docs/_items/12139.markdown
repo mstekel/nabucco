@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12139"
+occurrence_id: "3191"
+short_title: "SH II (1949), 227-235"
+author: "Oppenheim, A. Leo"
+publication_year: "1949"
+title: "Akk. arad ekalli = \"Builder\""
+volume_no_: "II"
+pages: "227-235"
+journal: "Signaturen der Tafeln aus Šemšāra"
+title: "Akk. arad ekalli = \"Builder\""
+previous_item: "12142"
+---

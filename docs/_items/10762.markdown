@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10762"
+occurrence_id: "1784"
+short_title: "BSOAS 43 (1980), 141-142"
+author: "Wiseman, Donald J."
+publication_year: "1980"
+title: "Rv. E.N. von Voigtlander, The Bisitun Inscription of Darius the Great, Babylonian Version"
+volume_no_: "43"
+pages: "141-142"
+journal: "Bulletin of the School of Oriental and African Studies"
+title: "Rv. E.N. von Voigtlander, The Bisitun Inscription of Darius the Great, Babylonian Version"
+previous_item: "10765"
+---

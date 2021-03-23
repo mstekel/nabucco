@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34570"
+place_id: "1246"
+parent_id: "61"
+place_name: "Šīhu"
+title: "Šīhu"
+previous_item: "34573"
+---

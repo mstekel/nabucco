@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34396"
+place_id: "232"
+parent_id: "40"
+place_name: "Bīt-Barēna"
+title: "Bīt-Barēna"
+previous_item: "34399"
+---

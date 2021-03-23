@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13018"
+occurrence_id: "1917"
+short_title: "Iran 18 (1980), 65-74"
+author: "Roaf, Michael"
+publication_year: "1980"
+title: "Texts about theSculptures and Sculptors at Persepolis"
+volume_no_: "18"
+pages: "65-74"
+journal: "Iran. Journal of the British Institute of Persian Studies"
+title: "Texts about theSculptures and Sculptors at Persepolis"
+previous_item: "13021"
+---

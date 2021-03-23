@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11014"
+occurrence_id: "3141"
+short_title: "RIDA 2e Série 1 (1952), 125-195"
+author: "Szlechter, Émile"
+publication_year: "1952"
+title: "L'affranchisement en droit suméro-akkadien"
+volume_no_: "2/1."
+pages: "125-195"
+journal: "Revue Internationale des Droits de l'Antiquité"
+title: "L'affranchisement en droit suméro-akkadien"
+previous_item: "11017"
+---

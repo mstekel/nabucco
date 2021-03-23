@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13321"
+occurrence_id: "3551"
+short_title: "ZDMG 118 (1968 publ. 1969), 432-435"
+author: "Hinz, Walther"
+publication_year: "1968 publ. 1969"
+title: "Rv. E. Benveniste, Titres et noms propres en iranien ancien"
+volume_no_: "118"
+pages: "432-435"
+journal: "Zeitschrift der Deutschen Morgenländischen Gesellschaft"
+title: "Rv. E. Benveniste, Titres et noms propres en iranien ancien"
+previous_item: "13324"
+---

@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "12223"
+occurrence_id: "3645"
+short_title: "BLOT (1993), 119"
+author: "Geller, Mark J."
+publication_year: "1993"
+title: "Rv. G. Frame, Babylonia 689-627 B.C. A Political History (PIHANS 69, 1992)"
+pages: "119"
+journal: "Book List. Society for Old Testament Studies (Llansadwrn, Menai Bridge)"
+title: "Rv. G. Frame, Babylonia 689-627 B.C. A Political History (PIHANS 69, 1992)"
+previous_item: "12226"
+---

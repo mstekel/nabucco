@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16342"
+occurrence_id: "1746"
+short_title: "BMECCJ 10/1-2 (1967), 39-53"
+author: "Sato, Susumu"
+publication_year: "1967"
+title: "On the Disputed Elamite šaki in the Persepolis Treasury Tablets"
+volume_no_: "10/1-2."
+pages: "39-53"
+journal: "Bulletin of the Middle Eastern Culture Center in Japan"
+title: "On the Disputed Elamite šaki in the Persepolis Treasury Tablets"
+previous_item: "16345"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9274"
+occurrence_id: "2797"
+short_title: "OLZ 76 (1981), 175-176"
+author: "Sandermann, W."
+publication_year: "1981"
+title: "Rv. E.N. von Voigtlander, The Bisitun Inscription of Darius the Great, Babylonian Version"
+volume_no_: "76"
+pages: "175-176"
+journal: "Orientalistische Literaturzeitung"
+title: "Rv. E.N. von Voigtlander, The Bisitun Inscription of Darius the Great, Babylonian Version"
+previous_item: "9277"
+---

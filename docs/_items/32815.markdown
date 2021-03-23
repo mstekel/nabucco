@@ -1,0 +1,17 @@
+---
+layout: "tablet"
+slug: "32815"
+object_id: "8853"
+museum_no_: "BM 43429"
+publication: "Jursa 1999"
+page_number: "236"
+period: "Each"
+type_and_content: "Indeterminate administrative texts"
+paraphrase: "Fragment mentioning bow-service (qī&scaron;tu) and silver."
+imported: "Matthias Adelhofer (07/06/17)"
+publication_name: "Jursa 1999 "
+archive: "Šangû-Šamaš A"
+orientation: "Landscape"
+title: "BM 43429"
+previous_item: "32818"
+---

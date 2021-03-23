@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15559"
+occurrence_id: "3571"
+short_title: "ZDPV 69 (1953), 42-64"
+author: "Galling, Kurt"
+publication_year: "1953"
+title: "Von Naboned zu Darius. Studien zur chaldäischen und persischen Geschichte"
+volume_no_: "69"
+pages: "42-64"
+journal: "Zeitschrift des Deutschen Palästina-Vereins"
+title: "Von Naboned zu Darius. Studien zur chaldäischen und persischen Geschichte"
+previous_item: "15562"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19306"
+occurrence_id: "4933"
+short_title: "Beaulieu 2006a"
+author: "Beaulieu, Paul-A."
+publication_year: "2006"
+title: "Berossus on Late Babylonian History"
+pages: "116-149"
+editor: "Chen, Yiyi"
+book: "Special Issue of Oriental Studies: A Collection of Papers on Ancient Civilizations of Western Asia, Asia Minor and North Africa (Beijing)"
+title: "Berossus on Late Babylonian History"
+previous_item: "19309"
+---

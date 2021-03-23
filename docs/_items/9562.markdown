@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9562"
+occurrence_id: "1328"
+short_title: "Altertum 34 (1988), 53-59"
+author: "Funck, Bernd"
+publication_year: "1988"
+title: "Aus den Erinnerungen einer babylonischen Priesterin. Zur Geschichte der Autobiographie"
+volume_no_: "34"
+pages: "53-59"
+journal: "Altertum"
+title: "Aus den Erinnerungen einer babylonischen Priesterin. Zur Geschichte der Autobiographie"
+previous_item: "9565"
+---

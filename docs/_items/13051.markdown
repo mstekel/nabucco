@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13051"
+occurrence_id: "2093"
+short_title: "JAOS 121/2 (2001), 303-305"
+author: "Yoffee, Norman"
+publication_year: "2001"
+title: "Rv. M. Hudson and B. D. Levine, Privatization in the Ancient Near East and Classical World"
+volume_no_: "121/2"
+pages: "303-305"
+journal: "Journal of the American Oriental Society"
+title: "Rv. M. Hudson and B. D. Levine, Privatization in the Ancient Near East and Classical World"
+previous_item: "13054"
+---

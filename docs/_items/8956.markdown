@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8956"
+occurrence_id: "219"
+short_title: "Scheil, RA 18"
+author: "Scheil, Vincent"
+publication_year: "1921"
+title: "Catalogue de la collection Eugène Tisserant"
+volume_no_: "18"
+pages: "1-33"
+journal: "Revue d’Assyriologie et d’Archéologie orientale"
+title: "Catalogue de la collection Eugène Tisserant"
+previous_item: "8959"
+---

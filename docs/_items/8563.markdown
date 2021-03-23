@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8563"
+occurrence_id: "1989"
+short_title: "Iraq 64 (2002), 125-134"
+author: "Fischer, Claudia"
+publication_year: "2002"
+title: "Twilight of the sun-god"
+volume_no_: "64"
+pages: "125-134"
+journal: "Iraq"
+title: "Twilight of the sun-god"
+previous_item: "8566"
+---

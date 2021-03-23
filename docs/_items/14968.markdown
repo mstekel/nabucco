@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14968"
+occurrence_id: "3406"
+short_title: "ZA 52 (1957), 235-264"
+author: "Largement, René"
+publication_year: "1957"
+title: "Contributions à l´étude des astres errants dans l´astrologie chaldéenne (1)"
+volume_no_: "52"
+pages: "235-264"
+journal: "Zeitschrift für Assyriologie"
+title: "Contributions à l´étude des astres errants dans l´astrologie chaldéenne (1)"
+previous_item: "14971"
+---

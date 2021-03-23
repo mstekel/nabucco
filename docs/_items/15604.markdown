@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15604"
+occurrence_id: "3811"
+short_title: "OA 22 (1983), 217-220"
+author: "Zadok, Ran"
+publication_year: "1983"
+title: "Lexical and Onomastic Notes"
+volume_no_: "22"
+pages: "217-220"
+journal: "Oriens Antiquus"
+title: "Lexical and Onomastic Notes"
+previous_item: "15607"
+---

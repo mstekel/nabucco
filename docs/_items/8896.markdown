@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8896"
+occurrence_id: "3783"
+short_title: "KSI(N)A 86 (1965), 109-115"
+author: "Dandamayev, Muhammed A."
+publication_year: "1965"
+title: "Die Garantien beim Verkauf von Sklaven in spätbabylonischen Urkunden (in Russ.)"
+volume_no_: "86"
+pages: "109-115"
+journal: "Краткие сообщения Института Археологии АН ОССР (Kratkie soobŝenija Instituta Arheologii AN OSSR)"
+title: "Die Garantien beim Verkauf von Sklaven in spätbabylonischen Urkunden (in Russ.)"
+previous_item: "8899"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14731"
+occurrence_id: "2128"
+short_title: "JAOS 87 (1967), 1-8"
+author: "Gelb, Ignace J."
+publication_year: "1967"
+title: "Approaches to the Study of Ancient Society"
+volume_no_: "87"
+pages: "1-8"
+journal: "Journal of the American Oriental Society"
+title: "Approaches to the Study of Ancient Society"
+previous_item: "14734"
+---

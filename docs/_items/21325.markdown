@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21325"
+occurrence_id: "4687"
+short_title: "Graslin 2005"
+author: "Graslin, Laetitia"
+publication_year: "2005"
+title: "Les théories économiques du commerce international et leur usage pour l'étude des échanges à longue distance à l'époque néo-babylonienne."
+pages: "121-136"
+editor: "Baker, Heather D."
+book: "Approaching the Babylonian Economy, AOAT 330 (Münster)"
+title: "Les théories économiques du commerce international et leur usage pour l'étude des échanges à longue distance à l'époque néo-babylonienne."
+previous_item: "21328"
+---

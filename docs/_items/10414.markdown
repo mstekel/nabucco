@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10414"
+occurrence_id: "2896"
+short_title: "Or 52 (1983), 215-229"
+author: "McEwan, Gilbert J.P."
+publication_year: "1983"
+title: "dMUŠ and Related Matters"
+volume_no_: "52"
+pages: "215-229"
+journal: "Orientalia"
+title: "dMUŠ and Related Matters"
+previous_item: "10417"
+---

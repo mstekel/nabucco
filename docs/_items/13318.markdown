@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13318"
+occurrence_id: "3535"
+short_title: "ZAR 16 (2010), 105-144."
+author: "Achenbach, Reinhard"
+publication_year: "2010"
+title: "Satrapie, Medinah und lokale Hierokratie. Zum Einfluss der Stathalter der Achämenidenzeit auf Tempelwirtschaft und Tempelordnungen."
+volume_no_: "16"
+pages: "105-144"
+journal: "Zeitschrift für Altorientalische und Biblische Rechtsgeschichte"
+title: "Satrapie, Medinah und lokale Hierokratie. Zum Einfluss der Stathalter der Achämenidenzeit auf Tempelwirtschaft und Tempelordnungen."
+previous_item: "13321"
+---

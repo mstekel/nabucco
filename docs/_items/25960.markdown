@@ -1,0 +1,18 @@
+---
+layout: "tablet"
+slug: "25960"
+object_id: "6014"
+museum_no_: "N 4073"
+cdli_no_: "P230664"
+period: "ENB"
+day_remark: "-"
+month: "-"
+month_remark: "-"
+year: "15"
+year_remark: "-"
+king: "Sîn-šarru-iškun"
+king_remark: "-"
+imported: "Melanie Gross (26/05/2016)"
+title: "N 4073"
+previous_item: "25966"
+---

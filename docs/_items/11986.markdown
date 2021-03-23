@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11986"
+occurrence_id: "2366"
+short_title: "JNES 70 (2011), 1-12"
+author: "Boiy, Tom"
+publication_year: "2011"
+title: "The Reigns of the Seleucid kings According to theBabylon King List."
+volume_no_: "70"
+pages: "1-12"
+journal: "Journal of Near Eastern Studies"
+title: "The Reigns of the Seleucid kings According to theBabylon King List."
+previous_item: "11989"
+---

@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "19378"
+occurrence_id: "4213"
+short_title: "Jacobs 2011"
+author: "Jacobs, Bruno"
+publication_year: "2011"
+title: "Ktesias und die Architektur Babylons"
+pages: "141-157"
+editor: "Lanfranchi, Giovanni , B."
+title: "Ktesias und die Architektur Babylons"
+previous_item: "19381"
+---

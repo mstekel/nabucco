@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18661"
+occurrence_id: "4802"
+short_title: "Jursa 2015a"
+author: "Jursa, Michael"
+publication_year: "2015"
+title: "Families, Officialdom and Families of Royal Officials in Chaldean and Achaemenid Babylonia"
+pages: "597–606"
+editor: "Archi, Alfonso"
+book: "Tradition and Innovation in the Ancient Near East. Proceedings of the 57th Rencontre Assyriologique Internationale at Rome 4–8 July 2011 (Winona Lake)"
+title: "Families, Officialdom and Families of Royal Officials in Chaldean and Achaemenid Babylonia"
+previous_item: "18664"
+---

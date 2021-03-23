@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19078"
+occurrence_id: "4820"
+short_title: "Weszeli 2002"
+author: "Weszeli, Michaela"
+publication_year: "2002"
+title: "Du sollst nicht darüber spotten: eine Abschrift der 10. Tafel von úru àm.ma.ir.ra.bi"
+pages: "343-354"
+editor: "Wunsch, Cornelia"
+book: "Mining the archives, Fs. Walker (Dresden)"
+title: "Du sollst nicht darüber spotten: eine Abschrift der 10. Tafel von úru àm.ma.ir.ra.bi"
+previous_item: "19081"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19903"
+occurrence_id: "4808"
+short_title: "Jursa and Stolper 2007"
+author: "Jursa, Michael"
+publication_year: "2007"
+title: "From the Tattannu Archive Fragment"
+pages: "243-281"
+editor: "Köhbach, Markus "
+book: "Festschrift für Hermann Hunger zum 65. Geburtstag: gewidmet von seinen Freunden, Kollegen und Schülern, WZKM 97 (Wien)"
+title: "From the Tattannu Archive Fragment"
+previous_item: "19906"
+---

@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33856"
+place_id: "457"
+parent_id: "40"
+place_name: "Ham-qadu"
+title: "Ham-qadu"
+previous_item: "33859"
+---

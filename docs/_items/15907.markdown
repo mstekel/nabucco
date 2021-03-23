@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15907"
+occurrence_id: "2421"
+short_title: "Mesopotamia 42 (2007), 289-291"
+author: "Seminara, Stefano"
+publication_year: "2007"
+title: "Rv. S. Zawadzki, Garments of the Gods. Studies on the Textile Industry and the Pantheon of Sippar according to the Texts from the Ebabbar Archive."
+volume_no_: "42"
+pages: "289-291"
+journal: "Mesopotamia"
+title: "Rv. S. Zawadzki, Garments of the Gods. Studies on the Textile Industry and the Pantheon of Sippar according to the Texts from the Ebabbar Archive."
+previous_item: "15910"
+---

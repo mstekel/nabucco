@@ -1,0 +1,15 @@
+---
+layout: "tablet"
+slug: "30127"
+object_id: "7098"
+museum_no_: "BM 31199"
+publication: "CT 22"
+text_number: "157 "
+period: "-"
+type_and_content: "Letters"
+publication_name: "CT 22 157 "
+archive: "Egibi/Nūr-Sîn"
+bibliography: "reedition: Wunsch 1993, 322."
+title: "BM 31199"
+previous_item: "30130"
+---

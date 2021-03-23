@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12217"
+occurrence_id: "3613"
+short_title: "AION-L 2 (1960), 159-170"
+author: "Kuiper, Franciscus Bernardus J."
+publication_year: "1960"
+title: "Three Notes on Old Persian (1. OP. hātiy 2. OP. mā stabava DNa 60 3. OP kunautiy)"
+volume_no_: "2"
+pages: "159-170"
+journal: "Annali dell’Istituto Orientale di Napoli"
+title: "Three Notes on Old Persian (1. OP. hātiy 2. OP. mā stabava DNa 60 3. OP kunautiy)"
+previous_item: "12220"
+---

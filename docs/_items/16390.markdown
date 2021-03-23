@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16390"
+occurrence_id: "2003"
+short_title: "Iraq 70 (2008), 205-213."
+author: "Wells, Bruce"
+publication_year: "2008"
+title: "Pre-trial negotiations: the case of the Runaway slave in Dar. 53."
+volume_no_: "70"
+pages: "205-213"
+journal: "Iraq"
+title: "Pre-trial negotiations: the case of the Runaway slave in Dar. 53."
+previous_item: "16393"
+---

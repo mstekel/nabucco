@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16540"
+occurrence_id: "724"
+short_title: "Kellens 1991"
+author: "Kellens, Jean "
+publication_year: "1991"
+title: "La religion iranienne à l´époque achéménide, IrAn Supplément V (Ghent)"
+title: "La religion iranienne à l´époque achéménide, IrAn Supplément V (Ghent)"
+previous_item: "16543"
+---

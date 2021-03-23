@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10627"
+occurrence_id: "159"
+short_title: "Zawadzki, NABU 2002/55"
+author: "Zawadzki, Stefan"
+publication_year: "2002"
+title: "Miscellanea Sipparica"
+volume_no_: "2002/55"
+related_objects: "5758"
+journal: "NABU"
+title: "Miscellanea Sipparica"
+previous_item: "10630"
+---

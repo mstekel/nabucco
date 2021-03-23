@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14890"
+occurrence_id: "2988"
+short_title: "PSBA 38 (1916), 27-34"
+author: "Pinches, Theophilus G."
+publication_year: "1916"
+title: "Two Late Tablets of Historical Interest"
+volume_no_: "38"
+pages: "27-34"
+journal: "Proceedings of the Society of Biblical Archaeology"
+title: "Two Late Tablets of Historical Interest"
+previous_item: "14893"
+---

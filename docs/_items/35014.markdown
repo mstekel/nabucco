@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "35014"
+place_id: "1258"
+parent_id: "61"
+place_name: "Šilihtu"
+title: "Šilihtu"
+previous_item: "35017"
+---

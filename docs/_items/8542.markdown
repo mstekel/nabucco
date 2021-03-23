@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8542"
+occurrence_id: "1877"
+short_title: "Gnomon 26 (1954), 198-200"
+author: "Frye, Richard N."
+publication_year: "1954"
+title: "Rv. A.T. Olmstead, History of the Persian Empire (Achaemenid Period)"
+volume_no_: "26"
+pages: "198-200"
+journal: "Gnomon"
+title: "Rv. A.T. Olmstead, History of the Persian Empire (Achaemenid Period)"
+previous_item: "8545"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15721"
+occurrence_id: "1421"
+short_title: "AoF 17 (1990), 76-99"
+author: "Powell, Marvin A."
+publication_year: "1990"
+title: "Identification and Interpretation of Long Term Price Fluctuations in Babylonia: More on the History of Money in Mesopotamia"
+volume_no_: "17"
+pages: "76-99"
+journal: "Altorientalische Forschungen"
+title: "Identification and Interpretation of Long Term Price Fluctuations in Babylonia: More on the History of Money in Mesopotamia"
+previous_item: "15724"
+---

@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34855"
+place_id: "484"
+parent_id: "40"
+place_name: "Huṣṣēti-ša-Addija"
+title: "Huṣṣēti-ša-Addija"
+previous_item: "34858"
+---

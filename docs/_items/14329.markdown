@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14329"
+occurrence_id: "2971"
+short_title: "PalSb11/74 (1964), 182-188"
+author: "Dandamayev, Muhammed A."
+publication_year: "1964"
+title: "Rv. M. San Nicolo and H. Petschow, Babylonische Rechtsurkunden aus dem 6. Jahrhundert v. Chr."
+volume_no_: "11(74)"
+pages: "182-188"
+journal: "Palestinskij Szbornik"
+title: "Rv. M. San Nicolo and H. Petschow, Babylonische Rechtsurkunden aus dem 6. Jahrhundert v. Chr."
+previous_item: "14332"
+---

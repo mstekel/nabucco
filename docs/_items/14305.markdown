@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14305"
+occurrence_id: "2838"
+short_title: "Or 17 (1948), 273-293"
+author: "Nicolò, Mariano, San"
+publication_year: "1948"
+title: "Materialien zur Viehwirtschaft in den neubabylonischen Tempeln. I"
+volume_no_: "17"
+pages: "273-293"
+journal: "Orientalia"
+title: "Materialien zur Viehwirtschaft in den neubabylonischen Tempeln. I"
+previous_item: "14308"
+---

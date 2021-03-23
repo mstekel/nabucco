@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13657"
+occurrence_id: "2353"
+short_title: "JNES 63 (2004), 49-50"
+author: "Biggs, Robert D."
+publication_year: "2004"
+title: "Rv. N.M. Swerdlow (ed), Ancient Astronomy and Celestial Divination."
+volume_no_: "63"
+pages: "49-50"
+journal: "Journal of Near Eastern Studies"
+title: "Rv. N.M. Swerdlow (ed), Ancient Astronomy and Celestial Divination."
+previous_item: "13660"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8449"
+occurrence_id: "1375"
+short_title: "Annales HSS 57/3 (2002), 672-673."
+author: "Villard, Pierre"
+publication_year: "2002"
+title: "Rv. F. Joannès (ed), Rendre la justice en Mésopotamie. Archives judiciaires du Proche-Orient ancien. Saint-Denis 2000."
+volume_no_: "57/3"
+pages: "672-673"
+journal: "Annales. Histoire, Science Sociales"
+title: "Rv. F. Joannès (ed), Rendre la justice en Mésopotamie. Archives judiciaires du Proche-Orient ancien. Saint-Denis 2000."
+previous_item: "8452"
+---

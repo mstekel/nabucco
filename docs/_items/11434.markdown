@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11434"
+occurrence_id: "2397"
+short_title: "MDP 36 (1954), 83-85"
+author: "Rutten, Marguerite"
+publication_year: "1954"
+title: "Tablette No 4,"
+volume_no_: "36"
+pages: "83-85"
+journal: "Mémoires de la Délégation en Perse"
+title: "Tablette No 4,"
+previous_item: "11437"
+---

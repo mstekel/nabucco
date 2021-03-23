@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19360"
+occurrence_id: "278"
+short_title: "Zadok 1998"
+author: "Zadok, Ran"
+publication_year: "1998"
+title: "Notes on Borsippean Documentation of the Eighth-Fifth Centuries B.C."
+pages: "249-96"
+editor: "Singer, Itamar "
+book: "Past Links. Studies in the Languages and Cultures of the Ancient Near East"
+title: "Notes on Borsippean Documentation of the Eighth-Fifth Centuries B.C."
+previous_item: "19363"
+---

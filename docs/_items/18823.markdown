@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18823"
+occurrence_id: "4563"
+short_title: "Marzahn 2010"
+author: "Marzahn, Joachim"
+publication_year: "2010"
+title: "Uruk in Babylon. Eine Inschrift Nebukadnezars II. für Ischtar von Uruk"
+pages: "107-113"
+editor: "Shehata, Dahlia"
+book: "Von Göttern und Menschen. Beiträge zu Literatur und Geschichte des Alten Orients. Festschrift für Brigitte Groneberg, CM 11 (Leiden/Boston)"
+title: "Uruk in Babylon. Eine Inschrift Nebukadnezars II. für Ischtar von Uruk"
+previous_item: "18826"
+---

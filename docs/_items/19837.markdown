@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19837"
+occurrence_id: "4456"
+short_title: "van Driel 2005"
+author: "van Driel, Govert"
+publication_year: "2005"
+title: "Ethnicity, how to cope with the subject"
+pages: "1-10"
+editor: "van Soldt, Wilfred H."
+book: "Ethnicity in Ancient Mesopotamia. RAI 48, PIHANS 102 (Leiden)"
+title: "Ethnicity, how to cope with the subject"
+previous_item: "19840"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19177"
+occurrence_id: "4244"
+short_title: "Wunsch 1997"
+author: "Wunsch, Cornelia"
+publication_year: "1997"
+title: "Neu- und spätbabylonische Urkunden aus dem Museum von Montserrat"
+pages: "139-194"
+editor: "Márquez-Rowe, Ignacio"
+book: "Tabulae Montserratinae, AuOr 15 (Barcelona)"
+title: "Neu- und spätbabylonische Urkunden aus dem Museum von Montserrat"
+previous_item: "19180"
+---

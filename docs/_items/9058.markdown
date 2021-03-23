@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9058"
+occurrence_id: "1635"
+short_title: "BiOr 13 (1956), 56-65"
+author: "Erdmann, Kurt"
+publication_year: "1956"
+title: "Rv. E.F. Schmidt, Persepolis I: Structures, Reliefs, Inscriptions"
+volume_no_: "13"
+pages: "56-65"
+journal: "Bibliotheca Orientalis"
+title: "Rv. E.F. Schmidt, Persepolis I: Structures, Reliefs, Inscriptions"
+previous_item: "9061"
+---

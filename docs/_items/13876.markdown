@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13876"
+occurrence_id: "3536"
+short_title: "ZAR 16 (2010), 305-309."
+author: "Wells, Bruce"
+publication_year: "2010"
+title: "Rv. F. Rachel Magdalene, On the Scales of Righteousness: Neo-Babylonian Trial Law and the Book of Job."
+volume_no_: "16"
+pages: "49-75"
+journal: "Zeitschrift für Altorientalische und Biblische Rechtsgeschichte"
+title: "Rv. F. Rachel Magdalene, On the Scales of Righteousness: Neo-Babylonian Trial Law and the Book of Job."
+previous_item: "13879"
+---

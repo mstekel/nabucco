@@ -1,0 +1,11 @@
+---
+layout: "glossary"
+slug: "1927"
+concept_id: "1528"
+hierarchy: "General keywords"
+label: "Mares' Canal"
+related_objects: "124"
+type: "148"
+title: "Mares' Canal"
+previous_item: "1930"
+---

@@ -1,0 +1,11 @@
+---
+layout: "tablet"
+slug: "29647"
+object_id: "7288"
+museum_no_: "BM 31831"
+period: "-"
+type_and_content: "Letters"
+archive: "Egibi/Nūr-Sîn"
+title: "BM 31831"
+previous_item: "29650"
+---

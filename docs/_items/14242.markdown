@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "14242"
+occurrence_id: "2500"
+short_title: "NABU 1993/12"
+author: "Dandamayev, Muhammed A."
+title: "LÚ zinabarra"
+volume_no_: "12"
+publication_year: "1993"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "LÚ zinabarra"
+previous_item: "14245"
+---

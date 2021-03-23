@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11560"
+occurrence_id: "3078"
+short_title: "RA 81 (1987 publ.1988), 147-158"
+author: "Joannès, Francis"
+publication_year: "1987 publ.1988"
+title: "Trois textes de ƒurru à l'époque néo-babylonienne"
+volume_no_: "81"
+pages: "147-158"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "Trois textes de ƒurru à l'époque néo-babylonienne"
+previous_item: "11563"
+---

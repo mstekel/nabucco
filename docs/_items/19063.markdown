@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19063"
+occurrence_id: "4740"
+short_title: "Liverani 1999"
+author: "Liverani, Mario"
+publication_year: "1999"
+title: "The Role of the Village in Shaping the Ancient Near Eastern Rural Landscape"
+pages: "37-47"
+editor: "Fales, Frederick Mario"
+book: "Landscapes. Territories, Frontiers and Horizons in the Ancient Near East, RAI 44/I (Padova)"
+title: "The Role of the Village in Shaping the Ancient Near Eastern Rural Landscape"
+previous_item: "19066"
+---

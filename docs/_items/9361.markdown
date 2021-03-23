@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9361"
+occurrence_id: "3266"
+short_title: "Transeuphratène 20 (2000), 9-43"
+author: "Maucourant, Jérôme"
+publication_year: "2000"
+title: "Échange, commerce et monnaie dans les économies non modernes - Un réexamen de l´approche de Karl Polanyi"
+volume_no_: "20"
+pages: "9-43"
+journal: "Transeuphratène"
+title: "Échange, commerce et monnaie dans les économies non modernes - Un réexamen de l´approche de Karl Polanyi"
+previous_item: "9364"
+---

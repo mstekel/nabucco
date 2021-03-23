@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19060"
+occurrence_id: "4724"
+short_title: "Stockhusen 2013"
+author: "Stockhusen, Marco"
+publication_year: "2013"
+title: "Nomadisierende Stammesverbände im Babylonien der neuassyrischen und neubabylonischen Zeit: das Beispiel der Dam’nu"
+pages: "223-246"
+editor: "Berlejung, Angelika"
+book: "Arameans, Chaldeans, and Arabs in Babylonia and Palestine in the First Millennium B.C., Leipziger Altorientalische Studien 3 (Wiesbaden)"
+title: "Nomadisierende Stammesverbände im Babylonien der neuassyrischen und neubabylonischen Zeit: das Beispiel der Dam’nu"
+previous_item: "19063"
+---

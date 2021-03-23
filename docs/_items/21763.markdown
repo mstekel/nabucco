@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21763"
+occurrence_id: "4817"
+short_title: "Roaf 2010"
+author: "Roaf, Michael"
+publication_year: "2010"
+title: "The Rulers and the Ruled in Achaemenid Art"
+pages: "131-141"
+editor: "Charvát, Petr"
+book: "Who Was King? Who Was Not King? The Rulers and the Ruled in the Ancient Near East (Prague)"
+title: "The Rulers and the Ruled in Achaemenid Art"
+previous_item: "21766"
+---

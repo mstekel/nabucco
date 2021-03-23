@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "9769"
+occurrence_id: "2442"
+short_title: "NABU 1987/6"
+author: "Vallat, François"
+publication_year: "1987"
+title: "L'expression da-ma da-ak en élamite achéménide"
+volume_no_: "6"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "L'expression da-ma da-ak en élamite achéménide"
+previous_item: "9772"
+---

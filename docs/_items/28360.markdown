@@ -1,0 +1,13 @@
+---
+layout: "tablet"
+slug: "28360"
+object_id: "7472"
+nabucco_no_: "BM74637"
+museum_no_: "BM 74637"
+text_number: "121b"
+duplicate: "BM 74541"
+imported: "Melanie Gross (03/11/2016)"
+related_objects: "6638"
+title: "BM 74637"
+previous_item: "28363"
+---

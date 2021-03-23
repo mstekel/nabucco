@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21181"
+occurrence_id: "5022"
+short_title: "van der Spek 1998"
+author: "van der Spek, Robartus"
+publication_year: "1998"
+title: "Land Tenure in Hellenistic Anatolia and Mesopotamia"
+pages: "137-147"
+editor: "Uguroglu, A."
+book: "XXXIVème Rencontre assyriologique internationale Istanbul RAI 34 (Ankara)"
+title: "Land Tenure in Hellenistic Anatolia and Mesopotamia"
+previous_item: "21184"
+---

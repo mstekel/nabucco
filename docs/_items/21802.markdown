@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21802"
+occurrence_id: "5025"
+short_title: "van der Spek 2000"
+author: "van der Spek, Robartus"
+publication_year: "2000"
+title: "The effect of war on theprices of barley and agricultural land in Hellenistic Babylonia"
+pages: "293-313"
+editor: "Andreau, Jean"
+book: "Économie antique. Prix et formation des prix dans les économies antiques, Entretiens d´Archéologie et d´Histoire 3 ( Saint-Bertrand-de-Comminges)"
+title: "The effect of war on theprices of barley and agricultural land in Hellenistic Babylonia"
+previous_item: "21805"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9751"
+occurrence_id: "2346"
+short_title: "JNES 60 (2001), 62-65"
+author: "Koch, Johannes"
+publication_year: "2001"
+title: "Rv. F. Rochberg-Halton, Babylonian Horoscopes"
+volume_no_: "60"
+pages: "62-65"
+journal: "Journal of Near Eastern Studies"
+title: "Rv. F. Rochberg-Halton, Babylonian Horoscopes"
+previous_item: "9754"
+---

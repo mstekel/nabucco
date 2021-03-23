@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7699"
+occurrence_id: "3377"
+short_title: "WZKM 94 (2004), 109-132."
+author: "Jursa, Michael"
+publication_year: "2004"
+title: "Diebstahl, Korruption und Auftragsmord: Neues von Gimillu."
+volume_no_: "94"
+pages: "109-132"
+journal: "Wiener Zeitschrift für die Kunde des Morgenlandes"
+title: "Diebstahl, Korruption und Auftragsmord: Neues von Gimillu."
+previous_item: "7702"
+---

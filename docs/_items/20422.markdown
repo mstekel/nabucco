@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20422"
+occurrence_id: "4282"
+short_title: "Testen 1996"
+author: "Testen, David D."
+publication_year: "1996"
+title: "Old Persian Cuneiform"
+pages: "134-137"
+editor: "Daniels, Peter T."
+book: "The World´s Writing Systems (New York and Oxford)"
+title: "Old Persian Cuneiform"
+previous_item: "20425"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20419"
+occurrence_id: "4266"
+short_title: "Potts 2008"
+author: "Potts, Daniel T."
+publication_year: "2008"
+title: "The Persepolis Fortification texts and the Royal Road: another look at the Fahliyan area."
+pages: "275-301"
+editor: "Stolper, Matthew W."
+book: "L'archive des Fortifications de Persepolis. État des questions et perspectives de recherches Persika 12 (Paris)"
+title: "The Persepolis Fortification texts and the Royal Road: another look at the Fahliyan area."
+previous_item: "20422"
+---

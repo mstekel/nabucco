@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21454"
+occurrence_id: "4271"
+short_title: "Weisberg 1996"
+author: "Weisberg, David B."
+publication_year: "1996"
+title: "The Neo-Babylonian Empire"
+pages: "221-233"
+editor: "Westenholz, Joan Goodnick"
+book: "Royal Cities of the Biblical World (Jerusalem)"
+title: "The Neo-Babylonian Empire"
+previous_item: "21457"
+---

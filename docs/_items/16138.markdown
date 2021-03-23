@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16138"
+occurrence_id: "3668"
+short_title: "East and West NS 16 (Rome 1966), 175-179"
+author: "Glaesser, Gustav"
+publication_year: "1966"
+title: "Rv. W. Hinz, Das Reich Elam"
+volume_no_: "16"
+pages: "175-179"
+journal: "East and West NS"
+title: "Rv. W. Hinz, Das Reich Elam"
+previous_item: "16141"
+---

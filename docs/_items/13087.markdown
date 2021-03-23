@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13087"
+occurrence_id: "2288"
+short_title: "JNES 24 (1965), 271-273"
+author: "Hallock, Richard T."
+publication_year: "1965"
+title: "The Verb šara- in Achaemenid Elamite"
+volume_no_: "24"
+pages: "271-273"
+journal: "Journal of Near Eastern Studies"
+title: "The Verb šara- in Achaemenid Elamite"
+previous_item: "13090"
+---

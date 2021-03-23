@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17326"
+occurrence_id: "817"
+short_title: "Friedrich et al 1940"
+author: "Friedrich, Johannes "
+publication_year: "1940"
+title: "Die Inschriften von Tell Halaf, Keilschrifttexte and aramäische Urkunden aus einer assyrischen Provinzhauptstadt, AfO Beiheft 6 (Berlin)"
+title: "Die Inschriften von Tell Halaf, Keilschrifttexte and aramäische Urkunden aus einer assyrischen Provinzhauptstadt, AfO Beiheft 6 (Berlin)"
+previous_item: "17329"
+---

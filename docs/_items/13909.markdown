@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13909"
+occurrence_id: "3712"
+short_title: "HZ 244 (1987), 670-671"
+author: "Pekáry, T."
+publication_year: "1987"
+title: "Rv. M. Silver, Economic Structures of the Ancient Near East (1985)"
+volume_no_: "244"
+pages: "670-671"
+journal: "Historische Zeitschrift"
+title: "Rv. M. Silver, Economic Structures of the Ancient Near East (1985)"
+previous_item: "13912"
+---

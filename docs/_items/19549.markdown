@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19549"
+occurrence_id: "5126"
+short_title: "Cuyler Jr. Young 2004"
+author: "Young, Theodore Cuyler Jr."
+publication_year: "2004"
+title: "Darius I, Commander-in-Chief: Bisitun I: 35 to III: 92 as Military History"
+pages: "277-288"
+editor: "Frame, Grant"
+book: "From the Upper Sea to the Lower Sea. Studies in the History of Assyria and Babylonia in Honour of A. K. Grayson (Leiden)"
+title: "Darius I, Commander-in-Chief: Bisitun I: 35 to III: 92 as Military History"
+previous_item: "19552"
+---

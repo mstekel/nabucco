@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13735"
+occurrence_id: "2773"
+short_title: "OLZ 45 (1942), 276-278"
+author: "Eisser, Georg"
+publication_year: "1942"
+title: "Rv. M. San Nicolò, Zur Nachbürgschaft in den KeilschriftUrkunden und in den gräko-ägyptischen Papyri"
+volume_no_: "45"
+pages: "276-278"
+journal: "Orientalistische Literaturzeitung"
+title: "Rv. M. San Nicolò, Zur Nachbürgschaft in den KeilschriftUrkunden und in den gräko-ägyptischen Papyri"
+previous_item: "13738"
+---

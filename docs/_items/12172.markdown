@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12172"
+occurrence_id: "3369"
+short_title: "WZKM 77 (1987), 209-213"
+author: "Schmitt, Rüdiger"
+publication_year: "1987"
+title: "Rv. J.C. Greenfield and B. Porten, The Bisitun Inscription of Darius the Great: Aramaic Version (1982)"
+volume_no_: "77"
+pages: "209-213"
+journal: "Wiener Zeitschrift für die Kunde des Morgenlandes"
+title: "Rv. J.C. Greenfield and B. Porten, The Bisitun Inscription of Darius the Great: Aramaic Version (1982)"
+previous_item: "12175"
+---

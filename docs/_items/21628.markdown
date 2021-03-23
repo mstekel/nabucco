@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21628"
+occurrence_id: "5200"
+short_title: "Henkelman 2005"
+author: "Henkelman, Wouter F.M."
+publication_year: "2005"
+title: "Animal sacrifice and 'external' exchange in the Persepolis Fortification Tablets"
+pages: "137-165"
+editor: "Baker, Heather D."
+book: "Approaching the Babylonian Economy, AOAT 330 (Münster)"
+title: "Animal sacrifice and 'external' exchange in the Persepolis Fortification Tablets"
+previous_item: "21631"
+---

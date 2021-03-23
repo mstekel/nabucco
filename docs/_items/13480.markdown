@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13480"
+occurrence_id: "1401"
+short_title: "Antiquity 39/153 (1965), 78-79"
+author: "Oates, John"
+publication_year: "1965"
+title: "Rv. L.Woolley and M.E.L. Mallowan, the Neo-Babylonian and Persian Periods (= UE IX)"
+volume_no_: "39/153"
+pages: "78-79"
+journal: "Antiquity"
+title: "Rv. L.Woolley and M.E.L. Mallowan, the Neo-Babylonian and Persian Periods (= UE IX)"
+previous_item: "13483"
+---

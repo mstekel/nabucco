@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9337"
+occurrence_id: "3138"
+short_title: "Revue d´histoire et de philosophie religieuses 41 (1961), 200-201"
+author: "Bottéro, Jean"
+publication_year: "1961"
+title: "Rv.F. Wetzel, E.F. Schmidt and A. Mallwitz, Babylon der Spätzeit (WVDOG 62)"
+volume_no_: "41"
+pages: "200-201"
+journal: "Revue d´histoire et de philosophie religieuses"
+title: "Rv.F. Wetzel, E.F. Schmidt and A. Mallwitz, Babylon der Spätzeit (WVDOG 62)"
+previous_item: "9340"
+---

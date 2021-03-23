@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "13135"
+occurrence_id: "2546"
+short_title: "NABU 1996/42"
+author: "Jursa, Michael"
+title: "Pfründendienstperioden"
+volume_no_: "42"
+publication_year: "1996"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Pfründendienstperioden"
+previous_item: "13138"
+---

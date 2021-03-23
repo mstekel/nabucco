@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "11467"
+occurrence_id: "2576"
+short_title: "NABU 1998/110"
+author: "Stolper, Matthew W."
+title: "Thrashing and Plucking"
+volume_no_: "110"
+publication_year: "1998"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Thrashing and Plucking"
+previous_item: "11470"
+---

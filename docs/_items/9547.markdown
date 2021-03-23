@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9547"
+occurrence_id: "1246"
+short_title: "AfO 46/47 (1999/2000), 373-380"
+author: "Oelsner, Joachim"
+publication_year: "1999-2000"
+title: "Rv. R. Rollinger, Herodots babylonischer Logos (1993)"
+volume_no_: "46-47"
+pages: "373-380"
+journal: "Archiv für Orientforschung"
+title: "Rv. R. Rollinger, Herodots babylonischer Logos (1993)"
+previous_item: "9550"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15313"
+occurrence_id: "2243"
+short_title: "JESHO 41 (1998), 496-503"
+author: "Stolper, Matthew W."
+publication_year: "1998"
+title: "Rv. M. Jursa, Die Landwirtschaft in Sippar in neubabylonischer Zeit (AfO Beiheft 25, 1995)"
+volume_no_: "41"
+pages: "496-503"
+journal: "Journal of the Economic and Social History of the Orient"
+title: "Rv. M. Jursa, Die Landwirtschaft in Sippar in neubabylonischer Zeit (AfO Beiheft 25, 1995)"
+previous_item: "15316"
+---

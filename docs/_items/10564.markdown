@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "10564"
+occurrence_id: "3722"
+short_title: "IV SDV (Moscow 1968), 50-52"
+author: "Beljavskij, Vitali A."
+publication_year: "1968"
+title: "Die Familie Nabaja (Zur Geschichte der Mittelschichten der neubabylonischen Gesellschaft) (in Russ.)"
+pages: "50-52"
+journal: "IV Сессия ло Древнему Востоку (Sessija lo Drevnemu Vostoku)"
+title: "Die Familie Nabaja (Zur Geschichte der Mittelschichten der neubabylonischen Gesellschaft) (in Russ.)"
+previous_item: "10567"
+---

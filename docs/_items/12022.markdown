@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "12022"
+occurrence_id: "2560"
+short_title: "NABU 1997/149"
+author: "Zadok, Ran"
+title: "Some Iranians in Cuneiform Documents"
+volume_no_: "149"
+publication_year: "1997"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Some Iranians in Cuneiform Documents"
+previous_item: "12025"
+---

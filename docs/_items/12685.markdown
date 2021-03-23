@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12685"
+occurrence_id: "3128"
+short_title: "RBI 35 (1987), 220-222"
+author: "Carena, Omar"
+publication_year: "1987"
+title: "Rv. M.A. Dandamaev, Slavery in Babylonia from Nabopolassar to Alexander the Great (626-331 B.C.) (1984)"
+volume_no_: "35"
+pages: "220-222"
+journal: "Rivista Biblica Italiana"
+title: "Rv. M.A. Dandamaev, Slavery in Babylonia from Nabopolassar to Alexander the Great (626-331 B.C.) (1984)"
+previous_item: "12688"
+---

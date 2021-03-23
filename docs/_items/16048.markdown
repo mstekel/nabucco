@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16048"
+occurrence_id: "3182"
+short_title: "SCIAMVS 6 (2005), 33-51"
+author: "Steele, John M."
+publication_year: "2005"
+title: "Four procedure texts concerning Jupiter's latitude and synodic motion from Babylon"
+volume_no_: "6"
+pages: "33-51"
+journal: "SCIAMVS. Sources and Commentaries in Exact Sciences"
+title: "Four procedure texts concerning Jupiter's latitude and synodic motion from Babylon"
+previous_item: "16051"
+---

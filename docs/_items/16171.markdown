@@ -1,0 +1,15 @@
+---
+layout: "bibliography"
+slug: "16171"
+occurrence_id: "3844"
+short_title: "RIDA 1 (1954), 125-171"
+author: "Petschow, Herbert"
+publication_year: "1954"
+title: "Der Surrogationsgedanke im neubabylonischen Recht"
+volume_no_: "1"
+pages: "125-171"
+journal: "Revue Internationale des Droits de
+l’Antiquité"
+title: "Der Surrogationsgedanke im neubabylonischen Recht"
+previous_item: "16174"
+---

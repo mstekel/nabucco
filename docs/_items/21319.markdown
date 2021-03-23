@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21319"
+occurrence_id: "4655"
+short_title: "Monerie 2012"
+author: "Monerie, Julien"
+publication_year: "2012"
+title: "Notabilité urbaine et administration locale en Babylonie du Sud aux époques séleucide et parthe"
+pages: "327-352"
+editor: "Feyel, Christophe"
+book: "Communautés locales et pouvoir central dans l’Orient hellénistique et romain, Études Anciennes 47 (Nancy)"
+title: "Notabilité urbaine et administration locale en Babylonie du Sud aux époques séleucide et parthe"
+previous_item: "21322"
+---

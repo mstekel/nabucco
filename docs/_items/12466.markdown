@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12466"
+occurrence_id: "1948"
+short_title: "Iraq 19 (1957), 125-138"
+author: "Parker, Barbara"
+publication_year: "1957"
+title: "Nimrud Tablets, 1956 - Economic and Legal Texts from the Nabu Temple"
+volume_no_: "19"
+pages: "125-138"
+journal: "Iraq"
+title: "Nimrud Tablets, 1956 - Economic and Legal Texts from the Nabu Temple"
+previous_item: "12469"
+---

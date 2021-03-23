@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "19522"
+occurrence_id: "4982"
+short_title: "Artzi 1968"
+author: "Artzi, Pinhas"
+publication_year: "1968"
+title: "Merodach-Baladan"
+pages: "445-449"
+book: "Enzyklopedia Mikra'it 5"
+title: "Merodach-Baladan"
+previous_item: "19525"
+---

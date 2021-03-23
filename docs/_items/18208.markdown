@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18208"
+occurrence_id: "681"
+short_title: "BaAr 2"
+author: "Wunsch, Cornelia "
+publication_year: "2003"
+title: "Urkunden zum Ehe-, Vermögens- und Erbrecht aus verschiedenen neubabylonischen Archiven, Babylonische Archive 2 (Dresden)"
+title: "Urkunden zum Ehe-, Vermögens- und Erbrecht aus verschiedenen neubabylonischen Archiven, Babylonische Archive 2 (Dresden)"
+previous_item: "18211"
+---

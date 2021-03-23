@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8644"
+occurrence_id: "2424"
+short_title: "MIO 17 (1972), 356-364"
+author: "Oelsner, Joachim"
+publication_year: "1972"
+title: "Zur Bedeutung der \"Graeco-Babyloniaca\" für die Überlieferung des Sumerischen and Akkadischen"
+volume_no_: "17"
+pages: "356-364"
+journal: "Mitteilungen des Instituts für Orientforschung"
+title: "Zur Bedeutung der \"Graeco-Babyloniaca\" für die Überlieferung des Sumerischen and Akkadischen"
+previous_item: "8647"
+---

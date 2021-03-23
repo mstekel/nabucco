@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19387"
+occurrence_id: "4261"
+short_title: "Arnaud 1982"
+author: "Arnaud, Daniel"
+publication_year: "1982"
+title: "La législation de l´eau en Mésopotamie du IIIème au Ier millénaire"
+pages: "45-59"
+editor: "Métral, J."
+book: "L´Homme et l´eau en Méditerranée et au Proche-Orient, II (Lyon)"
+title: "La législation de l´eau en Mésopotamie du IIIème au Ier millénaire"
+previous_item: "19390"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15130"
+occurrence_id: "1256"
+short_title: "AfO 50 (2003/2004), 255-268"
+author: "Waerzeggers, Caroline"
+publication_year: "2003-2004"
+title: "Three Court Records."
+volume_no_: "50"
+pages: "255-268"
+journal: "Archiv für Orientforschung"
+title: "Three Court Records."
+previous_item: "15133"
+---

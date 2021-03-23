@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "18130"
+occurrence_id: "34"
+short_title: "BE 10"
+author: "Clay, Albert T. "
+publication_year: "1904"
+title: "Business Documents of Murashu Sons of Nippur Dated in the Reign of Darius II (424-404 B.C.), The Babylonian Expedition of the University of Pennsylvania 10 (Philadelphia)"
+volume_no_: "10"
+related_objects: "418"
+title: "Business Documents of Murashu Sons of Nippur Dated in the Reign of Darius II (424-404 B.C.), The Babylonian Expedition of the University of Pennsylvania 10 (Philadelphia)"
+previous_item: "18133"
+---

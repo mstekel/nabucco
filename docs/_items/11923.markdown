@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11923"
+occurrence_id: "2027"
+short_title: "JA 257 (1970), 237-241"
+author: "Labat, René"
+publication_year: "1970"
+title: "Èlamismes dans la syntaxe babylonienne de textes susiens bilingues"
+volume_no_: "257"
+pages: "237-241"
+journal: "Journal Asiatique"
+title: "Èlamismes dans la syntaxe babylonienne de textes susiens bilingues"
+previous_item: "11926"
+---

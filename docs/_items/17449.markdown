@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17449"
+occurrence_id: "783"
+short_title: "Frye 1963"
+author: "Frye, Richard N. "
+publication_year: "1963"
+title: "The Heritage of Persia, The Weidenfeld and Nicolson History of Civilization (London)"
+title: "The Heritage of Persia, The Weidenfeld and Nicolson History of Civilization (London)"
+previous_item: "17452"
+---

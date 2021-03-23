@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19405"
+occurrence_id: "4358"
+short_title: "Joannès 1995"
+author: "Joannès, Francis"
+publication_year: "1995"
+title: "Private Commerce and Banking in Achaemenid Babylon"
+pages: "1475-1485"
+editor: "Sasson, Jack M."
+book: "CANE (New York)"
+title: "Private Commerce and Banking in Achaemenid Babylon"
+previous_item: "19408"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14782"
+occurrence_id: "2403"
+short_title: "Mesopotamia 17 (1982 publ. 1983), 67-131"
+author: "Sack, Ronald H."
+publication_year: "1982 publ. 1983"
+title: "Nebuchadnezzar and Nabonidus in Folklore and History"
+volume_no_: "17"
+pages: "67-131"
+journal: "Mesopotamia"
+title: "Nebuchadnezzar and Nabonidus in Folklore and History"
+previous_item: "14785"
+---

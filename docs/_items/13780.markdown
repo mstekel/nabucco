@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13780"
+occurrence_id: "3018"
+short_title: "RA 36 (1939), 221-222"
+author: "Contenau, Georges"
+publication_year: "1939"
+title: "Rv. E.F. Schmidt, theTreasury of Persepolis"
+volume_no_: "36"
+pages: "221-222"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "Rv. E.F. Schmidt, theTreasury of Persepolis"
+previous_item: "13783"
+---

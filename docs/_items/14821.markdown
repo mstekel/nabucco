@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "14821"
+occurrence_id: "2614"
+short_title: "NABU 1999/8"
+author: "Rollinger, Robert"
+title: "Xerxes and Babylon"
+volume_no_: "8"
+publication_year: "1999"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Xerxes and Babylon"
+previous_item: "14824"
+---

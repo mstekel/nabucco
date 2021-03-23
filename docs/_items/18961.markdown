@@ -1,0 +1,12 @@
+---
+layout: "bibliography"
+slug: "18961"
+occurrence_id: "4195"
+short_title: "Landsberger 1947"
+author: "Landsberger, Benno"
+publication_year: "1947"
+title: "Die Basaltstele Nabonids von Eski-Harran"
+pages: "115-151"
+title: "Die Basaltstele Nabonids von Eski-Harran"
+previous_item: "18964"
+---

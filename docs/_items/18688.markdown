@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18688"
+occurrence_id: "4946"
+short_title: "Calmeyer 1991"
+author: "Calmeyer, Peter"
+publication_year: "1991"
+title: "Kunst: Elam. Die altorientalische Kunst im Reich der Achämeniden"
+pages: "410-442"
+editor: "Hrouda, Barthel"
+book: "Der Alte Orient. Geschichte and Kultur des alten Vorderasien (München)"
+title: "Kunst: Elam. Die altorientalische Kunst im Reich der Achämeniden"
+previous_item: "18691"
+---

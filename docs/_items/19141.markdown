@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "19141"
+occurrence_id: "5156"
+short_title: "Beljavskij 1969"
+author: "Beljavskij, Vitali A."
+publication_year: "1969"
+title: "Šaṭinnu, Sohn des Balaṭsu, Nachkomme des Bēl-ja’u  (Aus dem Leben der Mittelschichten der neubabylonischen Gesellschaft) (in Russ.)"
+pages: "13-20"
+book: "Страны Ближнего и Среднего Востока. (История, Экономика), Москва 1969, Изд-во « Наука », [Strany Bližnego i Srednego Vostoka. (Istorija, Èkonomika),  Izd-vo « Nauka » (Moscow)]"
+title: "Šaṭinnu, Sohn des Balaṭsu, Nachkomme des Bēl-ja’u  (Aus dem Leben der Mittelschichten der neubabylonischen Gesellschaft) (in Russ.)"
+previous_item: "19144"
+---

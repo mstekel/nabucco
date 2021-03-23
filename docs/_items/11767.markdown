@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11767"
+occurrence_id: "1180"
+short_title: "AfO 17 (1954/1956), 1-9"
+author: "Weidner, Ernst F."
+publication_year: "1954-56"
+title: "Hochverrat gegen Nebukadnezar II. Ein Grosswürdenträger vor dem Königsgericht"
+volume_no_: "17"
+pages: "1-9"
+journal: "Archiv für Orientforschung"
+title: "Hochverrat gegen Nebukadnezar II. Ein Grosswürdenträger vor dem Königsgericht"
+previous_item: "11770"
+---

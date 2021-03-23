@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11650"
+occurrence_id: "3564"
+short_title: "ZDMG 157 (2007), 265-291."
+author: "Tavernier, Jan"
+publication_year: "2007"
+title: "On some Elamite Signs and Sounds."
+volume_no_: "157"
+pages: "265-291"
+journal: "Zeitschrift der Deutschen Morgenländischen Gesellschaft"
+title: "On some Elamite Signs and Sounds."
+previous_item: "11653"
+---

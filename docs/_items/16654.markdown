@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16654"
+occurrence_id: "612"
+short_title: "van de Mieroop 1999"
+author: "van de Mieroop, Marc "
+publication_year: "1999"
+title: "Cuneiform Texts and the Writing of History"
+title: "Cuneiform Texts and the Writing of History"
+previous_item: "16657"
+---

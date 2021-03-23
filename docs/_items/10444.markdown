@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10444"
+occurrence_id: "3060"
+short_title: "RA 76 (1982 publ. 1983), 94-95"
+author: "Oelsner, Joachim"
+publication_year: "1982"
+title: "Spätachämenidische Texte aus Nippur"
+volume_no_: "76"
+pages: "94-95"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "Spätachämenidische Texte aus Nippur"
+previous_item: "10447"
+---

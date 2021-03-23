@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18112"
+occurrence_id: "890"
+short_title: "Schober 1981"
+author: "Schober, Ludwig "
+publication_year: "1981"
+title: "Untersuchungen zur Geschichte Babyloniens und der Oberen Satrapien von 323-303 vor Christus, Europäische Hochschulschriften, Reihe 3: Geschichte und ihre Hilfswissenschaften, 147 (Frankfurt am Main; Bern)"
+title: "Untersuchungen zur Geschichte Babyloniens und der Oberen Satrapien von 323-303 vor Christus, Europäische Hochschulschriften, Reihe 3: Geschichte und ihre Hilfswissenschaften, 147 (Frankfurt am Main; Bern)"
+previous_item: "18115"
+---

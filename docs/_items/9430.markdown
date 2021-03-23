@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "9430"
+occurrence_id: "3640"
+short_title: "BLOT (1981), 104"
+author: "Lambert, Wilfred G."
+publication_year: "1981"
+title: "Rv. S.M. Burstein, The Babyloniaca of Berossus (SANE 1/5)"
+pages: "104"
+journal: "Book List. Society for Old Testament Studies (Llansadwrn, Menai Bridge)"
+title: "Rv. S.M. Burstein, The Babyloniaca of Berossus (SANE 1/5)"
+previous_item: "9433"
+---

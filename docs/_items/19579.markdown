@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "19579"
+occurrence_id: "4182"
+short_title: "Invernizzi 1995"
+author: "Invernizzi, Antonio"
+publication_year: "1995"
+title: "Seleucia and Uruk. Cities of Seleucid Babylonia"
+pages: "273-280"
+editor: "Hauptmann, H."
+title: "Seleucia and Uruk. Cities of Seleucid Babylonia"
+previous_item: "19582"
+---

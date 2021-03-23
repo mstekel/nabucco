@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34423"
+place_id: "664"
+parent_id: "40"
+place_name: "Tamertu-ša-Makmanu"
+title: "Tamertu-ša-Makmanu"
+previous_item: "34426"
+---

@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "11701"
+occurrence_id: "3836"
+short_title: "RES (1940), 87"
+author: "Jean, Ch.-F."
+publication_year: "1940"
+title: "Rv. M. San Nicolò and A. Ungnad, Neubabylonische Rechts- and Verwaltungsurkunden (H. 4-5)"
+pages: "87"
+journal: "Revue des etudes sémitiques"
+title: "Rv. M. San Nicolò and A. Ungnad, Neubabylonische Rechts- and Verwaltungsurkunden (H. 4-5)"
+previous_item: "11704"
+---

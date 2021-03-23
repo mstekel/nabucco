@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16123"
+occurrence_id: "3588"
+short_title: "ZSS 76 (1959), 37-96"
+author: "Petschow, Herbert"
+publication_year: "1959"
+title: "Das neubabylonische Gesetzfragment"
+volume_no_: "76"
+pages: "37-96"
+journal: "Zeitschrift der Savigny-Stiftung für Rechtsgeschichte, romantistische Abteilung"
+title: "Das neubabylonische Gesetzfragment"
+previous_item: "16126"
+---

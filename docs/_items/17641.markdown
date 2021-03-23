@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17641"
+occurrence_id: "369"
+short_title: "Dandamayev 1958"
+author: "Dandamayev, Muhammed A. "
+publication_year: "1958"
+title: "Die Behistun-Inschrift als Quelle zur Geschichte des Regierungsbeginns des Darius I. Autorreferat der Dissertation"
+title: "Die Behistun-Inschrift als Quelle zur Geschichte des Regierungsbeginns des Darius I. Autorreferat der Dissertation"
+previous_item: "17644"
+---

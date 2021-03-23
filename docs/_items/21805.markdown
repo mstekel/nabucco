@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21805"
+occurrence_id: "5041"
+short_title: "Rollinger 2004a"
+author: "Rollinger, Robert"
+publication_year: "2004"
+title: "Herodotus, Human Violence and the Ancient Near East."
+pages: "121-150"
+editor: "Taifacos, I."
+book: "The World of Herodotus (Nicosia)"
+title: "Herodotus, Human Violence and the Ancient Near East."
+previous_item: "21808"
+---

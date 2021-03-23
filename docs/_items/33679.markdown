@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33679"
+place_id: "1171"
+parent_id: "61"
+place_name: "Nēberu-ša-dūri"
+title: "Nēberu-ša-dūri"
+previous_item: "33682"
+---

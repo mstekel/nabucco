@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16246"
+occurrence_id: "1223"
+short_title: "AfO 42/43 (1995/1996), 245-248"
+author: "Geller, Mark J."
+publication_year: "1995-1996"
+title: "Rv. E. von Weiher, Uruk. Spätbabylonische Texte aus dem Planquadrat U 18. Teil IV (AUWE 12, 1993)"
+volume_no_: "42-43"
+pages: "245-248"
+journal: "Archiv für Orientforschung"
+title: "Rv. E. von Weiher, Uruk. Spätbabylonische Texte aus dem Planquadrat U 18. Teil IV (AUWE 12, 1993)"
+previous_item: "16249"
+---

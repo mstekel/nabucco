@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20572"
+occurrence_id: "5083"
+short_title: "Parpola 2002"
+author: "Parpola, Simo"
+publication_year: "2002"
+title: "A Letter to Sennacherib Referring to the Conquest of Bit-Ha'iri and other Events of the year 693"
+pages: "559-580"
+editor: "Schaudig, Hanspeter"
+book: "Ex Mesopotamia et Syria Lux. Fs. Dietrich. AOAT 281 (Münster)"
+title: "A Letter to Sennacherib Referring to the Conquest of Bit-Ha'iri and other Events of the year 693"
+previous_item: "20575"
+---

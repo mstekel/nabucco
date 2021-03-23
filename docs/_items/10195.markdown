@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10195"
+occurrence_id: "1719"
+short_title: "BiOr 60 (2003), 251-263"
+author: "Henkelman, Wouter F.M."
+publication_year: "2003"
+title: "Defining Neo-Elamite History"
+volume_no_: "60"
+pages: "251-263"
+journal: "Bibliotheca Orientalis"
+title: "Defining Neo-Elamite History"
+previous_item: "10198"
+---

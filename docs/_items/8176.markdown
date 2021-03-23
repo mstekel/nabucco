@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8176"
+occurrence_id: "2926"
+short_title: "Or 69 (2000), 332-336"
+author: "MacGinnis, John"
+publication_year: "2000"
+title: "Rv. M. Jursa, Der Tempelzehnt in Babylonien vom siebenten bis zum dritten Jahrhundert v. Chr. (AOAT 254, 1998)"
+volume_no_: "69"
+pages: "332-336"
+journal: "Orientalia"
+title: "Rv. M. Jursa, Der Tempelzehnt in Babylonien vom siebenten bis zum dritten Jahrhundert v. Chr. (AOAT 254, 1998)"
+previous_item: "8179"
+---

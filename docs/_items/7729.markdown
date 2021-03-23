@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7729"
+occurrence_id: "3541"
+short_title: "ZDMG 108 (1958), 126-132"
+author: "Hinz, Walther"
+publication_year: "1958"
+title: "Zur achämenidischen Hofverwaltung (nach den Fanden im Schatzhaus von Persepolis)"
+volume_no_: "108"
+pages: "126-132"
+journal: "Zeitschrift der Deutschen Morgenländischen Gesellschaft"
+title: "Zur achämenidischen Hofverwaltung (nach den Fanden im Schatzhaus von Persepolis)"
+previous_item: "7732"
+---

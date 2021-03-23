@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12202"
+occurrence_id: "3533"
+short_title: "ZAR 13 (2007), 23-38."
+author: "Kleber, Kristin"
+publication_year: "2007"
+title: "Zum Meineid und zu seiner Bestrafung in Babylonien."
+volume_no_: "13"
+pages: "23-38"
+journal: "Zeitschrift für Altorientalische und Biblische Rechtsgeschichte"
+title: "Zum Meineid und zu seiner Bestrafung in Babylonien."
+previous_item: "12205"
+---

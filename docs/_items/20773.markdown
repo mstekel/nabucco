@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20773"
+occurrence_id: "5052"
+short_title: "Da Riva 2012"
+author: "Da Riva, Rocío"
+publication_year: "2012"
+title: "BM 67405 and the Cross Country Walls of Nebuchadnezzar II"
+pages: "15-18"
+editor: "del Olmo Lete, Gregorio "
+book: "The Perfumes of Seven Tamarisks. Studies in Honour of Wilfred G.E. Watson, Alter Orient und Altes Testament 394 (Münster)"
+title: "BM 67405 and the Cross Country Walls of Nebuchadnezzar II"
+previous_item: "20776"
+---

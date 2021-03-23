@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "17875"
+occurrence_id: "84"
+short_title: "UET 4"
+author: "Figulla, H. H."
+publication_year: "1949"
+title: "Business Documents of the Neo-Babylonian Period. Ur Excavations Texts 4 (London)"
+volume_no_: "4"
+related_objects: "2790"
+title: "Business Documents of the Neo-Babylonian Period. Ur Excavations Texts 4 (London)"
+previous_item: "17878"
+---

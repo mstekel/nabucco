@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16714"
+occurrence_id: "4121"
+short_title: "Tavernier 2007 "
+author: "Tavernier, Jan "
+publication_year: "2007"
+title: "Iranica in the Achaemenid Period (ca. 550-330 B.C.) Lexicon of Old Iranian Proper Names and Loanwords, Attested in Non-Iranian Texts (OLA 158) "
+title: "Iranica in the Achaemenid Period (ca. 550-330 B.C.) Lexicon of Old Iranian Proper Names and Loanwords, Attested in Non-Iranian Texts (OLA 158) "
+previous_item: "16717"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12064"
+occurrence_id: "2786"
+short_title: "OLZ 62 (1967), 281-286"
+author: "Asmussen, Jes P."
+publication_year: "1967"
+title: "Rv. G. Binder, Die Aussetzung des Königskindes. Kyros and Romulus"
+volume_no_: "62"
+pages: "281-286"
+journal: "Orientalistische Literaturzeitung"
+title: "Rv. G. Binder, Die Aussetzung des Königskindes. Kyros and Romulus"
+previous_item: "12067"
+---

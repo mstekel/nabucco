@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9982"
+occurrence_id: "3593"
+short_title: "AA 26 (1963 publ. 1964), 374-375"
+author: "Ghirshman, Roman"
+publication_year: "1963 publ. 1964"
+title: "Rv. L.Woolley and M..E.L. Mallowan, the Neo-Babylonian and Persian Periods (= UE IX)"
+volume_no_: "26"
+pages: "374-375"
+journal: "Archäologischer Anzeiger"
+title: "Rv. L.Woolley and M..E.L. Mallowan, the Neo-Babylonian and Persian Periods (= UE IX)"
+previous_item: "9985"
+---

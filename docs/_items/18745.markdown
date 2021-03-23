@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "18745"
+occurrence_id: "4145"
+short_title: "Kuhrt 1989"
+author: "Kuhrt, Amélie"
+publication_year: "1989"
+title: "Non-Royal Women in the Late Babylonian Period. A Survey"
+pages: "215-239"
+editor: "Lesko, Barbara, S."
+title: "Non-Royal Women in the Late Babylonian Period. A Survey"
+previous_item: "18748"
+---

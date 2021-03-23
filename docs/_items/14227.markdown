@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14227"
+occurrence_id: "2418"
+short_title: "Mesopotamia 31 (1996), 99-159"
+author: "MacGinnis, John"
+publication_year: "1996"
+title: "Letters from the Neo-Babylonian Ebabbara"
+volume_no_: "31"
+pages: "99-159"
+journal: "Mesopotamia"
+title: "Letters from the Neo-Babylonian Ebabbara"
+previous_item: "14230"
+---

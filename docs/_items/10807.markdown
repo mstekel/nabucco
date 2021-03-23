@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10807"
+occurrence_id: "2025"
+short_title: "JA 249 (1961), 153-162"
+author: "Cavaignac, Eugène"
+publication_year: "1961"
+title: "À propos du début de l´histoire des Mèdes [R. Labat, JA 1961, 1-12]"
+volume_no_: "249"
+pages: "153-162"
+journal: "Journal Asiatique"
+title: "À propos du début de l´histoire des Mèdes [R. Labat, JA 1961, 1-12]"
+previous_item: "10810"
+---

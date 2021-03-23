@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12208"
+occurrence_id: "3565"
+short_title: "ZDMG 157 (2007), 293-298."
+author: "Oelsner, Joachim"
+publication_year: "2007"
+title: "Aramäische Beischriften auf neubabylonischen Ziegeln."
+volume_no_: "157"
+pages: "293-298"
+journal: "Zeitschrift der Deutschen Morgenländischen Gesellschaft"
+title: "Aramäische Beischriften auf neubabylonischen Ziegeln."
+previous_item: "12211"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14014"
+occurrence_id: "1270"
+short_title: "AION 41 (1981), 527-559"
+author: "Giovinazzo, Grazia"
+publication_year: "1981"
+title: "La «cerimonia della vestizione» (lubuštu) nei testi achemenidi datati al regno di Ciro"
+volume_no_: "41"
+pages: "527-559"
+journal: "Annali dell'Istituto Orientale di Napoli"
+title: "La «cerimonia della vestizione» (lubuštu) nei testi achemenidi datati al regno di Ciro"
+previous_item: "14017"
+---

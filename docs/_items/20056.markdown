@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "20056"
+occurrence_id: "4537"
+short_title: "Braginskij 1962"
+author: "Braginskij, Iosif, S"
+publication_year: "1962"
+title: "Die Behistun-Inschrift (in Russ.)"
+pages: "590"
+book: "Краткая Литературная Энциклопедия I (Москва 1962) [Kratkaja Literaturnaja Ènciklopedija I (Moskva 1962)]"
+title: "Die Behistun-Inschrift (in Russ.)"
+previous_item: "20059"
+---

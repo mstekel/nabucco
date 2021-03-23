@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16159"
+occurrence_id: "3780"
+short_title: "KSI(N)A 46 (1962), 252-258"
+author: "Dandamayev, Muhammed A."
+publication_year: "1962"
+title: "Die Behistun-Inschrift und die antiken Autoren über Bardija-Gaumata (in Russ.)"
+volume_no_: "46"
+pages: "252-258"
+journal: "Краткие сообщения Института Археологии АН ОССР (Kratkie soobŝenija Instituta Arheologii AN OSSR)"
+title: "Die Behistun-Inschrift und die antiken Autoren über Bardija-Gaumata (in Russ.)"
+previous_item: "16162"
+---

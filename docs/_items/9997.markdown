@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9997"
+occurrence_id: "3673"
+short_title: "Eos 69 (1981), 149-151"
+author: "Zawadzki, Stefan"
+publication_year: "1981"
+title: "Rv. E. Salonen, Neubabylonische Urkunden verschiedenen Inhalts, II"
+volume_no_: "69"
+pages: "149-151"
+journal: "Eos. Commentarii Societatis Philologae Polonorum"
+title: "Rv. E. Salonen, Neubabylonische Urkunden verschiedenen Inhalts, II"
+previous_item: "10000"
+---

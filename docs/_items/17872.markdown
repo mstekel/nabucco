@@ -1,0 +1,12 @@
+---
+layout: "bibliography"
+slug: "17872"
+occurrence_id: "28"
+short_title: "Nbk."
+author: "Strassmaier, Johann N. "
+publication_year: "1889"
+title: "Inschriften von Nabuchodonosor, König von Babylon (604-561 v.Chr.), Babylonische Texte V-VI (Leipzig)"
+related_objects: "7026"
+title: "Inschriften von Nabuchodonosor, König von Babylon (604-561 v.Chr.), Babylonische Texte V-VI (Leipzig)"
+previous_item: "17875"
+---

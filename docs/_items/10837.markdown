@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10837"
+occurrence_id: "2186"
+short_title: "JCS 43-45 (1991-1993), 119-120"
+author: "Frame, Grant"
+publication_year: "1991-1993"
+title: "Texts and Fragments"
+volume_no_: "43-45"
+pages: "119-120"
+journal: "Journal of Cuneiform Studies"
+title: "Texts and Fragments"
+previous_item: "10840"
+---

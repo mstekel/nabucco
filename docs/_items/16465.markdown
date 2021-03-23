@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16465"
+occurrence_id: "2406"
+short_title: "Mesopotamia 25 (1990), 240-242"
+author: "Invernizzi, Antonio"
+publication_year: "1990"
+title: "Rv. K. Limper, Uruk. Perlen - Ketten - Anhänger (AUWE 2), Mainz 1988 (Philipp v. Zabern)"
+volume_no_: "25"
+pages: "240-242"
+journal: "Mesopotamia"
+title: "Rv. K. Limper, Uruk. Perlen - Ketten - Anhänger (AUWE 2), Mainz 1988 (Philipp v. Zabern)"
+previous_item: "16468"
+---

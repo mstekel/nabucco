@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17926"
+occurrence_id: "536"
+short_title: "Peiser 1890"
+author: "Peiser, Felix  E."
+publication_year: "1890"
+title: "Jurisprudentiae Babylonicae quae supersunt"
+title: "Jurisprudentiae Babylonicae quae supersunt"
+previous_item: "17929"
+---

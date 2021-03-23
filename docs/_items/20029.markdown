@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20029"
+occurrence_id: "4393"
+short_title: "Vallat 1997"
+author: "Vallat, François"
+publication_year: "1997"
+title: "L´utilisation des sceaux-cylindres dans l´archivage des lettres de Persépolis"
+pages: "171-174"
+editor: "Caiozzo, Anna"
+book: "Sceaux d´Orient et leur emploi, Res Orientales X (Paris)"
+title: "L´utilisation des sceaux-cylindres dans l´archivage des lettres de Persépolis"
+previous_item: "20032"
+---

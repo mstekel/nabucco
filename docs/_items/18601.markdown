@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18601"
+occurrence_id: "4482"
+short_title: "Baker 2003"
+author: "Baker, Heather D."
+publication_year: "2003"
+title: "Record-Keeping Practices as Revealed by the Neo-Babylonian Private Archival Documents"
+pages: "241-263"
+editor: "Brosius, Maria"
+book: "Ancient Archives and Archival Traditions (Oxford)"
+title: "Record-Keeping Practices as Revealed by the Neo-Babylonian Private Archival Documents"
+previous_item: "18604"
+---

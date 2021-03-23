@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12061"
+occurrence_id: "2770"
+short_title: "OLZ 44 (1941), 23-25"
+author: "Junker, Heinrich"
+publication_year: "1941"
+title: "Rv. E. Herzfeld, Altpersische Inschriften"
+volume_no_: "44"
+pages: "23-25"
+journal: "Orientalistische Literaturzeitung"
+title: "Rv. E. Herzfeld, Altpersische Inschriften"
+previous_item: "12064"
+---

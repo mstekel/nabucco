@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15715"
+occurrence_id: "1389"
+short_title: "AnSt 50 (2000), 55-73"
+author: "Summers, Geoffrey D."
+publication_year: "2000"
+title: "The Median Empire reconsidered: a view from Kerkenes Da–"
+volume_no_: "50"
+pages: "55-73"
+journal: "Anatolian Studies"
+title: "The Median Empire reconsidered: a view from Kerkenes Da–"
+previous_item: "15718"
+---

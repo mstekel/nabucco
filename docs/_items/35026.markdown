@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "35026"
+place_id: "1426"
+parent_id: "55"
+place_name: "Gannāti"
+related_objects: "5811"
+title: "Gannāti"
+previous_item: "35029"
+---

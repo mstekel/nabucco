@@ -1,0 +1,10 @@
+---
+layout: "glossary"
+slug: "35683"
+concept_id: "1549"
+label: "Memorandum (taẖsistu ana la mašê)"
+hierarchy: "Content type"
+type: "172"
+title: "Memorandum (taẖsistu ana la mašê)"
+previous_item: "35686"
+---

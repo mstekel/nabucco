@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13999"
+occurrence_id: "1185"
+short_title: "AfO 17 (1954-55), 71-89"
+author: "Weidner, Ernst F."
+publication_year: "1954-55"
+title: "Die astrologische Serie Enûma Anu Enlil (Fortsetzung)"
+volume_no_: "17"
+pages: "71-89"
+journal: "Archiv für Orientforschung"
+title: "Die astrologische Serie Enûma Anu Enlil (Fortsetzung)"
+previous_item: "14002"
+---

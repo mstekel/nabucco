@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "14509"
+occurrence_id: "3937"
+short_title: "RA 108 (2014), 45-60"
+author: "Fadhil, Anmar, Abdulillah"
+publication_year: "2014"
+title: "Die Neuen Spätaltbabylonischen Briefe des 'Königlichen Barbiers' aus Sippar"
+volume_no_: "108"
+pages: "45-60"
+title: "Die Neuen Spätaltbabylonischen Briefe des 'Königlichen Barbiers' aus Sippar"
+previous_item: "14512"
+---

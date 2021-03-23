@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12736"
+occurrence_id: "3402"
+short_title: "ZA 50 (1952), 214-229"
+author: "Schaumberger, Johann"
+publication_year: "1952"
+title: "Die Ziqbu-Gestirne nach neuen Keilschrifttexten"
+volume_no_: "50"
+pages: "214-229"
+journal: "Zeitschrift für Assyriologie"
+title: "Die Ziqbu-Gestirne nach neuen Keilschrifttexten"
+previous_item: "12739"
+---

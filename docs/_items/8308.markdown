@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "8308"
+occurrence_id: "3638"
+short_title: "BLOT (1978), 25"
+author: "Wernberg-Møller, P."
+publication_year: "1978"
+title: "Rv. M.D.Coogan, West Semitic Personal Names in the Murašû Documents (HSM 7)"
+pages: "25"
+journal: "Book List. Society for Old Testament Studies (Llansadwrn, Menai Bridge)"
+title: "Rv. M.D.Coogan, West Semitic Personal Names in the Murašû Documents (HSM 7)"
+previous_item: "8311"
+---

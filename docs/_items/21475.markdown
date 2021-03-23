@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21475"
+occurrence_id: "4384"
+short_title: "Joannès 2014"
+author: "Joannès, Francis"
+publication_year: "2014"
+title: "Fabrics and Clothes from Mesopotamia during the Achaemenid and Seleucid Periods: The Textual References"
+pages: "453-464"
+editor: "Breniquet, Catherine"
+book: "Wool Economy in the Ancient Near East and the Aegean. From the Beginnings of Sheep Husbandry to Institutional Textile Industry (Oxford)"
+title: "Fabrics and Clothes from Mesopotamia during the Achaemenid and Seleucid Periods: The Textual References"
+previous_item: "21478"
+---

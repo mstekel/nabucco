@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20083"
+occurrence_id: "4681"
+short_title: "Kleber 2013"
+author: "Kleber, Kristin"
+publication_year: "2013"
+title: "The Late Babylonian Temple: Economy, Politics and Cult"
+pages: "167-177"
+editor: "Löhnert, Anne "
+book: "Tempel im Alten Orient. 7. Internationales Colloquium der Deutschen Orient-Gesellschaft 11.-13. Oktober 2009, München, Colloquien der Deutschen Orient-Gesellschaft (Wiesbaden)"
+title: "The Late Babylonian Temple: Economy, Politics and Cult"
+previous_item: "20086"
+---

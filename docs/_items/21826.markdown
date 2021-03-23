@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21826"
+occurrence_id: "5153"
+short_title: "Donbaz 2001"
+author: "Donbaz, Veysel"
+publication_year: "2001"
+title: "Some Late Babylonian Texts Gleaned from the Assur Collection"
+pages: "163-179"
+editor: "Winter, I.J."
+book: "Proceedings of the XLVe Rencontre Assyriologique Internationale: Part II, Yale University: Seals and Seal Impressions, RAI 45/2 (Bethesda)"
+title: "Some Late Babylonian Texts Gleaned from the Assur Collection"
+previous_item: "21829"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15712"
+occurrence_id: "1372"
+short_title: "ANESt 37 (2000), 164-182"
+author: "Adamhwaite, Murray R."
+publication_year: "2000"
+title: "A Twin Calendrical System at Emar at its Implications for the Israelite Calendar"
+volume_no_: "37"
+pages: "164-182"
+journal: "Ancient Near Eastern Studies"
+title: "A Twin Calendrical System at Emar at its Implications for the Israelite Calendar"
+previous_item: "15715"
+---

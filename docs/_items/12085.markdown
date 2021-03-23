@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12085"
+occurrence_id: "2899"
+short_title: "Or 54 (1985), 257-259"
+author: "Renger, Johannes"
+publication_year: "1985"
+title: "Ein seleukidischer Ehrentitel in keilschriftlicher Überlieferung"
+volume_no_: "54"
+pages: "257-259"
+journal: "Orientalia"
+title: "Ein seleukidischer Ehrentitel in keilschriftlicher Überlieferung"
+previous_item: "12088"
+---

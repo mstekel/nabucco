@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13210"
+occurrence_id: "2953"
+short_title: "Oriens 10 (1957), 333-334"
+author: "von Soden, Wolfram"
+publication_year: "1957"
+title: "Rv. H.H. Paper, the Phonology and Morphology of Royal Achaemenid Elamite"
+volume_no_: "10"
+pages: "333-334"
+journal: "Oriens. Zeitschrift der Internationalen Gesellschaft für Orientforschung"
+title: "Rv. H.H. Paper, the Phonology and Morphology of Royal Achaemenid Elamite"
+previous_item: "13213"
+---

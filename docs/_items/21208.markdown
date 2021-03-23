@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21208"
+occurrence_id: "5166"
+short_title: "Mayer 1998"
+author: "Mayer, Walter"
+publication_year: "1998"
+title: "Nabonids Herkunft"
+pages: "245-262"
+editor: "Dietrich, Manfried"
+book: "dubsar anta-men. Studien zur Altorientalistik, Fs. Römer AOAT 253 (Münster)"
+title: "Nabonids Herkunft"
+previous_item: "21211"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10429"
+occurrence_id: "2980"
+short_title: "PEQ 127 (1995), 81-83"
+author: "Simpson, St John"
+publication_year: "1995"
+title: "Rv. S. Sherwin-White and A. Kuhrt, From Samarkhand to Sardis. A New Approach to the Seleucid Empire (London 1993)"
+volume_no_: "127"
+pages: "81-83"
+journal: "Palestine Exploration Quarterly"
+title: "Rv. S. Sherwin-White and A. Kuhrt, From Samarkhand to Sardis. A New Approach to the Seleucid Empire (London 1993)"
+previous_item: "10432"
+---

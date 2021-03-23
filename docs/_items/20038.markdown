@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20038"
+occurrence_id: "4441"
+short_title: "McEwan 1995"
+author: "McEwan, Gilbert J.P."
+publication_year: "1995"
+title: "Family Law in Hellenistic Babylonia"
+pages: "20-36"
+editor: "Snell, Daniel C."
+book: "Legal Documents of the Hellenistic World (London)"
+title: "Family Law in Hellenistic Babylonia"
+previous_item: "20041"
+---

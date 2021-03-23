@@ -1,0 +1,9 @@
+---
+layout: "archive"
+slug: "23047"
+archive_id: "238"
+archive_name: "Bēl-ana-mērehti, slave of Bēl-iddin"
+is_part_of: "Kiš"
+title: "Bēl-ana-mērehti, slave of Bēl-iddin"
+previous_item: "23050"
+---

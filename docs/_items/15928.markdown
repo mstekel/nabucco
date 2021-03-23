@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "15928"
+occurrence_id: "2535"
+short_title: "NABU 1995/77"
+author: "Stolper, Matthew W."
+title: "Two more Achaemenid texts from Uruk are to be added to those edited in Bagh. Mitt. 21 (1990)"
+volume_no_: "77"
+publication_year: "1995"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Two more Achaemenid texts from Uruk are to be added to those edited in Bagh. Mitt. 21 (1990)"
+previous_item: "15931"
+---

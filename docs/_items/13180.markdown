@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13180"
+occurrence_id: "2788"
+short_title: "OLZ 64 (1969), 589"
+author: "Boyce, Mary"
+publication_year: "1969"
+title: "Rv. B. Brentjes, Die iranische Welt vor Mohammed"
+volume_no_: "64"
+pages: "589"
+journal: "Orientalistische Literaturzeitung"
+title: "Rv. B. Brentjes, Die iranische Welt vor Mohammed"
+previous_item: "13183"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8593"
+occurrence_id: "2149"
+short_title: "JCS 11 (1957), 1-14 and 112."
+author: "Lambert, Wilfred G."
+publication_year: "1957"
+title: "Ancestors, Auhors, and Canonicity"
+volume_no_: "11"
+pages: "1-14 and 112."
+journal: "Journal of Cuneiform Studies"
+title: "Ancestors, Auhors, and Canonicity"
+previous_item: "8596"
+---

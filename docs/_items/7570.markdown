@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "7570"
+occurrence_id: "2681"
+short_title: "NABU 2005/9"
+author: "Zawadzki, Stefan"
+title: "Šamaš visit to Babylon."
+volume_no_: "9"
+publication_year: "2005"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Šamaš visit to Babylon."
+previous_item: "7573"
+---

@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "14233"
+occurrence_id: "2450"
+short_title: "NABU 1987/99"
+author: "Joannès, Francis"
+publication_year: "1987"
+title: "LAMxKUR.RUki = Bā‚"
+volume_no_: "99"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "LAMxKUR.RUki = Bā‚"
+previous_item: "14236"
+---

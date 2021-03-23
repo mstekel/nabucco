@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15577"
+occurrence_id: "3667"
+short_title: "East and West NS 16 (1966), 31-36"
+author: "Carratelli, Giovanni P."
+publication_year: "1966"
+title: "Greek Inscriptions of the Middle East"
+volume_no_: "16"
+pages: "31-36"
+journal: "East and West NS"
+title: "Greek Inscriptions of the Middle East"
+previous_item: "15580"
+---

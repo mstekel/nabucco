@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20515"
+occurrence_id: "4779"
+short_title: "Jursa 2002"
+author: "Jursa, Michael"
+publication_year: "2002"
+title: "Florilegium babyloniacum: Neue Texte aus hellenistischer and spätachämenidischer Zeit"
+pages: "107-130"
+editor: "Wunsch, Cornelia"
+book: "Mining the archives, Fs. Walker (Dresden)"
+title: "Florilegium babyloniacum: Neue Texte aus hellenistischer and spätachämenidischer Zeit"
+previous_item: "20518"
+---

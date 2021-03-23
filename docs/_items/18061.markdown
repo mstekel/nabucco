@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18061"
+occurrence_id: "571"
+short_title: "Schnabel 1923"
+author: "Schnabel, Paul "
+publication_year: "1923"
+title: "Berossos and die babylonisch-hellenistische Literatur"
+title: "Berossos and die babylonisch-hellenistische Literatur"
+previous_item: "18064"
+---

@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "18757"
+occurrence_id: "4210"
+short_title: "Jankovic 2008"
+author: "Jankovic, Bojana"
+publication_year: "2008"
+title: "Travel provisions in Babylonia in the First millennium BC."
+pages: "429-464"
+editor: "Stolper, Matthew W."
+title: "Travel provisions in Babylonia in the First millennium BC."
+previous_item: "18760"
+---

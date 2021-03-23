@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15805"
+occurrence_id: "1874"
+short_title: "FuB 24 (1984), 63-65"
+author: "Oelsner, Joachim"
+publication_year: "1984"
+title: "Ein Zikkurat-Grandriß aus Nippur"
+volume_no_: "24"
+pages: "63-65"
+journal: "Forschungen und Berichte, Staatliche Museen zu Berlin"
+title: "Ein Zikkurat-Grandriß aus Nippur"
+previous_item: "15808"
+---

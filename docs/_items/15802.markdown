@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15802"
+occurrence_id: "1858"
+short_title: "DLZ 88 (1967), 116-118"
+author: "Junker, Heinrich"
+publication_year: "1967"
+title: "Rv. W. Brandenstein and M. Mayrhofer, Handbuch des Altpersischen"
+volume_no_: "88"
+pages: "116-118"
+journal: "Deutsche Literatur-Zeitung"
+title: "Rv. W. Brandenstein and M. Mayrhofer, Handbuch des Altpersischen"
+previous_item: "15805"
+---

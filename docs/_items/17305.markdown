@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17305"
+occurrence_id: "672"
+short_title: "BR 6 (1960)"
+author: "Petschow, Herbert San"
+publication_year: "1960"
+title: "Babylonische Rechtsurkunden aus dem 6. Jahrhundert v. Chr., Abhandlungen der Bayrischen Akademie der Wissenschaften, Phil-hist. Kl., NF 51 (München)"
+title: "Babylonische Rechtsurkunden aus dem 6. Jahrhundert v. Chr., Abhandlungen der Bayrischen Akademie der Wissenschaften, Phil-hist. Kl., NF 51 (München)"
+previous_item: "17308"
+---

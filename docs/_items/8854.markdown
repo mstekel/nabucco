@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8854"
+occurrence_id: "3559"
+short_title: "ZDMG 132 (1982), 214"
+author: "Röllig, Wolfgang"
+publication_year: "1982"
+title: "Rv. L. Jakob-Rost and H. Freydank, Spätbabylonische Rechtsurkunden und Wirtschaftstexte aus Uruk (VS 20 = NF 4)"
+volume_no_: "132"
+pages: "214"
+journal: "Zeitschrift der Deutschen Morgenländischen Gesellschaft"
+title: "Rv. L. Jakob-Rost and H. Freydank, Spätbabylonische Rechtsurkunden und Wirtschaftstexte aus Uruk (VS 20 = NF 4)"
+previous_item: "8857"
+---

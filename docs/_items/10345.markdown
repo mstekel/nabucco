@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "10345"
+occurrence_id: "2525"
+short_title: "NABU 1995/45"
+author: "Vallat, François"
+title: "Une inscription élamite écrite de droite à gauche!"
+volume_no_: "45"
+publication_year: "1995"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Une inscription élamite écrite de droite à gauche!"
+previous_item: "10348"
+---

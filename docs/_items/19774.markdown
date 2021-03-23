@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "19774"
+occurrence_id: "292"
+short_title: "van Dijk 1962"
+author: "van Dijk, Jan J.A."
+publication_year: "1962"
+title: "Die Inschriftenfunde"
+pages: "39-62, pls. 27-28 "
+book: "Vorläufiger Bericht über die von dem Deutschen Archäologischen Institut und der Deutschen Orient-Gesellschaft aus Mitteln der Deutschen Forschungsgemeinschaft unternommenen Ausgrabungen in Uruk-Warka 1959/60"
+title: "Die Inschriftenfunde"
+previous_item: "19777"
+---

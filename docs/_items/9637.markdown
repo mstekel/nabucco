@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9637"
+occurrence_id: "1734"
+short_title: "BiOr 66 (2009), 287-295"
+author: "Tuplin, Christopher"
+publication_year: "2009"
+title: "Rv. P. Briant and F. Joannès (eds), La transition entre l'empire achéménide et les royaumes hellénistiques (Persica 9). Paris 2006."
+volume_no_: "66"
+pages: "287-295"
+journal: "Bibliotheca Orientalis"
+title: "Rv. P. Briant and F. Joannès (eds), La transition entre l'empire achéménide et les royaumes hellénistiques (Persica 9). Paris 2006."
+previous_item: "9640"
+---

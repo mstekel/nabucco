@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10324"
+occurrence_id: "2411"
+short_title: "Mesopotamia 29 (1994), 302-304"
+author: "Cagni, Luigi"
+publication_year: "1994"
+title: "Rv. E. von Weiher, Uruk. Spätbabylonische Texte aus dem Planquadrat U 18. Teil IV (AUWE 12) (Mainz 1993)"
+volume_no_: "29"
+pages: "302-304"
+journal: "Mesopotamia"
+title: "Rv. E. von Weiher, Uruk. Spätbabylonische Texte aus dem Planquadrat U 18. Teil IV (AUWE 12) (Mainz 1993)"
+previous_item: "10327"
+---

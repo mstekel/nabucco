@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16672"
+occurrence_id: "741"
+short_title: "Bidmead 2002"
+author: "Bidmead, Julye "
+publication_year: "2002"
+title: "The Akītu Festival. Religious Continuity and Royal Legitimation in Mesopotamia, Gorgias Dissertations Near Eastern Studies 2 (New Jersey)"
+title: "The Akītu Festival. Religious Continuity and Royal Legitimation in Mesopotamia, Gorgias Dissertations Near Eastern Studies 2 (New Jersey)"
+previous_item: "16675"
+---

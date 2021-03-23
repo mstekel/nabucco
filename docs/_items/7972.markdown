@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7972"
+occurrence_id: "1828"
+short_title: "Centaurus 34 (1991), 97-118"
+author: "Walker, Christopher,  Bromhead F."
+publication_year: "1991"
+title: "A 4th Century Babylonian Model for Venus: BM 33552"
+volume_no_: "34"
+pages: "97-118"
+journal: "Centaurus"
+title: "A 4th Century Babylonian Model for Venus: BM 33552"
+previous_item: "7975"
+---

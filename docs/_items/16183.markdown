@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "16183"
+occurrence_id: "3908"
+short_title: "RA 104 (2010), 131-162"
+author: "Baker, Heather D."
+publication_year: "2010"
+title: "The Meaning of ṭuppi"
+volume_no_: "104"
+pages: "131-162"
+title: "The Meaning of ṭuppi"
+previous_item: "16186"
+---

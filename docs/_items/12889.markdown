@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12889"
+occurrence_id: "1217"
+short_title: "AfO 38/39 (1991/1992), 199-201"
+author: "Stol, Marten"
+publication_year: "1991-1992"
+title: "Rv. F. Joannès, Archives de Borsippa. La famille Ea-ilûta-bâni (1989)"
+volume_no_: "38-39"
+pages: "199-201"
+journal: "Archiv für Orientforschung"
+title: "Rv. F. Joannès, Archives de Borsippa. La famille Ea-ilûta-bâni (1989)"
+previous_item: "12892"
+---

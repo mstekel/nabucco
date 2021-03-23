@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "19996"
+occurrence_id: "4216"
+short_title: "Hoff 2002"
+author: "Hoff, C."
+publication_year: "2002"
+title: "The Mass Marriage at Susa in 324 BC and the Achaemenid Tradition"
+pages: "239-244"
+editor: "Whiting, Robert McCray"
+title: "The Mass Marriage at Susa in 324 BC and the Achaemenid Tradition"
+previous_item: "19999"
+---

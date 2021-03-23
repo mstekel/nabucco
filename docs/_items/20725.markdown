@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20725"
+occurrence_id: "4796"
+short_title: "Jursa 2013b"
+author: "Jursa, Michael"
+publication_year: "2013"
+title: "Die babylonische Privatwirtschaft im ersten Jahrtausend v. Chr."
+pages: "151-165"
+editor: "Löhnert, Anne "
+book: "Tempel im Alten Orient. 7. Internationales Colloquium der Deutschen Orient-Gesellschaft 11.-13. Oktober 2009, München, Colloquien der Deutschen Orient-Gesellschaft (Wiesbaden)"
+title: "Die babylonische Privatwirtschaft im ersten Jahrtausend v. Chr."
+previous_item: "20728"
+---

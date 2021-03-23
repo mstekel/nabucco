@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13522"
+occurrence_id: "1627"
+short_title: "BiOr 1 (1943-44), 79-81"
+author: "Roes, A."
+publication_year: "1943-44"
+title: "Rv. C.I. Huart and J.L. Delaporte, L´Iran antique. Élam et Perse et la civilisation iranienne"
+volume_no_: "1"
+pages: "79-81"
+journal: "Bibliotheca Orientalis"
+title: "Rv. C.I. Huart and J.L. Delaporte, L´Iran antique. Élam et Perse et la civilisation iranienne"
+previous_item: "13525"
+---

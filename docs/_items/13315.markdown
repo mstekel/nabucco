@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13315"
+occurrence_id: "3519"
+short_title: "ZA 92 (2002), 153-155"
+author: "Beaulieu, Paul-A."
+publication_year: "2002"
+title: "Rv. D. Brown, Mesopotamian Planetary Astronomy-Astrology"
+volume_no_: "92"
+pages: "153-155"
+journal: "Zeitschrift für Assyriologie"
+title: "Rv. D. Brown, Mesopotamian Planetary Astronomy-Astrology"
+previous_item: "13318"
+---

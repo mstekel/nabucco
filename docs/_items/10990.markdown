@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10990"
+occurrence_id: "3013"
+short_title: "RA 23 (1926), 13-17"
+author: "Boissier, Alfred"
+publication_year: "1926"
+title: "Notes assyriologiques. I. Extrait de la chronique locale d'Uruk"
+volume_no_: "23"
+pages: "13-17"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "Notes assyriologiques. I. Extrait de la chronique locale d'Uruk"
+previous_item: "10993"
+---

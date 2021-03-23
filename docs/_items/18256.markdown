@@ -1,0 +1,12 @@
+---
+layout: "bibliography"
+slug: "18256"
+occurrence_id: "4114"
+short_title: "Frame 2013"
+author: "Frame, Grant "
+publication_year: "2013"
+title: "The Archive of Mušēzib-Marduk, Son of Kiribtu and Descendant of Sîn-nāṣir. A Landowner and Property Developer at Uruk in the Seventh Century BC, Babylonische Archive 5 (Dresden)"
+related_objects: "5395"
+title: "The Archive of Mušēzib-Marduk, Son of Kiribtu and Descendant of Sîn-nāṣir. A Landowner and Property Developer at Uruk in the Seventh Century BC, Babylonische Archive 5 (Dresden)"
+previous_item: "18259"
+---

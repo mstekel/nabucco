@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13558"
+occurrence_id: "1822"
+short_title: "Centaurus 14 (1969), 23-28"
+author: "Brack-Bernsen, Lis"
+publication_year: "1969"
+title: "On the Construction of Column B in System A of the Astronomical Cuneiform Texts"
+volume_no_: "14"
+pages: "23-28"
+journal: "Centaurus"
+title: "On the Construction of Column B in System A of the Astronomical Cuneiform Texts"
+previous_item: "13561"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11827"
+occurrence_id: "1511"
+short_title: "ARRIM 9 (1991), 11-12"
+author: "Donbaz, Veysel"
+publication_year: "1991"
+title: "A Brick Inscription of Nabonidus from Harran"
+volume_no_: "9"
+pages: "11-12"
+journal: "Annual Review of the Royal Inscriptions of Mesopotamia Project"
+title: "A Brick Inscription of Nabonidus from Harran"
+previous_item: "11830"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12409"
+occurrence_id: "1641"
+short_title: "BiOr 15 (1958), 92"
+author: "van der Waerden, Bartel L."
+publication_year: "1958"
+title: "Rv. O. Neugebauer, An Astronomical Almanac for the year 348/9 (1956)"
+volume_no_: "15"
+pages: "92"
+journal: "Bibliotheca Orientalis"
+title: "Rv. O. Neugebauer, An Astronomical Almanac for the year 348/9 (1956)"
+previous_item: "12412"
+---

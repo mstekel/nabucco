@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9586"
+occurrence_id: "1458"
+short_title: "ArOr 13 (1942), 278-279"
+author: "Lesny, Vincenc"
+publication_year: "1942"
+title: "Rv. F.W. König, Relief and Inschrift des Königs Dareios I. am Felsen von Bagistan"
+volume_no_: "13"
+pages: "278-279"
+journal: "Archív Orientalí"
+title: "Rv. F.W. König, Relief and Inschrift des Königs Dareios I. am Felsen von Bagistan"
+previous_item: "9589"
+---

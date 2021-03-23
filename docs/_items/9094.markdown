@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9094"
+occurrence_id: "1830"
+short_title: "Centaurus 5 (1958), 209-277"
+author: "Aaboe, Asger"
+publication_year: "1958"
+title: "On Babylonian Planetary theories"
+volume_no_: "5"
+pages: "209-277"
+journal: "Centaurus"
+title: "On Babylonian Planetary theories"
+previous_item: "9097"
+---

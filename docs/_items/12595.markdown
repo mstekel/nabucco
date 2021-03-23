@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "12595"
+occurrence_id: "2642"
+short_title: "NABU 2002/31"
+author: "Tolini, Gauthier"
+title: "La fin de Šum-ukîn, le premier Fermier Général"
+volume_no_: "31"
+publication_year: "2002"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "La fin de Šum-ukîn, le premier Fermier Général"
+previous_item: "12598"
+---

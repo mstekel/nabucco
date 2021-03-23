@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "33841"
+place_id: "217"
+parent_id: "40"
+place_name: "Bīt-Arzā"
+related_objects: "8547"
+title: "Bīt-Arzā"
+previous_item: "33844"
+---

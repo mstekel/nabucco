@@ -1,0 +1,12 @@
+---
+layout: "bibliography"
+slug: "9493"
+occurrence_id: "3977"
+short_title: "NABU 2015/55"
+author: "Kraus, Nicholas"
+publication_year: "2015"
+title: "Revisiting the Courtier in the Commentary"
+volume_no_: "2015/55"
+title: "Revisiting the Courtier in the Commentary"
+previous_item: "9496"
+---

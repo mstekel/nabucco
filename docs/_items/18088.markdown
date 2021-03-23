@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18088"
+occurrence_id: "753"
+short_title: "Cameron 1948"
+author: "Cameron, George G. "
+publication_year: "1948"
+title: "Persepolis Treasury Tablets, OIP 65 (Chicago)"
+title: "Persepolis Treasury Tablets, OIP 65 (Chicago)"
+previous_item: "18091"
+---

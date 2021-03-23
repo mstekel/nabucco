@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16480"
+occurrence_id: "342"
+short_title: "Brinkman 1976"
+author: "Brinkman, John A. "
+publication_year: "1976"
+title: "Cuneiform Texts in the St. Louis Public Library"
+title: "Cuneiform Texts in the St. Louis Public Library"
+previous_item: "16483"
+---

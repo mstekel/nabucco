@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14428"
+occurrence_id: "3505"
+short_title: "ZA 90 (2000), 161-193"
+author: "Carroué, François"
+publication_year: "2000"
+title: "Šulgi et le Temple Bagara"
+volume_no_: "90"
+pages: "161-193"
+journal: "Zeitschrift für Assyriologie"
+title: "Šulgi et le Temple Bagara"
+previous_item: "14431"
+---

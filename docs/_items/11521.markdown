@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11521"
+occurrence_id: "2865"
+short_title: "Or 32 (1963), 1-20"
+author: "Hinz, Walther"
+publication_year: "1963"
+title: "Elamica (I. Zur Chronologie der 'Gross-Regenten', II. Der altelamische Kalender, III. Zur Lage von Huhnur)"
+volume_no_: "32"
+pages: "1-20"
+journal: "Orientalia"
+title: "Elamica (I. Zur Chronologie der 'Gross-Regenten', II. Der altelamische Kalender, III. Zur Lage von Huhnur)"
+previous_item: "11524"
+---

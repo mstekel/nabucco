@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34816"
+place_id: "1497"
+parent_id: "52"
+place_name: "Ālu-ša-Nūrānu"
+title: "Ālu-ša-Nūrānu"
+previous_item: "34819"
+---

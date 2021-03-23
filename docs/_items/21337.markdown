@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21337"
+occurrence_id: "4751"
+short_title: "Roth 1989"
+author: "Roth, Martha T."
+publication_year: "1989"
+title: "Marriage and Matrimonial Prestations in First Millennium B.C. Babylonia"
+pages: "245-255"
+editor: "Lesko, Barbara, S."
+book: "Women´s Earliest Records From Ancient Egypt and Western Asia, Proceedings of the conference on Women in the Ancient Near East (Atlanta)"
+title: "Marriage and Matrimonial Prestations in First Millennium B.C. Babylonia"
+previous_item: "21340"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8341"
+occurrence_id: "3814"
+short_title: "Oikumene 5 (1986), 51-53"
+author: "Dandamayev, Muhammed A."
+publication_year: "1986"
+title: "Economy of Tābiya, a Babylonian of the Sixth Century B. C."
+volume_no_: "5"
+pages: "51-53"
+journal: "Oikumene"
+title: "Economy of Tābiya, a Babylonian of the Sixth Century B. C."
+previous_item: "8344"
+---

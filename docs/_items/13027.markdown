@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13027"
+occurrence_id: "1965"
+short_title: "Iraq 45 (1983), 117-123"
+author: "McEwan, Gilbert J.P."
+publication_year: "1983"
+title: "Late Babylonian Kish"
+volume_no_: "45"
+pages: "117-123"
+journal: "Iraq"
+title: "Late Babylonian Kish"
+previous_item: "13030"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11251"
+occurrence_id: "1413"
+short_title: "AoF 11 (1984), 237-241"
+author: "McEwan, Gilbert J.P."
+publication_year: "1984"
+title: "A Greek Legal Instrument in Hellenistic Uruk"
+volume_no_: "11"
+pages: "237-241"
+journal: "Altorientalische Forschungen"
+title: "A Greek Legal Instrument in Hellenistic Uruk"
+previous_item: "11254"
+---

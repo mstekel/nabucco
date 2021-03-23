@@ -1,0 +1,15 @@
+---
+layout: "bibliography"
+slug: "12301"
+occurrence_id: "165"
+short_title: "Walker, AfO 24"
+author: "Walker, Christopher,  Bromhead F."
+publication_year: "1973"
+title: "Cuneiform Tablets in the County Museum and Art Gallery, Truro, Cornwall"
+volume_no_: "24"
+pages: "122-127"
+related_objects: "5669"
+journal: "Archiv für Orientforschung"
+title: "Cuneiform Tablets in the County Museum and Art Gallery, Truro, Cornwall"
+previous_item: "12304"
+---

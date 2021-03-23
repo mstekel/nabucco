@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "11665"
+occurrence_id: "3644"
+short_title: "BLOT (1991), 35"
+author: "Lambert, Wilfred G."
+publication_year: "1991"
+title: "Rv. P.-A. Beaulieu, the Reign of Nabonidus, King of Babylon, 556-539 B.C."
+pages: "35"
+journal: "Book List. Society for Old Testament Studies (Llansadwrn, Menai Bridge)"
+title: "Rv. P.-A. Beaulieu, the Reign of Nabonidus, King of Babylon, 556-539 B.C."
+previous_item: "11668"
+---

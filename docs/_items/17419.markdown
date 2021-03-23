@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17419"
+occurrence_id: "583"
+short_title: "Smith 1924"
+author: "Smith, Sydney A. "
+publication_year: "1924"
+title: "Babylonian Historical Texts Relating to the Capture and Downfall of Babylon"
+title: "Babylonian Historical Texts Relating to the Capture and Downfall of Babylon"
+previous_item: "17422"
+---

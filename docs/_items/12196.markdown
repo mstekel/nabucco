@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12196"
+occurrence_id: "3501"
+short_title: "ZA 89 (1999), 247-268"
+author: "Vargyas, Péter"
+publication_year: "1999"
+title: "Kaspu ginnu and the Monetary Reform of Darius I"
+volume_no_: "89"
+pages: "247-268"
+journal: "Zeitschrift für Assyriologie"
+title: "Kaspu ginnu and the Monetary Reform of Darius I"
+previous_item: "12199"
+---

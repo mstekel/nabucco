@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12484"
+occurrence_id: "2044"
+short_title: "JAC 24 (2009), 35-38."
+author: "Hobson, Russell"
+publication_year: "2009"
+title: "A Copy of Copy of Mul.apin from a Private Library at Ashur."
+volume_no_: "24"
+pages: "35-38"
+journal: "Journal of Ancient Civilizations"
+title: "A Copy of Copy of Mul.apin from a Private Library at Ashur."
+previous_item: "12487"
+---

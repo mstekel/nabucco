@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15703"
+occurrence_id: "1323"
+short_title: "Akkadica 33 (1983), 63-68"
+author: "Vallat, François"
+publication_year: "1983"
+title: "Un fragment de tablette achéménide et la turquoise"
+volume_no_: "33"
+pages: "63-68"
+journal: "Akkadica"
+title: "Un fragment de tablette achéménide et la turquoise"
+previous_item: "15706"
+---

@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16483"
+occurrence_id: "359"
+short_title: "Cohen 1993"
+author: "Cohen, Mark E. "
+publication_year: "1993"
+title: "The Cultic Calendars of the Ancient Near East"
+title: "The Cultic Calendars of the Ancient Near East"
+previous_item: "16486"
+---

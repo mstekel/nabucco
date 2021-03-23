@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21115"
+occurrence_id: "4670"
+short_title: "Kessler 2005"
+author: "Kessler, Karlheinz"
+publication_year: "2005"
+title: "Zu den ökonomischen Verhältnissen von Uruk in neu- und spätbabylonischer Zeit."
+pages: "269-287"
+editor: "Baker, Heather D."
+book: "Approaching the Babylonian Economy, AOAT 330 (Münster)"
+title: "Zu den ökonomischen Verhältnissen von Uruk in neu- und spätbabylonischer Zeit."
+previous_item: "21118"
+---

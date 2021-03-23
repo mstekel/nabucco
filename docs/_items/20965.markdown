@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20965"
+occurrence_id: "4973"
+short_title: "Briant 1982b"
+author: "Briant, Pierre"
+publication_year: "1982"
+title: "Produktivkräfte, Staat und tributäre Produktionsweise im Achämenidenreich"
+pages: "351-372"
+editor: "Sellnow, Irmgard "
+book: "Produktivkräfte and Gesellschaftsformationen in vorkapitalistischer Zeit (Berlin)"
+title: "Produktivkräfte, Staat und tributäre Produktionsweise im Achämenidenreich"
+previous_item: "20968"
+---

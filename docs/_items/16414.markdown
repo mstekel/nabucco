@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16414"
+occurrence_id: "2131"
+short_title: "JAOS 91 (1971), 494-503"
+author: "Renger, Johannes"
+publication_year: "1971"
+title: "Notes on the Goldsmiths, Jewelers and Carpenters of Neobabylonian Eanna,"
+volume_no_: "91"
+pages: "494-503"
+journal: "Journal of the American Oriental Society"
+title: "Notes on the Goldsmiths, Jewelers and Carpenters of Neobabylonian Eanna,"
+previous_item: "16417"
+---

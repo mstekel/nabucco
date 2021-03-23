@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16762"
+occurrence_id: "491"
+short_title: "Landergott 1976"
+author: "Landergott, Joseff "
+publication_year: "1976"
+title: "Seleukovská Mesopotamie, phil. Diss."
+title: "Seleukovská Mesopotamie, phil. Diss."
+previous_item: "16765"
+---

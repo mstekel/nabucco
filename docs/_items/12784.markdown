@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12784"
+occurrence_id: "3662"
+short_title: "ChrE 26 (1951), 175"
+author: "Goossens, Godefroy"
+publication_year: "1951"
+title: "Rv. M. San Nicolò, Der neubabylonische Lehrvertrag in rechtsvergleichender Betrachtung (1950)"
+volume_no_: "26"
+pages: "175"
+journal: "Chronique d'Égypte"
+title: "Rv. M. San Nicolò, Der neubabylonische Lehrvertrag in rechtsvergleichender Betrachtung (1950)"
+previous_item: "12787"
+---

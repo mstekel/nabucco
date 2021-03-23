@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9871"
+occurrence_id: "2995"
+short_title: "PSBA 9 (1887), 178-179"
+author: "Revillout, Eugène"
+publication_year: "1887"
+title: "L'antichrèse non immobilière dans l'Égypte et dans la Chaldée,"
+volume_no_: "9"
+pages: "237-240"
+journal: "Proceedings of the Society of Biblical Archaeology"
+title: "L'antichrèse non immobilière dans l'Égypte et dans la Chaldée,"
+previous_item: "9874"
+---

@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "33715"
+place_id: "1536"
+parent_id: "1470"
+place_name: "Šiknu-ša-ina-muhhi-Nār-Bagaddu"
+related_objects: "7447"
+title: "Šiknu-ša-ina-muhhi-Nār-Bagaddu"
+previous_item: "33718"
+---

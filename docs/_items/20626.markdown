@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20626"
+occurrence_id: "4267"
+short_title: "Potts 2010"
+author: "Potts, Daniel T."
+publication_year: "2010"
+title: "Occidental and Oriental elements in the religions of Babylonia and Iran during the Third and Second Centuries B.C."
+pages: "345-354"
+editor: "Potts, Daniel T."
+book: "Mesopotamia, Iran and Arabia from the Seleucids to the Sasanians (Farnham/Burlington)"
+title: "Occidental and Oriental elements in the religions of Babylonia and Iran during the Third and Second Centuries B.C."
+previous_item: "20629"
+---

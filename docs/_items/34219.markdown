@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34219"
+place_id: "946"
+parent_id: "61"
+place_name: "Duhahu"
+title: "Duhahu"
+previous_item: "34222"
+---

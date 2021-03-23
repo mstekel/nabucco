@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "20467"
+occurrence_id: "4523"
+short_title: "Alijev 1955"
+author: "Alijev, I.G."
+publication_year: "1955"
+title: "Über einige Fragen der Geschichte Mediens (in Russ.)"
+pages: "35-48"
+book: "Труды Азербайджанского заочного пед. ин-та 2/1955 [Trudy Azerbajdžanskogo zaočnogo ped. in-ta 2/1955]"
+title: "Über einige Fragen der Geschichte Mediens (in Russ.)"
+previous_item: "20470"
+---

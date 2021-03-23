@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20464"
+occurrence_id: "4507"
+short_title: "Petschow 1966"
+author: "Petschow, Herbert"
+publication_year: "1966"
+title: "Gesetze: spätbabylonische Zeit"
+pages: "276-279"
+editor: "Meissner, Bruno"
+book: "Reallexikon der Assyriologie 3 (1966)"
+title: "Gesetze: spätbabylonische Zeit"
+previous_item: "20467"
+---

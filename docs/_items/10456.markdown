@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10456"
+occurrence_id: "3124"
+short_title: "RB 76 (1969), 228-229"
+author: "Seux, Marie-Joseph"
+publication_year: "1969"
+title: "Cyrus serviteur de Marduk?"
+volume_no_: "76"
+pages: "228-229"
+journal: "Revue Biblique"
+title: "Cyrus serviteur de Marduk?"
+previous_item: "10459"
+---

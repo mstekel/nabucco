@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13057"
+occurrence_id: "2125"
+short_title: "JAOS 76 (1956), 24-26"
+author: "Paper, Herbert H."
+publication_year: "1956"
+title: "The Old Persian L-Phoneme"
+volume_no_: "76"
+pages: "24-26"
+journal: "Journal of the American Oriental Society"
+title: "The Old Persian L-Phoneme"
+previous_item: "13060"
+---

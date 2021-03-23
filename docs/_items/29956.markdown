@@ -1,0 +1,15 @@
+---
+layout: "tablet"
+slug: "29956"
+object_id: "7602"
+museum_no_: "BM 34137"
+publication: "Wunsch 2000"
+text_number: "177B"
+duplicate: "BM 33095"
+imported: "Kathleen Abraham 15/04/2017"
+publication_name: "Wunsch 2000 177B"
+archive: "Egibi/Nūr-Sîn"
+related_objects: "7603"
+title: "BM 34137"
+previous_item: "29959"
+---

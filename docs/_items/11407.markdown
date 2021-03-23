@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11407"
+occurrence_id: "2252"
+short_title: "JHS 108 (1988), 196-198"
+author: "Stolper, Matthew W."
+publication_year: "1988"
+title: "Some Ghost Facts from Achaemenid Babylonian Texts"
+volume_no_: "108"
+pages: "196-198"
+journal: "Journal of Hellenic Studies"
+title: "Some Ghost Facts from Achaemenid Babylonian Texts"
+previous_item: "11410"
+---

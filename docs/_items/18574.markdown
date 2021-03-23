@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18574"
+occurrence_id: "4338"
+short_title: "Haerinck 1987"
+author: "Haerinck, Ernie"
+publication_year: "1987"
+title: "La neuvième satrapie. Archéologie confronte histoire ?"
+pages: "139-145"
+editor: "Sancisi-Weerdenburg, Heleen"
+book: "Achaemenid History, I: Sources, Structures and Synhesis. Proceedings of the Groningen Achaemenid History Workshop (Leiden)"
+title: "La neuvième satrapie. Archéologie confronte histoire ?"
+previous_item: "18577"
+---

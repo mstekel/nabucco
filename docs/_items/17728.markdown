@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17728"
+occurrence_id: "903"
+short_title: "Waters 2000"
+author: "Waters, Matthew W."
+publication_year: "2000"
+title: "A Survey of Neo-Elamite History, SAAS 12 (Helsinki)"
+title: "A Survey of Neo-Elamite History, SAAS 12 (Helsinki)"
+previous_item: "17731"
+---

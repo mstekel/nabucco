@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "11491"
+occurrence_id: "2705"
+short_title: "NABU 2007/78"
+author: "Koch, Johannes"
+title: "Ein für alle Male: Das astronomische Kompendium MUL.APIN stammt nicht aus dem 3. Jahrtausend v.Chr."
+volume_no_: "78"
+publication_year: "2007"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Ein für alle Male: Das astronomische Kompendium MUL.APIN stammt nicht aus dem 3. Jahrtausend v.Chr."
+previous_item: "11494"
+---

@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "9211"
+occurrence_id: "2458"
+short_title: "NABU 1988/55"
+author: "Joannès, Francis"
+publication_year: "1988"
+title: "Un lettré néo-babylonien"
+volume_no_: "55"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Un lettré néo-babylonien"
+previous_item: "9214"
+---

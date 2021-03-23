@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "13414"
+occurrence_id: "4048"
+short_title: "Akkadica 134/2 (2013), 117-134"
+author: "Wagner, Allon"
+publication_year: "2013"
+title: "Quantitative Social Network Analysis (SNA) and the Study of Cuneiform Archives: A Test-case based on the Murašû Archive"
+volume_no_: "134/2"
+pages: "117-134"
+title: "Quantitative Social Network Analysis (SNA) and the Study of Cuneiform Archives: A Test-case based on the Murašû Archive"
+previous_item: "13417"
+---

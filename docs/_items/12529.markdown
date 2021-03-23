@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12529"
+occurrence_id: "2287"
+short_title: "JNES 24 (1965), 167-192"
+author: "Cameron, George G."
+publication_year: "1965"
+title: "New Tablets from the Persepolis Treasury (I. Summary Description, II. Transliterations of and Comments on the New Texts, III. Results of the Collation of Treasury Tablets in theTeheran Archaeological Museum, IV. Index to Published Treasury Tablets)"
+volume_no_: "24"
+pages: "167-192"
+journal: "Journal of Near Eastern Studies"
+title: "New Tablets from the Persepolis Treasury (I. Summary Description, II. Transliterations of and Comments on the New Texts, III. Results of the Collation of Treasury Tablets in theTeheran Archaeological Museum, IV. Index to Published Treasury Tablets)"
+previous_item: "12532"
+---

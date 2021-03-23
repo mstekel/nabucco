@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14197"
+occurrence_id: "2257"
+short_title: "JNES 1 (1942), 214-218"
+author: "Cameron, George G."
+publication_year: "1942"
+title: "Darius´ Daughter and the Persepolis Inscriptions"
+volume_no_: "1"
+pages: "214-218"
+journal: "Journal of Near Eastern Studies"
+title: "Darius´ Daughter and the Persepolis Inscriptions"
+previous_item: "14200"
+---

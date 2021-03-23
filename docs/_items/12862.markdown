@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12862"
+occurrence_id: "205"
+short_title: "Brinkman and Kennedy, JCS 35"
+author: "Kennedy, Douglas A."
+publication_year: "1983"
+title: "Documentary Evidence for the Economic Base of Early Neo-Babylonian Society: A Survey of Dated Babylonian Economic Texts, 721-626 B.C."
+volume_no_: "35/1-2"
+pages: "1-90"
+journal: "Journal of Cuneiform Studies "
+title: "Documentary Evidence for the Economic Base of Early Neo-Babylonian Society: A Survey of Dated Babylonian Economic Texts, 721-626 B.C."
+previous_item: "12865"
+---

@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "11158"
+occurrence_id: "3915"
+short_title: "JNES 74/1 (2015), 133-135"
+author: "Beerden, Kim"
+publication_year: "2015"
+title: "Rv. S.M. Maul, Die Wahrsagekunst im Alten Orient. Zeichen des Himmels und der Erde"
+volume_no_: "74/1"
+pages: "133-135"
+title: "Rv. S.M. Maul, Die Wahrsagekunst im Alten Orient. Zeichen des Himmels und der Erde"
+previous_item: "11161"
+---

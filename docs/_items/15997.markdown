@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15997"
+occurrence_id: "2907"
+short_title: "Or 57 (1988), 70-75"
+author: "Mayer, Werner R."
+publication_year: "1986"
+title: "Ergänzendes zur Unterteilung des Sekels im spätzeitlichen Babylonien"
+volume_no_: "57"
+pages: "70-75"
+journal: "Orientalia"
+title: "Ergänzendes zur Unterteilung des Sekels im spätzeitlichen Babylonien"
+previous_item: "16000"
+---

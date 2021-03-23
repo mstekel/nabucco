@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10741"
+occurrence_id: "1670"
+short_title: "BiOr 39 (1982), 599-601"
+author: "Limet, Henri"
+publication_year: "1982"
+title: "Rv. S.M. Burstein, The Babyloniaca of Berossus"
+volume_no_: "39"
+pages: "599-601"
+journal: "Bibliotheca Orientalis"
+title: "Rv. S.M. Burstein, The Babyloniaca of Berossus"
+previous_item: "10744"
+---

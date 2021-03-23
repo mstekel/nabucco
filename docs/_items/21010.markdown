@@ -1,0 +1,15 @@
+---
+layout: "bibliography"
+slug: "21010"
+occurrence_id: "176"
+short_title: "Zadok and Zadok 2002"
+author: "Zadok, Ran"
+publication_year: "2002"
+title: "Contributions to Babylonian Geography, Prosopography and Documentation"
+pages: "871-897"
+editor: "Schaudig, Hanspeter"
+related_objects: "5663"
+book: "Ex Mesopotamia et Syria Lux. Festschrift für Manfred Dietrich zu seinem 65. Geburtstag (AOAT 281)"
+title: "Contributions to Babylonian Geography, Prosopography and Documentation"
+previous_item: "21013"
+---

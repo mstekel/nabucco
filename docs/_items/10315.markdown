@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10315"
+occurrence_id: "2363"
+short_title: "JNES 69 (2010), 199-207"
+author: "Goldstein, Ronnie"
+publication_year: "2010"
+title: "Late Babylonian Letters on Collecting Tablets and their Hellenistic Background - a Suggestion."
+volume_no_: "69"
+pages: "199-207"
+journal: "Journal of Near Eastern Studies"
+title: "Late Babylonian Letters on Collecting Tablets and their Hellenistic Background - a Suggestion."
+previous_item: "10318"
+---

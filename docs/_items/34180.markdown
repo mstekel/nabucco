@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34180"
+place_id: "322"
+parent_id: "40"
+place_name: "Bīt-Nanâ-ēreš"
+title: "Bīt-Nanâ-ēreš"
+previous_item: "34183"
+---

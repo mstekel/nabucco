@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18376"
+occurrence_id: "4058"
+short_title: "Ambos 2013"
+author: "Ambos, Claus "
+publication_year: "2013"
+title: "Der König im Gefängnis und das Neujahrsfest im Herbst. Mechanismen der Legitimation des babylonischen Herrschers im 1. Jahrtausend v.Chr. und ihre Geschichte (Dresden)"
+title: "Der König im Gefängnis und das Neujahrsfest im Herbst. Mechanismen der Legitimation des babylonischen Herrschers im 1. Jahrtausend v.Chr. und ihre Geschichte (Dresden)"
+previous_item: "18379"
+---

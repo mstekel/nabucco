@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12691"
+occurrence_id: "3160"
+short_title: "RSO 47 (1973), 23-35"
+author: "Pomponio, Francesco"
+publication_year: "1973"
+title: "Considerazioni sulla cronaca neo-babilonese BM 25127"
+volume_no_: "47"
+pages: "23-35"
+journal: "Rivista degli studi orientali"
+title: "Considerazioni sulla cronaca neo-babilonese BM 25127"
+previous_item: "12694"
+---

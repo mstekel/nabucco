@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11260"
+occurrence_id: "1461"
+short_title: "ArOr 17/II (1949), 323- 330"
+author: "Nicolò, Mariano, San"
+publication_year: "1949"
+title: "Zur Verproviantierung des kgl. Hoflagers in Abanu durch den Eanna-Tempel in Uruk"
+volume_no_: "17/II"
+pages: "323- 330"
+journal: "Archív Orientalí"
+title: "Zur Verproviantierung des kgl. Hoflagers in Abanu durch den Eanna-Tempel in Uruk"
+previous_item: "11263"
+---

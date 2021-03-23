@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21082"
+occurrence_id: "4494"
+short_title: "Koch 1991"
+author: "Koch, Heidemarie"
+publication_year: "1991"
+title: "Zu Religion und Kulten im achämenidischen Kernland"
+pages: "87-109"
+editor: "Kellens, Jean"
+book: "La religion iranienne à l´époque achéménide (Ghent)"
+title: "Zu Religion und Kulten im achämenidischen Kernland"
+previous_item: "21085"
+---

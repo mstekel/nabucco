@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20716"
+occurrence_id: "4748"
+short_title: "Hilgert 2013"
+author: "Hilgert, Markus"
+publication_year: "2013"
+title: "«Tempelbibliothek» oder «Tafeldepot»? Zum rezeptionspraktischen Konzept der «Sippar-Bibliothek»"
+pages: "137-150"
+editor: "Löhnert, Anne "
+book: "Tempel im Alten Orient. 7. Internationales Colloquium der Deutschen Orient-Gesellschaft 11.-13. Oktober 2009, München, Colloquien der Deutschen Orient-Gesellschaft (Wiesbaden)"
+title: "«Tempelbibliothek» oder «Tafeldepot»? Zum rezeptionspraktischen Konzept der «Sippar-Bibliothek»"
+previous_item: "20719"
+---

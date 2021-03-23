@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14041"
+occurrence_id: "1418"
+short_title: "AoF 16 (1989), 68-77"
+author: "Oelsner, Joachim"
+publication_year: "1989"
+title: "Weitere Bemerkungen zu den Neirab-Urkunden"
+volume_no_: "16"
+pages: "68-77"
+journal: "Altorientalische Forschungen"
+title: "Weitere Bemerkungen zu den Neirab-Urkunden"
+previous_item: "14044"
+---

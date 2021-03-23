@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18346"
+occurrence_id: "755"
+short_title: "Cocquerillat 1968"
+author: "Cocquerillat, Denise "
+publication_year: "1968"
+title: "Palmeraies et cultures de l'Eanna d'Uruk (559-520), ADFU 8 (Berlin)"
+title: "Palmeraies et cultures de l'Eanna d'Uruk (559-520), ADFU 8 (Berlin)"
+previous_item: "18349"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9007"
+occurrence_id: "1359"
+short_title: "AMI NF 8 (1975 publ.1976), 99-113"
+author: "Calmeyer, Peter"
+publication_year: "1975 publ. 1976"
+title: "Zur Genese altiranischer Motive. III. Felsgräber"
+volume_no_: "8"
+pages: "99-113"
+journal: "Archäologische Mitteilungen aus Iran Neue Folge"
+title: "Zur Genese altiranischer Motive. III. Felsgräber"
+previous_item: "9010"
+---

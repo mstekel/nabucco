@@ -28,7 +28,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 collections:
   items:
     output: true
-    permalink: '/items/:title'
+    permalink: '/items/:slug'
 
 # Build settings
 theme: minima

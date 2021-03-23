@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12427"
+occurrence_id: "1739"
+short_title: "BiOr 8 (1951), 24-61"
+author: "van Praag, Arnold"
+publication_year: "1951"
+title: "Rv. I. Mendelsohn, Slavery (1949)"
+volume_no_: "8"
+pages: "24-61"
+journal: "Bibliotheca Orientalis"
+title: "Rv. I. Mendelsohn, Slavery (1949)"
+previous_item: "12430"
+---

@@ -1,0 +1,9 @@
+---
+layout: "archive"
+slug: "22972"
+archive_id: "178"
+archive_name: "iškaru"
+is_part_of: "Borsippa"
+title: "iškaru"
+previous_item: "22975"
+---

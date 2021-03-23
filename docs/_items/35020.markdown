@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "35020"
+place_id: "1356"
+parent_id: "70"
+place_name: "Adabilu"
+related_objects: "2307"
+title: "Adabilu"
+previous_item: "35023"
+---

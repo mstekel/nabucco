@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11293"
+occurrence_id: "1639"
+short_title: "BiOr 15 (1958), 31-36"
+author: "Cardascia, Guillaume"
+publication_year: "1958"
+title: "Rv. H. Petschow, Neubabylonisches Pfandrecht (Berlin 1956)"
+volume_no_: "15"
+pages: "31-36"
+journal: "Bibliotheca Orientalis"
+title: "Rv. H. Petschow, Neubabylonisches Pfandrecht (Berlin 1956)"
+previous_item: "11296"
+---

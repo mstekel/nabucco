@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17815"
+occurrence_id: "638"
+short_title: "Wiseman 1985"
+author: "Wiseman, Donald J. "
+publication_year: "1985"
+title: "Nebuchadrezzar and Babylon. The Schweich Lectures of the British Academy, 1983"
+title: "Nebuchadrezzar and Babylon. The Schweich Lectures of the British Academy, 1983"
+previous_item: "17818"
+---

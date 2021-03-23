@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8782"
+occurrence_id: "3169"
+short_title: "SAAB 7 (1994), 125-128"
+author: "Röllig, Wolfgang"
+publication_year: "1994"
+title: "Die Aramäischen Beischriften auf den Texten 1 and 3"
+volume_no_: "7"
+pages: "125-128"
+journal: "State Archives of Assyria, Bulletin"
+title: "Die Aramäischen Beischriften auf den Texten 1 and 3"
+previous_item: "8785"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12682"
+occurrence_id: "3112"
+short_title: "RA 97 (2003 [2005]) 43-140."
+author: "Jursa, Michael"
+publication_year: "2003 [2005]"
+title: "Spätachämenidische Texte aus Kuha"
+volume_no_: "97"
+pages: "43-140"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "Spätachämenidische Texte aus Kuha"
+previous_item: "12685"
+---

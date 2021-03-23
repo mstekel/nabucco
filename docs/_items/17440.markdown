@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17440"
+occurrence_id: "731"
+short_title: "Andreau;Briant;Descat 2000"
+author: "Andreau, Jean "
+publication_year: "2000"
+title: "Économie antique. La guerre dans les économies antiques, Entretiens d´Archéologie et d´Histoire 5 (Saint-Bertrand-de-Comminges)"
+title: "Économie antique. La guerre dans les économies antiques, Entretiens d´Archéologie et d´Histoire 5 (Saint-Bertrand-de-Comminges)"
+previous_item: "17443"
+---

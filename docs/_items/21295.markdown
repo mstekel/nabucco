@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21295"
+occurrence_id: "4527"
+short_title: "Diakonoff 1956"
+author: "Diakonoff, Igor M."
+publication_year: "1956"
+title: "Muškênum i povinnostnoe zemlevladenie na tsarskoi zemle pri Khammurabi"
+pages: "37-62"
+editor: "Kupiszewski , Henryk"
+book: "Symbolae Raphaeli Taubenschlag dedicatae, Eos: commentarii Societatis philologae Polonorum 48/1 (Warsaw)"
+title: "Muškênum i povinnostnoe zemlevladenie na tsarskoi zemle pri Khammurabi"
+previous_item: "21298"
+---

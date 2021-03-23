@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12676"
+occurrence_id: "3080"
+short_title: "RA 82 (1988), 131-138."
+author: "Roth, Martha T."
+publication_year: "1988"
+title: "Women in Transition and the bīt mār banî,"
+volume_no_: "82"
+pages: "131-138"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "Women in Transition and the bīt mār banî,"
+previous_item: "12679"
+---

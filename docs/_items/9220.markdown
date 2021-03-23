@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "9220"
+occurrence_id: "2507"
+short_title: "NABU 1994/33"
+author: "MacGinnis, John"
+title: "Neriglissar qīpu of the Ebabbara"
+volume_no_: "33"
+publication_year: "1994"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Neriglissar qīpu of the Ebabbara"
+previous_item: "9223"
+---

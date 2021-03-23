@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "12013"
+occurrence_id: "2512"
+short_title: "NABU 1994/90"
+author: "MacGinnis, John"
+title: "A royal share in the meals of Šamaš,"
+volume_no_: "90"
+publication_year: "1994"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "A royal share in the meals of Šamaš,"
+previous_item: "12016"
+---

@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18121"
+occurrence_id: "4074"
+short_title: "Fügert 2014"
+author: "Fügert, Anja "
+publication_year: "2014"
+title: "Die neuassyrische und spätbabylonische Glyptik aus Tall Šēḫ Ḥamad/Dūr-Katlimmu, 2 Volumes: Teil 1: Text und Konkordanzen; Teil 2: Katalog und Tafeln, Berichte der Ausgrabung Tall Šēḫ Ḥamad/Dūr Katlimmu 16 (Wiesbaden)"
+title: "Die neuassyrische und spätbabylonische Glyptik aus Tall Šēḫ Ḥamad/Dūr-Katlimmu, 2 Volumes: Teil 1: Text und Konkordanzen; Teil 2: Katalog und Tafeln, Berichte der Ausgrabung Tall Šēḫ Ḥamad/Dūr Katlimmu 16 (Wiesbaden)"
+previous_item: "18124"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21031"
+occurrence_id: "4221"
+short_title: "del Cerro Linares 2011"
+author: "del Cerro Linares, Carmen"
+publication_year: "2011"
+title: "El Golfo Pérsico en el I milenia a. C. Arqueología y toponimia aqueménida y griega en torno a la región de Maka-Magan"
+pages: "25-36"
+editor: "Mompeán, Juan Carlos, Oliva"
+book: "Esta Toledo, aquella Babilonia. Convivencia e interacción en las sociedades del Oriente y del Mediterráneo Antiguos. 5th Congreso Español de Antiguo Oriente Próximo, Toledo, 26-30 de octubre de 2009, Colección Estudios 131 (Cuenca)"
+title: "El Golfo Pérsico en el I milenia a. C. Arqueología y toponimia aqueménida y griega en torno a la región de Maka-Magan"
+previous_item: "21034"
+---

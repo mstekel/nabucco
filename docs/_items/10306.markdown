@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10306"
+occurrence_id: "2315"
+short_title: "JNES 45 (1986), 329-331"
+author: "Biggs, Robert D."
+publication_year: "1986"
+title: "Rv. G.J.P. McEwan, The Late Babylonian Tablets in the Royal Ontario Museum"
+volume_no_: "45"
+pages: "329-331"
+journal: "Journal of Near Eastern Studies"
+title: "Rv. G.J.P. McEwan, The Late Babylonian Tablets in the Royal Ontario Museum"
+previous_item: "10309"
+---

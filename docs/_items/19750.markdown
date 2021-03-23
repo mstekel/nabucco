@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19750"
+occurrence_id: "5095"
+short_title: "Maul 2001"
+author: "Maul, Stefan M."
+publication_year: "2001"
+title: "Eine neubabylonische Kultordnung für den 'Klagesänger' (kalû)"
+pages: "255-265"
+editor: "Prechel, Doris"
+book: "Kulturgeschichten, Fs. Haas (Saarbrücken)"
+title: "Eine neubabylonische Kultordnung für den 'Klagesänger' (kalû)"
+previous_item: "19753"
+---

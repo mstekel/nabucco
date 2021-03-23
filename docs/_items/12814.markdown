@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12814"
+occurrence_id: "3822"
+short_title: "PalSb (1974), 53-62 (Engl. Summary)"
+author: "Dandamayev, Muhammed A."
+publication_year: "1974"
+title: "Gimillu, a temple serf in Uruk (VIth century B.C.)"
+volume_no_: "25"
+pages: "53-62"
+journal: "Palestinskij Sbornik"
+title: "Gimillu, a temple serf in Uruk (VIth century B.C.)"
+previous_item: "12817"
+---

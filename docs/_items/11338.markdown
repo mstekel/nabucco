@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11338"
+occurrence_id: "1882"
+short_title: "Göttinger Miszellen 64 (1983), 73-75"
+author: "Zadok, Ran"
+publication_year: "1983"
+title: "On some Egyptians in Babylonian Documents"
+volume_no_: "64"
+pages: "73-75"
+journal: "Göttinger Miszellen"
+title: "On some Egyptians in Babylonian Documents"
+previous_item: "11341"
+---

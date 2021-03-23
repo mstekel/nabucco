@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16789"
+occurrence_id: "646"
+short_title: "Zadok 1977"
+author: "Zadok, Ran "
+publication_year: "1977"
+title: "On West Semites in Babylonia during the Chaldean and Achaemenian Periods. An Onomastic Study"
+title: "On West Semites in Babylonia during the Chaldean and Achaemenian Periods. An Onomastic Study"
+previous_item: "16792"
+---

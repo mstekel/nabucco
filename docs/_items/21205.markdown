@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "21205"
+occurrence_id: "5150"
+short_title: "Struve 1970"
+author: "Struve, Vassili V."
+publication_year: "1968"
+title: "Die Schriftreform des Dareios I. (§ 70 der Behistun-Inschrift) und die bedeutendste Kulturleistung des medischen Volkes  (in Russ.)"
+pages: "40-51, 225-228"
+book: "Этюды по истории Северного Причерноморья, Кавказа и Средней Азии (Ленинград 1968)[Ètjudy po istorii Severnogo Pričernomor’ja, Kavkaza i Srednej Azii (Leningrad 1968)]"
+title: "Die Schriftreform des Dareios I. (§ 70 der Behistun-Inschrift) und die bedeutendste Kulturleistung des medischen Volkes  (in Russ.)"
+previous_item: "21208"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8779"
+occurrence_id: "3153"
+short_title: "RO 3 (1925 publ. 1927), 180-215"
+author: "Sonnenschein, Ephraim"
+publication_year: "1925 publ. 1927"
+title: "Beiträge zu den neubabylonischen Urkunden über Kauf"
+volume_no_: "3"
+pages: "180-215"
+journal: "Rocznik orientalistyczny"
+title: "Beiträge zu den neubabylonischen Urkunden über Kauf"
+previous_item: "8782"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12379"
+occurrence_id: "1480"
+short_title: "ArOr 4 (1932), 325-348"
+author: "Nicolò, Mariano, San"
+publication_year: "1932"
+title: "Parerga Babyloniaca VI-VIII"
+volume_no_: "4"
+pages: "325-348"
+journal: "Archív Orientalí"
+title: "Parerga Babyloniaca VI-VIII"
+previous_item: "12382"
+---

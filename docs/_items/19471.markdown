@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "19471"
+occurrence_id: "4710"
+short_title: "Haran 1964"
+author: "Haran, M.H."
+publication_year: "1964"
+title: "Cyrus in the Prophetic Glass"
+pages: "43-54"
+book: "Back to the Sources. Materials for Bible Study Circles, El ha-'Ayin 39 (Jerusalem)"
+title: "Cyrus in the Prophetic Glass"
+previous_item: "19474"
+---

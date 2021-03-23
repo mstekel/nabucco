@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12769"
+occurrence_id: "3582"
+short_title: "ZSS 50 (1930), 445-455"
+author: "Nicolò, Mariano, San"
+publication_year: "1930"
+title: "Über Adoption und die Gerichtsbarkeit der mâr-bânî im neubabylonischen Rechte"
+volume_no_: "50"
+pages: "445-455"
+journal: "Zeitschrift der Savigny-Stiftung für Rechtsgeschichte, romantistische Abteilung"
+title: "Über Adoption und die Gerichtsbarkeit der mâr-bânî im neubabylonischen Rechte"
+previous_item: "12772"
+---

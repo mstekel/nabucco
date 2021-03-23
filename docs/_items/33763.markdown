@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33763"
+place_id: "742"
+parent_id: "61"
+place_name: "Ālu-ša-Nabû-bān-ahi"
+title: "Ālu-ša-Nabû-bān-ahi"
+previous_item: "33766"
+---

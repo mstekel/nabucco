@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17191"
+occurrence_id: "781"
+short_title: "Frame 1992"
+author: "Frame, Grant "
+publication_year: "1992"
+title: "Babylonia 689-627 B.C. A Political History, PIHANS 69 (Istanbul)"
+title: "Babylonia 689-627 B.C. A Political History, PIHANS 69 (Istanbul)"
+previous_item: "17194"
+---

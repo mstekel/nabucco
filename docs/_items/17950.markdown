@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17950"
+occurrence_id: "679"
+short_title: "PFT (OIP 92)"
+author: "Hallock, Richard T. "
+publication_year: "1969"
+title: "Persepolis Fortification Tablets, OIP 92 (Chicago)"
+title: "Persepolis Fortification Tablets, OIP 92 (Chicago)"
+previous_item: "17953"
+---

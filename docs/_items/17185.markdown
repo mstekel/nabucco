@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17185"
+occurrence_id: "745"
+short_title: "Briant 1982a"
+author: "Briant, Pierre "
+publication_year: "1982"
+title: "État et pasteurs au Moyen-Orient ancien"
+title: "État et pasteurs au Moyen-Orient ancien"
+previous_item: "17188"
+---

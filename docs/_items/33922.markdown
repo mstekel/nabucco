@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "33922"
+place_id: "1452"
+parent_id: "85"
+place_name: "Tahmakka"
+related_objects: "6498"
+title: "Tahmakka"
+previous_item: "33925"
+---

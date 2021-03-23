@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "19036"
+occurrence_id: "4596"
+short_title: "Munn-Rankin 1968"
+author: "Munn-Rankin, Joan Margaret"
+publication_year: "1963"
+title: "Ecbatana"
+pages: "888"
+book: "Encyclopaedia Britannica 7 (London)"
+title: "Ecbatana"
+previous_item: "19039"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13267"
+occurrence_id: "3257"
+short_title: "Theologische Zeitschrift 4 (1948), 338-359"
+author: "Baumgartner, Walter"
+publication_year: "1948"
+title: "Zehn Jahre nordamerikanischer Literatur zum Alten Testament"
+volume_no_: "4"
+pages: "338-339"
+journal: "Theologische Zeitschrift"
+title: "Zehn Jahre nordamerikanischer Literatur zum Alten Testament"
+previous_item: "13270"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11095"
+occurrence_id: "3579"
+short_title: "ZSS 48 (1908), 575-578"
+author: "Ungnad, Arthur"
+publication_year: "1908"
+title: "Ein neubabylonischer Rückschenkungsvertrag aus dem Jahre 523 v. Chr."
+volume_no_: "48"
+pages: "575-578"
+journal: "Zeitschrift der Savigny-Stiftung für Rechtsgeschichte, romantistische Abteilung"
+title: "Ein neubabylonischer Rückschenkungsvertrag aus dem Jahre 523 v. Chr."
+previous_item: "11098"
+---

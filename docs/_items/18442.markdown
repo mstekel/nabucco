@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18442"
+occurrence_id: "540"
+short_title: "P'jankov 1966"
+author: "P'jankov, Igor V. "
+publication_year: "1966"
+title: "Die östlichen Satrapien des Achämeniden-Reiches in den Werken des Ktesias"
+title: "Die östlichen Satrapien des Achämeniden-Reiches in den Werken des Ktesias"
+previous_item: "18445"
+---

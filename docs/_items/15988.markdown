@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15988"
+occurrence_id: "2857"
+short_title: "Or 27 (1958), 122-124"
+author: "Szlechter, Émile"
+publication_year: "1958"
+title: "Rv. H. Petschow, Neubabylonisches Pfandrecht (Berlin 1956)"
+volume_no_: "27"
+pages: "122-124"
+journal: "Orientalia"
+title: "Rv. H. Petschow, Neubabylonisches Pfandrecht (Berlin 1956)"
+previous_item: "15991"
+---

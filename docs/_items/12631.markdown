@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12631"
+occurrence_id: "2835"
+short_title: "Or 12 (1943), 164-165"
+author: "Pohl, Alfred"
+publication_year: "1943"
+title: "Rv. W. Eilers, Iranische Beamtennamen in der keilschriftlichen Überlieferung I"
+volume_no_: "12"
+pages: "164-165"
+journal: "Orientalia"
+title: "Rv. W. Eilers, Iranische Beamtennamen in der keilschriftlichen Überlieferung I"
+previous_item: "12634"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8467"
+occurrence_id: "1473"
+short_title: "ArOr 33 (1965), 19-26"
+author: "Freydank, Helmut"
+publication_year: "1965"
+title: "Zwei spätbabylonische Urkunden im Pragueer Keilschriftseminar,"
+volume_no_: "33"
+pages: "19-26"
+journal: "Archív Orientalí"
+title: "Zwei spätbabylonische Urkunden im Pragueer Keilschriftseminar,"
+previous_item: "8470"
+---

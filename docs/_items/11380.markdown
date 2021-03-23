@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11380"
+occurrence_id: "2106"
+short_title: "JAOS 129 (2009), 467-476"
+author: "Boiy, Tom"
+publication_year: "2009"
+title: "Date Formulas in Cuneiform Tablets and Antigonus Monophtalmus, Again."
+volume_no_: "129"
+pages: "467-476"
+journal: "Journal of the American Oriental Society"
+title: "Date Formulas in Cuneiform Tablets and Antigonus Monophtalmus, Again."
+previous_item: "11383"
+---

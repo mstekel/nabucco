@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18424"
+occurrence_id: "430"
+short_title: "Griffith 1909"
+author: "Griffith, Francis Ll. "
+publication_year: "1909"
+title: "Catalogue of theDemotic Papyri in the John Rylands Library, Manchester"
+title: "Catalogue of theDemotic Papyri in the John Rylands Library, Manchester"
+previous_item: "18427"
+---

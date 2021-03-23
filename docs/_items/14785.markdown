@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14785"
+occurrence_id: "2419"
+short_title: "Mesopotamia 32 (1997), 344-346"
+author: "Liverani, Mario"
+publication_year: "1997"
+title: "Rv. M. Hudson and B.A. Levine,  (eds.), Privatization in the Ancient Near East and Classical World (Cambridge)"
+volume_no_: "32"
+pages: "344-346"
+journal: "Mesopotamia"
+title: "Rv. M. Hudson and B.A. Levine,  (eds.), Privatization in the Ancient Near East and Classical World (Cambridge)"
+previous_item: "14788"
+---

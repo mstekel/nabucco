@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "19966"
+occurrence_id: "5144"
+short_title: "Struve 1968"
+author: "Struve, Vassili V."
+publication_year: "1968"
+title: "Die Religion der Perser and die Inschrift des Xerxes über die \"Daivas\"  (in Russ.)"
+pages: "115-125, 245-247"
+book: "Этюды по истории Северного Причерноморья, Кавказа и Средней Азии (Ленинград 1968) [Ètjudy po istorii Severnogo Pričernomor’ja, Kavkaza i Srednej Azii (Leningrad 1968)]"
+title: "Die Religion der Perser and die Inschrift des Xerxes über die \"Daivas\"  (in Russ.)"
+previous_item: "19969"
+---

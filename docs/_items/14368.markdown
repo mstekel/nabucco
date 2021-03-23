@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14368"
+occurrence_id: "3179"
+short_title: "Saeculum 7 (1956), 198-220"
+author: "Mayer, Rudolf"
+publication_year: "1956"
+title: "Die Bedeutung Elams in der Geschichte des alten Orients"
+volume_no_: "7"
+pages: "198-220"
+journal: "Saeculum"
+title: "Die Bedeutung Elams in der Geschichte des alten Orients"
+previous_item: "14371"
+---

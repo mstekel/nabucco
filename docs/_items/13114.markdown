@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "13114"
+occurrence_id: "2432"
+short_title: "NABU 1987/108"
+author: "Joannès, Francis"
+publication_year: "1987"
+title: "Remarques sur L.83.6"
+volume_no_: "108"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Remarques sur L.83.6"
+previous_item: "13117"
+---

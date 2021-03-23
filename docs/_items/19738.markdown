@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19738"
+occurrence_id: "5031"
+short_title: "van der Spek 2014"
+author: "van der Spek, Robartus"
+publication_year: "2014"
+title: "The Volatility of Prices of Barley and Dates in Babylon in the Third and Second Centuries BC"
+pages: "234-259"
+editor: "Baker, Heather D."
+book: "Documentary Sources in Ancient Near Eastern and Greco-Roman Economic History. Methodology and Practice (Oxford/Philadelphia)"
+title: "The Volatility of Prices of Barley and Dates in Babylon in the Third and Second Centuries BC"
+previous_item: "19741"
+---

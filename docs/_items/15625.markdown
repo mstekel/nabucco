@@ -1,0 +1,12 @@
+---
+layout: "bibliography"
+slug: "15625"
+occurrence_id: "3923"
+short_title: "NABU 2015/77"
+author: "Brinkman, John A."
+publication_year: "2015"
+title: "Dating the kudurru Ashmolean 1933.1101"
+volume_no_: "2015/77"
+title: "Dating the kudurru Ashmolean 1933.1101"
+previous_item: "15628"
+---

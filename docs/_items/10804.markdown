@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10804"
+occurrence_id: "2009"
+short_title: "Israel Museum News 10 (1975), 49-51"
+author: "Artzi, Pinhas"
+publication_year: "1975"
+title: "A Barrel Cylinder of Nebuchadnezzar II, King of Babylon"
+volume_no_: "10"
+pages: "49-51"
+journal: "Israel Museum News"
+title: "A Barrel Cylinder of Nebuchadnezzar II, King of Babylon"
+previous_item: "10807"
+---

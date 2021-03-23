@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "34588"
+place_id: "1458"
+parent_id: "70"
+place_name: "Bīt-Abī-râm"
+related_objects: "2646"
+title: "Bīt-Abī-râm"
+previous_item: "34591"
+---

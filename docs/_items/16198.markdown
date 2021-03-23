@@ -1,0 +1,12 @@
+---
+layout: "bibliography"
+slug: "16198"
+occurrence_id: "3989"
+short_title: "NABU 2014/105"
+author: "Michel, Patrick, M."
+publication_year: "2014"
+title: "Note sur le nom du théâtre de Babylone"
+volume_no_: "2014/105"
+title: "Note sur le nom du théâtre de Babylone"
+previous_item: "16201"
+---

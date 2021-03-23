@@ -1,0 +1,12 @@
+---
+layout: "bibliography"
+slug: "20407"
+occurrence_id: "4202"
+short_title: "Lafont 2000"
+author: "Lafont, Bertrand"
+publication_year: "2000"
+title: "Cheval, âne, onagre et mule dans la haute histoire mésopotamienne: quelques données nouvelles"
+pages: "207-221"
+title: "Cheval, âne, onagre et mule dans la haute histoire mésopotamienne: quelques données nouvelles"
+previous_item: "20410"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8458"
+occurrence_id: "1424"
+short_title: "AoF 21 (1994), 34-40"
+author: "Dandamayev, Muhammed A."
+publication_year: "1994"
+title: "The Neo-Babylonian zazakku"
+volume_no_: "21"
+pages: "34-40"
+journal: "Altorientalische Forschungen"
+title: "The Neo-Babylonian zazakku"
+previous_item: "8461"
+---

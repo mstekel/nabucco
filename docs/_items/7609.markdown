@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7609"
+occurrence_id: "2891"
+short_title: "Or 50 (1981 publ. 1982), 459-461"
+author: "Klengel, Horst"
+publication_year: "1981"
+title: "Rv. S. Dalley, A Catalogue of the Akkadian Cuneiform Tablets in the Collections of the Royal Scottish Museum, with copies of the Texts"
+volume_no_: "50"
+pages: "459-461"
+journal: "Orientalia"
+title: "Rv. S. Dalley, A Catalogue of the Akkadian Cuneiform Tablets in the Collections of the Royal Scottish Museum, with copies of the Texts"
+previous_item: "7612"
+---

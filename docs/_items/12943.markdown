@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12943"
+occurrence_id: "1513"
+short_title: "Arts Asiatiques 34 (1978), 3-27"
+author: "Lambert, Maurice"
+publication_year: "1978"
+title: "Disjecta membra elamica (II) - Inscriptions du décor architectural construit par Shilhak-Inshushinak"
+volume_no_: "34"
+pages: "3-27"
+journal: "Arts Asiatiques"
+title: "Disjecta membra elamica (II) - Inscriptions du décor architectural construit par Shilhak-Inshushinak"
+previous_item: "12946"
+---

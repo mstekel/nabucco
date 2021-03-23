@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10972"
+occurrence_id: "2914"
+short_title: "Or 64 (1995), 137-138"
+author: "Biggs, Robert D."
+publication_year: "1995"
+title: "Rv. E. von Weiher, Uruk. Spätbabylonische Texte aus dem Planquadrat U 18. Teil IV"
+volume_no_: "64"
+pages: "137-138"
+journal: "Orientalia"
+title: "Rv. E. von Weiher, Uruk. Spätbabylonische Texte aus dem Planquadrat U 18. Teil IV"
+previous_item: "10975"
+---

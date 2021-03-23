@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "11164"
+occurrence_id: "3947"
+short_title: "ZAR 18 (2012), 239-247"
+author: "Goldstein, Ronnie"
+publication_year: "2012"
+title: "A Neo-Babylonian Administrative Term in Isaiah 23:18"
+volume_no_: "18"
+pages: "239-247"
+title: "A Neo-Babylonian Administrative Term in Isaiah 23:18"
+previous_item: "11167"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19480"
+occurrence_id: "4758"
+short_title: "Stolper 1987"
+author: "Stolper, Matthew W."
+publication_year: "1987"
+title: "Bēlšunu the Satrap"
+pages: "389-402"
+editor: "Rochberg-Halton, Francesca"
+book: "Language, Literature and History Fs.Reiner, AOS 67 (New Haven)"
+title: "Bēlšunu the Satrap"
+previous_item: "19483"
+---

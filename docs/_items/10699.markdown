@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10699"
+occurrence_id: "1444"
+short_title: "Aram 3 (1991), 23-33"
+author: "Dalley, Stephanie"
+publication_year: "1991"
+title: "The Gilgamesh Epic and Manichaean hemes"
+volume_no_: "3"
+pages: "23-33"
+journal: "Aram"
+title: "The Gilgamesh Epic and Manichaean hemes"
+previous_item: "10702"
+---

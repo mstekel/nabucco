@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10228"
+occurrence_id: "1896"
+short_title: "HUCA 49 (1978), 227-245"
+author: "Geller, Mark J."
+publication_year: "1978"
+title: "New Sources for the Origins of the Rabbinic Ketubah"
+volume_no_: "49"
+pages: "227-245"
+journal: "Hebrew Union College Annual"
+title: "New Sources for the Origins of the Rabbinic Ketubah"
+previous_item: "10231"
+---

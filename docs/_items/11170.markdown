@@ -1,0 +1,12 @@
+---
+layout: "bibliography"
+slug: "11170"
+occurrence_id: "3980"
+short_title: "NABU 2013/53"
+author: "Levavi, Yuval"
+publication_year: "2013"
+title: "ḫallimu \"raft\" and not paḫallu B"
+volume_no_: "2013/53"
+title: "ḫallimu \"raft\" and not paḫallu B"
+previous_item: "11173"
+---

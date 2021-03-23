@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "8137"
+occurrence_id: "2715"
+short_title: "NABU 2008/66"
+author: "Koch, Johannes"
+title: "Neues vom Ibbi-Sin-Omen"
+volume_no_: "66"
+publication_year: "2008"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Neues vom Ibbi-Sin-Omen"
+previous_item: "8140"
+---

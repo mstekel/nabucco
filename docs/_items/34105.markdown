@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34105"
+place_id: "895"
+parent_id: "61"
+place_name: "Bīt-Nabû"
+title: "Bīt-Nabû"
+previous_item: "34108"
+---

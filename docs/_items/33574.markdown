@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33574"
+place_id: "1267"
+parent_id: "61"
+place_name: "Tabīnu-ša-Šuma-ukīn"
+title: "Tabīnu-ša-Šuma-ukīn"
+previous_item: "33577"
+---

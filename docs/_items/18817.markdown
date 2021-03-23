@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18817"
+occurrence_id: "4531"
+short_title: "Wegner 2001"
+author: "Wegner, Ilse"
+publication_year: "2001"
+title: "„Haus“ und „Hof“ im Hurritischen"
+pages: "441-447"
+editor: "Prechel, Doris"
+book: "Kulturgeschichten, Fs. Haas (Saarbrücken)"
+title: "„Haus“ und „Hof“ im Hurritischen"
+previous_item: "18820"
+---

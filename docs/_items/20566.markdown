@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20566"
+occurrence_id: "5051"
+short_title: "Da Riva 2010a"
+author: "Da Riva, Rocío"
+publication_year: "2010"
+title: "A Lion in the Cedar Forest. International Politics and Pictorial Self-Representations of Nebuchadnezzar II (605-562 BC)."
+pages: "165-191"
+editor: "Vidal, Jordi"
+book: "Studies on War in the Ancient Near East, AOAT 372 (Münster)"
+title: "A Lion in the Cedar Forest. International Politics and Pictorial Self-Representations of Nebuchadnezzar II (605-562 BC)."
+previous_item: "20569"
+---

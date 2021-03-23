@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20173"
+occurrence_id: "5161"
+short_title: "Henning 1977"
+author: "Henning, Walter B."
+publication_year: "1977"
+title: "The 'Coin' with Cuneiform Inscription"
+pages: "501-502"
+editor: "Henning, Walter B."
+book: "Selected Papers, II Acta Iranica 15 (Leiden)"
+title: "The 'Coin' with Cuneiform Inscription"
+previous_item: "20176"
+---

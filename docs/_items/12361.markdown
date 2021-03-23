@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12361"
+occurrence_id: "1382"
+short_title: "Annual Review 4 (1986), 1-26 [54 Texte in Umschrift, Übersetzung, Autographie: 1-37 Ur III, 38-47 aB, 49-54 nB/spB aus Uruk]"
+author: "Peters, Celeste A."
+publication_year: "1986"
+title: "Cuneiform Tablets in the Collection of the Manitoba Museum of Man and Nature"
+volume_no_: "4"
+pages: "1-26"
+journal: "Annual Review"
+title: "Cuneiform Tablets in the Collection of the Manitoba Museum of Man and Nature"
+previous_item: "12364"
+---

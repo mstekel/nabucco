@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19591"
+occurrence_id: "4246"
+short_title: "Wunsch 1999"
+author: "Wunsch, Cornelia"
+publication_year: "1999"
+title: "Neubabylonische Urkunden: Die GeschäftsUrkunden der Familie Egibi"
+pages: "343-364"
+editor: "Renger, Johannes"
+book: "Babylon: Focus mesopotamischer Geschichte, Wiege früher Gelehrsamkeit, Mythos in der Moderne, CDOG 2 (Saarbrücken)"
+title: "Neubabylonische Urkunden: Die GeschäftsUrkunden der Familie Egibi"
+previous_item: "19594"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9073"
+occurrence_id: "1717"
+short_title: "BiOr 6 (1954), 200-205"
+author: "Petschow, Herbert"
+publication_year: "1954"
+title: "Rv. E. Ebeling, Neubabylonische Briefe (1949) and Rv. E. Ebeling, Glossar zu den neubabylonischen Briefen (1953)"
+volume_no_: "6"
+pages: "200-205"
+journal: "Bibliotheca Orientalis"
+title: "Rv. E. Ebeling, Neubabylonische Briefe (1949) and Rv. E. Ebeling, Glossar zu den neubabylonischen Briefen (1953)"
+previous_item: "9076"
+---

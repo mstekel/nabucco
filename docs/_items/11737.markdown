@@ -1,0 +1,12 @@
+---
+layout: "bibliography"
+slug: "11737"
+occurrence_id: "4029"
+short_title: "NABU 2012/35"
+author: "Stevens, Kathryn"
+publication_year: "2012"
+title: "Collations to the Antiochus Cylinder (BM 36277)"
+volume_no_: "2012/35"
+title: "Collations to the Antiochus Cylinder (BM 36277)"
+previous_item: "11740"
+---

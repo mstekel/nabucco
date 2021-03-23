@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14365"
+occurrence_id: "3163"
+short_title: "RT 36 (1914), 179-192"
+author: "Scheil, Vincent"
+publication_year: "1914"
+title: "Nouvelles notes d'épigraphie et d'archéologie assyriennes"
+volume_no_: "36"
+pages: "179-192"
+journal: "Recueil des travaux relatifs à la Philologie et à l’Archéologie Egyptiennes et Assyriennes"
+title: "Nouvelles notes d'épigraphie et d'archéologie assyriennes"
+previous_item: "14368"
+---

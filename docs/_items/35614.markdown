@@ -1,0 +1,10 @@
+---
+layout: "glossary"
+slug: "35614"
+concept_id: "814"
+label: "Legal - Permanent"
+hierarchy: "Content type"
+type: "172"
+title: "Legal - Permanent"
+previous_item: "35617"
+---

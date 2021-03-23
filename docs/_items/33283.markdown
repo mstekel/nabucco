@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33283"
+place_id: "154"
+parent_id: "40"
+place_name: "Appāru-ša-Tahmija"
+title: "Appāru-ša-Tahmija"
+previous_item: "33286"
+---

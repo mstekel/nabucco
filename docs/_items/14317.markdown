@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14317"
+occurrence_id: "2903"
+short_title: "Or 55 (1986), 85-89"
+author: "McEwan, Gilbert J.P."
+publication_year: "1986"
+title: "Rv. F. Joannès, Textes économiques de la babylonie récente"
+volume_no_: "55"
+pages: "85-89"
+journal: "Orientalia"
+title: "Rv. F. Joannès, Textes économiques de la babylonie récente"
+previous_item: "14320"
+---

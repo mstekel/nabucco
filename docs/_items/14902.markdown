@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14902"
+occurrence_id: "3052"
+short_title: "RA 74 (1980), 145-169"
+author: "Joannès, Francis"
+publication_year: "1980"
+title: "Textes néo-babyloniens de Strasbourg"
+volume_no_: "74"
+pages: "145-169"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "Textes néo-babyloniens de Strasbourg"
+previous_item: "14905"
+---

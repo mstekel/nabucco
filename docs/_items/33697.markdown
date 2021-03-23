@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "33697"
+place_id: "1431"
+parent_id: "55"
+place_name: "Bīt-Burisē"
+related_objects: "5904"
+title: "Bīt-Burisē"
+previous_item: "33700"
+---

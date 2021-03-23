@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "15397"
+occurrence_id: "2695"
+short_title: "NABU 2007/22"
+author: "Jursa, Michael"
+title: "Eine Familie von Königskaufleuten judäischer Herkunft."
+volume_no_: "22"
+publication_year: "2007"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Eine Familie von Königskaufleuten judäischer Herkunft."
+previous_item: "15400"
+---

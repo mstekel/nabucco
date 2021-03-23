@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20932"
+occurrence_id: "4797"
+short_title: "Jursa 2014a"
+author: "Jursa, Michael"
+publication_year: "2014"
+title: "Gewalt in neubabylonischen Texten"
+pages: "73-94"
+editor: "Neumann, Hans"
+book: "Babylonien und seine Nachbarn in neu- und spätbabylonischer Zeit Wissenschaftliches Kolloquium aus Anlass des 75. Geburtstags von Joachim Oelsner, Jena, 2. und 3. März 2007, Alter Orient und Altes Testament 369 (Münster)"
+title: "Gewalt in neubabylonischen Texten"
+previous_item: "20935"
+---

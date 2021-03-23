@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14425"
+occurrence_id: "3488"
+short_title: "ZA 87 (1997), 161"
+author: "Sallaberger, Walther"
+publication_year: "1997"
+title: "Rv. J-J. Glassner, Chroniques mésopotamiennes (1993)"
+volume_no_: "87"
+pages: "161"
+journal: "Zeitschrift für Assyriologie"
+title: "Rv. J-J. Glassner, Chroniques mésopotamiennes (1993)"
+previous_item: "14428"
+---

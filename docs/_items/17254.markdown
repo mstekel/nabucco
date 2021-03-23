@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17254"
+occurrence_id: "365"
+short_title: "CTNMC"
+author: "Jacobsen, Thorkild "
+publication_year: "1939"
+title: "Cuneiform Textes in the National Museum, Copenhagen, Chiefly of Economical Contents"
+title: "Cuneiform Textes in the National Museum, Copenhagen, Chiefly of Economical Contents"
+previous_item: "17257"
+---

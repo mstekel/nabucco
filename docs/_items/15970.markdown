@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15970"
+occurrence_id: "2761"
+short_title: "OLP 5 (1974 publ.1975), 15-19"
+author: "Chlopin, Igor N."
+publication_year: "1974 publ. 1975"
+title: "About the Behistun Inscription, I,15-17"
+volume_no_: "5"
+pages: "15-19"
+journal: "Orientalia Lovaniensia Periodica"
+title: "About the Behistun Inscription, I,15-17"
+previous_item: "15973"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9313"
+occurrence_id: "3010"
+short_title: "RA 16 (1919), 111-114"
+author: "Scheil, Vincent"
+publication_year: "1919"
+title: "Notules [LVII and LVIII]"
+volume_no_: "16"
+pages: "111-114"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "Notules [LVII and LVIII]"
+previous_item: "9316"
+---

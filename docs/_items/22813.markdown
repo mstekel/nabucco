@@ -1,0 +1,9 @@
+---
+layout: "archive"
+slug: "22813"
+archive_id: "256"
+archive_name: "Pahāru"
+is_part_of: "Kiš"
+title: "Pahāru"
+previous_item: "22816"
+---

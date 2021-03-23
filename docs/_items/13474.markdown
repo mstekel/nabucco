@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "13474"
+occurrence_id: "1367"
+short_title: "Ancient Mesopotamia (Moscow 1969), 296-310"
+author: "Dandamayev, Muhammed A."
+publication_year: "1969"
+title: "Achaemenid Babylonia"
+pages: "296-310"
+journal: "Ancient Mesopotamia"
+title: "Achaemenid Babylonia"
+previous_item: "13477"
+---

@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34399"
+place_id: "280"
+parent_id: "40"
+place_name: "Bīt-Jari"
+title: "Bīt-Jari"
+previous_item: "34402"
+---

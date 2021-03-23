@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17347"
+occurrence_id: "4066"
+short_title: "Curtis 2013"
+author: "Curtis, John "
+publication_year: "2013"
+title: "The Cyrus Cylinder and Ancient Persia. A New Beginning for the Middle East. With an introductory essay by Neil MacGregor and a translation of the Cyrus Cylinder by Irving Finkel (London)"
+title: "The Cyrus Cylinder and Ancient Persia. A New Beginning for the Middle East. With an introductory essay by Neil MacGregor and a translation of the Cyrus Cylinder by Irving Finkel (London)"
+previous_item: "17350"
+---

@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17839"
+occurrence_id: "805"
+short_title: "Hinz 1973"
+author: "Hinz, Walther "
+publication_year: "1973"
+title: "Neue Wege im Altpersischen, Göttinger Orientforschungen III. Reihe: Iranica 1 (Wiesbaden)"
+title: "Neue Wege im Altpersischen, Göttinger Orientforschungen III. Reihe: Iranica 1 (Wiesbaden)"
+previous_item: "17842"
+---

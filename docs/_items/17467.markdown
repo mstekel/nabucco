@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17467"
+occurrence_id: "885"
+short_title: "Scheil 1907"
+author: "Scheil, Vincent "
+publication_year: "1907"
+title: "Textes élamites-anzanites, 3e sér. MDP 9 (Paris)"
+title: "Textes élamites-anzanites, 3e sér. MDP 9 (Paris)"
+previous_item: "17470"
+---

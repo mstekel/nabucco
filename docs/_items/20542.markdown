@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20542"
+occurrence_id: "4923"
+short_title: "Beaulieu 1995"
+author: "Beaulieu, Paul-A."
+publication_year: "1995"
+title: "King Nabonidus and the Neo-Babylonian Empire"
+pages: "969-979"
+editor: "Sasson, Jack M."
+book: "CANE (New York)"
+title: "King Nabonidus and the Neo-Babylonian Empire"
+previous_item: "20545"
+---

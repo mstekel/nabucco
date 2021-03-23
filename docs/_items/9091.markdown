@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9091"
+occurrence_id: "1814"
+short_title: "Bulletin of the American Mathematical Society 54 (1948), 1013-1041"
+author: "Neugebauer, Otto"
+publication_year: "1948"
+title: "Mathematical Methods in Ancient Astronomy"
+volume_no_: "54"
+pages: "1013-1041"
+journal: "Bulletin of the American Mathematical Society"
+title: "Mathematical Methods in Ancient Astronomy"
+previous_item: "9094"
+---

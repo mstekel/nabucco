@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11365"
+occurrence_id: "2026"
+short_title: "JA 257 (1970), 213-236"
+author: "Grillot-Susini, Françoise"
+publication_year: "1970"
+title: "A propos de la notion de subordination dans la syntaxe élamite"
+volume_no_: "257"
+pages: "213-236"
+journal: "Journal Asiatique"
+title: "A propos de la notion de subordination dans la syntaxe élamite"
+previous_item: "11368"
+---

@@ -1,0 +1,10 @@
+---
+layout: "glossary"
+slug: "35560"
+concept_id: "1567"
+label: "List"
+hierarchy: "Content type"
+type: "172"
+title: "List"
+previous_item: "35563"
+---

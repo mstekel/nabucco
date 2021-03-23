@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19972"
+occurrence_id: "5176"
+short_title: "Horowitz 2007"
+author: "Horowitz, Wayne"
+publication_year: "2007"
+title: "The Astrolabes: Astronomy, theology, and Chronology."
+pages: "101-113"
+editor: "Steele, John M."
+book: "Calendars and Years - Astronomy and Time in the Ancient Near East (Oxford)"
+title: "The Astrolabes: Astronomy, theology, and Chronology."
+previous_item: "19975"
+---

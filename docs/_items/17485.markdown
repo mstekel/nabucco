@@ -1,0 +1,12 @@
+---
+layout: "bibliography"
+slug: "17485"
+occurrence_id: "19"
+short_title: "Camb."
+author: "Strassmaier, Johann N. "
+publication_year: "1890"
+title: "Inschriften von Cambyses, König von Babylon (529- 521 v.Chr.), Babylonische Texte VIII-IX (Leipzig)"
+related_objects: "6230"
+title: "Inschriften von Cambyses, König von Babylon (529- 521 v.Chr.), Babylonische Texte VIII-IX (Leipzig)"
+previous_item: "17488"
+---

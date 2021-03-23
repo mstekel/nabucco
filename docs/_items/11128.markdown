@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "11128"
+occurrence_id: "3755"
+short_title: "JS 1984 (ersch.1986), 135-150"
+author: "Joannès, Francis"
+publication_year: "1984 publ. 1986"
+title: "Les archives d'une famille de notables du VIIe au Ve siècle avant Jésus-Christ"
+pages: "135-150"
+journal: "Journal des Savants"
+title: "Les archives d'une famille de notables du VIIe au Ve siècle avant Jésus-Christ"
+previous_item: "11131"
+---

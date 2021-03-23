@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "11182"
+occurrence_id: "4044"
+short_title: "JCS 65 (2013), 169-180"
+author: "Veldhuis, Niek"
+publication_year: "2013"
+title: "Purity and Access: A Catalog of Lexical Texts Dedicated to Nabû"
+volume_no_: "65"
+pages: "169-180"
+title: "Purity and Access: A Catalog of Lexical Texts Dedicated to Nabû"
+previous_item: "11185"
+---

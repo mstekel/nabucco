@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33799"
+place_id: "1321"
+parent_id: "61"
+place_name: "Til-Nanâ"
+title: "Til-Nanâ"
+previous_item: "33802"
+---

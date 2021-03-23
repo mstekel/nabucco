@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13177"
+occurrence_id: "2772"
+short_title: "OLZ 44 (1941), 456-457"
+author: "von Soden, Wolfram"
+publication_year: "1941"
+title: "Rv. E.W. Moore, Neo-Babylonian Documents in the University of Michigan Collection"
+volume_no_: "44"
+pages: "456-457"
+journal: "Orientalistische Literaturzeitung"
+title: "Rv. E.W. Moore, Neo-Babylonian Documents in the University of Michigan Collection"
+previous_item: "13180"
+---

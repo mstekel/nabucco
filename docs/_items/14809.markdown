@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "14809"
+occurrence_id: "2549"
+short_title: "NABU 1996/71"
+author: "Joannès, Francis"
+title: "Liste de noms d´époque néo-babylonienne"
+volume_no_: "71"
+publication_year: "1996"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Liste de noms d´époque néo-babylonienne"
+previous_item: "14812"
+---

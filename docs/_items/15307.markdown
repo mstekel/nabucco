@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15307"
+occurrence_id: "2210"
+short_title: "JCS 58 (2006), 109-122"
+author: "Frahm, Eckart"
+publication_year: "2006"
+title: "A Not-so-Great Escape: Crime and Punishment according to a Document from Neo-Babylonian Uruk."
+volume_no_: "58"
+pages: "109-122"
+journal: "Journal of Cuneiform Studies"
+title: "A Not-so-Great Escape: Crime and Punishment according to a Document from Neo-Babylonian Uruk."
+previous_item: "15310"
+---

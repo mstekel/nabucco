@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9301"
+occurrence_id: "2946"
+short_title: "Or 9 (1940), 388-389"
+author: "Pohl, Alfred"
+publication_year: "1940"
+title: "Rv. E.W. Moore, Neo-Babylonian Documents in the University of Michigan Collection"
+volume_no_: "9"
+pages: "388-389"
+journal: "Orientalia"
+title: "Rv. E.W. Moore, Neo-Babylonian Documents in the University of Michigan Collection"
+previous_item: "9304"
+---

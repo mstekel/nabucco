@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19198"
+occurrence_id: "4357"
+short_title: "Joannès 1994"
+author: "Joannès, Francis"
+publication_year: "1994"
+title: "Les almanachs des astronomes babyloniens"
+pages: "48-55"
+editor: "Charpin, Dominique"
+book: "Astrologie en Mésopotamie, Les Dossiers d´Archéologie 191 (Dijon)"
+title: "Les almanachs des astronomes babyloniens"
+previous_item: "19201"
+---

@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17611"
+occurrence_id: "4109"
+short_title: "Waters 2014"
+author: "Waters, Matthew W."
+publication_year: "2014"
+title: "Ancient Persia. A Concise History of the Achaemenid Empire, 550-330 BCE. (New York)"
+title: "Ancient Persia. A Concise History of the Achaemenid Empire, 550-330 BCE. (New York)"
+previous_item: "17614"
+---

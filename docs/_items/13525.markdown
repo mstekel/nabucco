@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13525"
+occurrence_id: "1643"
+short_title: "BiOr 18 (1961), 158-160"
+author: "Haase, R."
+publication_year: "1961"
+title: "Rv. M. San Nicolò and H. Petschow, Babylonische Rechtsurkunden aus dem 6. Jahrhundert v. Chr."
+volume_no_: "18"
+pages: "158-160"
+journal: "Bibliotheca Orientalis"
+title: "Rv. M. San Nicolò and H. Petschow, Babylonische Rechtsurkunden aus dem 6. Jahrhundert v. Chr."
+previous_item: "13528"
+---

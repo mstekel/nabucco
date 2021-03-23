@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15532"
+occurrence_id: "3424"
+short_title: "ZA 62 (1972), 91-98"
+author: "Brinkman, John A."
+publication_year: "1972"
+title: "A Tenth-Century Kudurru Fragment"
+volume_no_: "62"
+pages: "91-98"
+journal: "Zeitschrift für Assyriologie"
+title: "A Tenth-Century Kudurru Fragment"
+previous_item: "15535"
+---

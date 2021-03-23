@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19504"
+occurrence_id: "4886"
+short_title: "Dandamayev 2008"
+author: "Dandamayev, Muhammed A."
+publication_year: "2008"
+title: "An Insolvent Debtor from Uruk."
+pages: "305-307"
+editor: "Mauritsch, Peter "
+book: "Antike Lebenswelten: Konstanz - Wandel - Wirkungsmacht, Fs. I. Weiler, (Wiesbaden)"
+title: "An Insolvent Debtor from Uruk."
+previous_item: "19507"
+---

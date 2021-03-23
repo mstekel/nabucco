@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "15061"
+occurrence_id: "3906"
+short_title: "AfO 52 (2011), 179-185"
+author: "Arnold, Bill T."
+publication_year: "2011"
+title: "Aramean Origins: The Evidence from Babylonia"
+volume_no_: "52"
+pages: "179-185"
+title: "Aramean Origins: The Evidence from Babylonia"
+previous_item: "15064"
+---

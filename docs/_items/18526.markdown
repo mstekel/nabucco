@@ -1,0 +1,12 @@
+---
+layout: "bibliography"
+slug: "18526"
+occurrence_id: "223"
+short_title: "TEBR"
+author: "Joannès, Francis "
+publication_year: "1982"
+title: "Textes économiques de la Babylonie récente (Étude des textes babyloniens d'époque récent, cahier 6)"
+related_objects: "5390"
+title: "Textes économiques de la Babylonie récente (Étude des textes babyloniens d'époque récent, cahier 6)"
+previous_item: "18529"
+---

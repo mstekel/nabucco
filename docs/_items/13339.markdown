@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "13339"
+occurrence_id: "3647"
+short_title: "BLOT (1993), 31"
+author: "Lambert, Wilfred G."
+publication_year: "1993"
+title: "Rv. E. Gehlken, Uruk. Spätbabylonische Wirtschaftstexte aus dem Eanna-Archiv. Teil I: Texte verschiedenen Inhalts (AUWE 5. 1990)"
+pages: "31"
+journal: "Book List. Society for Old Testament Studies (Llansadwrn, Menai Bridge)"
+title: "Rv. E. Gehlken, Uruk. Spätbabylonische Wirtschaftstexte aus dem Eanna-Archiv. Teil I: Texte verschiedenen Inhalts (AUWE 5. 1990)"
+previous_item: "13342"
+---

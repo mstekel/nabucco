@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11299"
+occurrence_id: "1671"
+short_title: "BiOr 40 (1983), 108-112"
+author: "Joannès, Francis"
+publication_year: "1983"
+title: "Rv. H. Lanz, Die neubabylonischen harrānu-Geschäftsunternehmen"
+volume_no_: "40"
+pages: "108-112"
+journal: "Bibliotheca Orientalis"
+title: "Rv. H. Lanz, Die neubabylonischen harrānu-Geschäftsunternehmen"
+previous_item: "11302"
+---

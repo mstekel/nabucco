@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19066"
+occurrence_id: "4756"
+short_title: "Ossendrijver 2011"
+author: "Ossendrijver, Mathieu"
+publication_year: "2011"
+title: "Exzellente Netzwerke: die Astronomen von Uruk"
+pages: "631-644"
+editor: "Selz, G.J."
+book: "The Empirical Dimension of Ancient Near Eastern Studies, Wiener Offene Orientalistik 6 (Vienna) (with the collaboration of Klaus Wagensonner)"
+title: "Exzellente Netzwerke: die Astronomen von Uruk"
+previous_item: "19069"
+---

@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17470"
+occurrence_id: "901"
+short_title: "Waerzeggers 2010"
+author: "Waerzeggers, Caroline "
+publication_year: "2010"
+title: "The Ezida Temple of Borsippa. Prieshood, Cult, Archives. Achaemenid History 15 (Leiden)"
+title: "The Ezida Temple of Borsippa. Prieshood, Cult, Archives. Achaemenid History 15 (Leiden)"
+previous_item: "17473"
+---

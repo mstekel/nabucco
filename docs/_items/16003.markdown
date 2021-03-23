@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16003"
+occurrence_id: "2942"
+short_title: "Or 77 (2008), 425-427"
+author: "Funck, Bernd"
+publication_year: "2008"
+title: "Rv. M.J.H. Linssen, The Cults of Uruk and Babylon. the Temple Ritual Texts as Evidence for Hellenistic Cult Practice (CM 25. Leiden and Boston, 2004) and Boiy, Tom: Late Achaemenid and Hellenistic Babylon (OLA 136. Leuven, 2004)."
+volume_no_: "77"
+pages: "425-427"
+journal: "Orientalia"
+title: "Rv. M.J.H. Linssen, The Cults of Uruk and Babylon. the Temple Ritual Texts as Evidence for Hellenistic Cult Practice (CM 25. Leiden and Boston, 2004) and Boiy, Tom: Late Achaemenid and Hellenistic Babylon (OLA 136. Leuven, 2004)."
+previous_item: "16006"
+---

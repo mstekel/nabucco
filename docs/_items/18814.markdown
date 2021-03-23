@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18814"
+occurrence_id: "4515"
+short_title: "Hunger 1999a"
+author: "Hunger, Hermann"
+publication_year: "1999"
+title: "Babylonische Quellen für die Länge von Tag und Nacht"
+pages: "129-136"
+editor: "Caiozzo, Anna"
+book: "La science des cieux. Sages, mages, astrologues, Res Orientales XII (Paris)"
+title: "Babylonische Quellen für die Länge von Tag und Nacht"
+previous_item: "18817"
+---

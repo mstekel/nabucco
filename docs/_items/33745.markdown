@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33745"
+place_id: "454"
+parent_id: "40"
+place_name: "Hambari"
+title: "Hambari"
+previous_item: "33748"
+---

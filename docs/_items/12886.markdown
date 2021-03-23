@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12886"
+occurrence_id: "1200"
+short_title: "AfO 21 (1966), 55"
+author: "Weidner, Ernst F."
+publication_year: "1966"
+title: "\"Sirius am Tage\""
+volume_no_: "21"
+pages: "55"
+journal: "Archiv für Orientforschung"
+title: "\"Sirius am Tage\""
+previous_item: "12889"
+---

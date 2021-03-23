@@ -1,0 +1,15 @@
+---
+layout: "bibliography"
+slug: "11188"
+occurrence_id: "192"
+short_title: "Abraham, IEJ 61"
+author: "Abraham, Kathleen"
+publication_year: "2011"
+title: "An Egibi Tablet in Jerusalem"
+volume_no_: "61"
+pages: "68-73"
+related_objects: "6357"
+journal: "Israel Exploration Journal"
+title: "An Egibi Tablet in Jerusalem"
+previous_item: "11191"
+---

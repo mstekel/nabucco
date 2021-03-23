@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20947"
+occurrence_id: "4877"
+short_title: "Dandamayev 1999c"
+author: "Dandamayev, Muhammed A."
+publication_year: "1999"
+title: "Abgaben und Dienstpflichten in Vorderasien vom 7.-4. Jh. V.u.Z."
+pages: "64-81"
+editor: "Dandamayev, Muhammed A."
+book: "The Taxes and Duties in the Ancient East (St. Petersburg)"
+title: "Abgaben und Dienstpflichten in Vorderasien vom 7.-4. Jh. V.u.Z."
+previous_item: "20950"
+---

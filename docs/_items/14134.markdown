@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14134"
+occurrence_id: "1919"
+short_title: "IrAn 19 (1984 publ.1985), 71-118"
+author: "Briant, Pierre"
+publication_year: "1984 publ.1985"
+title: "La Perse avant l'Empire (un état de la question)"
+volume_no_: "19"
+pages: "71-118"
+journal: "Iranica Antiqua"
+title: "La Perse avant l'Empire (un état de la question)"
+previous_item: "14137"
+---

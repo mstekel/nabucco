@@ -1,0 +1,15 @@
+---
+layout: "tablet"
+slug: "29584"
+object_id: "7642"
+museum_no_: "BM 41777"
+publication: "Wunsch 2000"
+text_number: "60B"
+duplicate: "MNB 1129"
+imported: "Kathleen Abraham 14/04/2017"
+publication_name: "Wunsch 2000 60B"
+archive: "Egibi/Nūr-Sîn"
+related_objects: "7127"
+title: "BM 41777"
+previous_item: "29587"
+---

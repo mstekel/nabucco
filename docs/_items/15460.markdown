@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15460"
+occurrence_id: "3037"
+short_title: "RA 56 (1962), 46-49"
+author: "Szlechter, Émile"
+publication_year: "1962"
+title: "Rv. M. San Nicolò and H. Petschow, Babylonische Rechtsurkunden aus dem 6. Jahrhundert v. Chr. (1960)"
+volume_no_: "56"
+pages: "46-49"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "Rv. M. San Nicolò and H. Petschow, Babylonische Rechtsurkunden aus dem 6. Jahrhundert v. Chr. (1960)"
+previous_item: "15463"
+---

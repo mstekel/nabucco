@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13273"
+occurrence_id: "3289"
+short_title: "UF 36 (2004), 157-176."
+author: "Faust, Avraham"
+publication_year: "2004"
+title: "Social and Cultural Changes in Judah during the 6th Century BCE and their Implications for our understanding of the Nature of the Neo-Babylonian Period"
+volume_no_: "36"
+pages: "157-176"
+journal: "Ugarit-Forschungen"
+title: "Social and Cultural Changes in Judah during the 6th Century BCE and their Implications for our understanding of the Nature of the Neo-Babylonian Period"
+previous_item: "13276"
+---

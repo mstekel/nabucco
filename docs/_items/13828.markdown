@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13828"
+occurrence_id: "3274"
+short_title: "TRG 29 (1961), 356-357"
+author: "David, Martin"
+publication_year: "1961"
+title: "Rv. M. San Nicolò and H. Petschow, Babylonische Rechtsurkunden aus dem 6. Jahrhundert v. Chr."
+volume_no_: "29"
+pages: "356-357"
+journal: "Tijdschrift voor Rechtsgeschiedenis"
+title: "Rv. M. San Nicolò and H. Petschow, Babylonische Rechtsurkunden aus dem 6. Jahrhundert v. Chr."
+previous_item: "13831"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9358"
+occurrence_id: "3250"
+short_title: "Tel-Aviv 17/2 (1990), 223-231"
+author: "Zadok, Ran"
+publication_year: "1990"
+title: "On Early Arabians in the Fertile Crescent"
+volume_no_: "17/2."
+pages: "223-231"
+journal: "Tel-Aviv"
+title: "On Early Arabians in the Fertile Crescent"
+previous_item: "9361"
+---

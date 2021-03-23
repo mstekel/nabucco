@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "12835"
+occurrence_id: "3934"
+short_title: "VDI 276 (2011), 106-110"
+author: "Dandamayev, Muhammed A."
+publication_year: "2011"
+title: "References to the «House of Free Man» in Babylonian Documents [in Russian]"
+volume_no_: "276"
+pages: "106-110"
+title: "References to the «House of Free Man» in Babylonian Documents [in Russian]"
+previous_item: "12838"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19294"
+occurrence_id: "4869"
+short_title: "Dandamayev 1996a"
+author: "Dandamayev, Muhammed A."
+publication_year: "1996"
+title: "An Age of Privatization in Ancient Mesopotamia"
+pages: "197-221"
+editor: "Levine, Baruch A."
+book: "Privatization in the Ancient Near East and Classical World (Cambridge)"
+title: "An Age of Privatization in Ancient Mesopotamia"
+previous_item: "19297"
+---

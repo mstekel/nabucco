@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21160"
+occurrence_id: "4910"
+short_title: "Moorey 2000"
+author: "Moorey, P. Roger S."
+publication_year: "2000"
+title: "Iran and the West: the case of the terracotta 'Persian' Riders in the Achaemenid Empire"
+pages: "469-486"
+editor: "Hrouda, Barthel"
+book: "Variatio delectat. Iran und der Westen. Gedenkschrift für Peter Calmeyer, Gs. Calmeyer AOAT 272 (Münster)"
+title: "Iran and the West: the case of the terracotta 'Persian' Riders in the Achaemenid Empire"
+previous_item: "21163"
+---

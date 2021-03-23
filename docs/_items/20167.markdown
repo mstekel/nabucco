@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20167"
+occurrence_id: "5129"
+short_title: "Boiy 2005"
+author: "Boiy, Tom"
+publication_year: "2005"
+title: "Akkadian-Greek double names in Hellenistic Babylonia."
+pages: "47-60"
+editor: "van Soldt, Wilfred H."
+book: "Ethnicity in Ancient Mesopotamia. RAI 48, PIHANS 102 (Leiden)"
+title: "Akkadian-Greek double names in Hellenistic Babylonia."
+previous_item: "20170"
+---

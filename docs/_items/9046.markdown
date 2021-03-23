@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9046"
+occurrence_id: "1571"
+short_title: "BaM 3 (1964), 157-173"
+author: "Strommenger, Eva"
+publication_year: "1964"
+title: "Grabformen in Babylon"
+volume_no_: "3"
+pages: "157-173"
+journal: "Baghdader Mitteilungen"
+title: "Grabformen in Babylon"
+previous_item: "9049"
+---

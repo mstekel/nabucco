@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20581"
+occurrence_id: "5131"
+short_title: "Boiy 2011"
+author: "Boiy, Tom"
+publication_year: "2011"
+title: "Die lokalen Eliten in Babylonien"
+pages: "105-131"
+editor: "Dreyer, Boris"
+book: "Lokale Eliten und hellenistische Könige. Zwischen Kooperation und Konfrontation, Oikumene Studien zur antiken Weltgeschichte 8 (Berlin)"
+title: "Die lokalen Eliten in Babylonien"
+previous_item: "20584"
+---

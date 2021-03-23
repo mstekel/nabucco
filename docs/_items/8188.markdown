@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8188"
+occurrence_id: "2992"
+short_title: "PSBA 7 (1885), 32-36"
+author: "Pinches, Theophilus G."
+publication_year: "1885"
+title: "Documents Relating to Slave-Dealing in Babylonia in Ancient Times"
+volume_no_: "7"
+pages: "32-36"
+journal: "Proceedings of the Society of Biblical Archaeology"
+title: "Documents Relating to Slave-Dealing in Babylonia in Ancient Times"
+previous_item: "8191"
+---

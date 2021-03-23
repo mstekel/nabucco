@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "9253"
+occurrence_id: "2684"
+short_title: "NABU 2006/11"
+author: "Oelsner, Joachim"
+title: "Griechische Abschriften akkadischer Texte?"
+volume_no_: "11"
+publication_year: "2006"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Griechische Abschriften akkadischer Texte?"
+previous_item: "9256"
+---

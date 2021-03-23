@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15772"
+occurrence_id: "1696"
+short_title: "BiOr 53 (1996), 144-150"
+author: "Koch, Heidemarie"
+publication_year: "1996"
+title: "Rv. F. Vallat, Les noms géographiques des sources suso-élamites (RGTC 11, 1993)"
+volume_no_: "53"
+pages: "144-150"
+journal: "Bibliotheca Orientalis"
+title: "Rv. F. Vallat, Les noms géographiques des sources suso-élamites (RGTC 11, 1993)"
+previous_item: "15775"
+---

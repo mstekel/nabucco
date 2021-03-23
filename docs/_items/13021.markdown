@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13021"
+occurrence_id: "1933"
+short_title: "IrAn 32 (1997), 53-70"
+author: "Vallat, François"
+publication_year: "1997"
+title: "Nouveaux problèmes de succession en Elam"
+volume_no_: "32"
+pages: "53-70"
+journal: "Iranica Antiqua"
+title: "Nouveaux problèmes de succession en Elam"
+previous_item: "13024"
+---

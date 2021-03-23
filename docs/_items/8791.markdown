@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8791"
+occurrence_id: "3217"
+short_title: "StIr 3 (1974), 7-28 (135-169)"
+author: "Stève, Marie-Joseph"
+publication_year: "1974"
+title: "Inscriptions des Achémenides à Suse"
+volume_no_: "3"
+pages: "7-28 (135-169)"
+journal: "Studia Iranica"
+title: "Inscriptions des Achémenides à Suse"
+previous_item: "8794"
+---

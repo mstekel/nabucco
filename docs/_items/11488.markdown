@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "11488"
+occurrence_id: "2688"
+short_title: "NABU 2006/40"
+author: "Gehlken, Erlend"
+title: "In nuce: 'to receive' in Babylonian texts from the First millennium BC."
+volume_no_: "40"
+publication_year: "2006"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "In nuce: 'to receive' in Babylonian texts from the First millennium BC."
+previous_item: "11491"
+---

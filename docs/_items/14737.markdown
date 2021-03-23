@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14737"
+occurrence_id: "2160"
+short_title: "JCS 21 (1967), 52-63"
+author: "Gadd, Cyril J."
+publication_year: "1967"
+title: "Omens Expressed in Numbers"
+volume_no_: "21"
+pages: "52-63"
+journal: "Journal of Cuneiform Studies"
+title: "Omens Expressed in Numbers"
+previous_item: "14740"
+---

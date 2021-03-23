@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12103"
+occurrence_id: "2999"
+short_title: "RA 101 (2007), 125-136"
+author: "Jursa, Michael"
+publication_year: "2007"
+title: "Die Söhne Kudurrus und die Herkunft der neubabylonischen Dynastie"
+volume_no_: "101"
+pages: "125-136"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "Die Söhne Kudurrus und die Herkunft der neubabylonischen Dynastie"
+previous_item: "12106"
+---

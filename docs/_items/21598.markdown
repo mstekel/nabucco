@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21598"
+occurrence_id: "5040"
+short_title: "Rollinger 2004"
+author: "Rollinger, Robert"
+publication_year: "2004"
+title: "Herodot (II 75f, III 107-109), Asarhaddon, Jesaja und die fliegenden Schlangen Arabiens"
+pages: "927-944"
+editor: "Heftner, H."
+book: "Ad fontes! Festschrift Dobesch (Wien)"
+title: "Herodot (II 75f, III 107-109), Asarhaddon, Jesaja und die fliegenden Schlangen Arabiens"
+previous_item: "21601"
+---

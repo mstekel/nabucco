@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21124"
+occurrence_id: "4718"
+short_title: "Dietrich 2001"
+author: "Dietrich, Manfried"
+publication_year: "2001"
+title: "Babylonische Sklaven auf der Schreiberschule. Anspielungen auf ṭupšarrūtu-Lehrverträgen in OIP 114,83 and YOS 19,110"
+pages: "67-81"
+editor: "van Soldt, Wilfred H."
+book: "Studies Presented to Klaas R. Veenhof on the Occasion of his Sixty-Fifth Birthday, Fs. Veenhof, PIHANS 89 (Leiden)"
+title: "Babylonische Sklaven auf der Schreiberschule. Anspielungen auf ṭupšarrūtu-Lehrverträgen in OIP 114,83 and YOS 19,110"
+previous_item: "21127"
+---

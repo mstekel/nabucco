@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7693"
+occurrence_id: "3345"
+short_title: "WeOr 5/1 (1969), 51-56"
+author: "Dietrich, Manfried"
+publication_year: "1969"
+title: "Neue Quellen zur Geschichte Babyloniens (II-Index)"
+volume_no_: "5/1."
+pages: "51-56"
+journal: "Die Welt des Orients"
+title: "Neue Quellen zur Geschichte Babyloniens (II-Index)"
+previous_item: "7696"
+---

@@ -1,0 +1,12 @@
+---
+layout: "bibliography"
+slug: "17107"
+occurrence_id: "199"
+short_title: "Dalley 1979"
+author: "Dalley, Stephanie "
+publication_year: "1979"
+title: "A Catalogue of the Akkadian Cuneiform Tablets in the Collections of the Royal Scottish Museum, Edinburgh, with Copies of the Texts "
+related_objects: "5903"
+title: "A Catalogue of the Akkadian Cuneiform Tablets in the Collections of the Royal Scottish Museum, Edinburgh, with Copies of the Texts "
+previous_item: "17110"
+---

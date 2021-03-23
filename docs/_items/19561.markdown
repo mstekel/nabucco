@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19561"
+occurrence_id: "5190"
+short_title: "Vogelsang 1998"
+author: "Vogelsang, Willem J."
+publication_year: "1998"
+title: "Medes, Scyhians and Persians: The Rise of Darius in a North-South Perspective"
+pages: "195-224"
+editor: "Haerinck, Ernie"
+book: "Neo-Assyrian, Median and other studies in honor of David Stronach, IrAn 33 (Ghent)"
+title: "Medes, Scyhians and Persians: The Rise of Darius in a North-South Perspective"
+previous_item: "19564"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21451"
+occurrence_id: "4255"
+short_title: "Wunsch 2010"
+author: "Wunsch, Cornelia"
+publication_year: "2010"
+title: "Neo-Babylonian Entrepreneurs."
+pages: "40-61"
+editor: "Landes, D.S."
+book: "The Invention of Enterprise: Entrepreneurship from Ancient Mesopotamia to Modern Times (Princeton)"
+title: "Neo-Babylonian Entrepreneurs."
+previous_item: "21454"
+---

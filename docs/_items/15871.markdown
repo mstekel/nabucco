@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15871"
+occurrence_id: "2228"
+short_title: "JEOL 34 (1995/1996), 41-43"
+author: "Bongenaar, A.C.V.M."
+publication_year: "1995-1996"
+title: "The Neo-Babylonian Private Text from Sippar"
+volume_no_: "34"
+pages: "41-43"
+journal: "Jaarbericht van het Voor-Aziatisch-Egyptisch-Gezelschap Ex Oriente Lux"
+title: "The Neo-Babylonian Private Text from Sippar"
+previous_item: "15874"
+---

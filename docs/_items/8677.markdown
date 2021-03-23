@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "8677"
+occurrence_id: "2603"
+short_title: "NABU 1999/101"
+author: "Testen, David D."
+title: "A Verb Reread (TCL 12 122 : 20)"
+volume_no_: "101"
+publication_year: "1999"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "A Verb Reread (TCL 12 122 : 20)"
+previous_item: "8680"
+---

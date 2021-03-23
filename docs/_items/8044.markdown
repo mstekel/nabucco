@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8044"
+occurrence_id: "2213"
+short_title: "JCS 6 (1952), 146-150"
+author: "Sachs, Abraham J."
+publication_year: "1952"
+title: "A Late Babylonian Star Catalog"
+volume_no_: "6"
+pages: "146-150"
+journal: "Journal of Cuneiform Studies"
+title: "A Late Babylonian Star Catalog"
+previous_item: "8047"
+---

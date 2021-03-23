@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15889"
+occurrence_id: "2325"
+short_title: "JNES 52 (1993), 31-36"
+author: "Gropp, Douglas M."
+publication_year: "1993"
+title: "The origin and Development of the Aramaic šallīṭ Clause"
+volume_no_: "52"
+pages: "31-36"
+journal: "Journal of Near Eastern Studies"
+title: "The origin and Development of the Aramaic šallīṭ Clause"
+previous_item: "15892"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13201"
+occurrence_id: "2901"
+short_title: "Or 55 (1986), 464-468"
+author: "Dandamayev, Muhammed A."
+publication_year: "1986"
+title: "Rv. T.G. Pinches, Cuneform Texts from Babylonian Tablets in the British Museum CT 55-57"
+volume_no_: "55"
+pages: "464-468"
+journal: "Orientalia"
+title: "Rv. T.G. Pinches, Cuneform Texts from Babylonian Tablets in the British Museum CT 55-57"
+previous_item: "13204"
+---

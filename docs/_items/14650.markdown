@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14650"
+occurrence_id: "1694"
+short_title: "BiOr 52 (1995), 730-732"
+author: "George, Andrew, R."
+publication_year: "1995"
+title: "Rv. E. von Weiher, Uruk. Spätbabylonische Texte aus dem Planquadrat U 18. Teil IV (AUWE 12, 1993)"
+volume_no_: "52"
+pages: "730-732"
+journal: "Bibliotheca Orientalis"
+title: "Rv. E. von Weiher, Uruk. Spätbabylonische Texte aus dem Planquadrat U 18. Teil IV (AUWE 12, 1993)"
+previous_item: "14653"
+---

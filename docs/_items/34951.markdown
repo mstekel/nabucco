@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34951"
+place_id: "247"
+parent_id: "40"
+place_name: "Bīt-Ea"
+title: "Bīt-Ea"
+previous_item: "34954"
+---

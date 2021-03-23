@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16885"
+occurrence_id: "456"
+short_title: "Karvonen-Kannas 1995"
+author: "Karvonen-Kannas, K. "
+publication_year: "1995"
+title: "The Seleucid and Parthian Terracotta Figurines from Babylon (Monografie di Mesopotamia IV)"
+title: "The Seleucid and Parthian Terracotta Figurines from Babylon (Monografie di Mesopotamia IV)"
+previous_item: "16888"
+---

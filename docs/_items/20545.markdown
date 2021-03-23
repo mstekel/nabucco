@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20545"
+occurrence_id: "4939"
+short_title: "Beaulieu 2013b"
+author: "Beaulieu, Paul-A."
+publication_year: "2013"
+title: "Mesopotamian Antiquarianism from Sumer to Babylon"
+pages: "121-139"
+editor: "Schnapp, Alain"
+book: "World Antiquarianism. Comparative Perspectives, Issues & Debates (Los Angeles, California). Edited with the collaboration of Lothar von Falkenhausen, Peter N. Miller, Tim Murr"
+title: "Mesopotamian Antiquarianism from Sumer to Babylon"
+previous_item: "20548"
+---

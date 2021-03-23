@@ -1,0 +1,10 @@
+---
+layout: "archive"
+slug: "22891"
+archive_id: "430"
+archive_name: "Šamšēa"
+is_part_of: "Uruk"
+related_objects: "5427"
+title: "Šamšēa"
+previous_item: "22894"
+---

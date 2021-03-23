@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33445"
+place_id: "973"
+parent_id: "61"
+place_name: "Dūru-ša-Bīt-Dakūri"
+title: "Dūru-ša-Bīt-Dakūri"
+previous_item: "33448"
+---

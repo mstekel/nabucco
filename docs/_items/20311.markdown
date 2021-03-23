@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20311"
+occurrence_id: "4794"
+short_title: "Jursa 2012"
+author: "Jursa, Michael"
+publication_year: "2012"
+title: "Ein Beamter flucht auf Aramäisch: Alphabetschreiber in der spätbabylonischen Epistolographie und die Rolle des Aramäischen in der babylonischen Verwaltung des sechsten Jahrhunderts v. Chr."
+pages: "379-397"
+editor: "Pappi, Cinzia"
+book: "Leggo! Studies Presented to Frederick Mario Fales on the Occasion of His 65th Birthday, Leipziger Altorientalische Studien 2 (Wiesbaden)"
+title: "Ein Beamter flucht auf Aramäisch: Alphabetschreiber in der spätbabylonischen Epistolographie und die Rolle des Aramäischen in der babylonischen Verwaltung des sechsten Jahrhunderts v. Chr."
+previous_item: "20314"
+---

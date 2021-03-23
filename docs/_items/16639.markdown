@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16639"
+occurrence_id: "524"
+short_title: "OECT 9"
+author: "McEwan, Gilbert J.P. "
+publication_year: "1982"
+title: "Texts from Hellenistic Babylonia in the Ashmolean Museum. with Notes on the Seal Impressions by the Late Briggs Buchanan (OECT 9)"
+title: "Texts from Hellenistic Babylonia in the Ashmolean Museum. with Notes on the Seal Impressions by the Late Briggs Buchanan (OECT 9)"
+previous_item: "16642"
+---

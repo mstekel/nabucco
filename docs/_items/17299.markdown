@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17299"
+occurrence_id: "634"
+short_title: "Wheeler 1968"
+author: "Wheeler, Mortimer "
+publication_year: "1968"
+title: "Flames over Persepolis. Turning Point in History"
+title: "Flames over Persepolis. Turning Point in History"
+previous_item: "17302"
+---

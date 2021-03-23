@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8518"
+occurrence_id: "1748"
+short_title: "BMECCJ 17 (1974 publ. 1975), 69-74"
+author: "Sato, Susumu"
+publication_year: "1974 publ. 1975"
+title: "Unpublished Persepolis Elamite Tablets in the Tehran Archaeological Museum (Museh Iran Bastan)"
+volume_no_: "17"
+pages: "69-74"
+journal: "Bulletin of the Middle Eastern Culture Center in Japan"
+title: "Unpublished Persepolis Elamite Tablets in the Tehran Archaeological Museum (Museh Iran Bastan)"
+previous_item: "8521"
+---

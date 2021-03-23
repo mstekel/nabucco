@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13747"
+occurrence_id: "2837"
+short_title: "Or 16 (1947), 273-302"
+author: "Nicolò, Mariano, San"
+publication_year: "1947"
+title: "Zum atru und Underen Nebenleistungen des Käufers beim neubabylonischen Immobiliarkauf"
+volume_no_: "16"
+pages: "273-302"
+journal: "Orientalia"
+title: "Zum atru und Underen Nebenleistungen des Käufers beim neubabylonischen Immobiliarkauf"
+previous_item: "13750"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11191"
+occurrence_id: "235"
+short_title: "Sollberger, JCS 5/1"
+author: "Sollberger, Edmond"
+publication_year: "1951"
+title: "The Cuneiform Collection of Geneva"
+volume_no_: "5/1"
+pages: "18-20"
+journal: "Journal of Cuneiform Studies"
+title: "The Cuneiform Collection of Geneva"
+previous_item: "11194"
+---

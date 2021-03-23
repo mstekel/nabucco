@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18034"
+occurrence_id: "411"
+short_title: "Galling 1964"
+author: "Galling, Kurt "
+publication_year: "1964"
+title: "Studien zur Geschichte Israels im persischen Zeitalter"
+title: "Studien zur Geschichte Israels im persischen Zeitalter"
+previous_item: "18037"
+---

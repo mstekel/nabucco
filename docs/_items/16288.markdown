@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16288"
+occurrence_id: "1454"
+short_title: "Archive for History of Exact Sciences 5 (1968), 70-78"
+author: "van der Waerden, Bartel L."
+publication_year: "1968"
+title: "The Date of Invention of Babylonian Planetary theory"
+volume_no_: "5"
+pages: "70-78"
+journal: "Archive for History of Exact Sciences"
+title: "The Date of Invention of Babylonian Planetary theory"
+previous_item: "16291"
+---

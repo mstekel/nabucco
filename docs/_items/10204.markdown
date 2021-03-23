@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10204"
+occurrence_id: "1767"
+short_title: "BSA 5 (1990), 219-266"
+author: "van Driel, Govert"
+publication_year: "1990"
+title: "Neo-Babylonian Agriculture. III. Cultivation"
+volume_no_: "5"
+pages: "219-266"
+journal: "Bulletin on Sumerian Agriculture"
+title: "Neo-Babylonian Agriculture. III. Cultivation"
+previous_item: "10207"
+---

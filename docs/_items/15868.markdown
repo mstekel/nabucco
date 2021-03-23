@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15868"
+occurrence_id: "2211"
+short_title: "JCS 58 (2006), 123-135"
+author: "Koch, Johannes"
+publication_year: "2006"
+title: "Neues vom astralMythologischen Bericht BM 55466+."
+volume_no_: "58"
+pages: "123-135"
+journal: "Journal of Cuneiform Studies"
+title: "Neues vom astralMythologischen Bericht BM 55466+."
+previous_item: "15871"
+---

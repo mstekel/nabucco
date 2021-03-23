@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "8380"
+occurrence_id: "4023"
+short_title: "WeOr 41/2 (2011), 177-190"
+author: "Schwemer, Daniel"
+publication_year: "2011"
+title: "Evil Witches, Apotropaic Plants and the New Moon. Two anti-witchcraft incantations from Babylon (BM 35672 and BM 36584)"
+volume_no_: "41/2"
+pages: "177-190"
+title: "Evil Witches, Apotropaic Plants and the New Moon. Two anti-witchcraft incantations from Babylon (BM 35672 and BM 36584)"
+previous_item: "8383"
+---

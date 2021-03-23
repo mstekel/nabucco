@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11074"
+occurrence_id: "3465"
+short_title: "ZA 81 (1991), 243-267."
+author: "Na'aman, Nadav"
+publication_year: "1991"
+title: "Chronology and History in the Late Assyrian Empire (631-619 B.C.)"
+volume_no_: "81"
+pages: "243-267"
+journal: "Zeitschrift für Assyriologie"
+title: "Chronology and History in the Late Assyrian Empire (631-619 B.C.)"
+previous_item: "11077"
+---

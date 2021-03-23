@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "13981"
+occurrence_id: "241"
+short_title: "Frahm and Oelsner, NABU 2008/9"
+author: "Frahm, Eckart"
+publication_year: "2008"
+title: "BRM 1, 22 (MLC 1805) - die Übernahme einer Bürgschaft betreffend"
+volume_no_: "2008/9"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "BRM 1, 22 (MLC 1805) - die Übernahme einer Bürgschaft betreffend"
+previous_item: "13984"
+---

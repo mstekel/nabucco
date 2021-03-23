@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9100"
+occurrence_id: "1862"
+short_title: "Durnij Vostok 3 (1978), 88-92 (Russ., Engl. Summary S. 264f.)"
+author: "Sarkisjan, Gagik Ch."
+publication_year: "1978"
+title: "Das Versorgungslos isqu in der Stadt des späten Babyloniens - eine Analogie zu den Polis - Verteilungen"
+volume_no_: "3"
+pages: "88-92"
+journal: "Durnij Vostok"
+title: "Das Versorgungslos isqu in der Stadt des späten Babyloniens - eine Analogie zu den Polis - Verteilungen"
+previous_item: "9103"
+---

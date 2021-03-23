@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10654"
+occurrence_id: "1196"
+short_title: "AfO 20 (1963), 156-158"
+author: "Köcher, Franz"
+publication_year: "1963"
+title: "Ein verkannter neubabylonischer Text aus Sippar"
+volume_no_: "20"
+pages: "156-158"
+journal: "Archiv für Orientforschung"
+title: "Ein verkannter neubabylonischer Text aus Sippar"
+previous_item: "10657"
+---

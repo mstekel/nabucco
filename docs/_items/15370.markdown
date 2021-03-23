@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "15370"
+occurrence_id: "2550"
+short_title: "NABU 1996/72"
+author: "Joannès, Francis"
+title: "Textes judiciaires néo-babyloniens, collation et réédition (suite), textes de Kuta"
+volume_no_: "72"
+publication_year: "1996"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Textes judiciaires néo-babyloniens, collation et réédition (suite), textes de Kuta"
+previous_item: "15373"
+---

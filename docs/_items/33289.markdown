@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33289"
+place_id: "250"
+parent_id: "40"
+place_name: "Bīt-Erība"
+title: "Bīt-Erība"
+previous_item: "33292"
+---

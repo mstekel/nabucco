@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8305"
+occurrence_id: "3622"
+short_title: "Archeologia 15 (1967), 13-19"
+author: "Sachs, Abraham J."
+publication_year: "1967"
+title: "Naissance de l´astrologie horoscopique en Babylonie"
+volume_no_: "15"
+pages: "13-19"
+journal: "Archeologia"
+title: "Naissance de l´astrologie horoscopique en Babylonie"
+previous_item: "8308"
+---

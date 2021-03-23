@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "34822"
+place_id: "1530"
+parent_id: "1470"
+place_name: "Bištu-ša-ṣinnatu"
+related_objects: "7508"
+title: "Bištu-ša-ṣinnatu"
+previous_item: "34825"
+---

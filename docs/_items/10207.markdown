@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10207"
+occurrence_id: "1783"
+short_title: "BSOAS 42 (1979), 189"
+author: "Boyce, Mary"
+publication_year: "1979"
+title: "Rv. H. Koch, Die religiösen Verhältnisse der Dareioszeit. Untersuchungen an Hand der elamischen Persepolistäfelchen"
+volume_no_: "42"
+pages: "189"
+journal: "Bulletin of the School of Oriental and African Studies"
+title: "Rv. H. Koch, Die religiösen Verhältnisse der Dareioszeit. Untersuchungen an Hand der elamischen Persepolistäfelchen"
+previous_item: "10210"
+---

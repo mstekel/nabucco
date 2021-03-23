@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9904"
+occurrence_id: "3171"
+short_title: "SAAB 7 (1994), 133-138"
+author: "Brinkman, John A."
+publication_year: "1994"
+title: "Babylonian Influence in the Šeh Hamad Texts Dated under Nebuchadnezzar II"
+volume_no_: "7"
+pages: "133-138"
+journal: "State Archives of Assyria, Bulletin"
+title: "Babylonian Influence in the Šeh Hamad Texts Dated under Nebuchadnezzar II"
+previous_item: "9907"
+---

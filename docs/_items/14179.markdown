@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14179"
+occurrence_id: "2159"
+short_title: "JCS 21 (1967), 236-254"
+author: "Oppenheim, A. Leo"
+publication_year: "1967"
+title: "Essay on Overland Trade in the First Millennium B.C."
+volume_no_: "21"
+pages: "236-254"
+journal: "Journal of Cuneiform Studies"
+title: "Essay on Overland Trade in the First Millennium B.C."
+previous_item: "14182"
+---

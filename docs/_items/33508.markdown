@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33508"
+place_id: "208"
+parent_id: "40"
+place_name: "Bīt-Akkē"
+title: "Bīt-Akkē"
+previous_item: "33511"
+---

@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17644"
+occurrence_id: "389"
+short_title: "Dommershausen 1963"
+author: "Dommershausen, Werner "
+publication_year: "1963"
+title: "Nabonid im Buche Daniel (Einführung in die Erzählungen des Buches Dn)"
+title: "Nabonid im Buche Daniel (Einführung in die Erzählungen des Buches Dn)"
+previous_item: "17647"
+---

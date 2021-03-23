@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8749"
+occurrence_id: "2993"
+short_title: "PSBA 9 (1886-87), 267-310"
+author: "Revillout, Eugène"
+publication_year: "1886-87"
+title: "Les dépôts et les confiements en droit égyptien et en droit babylonien,"
+volume_no_: "9"
+pages: "267-310"
+journal: "Proceedings of the Society of Biblical Archaeology"
+title: "Les dépôts et les confiements en droit égyptien et en droit babylonien,"
+previous_item: "8752"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9103"
+occurrence_id: "1878"
+short_title: "Gnomon 31 (1959), 544-545"
+author: "Erdmann, Kurt"
+publication_year: "1959"
+title: "Rv. H.H. von der Osten, Die Welt der Perser"
+volume_no_: "31"
+pages: "544-545"
+journal: "Gnomon"
+title: "Rv. H.H. von der Osten, Die Welt der Perser"
+previous_item: "9106"
+---

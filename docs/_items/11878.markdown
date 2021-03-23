@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11878"
+occurrence_id: "1786"
+short_title: "BSOAS 44 (1981), 218-219"
+author: "Wiseman, Donald J."
+publication_year: "1981"
+title: "Rv. S.M. Burstein, The Babyloniaca of Berossus (SANE 1/5)"
+volume_no_: "44"
+pages: "218-219"
+journal: "Bulletin of the School of Oriental and African Studies"
+title: "Rv. S.M. Burstein, The Babyloniaca of Berossus (SANE 1/5)"
+previous_item: "11881"
+---

@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16822"
+occurrence_id: "864"
+short_title: "Pinches;Strassmaier;Sachs;Schaumberger 1955"
+author: "Pinches, Theophilus G. "
+publication_year: "1955"
+title: "Late Babylonian Astronomical and Related Texts, copied by T.G. Pinches and J.N. Strassmaier, prepared for publication by A.J. Sachs, with the co-operation of J. Schaumberger, Brown University Studies 18 (Providence)"
+title: "Late Babylonian Astronomical and Related Texts, copied by T.G. Pinches and J.N. Strassmaier, prepared for publication by A.J. Sachs, with the co-operation of J. Schaumberger, Brown University Studies 18 (Providence)"
+previous_item: "16825"
+---

@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "11713"
+occurrence_id: "3900"
+short_title: "JNES 69/1 (2010), 137-142"
+author: "Abdi, Kamyar"
+publication_year: "2010"
+title: "Rv. T.J. Wilkinson, Archaeological Landscapes of the Near East"
+volume_no_: "69/1"
+pages: "137-142"
+title: "Rv. T.J. Wilkinson, Archaeological Landscapes of the Near East"
+previous_item: "11716"
+---

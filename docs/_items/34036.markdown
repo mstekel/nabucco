@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34036"
+place_id: "1470"
+parent_id: "4"
+place_name: "Unknown place"
+title: "Unknown place"
+previous_item: "34039"
+---

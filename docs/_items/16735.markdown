@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16735"
+occurrence_id: "326"
+short_title: "Bongenaar 1997"
+author: "Bongenaar, A.C.V.M. "
+publication_year: "1997"
+title: "The Neo-Babylonian Ebabbar Temple at Sippar: Its Administration and its Prosopography"
+title: "The Neo-Babylonian Ebabbar Temple at Sippar: Its Administration and its Prosopography"
+previous_item: "16738"
+---

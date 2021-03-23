@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15469"
+occurrence_id: "3085"
+short_title: "RA 83 (1989), 89"
+author: "Lemaire, André"
+publication_year: "1989"
+title: "Rv. J.C. Greenfield and B. Porten, The Bisitun Inscription of Darius the Great: Aramaic Version (1982)"
+volume_no_: "83"
+pages: "89"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "Rv. J.C. Greenfield and B. Porten, The Bisitun Inscription of Darius the Great: Aramaic Version (1982)"
+previous_item: "15472"
+---

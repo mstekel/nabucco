@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10183"
+occurrence_id: "1653"
+short_title: "BiOr 28 (1971), 203-205"
+author: "Röllig, Wolfgang"
+publication_year: "1971"
+title: "Rv. D.A. Kennedy, Cuneiform Texts from Babylonian Tablets in the British Museum. Part XLIX. Late Babylonian Economic Texts"
+volume_no_: "28"
+pages: "203-205"
+journal: "Bibliotheca Orientalis"
+title: "Rv. D.A. Kennedy, Cuneiform Texts from Babylonian Tablets in the British Museum. Part XLIX. Late Babylonian Economic Texts"
+previous_item: "10186"
+---

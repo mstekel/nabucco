@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16297"
+occurrence_id: "1503"
+short_title: "ArOr 67 (1999), 683-693"
+author: "Tavernier, Jan"
+publication_year: "1999"
+title: "Zum altpersischen hy /hya/*"
+volume_no_: "67"
+pages: "683-693"
+journal: "Archív Orientalí"
+title: "Zum altpersischen hy /hya/*"
+previous_item: "16300"
+---

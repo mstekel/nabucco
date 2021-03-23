@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7954"
+occurrence_id: "1731"
+short_title: "BiOr 65 (2008), 717-720"
+author: "Gehlken, Erlend"
+publication_year: "2008"
+title: "Rv. D.B. Weisberg, Neo-Babylonian Texts in the Oriental Institute Collection (OIP 122, 2003)."
+volume_no_: "65"
+pages: "717-720"
+journal: "Bibliotheca Orientalis"
+title: "Rv. D.B. Weisberg, Neo-Babylonian Texts in the Oriental Institute Collection (OIP 122, 2003)."
+previous_item: "7957"
+---

@@ -1,0 +1,14 @@
+---
+layout: "tablet"
+slug: "28981"
+object_id: "7089"
+museum_no_: "BM 30997"
+publication: "CT 22"
+text_number: "97"
+period: "-"
+type_and_content: "Letters"
+publication_name: "CT 22 97"
+archive: "Egibi/Nūr-Sîn"
+title: "BM 30997"
+previous_item: "28984"
+---

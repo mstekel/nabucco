@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13255"
+occurrence_id: "3193"
+short_title: "SMEA 38 (1996), 153-177"
+author: "Moortgat-Correns, Ursula"
+publication_year: "1996"
+title: "Das Grab des Nabonid"
+volume_no_: "38"
+pages: "153-177"
+journal: "Studi Micenei ed Egeo-Anatolici"
+title: "Das Grab des Nabonid"
+previous_item: "13258"
+---

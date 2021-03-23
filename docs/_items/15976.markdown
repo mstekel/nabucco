@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15976"
+occurrence_id: "2793"
+short_title: "OLZ 70 (1975), 462-464"
+author: "Freydank, Helmut"
+publication_year: "1975"
+title: "Rv. E. Salonen, Über das Erwerbsleben im Alten Mesopotamien. Untersuchungen zu den akkadischen Berufsnamen. Teil I"
+volume_no_: "70"
+pages: "462-464"
+journal: "Orientalistische Literaturzeitung"
+title: "Rv. E. Salonen, Über das Erwerbsleben im Alten Mesopotamien. Untersuchungen zu den akkadischen Berufsnamen. Teil I"
+previous_item: "15979"
+---

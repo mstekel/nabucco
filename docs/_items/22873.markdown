@@ -1,0 +1,9 @@
+---
+layout: "archive"
+slug: "22873"
+archive_id: "118"
+archive_name: "Esangila"
+is_part_of: "Babylon"
+title: "Esangila"
+previous_item: "22876"
+---

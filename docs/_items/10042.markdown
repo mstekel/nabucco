@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "10042"
+occurrence_id: "3913"
+short_title: "JLC 6 (2013), 358-378"
+author: "Beaulieu, Paul-A."
+publication_year: "2013"
+title: "Aspects of Aramaic and Babylonian Linguistic. Interaction in First Millennium BC Iraq"
+volume_no_: "6"
+pages: "358-378"
+title: "Aspects of Aramaic and Babylonian Linguistic. Interaction in First Millennium BC Iraq"
+previous_item: "10045"
+---

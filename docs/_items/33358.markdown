@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "33358"
+place_id: "1359"
+parent_id: "70"
+place_name: "Našar"
+related_objects: "2319"
+title: "Našar"
+previous_item: "33361"
+---

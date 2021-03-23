@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10393"
+occurrence_id: "2783"
+short_title: "OLZ 53 (1958), 568-570"
+author: "Rypka, J."
+publication_year: "1958"
+title: "Rv. H.H. von der Osten, Die Welt der Perser"
+volume_no_: "53"
+pages: "568-570"
+journal: "Orientalistische Literaturzeitung"
+title: "Rv. H.H. von der Osten, Die Welt der Perser"
+previous_item: "10396"
+---

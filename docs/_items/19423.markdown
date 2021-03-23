@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19423"
+occurrence_id: "4454"
+short_title: "van Driel 2000a"
+author: "van Driel, Govert"
+publication_year: "2000"
+title: "The Mesopotamian North: Land Use, An Attempt:"
+pages: "265-299"
+editor: "Jas, Remco M."
+book: "Rainfall and Agriculture in Northern Mesopotamia, MOS Studies 3, PIHANS 88 (Istanbul and Leiden)"
+title: "The Mesopotamian North: Land Use, An Attempt:"
+previous_item: "19426"
+---

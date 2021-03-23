@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12220"
+occurrence_id: "3629"
+short_title: "Beer-Sheva 1 (1973), 171-198 (Hebr., Engl. summary 234)"
+author: "Zadok, Ran"
+publication_year: "1973"
+title: "The Jews in Achaemenid Babylonia: Territorial Concentration and Professional Distribution"
+volume_no_: "1"
+pages: "171-198"
+journal: "Beer-Sheva"
+title: "The Jews in Achaemenid Babylonia: Territorial Concentration and Professional Distribution"
+previous_item: "12223"
+---

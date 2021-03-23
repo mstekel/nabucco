@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9928"
+occurrence_id: "3301"
+short_title: "VT 13 (1958), 109-111"
+author: "Kraus, F.R."
+publication_year: "1958"
+title: "Rv. D.J. Wiseman, Chronicle of Chaldaean Kings"
+volume_no_: "13"
+pages: "109-111"
+journal: "Vetus Testamentum"
+title: "Rv. D.J. Wiseman, Chronicle of Chaldaean Kings"
+previous_item: "9931"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8059"
+occurrence_id: "2295"
+short_title: "JNES 29 (1970), 296-298"
+author: "Leichty, Erle V."
+publication_year: "1970"
+title: "Rv. D.B. Weisberg, Guild Structure and Political Allegiance in Early Achaemenid Mesopotamia (New Haven/London 1967),"
+volume_no_: "29"
+pages: "296-298"
+journal: "Journal of Near Eastern Studies"
+title: "Rv. D.B. Weisberg, Guild Structure and Political Allegiance in Early Achaemenid Mesopotamia (New Haven/London 1967),"
+previous_item: "8062"
+---

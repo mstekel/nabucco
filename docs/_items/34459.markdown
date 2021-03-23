@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34459"
+place_id: "1243"
+parent_id: "61"
+place_name: "Šihmūti"
+title: "Šihmūti"
+previous_item: "34462"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12655"
+occurrence_id: "2968"
+short_title: "PalSb 19 (1969), 3-5"
+author: "Dandamayev, Muhammed A."
+publication_year: "1969"
+title: "A Babylonian Document concerning the Illegal Sale of a Temple Slave-Girl"
+volume_no_: "19"
+pages: "3-5"
+journal: "Palestinskij Szbornik"
+title: "A Babylonian Document concerning the Illegal Sale of a Temple Slave-Girl"
+previous_item: "12658"
+---

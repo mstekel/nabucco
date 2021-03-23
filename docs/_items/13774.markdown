@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13774"
+occurrence_id: "2986"
+short_title: "PSBA 24 (1902), 120-125"
+author: "Sayce, Archibald H."
+publication_year: "1902"
+title: "The Greeks in Babylonia: Graeco-cuneiform Texts"
+volume_no_: "24"
+pages: "120-125"
+journal: "Proceedings of the Society of Biblical Archaeology"
+title: "The Greeks in Babylonia: Graeco-cuneiform Texts"
+previous_item: "13777"
+---

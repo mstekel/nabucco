@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7732"
+occurrence_id: "3557"
+short_title: "ZDMG 129 (1979), 421"
+author: "Humbach, H. Jacob"
+publication_year: "1979"
+title: "Rv. E.N. von Voigtlander, The Bisitun Inscription of Darius the Great, Babylonian Version"
+volume_no_: "129"
+pages: "421"
+journal: "Zeitschrift der Deutschen Morgenländischen Gesellschaft"
+title: "Rv. E.N. von Voigtlander, The Bisitun Inscription of Darius the Great, Babylonian Version"
+previous_item: "7735"
+---

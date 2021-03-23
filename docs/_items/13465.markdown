@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13465"
+occurrence_id: "1319"
+short_title: "Akkadica 123/2 (2002), 153-161"
+author: "Battini, Laura"
+publication_year: "2002"
+title: "De l´étude des sceaux: quelques nouvelles pistes en partant de l´analyse du sceau A 27902 de l´Oriental Institute Museum de Chicago"
+volume_no_: "123/6"
+pages: "153-161"
+journal: "Akkadica"
+title: "De l´étude des sceaux: quelques nouvelles pistes en partant de l´analyse du sceau A 27902 de l´Oriental Institute Museum de Chicago"
+previous_item: "13468"
+---

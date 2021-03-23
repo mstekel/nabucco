@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20080"
+occurrence_id: "4665"
+short_title: "Kessler 1998"
+author: "Kessler, Karlheinz"
+publication_year: "1998"
+title: "\"In diesem Monat hörte ich ...\" - Einge Bemerkungen zu den Astronomical Diaries"
+pages: "167-172"
+editor: "Córdoba Zoilo, Joaquín, M."
+book: "Actas del I Symposium Internacional Una década de estudios sobre el Oriente antiguo, Fs. Klengel III (Madrid)"
+title: "\"In diesem Monat hörte ich ...\" - Einge Bemerkungen zu den Astronomical Diaries"
+previous_item: "20083"
+---

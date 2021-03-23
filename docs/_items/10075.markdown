@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10075"
+occurrence_id: "186"
+short_title: "Zadok and Zadok, NABU 1997/14"
+author: "Zadok, Ran"
+publication_year: "1997"
+title: "PTS 2005"
+volume_no_: "1997/14"
+related_objects: "5680"
+journal: "NABU"
+title: "PTS 2005"
+previous_item: "10078"
+---

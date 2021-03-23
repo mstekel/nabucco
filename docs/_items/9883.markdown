@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9883"
+occurrence_id: "3059"
+short_title: "RA 76 (1982 publ. 1983), 174-178"
+author: "Zadok, Ran"
+publication_year: "1982 publ. 1983"
+title: "Lexical, Onomastic and Geographical Notes"
+volume_no_: "76"
+pages: "174-178"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "Lexical, Onomastic and Geographical Notes"
+previous_item: "9886"
+---

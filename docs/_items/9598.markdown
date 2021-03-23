@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9598"
+occurrence_id: "1523"
+short_title: "ASJ 20 (1998), 111-119"
+author: "Matsushima, Eiko"
+publication_year: "1998"
+title: "On the Lubuštu-Ceremony of Bēl in the Seventh Century B.C."
+volume_no_: "20"
+pages: "111-119"
+journal: "Acta Sumerologica"
+title: "On the Lubuštu-Ceremony of Bēl in the Seventh Century B.C."
+previous_item: "9601"
+---

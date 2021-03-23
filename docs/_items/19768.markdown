@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19768"
+occurrence_id: "5191"
+short_title: "Koster 1954"
+author: "Koster, Willem Johann W."
+publication_year: "1954"
+title: "Chaldäer"
+pages: "1006-1021"
+editor: "Dölger, Franz Joseph "
+book: "Reallexikon für Antike and Christentum, II (Stuttgart)"
+title: "Chaldäer"
+previous_item: "19771"
+---

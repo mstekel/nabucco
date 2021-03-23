@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9511"
+occurrence_id: "156"
+short_title: "Zadok, NABU 1997/11"
+author: "Zadok, Ran"
+publication_year: "1997"
+title: "Two N/LB documents from the British Museum"
+volume_no_: "1997/11"
+related_objects: "5679"
+journal: "NABU"
+title: "Two N/LB documents from the British Museum"
+previous_item: "9514"
+---

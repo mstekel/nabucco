@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10501"
+occurrence_id: "3382"
+short_title: "ZA 10 (1895), 64-69"
+author: "Strassmaier, Johann N."
+publication_year: "1895"
+title: "Der Saros-Canon Sp. II"
+volume_no_: "10"
+pages: "64-69"
+journal: "Zeitschrift für Assyriologie"
+title: "Der Saros-Canon Sp. II"
+previous_item: "10504"
+---

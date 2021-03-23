@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12961"
+occurrence_id: "1610"
+short_title: "BCSMS 34 (1999), 5-22"
+author: "Frame, Grant"
+publication_year: "1999"
+title: "My Neighbour´s God: Aššur in Babylonia and Marduk in Assyria"
+volume_no_: "34"
+pages: "5-22"
+journal: "Bulletin. The Canadian Society for Mesopotamian Studies"
+title: "My Neighbour´s God: Aššur in Babylonia and Marduk in Assyria"
+previous_item: "12964"
+---

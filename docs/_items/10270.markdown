@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10270"
+occurrence_id: "2120"
+short_title: "JAOS 70 (1950), 1-8"
+author: "Neugebauer, Otto"
+publication_year: "1950"
+title: "The Alleged Babylonian Discovery of thePrecession of theEquinoxes"
+volume_no_: "70"
+pages: "1-8"
+journal: "Journal of the American Oriental Society"
+title: "The Alleged Babylonian Discovery of thePrecession of theEquinoxes"
+previous_item: "10273"
+---

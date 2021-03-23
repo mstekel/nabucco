@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18895"
+occurrence_id: "4947"
+short_title: "Calmeyer 1996"
+author: "Calmeyer, Peter"
+publication_year: "1996"
+title: "Neubabylonische Möbel und das Sitzen auf dem Bett"
+pages: "219-221"
+editor: "Herrmann, Georgina"
+book: "The furniture of Western Asia, Ancient and Traditional: Papers of the Conference Held at the Institute of Archaeology, University College London, June 28 to 30, 1993 (Mainz)"
+title: "Neubabylonische Möbel und das Sitzen auf dem Bett"
+previous_item: "18898"
+---

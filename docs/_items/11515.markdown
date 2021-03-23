@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11515"
+occurrence_id: "2833"
+short_title: "Or 10 (1941), 337-338"
+author: "Ungnad, Arthur"
+publication_year: "1941"
+title: "Der angebliche König Tarziia der Perserzeit"
+volume_no_: "10"
+pages: "337-338"
+journal: "Orientalia"
+title: "Der angebliche König Tarziia der Perserzeit"
+previous_item: "11518"
+---

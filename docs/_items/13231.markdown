@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13231"
+occurrence_id: "3065"
+short_title: "RA 77 (1983), 163-168"
+author: "Cocquerillat, Denise"
+publication_year: "1983"
+title: "Compléments à la topographie d'Uruk au temps de la ferme générale"
+volume_no_: "77"
+pages: "163-168"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "Compléments à la topographie d'Uruk au temps de la ferme générale"
+previous_item: "13234"
+---

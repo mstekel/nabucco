@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21178"
+occurrence_id: "5006"
+short_title: "Labat 1964"
+author: "Labat, René"
+publication_year: "Cambridge 1964"
+title: "Elam and Western Persia, c. 1200-1000 B.C."
+pages: "Chapter XXXII"
+editor: "Walker, Christopher,  Bromhead F."
+book: "The Cambridge Ancient History. CAH II (Cambridge)"
+title: "Elam and Western Persia, c. 1200-1000 B.C."
+previous_item: "21181"
+---

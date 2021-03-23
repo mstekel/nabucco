@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "9775"
+occurrence_id: "2475"
+short_title: "NABU 1990/121"
+author: "Beaulieu, Paul-A."
+publication_year: "1990"
+title: "Lion-Man: uridimmu or urdimmu?"
+volume_no_: "121"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Lion-Man: uridimmu or urdimmu?"
+previous_item: "9778"
+---

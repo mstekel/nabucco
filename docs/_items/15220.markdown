@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15220"
+occurrence_id: "1744"
+short_title: "BMECCJ 1 (1984), 37-43"
+author: "Wiseman, Donald J."
+publication_year: "1984"
+title: "Palace and Temple Gardens in the Ancient Near East"
+volume_no_: "1"
+pages: "37-43"
+journal: "Bulletin of the Middle Eastern Culture Center in Japan"
+title: "Palace and Temple Gardens in the Ancient Near East"
+previous_item: "15223"
+---

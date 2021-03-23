@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20740"
+occurrence_id: "4876"
+short_title: "Dandamayev 1999b"
+author: "Dandamayev, Muhammed A."
+publication_year: "1999"
+title: "Temple Archers in the Neo-Babylonian Sippar"
+pages: "95-98"
+editor: "Deutsch, Robert"
+book: "Fs. Heltzer (Tel Aviv and Jaffa)"
+title: "Temple Archers in the Neo-Babylonian Sippar"
+previous_item: "20743"
+---

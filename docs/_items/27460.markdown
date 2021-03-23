@@ -1,0 +1,14 @@
+---
+layout: "tablet"
+slug: "27460"
+object_id: "5378"
+museum_no_: "BM 118976"
+publication: "Frame 2013"
+text_number: "4b"
+duplicate: "BM 118970"
+imported: "Melanie Gross (26/05/2016)"
+publication_name: "Frame 2013 4b"
+related_objects: "5379"
+title: "BM 118976"
+previous_item: "27463"
+---

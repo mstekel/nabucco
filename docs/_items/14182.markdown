@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14182"
+occurrence_id: "2176"
+short_title: "JCS 35 (1983 publ.1984), 229-243"
+author: "Brinkman, John A."
+publication_year: "1984"
+title: "Rv. G.J.P. McEwan, Texts from Hellenistic Babylonia in the Ashmolean Museum (OECT 9)"
+volume_no_: "35"
+pages: "229-243"
+journal: "Journal of Cuneiform Studies"
+title: "Rv. G.J.P. McEwan, Texts from Hellenistic Babylonia in the Ashmolean Museum (OECT 9)"
+previous_item: "14185"
+---

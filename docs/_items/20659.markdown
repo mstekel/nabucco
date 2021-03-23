@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20659"
+occurrence_id: "4444"
+short_title: "del Monte 1999"
+author: "del Monte, Giuseppe F."
+publication_year: "1999"
+title: "Una famiglia di mastri muratori ad Uruk in età ellenistica"
+pages: "29-68"
+editor: "Imparati, F."
+book: "Studi e Testi II (Firenze)"
+title: "Una famiglia di mastri muratori ad Uruk in età ellenistica"
+previous_item: "20662"
+---

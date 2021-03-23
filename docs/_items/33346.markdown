@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33346"
+place_id: "1162"
+parent_id: "61"
+place_name: "Naṣībāta"
+title: "Naṣībāta"
+previous_item: "33349"
+---

@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33439"
+place_id: "877"
+parent_id: "61"
+place_name: "Bīt-Kāṣir"
+title: "Bīt-Kāṣir"
+previous_item: "33442"
+---

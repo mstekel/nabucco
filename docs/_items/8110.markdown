@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "8110"
+occurrence_id: "2570"
+short_title: "NABU 1997/6"
+author: "Zadok, Ran"
+title: "Notes on Babylonian Geography and Prosopography"
+volume_no_: "6"
+publication_year: "1997"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Notes on Babylonian Geography and Prosopography"
+previous_item: "8113"
+---

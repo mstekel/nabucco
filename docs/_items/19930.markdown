@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19930"
+occurrence_id: "4952"
+short_title: "Machinist and Tadmor 1993"
+author: "Tadmor, Hayim"
+publication_year: "1993"
+title: "Heavenly Wisdom"
+pages: "146-151"
+editor: "Snell, Daniel C."
+book: "The Tablet and the Scroll. Near Eastern Studies in Honor of William W. Hallo, Fs. Hallo (Bethesda)"
+title: "Heavenly Wisdom"
+previous_item: "19933"
+---

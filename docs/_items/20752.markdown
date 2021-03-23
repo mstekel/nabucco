@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20752"
+occurrence_id: "4940"
+short_title: "Beaulieu 2014"
+author: "Beaulieu, Paul-A."
+publication_year: "2014"
+title: "An Episode in the Reign of the Babylonian Pretender Nebuchadnezzar IV"
+pages: "17-26"
+editor: "Jones, Charles E."
+book: "Extraction & Control. Studies in Honor of Matthew W. Stolper, Studies in Ancient Oriental Civilization 68 (Chicago)"
+title: "An Episode in the Reign of the Babylonian Pretender Nebuchadnezzar IV"
+previous_item: "20755"
+---

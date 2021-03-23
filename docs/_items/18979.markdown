@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18979"
+occurrence_id: "4291"
+short_title: "Rawlins 2002"
+author: "Rawlins, Dennis"
+publication_year: "2002"
+title: "Aristarchos and the 'Babylonian' Month"
+pages: "295f."
+editor: "Imhausen, A."
+book: "Under One Sky. AOAT 297 (Münster)"
+title: "Aristarchos and the 'Babylonian' Month"
+previous_item: "18982"
+---

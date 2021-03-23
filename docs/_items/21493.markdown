@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21493"
+occurrence_id: "4480"
+short_title: "Baker 1995"
+author: "Baker, Heather D."
+publication_year: "1995"
+title: "Neo-Babylonian Burials Revisited"
+pages: "209-220"
+editor: "Green, Anthony"
+book: "The Archaeology of Death in the Ancient Near East (Oxford)"
+title: "Neo-Babylonian Burials Revisited"
+previous_item: "21496"
+---

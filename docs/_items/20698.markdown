@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "20698"
+occurrence_id: "4652"
+short_title: "Oppert 1888a"
+author: "Oppert, Jules"
+publication_year: "1888"
+title: "Les inscriptions juridiques de l'Assyrie et de la Chaldée"
+pages: "167-182"
+book: "Verhandlungen des Vll. Internationalen Orientalisten-Congresses, gehalten in Wien im Jahre 1886: Semitische Section (Wien)"
+title: "Les inscriptions juridiques de l'Assyrie et de la Chaldée"
+previous_item: "20701"
+---

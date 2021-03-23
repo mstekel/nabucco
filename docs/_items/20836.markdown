@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20836"
+occurrence_id: "4284"
+short_title: "Pingree 1982"
+author: "Pingree, David"
+publication_year: "1982"
+title: "Mesopotamian Astronomy and Astral Omens in other Civilizations"
+pages: "613-631"
+editor: "Nissen, Hans J."
+book: "Mesopotamien und seine Nachbarn. Politische und kulturelle Wechselbeziehungen im Alten Vorderasien vom 4. bis 1. Jahrtausend v. Chr., RAI 25 (Berlin)"
+title: "Mesopotamian Astronomy and Astral Omens in other Civilizations"
+previous_item: "20839"
+---

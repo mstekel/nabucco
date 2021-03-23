@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10474"
+occurrence_id: "3220"
+short_title: "StOr 43/4 (1974), 1-65"
+author: "Salonen, Erkki"
+publication_year: "1974"
+title: "Über den Zehnten im Alten Mesopotamien: Ein Beitrag zur Geschichte der Besteuerung"
+volume_no_: "43/4"
+pages: "1-65."
+journal: "Studia Orientalia"
+title: "Über den Zehnten im Alten Mesopotamien: Ein Beitrag zur Geschichte der Besteuerung"
+previous_item: "10477"
+---

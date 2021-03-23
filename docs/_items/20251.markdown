@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20251"
+occurrence_id: "4474"
+short_title: "Waetzoldt 1980-1983"
+author: "Waetzoldt, Harmut"
+publication_year: "1980-1983"
+title: "Kleidung, A. Philologisch,"
+pages: "18-31"
+editor: "Meissner, Bruno"
+book: "Reallexikon der Assyriologie 6 (1980-1983)"
+title: "Kleidung, A. Philologisch,"
+previous_item: "20254"
+---

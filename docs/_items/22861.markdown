@@ -1,0 +1,9 @@
+---
+layout: "archive"
+slug: "22861"
+archive_id: "319"
+archive_name: "Ša-nāšišu A"
+is_part_of: "Sippar"
+title: "Ša-nāšišu A"
+previous_item: "22864"
+---

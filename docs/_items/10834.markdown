@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10834"
+occurrence_id: "2169"
+short_title: "JCS 30 (1978 publ. 1979), 65-90"
+author: "Doty, L. Timothy"
+publication_year: "1978"
+title: "The Archive of theNanā-iddin Family from Uruk"
+volume_no_: "30"
+pages: "65-90"
+journal: "Journal of Cuneiform Studies"
+title: "The Archive of theNanā-iddin Family from Uruk"
+previous_item: "10837"
+---

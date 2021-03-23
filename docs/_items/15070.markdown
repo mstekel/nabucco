@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "15070"
+occurrence_id: "3954"
+short_title: "AfO 52 (2011), 77-97"
+author: "Hackl, Johannes"
+publication_year: "2011"
+title: "Neue spätbabylonische Lehrverträge aus dem British Museum und der Yale Babylonian Collection"
+volume_no_: "52"
+pages: "77-97"
+title: "Neue spätbabylonische Lehrverträge aus dem British Museum und der Yale Babylonian Collection"
+previous_item: "15073"
+---

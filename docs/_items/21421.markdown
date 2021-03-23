@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21421"
+occurrence_id: "5199"
+short_title: "Henkelman 2003"
+author: "Henkelman, Wouter F.M."
+publication_year: "2003"
+title: "Persians, Medes and Elamites: acculturation in the Neo-Elamite period."
+pages: "181-231"
+editor: "Lanfranchi, Giovanni , B."
+book: "Conitnuity of Empire (?). Assyria, Media, Persia (Padova)"
+title: "Persians, Medes and Elamites: acculturation in the Neo-Elamite period."
+previous_item: "21424"
+---

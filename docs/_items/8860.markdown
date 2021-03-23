@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8860"
+occurrence_id: "3591"
+short_title: "AA 18 (1955), 213-216"
+author: "Porada, Edith"
+publication_year: "1955"
+title: "Rv. R. Ghirshman, Village perse-achéménide"
+volume_no_: "18"
+pages: "213-216"
+journal: "Archäologischer Anzeiger"
+title: "Rv. R. Ghirshman, Village perse-achéménide"
+previous_item: "8863"
+---

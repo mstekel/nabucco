@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16999"
+occurrence_id: "384"
+short_title: "Diakonoff 1956b"
+author: "Diakonoff, Igor M. "
+publication_year: "1956"
+title: "L´histoire de la Médie depuis l´époque la plus ancienne jusqu´au IVe siècle avant notre ère"
+title: "L´histoire de la Médie depuis l´époque la plus ancienne jusqu´au IVe siècle avant notre ère"
+previous_item: "17002"
+---

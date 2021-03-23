@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15853"
+occurrence_id: "2130"
+short_title: "JAOS 89 (1969), 634-635"
+author: "Gingerich, Owen"
+publication_year: "1969"
+title: "Rv. B.L. van der Waerden, Erwachende Wissenschaft. II: Die Anfänge der Astronomie"
+volume_no_: "89"
+pages: "634-635"
+journal: "Journal of the American Oriental Society"
+title: "Rv. B.L. van der Waerden, Erwachende Wissenschaft. II: Die Anfänge der Astronomie"
+previous_item: "15856"
+---

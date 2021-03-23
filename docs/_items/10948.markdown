@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10948"
+occurrence_id: "2784"
+short_title: "OLZ 55 (1960), 490-492"
+author: "Nagel, Wolfram"
+publication_year: "1960"
+title: "Rv. F. Wetzel, E.F. Schmidt , Das Babylon der Spätzeit"
+volume_no_: "55"
+pages: "490-492"
+journal: "Orientalistische Literaturzeitung"
+title: "Rv. F. Wetzel, E.F. Schmidt , Das Babylon der Spätzeit"
+previous_item: "10951"
+---

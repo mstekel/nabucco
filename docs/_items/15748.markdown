@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15748"
+occurrence_id: "1567"
+short_title: "BaM 24 (1993), 289-308"
+author: "Watanabe, Kazuko"
+publication_year: "1993"
+title: "Ein neuassyrisches Siegel des Mīnu-ahṭi-ana-Ištari,"
+volume_no_: "24"
+pages: "289-308"
+journal: "Baghdader Mitteilungen"
+title: "Ein neuassyrisches Siegel des Mīnu-ahṭi-ana-Ištari,"
+previous_item: "15751"
+---

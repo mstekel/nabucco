@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18988"
+occurrence_id: "4340"
+short_title: "Weidner 1939"
+author: "Weidner, Ernst F."
+publication_year: "1939"
+title: "Jojachin, König von Juda, in babylonischen Keilschrifttexten,"
+pages: "923-935"
+editor: "Dussaud, René "
+book: "Mélanges syriens: Offerts à Monsieur René Dussaud par ses amis et élèves (Paris)"
+title: "Jojachin, König von Juda, in babylonischen Keilschrifttexten,"
+previous_item: "18991"
+---

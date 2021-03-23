@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13732"
+occurrence_id: "2757"
+short_title: "NAPR 9 (1996), 35-49"
+author: "Rutten, Katrien"
+publication_year: "1996"
+title: "Abū Qubūr: Operation J. Late Achaemenid and Early Hellenistic Pottery from Ensembles III and IV"
+volume_no_: "9"
+pages: "35-49"
+journal: "Northern Akkad Project Reports"
+title: "Abū Qubūr: Operation J. Late Achaemenid and Early Hellenistic Pottery from Ensembles III and IV"
+previous_item: "13735"
+---

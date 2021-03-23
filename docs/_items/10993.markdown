@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10993"
+occurrence_id: "3029"
+short_title: "RA 50 (1956), 200-204"
+author: "de Mecquenem, Roland"
+publication_year: "1956"
+title: "Notes protoélamites"
+volume_no_: "50"
+pages: "200-204"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "Notes protoélamites"
+previous_item: "10996"
+---

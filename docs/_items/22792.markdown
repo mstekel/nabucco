@@ -1,0 +1,9 @@
+---
+layout: "archive"
+slug: "22792"
+archive_id: "253"
+archive_name: "Mušallim-Bēl/Nidintu"
+is_part_of: "Kiš"
+title: "Mušallim-Bēl/Nidintu"
+previous_item: "22795"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7777"
+occurrence_id: "3797"
+short_title: "Nature 176 (1955), 569-570"
+author: "Sloley, R.W."
+publication_year: "1955"
+title: "Rv. O. Neugebauer, Astronomical Cuneiform Texts"
+volume_no_: "176"
+pages: "569-570"
+journal: "Nature"
+title: "Rv. O. Neugebauer, Astronomical Cuneiform Texts"
+previous_item: "7780"
+---

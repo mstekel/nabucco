@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33898"
+place_id: "1129"
+parent_id: "61"
+place_name: "Lahitu"
+title: "Lahitu"
+previous_item: "33901"
+---

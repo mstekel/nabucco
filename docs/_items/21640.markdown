@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "21640"
+occurrence_id: "4159"
+short_title: "Kuhrt and Sherwin-White 1987"
+author: "Kuhrt, Amélie"
+publication_year: "1987"
+title: "Xerxes' Destruction of Babylonian Temples"
+pages: "69-78"
+editor: "Kuhrt, Amélie"
+title: "Xerxes' Destruction of Babylonian Temples"
+previous_item: "21643"
+---

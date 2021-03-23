@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8527"
+occurrence_id: "1797"
+short_title: "BSOAS 53 (1990), 121-123"
+author: "Geller, Mark J."
+publication_year: "1990"
+title: "Rv. E.V. Leichty, Catalogue of the Babylonian Tablets in the British Museum. Vol. VI Tablets from Sippar, 1 (1986)"
+volume_no_: "53"
+pages: "121-123"
+journal: "Bulletin of the School of Oriental and African Studies"
+title: "Rv. E.V. Leichty, Catalogue of the Babylonian Tablets in the British Museum. Vol. VI Tablets from Sippar, 1 (1986)"
+previous_item: "8530"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9400"
+occurrence_id: "3478"
+short_title: "ZA 85 (1995), 67-73"
+author: "Zawadzki, Stefan"
+publication_year: "1995"
+title: "A Contribution to the Chronology of the last Days of the Assyrian Empire"
+volume_no_: "85"
+pages: "67-73"
+journal: "Zeitschrift für Assyriologie"
+title: "A Contribution to the Chronology of the last Days of the Assyrian Empire"
+previous_item: "9403"
+---

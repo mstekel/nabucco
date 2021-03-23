@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "12055"
+occurrence_id: "2738"
+short_title: "NABU 2010/58"
+author: "Koch, Johannes"
+title: "Zur Datierung von MUL.APIN I i 1-ii 35."
+volume_no_: "58"
+publication_year: "2010"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Zur Datierung von MUL.APIN I i 1-ii 35."
+previous_item: "12058"
+---

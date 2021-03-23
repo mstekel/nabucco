@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9166"
+occurrence_id: "2215"
+short_title: "JCS 60 (2008), 87-99"
+author: "MacGinnis, John"
+publication_year: "2008"
+title: "A Judgement of Darius the king."
+volume_no_: "60"
+pages: "87-99"
+journal: "Journal of Cuneiform Studies"
+title: "A Judgement of Darius the king."
+previous_item: "9169"
+---

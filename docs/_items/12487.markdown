@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12487"
+occurrence_id: "2060"
+short_title: "JAOS 103 (1983), 211-215"
+author: "Lambert, Wilfred G."
+publication_year: "1983"
+title: "A Neo-Babylonian Tammuz Lament"
+volume_no_: "103"
+pages: "211-215"
+journal: "Journal of the American Oriental Society"
+title: "A Neo-Babylonian Tammuz Lament"
+previous_item: "12490"
+---

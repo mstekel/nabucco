@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7864"
+occurrence_id: "1243"
+short_title: "AfO 46/47 (1999/2000), 201-207"
+author: "Müller, Gefrid G.W."
+publication_year: "1999-2000"
+title: "Rv. A.L. Slotsky, The Bourse of Babylon. Market Quotations in the Astronomical Diaries of Babylonia (1997)"
+volume_no_: "46-47"
+pages: "201-207"
+journal: "Archiv für Orientforschung"
+title: "Rv. A.L. Slotsky, The Bourse of Babylon. Market Quotations in the Astronomical Diaries of Babylonia (1997)"
+previous_item: "7867"
+---

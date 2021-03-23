@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14644"
+occurrence_id: "1661"
+short_title: "BiOr 34 (1977 publ. 1979), 345"
+author: "van Espen, Paula"
+publication_year: "1977 publ. 1979"
+title: "Rv. E. Salonen, Neubabylonische Urkunden verschiedenen Inhalts, I"
+volume_no_: "34"
+pages: "345"
+journal: "Bibliotheca Orientalis"
+title: "Rv. E. Salonen, Neubabylonische Urkunden verschiedenen Inhalts, I"
+previous_item: "14647"
+---

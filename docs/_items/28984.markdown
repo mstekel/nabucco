@@ -1,0 +1,14 @@
+---
+layout: "tablet"
+slug: "28984"
+object_id: "7105"
+museum_no_: "BM 30643"
+publication: "CT 22"
+text_number: "189 "
+period: "-"
+type_and_content: "Letters"
+publication_name: "CT 22 189 "
+archive: "Egibi/Nūr-Sîn"
+title: "BM 30643"
+previous_item: "28987"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14728"
+occurrence_id: "2112"
+short_title: "JAOS 56 (1936), 242-257"
+author: "Olmstead, Albert T.E."
+publication_year: "1936"
+title: "Intertestamental studies"
+volume_no_: "56"
+pages: "242-257"
+journal: "Journal of the American Oriental Society"
+title: "Intertestamental studies"
+previous_item: "14731"
+---

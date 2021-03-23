@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16108"
+occurrence_id: "3508"
+short_title: "ZA 90 (2000), 227-262"
+author: "Sallaberger, Walther"
+publication_year: "2000"
+title: "Das Erscheinen Marduks als Vorzeichen: Kultstatue und Neujahrsfest in der Omenserie Šumma ālu"
+volume_no_: "90"
+pages: "227-262"
+journal: "Zeitschrift für Assyriologie"
+title: "Das Erscheinen Marduks als Vorzeichen: Kultstatue und Neujahrsfest in der Omenserie Šumma ālu"
+previous_item: "16111"
+---

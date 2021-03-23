@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13276"
+occurrence_id: "3307"
+short_title: "WeOr 1 (1952), 503-506"
+author: "Falkenstein, Adam"
+publication_year: "1952"
+title: "Rv. G.G. Cameron, Persepolis Treasury Tablets (OIP 65, Chicago 1948)"
+volume_no_: "1"
+pages: "503-506"
+journal: "Die Welt des Orients"
+title: "Rv. G.G. Cameron, Persepolis Treasury Tablets (OIP 65, Chicago 1948)"
+previous_item: "13279"
+---

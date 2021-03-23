@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12226"
+occurrence_id: "3661"
+short_title: "Chiron 22 (1992), 55-81"
+author: "Bosworh, Albert B."
+publication_year: "1992"
+title: "Philip III Arrhidaeus and the Chronology of the Successors"
+volume_no_: "22"
+pages: "55-81"
+journal: "Chiron"
+title: "Philip III Arrhidaeus and the Chronology of the Successors"
+previous_item: "12229"
+---

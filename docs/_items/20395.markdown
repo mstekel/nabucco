@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "20395"
+occurrence_id: "4137"
+short_title: "Uchitel 1991"
+author: "Uchitel, Alexander"
+publication_year: "1991"
+title: "Foreign Workers in the Fortification Archive"
+pages: "127-135"
+editor: "Gasche, Hermann"
+title: "Foreign Workers in the Fortification Archive"
+previous_item: "20398"
+---

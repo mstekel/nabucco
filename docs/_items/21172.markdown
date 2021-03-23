@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21172"
+occurrence_id: "4974"
+short_title: "Briant 1987"
+author: "Briant, Pierre"
+publication_year: "1987"
+title: "Pouvoir central et polycentrisme culturel dans l'empire achéménide"
+pages: "1-31"
+editor: "Sancisi-Weerdenburg, Heleen"
+book: "Sources, Structures and Synhesis. Proceedings of the Groningen 1983 Achaemenid History Workshop, Achaemenid History 1 (Leiden)"
+title: "Pouvoir central et polycentrisme culturel dans l'empire achéménide"
+previous_item: "21175"
+---

@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "19372"
+occurrence_id: "4181"
+short_title: "Cavigneaux 1999"
+author: "Cavigneaux, Antoine"
+publication_year: "1999"
+title: "Nabû ša Harê and die Kinder von Babylon"
+pages: "385-391"
+editor: "Renger, Johannes"
+title: "Nabû ša Harê and die Kinder von Babylon"
+previous_item: "19375"
+---

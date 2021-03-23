@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20068"
+occurrence_id: "4601"
+short_title: "Renger 1995a"
+author: "Renger, Johannes"
+publication_year: "1995"
+title: "Institutional, Communal, and Individual Ownership or Possession of Arable Land in Ancient Mesopotamia from the End of the Fourth to the End of the First Millennium B.C."
+pages: "269-319"
+editor: "Miller, Geoffrey, P."
+book: "Symposium on Ancient Law, Economics and Society II. Chicago-Kent Law Review 71/1 (Chicago)"
+title: "Institutional, Communal, and Individual Ownership or Possession of Arable Land in Ancient Mesopotamia from the End of the Fourth to the End of the First Millennium B.C."
+previous_item: "20071"
+---

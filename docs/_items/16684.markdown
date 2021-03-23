@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16684"
+occurrence_id: "812"
+short_title: "Hunger 1992"
+author: "Hunger, Hermann "
+publication_year: "1992"
+title: "Astrological Reports to Assyrian Kings, SAA 8 (Helsinki)"
+title: "Astrological Reports to Assyrian Kings, SAA 8 (Helsinki)"
+previous_item: "16687"
+---

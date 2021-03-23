@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11602"
+occurrence_id: "3304"
+short_title: "VT 37 (1987), 503-504"
+author: "Postgate, John Nicholas"
+publication_year: "1987"
+title: "Rv. M. Silver, Economic Structures of the Ancient Near East (1985)"
+volume_no_: "37"
+pages: "503-504"
+journal: "Vetus Testamentum"
+title: "Rv. M. Silver, Economic Structures of the Ancient Near East (1985)"
+previous_item: "11605"
+---

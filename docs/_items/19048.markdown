@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19048"
+occurrence_id: "4660"
+short_title: "Schmidt 2012"
+author: "Schmidt, Karin, Stella"
+publication_year: "2012"
+title: "Text im Bild - Bild im Text: Bildmotive als Bedeutungsträger von Machtansprüchen im hellenistischen Mesopotamien?"
+pages: "377-386"
+editor: "Wilhelm, Gernot"
+book: "Organization, Representation, and Symbols of Power in the Ancient Near East. Proceedings of the 54th Rencontre Assyriologique Internationale at Würzburg 20-25 July 2008 (Winona Lake)"
+title: "Text im Bild - Bild im Text: Bildmotive als Bedeutungsträger von Machtansprüchen im hellenistischen Mesopotamien?"
+previous_item: "19051"
+---

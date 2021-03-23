@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7882"
+occurrence_id: "1341"
+short_title: "AMI 20 (1987 publ. 1989), 167-245"
+author: "Tuplin, Christopher"
+publication_year: "1987 publ. 1989"
+title: "Xenophon and the Garrisons of the Achaemenid Empire"
+volume_no_: "20"
+pages: "167-245"
+journal: "Archäologische Mitteilungen aus Iran"
+title: "Xenophon and the Garrisons of the Achaemenid Empire"
+previous_item: "7885"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20026"
+occurrence_id: "4377"
+short_title: "Joannès 2009b"
+author: "Joannès, Francis"
+publication_year: "2009"
+title: "Préparation et consommation de la viande à l'époque néo-babylonienne."
+pages: "431-435"
+editor: "Michel, Cécile"
+book: "L'alimentation dans l'Orient ancien, de la production à la consommation, hème IX, Cahiers des hèmes transversaux d'ArScAn vol IX, 2007-2010"
+title: "Préparation et consommation de la viande à l'époque néo-babylonienne."
+previous_item: "20029"
+---

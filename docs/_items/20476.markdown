@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "20476"
+occurrence_id: "4571"
+short_title: "Oelsner 1987"
+author: "Oelsner, Joachim"
+publication_year: "1987"
+title: "Aramäisches aus Babylonien - Notizen am Rande: Der Vordere Orient in Antike und Mittelalter"
+pages: "38-46"
+book: "Der Vordere Orient in Antike und Mittelalter: Festgabe für Prof. Dr. phil. habil. Heinrich Simon, Ordinarius für Hebraistik und arabische Philosophie, anlässlich seines 65. Geburtstages"
+title: "Aramäisches aus Babylonien - Notizen am Rande: Der Vordere Orient in Antike und Mittelalter"
+previous_item: "20479"
+---

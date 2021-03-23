@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "7552"
+occurrence_id: "2585"
+short_title: "NABU 1998/134"
+author: "Boiy, Tom"
+title: "Dating in early Hellenistic Babylonia: evidence on the basis of CT 49 13"
+volume_no_: "134"
+publication_year: "1998"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Dating in early Hellenistic Babylonia: evidence on the basis of CT 49 13"
+previous_item: "7555"
+---

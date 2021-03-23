@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17755"
+occurrence_id: "261"
+short_title: "Salonen 1976"
+author: "Salonen, Erkki "
+publication_year: "1976"
+title: "Neubabylonische Urkunden verschiedenen Inhalts, II, Suomalaisen Tiedeakatemian, Toimitsuksia Annales Academiae Scientiarum Fennicae B/199"
+title: "Neubabylonische Urkunden verschiedenen Inhalts, II, Suomalaisen Tiedeakatemian, Toimitsuksia Annales Academiae Scientiarum Fennicae B/199"
+previous_item: "17758"
+---

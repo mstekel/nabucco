@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18619"
+occurrence_id: "4578"
+short_title: "Oelsner 1997"
+author: "Oelsner, Joachim"
+publication_year: "1997"
+title: "Neu/spätbabylonische und aramäische Kaufverträge"
+pages: "307-314"
+editor: "Pongratz-Leisten, Beate"
+book: "Beiträge zu altorientalischen und mittelmeerischen Kulturen, Fs.Röllig, AOAT 247 (Neukirchen-Vluyn)"
+title: "Neu/spätbabylonische und aramäische Kaufverträge"
+previous_item: "18622"
+---

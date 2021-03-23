@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18808"
+occurrence_id: "4483"
+short_title: "Baker 2005b"
+author: "Baker, Heather D."
+publication_year: "2005"
+title: "The property portfolio of a family of builders from Hellenistic Uruk."
+pages: "7-43"
+editor: "Baker, Heather D."
+book: "Approaching the Babylonian Economy, AOAT 330 (Münster)"
+title: "The property portfolio of a family of builders from Hellenistic Uruk."
+previous_item: "18811"
+---

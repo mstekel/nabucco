@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8080"
+occurrence_id: "2407"
+short_title: "Mesopotamia 28 (1993), 21-50"
+author: "Frame, Grant"
+publication_year: "1993"
+title: "Nabonidus and the History of the Eulmaš temple at Akkad"
+volume_no_: "28"
+pages: "21-50"
+journal: "Mesopotamia"
+title: "Nabonidus and the History of the Eulmaš temple at Akkad"
+previous_item: "8083"
+---

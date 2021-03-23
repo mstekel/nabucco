@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18727"
+occurrence_id: "5154"
+short_title: "Walter 2011"
+author: "Walter, Vincent"
+publication_year: "2011"
+title: "Spätbabylonische Rechturkunden"
+pages: "87-109, pls. XXXVI-XLIII"
+editor: "Streck, Michael , P."
+book: "Die Keilschrifttexte des Altorientalischen Instituts des Universität Leipzig, Leipziger Altorientalische Studien 1 (Wiesbaden)"
+title: "Spätbabylonische Rechturkunden"
+previous_item: "18730"
+---

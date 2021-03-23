@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17923"
+occurrence_id: "518"
+short_title: "Muffs 1969"
+author: "Muffs, Yochanan "
+publication_year: "1969"
+title: "Studies in the Aramaic Legal Papyri from Elephantine"
+title: "Studies in the Aramaic Legal Papyri from Elephantine"
+previous_item: "17926"
+---

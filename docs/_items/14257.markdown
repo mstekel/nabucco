@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "14257"
+occurrence_id: "2581"
+short_title: "NABU 1998/122"
+author: "Waerzeggers, Caroline"
+title: "A New šangû at Neo-Babylonian Sippar"
+volume_no_: "122"
+publication_year: "1998"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "A New šangû at Neo-Babylonian Sippar"
+previous_item: "14260"
+---

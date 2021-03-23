@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15724"
+occurrence_id: "1437"
+short_title: "AoF 5 (1977), 71-80"
+author: "Oelsner, Joachim"
+publication_year: "1977"
+title: "Zur Sklaverei in Babylonien in der chaldäischen, achämenidischen und hellenistischen Zeit"
+volume_no_: "5"
+pages: "71-80"
+journal: "Altorientalische Forschungen"
+title: "Zur Sklaverei in Babylonien in der chaldäischen, achämenidischen und hellenistischen Zeit"
+previous_item: "15727"
+---

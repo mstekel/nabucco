@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18718"
+occurrence_id: "5106"
+short_title: "Zawadzki 2000"
+author: "Zawadzki, Stefan"
+publication_year: "2000"
+title: "Nār Kuraš"
+pages: "599-602"
+editor: "Neumann, Hans"
+book: "Assyriologica et Semitica, Fs. Oelsner. AOAT 252. (Münster)"
+title: "Nār Kuraš"
+previous_item: "18721"
+---

@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "14245"
+occurrence_id: "2516"
+short_title: "NABU 1995/112"
+author: "Brinkman, John A."
+title: "Notes on the Dates of Late Seventh-Century Babylonian Economic Texts"
+volume_no_: "112"
+publication_year: "1995"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Notes on the Dates of Late Seventh-Century Babylonian Economic Texts"
+previous_item: "14248"
+---

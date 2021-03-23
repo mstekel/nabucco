@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17725"
+occurrence_id: "887"
+short_title: "Schmid 1995"
+author: "Schmid, Hansjörg "
+publication_year: "1995"
+title: "Der Tempelturm Etemenanki in Babylon, BaF 17 (Mainz am Rhein)"
+title: "Der Tempelturm Etemenanki in Babylon, BaF 17 (Mainz am Rhein)"
+previous_item: "17728"
+---

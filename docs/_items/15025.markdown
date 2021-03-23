@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15025"
+occurrence_id: "3714"
+short_title: "IAB 20 (1983), 223"
+author: "Chapman, R."
+publication_year: "1983"
+title: "Rv. P. Briant, État et pasteurs au Moyen-Orient ancien"
+volume_no_: "223"
+pages: "223"
+journal: "Instittute of Acrhaeology Bulletin (London)"
+title: "Rv. P. Briant, État et pasteurs au Moyen-Orient ancien"
+previous_item: "15028"
+---

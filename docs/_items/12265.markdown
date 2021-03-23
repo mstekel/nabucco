@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12265"
+occurrence_id: "3869"
+short_title: "Vivre et Penser III (1943-1944), 124-132"
+author: "de Menasce, Jean"
+publication_year: "1943-1944"
+title: "Observations sur l´inscription de Xerxès à Persépolis"
+volume_no_: "III"
+pages: "124-132"
+journal: "Vivre et Penser"
+title: "Observations sur l´inscription de Xerxès à Persépolis"
+previous_item: "12268"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11989"
+occurrence_id: "2382"
+short_title: "Language 19 (1943), 221-229"
+author: "Kent, Roland G."
+publication_year: "1943"
+title: "Studies in Old Persian Morphology"
+volume_no_: "19"
+pages: "221-229"
+journal: "Language"
+title: "Studies in Old Persian Morphology"
+previous_item: "11992"
+---

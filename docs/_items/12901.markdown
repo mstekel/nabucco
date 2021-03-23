@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12901"
+occurrence_id: "1284"
+short_title: "AJ 2 (1974), 55-62"
+author: "Lecoq, Pierre"
+publication_year: "1974"
+title: "La langue des inscriptions achéménides"
+volume_no_: "2"
+pages: "55-62"
+journal: "Archaeological Journal"
+title: "La langue des inscriptions achéménides"
+previous_item: "12904"
+---

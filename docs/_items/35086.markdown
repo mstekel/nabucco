@@ -1,0 +1,18 @@
+---
+layout: "tablet"
+slug: "35086"
+object_id: "5764"
+museum_no_: "BM 67175"
+period: "ENB"
+type_and_content: "Purchases"
+day_remark: "[-]"
+month: "-"
+month_remark: "[-]"
+year_remark: "[-]"
+king: "Kan"
+king_remark: "-"
+paraphrase: "Purchase of a slave: The text mentions the <em>&scaron;atammu</em> of Ebabbar (&Scaron;ama&scaron;-&scaron;um-lī&scaron;ir) and the <em>qīpu</em> of Ebabbar (&Scaron;ama&scaron;-ēpe&scaron;-&scaron;arri)."
+imported: "Melanie Gross (20/05/2017)"
+title: "BM 67175"
+previous_item: "35089"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13642"
+occurrence_id: "2272"
+short_title: "JNES 17 (1958), 256-262"
+author: "Hallock, Richard T."
+publication_year: "1958"
+title: "Notes on Achaemenid Elamite (The Sources - System of Transliteration - the Element -ikki)"
+volume_no_: "17"
+pages: "256-262"
+journal: "Journal of Near Eastern Studies"
+title: "Notes on Achaemenid Elamite (The Sources - System of Transliteration - the Element -ikki)"
+previous_item: "13645"
+---

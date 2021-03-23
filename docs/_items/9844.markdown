@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9844"
+occurrence_id: "2846"
+short_title: "Or 19 (1950), 397-403"
+author: "Ebeling, Erich"
+publication_year: "1950"
+title: "Eine Beschwerde einer assyrischen Handwerkergilde über gesetzwidrige Behandlung"
+volume_no_: "19"
+pages: "397-403"
+journal: "Orientalia"
+title: "Eine Beschwerde einer assyrischen Handwerkergilde über gesetzwidrige Behandlung"
+previous_item: "9847"
+---

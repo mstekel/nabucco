@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11806"
+occurrence_id: "1398"
+short_title: "Anthropos 79 (1984), 272-274"
+author: "Henninger, J."
+publication_year: "1984"
+title: "Rv. P. Briant, État et pasteurs au Moyen-Orient ancien"
+volume_no_: "79"
+pages: "272-274"
+journal: "Anthropos"
+title: "Rv. P. Briant, État et pasteurs au Moyen-Orient ancien"
+previous_item: "11809"
+---

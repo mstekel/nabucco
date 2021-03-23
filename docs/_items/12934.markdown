@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12934"
+occurrence_id: "1464"
+short_title: "ArOr 21 (1953), 604-640"
+author: "Klíma, Josef"
+publication_year: "1953"
+title: "Über neuere Studien auf dem Gebiet des Keilschriftrechtes IV,"
+volume_no_: "21"
+pages: "604-640"
+journal: "Archív Orientalí"
+title: "Über neuere Studien auf dem Gebiet des Keilschriftrechtes IV,"
+previous_item: "12937"
+---

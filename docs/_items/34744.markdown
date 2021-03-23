@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34744"
+place_id: "481"
+parent_id: "40"
+place_name: "Hūpu-ša-Barīki-il"
+title: "Hūpu-ša-Barīki-il"
+previous_item: "34747"
+---

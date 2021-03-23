@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9064"
+occurrence_id: "1667"
+short_title: "BiOr 39 (1982), 141-145"
+author: "Wilcke, Claus"
+publication_year: "1982"
+title: "Rv. H. Hunger, Spätbabylonische Texte aus Uruk, Teil I"
+volume_no_: "39"
+pages: "141-145"
+journal: "Bibliotheca Orientalis"
+title: "Rv. H. Hunger, Spätbabylonische Texte aus Uruk, Teil I"
+previous_item: "9067"
+---

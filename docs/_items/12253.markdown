@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12253"
+occurrence_id: "3805"
+short_title: "OA 11 (1972), 297-317"
+author: "Liverani, Mario"
+publication_year: "1972"
+title: "Elementi \"irrazionali\" nel commercio amarniano"
+volume_no_: "11"
+pages: "297-317"
+journal: "Oriens Antiquus"
+title: "Elementi \"irrazionali\" nel commercio amarniano"
+previous_item: "12256"
+---

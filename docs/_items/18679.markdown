@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18679"
+occurrence_id: "4898"
+short_title: "Heeßel 2002"
+author: "Heeßel, Nils , P."
+publication_year: "2002"
+title: "Ein neubabylonisches Rezept zur Berauschung and Ausnüchterung"
+pages: "99-106"
+editor: "Wunsch, Cornelia"
+book: "Mining the archives, Fs. Walker (Dresden)"
+title: "Ein neubabylonisches Rezept zur Berauschung and Ausnüchterung"
+previous_item: "18682"
+---

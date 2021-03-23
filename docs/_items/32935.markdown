@@ -1,0 +1,16 @@
+---
+layout: "tablet"
+slug: "32935"
+object_id: "8857"
+museum_no_: "BM 43491"
+publication: "Jursa 1999"
+page_number: "238"
+period: "Each"
+type_and_content: "Receipts"
+paraphrase: "Fragment of receipt"
+imported: "Matthias Adelhofer (07/06/17)"
+publication_name: "Jursa 1999 "
+archive: "Šangû-Šamaš A"
+title: "BM 43491"
+previous_item: "32938"
+---

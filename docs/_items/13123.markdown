@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "13123"
+occurrence_id: "2481"
+short_title: "NABU 1991/5"
+author: "Brinkman, John A."
+title: "A New Simbar-Šipak Fragment"
+volume_no_: "5"
+publication_year: "1991"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "A New Simbar-Šipak Fragment"
+previous_item: "13126"
+---

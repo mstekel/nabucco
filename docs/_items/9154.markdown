@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9154"
+occurrence_id: "2150"
+short_title: "JCS 14 (1960), 59-68"
+author: "Cameron, George G."
+publication_year: "1960"
+title: "The Elamite Version of the Bisitun Inscriptions"
+volume_no_: "14"
+pages: "59-68"
+journal: "Journal of Cuneiform Studies"
+title: "The Elamite Version of the Bisitun Inscriptions"
+previous_item: "9157"
+---

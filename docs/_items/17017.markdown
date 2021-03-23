@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17017"
+occurrence_id: "493"
+short_title: "Lecoq 1997"
+author: "Lecoq, Pierre "
+publication_year: "1997"
+title: "Les inscriptions de la Perse achémenide. Traduit du vieux perse, de l´élamite, du babylonien et de l´araméen"
+title: "Les inscriptions de la Perse achémenide. Traduit du vieux perse, de l´élamite, du babylonien et de l´araméen"
+previous_item: "17020"
+---

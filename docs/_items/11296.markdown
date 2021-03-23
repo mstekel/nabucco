@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11296"
+occurrence_id: "1655"
+short_title: "BiOr 30 (1973 publ. 1974), 363-366"
+author: "Kutscher, Raphael"
+publication_year: "1973 publ. 1974"
+title: "Imittu Postponed and Replaced: A New Document"
+volume_no_: "30"
+pages: "363-366"
+journal: "Bibliotheca Orientalis"
+title: "Imittu Postponed and Replaced: A New Document"
+previous_item: "11299"
+---

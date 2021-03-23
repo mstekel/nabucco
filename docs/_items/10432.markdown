@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10432"
+occurrence_id: "2996"
+short_title: "RA 1 (1884/85), 124-147"
+author: "Oppert, Jules"
+publication_year: "1884/85"
+title: "Les Mesures Assyriennes de capacité en deux exemplaires"
+volume_no_: "1"
+pages: "124-147"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "Les Mesures Assyriennes de capacité en deux exemplaires"
+previous_item: "10435"
+---

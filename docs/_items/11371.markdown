@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11371"
+occurrence_id: "2058"
+short_title: "JAOS 102 (1982), 115-117"
+author: "Zadok, Ran"
+publication_year: "1982"
+title: "Three Non-Akkadian Words in Late-Babylonian Documents"
+volume_no_: "102"
+pages: "115-117"
+journal: "Journal of the American Oriental Society"
+title: "Three Non-Akkadian Words in Late-Babylonian Documents"
+previous_item: "11374"
+---

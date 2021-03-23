@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9757"
+occurrence_id: "2378"
+short_title: "Kratylos 39 (1994), 82-89"
+author: "Schmitt, Rüdiger"
+publication_year: "1994"
+title: "Rv. M.A. Dandamayev, Iranians in Achaemenid Babylonia (1992)"
+volume_no_: "39"
+pages: "82-89"
+journal: "Kratylos"
+title: "Rv. M.A. Dandamayev, Iranians in Achaemenid Babylonia (1992)"
+previous_item: "9760"
+---

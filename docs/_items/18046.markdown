@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18046"
+occurrence_id: "483"
+short_title: "Kugler 1900"
+author: "Kugler, Franz X. "
+publication_year: "1900"
+title: "Die Babylonische Mondrechung. Zwei Systeme der Chaldäer über den Lauf des Mondes and der Sonne"
+title: "Die Babylonische Mondrechung. Zwei Systeme der Chaldäer über den Lauf des Mondes and der Sonne"
+previous_item: "18049"
+---

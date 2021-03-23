@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8848"
+occurrence_id: "3527"
+short_title: "ZA 95(2005), 303-306."
+author: "MacGinnis, John"
+publication_year: "2005"
+title: "Rv. P.-A. Beaulieu, the Pantheon of Uruk during the Neo-BabylonianPeriod (Cuneiform Monographs 23)"
+volume_no_: "95"
+pages: "303-306"
+journal: "Zeitschrift für Assyriologie"
+title: "Rv. P.-A. Beaulieu, the Pantheon of Uruk during the Neo-BabylonianPeriod (Cuneiform Monographs 23)"
+previous_item: "8851"
+---

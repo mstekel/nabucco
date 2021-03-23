@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9031"
+occurrence_id: "1490"
+short_title: "ArOr 5 (1933), 61-77"
+author: "Nicolò, Mariano, San"
+publication_year: "1933"
+title: "Parerga Babyloniaca IX: Der Monstreprozess des Gimillus, eines širku von Eanna"
+volume_no_: "5"
+pages: "61-77"
+journal: "Archív Orientalí"
+title: "Parerga Babyloniaca IX: Der Monstreprozess des Gimillus, eines širku von Eanna"
+previous_item: "9034"
+---

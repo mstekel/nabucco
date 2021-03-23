@@ -1,0 +1,12 @@
+---
+layout: "bibliography"
+slug: "18133"
+occurrence_id: "94"
+short_title: "Peek"
+author: "Peek, Henry William"
+publication_year: "1888"
+title: "Inscribed Babylonian Tablets: In The Possession Of Sir Henry Peek, Bart"
+related_objects: "7620"
+title: "Inscribed Babylonian Tablets: In The Possession Of Sir Henry Peek, Bart"
+previous_item: "18136"
+---

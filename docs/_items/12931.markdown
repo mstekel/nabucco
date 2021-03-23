@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12931"
+occurrence_id: "1448"
+short_title: "Arch. Anz. 3 (1967), 281-298"
+author: "Trümpelmann, Leo"
+publication_year: "1967"
+title: "Zur Entstehungsgeschichte des Monuments Dareios´ I. von Bisutun und zur Datierung der Einführung der altpersischen Schrift"
+volume_no_: "3"
+pages: "281-298"
+journal: "Archäologischer Anzeiger"
+title: "Zur Entstehungsgeschichte des Monuments Dareios´ I. von Bisutun und zur Datierung der Einführung der altpersischen Schrift"
+previous_item: "12934"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7912"
+occurrence_id: "1504"
+short_title: "ArOr 68 (2000), 621-622"
+author: "Pečírková, Jana"
+publication_year: "2000"
+title: "Rv. D.S. Vanderhooft, The Neo-Babylonian Empire and Babylon in the Latter Prophets (HSM 59, 1999)"
+volume_no_: "68"
+pages: "621-622"
+journal: "Archív Orientalí"
+title: "Rv. D.S. Vanderhooft, The Neo-Babylonian Empire and Babylon in the Latter Prophets (HSM 59, 1999)"
+previous_item: "7915"
+---

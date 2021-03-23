@@ -1,0 +1,14 @@
+---
+layout: "tablet"
+slug: "29650"
+object_id: "7304"
+museum_no_: "BM 31936"
+publication: "CT 22"
+text_number: "109"
+period: "-"
+type_and_content: "Letters"
+publication_name: "CT 22 109"
+archive: "Egibi/Nūr-Sîn"
+title: "BM 31936"
+previous_item: "29653"
+---

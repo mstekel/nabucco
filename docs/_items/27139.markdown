@@ -1,0 +1,18 @@
+---
+layout: "tablet"
+slug: "27139"
+object_id: "5700"
+museum_no_: "BM 26790"
+period: "ENB"
+place_of_issue: "Borsippa city"
+day_remark: "no day"
+month: "IV"
+month_remark: "-"
+year: "1"
+year_remark: "-"
+king: "Shalmaneser V"
+king_remark: "-"
+imported: "Melanie Gross (26/05/2016)"
+title: "BM 26790"
+previous_item: "27145"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8470"
+occurrence_id: "1489"
+short_title: "ArOr 5 (1933), 284-302"
+author: "Nicolò, Mariano, San"
+publication_year: "1933"
+title: "Parerga Babyloniaca X-XI"
+volume_no_: "5"
+pages: "284-302"
+journal: "Archív Orientalí"
+title: "Parerga Babyloniaca X-XI"
+previous_item: "8473"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18769"
+occurrence_id: "4274"
+short_title: "Weisberg 2000"
+author: "Weisberg, David B."
+publication_year: "2000"
+title: "Pirqūti or Širkūti? Was Ištar-ab-uṣur´s Freedom Affirmed or Was the Re-enslaved?"
+pages: "1163-1177"
+editor: "Graziani, Simonetta"
+book: "Studi sul vicino oriente antico dedicati alla memoria di Luigi Cagni (Napoli)"
+title: "Pirqūti or Širkūti? Was Ištar-ab-uṣur´s Freedom Affirmed or Was the Re-enslaved?"
+previous_item: "18772"
+---

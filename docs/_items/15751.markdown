@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15751"
+occurrence_id: "1583"
+short_title: "BASOR 119 (1950), 25"
+author: "Albright, William F."
+publication_year: "1950"
+title: "Rv. I. Mendelsohn, Slavery in the Ancient Near East"
+volume_no_: "119"
+pages: "25"
+journal: "Bulletin of the American Schools of Oriental Research"
+title: "Rv. I. Mendelsohn, Slavery in the Ancient Near East"
+previous_item: "15754"
+---

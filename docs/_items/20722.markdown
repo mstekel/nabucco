@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20722"
+occurrence_id: "4780"
+short_title: "Jursa 2002a"
+author: "Jursa, Michael"
+publication_year: "2002"
+title: "Debts and Indebtedness in the Neo-Babylonian Period: Evidence from the Institutional Archives"
+pages: "197-220"
+editor: "Hudson, Michael"
+book: "Debt and Economic Renewal in the Ancient Near East, International Scholars Conference on Ancient Near Eastern Economies, Volume 3 (Bethesda)"
+title: "Debts and Indebtedness in the Neo-Babylonian Period: Evidence from the Institutional Archives"
+previous_item: "20725"
+---

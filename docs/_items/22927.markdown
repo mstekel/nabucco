@@ -1,0 +1,10 @@
+---
+layout: "archive"
+slug: "22927"
+archive_id: "220"
+archive_name: "Egibi"
+is_part_of: "Dilbat"
+related_objects: "5524"
+title: "Egibi"
+previous_item: "22930"
+---

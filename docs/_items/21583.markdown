@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21583"
+occurrence_id: "4960"
+short_title: "Vargyas 2007"
+author: "Vargyas, Péter"
+publication_year: "2007"
+title: "Astronomische Tagebücher and Preislisten"
+pages: "531-540"
+editor: "Köhbach, Markus "
+book: "Festschrift für Hermann Hunger zum 65. Geburtstag: gewidmet von seinen Freunden, Kollegen und Schülern, WZKM 97 (Wien)"
+title: "Astronomische Tagebücher and Preislisten"
+previous_item: "21586"
+---

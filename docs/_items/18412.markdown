@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18412"
+occurrence_id: "358"
+short_title: "Cohen 1988 (CLAM)"
+author: "Cohen, Mark E. "
+publication_year: "1988"
+title: "The Canonical Lamentations of Ancient Mesopotamia"
+title: "The Canonical Lamentations of Ancient Mesopotamia"
+previous_item: "18415"
+---

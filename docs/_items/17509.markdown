@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17509"
+occurrence_id: "351"
+short_title: "Carter 1984"
+author: "Carter, Elizabeth "
+publication_year: "1984"
+title: "Elam. Surveys of Political History and Archaeology"
+title: "Elam. Surveys of Political History and Archaeology"
+previous_item: "17512"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13570"
+occurrence_id: "1886"
+short_title: "Historia 4 (1955), 113-114"
+author: "Bengston, Hermann"
+publication_year: "1955"
+title: "Neue Seleukidendaten"
+volume_no_: "4"
+pages: "113-114"
+journal: "Historia"
+title: "Neue Seleukidendaten"
+previous_item: "13573"
+---

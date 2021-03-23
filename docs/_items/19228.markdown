@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19228"
+occurrence_id: "4517"
+short_title: "Hunger 2002"
+author: "Hunger, Hermann"
+publication_year: "2002"
+title: "Über die Bedeutungslosigkeit der Finsternisse in Enūna Anu Enlil für die Chronologie"
+pages: "171-176"
+editor: "Schaudig, Hanspeter"
+book: "Ex Mesopotamia et Syria Lux. Fs. Dietrich. AOAT 281 (Münster)"
+title: "Über die Bedeutungslosigkeit der Finsternisse in Enūna Anu Enlil für die Chronologie"
+previous_item: "19231"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7705"
+occurrence_id: "3409"
+short_title: "ZA 52 (1957), 339-342"
+author: "van der Waerden, Bartel L."
+publication_year: "1957"
+title: "Rv. A.J. Sachs (- Schaumberger), Late Babylonian Astronomical and Related Texts"
+volume_no_: "52"
+pages: "339-342"
+journal: "Zeitschrift für Assyriologie"
+title: "Rv. A.J. Sachs (- Schaumberger), Late Babylonian Astronomical and Related Texts"
+previous_item: "7708"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18610"
+occurrence_id: "4530"
+short_title: "Diakonoff 1981"
+author: "Diakonoff, Igor M."
+publication_year: "1981"
+title: "The Cimmerians"
+pages: "103-140"
+editor: "Duchesne-Guillemin, Jacques"
+book: "Monumentum Georg Morgenstierne I, Acta Iranica 21 (Leiden)"
+title: "The Cimmerians"
+previous_item: "18613"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10729"
+occurrence_id: "1606"
+short_title: "BCSMS 28 (1994), 37-42"
+author: "Beaulieu, Paul-A."
+publication_year: "1994"
+title: "Antiquarianism and the concern for the Past in the Neo-Babylonian Period"
+volume_no_: "28"
+pages: "37-42"
+journal: "Bulletin. The Canadian Society for Mesopotamian Studies"
+title: "Antiquarianism and the concern for the Past in the Neo-Babylonian Period"
+previous_item: "10732"
+---

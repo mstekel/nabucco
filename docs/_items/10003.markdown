@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10003"
+occurrence_id: "3705"
+short_title: "Gymnasium 73 (1966), 561-564"
+author: "Walser, Gerold"
+publication_year: "1966"
+title: "Audienz beim persischen Großkönig"
+volume_no_: "73"
+pages: "561-564"
+journal: "Gymnasium"
+title: "Audienz beim persischen Großkönig"
+previous_item: "10006"
+---

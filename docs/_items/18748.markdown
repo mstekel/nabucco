@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "18748"
+occurrence_id: "4162"
+short_title: "Heller 2010a"
+author: "Heller, André"
+publication_year: "2010"
+title: "Griechen in Babylonien: War Ktesiphon eine griechische Gründung?"
+pages: "519-532"
+editor: "Rollinger, Robert"
+title: "Griechen in Babylonien: War Ktesiphon eine griechische Gründung?"
+previous_item: "18751"
+---

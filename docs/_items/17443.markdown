@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17443"
+occurrence_id: "748"
+short_title: "Briant 1996"
+author: "Briant, Pierre "
+publication_year: "1996"
+title: "Histoire de l'empire perse de Cyrus à Alexandre, Achaemenid History 10 (Paris)"
+title: "Histoire de l'empire perse de Cyrus à Alexandre, Achaemenid History 10 (Paris)"
+previous_item: "17446"
+---

@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "19936"
+occurrence_id: "4984"
+short_title: "Rzchiladze 1968"
+author: "Rzchiladze, R.S."
+publication_year: "1968"
+title: "Aus der Geschichte des Neubabylonischen Königreiches (Der Feldzug der Perser nach Babylon im Jahre 538 v. Chr.) (in Russ.)"
+pages: "22"
+book: "Краткая Литературная Энциклопедия I (Москва 1962) [Kratkaja Literaturnaja Ènciklopedija I (Moskva 1962)]"
+title: "Aus der Geschichte des Neubabylonischen Königreiches (Der Feldzug der Perser nach Babylon im Jahre 538 v. Chr.) (in Russ.)"
+previous_item: "19939"
+---

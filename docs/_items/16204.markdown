@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "16204"
+occurrence_id: "4021"
+short_title: "RA 108 (2014), 71-92"
+author: "Sandowicz, Malgorzata"
+publication_year: "2014"
+title: "Court of Assize at Neo-Babylonian Apšu"
+volume_no_: "108"
+pages: "71-92"
+title: "Court of Assize at Neo-Babylonian Apšu"
+previous_item: "16207"
+---

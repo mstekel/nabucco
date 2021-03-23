@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "34909"
+place_id: "1353"
+parent_id: "70"
+place_name: "Ālu-ša-Ṭūb-Yaw"
+related_objects: "2305"
+title: "Ālu-ša-Ṭūb-Yaw"
+previous_item: "34912"
+---

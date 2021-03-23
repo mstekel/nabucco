@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14059"
+occurrence_id: "1515"
+short_title: "ASJ 10 (1988), 229-230"
+author: "Watanabe, Kazuko"
+publication_year: "1988"
+title: "Ein neuer Beleg für das \"Bett\" des Gottes Šamaš"
+volume_no_: "10"
+pages: "229-230"
+journal: "Acta Sumerologica"
+title: "Ein neuer Beleg für das \"Bett\" des Gottes Šamaš"
+previous_item: "14062"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12388"
+occurrence_id: "1528"
+short_title: "Assur 4/3 (1984), 1-28 = 71-98"
+author: "Zadok, Ran"
+publication_year: "1984"
+title: "Assyrians in Chaldean and Achaemenian Babylonia"
+volume_no_: "4/3."
+pages: "1-28=71-98"
+journal: "Assur"
+title: "Assyrians in Chaldean and Achaemenian Babylonia"
+previous_item: "12391"
+---

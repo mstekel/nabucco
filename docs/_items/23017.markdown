@@ -1,0 +1,9 @@
+---
+layout: "archive"
+slug: "23017"
+archive_id: "136"
+archive_name: "Atkuppu"
+is_part_of: "Borsippa"
+title: "Atkuppu"
+previous_item: "23020"
+---

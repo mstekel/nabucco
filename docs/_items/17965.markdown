@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17965"
+occurrence_id: "787"
+short_title: "Garrison;Root 1996"
+author: "Garrison, Mark B. "
+publication_year: "1996"
+title: "Persepolis Seal Studies. An Introduction with Provisional Concordances of Seal Numbers and Associated Documents on Fortification Tablets 1-2087, Achaemenid History 9 (Leiden)"
+title: "Persepolis Seal Studies. An Introduction with Provisional Concordances of Seal Numbers and Associated Documents on Fortification Tablets 1-2087, Achaemenid History 9 (Leiden)"
+previous_item: "17968"
+---

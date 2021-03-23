@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17677"
+occurrence_id: "585"
+short_title: "Spar 1972"
+author: "Spar, Ira "
+publication_year: "1972"
+title: "Studies in Neo-Babylonian Economic and Legal Texts."
+title: "Studies in Neo-Babylonian Economic and Legal Texts."
+previous_item: "17680"
+---

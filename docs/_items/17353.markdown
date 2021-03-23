@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17353"
+occurrence_id: "4106"
+short_title: "Steinert 2012"
+author: "Steinert, Ulrike "
+publication_year: "2012"
+title: "Aspekte des Menschseins im Alten Mesopotamien: Eine Studie zu Person und Identität im 2. und 1. Jt. v. Chr., Cuneiform Monographs 44 (Leiden/Boston)"
+title: "Aspekte des Menschseins im Alten Mesopotamien: Eine Studie zu Person und Identität im 2. und 1. Jt. v. Chr., Cuneiform Monographs 44 (Leiden/Boston)"
+previous_item: "17356"
+---

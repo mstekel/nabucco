@@ -1,0 +1,16 @@
+---
+layout: "tablet"
+slug: "30355"
+object_id: "7649"
+museum_no_: "Museo di Storia Triest"
+publication: "Wunsch 2000"
+text_number: "70A"
+duplicate: "BM 32204+"
+imported: "Kathleen Abraham 20/12/2016"
+publication_name: "Wunsch 2000 70A"
+archive: "Egibi/Nūr-Sîn"
+bibliography: "Kohler and Peiser, BRL 1 (1890), 69; Krecher 1970, 212; Archi, OrAn 14 (1975), 13."
+related_objects: "7612"
+title: "Museo di Storia Triest"
+previous_item: "30358"
+---

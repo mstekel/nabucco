@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14011"
+occurrence_id: "1254"
+short_title: "AfO 50 (2003/2004), 150-173"
+author: "Waerzeggers, Caroline"
+publication_year: "2003-2004"
+title: "The Babylonian Revolts against Xerxes and the 'End of Archives'"
+volume_no_: "50"
+pages: "150-173"
+journal: "Archiv für Orientforschung"
+title: "The Babylonian Revolts against Xerxes and the 'End of Archives'"
+previous_item: "14014"
+---

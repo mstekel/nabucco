@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "20938"
+occurrence_id: "4829"
+short_title: "Dandamayev 1962"
+author: "Dandamayev, Muhammed A."
+publication_year: "1962"
+title: "Uvāmaršiyus amariyatā der Behistun-Inschrift (in Russ.)"
+pages: "371-376"
+book: "Древний мир (Сборник статей. Академику В. В. Струве 1962) [Drevnij mir (Sbornik statej. Akademiku V. V. Struve 1962)]"
+title: "Uvāmaršiyus amariyatā der Behistun-Inschrift (in Russ.)"
+previous_item: "20941"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12727"
+occurrence_id: "3354"
+short_title: "WZJ 20 (1971), 141-149"
+author: "Oelsner, Joachim"
+publication_year: "1971"
+title: "War Nippur Sitz einer spätbabylonischen Astronomenschule?"
+volume_no_: "20"
+pages: "141-149"
+journal: "Wissenschaftliche Zeitschrift der Friedrich-Schiller-Universtät Jena"
+title: "War Nippur Sitz einer spätbabylonischen Astronomenschule?"
+previous_item: "12730"
+---

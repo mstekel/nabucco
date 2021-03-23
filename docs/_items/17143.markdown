@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17143"
+occurrence_id: "475"
+short_title: "Koschaker 1911"
+author: "Koschaker, Paul "
+publication_year: "1911"
+title: "Babylonisch-assyrisches Bürgschaftsrecht. Beitrag zur Lehre von Schuld und Haftung"
+title: "Babylonisch-assyrisches Bürgschaftsrecht. Beitrag zur Lehre von Schuld und Haftung"
+previous_item: "17146"
+---

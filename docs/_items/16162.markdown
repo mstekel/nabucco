@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "16162"
+occurrence_id: "3796"
+short_title: "Natural Phenomena (1992), 39-52"
+author: "van Driel, Govert"
+publication_year: "1992"
+title: "Weathe R. Between the Natural und the Unnatural in First Millenium Cuneiform Inscriptions"
+pages: "39-52"
+journal: "Natural Phenomena"
+title: "Weathe R. Between the Natural und the Unnatural in First Millenium Cuneiform Inscriptions"
+previous_item: "16165"
+---

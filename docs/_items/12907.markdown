@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12907"
+occurrence_id: "1318"
+short_title: "Akkadica 123/2 (2002), 145-152"
+author: "Tavernier, Jan"
+publication_year: "2002"
+title: "Non-Elamite Individuals in Achaemenid Persepolis"
+volume_no_: "123/5"
+pages: "145-152"
+journal: "Akkadica"
+title: "Non-Elamite Individuals in Achaemenid Persepolis"
+previous_item: "12910"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8299"
+occurrence_id: "3590"
+short_title: "A Journal of Religion and Religious 11 (1981), 39-59"
+author: "Black, Jeremy A."
+publication_year: "1981"
+title: "The New Year Ceremonies in Ancient Babylon: \"Taking Bel by theHand\" and a Cultic Picnic: Religion"
+volume_no_: "11"
+pages: "39-59"
+journal: "Religion"
+title: "The New Year Ceremonies in Ancient Babylon: \"Taking Bel by theHand\" and a Cultic Picnic: Religion"
+previous_item: "8302"
+---

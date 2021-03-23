@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9379"
+occurrence_id: "3364"
+short_title: "WZKM 67 (1975 publ. 1976), 293-294"
+author: "Butz, Kilian"
+publication_year: "1975 publ. 1976"
+title: "Rv. E. Salonen, Die Gruss- und Höflichkeitsformen in babylonisch-assyrischen Briefen (StOr 38)"
+volume_no_: "67"
+pages: "293-294"
+journal: "Wiener Zeitschrift für die Kunde des Morgenlandes"
+title: "Rv. E. Salonen, Die Gruss- und Höflichkeitsformen in babylonisch-assyrischen Briefen (StOr 38)"
+previous_item: "9382"
+---

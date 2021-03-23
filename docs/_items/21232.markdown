@@ -1,0 +1,12 @@
+---
+layout: "bibliography"
+slug: "21232"
+occurrence_id: "4190"
+short_title: "Wilkens 2000"
+author: "Wilkens, Barbara"
+publication_year: "2000"
+title: "Archaeozoology. Westwards: the Fauna of Tell Afis (Syria)"
+pages: "5-14."
+title: "Archaeozoology. Westwards: the Fauna of Tell Afis (Syria)"
+previous_item: "21235"
+---

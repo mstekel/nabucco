@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34678"
+place_id: "1198"
+parent_id: "61"
+place_name: "Rāṭu"
+title: "Rāṭu"
+previous_item: "34681"
+---

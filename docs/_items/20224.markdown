@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20224"
+occurrence_id: "4329"
+short_title: "Ebeling 1959a"
+author: "Ebeling, Erich"
+publication_year: "1959"
+title: "Fremdwort"
+pages: "112"
+editor: "Meissner, Bruno"
+book: "Reallexikon der Assyriologie 3 (1959)"
+title: "Fremdwort"
+previous_item: "20227"
+---

@@ -1,0 +1,14 @@
+---
+layout: "tablet"
+slug: "30385"
+object_id: "7100"
+museum_no_: "BM 31041"
+publication: "CT 22"
+text_number: "73"
+period: "-"
+type_and_content: "Letters"
+publication_name: "CT 22 73"
+archive: "Egibi/Nūr-Sîn"
+title: "BM 31041"
+previous_item: "30388"
+---

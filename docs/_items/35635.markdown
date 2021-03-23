@@ -1,0 +1,10 @@
+---
+layout: "glossary"
+slug: "35635"
+concept_id: "1537"
+label: "Real estate - Other"
+hierarchy: "Content type"
+type: "172"
+title: "Real estate - Other"
+previous_item: "35638"
+---

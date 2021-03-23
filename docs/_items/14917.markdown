@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14917"
+occurrence_id: "3132"
+short_title: "REA 57 (1955), 102-112"
+author: "Aymard, André"
+publication_year: "1955"
+title: "Du nouveau sur la chronologie des Séleucides"
+volume_no_: "57"
+pages: "102-112"
+journal: "Revue des études anciennes"
+title: "Du nouveau sur la chronologie des Séleucides"
+previous_item: "14920"
+---

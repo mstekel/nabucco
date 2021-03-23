@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20293"
+occurrence_id: "4698"
+short_title: "Brack-Bernsen 2007"
+author: "Brack-Bernsen, Lis"
+publication_year: "2007"
+title: "The 360-Day Year in Mesopotamia."
+pages: "83-100"
+editor: "Steele, John M."
+book: "Calendars and Years - Astronomy and Time in the Ancient Near East (Oxford)"
+title: "The 360-Day Year in Mesopotamia."
+previous_item: "20296"
+---

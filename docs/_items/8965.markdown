@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8965"
+occurrence_id: "702"
+short_title: "Pinches, BOR 2 (1887/8)"
+author: "Pinches, Theophilus G."
+publication_year: "1887/8"
+title: "A Babylonian Dower-contract"
+volume_no_: "2"
+pages: "1-8"
+journal: "The Babylonian and Oriental Record"
+title: "A Babylonian Dower-contract"
+previous_item: "8971"
+---

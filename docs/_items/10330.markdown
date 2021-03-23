@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "10330"
+occurrence_id: "2443"
+short_title: "NABU 1987/63"
+author: "Brinkman, John A."
+publication_year: "1987"
+title: "BM 36761, the Astronomical Diary for 331 B.C."
+volume_no_: "63"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "BM 36761, the Astronomical Diary for 331 B.C."
+previous_item: "10333"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10975"
+occurrence_id: "2931"
+short_title: "Or 70/2 (2001), 204-205"
+author: "Koch, Heidemarie"
+publication_year: "2001"
+title: "Rv. D.T. Potts, the Archaeology of Elam: Formation and Transformation of an Ancient Iranian Site (Cambridge 1999)"
+volume_no_: "70/2"
+pages: "204-205"
+journal: "Orientalia"
+title: "Rv. D.T. Potts, the Archaeology of Elam: Formation and Transformation of an Ancient Iranian Site (Cambridge 1999)"
+previous_item: "10978"
+---

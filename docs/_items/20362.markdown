@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20362"
+occurrence_id: "5066"
+short_title: "Schmitt 1998"
+author: "Schmitt, Rüdiger"
+publication_year: "1998"
+title: "Tradition and Innovation. Zu indoiranischen Formeln and Fügungen im Altpersischen"
+pages: "635-644"
+editor: "Melchert, H.C."
+book: "Mír Curad, Fs.Watkins (Innsbruck)"
+title: "Tradition and Innovation. Zu indoiranischen Formeln and Fügungen im Altpersischen"
+previous_item: "20365"
+---

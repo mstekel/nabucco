@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14056"
+occurrence_id: "1499"
+short_title: "ArOr 6 (1934), 335-341"
+author: "Nicolò, Mariano, San"
+publication_year: "1934"
+title: "Parerga Babyloniaca XIII-XIV"
+volume_no_: "6"
+pages: "335-341"
+journal: "Archív Orientalí"
+title: "Parerga Babyloniaca XIII-XIV"
+previous_item: "14059"
+---

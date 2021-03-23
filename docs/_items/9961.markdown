@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9961"
+occurrence_id: "3479"
+short_title: "ZA 86 (1996), 148-150"
+author: "Cavigneaux, Antoine"
+publication_year: "1996"
+title: "Rv. E. von Weiher, Uruk. Spätbabylonische Texte aus dem Planquadrat U 18. Teil IV (AUWE 12, 1993)"
+volume_no_: "86"
+pages: "148-150"
+journal: "Zeitschrift für Assyriologie"
+title: "Rv. E. von Weiher, Uruk. Spätbabylonische Texte aus dem Planquadrat U 18. Teil IV (AUWE 12, 1993)"
+previous_item: "9964"
+---

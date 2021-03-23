@@ -1,0 +1,10 @@
+---
+layout: "glossary"
+slug: "35581"
+concept_id: "1318"
+label: "Indeterminate administrative text"
+hierarchy: "Content type"
+type: "172"
+title: "Indeterminate administrative text"
+previous_item: "35584"
+---

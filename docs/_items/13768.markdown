@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13768"
+occurrence_id: "2954"
+short_title: "Oriens 13-14 (1961), 362-363"
+author: "Goeseke, H."
+publication_year: "1961"
+title: "Rv. R.A. Parker and W.H. Dubberstein, Babylonian Chronology 626 B.C. - A.D. 75 (1956)"
+volume_no_: "13-14"
+pages: "362-363"
+journal: "Oriens. Zeitschrift der Internationalen Gesellschaft für Orientforschung"
+title: "Rv. R.A. Parker and W.H. Dubberstein, Babylonian Chronology 626 B.C. - A.D. 75 (1956)"
+previous_item: "13771"
+---

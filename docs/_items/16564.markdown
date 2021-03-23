@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16564"
+occurrence_id: "861"
+short_title: "Pedde;Heinz;Müller-Neuhof 2000"
+author: "Heinz, Marlies "
+publication_year: "2000"
+title: "Uruk - Kleinfande IV - Metall- und Steinobjekte im Vorderasiatischen Museum zu Berlin, AUWE 21 (Mainz am Rhein)"
+title: "Uruk - Kleinfande IV - Metall- und Steinobjekte im Vorderasiatischen Museum zu Berlin, AUWE 21 (Mainz am Rhein)"
+previous_item: "16567"
+---

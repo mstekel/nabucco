@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "34246"
+place_id: "1387"
+parent_id: "37"
+place_name: "(Bīt) Hahhuru"
+related_objects: "7978"
+title: "(Bīt) Hahhuru"
+previous_item: "34249"
+---

@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "9508"
+occurrence_id: "4057"
+short_title: "JNES 71/1 (2012), 47-52"
+author: "Zawadzki, Stefan"
+publication_year: "2012"
+title: "The End of the Neo-Babylonian Empire: New Strata Concerning Nabonidus’s Order to Send the Statues of Gods to Babylon"
+volume_no_: "71/1"
+pages: "47-52"
+title: "The End of the Neo-Babylonian Empire: New Strata Concerning Nabonidus’s Order to Send the Statues of Gods to Babylon"
+previous_item: "9511"
+---

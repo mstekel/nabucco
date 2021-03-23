@@ -1,0 +1,9 @@
+---
+layout: "archive"
+slug: "23083"
+archive_id: "495"
+archive_name: "Atkuppu I"
+is_part_of: "Atkuppu"
+title: "Atkuppu I"
+previous_item: "24790"
+---

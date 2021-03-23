@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12445"
+occurrence_id: "1836"
+short_title: "Culture and History 11 (1992), 13-22"
+author: "Stolper, Matthew W."
+publication_year: "1992"
+title: "On Why and How"
+volume_no_: "11"
+pages: "13-22"
+journal: "Culture and History"
+title: "On Why and How"
+previous_item: "12448"
+---

@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "10936"
+occurrence_id: "2720"
+short_title: "NABU 2009/15"
+author: "Schaudig, Hanspeter"
+title: "The Colophon of the Sippar Text of the \"Weidner Chronicle\""
+volume_no_: "15"
+publication_year: "2009"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "The Colophon of the Sippar Text of the \"Weidner Chronicle\""
+previous_item: "10939"
+---

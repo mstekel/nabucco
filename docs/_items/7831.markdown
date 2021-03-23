@@ -1,0 +1,15 @@
+---
+layout: "bibliography"
+slug: "7831"
+occurrence_id: "177"
+short_title: "Falkner, AfO 16"
+author: "Falkner, Margarete"
+publication_year: "1952-53"
+title: "Neue Inschriften aus der Zeit Sin-šarru-iškuns"
+volume_no_: "16"
+pages: "305-310 (+ Tab. XV-XVI)"
+related_objects: "5707"
+journal: "Archiv für Orientforschung"
+title: "Neue Inschriften aus der Zeit Sin-šarru-iškuns"
+previous_item: "7834"
+---

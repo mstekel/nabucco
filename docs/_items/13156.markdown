@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "13156"
+occurrence_id: "2659"
+short_title: "NABU 2004/103"
+author: "Waerzeggers, Caroline"
+title: "A misidentified daughter of Nabonidus."
+volume_no_: "103"
+publication_year: "2004"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "A misidentified daughter of Nabonidus."
+previous_item: "13159"
+---

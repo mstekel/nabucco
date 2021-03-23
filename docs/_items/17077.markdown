@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17077"
+occurrence_id: "866"
+short_title: "Reiner 1969"
+author: "Reiner, Erica "
+publication_year: "1969"
+title: "The Elamite Language, HdO I and II, 54-118 (Leiden; Köln)"
+title: "The Elamite Language, HdO I and II, 54-118 (Leiden; Köln)"
+previous_item: "17080"
+---

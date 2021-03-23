@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20656"
+occurrence_id: "4428"
+short_title: "Dumézil 1984"
+author: "Dumézil, Georges"
+publication_year: "1984"
+title: "L'inthronisation de Darius"
+pages: "143-149"
+editor: "Duchesne-Guillemin, Jacques"
+book: "Orientalia J. Duchesne-Guillemin emerito oblata, Acta Iranica 23, Deuxième série: Hommages et opera minora, Duchesne-Guillemin, Vol. IV (Leiden)"
+title: "L'inthronisation de Darius"
+previous_item: "20659"
+---

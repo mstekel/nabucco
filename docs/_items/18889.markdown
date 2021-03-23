@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18889"
+occurrence_id: "4915"
+short_title: "Corò Capitanio 2014"
+author: "Corò Capitanio, Paola"
+publication_year: "2014"
+title: "Food for the Humans and Food for the Gods: ṣidit ilāni and ṣidītu"
+pages: "327-337"
+editor: "Milano, Lucio"
+book: "Paleonutrition and Food Practices in the Ancient Near East. Towards a Multidisciplinary Approach. Proceedings of the International Meeting Methods and Perspectives Applied to the Study of Food Practices in the Ancient Near East. Venezia, June 15th - 17th, 2006, History of the Ancient Near East/Monographs 14 (Padua)"
+title: "Food for the Humans and Food for the Gods: ṣidit ilāni and ṣidītu"
+previous_item: "18892"
+---

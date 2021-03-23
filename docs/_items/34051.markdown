@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "34051"
+place_id: "31"
+parent_id: "40"
+place_name: "Addijāja"
+related_objects: "154"
+title: "Addijāja"
+previous_item: "34054"
+---

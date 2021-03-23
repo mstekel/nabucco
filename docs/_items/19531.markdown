@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19531"
+occurrence_id: "5030"
+short_title: "van der Spek 2005"
+author: "van der Spek, Robartus"
+publication_year: "2005"
+title: "Ethnic segregation in Hellenistic Babylon."
+pages: "393-408"
+editor: "van Soldt, Wilfred H."
+book: "Ethnicity in Ancient Mesopotamia. RAI 48, PIHANS 102 (Leiden)"
+title: "Ethnic segregation in Hellenistic Babylon."
+previous_item: "19534"
+---

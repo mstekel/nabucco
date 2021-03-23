@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17902"
+occurrence_id: "391"
+short_title: "Downey 1988"
+author: "Downey, Susan B. "
+publication_year: "1988"
+title: "Mesopotamian Religious Architecture: Alexander through the Parthians"
+title: "Mesopotamian Religious Architecture: Alexander through the Parthians"
+previous_item: "17905"
+---

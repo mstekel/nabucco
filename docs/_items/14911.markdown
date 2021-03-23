@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14911"
+occurrence_id: "3100"
+short_title: "RA 90 (1996), 171-183"
+author: "Zawadzki, Stefan"
+publication_year: "1996"
+title: "Cyrus-Cambyses Coregency"
+volume_no_: "90"
+pages: "171-183"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "Cyrus-Cambyses Coregency"
+previous_item: "14914"
+---

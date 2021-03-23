@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "11722"
+occurrence_id: "3948"
+short_title: "Topoi 19/1 (2014), 57-100"
+author: "Graslin, Laetitia"
+publication_year: "2014"
+title: "De Jérusalem à Babylone. Les relations entre le temple de Jérusalem et les souverains achéménides et hellénistiques"
+volume_no_: "19/1"
+pages: "57-100"
+title: "De Jérusalem à Babylone. Les relations entre le temple de Jérusalem et les souverains achéménides et hellénistiques"
+previous_item: "11725"
+---

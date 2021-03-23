@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11695"
+occurrence_id: "3804"
+short_title: "Numismatic Chronicle and Journal 1 (1961), 119-127"
+author: "Bivar, Adrian David H."
+publication_year: "1961"
+title: "A \"Satrap\" of Cyrus the Younger"
+volume_no_: "v1"
+pages: "119-127"
+journal: "The Numismatic Chronicle and Journal of the Royal Numismatic Society"
+title: "A \"Satrap\" of Cyrus the Younger"
+previous_item: "11698"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19756"
+occurrence_id: "5127"
+short_title: "Young 1988"
+author: "Young, Theodore Cuyler Jr."
+publication_year: "1988"
+title: "The Early History of the Medes and the Persians and the Achaemenid Empire to the death of Cambyses"
+pages: "1-52"
+editor: "Lewis, David M."
+book: "The Cambridge Ancient History. Second Edition. Volume IV. Persia, Greece and the Western Mediterranean c. 525 to 479 B.C (Cambridge)"
+title: "The Early History of the Medes and the Persians and the Achaemenid Empire to the death of Cambyses"
+previous_item: "19759"
+---

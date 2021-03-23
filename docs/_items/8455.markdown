@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8455"
+occurrence_id: "1408"
+short_title: "AÖAW 117 (1980), 55-60"
+author: "Schmitt, Rüdiger"
+publication_year: "1980"
+title: "Zwei unpublizierte Bruchstücke der hronträger-Beischriften des Artaxerxes-Grabes"
+volume_no_: "117"
+pages: "55-60"
+journal: "Anzeiger der Österreichischen Akademie der Wissenschaften"
+title: "Zwei unpublizierte Bruchstücke der hronträger-Beischriften des Artaxerxes-Grabes"
+previous_item: "8458"
+---

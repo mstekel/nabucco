@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "20611"
+occurrence_id: "4187"
+short_title: "Aaboe 1977"
+author: "Aaboe, Asger"
+publication_year: "1977"
+title: "A Computed Cuneiform Text for Mercury from Babylon: BM 48147"
+pages: "1-8"
+editor: "Saltzer, W.G."
+title: "A Computed Cuneiform Text for Mercury from Babylon: BM 48147"
+previous_item: "20614"
+---

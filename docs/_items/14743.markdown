@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14743"
+occurrence_id: "2193"
+short_title: "JCS 47 (1995), 121-123"
+author: "Dandamayev, Muhammed A."
+publication_year: "1995"
+title: "Rv. C. Wunsch, Die Urkunden des babylonischen Geschäftsmannes Iddin-Marduk (CM 3, 1993)"
+volume_no_: "47"
+pages: "121-123"
+journal: "Journal of Cuneiform Studies"
+title: "Rv. C. Wunsch, Die Urkunden des babylonischen Geschäftsmannes Iddin-Marduk (CM 3, 1993)"
+previous_item: "14746"
+---

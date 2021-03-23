@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8620"
+occurrence_id: "2296"
+short_title: "JNES 3 (1944), 232-233"
+author: "Kent, Roland G."
+publication_year: "1944"
+title: "Old Persian Texts V: Darius´ Behistan Inscription. Column V. A Correction"
+volume_no_: "3"
+pages: "232-233"
+journal: "Journal of Near Eastern Studies"
+title: "Old Persian Texts V: Darius´ Behistan Inscription. Column V. A Correction"
+previous_item: "8623"
+---

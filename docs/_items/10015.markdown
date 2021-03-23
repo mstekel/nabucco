@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10015"
+occurrence_id: "3769"
+short_title: "JSS 44 (1999), 110-112"
+author: "Hueter, G"
+publication_year: "1999"
+title: "Rv. S.W. Cole, Nippur IV. the Early Neo-Babylonian Governor´s Archive from Nippur (OIP 114, 1996)"
+volume_no_: "44"
+pages: "110-112"
+journal: "Journal of Semitic Studies"
+title: "Rv. S.W. Cole, Nippur IV. the Early Neo-Babylonian Governor´s Archive from Nippur (OIP 114, 1996)"
+previous_item: "10018"
+---

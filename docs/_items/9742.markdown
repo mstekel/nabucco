@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9742"
+occurrence_id: "2298"
+short_title: "JNES 32 (1973), 148-151"
+author: "Hallock, Richard T."
+publication_year: "1973"
+title: "On the Middle Elamite Verb"
+volume_no_: "32"
+pages: "148-151"
+journal: "Journal of Near Eastern Studies"
+title: "On the Middle Elamite Verb"
+previous_item: "9745"
+---

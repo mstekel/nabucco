@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8503"
+occurrence_id: "1666"
+short_title: "BiOr 38 (1981 publ. 1982), 657-665"
+author: "Zadok, Ran"
+publication_year: "1981 publ. 1982"
+title: "Rv. E.N. von Voigtlander, The Bisitun Inscription of Darius the Great, Babylonian Version"
+volume_no_: "38"
+pages: "657-665"
+journal: "Bibliotheca Orientalis"
+title: "Rv. E.N. von Voigtlander, The Bisitun Inscription of Darius the Great, Babylonian Version"
+previous_item: "8506"
+---

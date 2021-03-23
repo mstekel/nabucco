@@ -1,0 +1,12 @@
+---
+layout: "bibliography"
+slug: "16855"
+occurrence_id: "230"
+short_title: "Joannès 1989"
+author: "Joannès, Francis "
+publication_year: "1989"
+title: "Archives de Borsippa. La famille Ea-ilûta-bâni. Étude d 'un lot d'archives familiales en Babylonie du VIIIe au Ve siècle av. J.-C. École Pratique des Hautes Études, 4e section, Sciences historiques et philologiques. II, Hautes Études Orientales 25 (Genève)  "
+related_objects: "6776"
+title: "Archives de Borsippa. La famille Ea-ilûta-bâni. Étude d 'un lot d'archives familiales en Babylonie du VIIIe au Ve siècle av. J.-C. École Pratique des Hautes Études, 4e section, Sciences historiques et philologiques. II, Hautes Études Orientales 25 (Genève)  "
+previous_item: "16858"
+---

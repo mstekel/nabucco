@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15616"
+occurrence_id: "3875"
+short_title: "ZAW 111 (1999), 583-608"
+author: "Weinberg, Joel P."
+publication_year: "1999"
+title: "The International Elite of the Achaemenid Empire: Reality and Fiction"
+volume_no_: "111"
+pages: "583-608"
+journal: "Zeitschrift für die alttestamentliche Wissenschaft"
+title: "The International Elite of the Achaemenid Empire: Reality and Fiction"
+previous_item: "15619"
+---

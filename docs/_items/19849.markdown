@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19849"
+occurrence_id: "4520"
+short_title: "Hunger 2014"
+author: "Hunger, Hermann"
+publication_year: "2014"
+title: "A Late Babylonian Astrological Tablet"
+pages: "657-669"
+editor: "Csabai, Zoltán"
+book: "Studies in Economic and Social History of the Ancient Near East in Memory of Péter Vargyas (Budapest)"
+title: "A Late Babylonian Astrological Tablet"
+previous_item: "19852"
+---

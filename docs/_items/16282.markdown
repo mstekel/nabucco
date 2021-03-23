@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16282"
+occurrence_id: "1422"
+short_title: "AoF 2 (1975), 71-78"
+author: "Dandamayev, Muhammed A."
+publication_year: "1975"
+title: "Forced Labour in the palace Economy in Achaemenid Iran"
+volume_no_: "2"
+pages: "71-78"
+journal: "Altorientalische Forschungen"
+title: "Forced Labour in the palace Economy in Achaemenid Iran"
+previous_item: "16285"
+---

@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17134"
+occurrence_id: "420"
+short_title: "Goody 1979"
+author: "Goody, Jack "
+publication_year: "1979"
+title: "Succession in High Office"
+title: "Succession in High Office"
+previous_item: "17137"
+---

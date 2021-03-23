@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9964"
+occurrence_id: "3496"
+short_title: "ZA 88 (1998), 72-93"
+author: "Gerber, Manuel"
+publication_year: "1998"
+title: "Die Inschrift H(arran)1.A/B und die neubabylonische Chronologie"
+volume_no_: "88"
+pages: "72-93"
+journal: "Zeitschrift für Assyriologie"
+title: "Die Inschrift H(arran)1.A/B und die neubabylonische Chronologie"
+previous_item: "9967"
+---

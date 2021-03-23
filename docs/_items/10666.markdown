@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10666"
+occurrence_id: "1264"
+short_title: "AfO 51 (2005/2006), 198-219"
+author: "Abraham, Kathleen"
+publication_year: "2005-2006"
+title: "West Semitic and Judean Brides in Cuneiform Sources from the Sixth Century BCE. New Evidence from a Marriage Contract from Al-Yahudu."
+volume_no_: "51"
+pages: "198-219"
+journal: "Archiv für Orientforschung"
+title: "West Semitic and Judean Brides in Cuneiform Sources from the Sixth Century BCE. New Evidence from a Marriage Contract from Al-Yahudu."
+previous_item: "10669"
+---

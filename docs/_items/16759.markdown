@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16759"
+occurrence_id: "472"
+short_title: "Koldewey 1925"
+author: "Koldewey, Robert "
+publication_year: "1925"
+title: "Das wiedererstehende Babylon, 4. Aufl."
+title: "Das wiedererstehende Babylon, 4. Aufl."
+previous_item: "16762"
+---

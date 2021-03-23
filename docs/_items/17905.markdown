@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17905"
+occurrence_id: "410"
+short_title: "Frymer-Kensky 1977"
+author: "Frymer-Kensky, Tikva Simone "
+publication_year: "1977"
+title: "The Judicial Ordeal in the Ancient Near East (Volumes I and II)"
+title: "The Judicial Ordeal in the Ancient Near East (Volumes I and II)"
+previous_item: "17908"
+---

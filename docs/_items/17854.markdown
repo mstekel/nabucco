@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17854"
+occurrence_id: "888"
+short_title: "Schmidt 1953"
+author: "Schmidt, Erich F. "
+publication_year: "1953"
+title: "Persepolis, I. Structures, Reliefs, Inscriptions, OIP 68 (Chicago)"
+title: "Persepolis, I. Structures, Reliefs, Inscriptions, OIP 68 (Chicago)"
+previous_item: "17857"
+---

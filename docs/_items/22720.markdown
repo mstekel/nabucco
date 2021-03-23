@@ -1,0 +1,9 @@
+---
+layout: "archive"
+slug: "22720"
+archive_id: "193"
+archive_name: "Rē'i-alpi"
+is_part_of: "Borsippa"
+title: "Rē'i-alpi"
+previous_item: "22723"
+---

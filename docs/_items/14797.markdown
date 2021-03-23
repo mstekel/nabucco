@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "14797"
+occurrence_id: "2484"
+short_title: "NABU 1991/73"
+author: "Reiter, Karin"
+title: "Drei Nebukadnezar-Ziegelfragmente"
+volume_no_: "73"
+publication_year: "1991"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Drei Nebukadnezar-Ziegelfragmente"
+previous_item: "14800"
+---

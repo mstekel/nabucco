@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9613"
+occurrence_id: "1604"
+short_title: "BCSMS 28 (1994), 19-29"
+author: "Roth, Martha T."
+publication_year: "1994"
+title: "The Neo-Babylonian Family and Household"
+volume_no_: "28"
+pages: "19-29"
+journal: "Bulletin. The Canadian Society for Mesopotamian Studies"
+title: "The Neo-Babylonian Family and Household"
+previous_item: "9616"
+---

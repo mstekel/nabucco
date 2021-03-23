@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8839"
+occurrence_id: "3477"
+short_title: "ZA 84 (1994), 283-288"
+author: "Streck, Michael , P."
+publication_year: "1994"
+title: "Rv. D.B. Weisberg, The Late Babylonian Texts of the Oriental Institute Collection (BibMes 24, 1991)"
+volume_no_: "84"
+pages: "283-288"
+journal: "Zeitschrift für Assyriologie"
+title: "Rv. D.B. Weisberg, The Late Babylonian Texts of the Oriental Institute Collection (BibMes 24, 1991)"
+previous_item: "8842"
+---

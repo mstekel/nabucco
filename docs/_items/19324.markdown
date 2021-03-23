@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19324"
+occurrence_id: "5029"
+short_title: "van der Spek 2004"
+author: "van der Spek, Robartus"
+publication_year: "2004"
+title: "Palace, temple and market in Seleucid Babylonia"
+pages: "303-332"
+editor: "Duyrat, Frédérique"
+book: "Le roi et l'économie: Autonomies locales et structures royales dans l'économie de l'empire séleucide, Topoi Supplément 6 (Lyon)"
+title: "Palace, temple and market in Seleucid Babylonia"
+previous_item: "19327"
+---

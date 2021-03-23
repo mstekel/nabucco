@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16804"
+occurrence_id: "759"
+short_title: "Corò 2005"
+author: ",  "
+publication_year: "2005"
+title: "Prebende templari in età seleucide, HANEM 8 (Padova)"
+title: "Prebende templari in età seleucide, HANEM 8 (Padova)"
+previous_item: "16807"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7783"
+occurrence_id: "3829"
+short_title: "Phoenix 42 (1996), 152-162"
+author: "Bongenaar, A.C.V.M."
+publication_year: "1996"
+title: "Het tempelarchief uit de stad Sippar"
+volume_no_: "42"
+pages: "152-162"
+journal: "Phoenix"
+title: "Het tempelarchief uit de stad Sippar"
+previous_item: "7786"
+---

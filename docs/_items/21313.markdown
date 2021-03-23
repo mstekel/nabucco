@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21313"
+occurrence_id: "4623"
+short_title: "MacGinnis 2010a"
+author: "MacGinnis, John"
+publication_year: "2010"
+title: "The Role of Babylonian Temples in Contributing to the Army in the Early Achaemenid Empire"
+pages: "495-502"
+editor: "Curtis, John"
+book: "The World of Achaemenid Persia: History, Art and Society in Iran and the Ancient Near East (London)"
+title: "The Role of Babylonian Temples in Contributing to the Army in the Early Achaemenid Empire"
+previous_item: "21316"
+---

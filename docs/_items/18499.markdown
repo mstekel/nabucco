@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18499"
+occurrence_id: "893"
+short_title: "Stolper 1993"
+author: "Stolper, Matthew W. "
+publication_year: "1993"
+title: "Late Achaemenid, Early Macedonian, and Early Seleucid Records of Deposit and Related Texts, AION Suppl. 77 (Napoli)"
+title: "Late Achaemenid, Early Macedonian, and Early Seleucid Records of Deposit and Related Texts, AION Suppl. 77 (Napoli)"
+previous_item: "18502"
+---

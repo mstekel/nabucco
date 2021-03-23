@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14989"
+occurrence_id: "3522"
+short_title: "ZA 93 (2003), 137-139"
+author: "Streck, Michael , P."
+publication_year: "2003"
+title: "Rv. E. von Weiher, Uruk. Spätbabylonische Texte aus Planquadrat U 18 (Mainz 1993)"
+volume_no_: "93"
+pages: "137-139"
+journal: "Zeitschrift für Assyriologie"
+title: "Rv. E. von Weiher, Uruk. Spätbabylonische Texte aus Planquadrat U 18 (Mainz 1993)"
+previous_item: "14992"
+---

@@ -1,0 +1,17 @@
+---
+layout: "tablet"
+slug: "31942"
+object_id: "8113"
+museum_no_: "BM 31436"
+publication: "Wunsch 1993"
+text_number: "254 B"
+duplicate: "BM 31612"
+type_and_content: "Promissory notes ina muẖẖi"
+paraphrase: "Promissory note for dates. Fragmentary.<br /> <strong>B</strong> owes 50 kor of dates to <strong>A</strong>. The payment is secured by the pledge of the debtor&#39;s palm grove and grain field located at the [sluice gate(?)] of the Borsippa canal to the [broken off] at the Summi-canal [broken off]. Witnesses.<br /> <br /> <strong>A</strong> = &hellip;/Mu&scaron;ēzib-Bēl//Zēria(?); <strong>B</strong> = &Scaron;arrani/Nergal-<em>x</em>"
+imported: "Kathleen Abraham (07/01/2017)"
+publication_name: "Wunsch 1993 254 B"
+archive: "Egibi/Nūr-Sîn"
+related_objects: "8114"
+title: "BM 31436"
+previous_item: "31945"
+---

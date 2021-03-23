@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20230"
+occurrence_id: "4362"
+short_title: "Joannès 1997b"
+author: "Joannès, Francis"
+publication_year: "1997"
+title: "La situation de la Babylonie dans l´Empire perse"
+pages: "279-286"
+editor: "Andreau, Jean"
+book: "Recherche récentes sur l'empire achéménide, Topoi Supplément 1 (Lyon)"
+title: "La situation de la Babylonie dans l´Empire perse"
+previous_item: "20233"
+---

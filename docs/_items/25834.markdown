@@ -1,0 +1,17 @@
+---
+layout: "tablet"
+slug: "25834"
+object_id: "6013"
+museum_no_: "BM 49318"
+period: "ENB"
+day_remark: "?"
+month: "II"
+month_remark: "-"
+year_remark: "[-]"
+king: "-"
+king_remark: "[-]"
+imported: "Melanie Gross (26/05/2016)"
+day_babylonian_: "10"
+title: "BM 49318"
+previous_item: "25843"
+---

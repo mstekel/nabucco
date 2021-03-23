@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10189"
+occurrence_id: "1686"
+short_title: "BiOr 49 (1993), 453-456"
+author: "Yamauchi, Edwin M."
+publication_year: "1993"
+title: "Rv. M.A. Dandamayev, A Political History of the Achaemenid Empire (Leiden 1989)"
+volume_no_: "49"
+pages: "453-456"
+journal: "Bibliotheca Orientalis"
+title: "Rv. M.A. Dandamayev, A Political History of the Achaemenid Empire (Leiden 1989)"
+previous_item: "10192"
+---

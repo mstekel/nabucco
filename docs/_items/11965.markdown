@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11965"
+occurrence_id: "2253"
+short_title: "JHS 75 (1955), 176-177"
+author: "Clairmont, Christoph"
+publication_year: "1955"
+title: "Rv. E. F. Schmidt, Persepolis I"
+volume_no_: "75"
+pages: "176-177"
+journal: "Journal of Hellenic Studies"
+title: "Rv. E. F. Schmidt, Persepolis I"
+previous_item: "11968"
+---

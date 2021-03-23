@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12184"
+occurrence_id: "3434"
+short_title: "ZA 68 (1978), 129-149"
+author: "Sack, Ronald H."
+publication_year: "1978"
+title: "Nergal-šarra-uṣur, King of Babylon as seen in the Cuneiform, Greek Latin and Hebrew Sources"
+volume_no_: "68"
+pages: "129-149"
+journal: "Zeitschrift für Assyriologie"
+title: "Nergal-šarra-uṣur, King of Babylon as seen in the Cuneiform, Greek Latin and Hebrew Sources"
+previous_item: "12187"
+---

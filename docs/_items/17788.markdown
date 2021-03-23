@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17788"
+occurrence_id: "481"
+short_title: "Kreissig 1982"
+author: "Kreissig, Heinz "
+publication_year: "1982"
+title: "Geschichte des Hellenismus"
+title: "Geschichte des Hellenismus"
+previous_item: "17791"
+---

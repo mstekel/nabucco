@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "10363"
+occurrence_id: "2622"
+short_title: "NABU 2000/56"
+author: "Everling, János"
+title: "The Neo-Babylonian royal inscription of the Bibliohèque Nationale et Universitaire de Strasbourg"
+volume_no_: "56"
+publication_year: "2000"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "The Neo-Babylonian royal inscription of the Bibliohèque Nationale et Universitaire de Strasbourg"
+previous_item: "10366"
+---

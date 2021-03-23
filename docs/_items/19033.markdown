@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19033"
+occurrence_id: "4580"
+short_title: "Oelsner 1999"
+author: "Oelsner, Joachim"
+publication_year: "1999"
+title: "Von Assurbanipal zu Nabopolassar - das Zeugnis der Urkunden"
+pages: "643-666"
+editor: "Böck, Barbara"
+book: "Munuscula Mesopotamica, Fs. Renger, AOAT 267 (Münster)"
+title: "Von Assurbanipal zu Nabopolassar - das Zeugnis der Urkunden"
+previous_item: "19036"
+---

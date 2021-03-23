@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16117"
+occurrence_id: "3556"
+short_title: "ZDMG 129 (1979), 411-412"
+author: "Humbach, H. Jacob"
+publication_year: "1979"
+title: "Rv. H. Koch, Die religiösen Verhältnisse der Dareioszeit. Untersuchungen an Hand der elamischen Persepolistäfelchen"
+volume_no_: "129"
+pages: "411-412"
+journal: "Zeitschrift der Deutschen Morgenländischen Gesellschaft"
+title: "Rv. H. Koch, Die religiösen Verhältnisse der Dareioszeit. Untersuchungen an Hand der elamischen Persepolistäfelchen"
+previous_item: "16120"
+---

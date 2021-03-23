@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "12781"
+occurrence_id: "3646"
+short_title: "BLOT (1993), 127"
+author: "Grabbe, L.L."
+publication_year: "1993"
+title: "Rv. R.H. Sack, Images of Nebuchadnezzar. The Emergence of a Legend (1991)"
+pages: "127"
+journal: "Book List. Society for Old Testament Studies (Llansadwrn, Menai Bridge)"
+title: "Rv. R.H. Sack, Images of Nebuchadnezzar. The Emergence of a Legend (1991)"
+previous_item: "12784"
+---

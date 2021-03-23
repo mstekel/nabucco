@@ -1,0 +1,12 @@
+---
+layout: "bibliography"
+slug: "17368"
+occurrence_id: "252"
+short_title: "RIAA"
+author: "Speleers, Louis "
+publication_year: "1925"
+title: "Recueil des Inscriptions de l’Asie Antérieure des Musées Royaux du Cinquantenaire á Bruxelles. Textes sumériens, babyloniens et assyriens"
+related_objects: "4305"
+title: "Recueil des Inscriptions de l’Asie Antérieure des Musées Royaux du Cinquantenaire á Bruxelles. Textes sumériens, babyloniens et assyriens"
+previous_item: "17371"
+---

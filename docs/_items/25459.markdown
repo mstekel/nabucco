@@ -1,0 +1,16 @@
+---
+layout: "tablet"
+slug: "25459"
+object_id: "6801"
+nabucco_no_: "BodleianA146"
+museum_no_: "Bodleian A 146"
+publication: "Joannès 1989"
+text_number: "289"
+type_and_content: "Promissory notes ina muẖẖi"
+paraphrase: "Loan of barley:<strong> B</strong> owes <strong>A</strong> [x] kor of barley. He will give the barley in its entirety in Simān (III), together with interest (<em>hubullu</em>) of 0;1 kor (36 l) per 1 kor (180 l) of barley (20% p.a.), that is, 28;2 kor (5,472 l) of barley, according to the measure (<em>ma&scaron;īhu</em>) of the king. The barley for the house of <strong>C</strong> is paid. 2 witnesses (including [&hellip;]/Nab&ucirc;-&scaron;umu-i&scaron;kun//Ilī-bāni) and the scribe.<br /> &nbsp;<br /> <strong>A</strong> = Nab&ucirc;-ēṭir-nap&scaron;āti/Zēru-[&hellip;]//[&hellip;]; <strong>B</strong> = Nādinu/Lūṣi-ana-nūr-Marduk//Ilī-bāni; <strong>C</strong> = Zēr-Bābili/&Scaron;umāya; Scribe = Nab&ucirc;-&scaron;ākin-&scaron;ulum/[&hellip;]//Arkāt-ilāni<br /> &nbsp;"
+imported: "Melanie Gross (12/12/2016)"
+publication_name: "Joannès 1989 289"
+archive: "Ea-ilūtu-bāni, Ilī-bāni and Nanāhu"
+title: "Bodleian A 146"
+previous_item: "25462"
+---

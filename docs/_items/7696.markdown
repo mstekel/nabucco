@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7696"
+occurrence_id: "3361"
+short_title: "WZKM 56 (1960), 138-140"
+author: "Oberhuber, Karl"
+publication_year: "1960"
+title: "Zwei neubabylonische Tontafeln aus dem Nachlass D.H.v. Müllers,"
+volume_no_: "56"
+pages: "138-140"
+journal: "Wiener Zeitschrift für die Kunde des Morgenlandes"
+title: "Zwei neubabylonische Tontafeln aus dem Nachlass D.H.v. Müllers,"
+previous_item: "7699"
+---

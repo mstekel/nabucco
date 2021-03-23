@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9874"
+occurrence_id: "3011"
+short_title: "RA 22 (1925), 179-197"
+author: "Smith, Sydney A."
+publication_year: "1925"
+title: "The Chronology of Philip Arrhidaeus, Antigonus and Alexander IV"
+volume_no_: "22"
+pages: "179-197"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "The Chronology of Philip Arrhidaeus, Antigonus and Alexander IV"
+previous_item: "9877"
+---

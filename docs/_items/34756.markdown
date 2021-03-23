@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "34756"
+place_id: "673"
+parent_id: "40"
+place_name: "Til-Gabbāri"
+related_objects: "1522"
+title: "Til-Gabbāri"
+previous_item: "34759"
+---

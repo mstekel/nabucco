@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19030"
+occurrence_id: "4564"
+short_title: "Oelsner 1974"
+author: "Oelsner, Joachim"
+publication_year: "1974"
+title: "Krisenerscheinungen im Achaimenidenreich im 5. und 4. Jahrhundert v.u.Z."
+pages: "1041-1073"
+editor: "Welskopf, Elisabeth, Charlotte"
+book: "Hellenische Poleis, Bd. 2 (Berlin)"
+title: "Krisenerscheinungen im Achaimenidenreich im 5. und 4. Jahrhundert v.u.Z."
+previous_item: "19033"
+---

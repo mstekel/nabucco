@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19192"
+occurrence_id: "4324"
+short_title: "Ebeling 1938"
+author: "Ebeling, Erich"
+publication_year: "1938"
+title: "Ehe"
+pages: "281-286"
+editor: "Meissner, Bruno"
+book: "Reallexikon der Assyriologie 2 (1938)"
+title: "Ehe"
+previous_item: "19195"
+---

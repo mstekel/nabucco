@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15892"
+occurrence_id: "2341"
+short_title: "JNES 59 (2000), 73"
+author: "Biggs, Robert D."
+publication_year: "2000"
+title: "Rv. E. Gehlken, Uruk. Spätbabylonische Wirtschaftstexte aus dem Eanna-Archiv II: Texte verschiedenen Inhalts"
+volume_no_: "59"
+pages: "73"
+journal: "Journal of Near Eastern Studies"
+title: "Rv. E. Gehlken, Uruk. Spätbabylonische Wirtschaftstexte aus dem Eanna-Archiv II: Texte verschiedenen Inhalts"
+previous_item: "15895"
+---

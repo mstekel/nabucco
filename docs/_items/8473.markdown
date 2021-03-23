@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8473"
+occurrence_id: "1505"
+short_title: "ArOr 7 (1935), 16-28"
+author: "Nicolò, Mariano, San"
+publication_year: "1935"
+title: "Parerga Babyloniaca XV-XVI"
+volume_no_: "7"
+pages: "16-28"
+journal: "Archív Orientalí"
+title: "Parerga Babyloniaca XV-XVI"
+previous_item: "8476"
+---

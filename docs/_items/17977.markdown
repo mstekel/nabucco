@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17977"
+occurrence_id: "856"
+short_title: "Oppenheim 1936"
+author: "Oppenheim, A. Leo "
+publication_year: "1936"
+title: "Untersuchungen zum babylonischen Mietrecht, WZKM Beiheft 2 (Wien)"
+title: "Untersuchungen zum babylonischen Mietrecht, WZKM Beiheft 2 (Wien)"
+previous_item: "17980"
+---

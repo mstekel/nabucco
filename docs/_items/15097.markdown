@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15097"
+occurrence_id: "213"
+short_title: "Oppenheim, BASOR 91 (1943)"
+author: "Oppenheim, A. Leo"
+publication_year: "1943"
+title: "Assyriological Gleanings I"
+volume_no_: "91"
+pages: "36-39"
+journal: "Bulletin of the American School of Oriental Research"
+title: "Assyriological Gleanings I"
+previous_item: "15100"
+---

@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33961"
+place_id: "364"
+parent_id: "40"
+place_name: "Bīt-Šamaš"
+title: "Bīt-Šamaš"
+previous_item: "33964"
+---

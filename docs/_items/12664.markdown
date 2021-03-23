@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12664"
+occurrence_id: "3016"
+short_title: "RA 26 (1929), 17-19"
+author: "Scheil, Vincent"
+publication_year: "1929"
+title: "Contractant et témoin à la fois(?)"
+volume_no_: "26"
+pages: "17-19"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "Contractant et témoin à la fois(?)"
+previous_item: "12667"
+---

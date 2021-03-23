@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "20401"
+occurrence_id: "4170"
+short_title: "George 1999"
+author: "George, Andrew, R."
+publication_year: "1999"
+title: "E-sangil and E-temen-anki, theArchetypal Cult-Centre"
+pages: "67-86"
+editor: "Renger, Johannes"
+title: "E-sangil and E-temen-anki, theArchetypal Cult-Centre"
+previous_item: "20404"
+---

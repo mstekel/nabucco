@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11059"
+occurrence_id: "3383"
+short_title: "ZA 100 (2010), 284-285."
+author: "Horowitz, Wayne"
+publication_year: "2010"
+title: "Rv. H. Hunger (including materials by Abraham J. Sachs), Astronomical Diaries and Related Texts from Babylonia, Vol. 6: Goal Year Texts."
+volume_no_: "100"
+pages: "284-285"
+journal: "Zeitschrift für Assyriologie"
+title: "Rv. H. Hunger (including materials by Abraham J. Sachs), Astronomical Diaries and Related Texts from Babylonia, Vol. 6: Goal Year Texts."
+previous_item: "11062"
+---

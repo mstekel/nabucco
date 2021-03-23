@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "21223"
+occurrence_id: "4141"
+short_title: "Kuhrt 1982"
+author: "Kuhrt, Amélie"
+publication_year: "1982"
+title: "Assyrian and Babylonian Traditions in Classical Auhors: A Critical Synhesis"
+pages: "539-553"
+editor: "Nissen, Hans J."
+title: "Assyrian and Babylonian Traditions in Classical Auhors: A Critical Synhesis"
+previous_item: "21226"
+---

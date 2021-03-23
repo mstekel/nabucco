@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17437"
+occurrence_id: "692"
+short_title: "Streck 1916 (VAB 7/2)"
+author: "Streck, Maximilian "
+publication_year: "1916"
+title: "Assurbanipal und die letzen assyrischen Könige, bis zum Untergange Niniveh's. VAB 7/2 (Leipzig)"
+title: "Assurbanipal und die letzen assyrischen Könige, bis zum Untergange Niniveh's. VAB 7/2 (Leipzig)"
+previous_item: "17440"
+---

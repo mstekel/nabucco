@@ -1,0 +1,15 @@
+---
+layout: "bibliography"
+slug: "7828"
+occurrence_id: "143"
+short_title: "FB 12"
+author: "Jakob-Rost, Liane"
+publication_year: "1970"
+title: "Urkunden des 7. Jahrhunderts v.u.Z. aus Babylon"
+volume_no_: "12"
+pages: "49-60"
+related_objects: "5482"
+journal: "Forschungen und Berichte"
+title: "Urkunden des 7. Jahrhunderts v.u.Z. aus Babylon"
+previous_item: "7831"
+---

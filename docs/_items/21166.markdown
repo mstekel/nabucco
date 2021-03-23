@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21166"
+occurrence_id: "4942"
+short_title: "Berger 1970"
+author: "Berger, Paul-R."
+publication_year: "1970"
+title: "Das Neujahrsfest nach den Königsinschriften des ausgehenden babylonischen Reiches"
+pages: "155-159"
+editor: "Finet, André "
+book: "Actes de la XVIIe Rencontre Assyriologique Internationale (Ham-sur-Heure)"
+title: "Das Neujahrsfest nach den Königsinschriften des ausgehenden babylonischen Reiches"
+previous_item: "21169"
+---

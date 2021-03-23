@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16624"
+occurrence_id: "432"
+short_title: "Hausleiter and Kerner and Müller-Neuhof"
+author: "Hausleiter, Arnulf "
+publication_year: "2002"
+title: "Material Culture and Mental Spheres. Rezeption archäologischer Denkrichtungen in der Vorderasiatischen Altertumskande (Internationales Symposium für Hans J. Nissen, Berlin, 23-24. Juni 2000)"
+title: "Material Culture and Mental Spheres. Rezeption archäologischer Denkrichtungen in der Vorderasiatischen Altertumskande (Internationales Symposium für Hans J. Nissen, Berlin, 23-24. Juni 2000)"
+previous_item: "16627"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19627"
+occurrence_id: "4439"
+short_title: "Basello 2002"
+author: "Basello, Gian P."
+publication_year: "2002"
+title: "Elam and Babylonia: the Evidence of the Calendars"
+pages: "13-36"
+editor: "Panaino, Antonio"
+book: "Ideologies as Intercultural Phenomena, Melammu Symposia III (Milano)"
+title: "Elam and Babylonia: the Evidence of the Calendars"
+previous_item: "19630"
+---

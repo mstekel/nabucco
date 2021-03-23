@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14344"
+occurrence_id: "3051"
+short_title: "RA 71 (1977), 96"
+author: "Stol, Marten"
+publication_year: "1977"
+title: "Un texte oublié"
+volume_no_: "71"
+pages: "96"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "Un texte oublié"
+previous_item: "14347"
+---

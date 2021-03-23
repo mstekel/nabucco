@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9436"
+occurrence_id: "3672"
+short_title: "Emerita 22 (Madrid 1954), 325-326"
+author: "Montenegro, Ángel"
+publication_year: "1954"
+title: "Rv. D. Schlumberger, L´argent grec dans l´Empire achéménide"
+volume_no_: "22"
+pages: "325-326"
+journal: "Emerita"
+title: "Rv. D. Schlumberger, L´argent grec dans l´Empire achéménide"
+previous_item: "9439"
+---

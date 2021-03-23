@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12637"
+occurrence_id: "2867"
+short_title: "Or 32 (1963), 504-505"
+author: "des Places, É."
+publication_year: "1963"
+title: "Rv. B. Tuckerman, Planetary, Lunar and Solar Positions, 601 B.C. to A.D. 1"
+volume_no_: "32"
+pages: "504-505"
+journal: "Orientalia"
+title: "Rv. B. Tuckerman, Planetary, Lunar and Solar Positions, 601 B.C. to A.D. 1"
+previous_item: "12640"
+---

@@ -1,0 +1,12 @@
+---
+layout: "bibliography"
+slug: "17842"
+occurrence_id: "821"
+short_title: "Jursa 1999"
+author: "Jursa, Michael "
+publication_year: "1999"
+title: "Das Archiv des Bēl-rēmanni, PIHANS 86 (Istanbul and Leiden)"
+related_objects: "8636"
+title: "Das Archiv des Bēl-rēmanni, PIHANS 86 (Istanbul and Leiden)"
+previous_item: "17845"
+---

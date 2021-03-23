@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14887"
+occurrence_id: "2972"
+short_title: "PAPS 107 (1963), 528-535"
+author: "Neugebauer, Otto"
+publication_year: "1963"
+title: "The survival of Babylonian Methods in the Exact sciences of Antiquity and Middle Ages"
+volume_no_: "107"
+pages: "528-535"
+journal: "Proceedings of the American Philosophical Society"
+title: "The survival of Babylonian Methods in the Exact sciences of Antiquity and Middle Ages"
+previous_item: "14890"
+---

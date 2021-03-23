@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17515"
+occurrence_id: "388"
+short_title: "Dion 1997"
+author: "Dion, Paul-E. "
+publication_year: "1997"
+title: "Les Araméens à l´Âge du fer: histoire politique et structures sociales"
+title: "Les Araméens à l´Âge du fer: histoire politique et structures sociales"
+previous_item: "17518"
+---

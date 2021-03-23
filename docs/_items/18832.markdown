@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18832"
+occurrence_id: "4611"
+short_title: "Brinkman 1991"
+author: "Brinkman, John A."
+publication_year: "1991"
+title: "Babylonia in the Shadow of Assyria (747-626 B.C.)"
+pages: "1-70"
+editor: "Walker, Christopher,  Bromhead F."
+book: "The Cambridge Ancient History, CAH III/ 2: the Assyrian and Babylonian Empires and Other States of the Near East, from the Eighth to Sixth Centuries (Cambridge)"
+title: "Babylonia in the Shadow of Assyria (747-626 B.C.)"
+previous_item: "18835"
+---

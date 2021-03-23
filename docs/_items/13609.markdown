@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13609"
+occurrence_id: "2094"
+short_title: "JAOS 121/2 (2001), 317-319"
+author: "Gerber, Manuel"
+publication_year: "2001"
+title: "Rv. H. Hunger and D. Pingree, Astral Sciences in Mesopotamia, HdO 44 (Leiden and Boston/Köln 1999)"
+volume_no_: "121/2"
+pages: "317-319"
+journal: "Journal of the American Oriental Society"
+title: "Rv. H. Hunger and D. Pingree, Astral Sciences in Mesopotamia, HdO 44 (Leiden and Boston/Köln 1999)"
+previous_item: "13612"
+---

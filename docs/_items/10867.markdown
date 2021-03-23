@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10867"
+occurrence_id: "2348"
+short_title: "JNES 61 (2002), 39-47"
+author: "Wheatly, Pat"
+publication_year: "2002"
+title: "Antigonus Monophtalmus in Babylonia, 310-308 B.C."
+volume_no_: "61"
+pages: "39-47"
+journal: "Journal of Near Eastern Studies"
+title: "Antigonus Monophtalmus in Babylonia, 310-308 B.C."
+previous_item: "10870"
+---

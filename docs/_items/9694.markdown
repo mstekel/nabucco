@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9694"
+occurrence_id: "2039"
+short_title: "JAC 1 (1986), 127-143"
+author: "Cole, Steven W."
+publication_year: "1986"
+title: "Four Early Neo-Babylonian Lists of Officials and Professions from Nippur"
+volume_no_: "1"
+pages: "127-143"
+journal: "Journal of Ancient Civilizations"
+title: "Four Early Neo-Babylonian Lists of Officials and Professions from Nippur"
+previous_item: "9697"
+---

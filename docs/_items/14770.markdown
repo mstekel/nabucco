@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14770"
+occurrence_id: "2339"
+short_title: "JNES 59 (2000), 290-292"
+author: "Garrison, Mark B."
+publication_year: "2000"
+title: "Rv. P. Briant, Dans les pas des Dix-Mille. Peuples et pays du Proche-Orient vus par un Grec (Pallas 43, 1995)"
+volume_no_: "59"
+pages: "290-292"
+journal: "Journal of Near Eastern Studies"
+title: "Rv. P. Briant, Dans les pas des Dix-Mille. Peuples et pays du Proche-Orient vus par un Grec (Pallas 43, 1995)"
+previous_item: "14773"
+---

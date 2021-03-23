@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33850"
+place_id: "361"
+parent_id: "40"
+place_name: "Bīt-Šahāṭu"
+title: "Bīt-Šahāṭu"
+previous_item: "33853"
+---

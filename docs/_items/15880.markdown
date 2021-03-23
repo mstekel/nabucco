@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "15880"
+occurrence_id: "2276"
+short_title: "JNES 19 (1960), 42-45"
+author: "Rabinowitz, Jacob J. "
+publication_year: "1960"
+title: "Manumission of Slaves in Roman and Oriental Law,"
+volume_no_: "19"
+pages: "42-45"
+title: "Manumission of Slaves in Roman and Oriental Law,"
+previous_item: "15883"
+---

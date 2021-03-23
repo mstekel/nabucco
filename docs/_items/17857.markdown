@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17857"
+occurrence_id: "904"
+short_title: "Weidner 1967"
+author: "Weidner, Ernst F. "
+publication_year: "1967"
+title: "Gestirn-Darstellungen auf babylonischen Tontafeln, Österreichische Akademie der Wissenschaften. Philosophisch-historische Klasse. Sitzungsberichte 254/2 (Wien)"
+title: "Gestirn-Darstellungen auf babylonischen Tontafeln, Österreichische Akademie der Wissenschaften. Philosophisch-historische Klasse. Sitzungsberichte 254/2 (Wien)"
+previous_item: "17860"
+---

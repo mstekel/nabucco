@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15592"
+occurrence_id: "3747"
+short_title: "JRAS 60 (1928), 618-621"
+author: "Smith, Sydney A."
+publication_year: "1928"
+title: "The deaths of Alexander the Great and Philip Arrhidaeus"
+volume_no_: "60"
+pages: "618-621"
+journal: "Journal of the Royal Asiatic Society"
+title: "The deaths of Alexander the Great and Philip Arrhidaeus"
+previous_item: "15595"
+---

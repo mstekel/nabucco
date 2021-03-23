@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16348"
+occurrence_id: "1778"
+short_title: "BSOAS 35 (1972), 609-614"
+author: "Shapur Shahbazi, Alireza"
+publication_year: "1972"
+title: "The 'One Year' of Darius Re-examined"
+volume_no_: "35"
+pages: "609-614"
+journal: "Bulletin of the School of Oriental and African Studies"
+title: "The 'One Year' of Darius Re-examined"
+previous_item: "16351"
+---

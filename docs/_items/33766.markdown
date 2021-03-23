@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33766"
+place_id: "790"
+parent_id: "61"
+place_name: "Bāb-Aššurītu"
+title: "Bāb-Aššurītu"
+previous_item: "33769"
+---

@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "21787"
+occurrence_id: "4945"
+short_title: "Calmeyer 1987"
+author: "Calmeyer, Peter"
+publication_year: "1987"
+title: "Zur Genese altiranischer Motive VIII. Die \"Statistische Landcharte des Perserreiches\". Nachträge und Korrekturen"
+pages: "129-146"
+book: "Archäologische Mitteilungen aus Iran (Berlin) 20"
+title: "Zur Genese altiranischer Motive VIII. Die \"Statistische Landcharte des Perserreiches\". Nachträge und Korrekturen"
+previous_item: "21790"
+---

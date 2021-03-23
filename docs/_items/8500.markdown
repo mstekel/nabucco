@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8500"
+occurrence_id: "1650"
+short_title: "BiOr 26 (1969 publ. 1970), 367-368"
+author: "van Driel, Govert"
+publication_year: "1969 publ. 1970"
+title: "Rv. S.S. Ahmed, Southern Mesopotamia in the Time of Ashurbanipal"
+volume_no_: "26"
+pages: "367-368"
+journal: "Bibliotheca Orientalis"
+title: "Rv. S.S. Ahmed, Southern Mesopotamia in the Time of Ashurbanipal"
+previous_item: "8503"
+---

@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "19981"
+occurrence_id: "4135"
+short_title: "Hirata 2014"
+author: "Hirata, Alessandro"
+publication_year: "2014"
+title: "Die datio in solutum in neubabylonischer Zeit"
+pages: "642-655"
+editor: "Csabai, Zoltán"
+title: "Die datio in solutum in neubabylonischer Zeit"
+previous_item: "19984"
+---

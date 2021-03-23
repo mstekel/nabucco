@@ -1,0 +1,15 @@
+---
+layout: "tablet"
+slug: "28510"
+object_id: "7263"
+museum_no_: "BM 31417"
+publication: "CT 22"
+text_number: "8 "
+period: "-"
+type_and_content: "Letters"
+publication_name: "CT 22 8 "
+archive: "Egibi/Nūr-Sîn"
+bibliography: "Wunsch 1993, 318."
+title: "BM 31417"
+previous_item: "28513"
+---

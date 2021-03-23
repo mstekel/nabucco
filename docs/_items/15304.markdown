@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15304"
+occurrence_id: "2194"
+short_title: "JCS 47 (1995), 57-62"
+author: "Liverani, Mario"
+publication_year: "1995"
+title: "The Medes at Esarhaddon´s Court"
+volume_no_: "47"
+pages: "57-62"
+journal: "Journal of Cuneiform Studies"
+title: "The Medes at Esarhaddon´s Court"
+previous_item: "15307"
+---

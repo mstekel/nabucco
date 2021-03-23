@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "8359"
+occurrence_id: "3910"
+short_title: "ZOrA 6 (2013), 18-42"
+author: "Baker, Heather D."
+publication_year: "2013"
+title: "Beneath the Stairs in the Rēš Temple of Hellenistic Uruk. A Study in Cultic Topography and Spatial Organization"
+volume_no_: "6"
+pages: "18-42"
+title: "Beneath the Stairs in the Rēš Temple of Hellenistic Uruk. A Study in Cultic Topography and Spatial Organization"
+previous_item: "8362"
+---

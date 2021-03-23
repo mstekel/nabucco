@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13420"
+occurrence_id: "206"
+short_title: "Brinkman and Kennedy, JCS 38"
+author: "Kennedy, Douglas A."
+title: "Supplement to the Survey of Dated Neo-Babylonian Economic Texts, 721-626 B.C."
+volume_no_: "JCS 38/1"
+pages: "99-106"
+publication_year: "1986"
+journal: "Journal of Cuneiform Studies "
+title: "Supplement to the Survey of Dated Neo-Babylonian Economic Texts, 721-626 B.C."
+previous_item: "13423"
+---

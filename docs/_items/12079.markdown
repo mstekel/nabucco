@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12079"
+occurrence_id: "2866"
+short_title: "Or 32 (1963), 437-448"
+author: "Schmitt, Rüdiger"
+publication_year: "1963"
+title: "Ein altpersisches ghostword und das sog. \"inverse ca\""
+volume_no_: "32"
+pages: "437-448"
+journal: "Orientalia"
+title: "Ein altpersisches ghostword und das sog. \"inverse ca\""
+previous_item: "12082"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19885"
+occurrence_id: "4712"
+short_title: "Mayrhofer 1969"
+author: "Mayrhofer, Manfred"
+publication_year: "1969"
+title: "Zu den neuen Iranier-Namen aus Persepolis"
+pages: "107-118"
+editor: "Pagliaro, Antonino"
+book: "Studia classica et orientalia Antonino Pagliaro oblata (Roma)"
+title: "Zu den neuen Iranier-Namen aus Persepolis"
+previous_item: "19888"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16312"
+occurrence_id: "1584"
+short_title: "BASOR 119 (1950), 27"
+author: "Albright, William F."
+publication_year: "1950"
+title: "Rv. H. Figulla, Business Documents of the New-Babylonian Period"
+volume_no_: "119"
+pages: "27"
+journal: "Bulletin of the American Schools of Oriental Research"
+title: "Rv. H. Figulla, Business Documents of the New-Babylonian Period"
+previous_item: "16315"
+---

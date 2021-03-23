@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20731"
+occurrence_id: "4828"
+short_title: "Schuol 1998"
+author: "Schuol, Monika"
+publication_year: "1998"
+title: "Die Zeugnisse zur Geschichte and Kultur der parhischen Charakene"
+pages: "407-415"
+editor: "Wiesehöfer, Josef"
+book: "Das Parther-Reich and seine Zeugnisse, Historia-Einzelschriften 122 (Stuttgart)"
+title: "Die Zeugnisse zur Geschichte and Kultur der parhischen Charakene"
+previous_item: "20734"
+---

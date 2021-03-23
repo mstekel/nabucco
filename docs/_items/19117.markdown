@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19117"
+occurrence_id: "5028"
+short_title: "van der Spek 2003"
+author: "van der Spek, Robartus"
+publication_year: "2003"
+title: "Darius III, Alexander the Great and Babylonian scholarship"
+pages: "289-346"
+editor: "Kuhrt, Amélie"
+book: "A Persian Perspective. Essays in Memory of Heleen Sancisi-Weerdenburg (Leiden)"
+title: "Darius III, Alexander the Great and Babylonian scholarship"
+previous_item: "19120"
+---

@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "14284"
+occurrence_id: "2726"
+short_title: "NABU 2009/51"
+author: "Müller-Kessler, Christa, Christa"
+title: "Zum Personennamen Nihiltu-Bel-tabat in Babylon"
+volume_no_: "51"
+publication_year: "2009"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Zum Personennamen Nihiltu-Bel-tabat in Babylon"
+previous_item: "14287"
+---

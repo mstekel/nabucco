@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21526"
+occurrence_id: "4656"
+short_title: "Lorenz 2012"
+author: "Lorenz, Jürgen"
+publication_year: "2012"
+title: "Fluchformeln in den Urkunden der Chaldäer- und Achämenidenzeit"
+pages: "739-745"
+editor: "Wilhelm, Gernot"
+book: "Organization, Representation, and Symbols of Power in the Ancient Near East. Proceedings of the 54th Rencontre Assyriologique Internationale at Würzburg 20-25 July 2008 (Winona Lake)"
+title: "Fluchformeln in den Urkunden der Chaldäer- und Achämenidenzeit"
+previous_item: "21529"
+---

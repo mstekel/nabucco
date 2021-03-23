@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "12847"
+occurrence_id: "3999"
+short_title: "Atiqot 62 (2010), 53-57"
+author: "Ornan, Tallay"
+publication_year: "2010"
+title: "A Local Imitation of a Neo-Babylonian Stamp Seal from a Burial Cave Near Gelilot"
+volume_no_: "62"
+pages: "53-57"
+title: "A Local Imitation of a Neo-Babylonian Stamp Seal from a Burial Cave Near Gelilot"
+previous_item: "12850"
+---

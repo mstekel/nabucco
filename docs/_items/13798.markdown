@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13798"
+occurrence_id: "3114"
+short_title: "RA 99 (2005), 105-110."
+author: "Boiy, Tom"
+publication_year: "2005"
+title: "The Fifth and Sixth Generation of theNikarchos = Anu-uballit Family"
+volume_no_: "99"
+pages: "105-110"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "The Fifth and Sixth Generation of theNikarchos = Anu-uballit Family"
+previous_item: "13801"
+---

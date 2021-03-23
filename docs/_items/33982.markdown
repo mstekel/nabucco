@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33982"
+place_id: "700"
+parent_id: "61"
+place_name: "Ālu-ša-Admu"
+title: "Ālu-ša-Admu"
+previous_item: "33985"
+---

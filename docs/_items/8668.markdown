@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "8668"
+occurrence_id: "2554"
+short_title: "NABU 1997/119"
+author: "Koch, Johannes"
+title: "Kannte man in Mesopotamien das 364 Tage-Jahr wirklich seit dem 7. Jahrhundert v. Chr.?"
+volume_no_: "119"
+publication_year: "1997"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Kannte man in Mesopotamien das 364 Tage-Jahr wirklich seit dem 7. Jahrhundert v. Chr.?"
+previous_item: "8671"
+---

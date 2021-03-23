@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18736"
+occurrence_id: "5202"
+short_title: "Henkelman, Kuhrt, Rollinger and Wiesehöfer 2011"
+author: "Kuhrt, Amélie"
+publication_year: "2011"
+title: "Herodotus and Babylon Reconsidered"
+pages: "449-470"
+editor: "Rollinger, Robert"
+book: "Herodot und das Persische Weltreich, Harrassowitz (Wiesbaden)"
+title: "Herodotus and Babylon Reconsidered"
+previous_item: "18739"
+---

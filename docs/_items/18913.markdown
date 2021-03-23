@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18913"
+occurrence_id: "5043"
+short_title: "Rollinger 2013"
+author: "Rollinger, Robert"
+publication_year: "2013"
+title: "Berossos and the Monuments: City Walls, Sanctuaries, Palaces and the Hanging Garden"
+pages: "137-162"
+editor: "Lanfranchi, Giovanni , B."
+book: "The World of Berossos. Proceedings of the 4th International Colloquium on «The Ancient Near East between Classical and Ancient Oriental Traditions», Hatfield College, Durham, 7th-9th July 2010,  Classica et Orientalia 5 (Wiesbaden)"
+title: "Berossos and the Monuments: City Walls, Sanctuaries, Palaces and the Hanging Garden"
+previous_item: "18916"
+---

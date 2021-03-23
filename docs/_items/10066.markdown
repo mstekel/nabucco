@@ -1,0 +1,12 @@
+---
+layout: "bibliography"
+slug: "10066"
+occurrence_id: "4042"
+short_title: "NABU 2014/104"
+author: "Tudeau, Johanna"
+publication_year: "2014"
+title: "Nabuchodonosor II dans une collection privée allemande"
+volume_no_: "2014/104"
+title: "Nabuchodonosor II dans une collection privée allemande"
+previous_item: "10069"
+---

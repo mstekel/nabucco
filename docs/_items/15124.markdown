@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15124"
+occurrence_id: "1221"
+short_title: "AfO 40/41 (1993/1994), 71-73"
+author: "Jursa, Michael"
+publication_year: "1993-1994"
+title: "Zweierlei Maß"
+volume_no_: "40-41"
+pages: "71-73"
+journal: "Archiv für Orientforschung"
+title: "Zweierlei Maß"
+previous_item: "15127"
+---

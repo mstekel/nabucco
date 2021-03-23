@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7918"
+occurrence_id: "1537"
+short_title: "AuOr 22 (2004), 205-209."
+author: "Da Riva, Rocío"
+publication_year: "2004"
+title: "Los trabajos de Nabopalasar en el tempo de Sarrat-Sippar"
+volume_no_: "22"
+pages: "205-209"
+journal: "Aula Orientalis"
+title: "Los trabajos de Nabopalasar en el tempo de Sarrat-Sippar"
+previous_item: "7921"
+---

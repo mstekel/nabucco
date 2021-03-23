@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20278"
+occurrence_id: "4618"
+short_title: "Steele 2013"
+author: "Steele, John M."
+publication_year: "2013"
+title: "The ‘Astronomical Fragments’ of Berossos in Context"
+pages: "99-113"
+editor: "Lanfranchi, Giovanni , B."
+book: "The World of Berossos. Proceedings of the 4th International Colloquium on «The Ancient Near East between Classical and Ancient Oriental Traditions», Hatfield College, Durham, 7th-9th July 2010,  Classica et Orientalia 5 (Wiesbaden)"
+title: "The ‘Astronomical Fragments’ of Berossos in Context"
+previous_item: "20281"
+---

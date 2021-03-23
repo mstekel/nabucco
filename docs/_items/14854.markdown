@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14854"
+occurrence_id: "2791"
+short_title: "OLZ 69 (1974), 29-31"
+author: "Oelsner, Joachim"
+publication_year: "1974"
+title: "Rv. D.B. Weisberg, Guild Structure and Political Allegiance in Early Achaemenid Mesopotamia (YNER 1)"
+volume_no_: "69"
+pages: "29-31"
+journal: "Orientalistische Literaturzeitung"
+title: "Rv. D.B. Weisberg, Guild Structure and Political Allegiance in Early Achaemenid Mesopotamia (YNER 1)"
+previous_item: "14857"
+---

@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "18964"
+occurrence_id: "4211"
+short_title: "Jankovic and Weszeli 2014"
+author: "Jankovic, Bojana"
+publication_year: "2014"
+title: "Neues zur Verwendung von maḫir im Eanna-Archiv - eine Anomalie?"
+pages: "671-681"
+editor: "Csabai, Zoltán"
+title: "Neues zur Verwendung von maḫir im Eanna-Archiv - eine Anomalie?"
+previous_item: "18967"
+---

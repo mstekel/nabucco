@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11146"
+occurrence_id: "3851"
+short_title: "TIIAz 1 (1951), 33-48"
+author: "Alijev, I.G."
+publication_year: "1951"
+title: "Geschichte Mediens (in Azerbaijani)"
+volume_no_: "1"
+pages: "33-48"
+journal: "Tpуды Инстиеута Истории АН Аэербайджанской (Tpudy Instieuta Istorii AN Aèerbajdžanskoj)"
+title: "Geschichte Mediens (in Azerbaijani)"
+previous_item: "11149"
+---

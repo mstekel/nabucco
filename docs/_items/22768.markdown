@@ -1,0 +1,9 @@
+---
+layout: "archive"
+slug: "22768"
+archive_id: "199"
+archive_name: "Tattannu"
+is_part_of: "Borsippa"
+title: "Tattannu"
+previous_item: "22771"
+---

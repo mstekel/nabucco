@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11332"
+occurrence_id: "1850"
+short_title: "DAFI 8 (1978), 97-107"
+author: "Vallat, François"
+publication_year: "1978"
+title: "Une brique élamite de Hutelutush-Insushnak"
+volume_no_: "8"
+pages: "97-107"
+journal: "Cahiers de la Délégation Archéologique Française en Iran"
+title: "Une brique élamite de Hutelutush-Insushnak"
+previous_item: "11335"
+---

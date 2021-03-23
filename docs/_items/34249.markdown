@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "34249"
+place_id: "1418"
+parent_id: "67"
+place_name: "Ur city"
+related_objects: "5684"
+title: "Ur city"
+previous_item: "34252"
+---

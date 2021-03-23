@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15595"
+occurrence_id: "3763"
+short_title: "JSS 27 (1982 publ. 1983), 286-287"
+author: "Geller, Mark J."
+publication_year: "1982 publ. 1983"
+title: "Rv. D.B. Weisberg, Texts from the Time of Nebuchadnezzar (YOS 17)"
+volume_no_: "27"
+pages: "286-287"
+journal: "Journal of Semitic Studies"
+title: "Rv. D.B. Weisberg, Texts from the Time of Nebuchadnezzar (YOS 17)"
+previous_item: "15598"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9673"
+occurrence_id: "1927"
+short_title: "IrAn 25 (1990), 150-163"
+author: "Scurlock, JoAnn"
+publication_year: "1990"
+title: "Herodotos´ Median Chronology Again?!"
+volume_no_: "25"
+pages: "150-163"
+journal: "Iranica Antiqua"
+title: "Herodotos´ Median Chronology Again?!"
+previous_item: "9676"
+---

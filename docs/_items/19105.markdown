@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19105"
+occurrence_id: "4964"
+short_title: "Vargyas 2010d"
+author: "Vargyas, Péter"
+publication_year: "2010"
+title: "kaspu ginnu and the Monetary Reform of Darius I"
+pages: "102-120"
+editor: "Csabai, Zoltán"
+book: "From Elephantine to Babylon. Selected Studies of Péter Vargyas on Ancient Near Eastern Economy, Ancient Near Eastern and Mediterranean Studies 1 (Budapest)"
+title: "kaspu ginnu and the Monetary Reform of Darius I"
+previous_item: "19108"
+---

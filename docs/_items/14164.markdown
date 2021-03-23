@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14164"
+occurrence_id: "2079"
+short_title: "JAOS 116 (1996), 453-474"
+author: "Pearce, Laurie E."
+publication_year: "1996"
+title: "The Number-Syllabary Texts"
+volume_no_: "116"
+pages: "453-474"
+journal: "Journal of the American Oriental Society"
+title: "The Number-Syllabary Texts"
+previous_item: "14167"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13312"
+occurrence_id: "3503"
+short_title: "ZA 89 (1999), 299"
+author: "Seidl, Ursula"
+publication_year: "1999"
+title: "Rv. A. Kose, Uruk. Architektur IV. Von der Seleukiden- bis zur Sasanidenzeit (AUWE 17, 1998)"
+volume_no_: "89"
+pages: "299"
+journal: "Zeitschrift für Assyriologie"
+title: "Rv. A. Kose, Uruk. Architektur IV. Von der Seleukiden- bis zur Sasanidenzeit (AUWE 17, 1998)"
+previous_item: "13315"
+---

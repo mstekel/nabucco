@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18532"
+occurrence_id: "307"
+short_title: "AUWE 18"
+author: "Ehrenberg, Erica "
+publication_year: "1999"
+title: "Uruk. Late Babylonian Seal Impressions on Eanna-Tablets (AUWE 18)"
+title: "Uruk. Late Babylonian Seal Impressions on Eanna-Tablets (AUWE 18)"
+previous_item: "18535"
+---

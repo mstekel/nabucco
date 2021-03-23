@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17587"
+occurrence_id: "835"
+short_title: "König 1965"
+author: "König, Friedrich Wilhelm "
+publication_year: "1965"
+title: "Die elamischen Königsinschriften, AfO Beiheft 16 (Wien)"
+title: "Die elamischen Königsinschriften, AfO Beiheft 16 (Wien)"
+previous_item: "17590"
+---

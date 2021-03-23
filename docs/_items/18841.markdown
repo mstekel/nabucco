@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18841"
+occurrence_id: "4659"
+short_title: "Ruffing 2014"
+author: "Ruffing, Kai"
+publication_year: "2014"
+title: "Der Reichtum Babyloniens"
+pages: "637-646"
+editor: "Greco, Alessandro"
+book: "From Source to History. Studies on Ancient Near Eastern Worlds and Beyond. Dedicated to Giovanni Battista Lanfranchi on the Occasion of His 65th Birthday on June 23, 2014, Alter Orient und Altes Testament 412 (Münster)"
+title: "Der Reichtum Babyloniens"
+previous_item: "18844"
+---

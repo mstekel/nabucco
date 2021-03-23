@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18496"
+occurrence_id: "877"
+short_title: "Sack 1994"
+author: "Sack, Ronald H. "
+publication_year: "1994"
+title: "Neriglissar - King of Babylon, AOAT 236 (Kevelaer and Neukirchen-Vluyn)"
+title: "Neriglissar - King of Babylon, AOAT 236 (Kevelaer and Neukirchen-Vluyn)"
+previous_item: "18499"
+---

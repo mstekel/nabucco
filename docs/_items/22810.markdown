@@ -1,0 +1,9 @@
+---
+layout: "archive"
+slug: "22810"
+archive_id: "205"
+archive_name: "Bēl-ikṣur/Nabû-ēṭer-napšāti"
+is_part_of: "Cutha"
+title: "Bēl-ikṣur/Nabû-ēṭer-napšāti"
+previous_item: "22813"
+---

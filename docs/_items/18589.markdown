@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18589"
+occurrence_id: "4418"
+short_title: "Tolini 2009a"
+author: "Tolini, Gauthier"
+publication_year: "2009"
+title: "Les rations alimentaires des oblats des temples de la Babylonie achéménide."
+pages: "327-332"
+editor: "Michel, Cécile"
+book: "L'alimentation dans l'Orient ancien, de la production à la consommation, hème IX, Cahiers des hèmes transversaux d'ArScAn vol IX, 2007-2013"
+title: "Les rations alimentaires des oblats des temples de la Babylonie achéménide."
+previous_item: "18592"
+---

@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33865"
+place_id: "601"
+parent_id: "40"
+place_name: "Paršušu"
+title: "Paršušu"
+previous_item: "33868"
+---

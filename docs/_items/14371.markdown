@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14371"
+occurrence_id: "3195"
+short_title: "Société Jean Bodin pour l'histoire comparative des institutions. Recueils [Deuxieme édition] 1 (1958), 55-88"
+author: "Cardascia, Guillaume"
+publication_year: "1958"
+title: "Le fief dans la Babylonie achéménide"
+volume_no_: "1"
+pages: "55-88"
+journal: "Société Jean Bodin pour l'histoire comparative des institutions."
+title: "Le fief dans la Babylonie achéménide"
+previous_item: "14374"
+---

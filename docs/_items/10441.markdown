@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10441"
+occurrence_id: "3044"
+short_title: "RA 67 (1973, publ.1974), 147-156"
+author: "Arnaud, Daniel"
+publication_year: "1973, publ.1974"
+title: "Un document juridique concernant les oblats"
+volume_no_: "67"
+pages: "147-156"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "Un document juridique concernant les oblats"
+previous_item: "10444"
+---

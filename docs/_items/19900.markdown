@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19900"
+occurrence_id: "4792"
+short_title: "Jursa 2010a"
+author: "Jursa, Michael"
+publication_year: "2010"
+title: "Der Neubabylonische Hof"
+pages: "67-106"
+editor: "Jacobs, Bruno"
+book: "Der Achämenidenhof (Wiesbaden)"
+title: "Der Neubabylonische Hof"
+previous_item: "19903"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9652"
+occurrence_id: "1815"
+short_title: "Bulletin of the Asia Institute 7 (1993 publ.1994), 41-45"
+author: "Dandamayev, Muhammed A."
+publication_year: "1993 publ.1994"
+title: "Xerxes and the Esangila Temple in Babylon"
+volume_no_: "7"
+pages: "41-45"
+journal: "Bulletin of the Asia Institute"
+title: "Xerxes and the Esangila Temple in Babylon"
+previous_item: "9655"
+---

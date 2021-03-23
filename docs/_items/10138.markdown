@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10138"
+occurrence_id: "1411"
+short_title: "AoF 1 (1974), 123-127"
+author: "Dandamayev, Muhammed A."
+publication_year: "1974"
+title: "The Domain-Lands of Achaemenes in Babylonia"
+volume_no_: "1"
+pages: "123-127"
+journal: "Altorientalische Forschungen"
+title: "The Domain-Lands of Achaemenes in Babylonia"
+previous_item: "10141"
+---

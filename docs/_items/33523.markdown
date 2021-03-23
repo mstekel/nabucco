@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33523"
+place_id: "448"
+parent_id: "40"
+place_name: "Hajin"
+title: "Hajin"
+previous_item: "33526"
+---

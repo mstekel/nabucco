@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10843"
+occurrence_id: "2219"
+short_title: "JCS 9 (1955), 25-28"
+author: "Snyder, John W."
+publication_year: "1955"
+title: "Babylonian Suretyship Litigation: a Case History"
+volume_no_: "9"
+pages: "25-28"
+journal: "Journal of Cuneiform Studies"
+title: "Babylonian Suretyship Litigation: a Case History"
+previous_item: "10846"
+---

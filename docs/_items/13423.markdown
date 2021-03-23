@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13423"
+occurrence_id: "240"
+short_title: "Durand, JA 267"
+author: "Durand, Jean-Marie"
+publication_year: "1979"
+title: "Les “slave-documents” de Merodach Baladan"
+volume_no_: "267"
+pages: "245-260"
+journal: "Journal Asiatique"
+title: "Les “slave-documents” de Merodach Baladan"
+previous_item: "13426"
+---

@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "19954"
+occurrence_id: "5080"
+short_title: "Ahituv and Mendelsohn 1971"
+author: "Mendelsohn, Iitzhak"
+publication_year: "1971"
+title: "Slaves, Slavery"
+pages: "12-14."
+book: "Encyclopaedia Biblica 6 (London)"
+title: "Slaves, Slavery"
+previous_item: "19957"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9865"
+occurrence_id: "2963"
+short_title: "Paideia 13 (1958), 394"
+author: "Pisani, V."
+publication_year: "1958"
+title: "Rv. W. Brandenstein and M. Mayrhofer, Antiguo Persa"
+volume_no_: "13"
+pages: "394"
+journal: "Paideia"
+title: "Rv. W. Brandenstein and M. Mayrhofer, Antiguo Persa"
+previous_item: "9868"
+---

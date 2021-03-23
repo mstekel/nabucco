@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12766"
+occurrence_id: "3566"
+short_title: "ZDMG 90 (1936), 160-200"
+author: "Eilers, Wilhelm"
+publication_year: "1936"
+title: "Eine mittelpersische Wortform aus frühachämenidischer Zeit?"
+volume_no_: "90"
+pages: "160-200"
+journal: "Zeitschrift der Deutschen Morgenländischen Gesellschaft"
+title: "Eine mittelpersische Wortform aus frühachämenidischer Zeit?"
+previous_item: "12769"
+---

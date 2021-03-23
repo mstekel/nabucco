@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13624"
+occurrence_id: "2174"
+short_title: "JCS 35 (1983 publ. 1984), 219-220"
+author: "Nemet-Nejat, Karen Rhea"
+publication_year: "1983"
+title: "Texts and Fragments"
+volume_no_: "35"
+pages: "219-220"
+journal: "Journal of Cuneiform Studies"
+title: "Texts and Fragments"
+previous_item: "13627"
+---

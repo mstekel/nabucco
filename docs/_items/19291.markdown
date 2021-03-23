@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19291"
+occurrence_id: "4853"
+short_title: "Dandamayev 1986b"
+author: "Dandamayev, Muhammed A."
+publication_year: "1986"
+title: "Wages and Prices in Babylonia in the 6th and 5th Centuries B.C."
+pages: "33-39"
+editor: "Whittaker, CHris, R."
+book: "Wages and Prices in Oriental Antiquity. 9th International Economic History Congress (preliminary publication) (Bern)"
+title: "Wages and Prices in Babylonia in the 6th and 5th Centuries B.C."
+previous_item: "19294"
+---

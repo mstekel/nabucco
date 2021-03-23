@@ -1,0 +1,10 @@
+---
+layout: "glossary"
+slug: "35656"
+concept_id: "1288"
+label: "Incoming"
+hierarchy: "Content type"
+type: "172"
+title: "Incoming"
+previous_item: "35659"
+---

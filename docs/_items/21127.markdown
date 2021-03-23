@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21127"
+occurrence_id: "4734"
+short_title: "San Nicolò 1938a"
+author: "Nicolò, Mariano, San"
+publication_year: "1938"
+title: "Dienstvertrag"
+pages: "215-217"
+editor: "Meissner, Bruno"
+book: "Reallexikon der Assyriologie 2 (1938)"
+title: "Dienstvertrag"
+previous_item: "21130"
+---

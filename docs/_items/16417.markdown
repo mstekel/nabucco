@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16417"
+occurrence_id: "2147"
+short_title: "JCS 10 (1956), 1-10"
+author: "von Voigtlander, W.C.-Benedict, Benedict"
+publication_year: "1956"
+title: "Darius´ Bisitun Inscription, Babylonian Version, Lines 1-19"
+volume_no_: "10"
+pages: "1-10"
+journal: "Journal of Cuneiform Studies"
+title: "Darius´ Bisitun Inscription, Babylonian Version, Lines 1-19"
+previous_item: "16420"
+---

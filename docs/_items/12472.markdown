@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12472"
+occurrence_id: "1980"
+short_title: "Iraq 56 (1994), 45-58"
+author: "Dalley, Stephanie"
+publication_year: "1994"
+title: "Niniveh, Babylon and the Hanging Gardens: cuneiform and classical sources reconciled"
+volume_no_: "56"
+pages: "45-58"
+journal: "Iraq"
+title: "Niniveh, Babylon and the Hanging Gardens: cuneiform and classical sources reconciled"
+previous_item: "12475"
+---

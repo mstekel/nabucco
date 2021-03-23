@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11785"
+occurrence_id: "1282"
+short_title: "AION 56 (1996), 99-104"
+author: "Graziani, Simonetta"
+publication_year: "1996"
+title: "Babyloniaká"
+volume_no_: "56"
+pages: "99-104"
+journal: "Annali dell'Istituto Orientale di Napoli"
+title: "Babyloniaká"
+previous_item: "11788"
+---

@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17500"
+occurrence_id: "299"
+short_title: "Adams 1965"
+author: "Adams, Robert McC. "
+publication_year: "1965"
+title: "Land Behind Baghdad. A History of Settlement on the Diyala Plains"
+title: "Land Behind Baghdad. A History of Settlement on the Diyala Plains"
+previous_item: "17503"
+---

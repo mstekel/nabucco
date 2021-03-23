@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16858"
+occurrence_id: "288"
+short_title: "Böhl 1936"
+author: "Böhl, Franz Marius Th. "
+publication_year: "1936"
+title: "Mededeelingen uit de Leidsche verzameling van spijkerschriftinscripties: III. Assyrische en Nieuw-Babylonische oorkonden (1100-91 v. Chr.)"
+volume_no_: "Afdeeling Letterkunde deel 82, Serie B"
+pages: "65-145"
+related_objects: "6064"
+title: "Mededeelingen uit de Leidsche verzameling van spijkerschriftinscripties: III. Assyrische en Nieuw-Babylonische oorkonden (1100-91 v. Chr.)"
+previous_item: "16861"
+---

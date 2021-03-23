@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13351"
+occurrence_id: "3711"
+short_title: "HTS 16 (1961), 261-278"
+author: "Liagre Böhl, Francisco Mario Th. De"
+publication_year: "1961"
+title: "De verwoestingen van Babylon door Darius I en Xerxes in het licht van Babylonische en Bijbelse bronnen"
+volume_no_: "16"
+pages: "261-278"
+journal: "Hervormde Theologiese Studies"
+title: "De verwoestingen van Babylon door Darius I en Xerxes in het licht van Babylonische en Bijbelse bronnen"
+previous_item: "13354"
+---

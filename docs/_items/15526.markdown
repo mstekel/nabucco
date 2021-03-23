@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15526"
+occurrence_id: "3391"
+short_title: "ZA 4 (1889), 281-282"
+author: "Scheil, Vincent"
+publication_year: "1889"
+title: "Un document juridique babylonien"
+volume_no_: "4"
+pages: "281-282"
+journal: "Zeitschrift für Assyriologie"
+title: "Un document juridique babylonien"
+previous_item: "15529"
+---

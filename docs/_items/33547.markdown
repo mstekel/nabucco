@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33547"
+place_id: "832"
+parent_id: "61"
+place_name: "Bēltija"
+title: "Bēltija"
+previous_item: "33550"
+---

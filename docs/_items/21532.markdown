@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21532"
+occurrence_id: "4688"
+short_title: "Graslin 2012"
+author: "Graslin, Laetitia"
+publication_year: "2012"
+title: "La Babylonie hellénistique: le point de vue des «dominés»"
+pages: "237-258"
+editor: "Feyel, Christophe"
+book: "Communautés locales et pouvoir central dans l’Orient hellénistique et romain, Études Anciennes 47 (Nancy)"
+title: "La Babylonie hellénistique: le point de vue des «dominés»"
+previous_item: "21535"
+---

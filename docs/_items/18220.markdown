@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18220"
+occurrence_id: "773"
+short_title: "Dougherty 1929"
+author: "Dougherty, Raymond Ph. "
+publication_year: "1929"
+title: "Nabonidus and Belshazzar. A Study of the Closing Events of the Neo-Babylonian Empire, YOSR 15 (New Haven)"
+title: "Nabonidus and Belshazzar. A Study of the Closing Events of the Neo-Babylonian Empire, YOSR 15 (New Haven)"
+previous_item: "18223"
+---

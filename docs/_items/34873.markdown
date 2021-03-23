@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34873"
+place_id: "772"
+parent_id: "61"
+place_name: "Ašat[...]"
+title: "Ašat[...]"
+previous_item: "34876"
+---

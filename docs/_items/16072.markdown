@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16072"
+occurrence_id: "3312"
+short_title: "WeOr 13 (1982 publ. 1983), 25-30"
+author: "McEwan, Gilbert J.P."
+publication_year: "1982 publ. 1983"
+title: "A Babylonian leitourgia?"
+volume_no_: "13"
+pages: "25-30"
+journal: "Die Welt des Orients"
+title: "A Babylonian leitourgia?"
+previous_item: "16075"
+---

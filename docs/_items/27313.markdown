@@ -1,0 +1,18 @@
+---
+layout: "tablet"
+slug: "27313"
+object_id: "5977"
+museum_no_: "BM 50749"
+period: "ENB"
+place_of_issue: "Babylon city"
+day_remark: "-"
+month: "XII"
+month_remark: "-"
+year_remark: "[-]"
+king: "Kan"
+king_remark: "-"
+imported: "Melanie Gross (26/05/2016)"
+day_babylonian_: "16"
+title: "BM 50749"
+previous_item: "27319"
+---

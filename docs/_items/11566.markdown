@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11566"
+occurrence_id: "3110"
+short_title: "RA 96 (2002), 143-148."
+author: "Michel-Nozières, Catherine"
+publication_year: "2002"
+title: "The variation of lunar visibility through the year: is here a copyist error in table K 90?"
+volume_no_: "96"
+pages: "143-148"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "The variation of lunar visibility through the year: is here a copyist error in table K 90?"
+previous_item: "11569"
+---

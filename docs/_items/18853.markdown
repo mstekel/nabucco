@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "18853"
+occurrence_id: "4723"
+short_title: "Bonechi 2000"
+author: "Bonechi, Marco"
+publication_year: "2000"
+title: "Noms d´oiseaux à Ébla: les rapaces"
+pages: "251-281"
+book: "Topoi Supplément 2, Les animaux et les hommes dans le monde syro-mésopotamien aux époques historiques (Lyon)"
+title: "Noms d´oiseaux à Ébla: les rapaces"
+previous_item: "18856"
+---

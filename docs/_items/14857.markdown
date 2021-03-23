@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14857"
+occurrence_id: "2807"
+short_title: "OLZ 81 (1986), 31-33"
+author: "Freydank, Helmut"
+publication_year: "1986"
+title: "Rv. F. Joannès, Textes économiques de la babylonie récente"
+volume_no_: "81"
+pages: "31-33"
+journal: "Orientalistische Literaturzeitung"
+title: "Rv. F. Joannès, Textes économiques de la babylonie récente"
+previous_item: "14860"
+---

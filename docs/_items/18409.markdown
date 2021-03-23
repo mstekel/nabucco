@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18409"
+occurrence_id: "340"
+short_title: "Briant and Henkelman and Stolper 2008"
+author: "Briant, Pierre "
+publication_year: "2008"
+title: "L'archive des Fortifications de Persepolis. État des questions et perspectives de recherches, Persika 12"
+title: "L'archive des Fortifications de Persepolis. État des questions et perspectives de recherches, Persika 12"
+previous_item: "18412"
+---

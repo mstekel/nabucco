@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9028"
+occurrence_id: "1474"
+short_title: "ArOr 36 (1968), 213-232"
+author: "Klíma, Otokar"
+publication_year: "1968"
+title: "Wie sah die persische Geschichtsschreibung in der vorislamischen Periode aus?"
+volume_no_: "36"
+pages: "213-232"
+journal: "Archív Orientalí"
+title: "Wie sah die persische Geschichtsschreibung in der vorislamischen Periode aus?"
+previous_item: "9031"
+---

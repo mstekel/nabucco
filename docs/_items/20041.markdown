@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20041"
+occurrence_id: "4457"
+short_title: "Frame 1986"
+author: "Frame, Grant"
+publication_year: "1986"
+title: "The Correspondence of Nabû-ušabši, Governor of Uruk"
+pages: "260-72"
+editor: "Veenhof, Klaas , Roelof "
+book: "Cuneiform Archives and Libraries, RAI 30, PIHANS 57 (Istanbul)"
+title: "The Correspondence of Nabû-ušabši, Governor of Uruk"
+previous_item: "20044"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16441"
+occurrence_id: "2277"
+short_title: "JNES 19 (1960), 90-100"
+author: "Hallock, Richard T."
+publication_year: "1960"
+title: "A New Look at the Persepolis Treasury Tablets"
+volume_no_: "19"
+pages: "90-100"
+journal: "Journal of Near Eastern Studies"
+title: "A New Look at the Persepolis Treasury Tablets"
+previous_item: "16444"
+---

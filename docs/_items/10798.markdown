@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10798"
+occurrence_id: "1977"
+short_title: "Iraq 55 (1993), 149-153"
+author: "MacGinnis, John"
+publication_year: "1993"
+title: "Two Achaemenid Tablets from theFitzwilliam Museum, Cambridge"
+volume_no_: "55"
+pages: "149-153"
+journal: "Iraq"
+title: "Two Achaemenid Tablets from theFitzwilliam Museum, Cambridge"
+previous_item: "10801"
+---

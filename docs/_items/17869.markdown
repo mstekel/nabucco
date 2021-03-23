@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17869"
+occurrence_id: "4111"
+short_title: "Wicks 2015"
+author: "Wicks, Yasmina "
+publication_year: "2015"
+title: "Bronze 'Bathtub' Coffins in the Context of 8th-6th Century BC Babylonian, Assyrian and Elamite Funerary Practices (Oxford)"
+title: "Bronze 'Bathtub' Coffins in the Context of 8th-6th Century BC Babylonian, Assyrian and Elamite Funerary Practices (Oxford)"
+previous_item: "17872"
+---

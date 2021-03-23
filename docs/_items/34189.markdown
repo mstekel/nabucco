@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34189"
+place_id: "466"
+parent_id: "40"
+place_name: "Hattāja"
+title: "Hattāja"
+previous_item: "34192"
+---

@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17308"
+occurrence_id: "691"
+short_title: "Langdon 1912 (VAB 4)"
+author: "Langdon, Stephen.H. "
+publication_year: "1912"
+title: "Die neubabylonischen Königsinschriften. VAB 4 (Leipzig)"
+title: "Die neubabylonischen Königsinschriften. VAB 4 (Leipzig)"
+previous_item: "17311"
+---

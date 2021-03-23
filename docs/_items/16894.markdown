@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16894"
+occurrence_id: "509"
+short_title: "Meissner 1892"
+author: "Meissner, Bruno "
+publication_year: "1892"
+title: "De servitute Babyloniaca-Assyriaca"
+title: "De servitute Babyloniaca-Assyriaca"
+previous_item: "16897"
+---

@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18109"
+occurrence_id: "874"
+short_title: "Sachs;Hunger 1988"
+author: "Hunger, Hermann "
+publication_year: "1988"
+title: "Astronomical Diaries and Related Texts from Babylonia. Vol. 1: Diaries from 652 B.C. to 262 B.C., Österreichische Akademie der Wissenschaften. Philosophisch-historische Klasse. Denkschriften 195 (Wien)"
+title: "Astronomical Diaries and Related Texts from Babylonia. Vol. 1: Diaries from 652 B.C. to 262 B.C., Österreichische Akademie der Wissenschaften. Philosophisch-historische Klasse. Denkschriften 195 (Wien)"
+previous_item: "18112"
+---

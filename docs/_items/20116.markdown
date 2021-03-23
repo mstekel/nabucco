@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20116"
+occurrence_id: "4857"
+short_title: "Dandamayev 1988b"
+author: "Dandamayev, Muhammed A."
+publication_year: "1988"
+title: "Royal Economy in the Achaemenid Empire"
+pages: "145-155"
+editor: "Allam, S."
+book: "Stato, Economia, Lavoro nel Vicino Oriente antico (Milano)"
+title: "Royal Economy in the Achaemenid Empire"
+previous_item: "20119"
+---

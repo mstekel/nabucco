@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15760"
+occurrence_id: "1631"
+short_title: "BiOr 13 (1956), 102-106"
+author: "Petschow, Herbert"
+publication_year: "1956"
+title: "Zur neubabylonischen imittu (Pachtauflage)"
+volume_no_: "13"
+pages: "102-106"
+journal: "Bibliotheca Orientalis"
+title: "Zur neubabylonischen imittu (Pachtauflage)"
+previous_item: "15763"
+---

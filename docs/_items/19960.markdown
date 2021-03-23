@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19960"
+occurrence_id: "5112"
+short_title: "Zawadzki 2010b"
+author: "Zawadzki, Stefan"
+publication_year: "2010"
+title: "Garments in Non-Cultic Context (Neo-Babylonian Period)"
+pages: "409-429"
+editor: "Michel, Cécile"
+book: "Textile Terminologies in the Ancient Near East and Mediterranean from the Third to the First Millennia BC, Ancient Textiles Series 8 (Oxford)"
+title: "Garments in Non-Cultic Context (Neo-Babylonian Period)"
+previous_item: "19963"
+---

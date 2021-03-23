@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8578"
+occurrence_id: "2069"
+short_title: "JAOS 108 (1988, publ.1989), 661-663"
+author: "Arnold, Bill T."
+publication_year: "1988 publ.1989"
+title: "Rv. J.A. Brinkman, Prelude to Empire: Babylonian Society and Politics, 747-626 B.C. (1984)"
+volume_no_: "108"
+pages: "661-663"
+journal: "Journal of the American Oriental Society"
+title: "Rv. J.A. Brinkman, Prelude to Empire: Babylonian Society and Politics, 747-626 B.C. (1984)"
+previous_item: "8581"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8233"
+occurrence_id: "3232"
+short_title: "Sumer 35 (1979), 168-167 (Arabic: 164-166)"
+author: "Ismail, Bahija K."
+publication_year: "1979"
+title: "Structures of the Babylonian King Nabopolassar"
+volume_no_: "35"
+pages: "168-167 (Arabic: 164-166)"
+journal: "Sumer"
+title: "Structures of the Babylonian King Nabopolassar"
+previous_item: "8236"
+---

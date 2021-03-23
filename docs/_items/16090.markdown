@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16090"
+occurrence_id: "3408"
+short_title: "ZA 52 (1957), 338-339"
+author: "Eilers, Wilhelm"
+publication_year: "1957"
+title: "Rv. M. San Nicolò, Der neubabylonische Lehrvertrag in rechtsvergleichender Betrachtung (1950)"
+volume_no_: "52"
+pages: "338-339"
+journal: "Zeitschrift für Assyriologie"
+title: "Rv. M. San Nicolò, Der neubabylonische Lehrvertrag in rechtsvergleichender Betrachtung (1950)"
+previous_item: "16093"
+---

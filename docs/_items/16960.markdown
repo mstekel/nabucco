@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16960"
+occurrence_id: "914"
+short_title: "Wiseman 1960"
+author: "Wiseman, Donald J. "
+publication_year: "1960"
+title: "Additional Neo-babylonian Gilgamesh Fragments, RAI VII"
+title: "Additional Neo-babylonian Gilgamesh Fragments, RAI VII"
+previous_item: "16963"
+---

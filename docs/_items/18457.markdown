@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18457"
+occurrence_id: "627"
+short_title: "VS XVII"
+author: "van Dijk, Jan J.A. "
+publication_year: "1971"
+title: "Vorderasiatische Schriftdenkmäler der (Königlichen) Staatlichen Museen zu Berlin [VS] NF I = XVII: Nicht-kanonische Beschwörungen and sonstige literarische Texte"
+title: "Vorderasiatische Schriftdenkmäler der (Königlichen) Staatlichen Museen zu Berlin [VS] NF I = XVII: Nicht-kanonische Beschwörungen and sonstige literarische Texte"
+previous_item: "18460"
+---

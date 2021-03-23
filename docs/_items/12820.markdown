@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12820"
+occurrence_id: "3854"
+short_title: "TLS 63/3269 (1964), 961"
+author: "Anonymus"
+publication_year: "1964"
+title: "Rv. R. Ghirshman, Persia from the Origins to Alexander the Great"
+volume_no_: "63/3269"
+pages: "961"
+journal: "Times Literary Supplement"
+title: "Rv. R. Ghirshman, Persia from the Origins to Alexander the Great"
+previous_item: "12823"
+---

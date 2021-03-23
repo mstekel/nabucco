@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19237"
+occurrence_id: "4565"
+short_title: "Oelsner 1978 publ. 1981"
+author: "Oelsner, Joachim"
+publication_year: "1978 publ. 1981"
+title: "Zur neu- und spätbabylonischen Siegelpraxis"
+pages: "167-186"
+editor: "Hruška, Blahoslav"
+book: "Fs.Lubor Matouš, vol. II (Budapest )"
+title: "Zur neu- und spätbabylonischen Siegelpraxis"
+previous_item: "19240"
+---

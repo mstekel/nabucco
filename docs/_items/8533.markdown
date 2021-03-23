@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8533"
+occurrence_id: "1829"
+short_title: "Centaurus 41 (1999), 280-292."
+author: "Hunger, Hermann"
+publication_year: "1999"
+title: "The Babylonian Zodiac: Speculations on its invention and significance"
+volume_no_: "41"
+pages: "280-292"
+journal: "Centaurus"
+title: "The Babylonian Zodiac: Speculations on its invention and significance"
+previous_item: "8536"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20539"
+occurrence_id: "4907"
+short_title: "Neugebauer 1954"
+author: "Neugebauer, Otto"
+publication_year: "1954"
+title: "Ancient Mathematics and Astronomy"
+pages: "785-804"
+editor: "Oliver, John, W."
+book: "A History of Technology I"
+title: "Ancient Mathematics and Astronomy"
+previous_item: "20542"
+---

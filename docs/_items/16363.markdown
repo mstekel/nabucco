@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16363"
+occurrence_id: "1859"
+short_title: "Droit et Cultures 39 (2000/2001), 39-57"
+author: "Glassner, Jean-Jacques"
+publication_year: "2000/2001"
+title: "Questions mésopotamiennes à propos de l´esclavage"
+volume_no_: "39"
+pages: "39-57"
+journal: "Droit et Cultures"
+title: "Questions mésopotamiennes à propos de l´esclavage"
+previous_item: "16366"
+---

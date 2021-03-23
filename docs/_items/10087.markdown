@@ -1,0 +1,15 @@
+---
+layout: "bibliography"
+slug: "10087"
+occurrence_id: "705"
+short_title: "Kleber, ZAR 16 (2010)"
+author: "Kleber, Kristin"
+publication_year: "2010"
+title: "dātu ša šarri: Gesetzgebung in Babylonien unter den Achämeniden (with the collab. of Johannes Hackl) "
+volume_no_: "16"
+pages: "49-75"
+related_objects: "7337"
+journal: "Zeitschrift für Altorientalische und Biblische Rechtsgeschichte"
+title: "dātu ša šarri: Gesetzgebung in Babylonien unter den Achämeniden (with the collab. of Johannes Hackl) "
+previous_item: "10090"
+---

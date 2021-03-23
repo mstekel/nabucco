@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19027"
+occurrence_id: "4548"
+short_title: "Duchesne-Guillemin 1972"
+author: "Duchesne-Guillemin, Jacques"
+publication_year: "1972"
+title: "La religion des Achémenides"
+pages: "59-82"
+editor: "Walser, Gerold"
+book: "Beiträge zur Achämenidengeschichte, Historia, Zeitschrift für alte Geschichte, Einzelschriften, Heft 18 (Wiesbaden)"
+title: "La religion des Achémenides"
+previous_item: "19030"
+---

@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16651"
+occurrence_id: "596"
+short_title: "Tallqvist 1890"
+author: "Tallqvist, Knut L. "
+publication_year: "1890"
+title: "Die Sprache der Contracte Nabû-nā'ids (555-538 v.Chr.), mit Berücksichtigung der Contracte Nebukadrezars und Cyrus'"
+title: "Die Sprache der Contracte Nabû-nā'ids (555-538 v.Chr.), mit Berücksichtigung der Contracte Nebukadrezars und Cyrus'"
+previous_item: "16654"
+---

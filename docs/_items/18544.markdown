@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "18544"
+occurrence_id: "4177"
+short_title: "Fadhil and Hilgert 2011"
+author: "Fadhil, Anmar, Abdulillah"
+publication_year: "2011"
+title: "«Verwandelt meine Verfehlungen in Gutes!» Ein šigû-Gebet an Marduk aus dem Bestand der «Sippar-Bibliothek»"
+pages: "93-109"
+editor: "Barjamovic, Gojko "
+title: "«Verwandelt meine Verfehlungen in Gutes!» Ein šigû-Gebet an Marduk aus dem Bestand der «Sippar-Bibliothek»"
+previous_item: "18547"
+---

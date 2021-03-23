@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11791"
+occurrence_id: "1316"
+short_title: "Akkadica 123/2 (2002), 131-135"
+author: "De Meyer, Léon"
+publication_year: "2002"
+title: "Proposition sur les destructions de Mari à l´époque d´Agadé"
+volume_no_: "123/3"
+pages: "131-135"
+journal: "Akkadica"
+title: "Proposition sur les destructions de Mari à l´époque d´Agadé"
+previous_item: "11794"
+---

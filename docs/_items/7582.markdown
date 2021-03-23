@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "7582"
+occurrence_id: "2746"
+short_title: "NABU 2011/33"
+author: "Jursa, Michael"
+title: "The Courtier in the commentary"
+volume_no_: "33"
+publication_year: "2011"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "The Courtier in the commentary"
+previous_item: "7585"
+---

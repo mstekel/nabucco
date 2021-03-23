@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "15646"
+occurrence_id: "4036"
+short_title: "WZKM 103 (2013), 365-380"
+author: "Tavernier, Jan"
+publication_year: "2013"
+title: "Der Achämenidenhof weiter untersucht. Zum Themenband Der Achämenidenhof / The Achaemenid Court, Wiesbaden 2010 (Classica et Orientalia 2)"
+volume_no_: "103"
+pages: "365-380"
+title: "Der Achämenidenhof weiter untersucht. Zum Themenband Der Achämenidenhof / The Achaemenid Court, Wiesbaden 2010 (Classica et Orientalia 2)"
+previous_item: "15649"
+---

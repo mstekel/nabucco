@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12520"
+occurrence_id: "2238"
+short_title: "JESHO 31 (1988), 14-41"
+author: "Elayi, Josette"
+publication_year: "1988"
+title: "L´Exploitation des cèdres du Mont Liban par les rois assyriens et néo-babyloniens"
+volume_no_: "31"
+pages: "14-41"
+journal: "Journal of the Economic and Social History of the Orient"
+title: "L´Exploitation des cèdres du Mont Liban par les rois assyriens et néo-babyloniens"
+previous_item: "12523"
+---

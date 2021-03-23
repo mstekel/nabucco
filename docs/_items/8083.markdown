@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8083"
+occurrence_id: "2423"
+short_title: "Mesopotamia 45 (2010), 113-121"
+author: "Gasche, Hermann"
+publication_year: "2010"
+title: "Les défenses avancées de Babylone à l'époque de Nabuchodonosor II."
+volume_no_: "45"
+pages: "113-121"
+journal: "Mesopotamia"
+title: "Les défenses avancées de Babylone à l'époque de Nabuchodonosor II."
+previous_item: "8086"
+---

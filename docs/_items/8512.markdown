@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8512"
+occurrence_id: "1716"
+short_title: "BiOr 6 (1949), 17-18"
+author: "van der Waerden, Bartel L."
+publication_year: "1949"
+title: "Rv. R.A. Parker and W.H. Dubberstein, Babylonian Chronology 626 B.C. - A.D. 45"
+volume_no_: "6"
+pages: "17-18"
+journal: "Bibliotheca Orientalis"
+title: "Rv. R.A. Parker and W.H. Dubberstein, Babylonian Chronology 626 B.C. - A.D. 45"
+previous_item: "8515"
+---

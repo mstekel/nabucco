@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15427"
+occurrence_id: "2856"
+short_title: "Or 26 (1957), 55-58"
+author: "von Soden, Wolfram"
+publication_year: "1957"
+title: "Rv. Late Babylonian Astronomical Texts (copied by T.G. Pinches and J.N. Strassmaier, prepared for publication by A.J. Sachs)"
+volume_no_: "26"
+pages: "55-58"
+journal: "Orientalia"
+title: "Rv. Late Babylonian Astronomical Texts (copied by T.G. Pinches and J.N. Strassmaier, prepared for publication by A.J. Sachs)"
+previous_item: "15430"
+---

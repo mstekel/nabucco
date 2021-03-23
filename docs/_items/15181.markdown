@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15181"
+occurrence_id: "1534"
+short_title: "AuOr 12 (1994), 225"
+author: "Garcia Recio, Jesús"
+publication_year: "1994"
+title: "Fragmento de una inscripción de Nabucodonosor II."
+volume_no_: "12"
+pages: "225"
+journal: "Aula Orientalis"
+title: "Fragmento de una inscripción de Nabucodonosor II."
+previous_item: "15184"
+---

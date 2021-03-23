@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33532"
+place_id: "592"
+parent_id: "40"
+place_name: "Pandānu"
+title: "Pandānu"
+previous_item: "33535"
+---

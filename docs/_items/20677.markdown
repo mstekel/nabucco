@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20677"
+occurrence_id: "4540"
+short_title: "Finkel 1999"
+author: "Finkel, Irving L."
+publication_year: "1999"
+title: "The Lament of Nabû-šuma-ukîn"
+pages: "323-342"
+editor: "Renger, Johannes"
+book: "Babylon: Focus mesopotamischer Geschichte, Wiege früher Gelehrsamkeit, Mythos in der Moderne, CDOG 2 (Saarbrücken)"
+title: "The Lament of Nabû-šuma-ukîn"
+previous_item: "20680"
+---

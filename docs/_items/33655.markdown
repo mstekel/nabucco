@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33655"
+place_id: "787"
+parent_id: "61"
+place_name: "Bāb-āli"
+title: "Bāb-āli"
+previous_item: "33658"
+---

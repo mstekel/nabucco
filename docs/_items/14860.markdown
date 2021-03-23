@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14860"
+occurrence_id: "2823"
+short_title: "OLZ 95 (2000), 176-179"
+author: "von Weiher, Egbert"
+publication_year: "2000"
+title: "Rv. R. Wallenfels, Seleucid Archival Texts in the Harvard Semitic Museum (CM 12, 1998)"
+volume_no_: "95"
+pages: "176-179"
+journal: "Orientalistische Literaturzeitung"
+title: "Rv. R. Wallenfels, Seleucid Archival Texts in the Harvard Semitic Museum (CM 12, 1998)"
+previous_item: "14863"
+---

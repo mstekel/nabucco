@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18319"
+occurrence_id: "573"
+short_title: "Schuol 2000"
+author: "Schuol, Monika "
+publication_year: "2000"
+title: "Die Charakene. Ein mesopotamisches Königreich in hellenistisch-parhischer Zeit, Oriens et Occidens 1"
+title: "Die Charakene. Ein mesopotamisches Königreich in hellenistisch-parhischer Zeit, Oriens et Occidens 1"
+previous_item: "18322"
+---

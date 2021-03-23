@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15511"
+occurrence_id: "3311"
+short_title: "WeOr 12 (1981 publ. 1982), 39-69"
+author: "Zadok, Ran"
+publication_year: "1981 publ. 1982"
+title: "The Toponymy of the Nippur Region during the1st Millennium B.C. within theGeneral Framework of the Mesopotamian Toponymy"
+volume_no_: "12"
+pages: "39-69"
+journal: "Die Welt des Orients"
+title: "The Toponymy of the Nippur Region during the1st Millennium B.C. within theGeneral Framework of the Mesopotamian Toponymy"
+previous_item: "15514"
+---

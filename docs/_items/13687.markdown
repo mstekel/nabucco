@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "13687"
+occurrence_id: "2515"
+short_title: "NABU 1995/109"
+author: "Cole, Steven W."
+title: "On the Existence and Meaning of a Term šīmūtu in Early Neo-Babylonian"
+volume_no_: "109"
+publication_year: "1995"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "On the Existence and Meaning of a Term šīmūtu in Early Neo-Babylonian"
+previous_item: "13690"
+---

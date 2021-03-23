@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15775"
+occurrence_id: "1713"
+short_title: "BiOr 59 (2002), 119-122"
+author: "Tavernier, S."
+publication_year: "2002"
+title: "Rv. P. Briant, Bulletin d'histoire achémenide II"
+volume_no_: "59"
+pages: "119-122"
+journal: "Bibliotheca Orientalis"
+title: "Rv. P. Briant, Bulletin d'histoire achémenide II"
+previous_item: "15778"
+---

@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34609"
+place_id: "94"
+parent_id: "40"
+place_name: "Agrīt"
+title: "Agrīt"
+previous_item: "34612"
+---

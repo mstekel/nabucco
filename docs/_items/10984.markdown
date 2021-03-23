@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "10984"
+occurrence_id: "2981"
+short_title: "PEQ 78 (1946), 125-132"
+author: "Avigad, Nahman"
+publication_year: "1946"
+title: "A Seal of a Slave-Wife (amah)"
+volume_no_: "78"
+pages: "125-132"
+title: "A Seal of a Slave-Wife (amah)"
+previous_item: "10987"
+---

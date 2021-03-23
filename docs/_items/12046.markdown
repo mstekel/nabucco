@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "12046"
+occurrence_id: "2689"
+short_title: "NABU 2006/44"
+author: "Nielsen, John P."
+title: "Additions to Michael Jursa's Neo-Babylonian Legal and Administrative Documents (GMTR 1)."
+volume_no_: "44"
+publication_year: "2006"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Additions to Michael Jursa's Neo-Babylonian Legal and Administrative Documents (GMTR 1)."
+previous_item: "12049"
+---

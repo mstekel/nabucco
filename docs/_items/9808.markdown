@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "9808"
+occurrence_id: "2653"
+short_title: "NABU 2003/18"
+author: "MacGinnis, John"
+title: "Inscriptions on the bullae from Ishan Hafudh"
+volume_no_: "18"
+publication_year: "2003"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Inscriptions on the bullae from Ishan Hafudh"
+previous_item: "9811"
+---

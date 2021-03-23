@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12148"
+occurrence_id: "3239"
+short_title: "Syria 40 (1963), 360-361"
+author: "Parrot, André"
+publication_year: "1963"
+title: "Rv. E. Porada, Iran Ancien"
+volume_no_: "40"
+pages: "360-361"
+journal: "Syria"
+title: "Rv. E. Porada, Iran Ancien"
+previous_item: "12151"
+---

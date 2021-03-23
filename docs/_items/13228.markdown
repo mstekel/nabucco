@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13228"
+occurrence_id: "3049"
+short_title: "RA 69 (1975 publ. 1976), 95"
+author: "Gurney, Oliver R."
+publication_year: "1975"
+title: "The quarters of Babylon"
+volume_no_: "69"
+pages: "95"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "The quarters of Babylon"
+previous_item: "13231"
+---

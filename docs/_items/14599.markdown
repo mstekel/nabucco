@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14599"
+occurrence_id: "1419"
+short_title: "AoF 17 (1990), 100-106"
+author: "Zawadzki, Stefan"
+publication_year: "1990"
+title: "Ein wichtiger Fehler in der neubabylonischen Chronik BM 21946 and seine Folgen: das Krönungsdatum Nebukadnezars II."
+volume_no_: "17"
+pages: "100-106"
+journal: "Altorientalische Forschungen"
+title: "Ein wichtiger Fehler in der neubabylonischen Chronik BM 21946 and seine Folgen: das Krönungsdatum Nebukadnezars II."
+previous_item: "14602"
+---

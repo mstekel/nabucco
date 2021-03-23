@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8239"
+occurrence_id: "3264"
+short_title: "Transeuphratène 18 (1999), 152-153"
+author: "Elayi, Josette"
+publication_year: "1999"
+title: "Rv. P. Lecoq, Les inscriptions de la Perse achémenide (1997)"
+volume_no_: "18"
+pages: "152-153"
+journal: "Transeuphratène"
+title: "Rv. P. Lecoq, Les inscriptions de la Perse achémenide (1997)"
+previous_item: "8242"
+---

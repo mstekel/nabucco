@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21775"
+occurrence_id: "4881"
+short_title: "Dandamayev 2002"
+author: "Dandamayev, Muhammed A."
+publication_year: "2002"
+title: "Business Ventures of a Scribal Family from Babylon"
+pages: "53-59 (Engl. summary 59)"
+editor: "Kogan, Leonid"
+book: "History and Languages of Ancient Orient: I.M. Diakonoff Memorial Volume (St. Petersburg)"
+title: "Business Ventures of a Scribal Family from Babylon"
+previous_item: "21778"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11038"
+occurrence_id: "3269"
+short_title: "Transeuphratène 5 (1992), 57-61"
+author: "Heltzer, Michael"
+publication_year: "1992"
+title: "A Recently Published Babylonian Tablet and the Province of Judah after 516 B.C.E."
+volume_no_: "5"
+pages: "57-61"
+journal: "Transeuphratène"
+title: "A Recently Published Babylonian Tablet and the Province of Judah after 516 B.C.E."
+previous_item: "11041"
+---

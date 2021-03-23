@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19132"
+occurrence_id: "5108"
+short_title: "Zawadzki 2000b"
+author: "Zawadzki, Stefan"
+publication_year: "2000"
+title: "BM 74675 - A Neo-Babylonian Text Concerning the Clothing Ceremony in Sippar"
+pages: "1215-1217"
+editor: "Graziani, Simonetta"
+book: "Studi sul vicino oriente antico dedicati alla memoria di Luigi Cagni (Napoli)"
+title: "BM 74675 - A Neo-Babylonian Text Concerning the Clothing Ceremony in Sippar"
+previous_item: "19135"
+---

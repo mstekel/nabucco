@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20437"
+occurrence_id: "4363"
+short_title: "Joannès 1999"
+author: "Joannès, Francis"
+publication_year: "1999"
+title: "Structures et opérations commerciales en Babylonie à l´époque néo-babylonienne"
+pages: "175-194"
+editor: "Dercksen, Jan G."
+book: "Trade and Finance in Ancient Mesopotamia, MOS Studies 1, PIHANS 84 (Istanbul and Leiden)"
+title: "Structures et opérations commerciales en Babylonie à l´époque néo-babylonienne"
+previous_item: "20440"
+---

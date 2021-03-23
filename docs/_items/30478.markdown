@@ -1,0 +1,12 @@
+---
+layout: "tablet"
+slug: "30478"
+object_id: "7627"
+museum_no_: "YBC 16313"
+duplicate: "BM 41402"
+imported: "Kathleen Abraham 09/01/2017"
+archive: "Egibi/Nūr-Sîn"
+related_objects: "7678"
+title: "YBC 16313"
+previous_item: "30481"
+---

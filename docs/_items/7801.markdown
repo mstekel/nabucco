@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "7801"
+occurrence_id: "3925"
+short_title: "Kaskal 12 (2015), 349-382"
+author: "Schneider, Bernhard"
+publication_year: "2015"
+title: "Assurbanipal and the Ziggurat at Nippur"
+volume_no_: "12"
+pages: "349-382"
+title: "Assurbanipal and the Ziggurat at Nippur"
+previous_item: "7804"
+---

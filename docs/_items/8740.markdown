@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8740"
+occurrence_id: "2945"
+short_title: "Or 79 (2010), 570-574"
+author: "Wunsch, Cornelia"
+publication_year: "2010"
+title: "Rv. D.B. Weisberg, Neo-Babylonian Texts in the Oriental Institute Collection, OIP 122."
+volume_no_: "79"
+pages: "570-574"
+journal: "Orientalia"
+title: "Rv. D.B. Weisberg, Neo-Babylonian Texts in the Oriental Institute Collection, OIP 122."
+previous_item: "8743"
+---

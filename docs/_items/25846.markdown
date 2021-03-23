@@ -1,0 +1,15 @@
+---
+layout: "tablet"
+slug: "25846"
+object_id: "5381"
+museum_no_: "BM 118969"
+publication: "Frame 2013"
+text_number: "6b"
+duplicate: "BM 118975"
+period: "ENB"
+imported: "Melanie Gross (26/05/2016)"
+publication_name: "Frame 2013 6b"
+related_objects: "5383"
+title: "BM 118969"
+previous_item: "25849"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12697"
+occurrence_id: "3192"
+short_title: "SMEA 35 (1995), 105-109"
+author: "Khačikyan, Margaret L."
+publication_year: "1995"
+title: "Notes on the Elamite Phonology"
+volume_no_: "35"
+pages: "105-109"
+journal: "Studi Micenei ed Egeo-Anatolici"
+title: "Notes on the Elamite Phonology"
+previous_item: "12700"
+---

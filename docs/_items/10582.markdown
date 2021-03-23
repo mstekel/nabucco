@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10582"
+occurrence_id: "3818"
+short_title: "Onomastica 12 (1967), 276-285"
+author: "Machalski, Franciszek"
+publication_year: "1967"
+title: "Iranische Personennamen in den keilschriftlichen Texten der Achämeniden"
+volume_no_: "12"
+pages: "276-285"
+journal: "Onomastica"
+title: "Iranische Personennamen in den keilschriftlichen Texten der Achämeniden"
+previous_item: "10585"
+---

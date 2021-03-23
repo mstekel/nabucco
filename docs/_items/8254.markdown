@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8254"
+occurrence_id: "3346"
+short_title: "WeOr 5/2 (1970), 165-171"
+author: "Borger, Rykle"
+publication_year: "1970"
+title: "Bemerkungen zu den akkadischen Kolophonen"
+volume_no_: "5/2."
+pages: "165-171"
+journal: "Die Welt des Orients"
+title: "Bemerkungen zu den akkadischen Kolophonen"
+previous_item: "8257"
+---

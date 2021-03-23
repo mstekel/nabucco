@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "11740"
+occurrence_id: "4045"
+short_title: "JNES 71/2 (2012), 285-298"
+author: "Waerzeggers, Caroline"
+publication_year: "2012"
+title: "The Babylonian Chronicles: Classification and Provenance"
+volume_no_: "71/2"
+pages: "285-298"
+title: "The Babylonian Chronicles: Classification and Provenance"
+previous_item: "11743"
+---

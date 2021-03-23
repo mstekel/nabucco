@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15283"
+occurrence_id: "2081"
+short_title: "JAOS 116 (1996), 762-763"
+author: "Foster, Benjamin R."
+publication_year: "1996"
+title: "Rv. M. Silver, Economic Structures of Antiquity (1995)"
+volume_no_: "116"
+pages: "762-763"
+journal: "Journal of the American Oriental Society"
+title: "Rv. M. Silver, Economic Structures of Antiquity (1995)"
+previous_item: "15286"
+---

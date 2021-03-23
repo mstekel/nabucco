@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14125"
+occurrence_id: "1871"
+short_title: "Folia Orientalia 7 (1965), 343"
+author: "Machalski, Franciszek"
+publication_year: "1965"
+title: "Rv. J.P. Asmussen, Historiske tekster fra Achaemenidetiden"
+volume_no_: "7"
+pages: "343"
+journal: "Folia Orientalia"
+title: "Rv. J.P. Asmussen, Historiske tekster fra Achaemenidetiden"
+previous_item: "14128"
+---

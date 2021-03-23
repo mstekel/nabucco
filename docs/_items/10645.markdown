@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10645"
+occurrence_id: "1146"
+short_title: "AcAntHung 12 (1964), 217-230"
+author: "Harmatta, János"
+publication_year: "1964"
+title: "Die sassanidischen Siegelinschriften als geschichtliche Quellen"
+volume_no_: "12"
+pages: "217-230"
+journal: "Acta Antiqua Academiae Scientiarum Hungaricae"
+title: "Die sassanidischen Siegelinschriften als geschichtliche Quellen"
+previous_item: "10648"
+---

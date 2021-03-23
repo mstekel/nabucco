@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33991"
+place_id: "844"
+parent_id: "61"
+place_name: "Bīrtu-ša-Bazāja"
+title: "Bīrtu-ša-Bazāja"
+previous_item: "33994"
+---

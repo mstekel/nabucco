@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17671"
+occurrence_id: "551"
+short_title: "Richter 2001"
+author: "Klinger, Jörg "
+publication_year: "2001"
+title: "Kulturgeschichten. Altorientalische Studien für Volkert Haas zum 65. Geburtstag (Fs.Haas)"
+title: "Kulturgeschichten. Altorientalische Studien für Volkert Haas zum 65. Geburtstag (Fs.Haas)"
+previous_item: "17674"
+---

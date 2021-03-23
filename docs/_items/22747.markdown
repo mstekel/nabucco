@@ -1,0 +1,10 @@
+---
+layout: "archive"
+slug: "22747"
+archive_id: "247"
+archive_name: "Gahal"
+is_part_of: "Kiš"
+related_objects: "5527"
+title: "Gahal"
+previous_item: "22750"
+---

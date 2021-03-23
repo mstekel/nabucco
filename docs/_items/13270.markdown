@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13270"
+occurrence_id: "3273"
+short_title: "TRG 26 (1958), 345-348"
+author: "Boyer, Georges"
+publication_year: "1958"
+title: "Rv. H.P.H. Petschow, Neubabylonisches Pfandrecht"
+volume_no_: "26"
+pages: "345-348"
+journal: "Tijdschrift voor Rechtsgeschiedenis"
+title: "Rv. H.P.H. Petschow, Neubabylonisches Pfandrecht"
+previous_item: "13273"
+---

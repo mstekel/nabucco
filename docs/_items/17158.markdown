@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17158"
+occurrence_id: "564"
+short_title: "Salonen 1975"
+author: "Salonen, Erkki "
+publication_year: "1975"
+title: "Neubabylonische Urkunden verschiedenen Inhalts, I"
+title: "Neubabylonische Urkunden verschiedenen Inhalts, I"
+previous_item: "17161"
+---

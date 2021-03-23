@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34894"
+place_id: "1108"
+parent_id: "61"
+place_name: "Kapri-šapiri"
+title: "Kapri-šapiri"
+previous_item: "34897"
+---

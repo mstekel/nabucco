@@ -1,0 +1,10 @@
+---
+layout: "glossary"
+slug: "35638"
+concept_id: "820"
+label: "Litigation"
+hierarchy: "Content type"
+type: "172"
+title: "Litigation"
+previous_item: "35641"
+---

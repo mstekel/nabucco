@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10852"
+occurrence_id: "2267"
+short_title: "JNES 14 (1955), 61-64"
+author: "Frankfort, Henri"
+publication_year: "1955"
+title: "Rv. E.F. Schmidt, Persepolis I: Structures, Reliefs, Inscriptions"
+volume_no_: "14"
+pages: "61-64"
+journal: "Journal of Near Eastern Studies"
+title: "Rv. E.F. Schmidt, Persepolis I: Structures, Reliefs, Inscriptions"
+previous_item: "10855"
+---

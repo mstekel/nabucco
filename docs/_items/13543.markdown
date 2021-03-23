@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13543"
+occurrence_id: "1741"
+short_title: "BMB 26 (1973 publ. 1975), 35-39"
+author: "Wilhelm, Gernot"
+publication_year: "1973 publ. 1975"
+title: "La première tablette cunéiforme trouvée à Tyr"
+volume_no_: "26"
+pages: "35-39"
+journal: "Bulletin du Musée de Beyrouh"
+title: "La première tablette cunéiforme trouvée à Tyr"
+previous_item: "13546"
+---

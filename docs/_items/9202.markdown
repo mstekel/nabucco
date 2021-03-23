@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9202"
+occurrence_id: "2409"
+short_title: "Mesopotamia 28 (1993), 349-352"
+author: "Cagni, Luigi"
+publication_year: "1993"
+title: "Rv. K. Kessler, Uruk. Urkunden aus Privahäusern. Die Wohnhäuser westlich des Eanna-Tempelbereichs. Teil I: Die Archive der Söhne des Bēl-ušallim, des Nabû-ušallim and des Bēl-supê-muhur (AUWE 8, 1991)"
+volume_no_: "28"
+pages: "349-352"
+journal: "Mesopotamia"
+title: "Rv. K. Kessler, Uruk. Urkunden aus Privahäusern. Die Wohnhäuser westlich des Eanna-Tempelbereichs. Teil I: Die Archive der Söhne des Bēl-ušallim, des Nabû-ušallim and des Bēl-supê-muhur (AUWE 8, 1991)"
+previous_item: "9205"
+---

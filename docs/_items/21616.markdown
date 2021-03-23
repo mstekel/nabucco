@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21616"
+occurrence_id: "5136"
+short_title: "Koch-Westenholz 2002"
+author: "Koch-Westenholz, Ulla"
+publication_year: "2002"
+title: "Everyday Life of Women According to First Millenium Omen Apodoses"
+pages: "301-310"
+editor: "Whiting, Robert McCray"
+book: "Sex and Gender in the Ancient Near East, RAI 47/I (Helsinki)"
+title: "Everyday Life of Women According to First Millenium Omen Apodoses"
+previous_item: "21619"
+---

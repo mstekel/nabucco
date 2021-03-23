@@ -1,0 +1,10 @@
+---
+layout: "archive"
+slug: "22894"
+archive_id: "70"
+archive_name: "Bēl-ušallim//Lēˀēa"
+is_part_of: "Babylon"
+related_objects: "5471"
+title: "Bēl-ušallim//Lēˀēa"
+previous_item: "22897"
+---

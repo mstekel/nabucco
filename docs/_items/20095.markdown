@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20095"
+occurrence_id: "4745"
+short_title: "Geller 1995a"
+author: "Geller, Mark J."
+publication_year: "1995"
+title: "An Eanna Tablet from Uruk in Cleveland"
+pages: "531-542"
+editor: "Sokoloff, Michael"
+book: "Solving Riddless and Untying Knots. Biblical, Epigraphic and Semitic Studies in Honor of Jonas C. Greenfield, Fs. Greenfield (Winona Lake)"
+title: "An Eanna Tablet from Uruk in Cleveland"
+previous_item: "20098"
+---

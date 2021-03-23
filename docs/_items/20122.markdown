@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20122"
+occurrence_id: "4889"
+short_title: "Dandamayev 2010"
+author: "Dandamayev, Muhammed A."
+publication_year: "2010"
+title: "A Verdict of Royal Judges in Babylon during the Reign of Nabonidus."
+pages: "67-70"
+editor: "Dönmez, S."
+book: "DUB.SAR É.DUB.BA.A Studies Presented in Honour of Veysel Donbaz (Istanbul)"
+title: "A Verdict of Royal Judges in Babylon during the Reign of Nabonidus."
+previous_item: "20125"
+---

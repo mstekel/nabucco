@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11500"
+occurrence_id: "2753"
+short_title: "NAPR 4 (1989), 70-71"
+author: "Vallat, François"
+publication_year: "1989"
+title: "A propos du \"Mur de Médie\""
+volume_no_: "4"
+pages: "70-71"
+journal: "Northern Akkad Project Reports"
+title: "A propos du \"Mur de Médie\""
+previous_item: "11503"
+---

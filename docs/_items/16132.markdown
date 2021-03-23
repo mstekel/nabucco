@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "16132"
+occurrence_id: "3636"
+short_title: "BLOT (1950), 26"
+author: "Rowley, H.H."
+publication_year: "1950"
+title: "Rv. A.T. Olmstead, History of the Persian Empire (Achaemenid Period)"
+pages: "26"
+journal: "Book List. Society for Old Testament Studies (Llansadwrn, Menai Bridge)"
+title: "Rv. A.T. Olmstead, History of the Persian Empire (Achaemenid Period)"
+previous_item: "16135"
+---

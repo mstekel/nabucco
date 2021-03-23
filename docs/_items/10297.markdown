@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10297"
+occurrence_id: "2266"
+short_title: "JNES 14 (1955), 42-48"
+author: "Paper, Herbert H."
+publication_year: "1955"
+title: "Elamite Texts from Tchogha-Zambil, 1936-39"
+volume_no_: "14"
+pages: "42-48"
+journal: "Journal of Near Eastern Studies"
+title: "Elamite Texts from Tchogha-Zambil, 1936-39"
+previous_item: "10300"
+---

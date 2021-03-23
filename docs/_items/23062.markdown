@@ -1,0 +1,9 @@
+---
+layout: "archive"
+slug: "23062"
+archive_id: "94"
+archive_name: "Mardonios"
+is_part_of: "Babylon"
+title: "Mardonios"
+previous_item: "23065"
+---

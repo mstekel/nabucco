@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21814"
+occurrence_id: "5089"
+short_title: "Simpson 2000"
+author: "Simpson, St John"
+publication_year: "2000"
+title: "Mesopotamia in the Sasanian Period: Settlement Patterns, Arts and Crafts"
+pages: "57-66"
+editor: "Curtis, John"
+book: "Mesopotamia and Iran in the Parthian and Sasanian Periods (London)"
+title: "Mesopotamia in the Sasanian Period: Settlement Patterns, Arts and Crafts"
+previous_item: "21817"
+---

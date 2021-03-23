@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11104"
+occurrence_id: "3627"
+short_title: "BCH 114/1 (1990), 513-541"
+author: "Bernard, Paul"
+publication_year: "1990"
+title: "Épigraphie cunéiforme et histoire hellénistique: Nouvelle contribution de l´épigraphie cunéiforme à l´histoire hellénistique"
+volume_no_: "114/1"
+pages: "513-541"
+journal: "Bulletin de correspondance hellénique"
+title: "Épigraphie cunéiforme et histoire hellénistique: Nouvelle contribution de l´épigraphie cunéiforme à l´histoire hellénistique"
+previous_item: "11107"
+---

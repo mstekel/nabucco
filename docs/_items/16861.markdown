@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16861"
+occurrence_id: "310"
+short_title: "Bae 2001"
+author: "Bae, Chul-Hyun "
+publication_year: "2001"
+title: "Comparative Studies of King Darius´s Bisitun Inscription The Department of Near Eastern Languages and Civilizations"
+title: "Comparative Studies of King Darius´s Bisitun Inscription The Department of Near Eastern Languages and Civilizations"
+previous_item: "16864"
+---

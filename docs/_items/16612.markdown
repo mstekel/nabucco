@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16612"
+occurrence_id: "360"
+short_title: "Colledge 1967"
+author: "Colledge, Malcolm A.R. "
+publication_year: "1967"
+title: "The Parthians"
+title: "The Parthians"
+previous_item: "16615"
+---

@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "14842"
+occurrence_id: "2727"
+short_title: "NABU 2010/15"
+author: "Schrakamp, Ingo"
+title: "Nebukadnezar II. in Berlin"
+volume_no_: "15"
+publication_year: "2010"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Nebukadnezar II. in Berlin"
+previous_item: "14845"
+---

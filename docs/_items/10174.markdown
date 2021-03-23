@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10174"
+occurrence_id: "1605"
+short_title: "BCSMS 28 (1994), 31-36"
+author: "Lee, Thomas G."
+publication_year: "1994"
+title: "Propaganda and the Verse Account of Nabonidus´ Reign"
+volume_no_: "28"
+pages: "31-36"
+journal: "Bulletin. The Canadian Society for Mesopotamian Studies"
+title: "Propaganda and the Verse Account of Nabonidus´ Reign"
+previous_item: "10177"
+---

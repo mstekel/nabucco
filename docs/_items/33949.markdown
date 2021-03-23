@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33949"
+place_id: "172"
+parent_id: "40"
+place_name: "Bāb-Nār-Dērat"
+title: "Bāb-Nār-Dērat"
+previous_item: "33952"
+---

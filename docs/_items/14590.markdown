@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14590"
+occurrence_id: "1369"
+short_title: "AnCl 20 (1951), 239"
+author: "Hombert, M.H."
+publication_year: "1951"
+title: "Rv. M. San Nicolò, Der neubabylonische Lehrvertrag in rechtsvergleichender Betrachtung (1950)"
+volume_no_: "20"
+pages: "239"
+journal: "L´Antiquité classique"
+title: "Rv. M. San Nicolò, Der neubabylonische Lehrvertrag in rechtsvergleichender Betrachtung (1950)"
+previous_item: "14593"
+---

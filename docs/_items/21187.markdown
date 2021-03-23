@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21187"
+occurrence_id: "5054"
+short_title: "Da Riva 2015"
+author: "Da Riva, Rocío"
+publication_year: "2015"
+title: "Enduring Images of an Ephemeral Empire: Neo-Babylonian Inscriptions and Representations on the Western Periphery"
+pages: "603-629"
+editor: "van Dongen, Erik "
+book: "Mesopotamia in the Ancient World. Impact, Continuities, Parallels. Proceedings of the Seventh Symposium of the Melammu Project Held in Obergurgl, Austria, November 4-8, 2013, Melammu Symposia 7 (Münster)"
+title: "Enduring Images of an Ephemeral Empire: Neo-Babylonian Inscriptions and Representations on the Western Periphery"
+previous_item: "21190"
+---

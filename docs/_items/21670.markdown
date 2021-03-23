@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21670"
+occurrence_id: "4320"
+short_title: "Ehrenberg 2002b"
+author: "Ehrenberg, Erica"
+publication_year: "2002"
+title: "The Rooster in Mesopotamia"
+pages: "53-62"
+editor: "Ehrenberg, Erica"
+book: "Leaving No Stones Unturned, Fs. Hansen (Winona Lake)"
+title: "The Rooster in Mesopotamia"
+previous_item: "21673"
+---

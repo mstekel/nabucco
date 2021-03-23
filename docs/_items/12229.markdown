@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12229"
+occurrence_id: "3677"
+short_title: "Eos 72 (1984), 207-209"
+author: "Zawadzki, Stefan"
+publication_year: "1984"
+title: "Rv. E. Salonen, Neubabylonische Urkunden verschiedenen Inhalts, III"
+volume_no_: "72"
+pages: "207-209"
+journal: "Eos. Commentarii Societatis Philologae Polonorum"
+title: "Rv. E. Salonen, Neubabylonische Urkunden verschiedenen Inhalts, III"
+previous_item: "12232"
+---

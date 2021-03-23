@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "9391"
+occurrence_id: "3429"
+short_title: "von Soden, ZA 65 (1976)"
+author: "von Soden, Wolfram"
+publication_year: "1976"
+title: "Rv. A.K. Grayson, Babylonian Historical-Literary Texts. Toronto Semitic Texts and Studies 3 (1975)."
+volume_no_: "65"
+pages: "282-285"
+title: "Rv. A.K. Grayson, Babylonian Historical-Literary Texts. Toronto Semitic Texts and Studies 3 (1975)."
+previous_item: "9394"
+---

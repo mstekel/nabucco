@@ -1,0 +1,12 @@
+---
+layout: "bibliography"
+slug: "12850"
+occurrence_id: "4015"
+short_title: "NABU 2014/71"
+author: "Rutz, Matthew"
+publication_year: "2014"
+title: "SpTU 1 172: šumma immeru and šumma izbu in Late Babylonian Uruk"
+volume_no_: "2014/71"
+title: "SpTU 1 172: šumma immeru and šumma izbu in Late Babylonian Uruk"
+previous_item: "12853"
+---

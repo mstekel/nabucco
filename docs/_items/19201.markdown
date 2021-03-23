@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19201"
+occurrence_id: "4373"
+short_title: "Joannès 2006a"
+author: "Joannès, Francis"
+publication_year: "2006"
+title: "Traitment des malades et bit hilsi en Babylonie récente."
+pages: "73-90"
+editor: "Battini, Laura"
+book: "Médecine et médecins au Proche-Orient ancien, BAR International Series 1528 (Oxford)"
+title: "Traitment des malades et bit hilsi en Babylonie récente."
+previous_item: "19204"
+---

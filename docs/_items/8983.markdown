@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8983"
+occurrence_id: "1226"
+short_title: "AfO 42/43 (1995-1996), 248-250"
+author: "Geller, Mark J."
+publication_year: "1995-1996"
+title: "Rv. A.R. George, Babylonian Topographical Texts (OLA 40)"
+volume_no_: "42-43"
+pages: "248-250"
+journal: "Archiv für Orientforschung"
+title: "Rv. A.R. George, Babylonian Topographical Texts (OLA 40)"
+previous_item: "8986"
+---

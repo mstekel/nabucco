@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8326"
+occurrence_id: "3734"
+short_title: "JQR 59 (1969), 333-334"
+author: "Huffmon, Herbert B."
+publication_year: "1969"
+title: "Guild Structure"
+volume_no_: "59"
+pages: "333-334"
+journal: "Jewish Quarterly Review"
+title: "Guild Structure"
+previous_item: "8329"
+---

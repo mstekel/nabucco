@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13585"
+occurrence_id: "1966"
+short_title: "Iraq 45 (1983), 128-130"
+author: "Martirossian, Anahit"
+publication_year: "1983"
+title: "Notes concerning the Economic Activities of the Babylonian Temple in the First Millennium B.C."
+volume_no_: "45"
+pages: "128-130"
+journal: "Iraq"
+title: "Notes concerning the Economic Activities of the Babylonian Temple in the First Millennium B.C."
+previous_item: "13588"
+---

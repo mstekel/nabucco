@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12346"
+occurrence_id: "1299"
+short_title: "AJSL 40 (1923-24), 186-208"
+author: "Weidner, Ernst F."
+publication_year: "1923-24"
+title: "Ein babylonisches Kompendium der Himmelskande"
+volume_no_: "40"
+pages: "186-208"
+journal: "American Journal of Semitic Languages and Literatures"
+title: "Ein babylonisches Kompendium der Himmelskande"
+previous_item: "12349"
+---

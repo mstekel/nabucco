@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15217"
+occurrence_id: "1728"
+short_title: "BiOr 63 (2006), 331-334"
+author: "Sandowicz, Malgorzata"
+publication_year: "2006"
+title: "Rv. H.D. Baker, The archive of the Nappahu Family, AfO Beiheft 30 (2004)."
+volume_no_: "63"
+pages: "331-334"
+journal: "Bibliotheca Orientalis"
+title: "Rv. H.D. Baker, The archive of the Nappahu Family, AfO Beiheft 30 (2004)."
+previous_item: "15220"
+---

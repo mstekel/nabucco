@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16501"
+occurrence_id: "470"
+short_title: "Kohler, Ungnad, ARU (1913)"
+author: "Kohler, Josef "
+publication_year: "1913"
+title: "Assyrische Rechtsurkunden in Umschrift und Übersetzung …"
+title: "Assyrische Rechtsurkunden in Umschrift und Übersetzung …"
+previous_item: "16504"
+---

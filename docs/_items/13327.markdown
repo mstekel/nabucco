@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13327"
+occurrence_id: "3583"
+short_title: "ZSS 51 (1931), 421-426"
+author: "Nicolò, Mariano, San"
+publication_year: "1931"
+title: "Der Kauf des Pfandes durch den Gläubiger im Lichte des neubabylonischen Rechtes"
+volume_no_: "51"
+pages: "421-426"
+journal: "Zeitschrift der Savigny-Stiftung für Rechtsgeschichte, romantistische Abteilung"
+title: "Der Kauf des Pfandes durch den Gläubiger im Lichte des neubabylonischen Rechtes"
+previous_item: "13330"
+---

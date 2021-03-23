@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "34600"
+place_id: "1528"
+parent_id: "37"
+place_name: "Huṣṣūti-ša-Baba-ēreš"
+related_objects: "7282"
+title: "Huṣṣūti-ša-Baba-ēreš"
+previous_item: "34603"
+---

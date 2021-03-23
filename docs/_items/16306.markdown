@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16306"
+occurrence_id: "1552"
+short_title: "Babel and Bibel 3 (2007), 517-521."
+author: "Dandamayev, Muhammed A."
+publication_year: "2007"
+title: "A Babylonian Trader from Uruk."
+volume_no_: "3"
+pages: "517-521"
+journal: "Babel und Bibel. Annual of Ancient Near Eastern, Old Testament and Semitic Studies"
+title: "A Babylonian Trader from Uruk."
+previous_item: "16309"
+---

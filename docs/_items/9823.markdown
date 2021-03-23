@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "9823"
+occurrence_id: "2734"
+short_title: "NABU 2010/45"
+author: "Waerzeggers, Caroline"
+title: "KU 14: a Neo-Babylonian tablet about Susa in Amsterdam."
+volume_no_: "45"
+publication_year: "2010"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "KU 14: a Neo-Babylonian tablet about Susa in Amsterdam."
+previous_item: "9826"
+---

@@ -1,0 +1,13 @@
+---
+layout: "tablet"
+slug: "28357"
+object_id: "7471"
+nabucco_no_: "BM79691"
+museum_no_: "BM 79691"
+text_number: "115b"
+duplicate: "BM 74534"
+imported: "Melanie Gross (03/11/2016)"
+related_objects: "6632"
+title: "BM 79691"
+previous_item: "28360"
+---

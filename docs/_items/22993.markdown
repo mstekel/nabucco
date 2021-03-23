@@ -1,0 +1,9 @@
+---
+layout: "archive"
+slug: "22993"
+archive_id: "133"
+archive_name: "Ardūtu"
+is_part_of: "Borsippa"
+title: "Ardūtu"
+previous_item: "22996"
+---

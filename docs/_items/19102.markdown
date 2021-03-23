@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19102"
+occurrence_id: "4948"
+short_title: "Calmeyer 1996a"
+author: "Calmeyer, Peter"
+publication_year: "1996"
+title: "Achaimenidische Möbel and Iṣkussû ša šarrute"
+pages: "223-231"
+editor: "Herrmann, Georgina"
+book: "The furniture of Western Asia, Ancient and Traditional: Papers of the Conference Held at the Institute of Archaeology, University College London, June 28 to 30, 1993 (Mainz)"
+title: "Achaimenidische Möbel and Iṣkussû ša šarrute"
+previous_item: "19105"
+---

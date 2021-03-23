@@ -1,0 +1,12 @@
+---
+layout: "bibliography"
+slug: "16717"
+occurrence_id: "55"
+short_title: "BIN 2"
+author: "Keiser, Clarence  E."
+publication_year: "1920"
+title: "Historical, Religious and Economic Texts and Antiquities. Babylonian Inscriptions in the Collection of James B. Nies 2 (New Haven)."
+volume_no_: "2"
+title: "Historical, Religious and Economic Texts and Antiquities. Babylonian Inscriptions in the Collection of James B. Nies 2 (New Haven)."
+previous_item: "16720"
+---

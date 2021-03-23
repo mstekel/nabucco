@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10858"
+occurrence_id: "2300"
+short_title: "JNES 33 (1974), 387-393"
+author: "Drews, Robert"
+publication_year: "1974"
+title: "Sargon, Cyrus and Mesopotamian Folk History"
+volume_no_: "33"
+pages: "387-393"
+journal: "Journal of Near Eastern Studies"
+title: "Sargon, Cyrus and Mesopotamian Folk History"
+previous_item: "10861"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19651"
+occurrence_id: "4567"
+short_title: "Oelsner 1981"
+author: "Oelsner, Joachim"
+publication_year: "1981"
+title: "Zur Organisation des gesellschaftlichen Lebens im kassitischen and nachkassitischen Babylonien: Verwaltungsstruktur and Gemeinschaften"
+pages: "403-410"
+editor: "Hirsch, Hans"
+book: "Vorträge gehalten auf der 28. Rencontre Assyriologique Internationale in Wien 1981, AfO Beiheft 19, RAI 28 (Wien)"
+title: "Zur Organisation des gesellschaftlichen Lebens im kassitischen and nachkassitischen Babylonien: Verwaltungsstruktur and Gemeinschaften"
+previous_item: "19654"
+---

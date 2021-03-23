@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10537"
+occurrence_id: "3578"
+short_title: "ZPE 50 (1983), 209-221"
+author: "Sherwin-White, Susan"
+publication_year: "1983"
+title: "Aristeas-Ardibelteios: Some Aspects of the use of Double Names in Seleucid Babylonia"
+volume_no_: "50"
+pages: "209-221"
+journal: "Zeitschrift für Papyrologie und Epigraphik"
+title: "Aristeas-Ardibelteios: Some Aspects of the use of Double Names in Seleucid Babylonia"
+previous_item: "10540"
+---

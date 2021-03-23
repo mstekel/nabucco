@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19408"
+occurrence_id: "4374"
+short_title: "Joannès 2008"
+author: "Joannès, Francis"
+publication_year: "2008"
+title: "Place et rôle des femmes dans le personnel des grands organismes néo-babyloniens"
+pages: "465-480"
+editor: "Stolper, Matthew W."
+book: "L'archive des Fortifications de Persepolis. État des questions et perspectives de recherches Persika 12 (Paris)"
+title: "Place et rôle des femmes dans le personnel des grands organismes néo-babyloniens"
+previous_item: "19411"
+---

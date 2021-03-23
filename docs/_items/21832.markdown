@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21832"
+occurrence_id: "5185"
+short_title: "Allinger-Csollich 2013"
+author: "Allinger-Csollich, Wilfried"
+publication_year: "2013"
+title: "Gedanken über das Aussehen und die Funktion einer Ziqqurrat"
+pages: "1-18"
+editor: "Löhnert, Anne "
+book: "Tempel im Alten Orient. 7. Internationales Colloquium der Deutschen Orient-Gesellschaft 11.-13. Oktober 2009, München, Colloquien der Deutschen Orient-Gesellschaft (Wiesbaden)"
+title: "Gedanken über das Aussehen und die Funktion einer Ziqqurrat"
+previous_item: "21835"
+---

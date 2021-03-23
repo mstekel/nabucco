@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19207"
+occurrence_id: "4405"
+short_title: "Fales 2000"
+author: "Fales, Frederick Mario"
+publication_year: "2000"
+title: "bīt-bēli: An Assyrian Institutional Concept"
+pages: "231-249"
+editor: "Rova, E."
+book: "Patavina Orientalia Selecta, HANEM IV (Padova)"
+title: "bīt-bēli: An Assyrian Institutional Concept"
+previous_item: "19210"
+---

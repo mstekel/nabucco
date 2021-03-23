@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18775"
+occurrence_id: "4306"
+short_title: "Matsushima 1993"
+author: "Matsushima, Eiko"
+publication_year: "1993"
+title: "Divine Statues in Ancient Mesopotamia: Their Fashioning and Clothing and their Interaction with the Society,"
+pages: "209-219"
+editor: "Matsushima, Eiko"
+book: "Official Cult and Popular Religion in the Ancient Near East (Hedielberg)"
+title: "Divine Statues in Ancient Mesopotamia: Their Fashioning and Clothing and their Interaction with the Society,"
+previous_item: "18778"
+---

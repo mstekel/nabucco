@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16456"
+occurrence_id: "2358"
+short_title: "JNES 67 (2008), 150-151"
+author: "Chavalas, Mark W."
+publication_year: "2008"
+title: "Rv. R. H. Sack, Images of Nebuchadnezzar. The Emergence of a Legend, 2d ed Rev. And expanded."
+volume_no_: "67"
+pages: "150-151"
+journal: "Journal of Near Eastern Studies"
+title: "Rv. R. H. Sack, Images of Nebuchadnezzar. The Emergence of a Legend, 2d ed Rev. And expanded."
+previous_item: "16459"
+---

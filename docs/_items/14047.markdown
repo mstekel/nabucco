@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14047"
+occurrence_id: "1450"
+short_title: "Archaeology 20 (1967), 152"
+author: "Wilkinson, Charles K."
+publication_year: "1967"
+title: "Rv. W. Culican, the Medes and the Persians"
+volume_no_: "20"
+pages: "152"
+journal: "Archaeology"
+title: "Rv. W. Culican, the Medes and the Persians"
+previous_item: "14050"
+---

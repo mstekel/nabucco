@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12955"
+occurrence_id: "1578"
+short_title: "BaM 35 (2004), 39-57."
+author: "Kose, Arno"
+publication_year: "2004"
+title: "Kritische Bemerkungen zum vermeintlich gefandenen Bit Akitu von Babylon."
+volume_no_: "35"
+pages: "39-57"
+journal: "Baghdader Mitteilungen"
+title: "Kritische Bemerkungen zum vermeintlich gefandenen Bit Akitu von Babylon."
+previous_item: "12958"
+---

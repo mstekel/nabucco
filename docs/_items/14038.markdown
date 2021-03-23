@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14038"
+occurrence_id: "1402"
+short_title: "Antiquity 54 (1955), 141-146"
+author: "Mallowan, Max E.L."
+publication_year: "1955"
+title: "Rv. E.F. Schmidt, Persepolis I: Structures, Reliefs, Inscriptions"
+volume_no_: "54"
+pages: "141-146"
+journal: "Antiquity"
+title: "Rv. E.F. Schmidt, Persepolis I: Structures, Reliefs, Inscriptions"
+previous_item: "14041"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14674"
+occurrence_id: "1824"
+short_title: "Centaurus 14 (1969-1970), 1-22"
+author: "Aaboe, Asger"
+publication_year: "1969-1970"
+title: "Two Lunar Texts of the Achaemenian Period from Babylon"
+volume_no_: "14"
+pages: "1-22"
+journal: "Centaurus"
+title: "Two Lunar Texts of the Achaemenian Period from Babylon"
+previous_item: "14677"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10180"
+occurrence_id: "1637"
+short_title: "BiOr 15 (1958), 110-112"
+author: "Parrot, André"
+publication_year: "1958"
+title: "Rv. F. Wetzel, E.F. Schmidt , Das Babylon der Spätzeit"
+volume_no_: "15"
+pages: "110-112"
+journal: "Bibliotheca Orientalis"
+title: "Rv. F. Wetzel, E.F. Schmidt , Das Babylon der Spätzeit"
+previous_item: "10183"
+---

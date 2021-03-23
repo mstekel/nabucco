@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14380"
+occurrence_id: "3243"
+short_title: "Syria 48 (1971), 53-59"
+author: "Vallat, François"
+publication_year: "1971"
+title: "Deux nouvelles \"chartes de fondation\" d´un palais de Darius Ier à Suse"
+volume_no_: "48"
+pages: "53-59"
+journal: "Syria"
+title: "Deux nouvelles \"chartes de fondation\" d´un palais de Darius Ier à Suse"
+previous_item: "14383"
+---

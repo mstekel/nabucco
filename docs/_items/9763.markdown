@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9763"
+occurrence_id: "2410"
+short_title: "Mesopotamia 28 (1993), 71-167"
+author: "Golenko, Vladimir K."
+publication_year: "1993"
+title: "Notes on the Coinage and Currency of the Early Seleucid State-I. The Reign of Seleucus I"
+volume_no_: "28"
+pages: "71-167"
+journal: "Mesopotamia"
+title: "Notes on the Coinage and Currency of the Early Seleucid State-I. The Reign of Seleucus I"
+previous_item: "9766"
+---

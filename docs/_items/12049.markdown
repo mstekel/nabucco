@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "12049"
+occurrence_id: "2706"
+short_title: "NABU 2007/9"
+author: "Mitsuma, Yasuyuki"
+publication_year: "2007"
+title: "\"The General in Charge of the Four stratēgiai\"?"
+volume_no_: "9"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "\"The General in Charge of the Four stratēgiai\"?"
+previous_item: "12052"
+---

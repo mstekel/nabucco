@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16576"
+occurrence_id: "4060"
+short_title: "Bodi 2010"
+author: "Bodi, Daniel "
+publication_year: "2010"
+title: "Israël et Juda: à l’ombre des Babyloniens et des Perses, Études d’archéologie et d’histoire ancienne (Paris)"
+title: "Israël et Juda: à l’ombre des Babyloniens et des Perses, Études d’archéologie et d’histoire ancienne (Paris)"
+previous_item: "16579"
+---

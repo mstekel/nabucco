@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18325"
+occurrence_id: "609"
+short_title: "Unger 1931"
+author: "Unger, Eckhard "
+publication_year: "1931"
+title: "Babylon. Die heilige Stadt, nach der Beschreibung der Babylonier"
+title: "Babylon. Die heilige Stadt, nach der Beschreibung der Babylonier"
+previous_item: "18328"
+---

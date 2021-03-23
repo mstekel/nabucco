@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "11179"
+occurrence_id: "4028"
+short_title: "JCS 67 (2015), 187-215"
+author: "Steele, John M."
+publication_year: "2015"
+title: "A Late Babylonian Compendium of Calendrical and Stellar Astrology"
+volume_no_: "67"
+pages: "187-215"
+title: "A Late Babylonian Compendium of Calendrical and Stellar Astrology"
+previous_item: "11182"
+---

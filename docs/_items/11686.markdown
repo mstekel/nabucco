@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11686"
+occurrence_id: "3756"
+short_title: "JSJ 31 (2000), 125-161"
+author: "Scurlock, JoAnn"
+publication_year: "2000"
+title: "167 BCE: Hellenism or Reform?"
+volume_no_: "31"
+pages: "125-161"
+journal: "Journal for the Study of Judaism"
+title: "167 BCE: Hellenism or Reform?"
+previous_item: "11689"
+---

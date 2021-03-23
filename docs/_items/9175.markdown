@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9175"
+occurrence_id: "2264"
+short_title: "JNES 12 (1953), 210-212"
+author: "Laessøe, Jorgen"
+publication_year: "1953"
+title: "Rv. E. Ebeling, Neubabylonische Briefe (1949)"
+volume_no_: "12"
+pages: "210-212"
+journal: "Journal of Near Eastern Studies"
+title: "Rv. E. Ebeling, Neubabylonische Briefe (1949)"
+previous_item: "9178"
+---

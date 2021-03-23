@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "10354"
+occurrence_id: "2574"
+short_title: "NABU 1997/89"
+author: "Zadok, Ran"
+title: "Additions and corrections to NABU 1997/6. 7. 11. 14."
+volume_no_: "89"
+publication_year: "1997"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Additions and corrections to NABU 1997/6. 7. 11. 14."
+previous_item: "10357"
+---

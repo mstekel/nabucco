@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8251"
+occurrence_id: "3330"
+short_title: "WeOr 26 (1995), 97-128"
+author: "Tubach, Jürgen"
+publication_year: "1995"
+title: "Seleukos´ Sieg über den medischen Satrapen Nikanor"
+volume_no_: "26"
+pages: "97-128"
+journal: "Die Welt des Orients"
+title: "Seleukos´ Sieg über den medischen Satrapen Nikanor"
+previous_item: "8254"
+---

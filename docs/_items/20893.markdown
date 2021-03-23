@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20893"
+occurrence_id: "4589"
+short_title: "Oelsner 2014"
+author: "Oelsner, Joachim"
+publication_year: "2014"
+title: "Spätbabylonische Sklavenpreise"
+pages: "684-699"
+editor: "Csabai, Zoltán"
+book: "Studies in Economic and Social History of the Ancient Near East in Memory of Péter Vargyas (Budapest)"
+title: "Spätbabylonische Sklavenpreise"
+previous_item: "20896"
+---

@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34768"
+place_id: "865"
+parent_id: "61"
+place_name: "Bīt-Guppu"
+title: "Bīt-Guppu"
+previous_item: "34771"
+---

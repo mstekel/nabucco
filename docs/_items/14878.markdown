@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14878"
+occurrence_id: "2921"
+short_title: "Or 67 (1998), 285-287"
+author: "Koch, Heidemarie"
+publication_year: "1998"
+title: "Rv. P. Briant, Histoire de l´Empire perse de Cyrus à Alexandre (1996)"
+volume_no_: "67"
+pages: "285-287"
+journal: "Orientalia"
+title: "Rv. P. Briant, Histoire de l´Empire perse de Cyrus à Alexandre (1996)"
+previous_item: "14881"
+---

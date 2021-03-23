@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10117"
+occurrence_id: "1295"
+short_title: "AJA 89 (1985), 373-389"
+author: "Cahill, Nicholas"
+publication_year: "1985"
+title: "The Treasury at Persepolis: Gift-Giving at the City of the Persians"
+volume_no_: "89"
+pages: "373-389"
+journal: "American Journal of Archaeology"
+title: "The Treasury at Persepolis: Gift-Giving at the City of the Persians"
+previous_item: "10120"
+---

@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34531"
+place_id: "619"
+parent_id: "40"
+place_name: "Rabija"
+title: "Rabija"
+previous_item: "34534"
+---

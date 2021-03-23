@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "34078"
+place_id: "463"
+parent_id: "40"
+place_name: "Hašbāja"
+related_objects: "8531"
+title: "Hašbāja"
+previous_item: "34081"
+---

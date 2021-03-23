@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15238"
+occurrence_id: "1841"
+short_title: "DAFI 2 (1972), 203-217"
+author: "Vallat, François"
+publication_year: "1972"
+title: "Épigraphie achéménide"
+volume_no_: "2"
+pages: "203-217"
+journal: "Cahiers de la Délégation Archéologique Française en Iran"
+title: "Épigraphie achéménide"
+previous_item: "15241"
+---

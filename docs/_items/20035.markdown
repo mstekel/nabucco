@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20035"
+occurrence_id: "4425"
+short_title: "Widengren 1968"
+author: "Widengren, Geo"
+publication_year: "1968"
+title: "Über einige Probleme in der altpersischen Geschichte"
+pages: "517-533"
+editor: "Kegel, G."
+book: "Fs. L. Brandt (Köln and Opladen)"
+title: "Über einige Probleme in der altpersischen Geschichte"
+previous_item: "20038"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10708"
+occurrence_id: "1493"
+short_title: "ArOr 52 (1984), 101-102"
+author: "Pečírková, Jana"
+publication_year: "1984"
+title: "Rv. J.-M. Durand, Textes babyloniens d'époque récente"
+volume_no_: "52"
+pages: "101-102"
+journal: "Archív Orientalí"
+title: "Rv. J.-M. Durand, Textes babyloniens d'époque récente"
+previous_item: "10711"
+---

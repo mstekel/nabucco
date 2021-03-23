@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18691"
+occurrence_id: "4962"
+short_title: "Vargyas 2010b"
+author: "Vargyas, Péter"
+publication_year: "2010"
+title: "Agrarkrisen und Umfang der Agrarproduktion in Babylonien des 1. Jahrtausends"
+pages: "45-54"
+editor: "Csabai, Zoltán"
+book: "From Elephantine to Babylon. Selected Studies of Péter Vargyas on Ancient Near Eastern Economy, Ancient Near Eastern and Mediterranean Studies 1 (Budapest)"
+title: "Agrarkrisen und Umfang der Agrarproduktion in Babylonien des 1. Jahrtausends"
+previous_item: "18694"
+---

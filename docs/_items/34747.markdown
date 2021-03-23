@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34747"
+place_id: "529"
+parent_id: "40"
+place_name: "Huṣṣēti-ša-Zarūtu"
+title: "Huṣṣēti-ša-Zarūtu"
+previous_item: "34750"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21601"
+occurrence_id: "5056"
+short_title: "Sack 1979"
+author: "Sack, Ronald H."
+publication_year: "1979"
+title: "Some Notes on Bookkeeping in Eanna"
+pages: "111-118"
+editor: "Powell, Marvin A."
+book: "Studies in Honor of Tom B. Jones, AOAT 203 (Neukirchen-Vluyn)"
+title: "Some Notes on Bookkeeping in Eanna"
+previous_item: "21604"
+---

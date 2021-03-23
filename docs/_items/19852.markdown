@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19852"
+occurrence_id: "4536"
+short_title: "Medvedskaya 2002"
+author: "Medvedskaya, Inna N."
+publication_year: "2002"
+title: "The Rise and Fall of Media"
+pages: "212-224 (Engl. summary 224-225)"
+editor: "Kogan, Leonid"
+book: "History and Languages of Ancient Orient: I.M. Diakonoff Memorial Volume (St. Petersburg)"
+title: "The Rise and Fall of Media"
+previous_item: "19855"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10192"
+occurrence_id: "1702"
+short_title: "BiOr 55 (1998), 468-473"
+author: "Vargyas, Péter"
+publication_year: "1998"
+title: "Rv. M. Jursa, Die Landwirtschaft in Sippar in neubabylonischer Zeit (AfO Beiheft 25, 1995)"
+volume_no_: "55"
+pages: "468-473"
+journal: "Bibliotheca Orientalis"
+title: "Rv. M. Jursa, Die Landwirtschaft in Sippar in neubabylonischer Zeit (AfO Beiheft 25, 1995)"
+previous_item: "10195"
+---

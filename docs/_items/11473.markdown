@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "11473"
+occurrence_id: "2608"
+short_title: "NABU 1999/107"
+author: "Weszeli, Michaela"
+title: "Ein Rind mit vernarbtem Buckel"
+volume_no_: "107"
+publication_year: "1999"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Ein Rind mit vernarbtem Buckel"
+previous_item: "11476"
+---

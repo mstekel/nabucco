@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18358"
+occurrence_id: "825"
+short_title: "Koch 1977"
+author: "Koch, Heidemarie "
+publication_year: "1977"
+title: "Die religiösen Verhältnisse der Dareioszeit. Untersuchungen an Hand der elamischen Persepolistäfelchen, Göttinger Orientforschungen III. Reihe: Iranica 4 (Wiesbaden)"
+title: "Die religiösen Verhältnisse der Dareioszeit. Untersuchungen an Hand der elamischen Persepolistäfelchen, Göttinger Orientforschungen III. Reihe: Iranica 4 (Wiesbaden)"
+previous_item: "18361"
+---

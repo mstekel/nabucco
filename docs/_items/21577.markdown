@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "21577"
+occurrence_id: "4928"
+short_title: "Beaulieu 2000c"
+author: "Beaulieu, Paul-A."
+publication_year: "2000"
+title: "Les animaux dans la divination en Mésopotamie"
+pages: "351-365"
+book: "Topoi Supplément 2, Les animaux et les hommes dans le monde syro-mésopotamien aux époques historiques (Lyon)"
+title: "Les animaux dans la divination en Mésopotamie"
+previous_item: "21580"
+---

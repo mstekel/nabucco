@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "10606"
+occurrence_id: "3946"
+short_title: "JCS 64 (2012), 39-56"
+author: "Glassner, Jean-Jacques"
+publication_year: "2012"
+title: "Droit et divination: deux manières de rendre la justice. À propos de dīnum, uṣurtum et awatum"
+volume_no_: "64"
+pages: "39-56"
+title: "Droit et divination: deux manières de rendre la justice. À propos de dīnum, uṣurtum et awatum"
+previous_item: "10609"
+---

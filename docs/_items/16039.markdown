@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16039"
+occurrence_id: "3134"
+short_title: "Religious Studies Review 10 (1984), 174"
+author: "van Seters, John"
+publication_year: "1984"
+title: "Rv. P. Briant, État et pasteurs au Moyen-Orient ancien"
+volume_no_: "10"
+pages: "174"
+journal: "Religious Studies Review"
+title: "Rv. P. Briant, État et pasteurs au Moyen-Orient ancien"
+previous_item: "16042"
+---

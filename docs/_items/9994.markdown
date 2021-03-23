@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9994"
+occurrence_id: "3657"
+short_title: "BZ NF 12 (1968), 1-16"
+author: "Mayer, Rudolf"
+publication_year: "1968"
+title: "Das achämenidische Weltreich und seine Bedeutung in der politischen und religiösen Geschichte des antiken Orients"
+volume_no_: "12"
+pages: "1-16"
+journal: "Biblische Zeitschrift. Neue Folge (Paderborn)"
+title: "Das achämenidische Weltreich und seine Bedeutung in der politischen und religiösen Geschichte des antiken Orients"
+previous_item: "9997"
+---

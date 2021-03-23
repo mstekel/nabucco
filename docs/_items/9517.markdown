@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9517"
+occurrence_id: "220"
+short_title: "Borger, JCS 19"
+author: "Borger, Rykle"
+publication_year: "1965"
+title: "Der Aufstieg des neubabylonischen Reiches"
+volume_no_: "19"
+pages: "59-78"
+journal: "Journal of Cuneiform Studies"
+title: "Der Aufstieg des neubabylonischen Reiches"
+previous_item: "9520"
+---

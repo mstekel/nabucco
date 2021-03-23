@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17551"
+occurrence_id: "603"
+short_title: "Thureau-Dangin 1938"
+author: "Thureau-Dangin, François "
+publication_year: "1938"
+title: "Textes mathématiques babyloniens"
+title: "Textes mathématiques babyloniens"
+previous_item: "17554"
+---

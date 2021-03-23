@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "15952"
+occurrence_id: "2664"
+short_title: "NABU 2004/59"
+author: "Jursa, Michael"
+title: "Zu den neubabylonischen Texten in Oberhuber, SAKFl."
+volume_no_: "59"
+publication_year: "2004"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Zu den neubabylonischen Texten in Oberhuber, SAKFl."
+previous_item: "15955"
+---

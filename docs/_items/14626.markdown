@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14626"
+occurrence_id: "1565"
+short_title: "BaM 22 (1991), 513-519"
+author: "Hunger, Hermann"
+publication_year: "1991"
+title: "Schematische Berechnungen der Sonnenwenden"
+volume_no_: "22"
+pages: "513-519"
+journal: "Baghdader Mitteilungen"
+title: "Schematische Berechnungen der Sonnenwenden"
+previous_item: "14629"
+---

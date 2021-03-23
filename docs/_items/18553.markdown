@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18553"
+occurrence_id: "4225"
+short_title: "Waerzeggers 2011"
+author: "Waerzeggers, Caroline"
+publication_year: "2011"
+title: "The Pious King: Royal Patronage of Temples"
+pages: "725-751"
+editor: "Robson, Eleanor"
+book: "The Oxford Handbook of Cuneiform Culture, Oxford Handbooks (Oxford/New York)"
+title: "The Pious King: Royal Patronage of Temples"
+previous_item: "18556"
+---

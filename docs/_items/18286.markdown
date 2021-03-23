@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18286"
+occurrence_id: "378"
+short_title: "DCS"
+author: "Charpin, Dominique "
+publication_year: "1981"
+title: "Documents cunéiformes de Strasbourg. Tome 1: Autographies"
+title: "Documents cunéiformes de Strasbourg. Tome 1: Autographies"
+previous_item: "18289"
+---

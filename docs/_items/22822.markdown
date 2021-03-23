@@ -1,0 +1,9 @@
+---
+layout: "archive"
+slug: "22822"
+archive_id: "421"
+archive_name: "Ekur-zakir"
+is_part_of: "Uruk"
+title: "Ekur-zakir"
+previous_item: "22825"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12724"
+occurrence_id: "3338"
+short_title: "WeOr 31 (2000/2001), 243-245"
+author: "Koch, Heidemarie"
+publication_year: "2000/2001"
+title: "Rv. J. Wiesehöfer, Das frühe Persien"
+volume_no_: "31"
+pages: "243-245"
+journal: "Die Welt des Orients"
+title: "Rv. J. Wiesehöfer, Das frühe Persien"
+previous_item: "12727"
+---

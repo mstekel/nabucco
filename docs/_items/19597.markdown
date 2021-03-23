@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19597"
+occurrence_id: "4278"
+short_title: "Weisberg 2012"
+author: "Weisberg, David B."
+publication_year: "2012"
+title: "Making Sense of «Garbled Legend»: The Case of Nebuchadnezzar"
+pages: "81-86"
+editor: "Fleishman, Joseph"
+book: "Looking at the Ancient Near East and the Bible through the Same Eyes. Minha LeAhron: A Tribute to Aaron Skaist (Bethesda)"
+title: "Making Sense of «Garbled Legend»: The Case of Nebuchadnezzar"
+previous_item: "19600"
+---

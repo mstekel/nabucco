@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20479"
+occurrence_id: "4587"
+short_title: "Oelsner 2007"
+author: "Oelsner, Joachim"
+publication_year: "2007"
+title: "Das zweite Regierungsjahr des Xerxes (484/3 v.Chr.) in Babylonien"
+pages: "289-303"
+editor: "Köhbach, Markus "
+book: "Festschrift für Hermann Hunger zum 65. Geburtstag: gewidmet von seinen Freunden, Kollegen und Schülern, WZKM 97 (Wien)"
+title: "Das zweite Regierungsjahr des Xerxes (484/3 v.Chr.) in Babylonien"
+previous_item: "20482"
+---

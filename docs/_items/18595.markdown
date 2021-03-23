@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18595"
+occurrence_id: "4450"
+short_title: "van Driel 1998a"
+author: "van Driel, Govert"
+publication_year: "1998"
+title: "Care of the Elderly: the Neo-Babylonian Period"
+pages: "161-197"
+editor: "Stol, Marten"
+book: "The Care of Elderly in the Ancient Near East, SHCANE 14 (Leiden, Boston and Köln)"
+title: "Care of the Elderly: the Neo-Babylonian Period"
+previous_item: "18598"
+---

@@ -1,0 +1,12 @@
+---
+layout: "bibliography"
+slug: "14452"
+occurrence_id: "3633"
+short_title: "Bijdragen 27 ( 1966), 154-155"
+author: "Grootens, P."
+publication_year: "1966"
+title: "Rv. W. Hinz, Das Reich Elam"
+journal: "Bijdragen"
+title: "Rv. W. Hinz, Das Reich Elam"
+previous_item: "14455"
+---

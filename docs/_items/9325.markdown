@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9325"
+occurrence_id: "3074"
+short_title: "RA 79 (1985), 87"
+author: "Kessler, Karlheinz"
+publication_year: "1985"
+title: "CT 51, 65 (BM 34822)"
+volume_no_: "79"
+pages: "87"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "CT 51, 65 (BM 34822)"
+previous_item: "9328"
+---

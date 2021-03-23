@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11818"
+occurrence_id: "1462"
+short_title: "ArOr 17/II (1949), 391-418"
+author: "Szlechter, Émile"
+publication_year: "1949"
+title: "Essai d'explication des clauses: muttatam gullubu abbuttam šakānu et abbuttam gullubu,"
+volume_no_: "17/II"
+pages: "391-418"
+journal: "Archív Orientalí"
+title: "Essai d'explication des clauses: muttatam gullubu abbuttam šakānu et abbuttam gullubu,"
+previous_item: "11821"
+---

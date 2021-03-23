@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12343"
+occurrence_id: "1283"
+short_title: "AION 59 (1999), 405-408"
+author: "Casaburi, Maria C."
+publication_year: "1999"
+title: "Sumerian Astral Nomenclature and Alternations in Writing"
+volume_no_: "59"
+pages: "405-408"
+journal: "Annali dell'Istituto Orientale di Napoli"
+title: "Sumerian Astral Nomenclature and Alternations in Writing"
+previous_item: "12346"
+---

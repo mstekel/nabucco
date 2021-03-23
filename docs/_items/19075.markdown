@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19075"
+occurrence_id: "4804"
+short_title: "Jursa 2015c"
+author: "Jursa, Michael"
+publication_year: "2015"
+title: "Labor in Babylonia in the First Millennium BC"
+pages: "345-396"
+editor: "Hudson, Michael"
+book: "Labor in the Ancient World. A Colloquium held at Hirschbach (Saxony), April 2005 (Dresden)"
+title: "Labor in Babylonia in the First Millennium BC"
+previous_item: "19078"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20689"
+occurrence_id: "4604"
+short_title: "Brinkman 1974"
+author: "Brinkman, John A."
+publication_year: "1974"
+title: "The Early Neo-Babylonian Monarchy"
+pages: "409-415"
+editor: "Garelli, Paul"
+book: "Le palais et la royauté (archéologie et civilisation), 19e Rencontre Assyriologique Internationale, RAI 19 (Paris)"
+title: "The Early Neo-Babylonian Monarchy"
+previous_item: "20692"
+---

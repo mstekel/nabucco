@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34975"
+place_id: "631"
+parent_id: "40"
+place_name: "Sūqija"
+title: "Sūqija"
+previous_item: "34978"
+---

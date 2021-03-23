@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7939"
+occurrence_id: "1649"
+short_title: "BiOr 25 (1968), 150-153"
+author: "Liagre Böhl, Francisco Mario Th. De"
+publication_year: "1968"
+title: "Die babylonischen Prätendenten zur Anfangszeit des Darius (Dareios) I."
+volume_no_: "25"
+pages: "150-153"
+journal: "Bibliotheca Orientalis"
+title: "Die babylonischen Prätendenten zur Anfangszeit des Darius (Dareios) I."
+previous_item: "7942"
+---

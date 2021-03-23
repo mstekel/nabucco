@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "19159"
+occurrence_id: "4147"
+short_title: "Kuhrt 1995"
+author: "Kuhrt, Amélie"
+publication_year: "1995"
+title: "Ancient Mesopotamia in Classical Greek and Hellenistic thought"
+pages: "55-65"
+editor: "Sasson, Jack M."
+title: "Ancient Mesopotamia in Classical Greek and Hellenistic thought"
+previous_item: "19162"
+---

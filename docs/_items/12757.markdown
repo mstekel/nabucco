@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12757"
+occurrence_id: "3518"
+short_title: "ZA 92 (2002), 145-152"
+author: "Knudsen, Ebbe Egede"
+publication_year: "2002"
+title: "Rv. M.P. Streck, Das amurritische Onomastikon der altbabylonischen Zeit. Band 1: Die Amurriter. Die onomastische Forschung. Orhographie and Phonologie. Nominalmorphologie (AOAT 271/1, Münster 2000)"
+volume_no_: "92"
+pages: "145-152"
+journal: "Zeitschrift für Assyriologie"
+title: "Rv. M.P. Streck, Das amurritische Onomastikon der altbabylonischen Zeit. Band 1: Die Amurriter. Die onomastische Forschung. Orhographie and Phonologie. Nominalmorphologie (AOAT 271/1, Münster 2000)"
+previous_item: "12760"
+---

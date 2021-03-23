@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34315"
+place_id: "709"
+parent_id: "61"
+place_name: "Ālu-ša-aškāpē"
+title: "Ālu-ša-aškāpē"
+previous_item: "34318"
+---

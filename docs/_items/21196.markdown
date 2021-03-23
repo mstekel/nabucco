@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21196"
+occurrence_id: "5102"
+short_title: "Zawadzki 1988"
+author: "Zawadzki, Stefan"
+publication_year: "1988"
+title: "Umman-manda: Bedeutung des Terminus und Gründe seiner Anwendung in der Chronik von Nabopolassar"
+pages: "379-387"
+editor: "Vavroušek, Petr"
+book: "Šulmu. Papers on the Ancient Near East Presented at International Conference of Socialist Countries (Prague)"
+title: "Umman-manda: Bedeutung des Terminus und Gründe seiner Anwendung in der Chronik von Nabopolassar"
+previous_item: "21199"
+---

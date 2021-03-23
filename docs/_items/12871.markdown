@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12871"
+occurrence_id: "293"
+short_title: "Oppenheim, JCS 4"
+author: "Oppenheim, A. Leo"
+publication_year: "1950"
+title: "Review of H.H. Figulla, Business Documents of the New-Babylonian Period"
+volume_no_: "4"
+pages: "188-195"
+journal: "Journal of Cuneiform Studies "
+title: "Review of H.H. Figulla, Business Documents of the New-Babylonian Period"
+previous_item: "12874"
+---

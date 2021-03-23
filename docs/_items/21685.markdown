@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21685"
+occurrence_id: "4401"
+short_title: "Böhl 1946"
+author: "Böhl, Franz Marius Th."
+publication_year: "1946"
+title: "Een schuldvordering uit de regeering van Darius I met een Arameesch bijschrift (492 v. Chr.)"
+pages: "62-70"
+editor: "van Groningen, Bernhard, Abraham"
+book: "Symbolae ad Jus et Historiam Antiquitatis Pertinentes Julio Christiano van Oven Dedicatae (Leiden)"
+title: "Een schuldvordering uit de regeering van Darius I met een Arameesch bijschrift (492 v. Chr.)"
+previous_item: "21688"
+---

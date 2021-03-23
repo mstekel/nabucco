@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19588"
+occurrence_id: "4230"
+short_title: "Jones and Stolper 1986"
+author: "Jones, Charles E."
+publication_year: "1986"
+title: "Two Late Elamite Tablets at Yale"
+pages: "243-254"
+editor: "Vallat, François"
+book: "Fragmenta historiae Aelamicae, Fs. Steve (Paris)"
+title: "Two Late Elamite Tablets at Yale"
+previous_item: "19591"
+---

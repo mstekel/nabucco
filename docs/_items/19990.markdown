@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "19990"
+occurrence_id: "4184"
+short_title: "Invernizzi 2003"
+author: "Invernizzi, Antonio"
+publication_year: "2003"
+title: "They did not Write on Clay: Non-Cuneiform Documents and Archives in Seleucid Mesopotamia"
+pages: "302-321"
+editor: "Brosius, Maria"
+title: "They did not Write on Clay: Non-Cuneiform Documents and Archives in Seleucid Mesopotamia"
+previous_item: "19993"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7600"
+occurrence_id: "2842"
+short_title: "Or 18 (1949), 1-29"
+author: "Friedrich, Johannes"
+publication_year: "1949"
+title: "Altpersisches und Elamisches"
+volume_no_: "18"
+pages: "1-29"
+journal: "Orientalia"
+title: "Altpersisches und Elamisches"
+previous_item: "7603"
+---

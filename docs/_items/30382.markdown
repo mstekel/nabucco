@@ -1,0 +1,15 @@
+---
+layout: "tablet"
+slug: "30382"
+object_id: "7084"
+museum_no_: "BM 30738"
+publication: "CT 22"
+text_number: "243"
+period: "NB"
+type_and_content: "Letters"
+publication_name: "CT 22 243"
+archive: "Egibi/Nūr-Sîn"
+bibliography: "reedition: Wunsch 1993, 323; Ebeling 1949, no. 241."
+title: "BM 30738"
+previous_item: "30385"
+---

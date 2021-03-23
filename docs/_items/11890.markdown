@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11890"
+occurrence_id: "1851"
+short_title: "Dialogues d'Histoire Ancienne 11 (1985), 167-195"
+author: "Briant, Pierre"
+publication_year: "1985"
+title: "Les Iraniens d'Asie Mineure après la chute de l'empire achéménide"
+volume_no_: "11"
+pages: "167-195"
+journal: "Dialogues d'Histoire Ancienne"
+title: "Les Iraniens d'Asie Mineure après la chute de l'empire achéménide"
+previous_item: "11893"
+---

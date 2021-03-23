@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10780"
+occurrence_id: "1881"
+short_title: "Göttinger Miszellen 29 (1978), 13-20"
+author: "Edel, Elmar"
+publication_year: "1978"
+title: "Amasis und Nebukadrezar II"
+volume_no_: "29"
+pages: "13-20"
+journal: "Göttinger Miszellen"
+title: "Amasis und Nebukadrezar II"
+previous_item: "10783"
+---

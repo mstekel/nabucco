@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15850"
+occurrence_id: "2114"
+short_title: "JAOS 60 (1940), 68-72"
+author: "Mendelsohn, Iitzhak"
+publication_year: "1940"
+title: "Gilds in Babylonia and Assyria"
+volume_no_: "60"
+pages: "68-72"
+journal: "Journal of the American Oriental Society"
+title: "Gilds in Babylonia and Assyria"
+previous_item: "15853"
+---

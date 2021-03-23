@@ -1,0 +1,15 @@
+---
+layout: "bibliography"
+slug: "12868"
+occurrence_id: "260"
+short_title: "Owen and Watanabe, OrAnt 22"
+author: "Owen, David , I."
+publication_year: "1983"
+title: "Eine neubabylonische Gartenkaufurkunde mit Flüchen aus dem Akzessionsjahr Asarhaddons"
+volume_no_: "22"
+pages: "37-48"
+related_objects: "6065"
+journal: "Oriens Antiquus"
+title: "Eine neubabylonische Gartenkaufurkunde mit Flüchen aus dem Akzessionsjahr Asarhaddons"
+previous_item: "12871"
+---

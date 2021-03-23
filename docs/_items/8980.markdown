@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8980"
+occurrence_id: "1210"
+short_title: "AfO 28 (1981-82), 135-139"
+author: "Zadok, Ran"
+publication_year: "1981-82"
+title: "Iranian and Babylonian Notes"
+volume_no_: "28"
+pages: "135-139"
+journal: "Archiv für Orientforschung"
+title: "Iranian and Babylonian Notes"
+previous_item: "8983"
+---

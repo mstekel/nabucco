@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16636"
+occurrence_id: "506"
+short_title: "Mayrhofer 1973"
+author: "Mayrhofer, Manfred "
+publication_year: "1973"
+title: "Onomastica Persepolitana. Das altiranische Namengot der Persepolis-Täfelchen (Sitzungsberichte der Österreichischen Akadamie der Wissenschaften, Phil.-hist. Kl., 286, Veröffentlichungen der Iranischen Kommission, 1)"
+title: "Onomastica Persepolitana. Das altiranische Namengot der Persepolis-Täfelchen (Sitzungsberichte der Österreichischen Akadamie der Wissenschaften, Phil.-hist. Kl., 286, Veröffentlichungen der Iranischen Kommission, 1)"
+previous_item: "16639"
+---

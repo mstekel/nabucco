@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16555"
+occurrence_id: "811"
+short_title: "Hunger 1968"
+author: "Hunger, Hermann "
+publication_year: "1968"
+title: "Babylonische und assyrische Kolophone, AOAT 2 (Neukirchen)"
+title: "Babylonische und assyrische Kolophone, AOAT 2 (Neukirchen)"
+previous_item: "16558"
+---

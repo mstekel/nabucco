@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18850"
+occurrence_id: "4707"
+short_title: "Couto-Ferreira 2013"
+author: "Couto-Ferreira, M. Erica"
+publication_year: "2013"
+title: "The River, the Oven, the Garden: the Female Body and Fertility in a Late Babylonian Ritual Text"
+pages: "97-116"
+editor: "Ambos, Claus"
+book: "Approaching Rituals in Ancient Cultures. Questioni di Rito: Rituali come Fonte di Conoscenza delle Religioni e delle Concezioni del Mondo nelle Culture Antiche. Proceedings of the Conference, November 28-30, 2011, Roma, Rivista degli Studi Orientali (Rome)"
+title: "The River, the Oven, the Garden: the Female Body and Fertility in a Late Babylonian Ritual Text"
+previous_item: "18853"
+---

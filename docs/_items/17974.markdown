@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17974"
+occurrence_id: "838"
+short_title: "Levy;Artzi 1965"
+author: "Artzi, Pinhas "
+publication_year: "1965"
+title: "Sumerian and Akkadian Documents from Public and Private Collections in Israel, Atiqot English Series 4 (Jerusalem)"
+title: "Sumerian and Akkadian Documents from Public and Private Collections in Israel, Atiqot English Series 4 (Jerusalem)"
+previous_item: "17977"
+---

@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17182"
+occurrence_id: "729"
+short_title: "Andreau et al. 1997"
+author: "Andreau, Jean "
+publication_year: "1997"
+title: "Recherche récentes sur l'empire achéménide, Topoi Supplément 1 (Lyon)"
+title: "Recherche récentes sur l'empire achéménide, Topoi Supplément 1 (Lyon)"
+previous_item: "17185"
+---

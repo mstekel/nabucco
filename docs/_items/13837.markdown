@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13837"
+occurrence_id: "3324"
+short_title: "WeOr 2 (1959), 470-476"
+author: "Cameron, George G."
+publication_year: "1959"
+title: "The \"Daiva\" Inscription of Xerxes in Elamite"
+volume_no_: "2"
+pages: "470-476"
+journal: "Die Welt des Orients"
+title: "The \"Daiva\" Inscription of Xerxes in Elamite"
+previous_item: "13840"
+---

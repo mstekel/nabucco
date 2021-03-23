@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16570"
+occurrence_id: "894"
+short_title: "Strassmaier 1886"
+author: "Strassmaier, Johann N. "
+publication_year: "1886"
+title: "Alphabetisches Verzeichnis der assyrischen und akkadischen Wörter . . . .Alphabetisches Verzeichniss der assyrischen und akkadischen Wörter der \"Cuneiform Inscriptions of Western Asia\" vol. II : sowie anderer meist unveröffentlichter Inschriften mit zahlreichen Ergänzungen und Verbesserungen und einem Wörterverzeichniss zu den in den Verhandlungen des VI. Orientalisten-Congresses zu Leiden veröffentlichten babylonischen Inschriften AB 4 (Leipzig)"
+title: "Alphabetisches Verzeichnis der assyrischen und akkadischen Wörter . . . .Alphabetisches Verzeichniss der assyrischen und akkadischen Wörter der \"Cuneiform Inscriptions of Western Asia\" vol. II : sowie anderer meist unveröffentlichter Inschriften mit zahlreichen Ergänzungen und Verbesserungen und einem Wörterverzeichniss zu den in den Verhandlungen des VI. Orientalisten-Congresses zu Leiden veröffentlichten babylonischen Inschriften AB 4 (Leipzig)"
+previous_item: "16573"
+---

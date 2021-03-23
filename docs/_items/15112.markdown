@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15112"
+occurrence_id: "1154"
+short_title: "AcAntHung 22 (1974 publ. 1976), 495-503"
+author: "Sarkisjan, Gagik Ch."
+publication_year: "1974"
+title: "Greek Personal Names in Uruk and theGraeco-Babyloniaca Problem"
+volume_no_: "22"
+pages: "495-503"
+journal: "Acta Antiqua Academiae Scientiarum Hungaricae"
+title: "Greek Personal Names in Uruk and theGraeco-Babyloniaca Problem"
+previous_item: "15115"
+---

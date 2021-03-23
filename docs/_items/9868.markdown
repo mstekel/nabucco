@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9868"
+occurrence_id: "2979"
+short_title: "PEQ 111 (1979), 53-66"
+author: "Bartlett, John R."
+publication_year: "1979"
+title: "From Edomites to Nabataeans: A Study in Continuity"
+volume_no_: "111"
+pages: "53-66"
+journal: "Palestine Exploration Quarterly"
+title: "From Edomites to Nabataeans: A Study in Continuity"
+previous_item: "9871"
+---

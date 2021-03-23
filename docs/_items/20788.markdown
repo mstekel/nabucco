@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20788"
+occurrence_id: "5132"
+short_title: "Boiy 2013"
+author: "Boiy, Tom"
+publication_year: "2013"
+title: "Babylon during Berossos' Lifetime"
+pages: "115-122"
+editor: "Lanfranchi, Giovanni , B."
+book: "The World of Berossos. Proceedings of the 4th International Colloquium on «The Ancient Near East between Classical and Ancient Oriental Traditions», Hatfield College, Durham, 7th-9th July 2010,  Classica et Orientalia 5 (Wiesbaden)"
+title: "Babylon during Berossos' Lifetime"
+previous_item: "20791"
+---

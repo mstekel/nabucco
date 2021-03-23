@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19441"
+occurrence_id: "4550"
+short_title: "Tavernier 2008"
+author: "Tavernier, Jan"
+publication_year: "2008"
+title: "Multilingualism in the Fortification and Treasury archives."
+pages: "59-86"
+editor: "Stolper, Matthew W."
+book: "L'archive des Fortifications de Persepolis. État des questions et perspectives de recherches Persika 12 (Paris)"
+title: "Multilingualism in the Fortification and Treasury archives."
+previous_item: "19444"
+---

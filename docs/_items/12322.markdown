@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12322"
+occurrence_id: "1165"
+short_title: "Aegyptus 34 (1954), 220-230"
+author: "Sarventi, Anna Teresa"
+publication_year: "1954"
+title: "Sul personale dei templi neobabilonesi"
+volume_no_: "34"
+pages: "220-230"
+journal: "Aegyptus"
+title: "Sul personale dei templi neobabilonesi"
+previous_item: "12325"
+---

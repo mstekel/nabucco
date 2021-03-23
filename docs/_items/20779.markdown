@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20779"
+occurrence_id: "5084"
+short_title: "Parpola 2004"
+author: "Parpola, Simo"
+publication_year: "2004"
+title: "Desperately trying to talk sense: A letter of Assurbanipal concerning his brother Shamash-shumu-ukin."
+pages: "227-234"
+editor: "Frame, Grant"
+book: "From the Upper Sea to the Lower Sea. Studies in the History of Assyria and Babylonia in Honour of A. K. Grayson (Leiden)"
+title: "Desperately trying to talk sense: A letter of Assurbanipal concerning his brother Shamash-shumu-ukin."
+previous_item: "20782"
+---

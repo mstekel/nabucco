@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18232"
+occurrence_id: "840"
+short_title: "Limper 1988"
+author: "Limper, Klaudia "
+publication_year: "1988"
+title: "Uruk. Perlen - Ketten - Anhänger, AUWE 2 (Mainz)"
+title: "Uruk. Perlen - Ketten - Anhänger, AUWE 2 (Mainz)"
+previous_item: "18235"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10768"
+occurrence_id: "1817"
+short_title: "CBQ 41 (1979 publ. 1980), 627-628"
+author: "Fitzgerald, Aloysius"
+publication_year: "1979 publ. 1980"
+title: "Rv. M.D. Coogan, West Semitic Personal Names in the Murašû Documents (HSM 7)"
+volume_no_: "41"
+pages: "627-628"
+journal: "Catholic Biblical Quarterly"
+title: "Rv. M.D. Coogan, West Semitic Personal Names in the Murašû Documents (HSM 7)"
+previous_item: "10771"
+---

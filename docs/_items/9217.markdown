@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "9217"
+occurrence_id: "2490"
+short_title: "NABU 1992/45"
+author: "Jursa, Michael"
+title: "Širku"
+volume_no_: "45"
+publication_year: "1992"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Širku"
+previous_item: "9220"
+---

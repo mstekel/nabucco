@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34522"
+place_id: "475"
+parent_id: "40"
+place_name: "Hiduja"
+title: "Hiduja"
+previous_item: "34525"
+---

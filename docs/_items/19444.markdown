@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19444"
+occurrence_id: "4566"
+short_title: "Oelsner 1980"
+author: "Oelsner, Joachim"
+publication_year: "1980"
+title: "Zur Siegelung mittelbabylonischer Rechtsurkunden"
+pages: "89-95"
+editor: "Klengel-Brandt, Evelyn"
+book: "Zum Fragment eines Steatitgefässes mit einer Inschrift des Rīmuš von Akkad, RO XLI/2 (Warschau) [=Fs.R. Ranoszek]"
+title: "Zur Siegelung mittelbabylonischer Rechtsurkunden"
+previous_item: "19447"
+---

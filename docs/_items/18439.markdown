@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18439"
+occurrence_id: "522"
+short_title: "Neugebauer 1955 (ACT)"
+author: "Neugebauer, Otto "
+publication_year: "1955"
+title: "Astronomical Cuneiform Texts. Babylonian Ephemerides of the Seleucid Period for the Motion of the sun, the Moon, and the Planets"
+title: "Astronomical Cuneiform Texts. Babylonian Ephemerides of the Seleucid Period for the Motion of the sun, the Moon, and the Planets"
+previous_item: "18442"
+---

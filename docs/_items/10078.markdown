@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10078"
+occurrence_id: "224"
+short_title: "Frame, RA 76"
+author: "Frame, Grant"
+publication_year: "1983"
+title: "Another Babylonian Eponym"
+volume_no_: "76"
+pages: "157-166"
+journal: "Revue d’Assyriologie et d’Archéologie orientale"
+title: "Another Babylonian Eponym"
+previous_item: "10081"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12661"
+occurrence_id: "3000"
+short_title: "RA 102 (2008), 115-118"
+author: "Waters, Matthew, W."
+publication_year: "2008"
+title: "Cyrus and Susa."
+volume_no_: "102"
+pages: "115-118"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "Cyrus and Susa."
+previous_item: "12664"
+---

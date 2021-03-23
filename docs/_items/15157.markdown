@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15157"
+occurrence_id: "1404"
+short_title: "Antiquity 67 (1993), 734-746"
+author: "George, Andrew, R."
+publication_year: "1993"
+title: "Babylon revisited: archaeology and philology in tharness"
+volume_no_: "67"
+pages: "734-746"
+journal: "Antiquity"
+title: "Babylon revisited: archaeology and philology in tharness"
+previous_item: "15160"
+---

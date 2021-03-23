@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18436"
+occurrence_id: "504"
+short_title: "Maul 1988"
+author: "Maul, Stefan M. "
+publication_year: "1988"
+title: "'Herzberuhigungsklagen'. Die sumerisch-akkadischen Eršahunga-Gebete"
+title: "'Herzberuhigungsklagen'. Die sumerisch-akkadischen Eršahunga-Gebete"
+previous_item: "18439"
+---

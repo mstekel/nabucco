@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21316"
+occurrence_id: "4639"
+short_title: "Klinger 2001"
+author: "Klinger, Jörg"
+publication_year: "2001"
+title: "Die hurritische Tradition in Hattuša und das Corpus hurritischer Texte"
+pages: "197-208"
+editor: "Prechel, Doris"
+book: "Kulturgeschichten, Fs. Haas (Saarbrücken)"
+title: "Die hurritische Tradition in Hattuša und das Corpus hurritischer Texte"
+previous_item: "21319"
+---

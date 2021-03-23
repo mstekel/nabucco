@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13879"
+occurrence_id: "3552"
+short_title: "ZDMG 127 (1977), 201"
+author: "Röllig, Wolfgang"
+publication_year: "1977"
+title: "Rv. E. Salonen, Neubabylonische Urkunden verschiedenen Inhalts, I"
+volume_no_: "127"
+pages: "201"
+journal: "Zeitschrift der Deutschen Morgenländischen Gesellschaft"
+title: "Rv. E. Salonen, Neubabylonische Urkunden verschiedenen Inhalts, I"
+previous_item: "13882"
+---

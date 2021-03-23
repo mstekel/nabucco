@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14119"
+occurrence_id: "1839"
+short_title: "CW 59/1302 (1966), 158-160"
+author: "Peters, F.E."
+publication_year: "1966"
+title: "Rv. W. Culican, the Medes and the Persians"
+volume_no_: "59/1302"
+pages: "158-160"
+journal: "The Classical World"
+title: "Rv. W. Culican, the Medes and the Persians"
+previous_item: "14122"
+---

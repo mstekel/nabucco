@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14995"
+occurrence_id: "3554"
+short_title: "ZDMG 128 (1978), 197-198"
+author: "Röllig, Wolfgang"
+publication_year: "1978"
+title: "Rv. H. Lanz, Die neubabylonischen harrānu-Geschäftsunternehmen"
+volume_no_: "128"
+pages: "197-198"
+journal: "Zeitschrift der Deutschen Morgenländischen Gesellschaft"
+title: "Rv. H. Lanz, Die neubabylonischen harrānu-Geschäftsunternehmen"
+previous_item: "14998"
+---

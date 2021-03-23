@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10405"
+occurrence_id: "2847"
+short_title: "Or 20 (1951), 129-150"
+author: "Nicolò, Mariano, San"
+publication_year: "1951"
+title: "Materialien zur Viehwirtschaft in den neubabylonischen Tempeln. III"
+volume_no_: "20"
+pages: "129-150"
+journal: "Orientalia"
+title: "Materialien zur Viehwirtschaft in den neubabylonischen Tempeln. III"
+previous_item: "10408"
+---

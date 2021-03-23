@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11854"
+occurrence_id: "1656"
+short_title: "BiOr 30 (1973 publ. 1974), 366-367"
+author: "in der Smitten, Wilhelm H."
+publication_year: "1973 publ. 1974"
+title: "Beobachtungen zur Lexikographie und Grammatik der achäemenidischen Königsinschriften"
+volume_no_: "30"
+pages: "366-367"
+journal: "Bibliotheca Orientalis"
+title: "Beobachtungen zur Lexikographie und Grammatik der achäemenidischen Königsinschriften"
+previous_item: "11857"
+---

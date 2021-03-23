@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18991"
+occurrence_id: "4356"
+short_title: "Joannès 1993-1997"
+author: "Joannès, Francis"
+publication_year: "1993-1997"
+title: "Metalle und Metallurgie. A.I. In Mesopotamien."
+pages: "96-112"
+editor: "Meissner, Bruno"
+book: "Reallexikon der Assyriologie 8 (1993-1997)"
+title: "Metalle und Metallurgie. A.I. In Mesopotamien."
+previous_item: "18994"
+---

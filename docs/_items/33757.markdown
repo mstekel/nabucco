@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33757"
+place_id: "646"
+parent_id: "40"
+place_name: "Ša-rēšē"
+title: "Ša-rēšē"
+previous_item: "33760"
+---

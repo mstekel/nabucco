@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19693"
+occurrence_id: "4791"
+short_title: "Jursa 2009"
+author: "Jursa, Michael"
+publication_year: "2009"
+title: "Die Kralle des Meeres und andere Aromata"
+pages: "147-180"
+editor: "Arnold, Werner"
+book: "Philologisches und Historisches zwischen Anatolien und Sokotra. Analecta Semitica In Memoriam Alexander Sima (Wiesbaden)"
+title: "Die Kralle des Meeres und andere Aromata"
+previous_item: "19696"
+---

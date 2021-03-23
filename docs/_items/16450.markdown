@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16450"
+occurrence_id: "2326"
+short_title: "JNES 52 (1993), 60-61"
+author: "Farber, Walter"
+publication_year: "1993"
+title: "Rv. F. Joannès, Archives de Borsippa. La famille Ea-ilûta-bâni (1989)"
+volume_no_: "52"
+pages: "60-61"
+journal: "Journal of Near Eastern Studies"
+title: "Rv. F. Joannès, Archives de Borsippa. La famille Ea-ilûta-bâni (1989)"
+previous_item: "16453"
+---

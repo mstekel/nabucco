@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34849"
+place_id: "388"
+parent_id: "40"
+place_name: "Bīt-ša-pāni-ekalli"
+title: "Bīt-ša-pāni-ekalli"
+previous_item: "34852"
+---

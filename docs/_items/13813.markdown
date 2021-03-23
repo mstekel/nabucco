@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13813"
+occurrence_id: "3194"
+short_title: "SMEA 39 (1997), 111-134"
+author: "Moortgat-Correns, Ursula"
+publication_year: "1997"
+title: "Noch einige Zuweisungen an Nabonid"
+volume_no_: "39"
+pages: "111-134"
+journal: "Studi Micenei ed Egeo-Anatolici"
+title: "Noch einige Zuweisungen an Nabonid"
+previous_item: "13816"
+---

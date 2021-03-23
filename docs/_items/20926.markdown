@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20926"
+occurrence_id: "4765"
+short_title: "Stolper 1999a"
+author: "Stolper, Matthew W."
+publication_year: "1999"
+title: "Achaemenid Legal Texts from the Kasr: Interim Observations"
+pages: "365-375"
+editor: "Renger, Johannes"
+book: "Babylon: Focus mesopotamischer Geschichte, Wiege früher Gelehrsamkeit, Mythos in der Moderne, CDOG 2 (Saarbrücken)"
+title: "Achaemenid Legal Texts from the Kasr: Interim Observations"
+previous_item: "20929"
+---

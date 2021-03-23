@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9655"
+occurrence_id: "1831"
+short_title: "CH 8 (1994), 88-89"
+author: "Reade, Julian E."
+publication_year: "1994"
+title: "Three Hoards from Babylonia in the British Museum"
+volume_no_: "8"
+pages: "88-89"
+journal: "Coin Hoards"
+title: "Three Hoards from Babylonia in the British Museum"
+previous_item: "9658"
+---

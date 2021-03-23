@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "9490"
+occurrence_id: "3960"
+short_title: "Mesopotamia 49 (2014), 113-142"
+author: "Hameeuw, Hendrik"
+publication_year: "2014"
+title: "The Seleucid Bullae from Uruk in the Royal Museums of Art and History, Brussels"
+volume_no_: "49"
+pages: "113-142"
+title: "The Seleucid Bullae from Uruk in the Royal Museums of Art and History, Brussels"
+previous_item: "9493"
+---

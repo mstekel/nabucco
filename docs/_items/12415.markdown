@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12415"
+occurrence_id: "1673"
+short_title: "BiOr 41 (1984 publ.1985), 429-431"
+author: "Weisberg, David B."
+publication_year: "1984 publ. 1985"
+title: "Rv. G.J.P. McEwan, The Late Babylonian Tablets in the Royal Ontario Museum (ROMCT 2)"
+volume_no_: "41"
+pages: "429-431"
+journal: "Bibliotheca Orientalis"
+title: "Rv. G.J.P. McEwan, The Late Babylonian Tablets in the Royal Ontario Museum (ROMCT 2)"
+previous_item: "12418"
+---

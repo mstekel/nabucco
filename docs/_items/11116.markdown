@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11116"
+occurrence_id: "3691"
+short_title: "ErIs27 (2003), 1-9."
+author: "Beaulieu, Paul-A."
+publication_year: "2003"
+title: "Nabopolassar and the Antiquity of Babylonia"
+volume_no_: "27"
+pages: "1-9."
+journal: "Eretz Israel"
+title: "Nabopolassar and the Antiquity of Babylonia"
+previous_item: "11119"
+---

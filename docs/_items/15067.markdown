@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "15067"
+occurrence_id: "3938"
+short_title: "NABU 2014/34+52"
+author: "Fincke, Jeanette"
+publication_year: "2014"
+title: "Another fragment of MUL.APIN from Babylonia (BM 43871)"
+title: "Another fragment of MUL.APIN from Babylonia (BM 43871)"
+previous_item: "15070"
+---

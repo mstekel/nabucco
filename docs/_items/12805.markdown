@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12805"
+occurrence_id: "3774"
+short_title: "JTVI 60 (1928), 132-137"
+author: "Pinches, Theophilus G."
+publication_year: "1928"
+title: "The Chariot of the sun at Sippar (Abu-Habbah) in Babylonia"
+volume_no_: "60"
+pages: "132-137"
+journal: "Journal of the Transactions of the Victoria Institute"
+title: "The Chariot of the sun at Sippar (Abu-Habbah) in Babylonia"
+previous_item: "12808"
+---

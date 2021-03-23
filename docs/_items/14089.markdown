@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14089"
+occurrence_id: "1676"
+short_title: "BiOr 43 (1986), 5-20"
+author: "van Driel, Govert"
+publication_year: "1986"
+title: "Neo-Babylonian texts from the Louvre"
+volume_no_: "43"
+pages: "5-20"
+journal: "Bibliotheca Orientalis"
+title: "Neo-Babylonian texts from the Louvre"
+previous_item: "14092"
+---

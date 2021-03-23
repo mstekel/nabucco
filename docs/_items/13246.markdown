@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13246"
+occurrence_id: "3145"
+short_title: "RIDA 3e Série 10 (1963), 43-54"
+author: "Falk, Ze'ev W."
+publication_year: "1963"
+title: "Zum jüdischen Bürgschaftsrecht"
+volume_no_: "3/10."
+pages: "43-54"
+journal: "Revue Internationale des Droits de l'Antiquité"
+title: "Zum jüdischen Bürgschaftsrecht"
+previous_item: "13249"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10639"
+occurrence_id: "287"
+short_title: "Falkner, AfO 17"
+author: "Falkner, Margarete"
+publication_year: "1954-55"
+title: "Die Eponymen der spätassyrischen Zeit, AfO 17, 100-120 Falkner"
+volume_no_: "17"
+pages: "100-120"
+journal: "Archiv für Orientforschung"
+title: "Die Eponymen der spätassyrischen Zeit, AfO 17, 100-120 Falkner"
+previous_item: "10642"
+---

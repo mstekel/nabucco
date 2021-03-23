@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8632"
+occurrence_id: "2360"
+short_title: "JNES 68 (2009), 223"
+author: "Verderame, Lorenzo"
+publication_year: "2009"
+title: "Rv. F. Rochberg, the Heavenly Writing: Divination, Horoscopy, and Astronomy in Mesopotamian Culture, 2004."
+volume_no_: "68"
+pages: "223"
+journal: "Journal of Near Eastern Studies"
+title: "Rv. F. Rochberg, the Heavenly Writing: Divination, Horoscopy, and Astronomy in Mesopotamian Culture, 2004."
+previous_item: "8635"
+---

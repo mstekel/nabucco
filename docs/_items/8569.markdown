@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8569"
+occurrence_id: "2021"
+short_title: "JA 244 (1956), 341-347"
+author: "Cavaignac, Eugène"
+publication_year: "1956"
+title: "À propos du document B.M. 25124. Les deux routes d'Asie Mineure"
+volume_no_: "244"
+pages: "341-347"
+journal: "Journal Asiatique"
+title: "À propos du document B.M. 25124. Les deux routes d'Asie Mineure"
+previous_item: "8572"
+---

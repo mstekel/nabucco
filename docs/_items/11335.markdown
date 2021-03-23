@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11335"
+occurrence_id: "1866"
+short_title: "Expedition 12/3 (1970), 17-21"
+author: "Leichty, Erle V."
+publication_year: "1970"
+title: "A Remarkable Forger"
+volume_no_: "12/3."
+pages: "17-21"
+journal: "Expedition. The Magazine of the University of Pennsylvania Museum of Archaeology and Anthropology"
+title: "A Remarkable Forger"
+previous_item: "11338"
+---

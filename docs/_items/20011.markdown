@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "20011"
+occurrence_id: "4296"
+short_title: "Parayre 2000"
+author: "Parayre, Dominique"
+publication_year: "2000"
+title: "Les suidés dans le monde syro-mésopotamien aux époques historiques"
+pages: "141-206"
+book: "Topoi Supplément 2, Les animaux et les hommes dans le monde syro-mésopotamien aux époques historiques (Lyon)"
+title: "Les suidés dans le monde syro-mésopotamien aux époques historiques"
+previous_item: "20014"
+---

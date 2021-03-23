@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19231"
+occurrence_id: "4533"
+short_title: "Gershevitch 1969"
+author: "Gershevitch, Ilya"
+publication_year: "1969"
+title: "Amber at Persepolis"
+pages: "167-251"
+editor: "Pagliaro, Antonino"
+book: "Studia classica et orientalia Antonino Pagliaro oblata (Roma)"
+title: "Amber at Persepolis"
+previous_item: "19234"
+---

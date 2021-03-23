@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10243"
+occurrence_id: "1976"
+short_title: "Iraq 55 (1993), 107-117"
+author: "Evers, Sheila M."
+publication_year: "1993"
+title: "George Smith and the Egibi Tablets"
+volume_no_: "55"
+pages: "107-117"
+journal: "Iraq"
+title: "George Smith and the Egibi Tablets"
+previous_item: "10246"
+---

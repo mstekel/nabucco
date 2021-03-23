@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "13960"
+occurrence_id: "3985"
+short_title: "MDOG 142 (2010), 181-189"
+author: "Marzahn, Joachim"
+publication_year: "2010"
+title: "Zur Wahrnehmung Babylons in der Öffentlichkeit"
+volume_no_: "142"
+pages: "181-189"
+title: "Zur Wahrnehmung Babylons in der Öffentlichkeit"
+previous_item: "13963"
+---

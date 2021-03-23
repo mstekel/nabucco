@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9016"
+occurrence_id: "1409"
+short_title: "AÖAW 118 (1981), 128-132"
+author: "Mayrhofer, Manfred"
+publication_year: "1981"
+title: "Zu übergegangenen Inschriftenfragmenten aus Susa"
+volume_no_: "118"
+pages: "128-132"
+journal: "Anzeiger der Österreichischen Akademie der Wissenschaften"
+title: "Zu übergegangenen Inschriftenfragmenten aus Susa"
+previous_item: "9019"
+---

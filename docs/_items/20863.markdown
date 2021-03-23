@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20863"
+occurrence_id: "4429"
+short_title: "Herrmann 2000"
+author: "Herrmann, Georgina"
+publication_year: "2000"
+title: "The Rock Reliefs.of Sasanian Iran"
+pages: "35-45"
+editor: "Curtis, John"
+book: "Mesopotamia and Iran in the Parthian and Sasanian Periods (London)"
+title: "The Rock Reliefs.of Sasanian Iran"
+previous_item: "20866"
+---

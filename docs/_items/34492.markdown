@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "34492"
+place_id: "1544"
+parent_id: "37"
+place_name: "Kār-Tašmētu"
+related_objects: "8343"
+title: "Kār-Tašmētu"
+previous_item: "34495"
+---

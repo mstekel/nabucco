@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13045"
+occurrence_id: "2061"
+short_title: "JAOS 104 (1984 publ. 1985), 213-217"
+author: "Weisberg, David B."
+publication_year: "1984 publ. 1985"
+title: "The Length of the Reign of ¿allušu-Inšušinak"
+volume_no_: "104"
+pages: "213-217"
+journal: "Journal of the American Oriental Society"
+title: "The Length of the Reign of ¿allušu-Inšušinak"
+previous_item: "13048"
+---

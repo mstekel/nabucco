@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12976"
+occurrence_id: "1691"
+short_title: "BiOr 50 (1993), 91-101"
+author: "van der Spek, Robartus"
+publication_year: "1993"
+title: "The Astronomical Diaries as a Source for Achaemenid and Seleucid History"
+volume_no_: "50"
+pages: "91-101"
+journal: "Bibliotheca Orientalis"
+title: "The Astronomical Diaries as a Source for Achaemenid and Seleucid History"
+previous_item: "12979"
+---

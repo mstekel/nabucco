@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "9484"
+occurrence_id: "3928"
+short_title: "Kaskal 11 (2014), 183-192"
+author: "Corò Capitanio, Paola"
+publication_year: "2014"
+title: "Identifying Women in Hellenistic Uruk: A Matter of Perspective?"
+volume_no_: "11"
+pages: "183-192"
+title: "Identifying Women in Hellenistic Uruk: A Matter of Perspective?"
+previous_item: "9487"
+---

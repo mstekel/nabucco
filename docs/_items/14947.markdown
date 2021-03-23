@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14947"
+occurrence_id: "3292"
+short_title: "UVB 28 (1978), 57"
+author: "Cavigneaux, Antoine"
+publication_year: "1978"
+title: "Tontafeln"
+volume_no_: "28"
+pages: "57"
+journal: "Vorläufige Berichte über die Ausgrabungen in Uruk-Warka"
+title: "Tontafeln"
+previous_item: "14950"
+---

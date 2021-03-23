@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "11719"
+occurrence_id: "3932"
+short_title: "WZKM 103 (2013), 87-100"
+author: "Da Riva, Rocío"
+publication_year: "2013"
+title: "Neo-Babylonian Monuments at Shir es-Sanam and Wadi es-Saba (North Lebanon)"
+volume_no_: "103"
+pages: "87-100"
+title: "Neo-Babylonian Monuments at Shir es-Sanam and Wadi es-Saba (North Lebanon)"
+previous_item: "11722"
+---

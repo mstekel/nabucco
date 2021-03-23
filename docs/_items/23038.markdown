@@ -1,0 +1,9 @@
+---
+layout: "archive"
+slug: "23038"
+archive_id: "91"
+archive_name: "Gahal"
+is_part_of: "Babylon"
+title: "Gahal"
+previous_item: "23041"
+---

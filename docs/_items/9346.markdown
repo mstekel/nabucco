@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9346"
+occurrence_id: "3186"
+short_title: "SEL 12 (1995), 241-252"
+author: "Zadok, Ran"
+publication_year: "1995"
+title: "On the Current State of Elamite Lexicography"
+volume_no_: "12"
+pages: "241-252"
+journal: "Studi Epigrafici e Linguistici sul Vicino Oriente Antico"
+title: "On the Current State of Elamite Lexicography"
+previous_item: "9349"
+---

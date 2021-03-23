@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9886"
+occurrence_id: "3075"
+short_title: "RA 80 (1986 publ. 1987), 188"
+author: "McEwan, Gilbert J.P."
+publication_year: "1986 publ. 1987"
+title: "Sons of the Hunchback"
+volume_no_: "80"
+pages: "188"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "Sons of the Hunchback"
+previous_item: "9889"
+---

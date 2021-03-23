@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "11122"
+occurrence_id: "3723"
+short_title: "Jahrbuch für Wirtschaftsgeschichte 1973/1, 133-158"
+author: "Beljavskij, Vitali A."
+publication_year: "1973"
+title: "Die Sklavenelite des Hauses Egibi"
+pages: "133-158"
+journal: "Jahrbuch für Wirtschaftsgeschichte"
+title: "Die Sklavenelite des Hauses Egibi"
+previous_item: "11125"
+---

@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17338"
+occurrence_id: "884"
+short_title: "Scheil 1905"
+author: "Scheil, Vincent "
+publication_year: "1905"
+title: "Textes élamites-sémitiques, 3e sér., MDP 6 (Paris)"
+title: "Textes élamites-sémitiques, 3e sér., MDP 6 (Paris)"
+previous_item: "17341"
+---

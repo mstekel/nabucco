@@ -1,0 +1,12 @@
+---
+layout: "bibliography"
+slug: "7825"
+occurrence_id: "4054"
+short_title: "NABU 2015/85"
+author: "Zadok, Ran"
+publication_year: "2015"
+title: "Notes on the onomastics from Yahūdu"
+volume_no_: "2015/85"
+title: "Notes on the onomastics from Yahūdu"
+previous_item: "7828"
+---

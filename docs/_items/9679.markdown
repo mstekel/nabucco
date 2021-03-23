@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9679"
+occurrence_id: "1959"
+short_title: "Iraq 38 (1976), 171-173"
+author: "Lambert, Wilfred G."
+publication_year: "1976"
+title: "Berossus and Babylonian Eschatology"
+volume_no_: "38"
+pages: "171-173"
+journal: "Iraq"
+title: "Berossus and Babylonian Eschatology"
+previous_item: "9682"
+---

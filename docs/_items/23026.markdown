@@ -1,0 +1,9 @@
+---
+layout: "archive"
+slug: "23026"
+archive_id: "286"
+archive_name: "Small archives"
+is_part_of: "Nippur"
+title: "Small archives"
+previous_item: "23029"
+---

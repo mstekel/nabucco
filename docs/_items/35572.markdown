@@ -1,0 +1,10 @@
+---
+layout: "glossary"
+slug: "35572"
+concept_id: "1570"
+label: "Single instance"
+hierarchy: "Content type"
+type: "172"
+title: "Single instance"
+previous_item: "35575"
+---

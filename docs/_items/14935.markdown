@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14935"
+occurrence_id: "3228"
+short_title: "Sumer 23 (1967), 3-38"
+author: "Fiey, Jean-Maurice"
+publication_year: "1967"
+title: "Topography of al-Mada'in (Seleucia-Ctesiphon area)"
+volume_no_: "23"
+pages: "3-38"
+journal: "Sumer"
+title: "Topography of al-Mada'in (Seleucia-Ctesiphon area)"
+previous_item: "14938"
+---

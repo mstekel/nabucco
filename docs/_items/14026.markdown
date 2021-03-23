@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14026"
+occurrence_id: "1336"
+short_title: "AMI 17 (1984 publ. 1986), 135-153"
+author: "Calmeyer, Peter"
+publication_year: "1984 publ. 1986"
+title: "\"Das Zeichen der Herrschaft ... ohne Šamaš wird es nicht gegeben\""
+volume_no_: "17"
+pages: "135-153"
+journal: "Archäologische Mitteilungen aus Iran"
+title: "\"Das Zeichen der Herrschaft ... ohne Šamaš wird es nicht gegeben\""
+previous_item: "14029"
+---

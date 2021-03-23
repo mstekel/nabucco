@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33862"
+place_id: "553"
+parent_id: "40"
+place_name: "Kār-Ninurta"
+title: "Kār-Ninurta"
+previous_item: "33865"
+---

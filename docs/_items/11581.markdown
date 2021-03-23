@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11581"
+occurrence_id: "3190"
+short_title: "Semitica 32 (1982), 35-43"
+author: "Joannès, Francis"
+publication_year: "1982"
+title: "La localisation de ƒurru à l´époque néo-babylonienne"
+volume_no_: "32"
+pages: "35-43"
+journal: "Semitica"
+title: "La localisation de ƒurru à l´époque néo-babylonienne"
+previous_item: "11584"
+---

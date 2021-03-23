@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10810"
+occurrence_id: "2041"
+short_title: "JAC 14 (1999), 157-161"
+author: "Wu, Yuhong"
+publication_year: "1999"
+title: "Rv. A.C.V.M. Bongenaar. The Neo-Babylonian Ebabbar Temple at Sippar: its Administration and its Prosopography, PIHANS 80 (Leiden 1997)"
+volume_no_: "14"
+pages: "157-161"
+journal: "Journal of Ancient Civilizations"
+title: "Rv. A.C.V.M. Bongenaar. The Neo-Babylonian Ebabbar Temple at Sippar: its Administration and its Prosopography, PIHANS 80 (Leiden 1997)"
+previous_item: "10813"
+---

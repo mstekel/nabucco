@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14113"
+occurrence_id: "1807"
+short_title: "BSOAS 59 (1996), 553-555"
+author: "George, Andrew, R."
+publication_year: "1996"
+title: "Rv. G. Frame, Rulers of Babylonia from the Second Dynasty of Isin to the End of Assyrian Domination (1157-612 BC) (RIMB 2. 1995)"
+volume_no_: "59"
+pages: "553-555"
+journal: "Bulletin of the School of Oriental and African Studies"
+title: "Rv. G. Frame, Rulers of Babylonia from the Second Dynasty of Isin to the End of Assyrian Domination (1157-612 BC) (RIMB 2. 1995)"
+previous_item: "14116"
+---

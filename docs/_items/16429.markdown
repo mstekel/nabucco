@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16429"
+occurrence_id: "2212"
+short_title: "JCS 58 (2006), 63-96"
+author: "Rutz, Matthew"
+publication_year: "2006"
+title: "Textual Transmission between Babylonia and Susa: A New Solar Omen Compendium."
+volume_no_: "58"
+pages: "63-96"
+journal: "Journal of Cuneiform Studies"
+title: "Textual Transmission between Babylonia and Susa: A New Solar Omen Compendium."
+previous_item: "16432"
+---

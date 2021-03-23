@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11431"
+occurrence_id: "2381"
+short_title: "La Scuola Cattolica 70 (1942), 252-254"
+author: "Salvoni, F."
+publication_year: "1942"
+title: "Rv. G. Brunner, Der Nabuchodonosor des Buches Judith"
+volume_no_: "70"
+pages: "252-254"
+journal: "La Scuola Cattolica"
+title: "Rv. G. Brunner, Der Nabuchodonosor des Buches Judith"
+previous_item: "11434"
+---

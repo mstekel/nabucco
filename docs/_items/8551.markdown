@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8551"
+occurrence_id: "1925"
+short_title: "Iran 24 (1986), 91-94"
+author: "McEwan, Gilbert J.P."
+publication_year: "1986"
+title: "A Parthian Campaign against Elymais in 77 B.C."
+volume_no_: "24"
+pages: "91-94"
+journal: "Iran. Journal of the British Institute of Persian Studies"
+title: "A Parthian Campaign against Elymais in 77 B.C."
+previous_item: "8554"
+---

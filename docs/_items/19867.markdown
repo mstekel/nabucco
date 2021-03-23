@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19867"
+occurrence_id: "4616"
+short_title: "Steele 2007"
+author: "Steele, John M."
+publication_year: "2007"
+title: "The Length of Month in Mesopotamian Calendars of the First Millennium BC."
+pages: "133-148"
+editor: "Steele, John M."
+book: "Calendars and Years - Astronomy and Time in the Ancient Near East (Oxford)"
+title: "The Length of Month in Mesopotamian Calendars of the First Millennium BC."
+previous_item: "19870"
+---

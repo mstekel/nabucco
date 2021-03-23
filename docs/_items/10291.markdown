@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10291"
+occurrence_id: "2234"
+short_title: "JEOL 6-8 (1943), 761"
+author: "Böhl, Franz Marius Th."
+publication_year: "1943"
+title: "Cylinder betreffende Nebukadnezar´s tempelbouw te Marad"
+volume_no_: "6-8"
+pages: "761"
+journal: "Jaarbericht van het Voor-Aziatisch-Egyptisch-Gezelschap Ex Oriente Lux"
+title: "Cylinder betreffende Nebukadnezar´s tempelbouw te Marad"
+previous_item: "10294"
+---

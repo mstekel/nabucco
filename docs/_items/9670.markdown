@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9670"
+occurrence_id: "1911"
+short_title: "IrAn 11 (1975 publ. 1976), 113-133"
+author: "Luschey, Heinz"
+publication_year: "1975 publ. 1976"
+title: "Zum Problem der Stilentwicklung in der achämenidischen and sasanidischen Reliefkunst"
+volume_no_: "11"
+pages: "113-133"
+journal: "Iranica Antiqua"
+title: "Zum Problem der Stilentwicklung in der achämenidischen and sasanidischen Reliefkunst"
+previous_item: "9673"
+---

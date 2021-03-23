@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9277"
+occurrence_id: "2813"
+short_title: "OLZ 86 (1991), 499-502"
+author: "Oelsner, Joachim"
+publication_year: "1991"
+title: "Rv. A.J. Sachs, Astronomical Diaries and Related Texts from Babylonia, Vol. II (two parts), Diaries from 261 B.C. to 165 B. C."
+volume_no_: "86"
+pages: "499-502"
+journal: "Orientalistische Literaturzeitung"
+title: "Rv. A.J. Sachs, Astronomical Diaries and Related Texts from Babylonia, Vol. II (two parts), Diaries from 261 B.C. to 165 B. C."
+previous_item: "9280"
+---

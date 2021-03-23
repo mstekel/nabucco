@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11569"
+occurrence_id: "3126"
+short_title: "RB 84 (1977), 459"
+author: "Sigrist, Marcel"
+publication_year: "1977"
+title: "Rv. M.D. Coogan, West Semitic Personal Names in the Murašû Documents (HSM 7)"
+volume_no_: "84"
+pages: "459"
+journal: "Revue Biblique"
+title: "Rv. M.D. Coogan, West Semitic Personal Names in the Murašû Documents (HSM 7)"
+previous_item: "11572"
+---

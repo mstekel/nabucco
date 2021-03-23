@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8218"
+occurrence_id: "3152"
+short_title: "RIDA 3e série, 10 (1963), 270-271"
+author: "Cardascia, Guillaume"
+publication_year: "1963"
+title: "Observations sur la fiscalité dans la Babylonie achéménide"
+volume_no_: "3/10."
+pages: "270-271"
+journal: "Revue Internationale des Droits de l'Antiquité"
+title: "Observations sur la fiscalité dans la Babylonie achéménide"
+previous_item: "8221"
+---

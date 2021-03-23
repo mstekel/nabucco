@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "13699"
+occurrence_id: "2580"
+short_title: "NABU 1998/121"
+author: "Koch, Johannes"
+title: "Ein für allemal: Das antike Mesopotamien kannte kein 364 Tage-Jahr"
+volume_no_: "121"
+publication_year: "1998"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Ein für allemal: Das antike Mesopotamien kannte kein 364 Tage-Jahr"
+previous_item: "13702"
+---

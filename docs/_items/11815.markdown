@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11815"
+occurrence_id: "1446"
+short_title: "Aram 7 (1995), 137-151"
+author: "Dalley, Stephanie"
+publication_year: "1995"
+title: "Bel at Palmyra and elsewhere in the Parthian Period"
+volume_no_: "7"
+pages: "137-151"
+journal: "Aram"
+title: "Bel at Palmyra and elsewhere in the Parthian Period"
+previous_item: "11818"
+---

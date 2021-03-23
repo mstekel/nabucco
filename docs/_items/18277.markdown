@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18277"
+occurrence_id: "322"
+short_title: "Bogaert 1966"
+author: "Bogaert, Raymond "
+publication_year: "1966"
+title: "L´origine antique de la banque de dépôt"
+title: "L´origine antique de la banque de dépôt"
+previous_item: "18280"
+---

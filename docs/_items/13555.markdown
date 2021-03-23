@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13555"
+occurrence_id: "1806"
+short_title: "BSOAS 59 (1996), 552-553"
+author: "Livingstone, Alasdair"
+publication_year: "1996"
+title: "Rv. C. Wunsch, Die Urkunden des babylonischen Geschäftsmannes Iddin-Marduk (CM 3, 1993)"
+volume_no_: "59"
+pages: "552-553"
+journal: "Bulletin of the School of Oriental and African Studies"
+title: "Rv. C. Wunsch, Die Urkunden des babylonischen Geschäftsmannes Iddin-Marduk (CM 3, 1993)"
+previous_item: "13558"
+---

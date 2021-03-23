@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16909"
+occurrence_id: "598"
+short_title: "Tallqvist 1906"
+author: "Tallqvist, Knut L. "
+publication_year: "1906"
+title: "Neubabylonisches Namenbuch zu den GeschäftsUrkunden aus der Zeit des Samaššumukîn bis Xerxes, Annales Academiae Scientiarum Fennicae, Series B, 32/2"
+title: "Neubabylonisches Namenbuch zu den GeschäftsUrkunden aus der Zeit des Samaššumukîn bis Xerxes, Annales Academiae Scientiarum Fennicae, Series B, 32/2"
+previous_item: "16912"
+---

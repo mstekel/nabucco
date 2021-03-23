@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "34483"
+place_id: "1494"
+parent_id: "37"
+place_name: "Ālu-ša-Zumbā "
+related_objects: "7802"
+title: "Ālu-ša-Zumbā "
+previous_item: "34486"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19558"
+occurrence_id: "5174"
+short_title: "Hinz 1974"
+author: "Hinz, Walther"
+publication_year: "1974"
+title: "'Glückwunsch' aus Persepolis"
+pages: "125-129"
+editor: "Tafazzoli, Ahmad"
+book: "Mémorial Jean de Menasce (Louvain)"
+title: "'Glückwunsch' aus Persepolis"
+previous_item: "19561"
+---

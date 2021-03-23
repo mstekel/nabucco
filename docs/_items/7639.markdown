@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7639"
+occurrence_id: "3055"
+short_title: "RA 75 (1981), 143-150"
+author: "Joannès, Francis"
+publication_year: "1981"
+title: "Un inventaire de mobilier sacré d´époque néo-babylonienne"
+volume_no_: "75"
+pages: "143-150"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "Un inventaire de mobilier sacré d´époque néo-babylonienne"
+previous_item: "7642"
+---

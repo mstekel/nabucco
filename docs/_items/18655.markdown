@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18655"
+occurrence_id: "4770"
+short_title: "Stolper 2004"
+author: "Stolper, Matthew W."
+publication_year: "2004"
+title: "Elamite"
+pages: "60-94"
+editor: "Woodard, R.D."
+book: "The Cambridge Encyclopedia of the World's Ancient Languages (Cambridge)"
+title: "Elamite"
+previous_item: "18658"
+---

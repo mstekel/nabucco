@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33340"
+place_id: "1066"
+parent_id: "61"
+place_name: "Huṣṣēti-ša-Hašdija"
+title: "Huṣṣēti-ša-Hašdija"
+previous_item: "33343"
+---

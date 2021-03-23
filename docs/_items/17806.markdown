@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17806"
+occurrence_id: "587"
+short_title: "Stève 1992"
+author: "Stève, Marie-Joseph "
+publication_year: "1992"
+title: "Syllabaire Elamite: Histoire et Paleographie"
+title: "Syllabaire Elamite: Histoire et Paleographie"
+previous_item: "17809"
+---

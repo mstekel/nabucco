@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8827"
+occurrence_id: "3411"
+short_title: "ZA 53 (1959), 279"
+author: "Falkenstein, Adam"
+publication_year: "1959"
+title: "Rv. R.A. Parker and W. H. Dubberstein, Babylonian Chronology 626 B.C. - A.D. 75"
+volume_no_: "53"
+pages: "279"
+journal: "Zeitschrift für Assyriologie"
+title: "Rv. R.A. Parker and W. H. Dubberstein, Babylonian Chronology 626 B.C. - A.D. 75"
+previous_item: "8830"
+---

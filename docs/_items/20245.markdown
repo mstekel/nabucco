@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20245"
+occurrence_id: "4442"
+short_title: "Lanfranchi 2013"
+author: "Lanfranchi, Giovanni , B."
+publication_year: "2013"
+title: "Babyloniaca, Book 3: Assyrians, Babylonians and Persians"
+pages: "61-74"
+editor: "Lanfranchi, Giovanni , B."
+book: "The World of Berossos. Proceedings of the 4th International Colloquium on «The Ancient Near East between Classical and Ancient Oriental Traditions», Hatfield College, Durham, 7th-9th July 2010,  Classica et Orientalia 5 (Wiesbaden)"
+title: "Babyloniaca, Book 3: Assyrians, Babylonians and Persians"
+previous_item: "20248"
+---

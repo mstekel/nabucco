@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9766"
+occurrence_id: "2426"
+short_title: "Muséon 55 (1942), 61-86"
+author: "Goossens, Godefroy"
+publication_year: "1942"
+title: "L´accadien des clercs d´Uruk sous les séleucides"
+volume_no_: "55"
+pages: "61-86"
+journal: "Le Muséon. Revue d'Études Orientales"
+title: "L´accadien des clercs d´Uruk sous les séleucides"
+previous_item: "9769"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11002"
+occurrence_id: "3077"
+short_title: "RA 80 (1986 publ. 1987), 79-81"
+author: "Joannès, Francis"
+publication_year: "1986 publ. 1987"
+title: "Rv. G.J.P. McEwan, The Late Babylonian Tablets in the Royal Ontario Museum (ROMCT 2)"
+volume_no_: "80"
+pages: "79-81"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "Rv. G.J.P. McEwan, The Late Babylonian Tablets in the Royal Ontario Museum (ROMCT 2)"
+previous_item: "11005"
+---

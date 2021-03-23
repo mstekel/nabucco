@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12712"
+occurrence_id: "3272"
+short_title: "TRG 19 (1951), 25-57"
+author: "Petschow, Herbert"
+publication_year: "1951"
+title: "Ein neubabylonischer Bürgschaftsregress gegen einen Nachlass"
+volume_no_: "19"
+pages: "25-57"
+journal: "Tijdschrift voor Rechtsgeschiedenis"
+title: "Ein neubabylonischer Bürgschaftsregress gegen einen Nachlass"
+previous_item: "12715"
+---

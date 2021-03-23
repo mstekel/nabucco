@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11137"
+occurrence_id: "3803"
+short_title: "NumC, Sixth Series 16 (1956), 1-8"
+author: "Robinson, Edward Stanley G."
+publication_year: "1956"
+title: "The Date of the Earliest Coins"
+volume_no_: "6/16."
+pages: "1-8."
+journal: "The Numismatic Chronicle"
+title: "The Date of the Earliest Coins"
+previous_item: "11140"
+---

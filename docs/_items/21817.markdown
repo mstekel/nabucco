@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21817"
+occurrence_id: "5105"
+short_title: "Zawadzki 1998"
+author: "Zawadzki, Stefan"
+publication_year: "1998"
+title: "A Document from the Second Year of Sin-šar-iškun"
+pages: "109-112"
+editor: "Braun, J."
+book: "Written on Clay and Stone. Ancient Near Eastern Studies Presented to Krystyna Szarzyńska on the Occasion of her 80th Birthday, Fs.Szarzyńska (Warsaw)"
+title: "A Document from the Second Year of Sin-šar-iškun"
+previous_item: "21820"
+---

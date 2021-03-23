@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16873"
+occurrence_id: "383"
+short_title: "Diakonoff 1956a"
+author: "Diakonoff, Igor M. "
+publication_year: "1956"
+title: "Istoriia Midii ot drevneishikh vremen do kontsa IV veka do n.e."
+title: "Istoriia Midii ot drevneishikh vremen do kontsa IV veka do n.e."
+previous_item: "16876"
+---

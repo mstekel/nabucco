@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "13969"
+occurrence_id: "4033"
+short_title: "Iraq 74 (2012), 117-126"
+author: "Tarasewicz, Radosław"
+publication_year: "2012"
+title: "New Data on the Sidru-Offering in Neo-Babylonian Sippar"
+volume_no_: "74"
+pages: "117-126"
+title: "New Data on the Sidru-Offering in Neo-Babylonian Sippar"
+previous_item: "13972"
+---

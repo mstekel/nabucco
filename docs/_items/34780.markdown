@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34780"
+place_id: "1057"
+parent_id: "61"
+place_name: "Huṣṣēti-ša-Amassu"
+title: "Huṣṣēti-ša-Amassu"
+previous_item: "34783"
+---

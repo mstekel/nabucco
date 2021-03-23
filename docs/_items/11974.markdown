@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11974"
+occurrence_id: "2302"
+short_title: "JNES 38 (1979), 195-197"
+author: "Doty, L. Timothy"
+publication_year: "1979"
+title: "An Official Seal of the Seleucid Period"
+volume_no_: "38"
+pages: "195-197"
+journal: "Journal of Near Eastern Studies"
+title: "An Official Seal of the Seleucid Period"
+previous_item: "11977"
+---

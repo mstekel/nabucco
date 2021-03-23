@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "15388"
+occurrence_id: "2647"
+short_title: "NABU 2002/64"
+author: "Reculeau, Hervé"
+title: "Données nouvelles sur l'astronomie amorrite"
+volume_no_: "64"
+publication_year: "2002"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Données nouvelles sur l'astronomie amorrite"
+previous_item: "15391"
+---

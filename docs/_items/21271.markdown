@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21271"
+occurrence_id: "4399"
+short_title: "Alheim 1962"
+author: "Alheim, Franz"
+publication_year: "1962"
+title: "Das Alte Iran: Hochkulturen des mittleren und östlichen Asiens, Propyläen-Weltgeschichte. Eine Universalgeschichte,Vol.II, 135-235 (Berlin)"
+pages: "135-235"
+editor: "Heuss, Alfred"
+book: "Propyläen-Weltgeschichte. Eine Universalgeschichte, Vol. II (Berlin)"
+title: "Das Alte Iran: Hochkulturen des mittleren und östlichen Asiens, Propyläen-Weltgeschichte. Eine Universalgeschichte,Vol.II, 135-235 (Berlin)"
+previous_item: "21274"
+---

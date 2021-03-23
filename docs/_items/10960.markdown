@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10960"
+occurrence_id: "2848"
+short_title: "Or 23 (1954), 148-151"
+author: "Nicolò, Mariano, San"
+publication_year: "1954"
+title: "Grandsätzliches zu frühen neubabylonischen Rechtsurkunden"
+volume_no_: "23"
+pages: "148-151"
+journal: "Orientalia"
+title: "Grandsätzliches zu frühen neubabylonischen Rechtsurkunden"
+previous_item: "10963"
+---

@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17533"
+occurrence_id: "497"
+short_title: "Liverani 1988"
+author: "Liverani, Mario "
+publication_year: "1988"
+title: "Antico Oriente: Storia, società, economia"
+title: "Antico Oriente: Storia, società, economia"
+previous_item: "17536"
+---

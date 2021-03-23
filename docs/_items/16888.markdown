@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16888"
+occurrence_id: "473"
+short_title: "Koldewey 1990"
+author: "Hrouda, Barthel "
+publication_year: "1990"
+title: "Das wieder erstehende Babylon"
+title: "Das wieder erstehende Babylon"
+previous_item: "16891"
+---

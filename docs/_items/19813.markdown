@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19813"
+occurrence_id: "4327"
+short_title: "Ebeling 1957-71"
+author: "Ebeling, Erich"
+publication_year: "1957-71"
+title: "Gefangener, Gefängnis"
+pages: "181-182"
+editor: "Meissner, Bruno"
+book: "Reallexikon der Assyriologie 3 (1957-1971)"
+title: "Gefangener, Gefängnis"
+previous_item: "19816"
+---

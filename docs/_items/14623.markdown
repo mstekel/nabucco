@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14623"
+occurrence_id: "1549"
+short_title: "BA 4 (1902), 551-574"
+author: "Kotalla, Eduard"
+publication_year: "1902"
+title: "Fünfzig babylonische Rechts- und Verwaltungsurkunden aus der Zeit des Königs Artaxerxes I (464- 424 v.Chr.)"
+volume_no_: "4"
+pages: "551-574"
+journal: "Beiträge zur Assyriologie"
+title: "Fünfzig babylonische Rechts- und Verwaltungsurkunden aus der Zeit des Königs Artaxerxes I (464- 424 v.Chr.)"
+previous_item: "14626"
+---

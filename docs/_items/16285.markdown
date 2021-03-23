@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16285"
+occurrence_id: "1438"
+short_title: "AoF 5 (1977), 81-89"
+author: "Sarkisjan, Gagik Ch."
+publication_year: "1977"
+title: "Bruchstücke von seleukidischen Wirtschaftstexten aus Uruk in den Staatlichen Mussen zu Berlin"
+volume_no_: "5"
+pages: "81-89"
+journal: "Altorientalische Forschungen"
+title: "Bruchstücke von seleukidischen Wirtschaftstexten aus Uruk in den Staatlichen Mussen zu Berlin"
+previous_item: "16288"
+---

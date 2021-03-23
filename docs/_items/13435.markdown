@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13435"
+occurrence_id: "1151"
+short_title: "AcAntHung 22 (1974 publ. 1976), 373-384"
+author: "Lipiński, Edward"
+publication_year: "1974"
+title: "Textes juridiques et économiques araméens de l´époque sargonide"
+volume_no_: "22"
+pages: "373-384"
+journal: "Acta Antiqua Academiae Scientiarum Hungaricae"
+title: "Textes juridiques et économiques araméens de l´époque sargonide"
+previous_item: "13438"
+---

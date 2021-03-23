@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8062"
+occurrence_id: "2311"
+short_title: "JNES 42 (1983), 312-314"
+author: "Frame, Grant"
+publication_year: "1983"
+title: "Rv. D.B. Weisberg, Texts from the Time of Nebuchadnezzar (YOS 17)"
+volume_no_: "42"
+pages: "312-314"
+journal: "Journal of Near Eastern Studies"
+title: "Rv. D.B. Weisberg, Texts from the Time of Nebuchadnezzar (YOS 17)"
+previous_item: "8065"
+---

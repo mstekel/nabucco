@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14107"
+occurrence_id: "1774"
+short_title: "BSOAS 20 (1957), 255-265"
+author: "Gadd, Cyril J."
+publication_year: "1957"
+title: "Fragments of Assyrian Scholastic Literature"
+volume_no_: "20"
+pages: "255-265"
+journal: "Bulletin of the School of Oriental and African Studies"
+title: "Fragments of Assyrian Scholastic Literature"
+previous_item: "14110"
+---

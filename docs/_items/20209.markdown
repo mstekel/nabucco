@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20209"
+occurrence_id: "4249"
+short_title: "Wunsch 1999-2000"
+author: "Wunsch, Cornelia"
+publication_year: "1999-2000"
+title: "Eine Richterurkunde aus der Zeit Neriglissars"
+pages: "241-254"
+editor: "Márquez-Rowe, Ignacio"
+book: "Arbor Scientiae. Estudios del Próximo Oriente Antiguo, Fs. Olmo Lete, AuOr 17/18 (Barcelona)"
+title: "Eine Richterurkunde aus der Zeit Neriglissars"
+previous_item: "20212"
+---

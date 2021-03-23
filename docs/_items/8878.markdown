@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8878"
+occurrence_id: "3687"
+short_title: "ErIs 27 (2003), 1-9."
+author: "Abraham, Kathleen"
+publication_year: "2003"
+title: "Property and Ownership in the Egibi Archive from Babylon."
+volume_no_: "27"
+pages: "1-9."
+journal: "Eretz Israel"
+title: "Property and Ownership in the Egibi Archive from Babylon."
+previous_item: "8881"
+---

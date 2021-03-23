@@ -1,0 +1,15 @@
+---
+layout: "tablet"
+slug: "30847"
+object_id: "4324"
+museum_no_: "Peek 18"
+publication: "Peek"
+text_number: "018"
+duplicate: "Mnb 1131"
+imported: "Kathleen Abraham (18/04/2016)"
+publication_name: "Peek 018"
+archive: "Egibi/Nūr-Sîn"
+related_objects: "4411"
+title: "Peek 18"
+previous_item: "30850"
+---

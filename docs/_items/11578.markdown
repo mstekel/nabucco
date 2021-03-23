@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11578"
+occurrence_id: "3174"
+short_title: "SAAB 8 (1994), 113-116"
+author: "Heltzer, Michael"
+publication_year: "1994"
+title: "Some Remarks Concerning the Neo-Babylonian Tablets from Šeh Hamad"
+volume_no_: "8"
+pages: "113-116"
+journal: "State Archives of Assyria, Bulletin"
+title: "Some Remarks Concerning the Neo-Babylonian Tablets from Šeh Hamad"
+previous_item: "11581"
+---

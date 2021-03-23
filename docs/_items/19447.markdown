@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19447"
+occurrence_id: "4582"
+short_title: "Oelsner 2001"
+author: "Oelsner, Joachim"
+publication_year: "2001"
+title: "The Neo-Babylonian Period"
+pages: "289-305"
+editor: "Jasnow, Richard"
+book: "Security for Debt in Ancient Near Eastern Law, Culture and History of the Ancient Near East 9 (Leiden, Bosten and Köln)"
+title: "The Neo-Babylonian Period"
+previous_item: "19450"
+---

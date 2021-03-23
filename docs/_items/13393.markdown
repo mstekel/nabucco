@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "13393"
+occurrence_id: "3935"
+short_title: "ZOrA 5 (2012), 90-102"
+author: "Schneider, Gerwulf"
+publication_year: "2012"
+title: "Pottery and Clay from Uruk, Southern Iraq. Laboratory Analysis of Pottery Fabrics from the Late Uruk to the Seleucid Period"
+title: "Pottery and Clay from Uruk, Southern Iraq. Laboratory Analysis of Pottery Fabrics from the Late Uruk to the Seleucid Period"
+previous_item: "13396"
+---

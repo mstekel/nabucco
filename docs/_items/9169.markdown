@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9169"
+occurrence_id: "2232"
+short_title: "JEOL 40 (2006-2007), 91-101"
+author: "MacGinnis, John"
+publication_year: "200-2007"
+title: "Fields of Endeavour - Leasing and Releasing the Land of Samas"
+volume_no_: "40"
+pages: "91-101"
+journal: "Jaarbericht van het Voor-Aziatisch-Egyptisch-Gezelschap Ex Oriente Lux"
+title: "Fields of Endeavour - Leasing and Releasing the Land of Samas"
+previous_item: "9172"
+---

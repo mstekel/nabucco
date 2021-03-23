@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16807"
+occurrence_id: "778"
+short_title: "Ebeling 1953 (NBr Glossar)"
+author: "Ebeling, Erich "
+publication_year: "1953"
+title: "Glossar zu den neubabylonischen Briefen, SBAW 1953/1 (München)"
+title: "Glossar zu den neubabylonischen Briefen, SBAW 1953/1 (München)"
+previous_item: "16810"
+---

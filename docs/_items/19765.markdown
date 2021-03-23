@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19765"
+occurrence_id: "5175"
+short_title: "Sallaberger and Schmidt 2012"
+author: "Schmidt, Katharina"
+publication_year: "2012"
+title: "Insignien des Königs oder Insignien des Gottes? Ein neuer Blick auf die kultische Königskrönung beim babylonischen Neujahrsfest"
+pages: "567-594"
+editor: "Otto, Adelheid"
+book: "Stories of Long Ago. Festschrift für Michael D. Roaf, Alter Orient und Altes Testament 397 (Münster)"
+title: "Insignien des Königs oder Insignien des Gottes? Ein neuer Blick auf die kultische Königskrönung beim babylonischen Neujahrsfest"
+previous_item: "19768"
+---

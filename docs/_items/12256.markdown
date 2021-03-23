@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12256"
+occurrence_id: "3821"
+short_title: "Österreichische Hochschulzeitung 16/9 (1964), 3"
+author: "Anonymus"
+publication_year: "1964"
+title: "Rv. W. Brandenstein and M. Mayrhofer, Handbuch des Altpersischen"
+volume_no_: "16/9."
+pages: "3"
+journal: "Österreichische Hochschulzeitung"
+title: "Rv. W. Brandenstein and M. Mayrhofer, Handbuch des Altpersischen"
+previous_item: "12259"
+---

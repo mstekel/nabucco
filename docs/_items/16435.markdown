@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16435"
+occurrence_id: "2245"
+short_title: "JESHO 42 (1999), 303-325"
+author: "Grainger, John D."
+publication_year: "1999"
+title: "Prices in Hellenistic Babylonia"
+volume_no_: "42"
+pages: "303-325"
+journal: "Journal of the Economic and Social History of the Orient"
+title: "Prices in Hellenistic Babylonia"
+previous_item: "16438"
+---

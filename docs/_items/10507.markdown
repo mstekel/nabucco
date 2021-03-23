@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10507"
+occurrence_id: "3414"
+short_title: "ZA 6 (1891), 218-244"
+author: "Epping, Jos"
+publication_year: "1891"
+title: "Neue babylonische Planeten-Tafeln"
+volume_no_: "6"
+pages: "218-244"
+journal: "Zeitschrift für Assyriologie"
+title: "Neue babylonische Planeten-Tafeln"
+previous_item: "10510"
+---

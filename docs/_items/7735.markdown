@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7735"
+occurrence_id: "3573"
+short_title: "Zeitschrift für die Wissenschaft vom Judentum 2 (1823), 95-100"
+author: "Hoffmann, David"
+publication_year: "1823"
+title: "Die Freilassung der hebräischen Knechte"
+volume_no_: "2"
+pages: "95-100"
+journal: "Zeitschrift für die Wissenschaft vom Judentum"
+title: "Die Freilassung der hebräischen Knechte"
+previous_item: "7738"
+---

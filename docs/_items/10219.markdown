@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10219"
+occurrence_id: "1848"
+short_title: "DAFI 8 (1978), 85-88"
+author: "Grillot-Susini, Françoise"
+publication_year: "1978"
+title: "Notes à propos des bases élamites zukki - zukka"
+volume_no_: "8"
+pages: "85-88"
+journal: "Cahiers de la Délégation Archéologique Française en Iran"
+title: "Notes à propos des bases élamites zukki - zukka"
+previous_item: "10222"
+---

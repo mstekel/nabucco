@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "21766"
+occurrence_id: "4833"
+short_title: "Dandamayev 1966"
+author: "Dandamayev, Muhammed A."
+publication_year: "1966"
+title: "Die rechtliche Stellung der Bauern des späten Babylonien (in Russ.)"
+pages: "15-16"
+book: "Письменные памятники и проблемы истории культуры народов востока. Тезисы докладов. Ленинград 1 (Pis’mennye pamjatniki i problemy istorii kul’tury narodov vostoka. Tezisy dokladov. Leningrad 1)"
+title: "Die rechtliche Stellung der Bauern des späten Babylonien (in Russ.)"
+previous_item: "21769"
+---

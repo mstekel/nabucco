@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10543"
+occurrence_id: "3610"
+short_title: "AcIr 2 (1974), 117-190"
+author: "Gnoli, Gherardo"
+publication_year: "1974"
+title: "Politique réligieuse et conception de la royauté sous les Achéménides"
+volume_no_: "2"
+pages: "117-190"
+journal: "Acta Iranica"
+title: "Politique réligieuse et conception de la royauté sous les Achéménides"
+previous_item: "10546"
+---

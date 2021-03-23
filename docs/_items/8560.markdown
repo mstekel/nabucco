@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8560"
+occurrence_id: "1973"
+short_title: "Iraq 48 (1986), 105-116"
+author: "Reade, Julian E."
+publication_year: "1986"
+title: "Rassam´s Excavations at Borsippa and Kuha, 1879-82"
+volume_no_: "48"
+pages: "105-116"
+journal: "Iraq"
+title: "Rassam´s Excavations at Borsippa and Kuha, 1879-82"
+previous_item: "8563"
+---

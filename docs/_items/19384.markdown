@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "19384"
+occurrence_id: "4245"
+short_title: "Wunsch 1997a"
+author: "Wunsch, Cornelia"
+publication_year: "1997"
+title: "Die Jugendsünden eines Babyloniers aus gutem Hause"
+pages: "231-241"
+book: "Aufsätze zum 65. Geburtstag von Horst Klengel I, AoF 24 (1997)"
+title: "Die Jugendsünden eines Babyloniers aus gutem Hause"
+previous_item: "19387"
+---

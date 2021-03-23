@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17776"
+occurrence_id: "408"
+short_title: "Friberg 1996"
+author: "Friberg, Jöran "
+publication_year: "1996"
+title: "\"Seed and Reeds Continued\", Another Metro-Mathematical Topic Text from Late Babylonian Uruk (Chalmers University of Technology and Göteborg University. Department of Mathematics)"
+title: "\"Seed and Reeds Continued\", Another Metro-Mathematical Topic Text from Late Babylonian Uruk (Chalmers University of Technology and Göteborg University. Department of Mathematics)"
+previous_item: "17779"
+---

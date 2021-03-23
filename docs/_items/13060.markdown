@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13060"
+occurrence_id: "2141"
+short_title: "JBL 75 (1956), 277-284"
+author: "Hyatt, J. Philip"
+publication_year: "1956"
+title: "New Light on Nebuchadrezzar and Judean History"
+volume_no_: "75"
+pages: "277-284"
+journal: "Journal of Biblical Literature"
+title: "New Light on Nebuchadrezzar and Judean History"
+previous_item: "13063"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19636"
+occurrence_id: "4487"
+short_title: "Baker 2011b"
+author: "Baker, Heather D."
+publication_year: "2011"
+title: "From Street Altar to Palace: Reading the Built Environment of Urban Babylonia"
+pages: "533-552"
+editor: "Robson, Eleanor"
+book: "The Oxford Handbook of Cuneiform Culture, Oxford Handbooks (Oxford)"
+title: "From Street Altar to Palace: Reading the Built Environment of Urban Babylonia"
+previous_item: "19639"
+---

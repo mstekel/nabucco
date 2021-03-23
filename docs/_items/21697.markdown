@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21697"
+occurrence_id: "4465"
+short_title: "Cardascia 1991"
+author: "Cardascia, Guillaume"
+publication_year: "1991"
+title: "La ceinture de Parystis. Une Morgengabe chez les Achéménides ?"
+pages: "363-369"
+editor: "Charpin, Dominique"
+book: "Marchands, Diplomates et Empereurs. ètudes sur la Civilisation Mesopotamienne offertes à Paul Garelli (Paris)"
+title: "La ceinture de Parystis. Une Morgengabe chez les Achéménides ?"
+previous_item: "21700"
+---

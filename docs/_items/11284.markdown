@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11284"
+occurrence_id: "1591"
+short_title: "BASOR 231 (1978), 73-78"
+author: "Zadok, Ran"
+publication_year: "1978"
+title: "Rv. M.D. Coogan, West Semitic Personal Names in the Murašû Documents (HSM 7)"
+volume_no_: "231"
+pages: "73-78"
+journal: "Bulletin of the American Schools of Oriental Research"
+title: "Rv. M.D. Coogan, West Semitic Personal Names in the Murašû Documents (HSM 7)"
+previous_item: "11287"
+---

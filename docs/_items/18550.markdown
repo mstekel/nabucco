@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "18550"
+occurrence_id: "4209"
+short_title: "Jankovic 2007"
+author: "Jankovic, Bojana"
+publication_year: "2007"
+title: "Von gugallus, Überschwemmungen und Kronland"
+pages: "219-242"
+editor: "Köhbach, Markus "
+title: "Von gugallus, Überschwemmungen und Kronland"
+previous_item: "18553"
+---

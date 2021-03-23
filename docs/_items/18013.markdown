@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "18013"
+occurrence_id: "264"
+short_title: "CT 44"
+author: "Pinches, Theophilus G. "
+publication_year: "1963"
+title: "Cuneiform Texts from Babylonian Tablets in the British Museum, Part 44"
+volume_no_: "44"
+related_objects: "5887"
+title: "Cuneiform Texts from Babylonian Tablets in the British Museum, Part 44"
+previous_item: "18016"
+---

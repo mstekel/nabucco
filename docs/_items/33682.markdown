@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33682"
+place_id: "1222"
+parent_id: "61"
+place_name: "Šalabu"
+title: "Šalabu"
+previous_item: "33685"
+---

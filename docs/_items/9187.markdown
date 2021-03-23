@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9187"
+occurrence_id: "2329"
+short_title: "JNES 53 (1994), 81-109"
+author: "Cole, Steven W."
+publication_year: "1994"
+title: "Marsh Formations in the Borsippa Region and the Course of the Lower Euphrates"
+volume_no_: "53"
+pages: "81-109"
+journal: "Journal of Near Eastern Studies"
+title: "Marsh Formations in the Borsippa Region and the Course of the Lower Euphrates"
+previous_item: "9190"
+---

@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "13129"
+occurrence_id: "2514"
+short_title: "NABU 1994/95"
+author: "Lemaire, André"
+title: "Premières monnaies avec signes cunéiformes: Samarie IVème s.av.n.è."
+volume_no_: "95"
+publication_year: "1994"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Premières monnaies avec signes cunéiformes: Samarie IVème s.av.n.è."
+previous_item: "13132"
+---

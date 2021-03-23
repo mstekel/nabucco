@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "17617"
+occurrence_id: "75"
+short_title: "NRV"
+author: "Ungnad, Arthur San"
+publication_year: "1929-1935"
+title: "Neubabylonische Rechts- und Verwaltungsurkunden übersetzt und erläutert. Band I: Rechts- und Wirtschaftsurkunden der Berliner Museen aus vorhellenistischer Zeit "
+related_objects: "2376"
+related_publications: "118"
+title: "Neubabylonische Rechts- und Verwaltungsurkunden übersetzt und erläutert. Band I: Rechts- und Wirtschaftsurkunden der Berliner Museen aus vorhellenistischer Zeit "
+previous_item: "17620"
+---

@@ -1,0 +1,9 @@
+---
+layout: "archive"
+slug: "22801"
+archive_id: "418"
+archive_name: "Egibi"
+is_part_of: "Uruk"
+title: "Egibi"
+previous_item: "22804"
+---

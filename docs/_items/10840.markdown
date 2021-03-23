@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10840"
+occurrence_id: "2202"
+short_title: "JCS 51 (1999), 91-99"
+author: "Beaulieu, Paul-A."
+publication_year: "1999"
+title: "The Babylonian Man in the Moon"
+volume_no_: "51"
+pages: "91-99"
+journal: "Journal of Cuneiform Studies"
+title: "The Babylonian Man in the Moon"
+previous_item: "10843"
+---

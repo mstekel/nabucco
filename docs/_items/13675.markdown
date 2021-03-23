@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "13675"
+occurrence_id: "2449"
+short_title: "NABU 1987/93"
+author: "Petschow, Herbert"
+publication_year: "1987"
+title: "CT 56, 693, CT 57, 150 and 401: Ku-kur-ra-áš = Cyrus"
+volume_no_: "93"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "CT 56, 693, CT 57, 150 and 401: Ku-kur-ra-áš = Cyrus"
+previous_item: "13678"
+---

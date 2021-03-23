@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "19993"
+occurrence_id: "4200"
+short_title: "Scholz 1987"
+author: "Scholz, Bernhard"
+publication_year: "1987"
+title: "Die Ahu'utu-Saga"
+pages: "52-55"
+editor: "Scholz, Bernhard"
+title: "Die Ahu'utu-Saga"
+previous_item: "19996"
+---

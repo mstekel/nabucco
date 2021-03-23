@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19180"
+occurrence_id: "4260"
+short_title: "Gadd 1959"
+author: "Gadd, Cyril J."
+publication_year: "1959"
+title: "The Kingdom of Nabu-na'id in Arabia"
+pages: "132-134"
+editor: "Franke, Herbert"
+book: "Akten des 24. Internationalen Orientalistenkongresses, München, 1957"
+title: "The Kingdom of Nabu-na'id in Arabia"
+previous_item: "19183"
+---

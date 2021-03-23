@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21487"
+occurrence_id: "4448"
+short_title: "van Driel 1987"
+author: "van Driel, Govert"
+publication_year: "1987"
+title: "Continuity or Decay in the Late Achaemenid Period: Evidence from the Southern Mesopotamia"
+pages: "159-181"
+editor: "Sancisi-Weerdenburg, Heleen"
+book: "Sources, Structures and Synhesis. Proceedings of the Groningen 1983 Achaemenid History Workshop, Achaemenid History 1 (Leiden)"
+title: "Continuity or Decay in the Late Achaemenid Period: Evidence from the Southern Mesopotamia"
+previous_item: "21490"
+---

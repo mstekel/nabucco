@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10669"
+occurrence_id: "1280"
+short_title: "AION 55 (1995), 141-157"
+author: "Giovinazzo, Grazia"
+publication_year: "1995"
+title: "'puhu' nei testi di Persepoli. Nuove interpretazioni"
+volume_no_: "55"
+pages: "141-157"
+journal: "Annali dell'Istituto Orientale di Napoli"
+title: "'puhu' nei testi di Persepoli. Nuove interpretazioni"
+previous_item: "10672"
+---

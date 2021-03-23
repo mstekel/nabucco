@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20884"
+occurrence_id: "4541"
+short_title: "Finkel 2000"
+author: "Finkel, Irving L."
+publication_year: "2000"
+title: "On Late Babylonian Medical Training"
+pages: "137-223"
+editor: "George, Andrew, R."
+book: "Wisdom, Gods and Literature. Studies in Assyriology in Honour of W. G. Lambert"
+title: "On Late Babylonian Medical Training"
+previous_item: "20887"
+---

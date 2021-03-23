@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17230"
+occurrence_id: "67"
+short_title: "BaAr 6"
+author: "Wunsch, Cornelia "
+publication_year: "2015"
+title: "Judeans by the Waters of Babylon. New Historical Evidence in the Cuneiform Sources from Rural Babylonia. Texts from the Schøyen Collection."
+title: "Judeans by the Waters of Babylon. New Historical Evidence in the Cuneiform Sources from Rural Babylonia. Texts from the Schøyen Collection."
+previous_item: "17233"
+---

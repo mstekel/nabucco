@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16819"
+occurrence_id: "846"
+short_title: "Mehl 1986"
+author: "Mehl, Andreas "
+publication_year: "1986"
+title: "Seleukos Nikator und sein Reich. 1. Teil: Seleukos' Leben und die Entwicklung seiner Machtposition, Studia Hellenistica 28 (Leuven)"
+title: "Seleukos Nikator und sein Reich. 1. Teil: Seleukos' Leben und die Entwicklung seiner Machtposition, Studia Hellenistica 28 (Leuven)"
+previous_item: "16822"
+---

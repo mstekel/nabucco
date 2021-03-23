@@ -1,0 +1,9 @@
+---
+layout: "archive"
+slug: "22855"
+archive_id: "211"
+archive_name: "Šangû-Ištar-Bābili"
+is_part_of: "Cutha"
+title: "Šangû-Ištar-Bābili"
+previous_item: "22858"
+---

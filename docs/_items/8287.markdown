@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8287"
+occurrence_id: "3526"
+short_title: "ZA 95 (2005), 104-120"
+author: "Ben-Dov, Jonathan A."
+publication_year: "2005"
+title: "The Babylonian Lunar Three in Calendrical Scrolls from Qumran"
+volume_no_: "95"
+pages: "104-120"
+journal: "Zeitschrift für Assyriologie"
+title: "The Babylonian Lunar Three in Calendrical Scrolls from Qumran"
+previous_item: "8290"
+---

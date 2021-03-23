@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18187"
+occurrence_id: "556"
+short_title: "SAA 2"
+author: "Parpola, Simo "
+publication_year: "1988"
+title: "State Archives of Assyria (SAA), vo1ume II"
+title: "State Archives of Assyria (SAA), vo1ume II"
+previous_item: "18190"
+---

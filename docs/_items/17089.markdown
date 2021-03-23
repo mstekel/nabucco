@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17089"
+occurrence_id: "4064"
+short_title: "Clancier 2009"
+author: "Clancier, Philippe "
+publication_year: "2009"
+title: "Les bibliothèques en Babylonie dans la deuxième moitié du 1er millénaire av. J.-C., Alter Orient und Altes Testament 363 (Münster)"
+title: "Les bibliothèques en Babylonie dans la deuxième moitié du 1er millénaire av. J.-C., Alter Orient und Altes Testament 363 (Münster)"
+previous_item: "17092"
+---

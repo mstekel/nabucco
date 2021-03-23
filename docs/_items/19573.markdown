@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "19573"
+occurrence_id: "4149"
+short_title: "Kuhrt 2001"
+author: "Kuhrt, Amélie"
+publication_year: "2001"
+title: "The Palace(s) of Babylon"
+pages: "77-93"
+editor: "Nielsen, Inge"
+title: "The Palace(s) of Babylon"
+previous_item: "19576"
+---

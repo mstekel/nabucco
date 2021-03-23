@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13858"
+occurrence_id: "3437"
+short_title: "ZA 69 (1980), 271-272"
+author: "von Soden, Wolfram"
+publication_year: "1980"
+title: "Rv. E.N. von Voigtlander, The Bisitun Inscription of Darius the Great, Babylonian Version"
+volume_no_: "69"
+pages: "271-272"
+journal: "Zeitschrift für Assyriologie"
+title: "Rv. E.N. von Voigtlander, The Bisitun Inscription of Darius the Great, Babylonian Version"
+previous_item: "13861"
+---

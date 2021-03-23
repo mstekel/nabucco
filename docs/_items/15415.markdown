@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15415"
+occurrence_id: "2792"
+short_title: "OLZ 7 (1904), 37-45"
+author: "Peiser, Felix , E."
+publication_year: "1904"
+title: "Aus Rom"
+volume_no_: "7"
+pages: "37-45"
+journal: "Orientalistische Literaturzeitung"
+title: "Aus Rom"
+previous_item: "15418"
+---

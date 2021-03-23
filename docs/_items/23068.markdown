@@ -1,0 +1,9 @@
+---
+layout: "archive"
+slug: "23068"
+archive_id: "190"
+archive_name: "Inṣabtu//Naggāru"
+is_part_of: "Borsippa"
+title: "Inṣabtu//Naggāru"
+previous_item: "23071"
+---

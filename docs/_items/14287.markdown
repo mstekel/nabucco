@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "14287"
+occurrence_id: "2742"
+short_title: "NABU 2011/26"
+author: "Boiy, Tom"
+title: "A 'Babylonian' scribe in Hellenistic Uruk"
+volume_no_: "26"
+publication_year: "2011"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "A 'Babylonian' scribe in Hellenistic Uruk"
+previous_item: "14290"
+---

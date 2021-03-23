@@ -1,0 +1,12 @@
+---
+layout: "bibliography"
+slug: "20200"
+occurrence_id: "4201"
+short_title: "Scholz 1987a"
+author: "Scholz, Bernhard"
+publication_year: "1987"
+title: "Korruption im seleukidischen Uruk ?"
+pages: "44-45"
+title: "Korruption im seleukidischen Uruk ?"
+previous_item: "20203"
+---

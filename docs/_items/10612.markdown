@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "10612"
+occurrence_id: "3979"
+short_title: "JNES 70/2 (2011), 181-205"
+author: "Lenzi, Alan"
+publication_year: "2011"
+title: "A Six-Column Babylonian Tablet of Ludlul Bēl Nēmegi and the Reconstruction of Tablet IV"
+volume_no_: "70/2"
+pages: "181-205"
+title: "A Six-Column Babylonian Tablet of Ludlul Bēl Nēmegi and the Reconstruction of Tablet IV"
+previous_item: "10615"
+---

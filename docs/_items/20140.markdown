@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "20140"
+occurrence_id: "4985"
+short_title: "Rzchiladze 1970"
+author: "Rzchiladze, R.S."
+publication_year: "1970"
+title: "Zur Erklärung einiger Nachrichten Herodots über Bräuche der Babylonier (in Russ.)"
+pages: "115-135"
+book: "Вопросы древней истории (Кавказско-Ближневосточный Сборник, III), Тбилиси 1970 [Voprosy drevnej istorii (Kavkazsko-Bližnevostočnyj Sbornik, III), Tbilisi 1970]"
+title: "Zur Erklärung einiger Nachrichten Herodots über Bräuche der Babylonier (in Russ.)"
+previous_item: "20143"
+---

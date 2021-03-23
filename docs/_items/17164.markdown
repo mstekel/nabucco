@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17164"
+occurrence_id: "600"
+short_title: "Theureau-Dangin 1921 (Racc.)"
+author: "Thureau-Dangin, François "
+publication_year: "1921"
+title: "Rituels accadiens"
+title: "Rituels accadiens"
+previous_item: "17167"
+---

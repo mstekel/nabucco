@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "34267"
+place_id: "1525"
+parent_id: "52"
+place_name: "Nuḫšānītu "
+related_objects: "7673"
+title: "Nuḫšānītu "
+previous_item: "34270"
+---

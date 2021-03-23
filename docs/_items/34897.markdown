@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34897"
+place_id: "1156"
+parent_id: "61"
+place_name: "Namzû"
+title: "Namzû"
+previous_item: "34900"
+---

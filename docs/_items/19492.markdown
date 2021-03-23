@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19492"
+occurrence_id: "4822"
+short_title: "Weszeli 2009"
+author: "Weszeli, Michaela"
+publication_year: "2009"
+title: "Die Stallungen des Ebabbar von Sippar in der neubabylonischen Zeit."
+pages: "411-445"
+editor: "Arnold, Werner"
+book: "Philologisches und Historisches zwischen Anatolien und Sokotra. Analecta Semitica In Memoriam Alexander Sima (Wiesbaden)"
+title: "Die Stallungen des Ebabbar von Sippar in der neubabylonischen Zeit."
+previous_item: "19495"
+---

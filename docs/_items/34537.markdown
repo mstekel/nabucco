@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34537"
+place_id: "715"
+parent_id: "61"
+place_name: "Ālu-ša-Bēlti-ša-Uruk"
+title: "Ālu-ša-Bēlti-ša-Uruk"
+previous_item: "34540"
+---

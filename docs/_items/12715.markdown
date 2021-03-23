@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12715"
+occurrence_id: "3288"
+short_title: "UF 29 (1997), 831-834"
+author: "Müller, Gefrid G.W."
+publication_year: "1997"
+title: "Rv. M. Jursa, Der Tempelzehnt in Babylonien vom siebenten bis zum dritten Jahrhundert v. Chr. (AOAT 254)"
+volume_no_: "29"
+pages: "831-834"
+journal: "Ugarit-Forschungen"
+title: "Rv. M. Jursa, Der Tempelzehnt in Babylonien vom siebenten bis zum dritten Jahrhundert v. Chr. (AOAT 254)"
+previous_item: "12718"
+---

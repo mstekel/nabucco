@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20749"
+occurrence_id: "4924"
+short_title: "Beaulieu 1998"
+author: "Beaulieu, Paul-A."
+publication_year: "1998"
+title: "The Turbaned Standard of Ištar"
+pages: "25-26"
+editor: "Braun, J."
+book: "Written on Clay and Stone. Ancient Near Eastern Studies Presented to Krystyna Szarzyńska on the Occasion of her 80th Birthday, Fs.Szarzyńska (Warsaw)"
+title: "The Turbaned Standard of Ištar"
+previous_item: "20752"
+---

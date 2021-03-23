@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "34471"
+place_id: "1421"
+parent_id: "43"
+place_name: "Al-ṣibtu-ša-šākin-māti"
+related_objects: "5615"
+title: "Al-ṣibtu-ša-šākin-māti"
+previous_item: "34474"
+---

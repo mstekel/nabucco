@@ -1,0 +1,15 @@
+---
+layout: "tablet"
+slug: "28702"
+object_id: "7632"
+museum_no_: "BM 34556"
+publication: "Cyr."
+text_number: "376"
+period: "Each"
+type_and_content: "Letters"
+transliteration: "Transliteration available on <a href=\"http://www.achemenet.com/fr/item/?/sources-textuelles/textes-par-langues-et-ecritures/babylonien/archives-ebabbar/1673627\" target=\"_blank\">Achemenet</a>"
+publication_name: "Cyr. 376"
+archive: "Egibi/Nūr-Sîn"
+title: "BM 34556"
+previous_item: "28705"
+---

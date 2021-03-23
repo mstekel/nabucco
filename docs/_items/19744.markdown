@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19744"
+occurrence_id: "5063"
+short_title: "Schmitt 1986"
+author: "Schmitt, Rüdiger"
+publication_year: "1986"
+title: "Bīsutūn - Babylon - Elephantine: Dareios' hema mit Variationen"
+pages: "223-230"
+editor: "Trenkwalder, H."
+book: "Im Bannkreis des Alten Orients. Studien zur Sprach- und Kulturgeschichte des Alten Orients und seines Austrahlungsraumes. Karl Oberhuber zum 70. Geburtstag gewidmet (Innsbruck)"
+title: "Bīsutūn - Babylon - Elephantine: Dareios' hema mit Variationen"
+previous_item: "19747"
+---

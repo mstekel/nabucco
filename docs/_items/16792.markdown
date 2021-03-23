@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "16792"
+occurrence_id: "667"
+short_title: "CT 51"
+author: "Walker, Christopher  Bromhead F."
+publication_year: "1972"
+title: "Cuneiform Texts from Babylonian Tablets in the British Museum: Miscellaneous Texts, CT 51 (London)"
+volume_no_: "51"
+related_objects: "7240"
+title: "Cuneiform Texts from Babylonian Tablets in the British Museum: Miscellaneous Texts, CT 51 (London)"
+previous_item: "16795"
+---

@@ -1,0 +1,12 @@
+---
+layout: "bibliography"
+slug: "17956"
+occurrence_id: "735"
+short_title: "Baker 2004"
+author: "Baker, Heather D. "
+publication_year: "2004"
+title: "The Archive of the Nappahu Family, AfO Beiheft 30 (Wien)"
+related_objects: "8238"
+title: "The Archive of the Nappahu Family, AfO Beiheft 30 (Wien)"
+previous_item: "17959"
+---

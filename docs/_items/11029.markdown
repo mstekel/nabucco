@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11029"
+occurrence_id: "3221"
+short_title: "StOr 46 (1975), 11-20"
+author: "Aro, Jussi"
+publication_year: "1975"
+title: "Der Abfall der kurzen Auslautsvokale im Spätbabylonischen und seine Einwirkung auf die Formenlehre"
+volume_no_: "46"
+pages: "11-20"
+journal: "Studia Orientalia"
+title: "Der Abfall der kurzen Auslautsvokale im Spätbabylonischen und seine Einwirkung auf die Formenlehre"
+previous_item: "11032"
+---

@@ -1,0 +1,12 @@
+---
+layout: "bibliography"
+slug: "16603"
+occurrence_id: "308"
+short_title: "AUWE 5"
+author: "Gehlken, Erlend "
+publication_year: "1990"
+title: "Uruk. Spätbabylonische Wirtschaftstexte aus dem Eanna-Archiv. Teil I. Texte verschiedenen Inhalts (AUWE 5)"
+related_objects: "5660"
+title: "Uruk. Spätbabylonische Wirtschaftstexte aus dem Eanna-Archiv. Teil I. Texte verschiedenen Inhalts (AUWE 5)"
+previous_item: "16606"
+---

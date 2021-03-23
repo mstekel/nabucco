@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7867"
+occurrence_id: "1259"
+short_title: "AfO 50 (2003/2004), 406-410"
+author: "MacGinnis, John"
+publication_year: "2003-2004"
+title: "Rv. R. Da Riva, Der Ebabbar-Tempel von Sippar in frühneubabylonischer Zeit (=AOAT 291)."
+volume_no_: "50"
+pages: "406-410"
+journal: "Archiv für Orientforschung"
+title: "Rv. R. Da Riva, Der Ebabbar-Tempel von Sippar in frühneubabylonischer Zeit (=AOAT 291)."
+previous_item: "7870"
+---

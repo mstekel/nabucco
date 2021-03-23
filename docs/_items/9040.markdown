@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9040"
+occurrence_id: "1539"
+short_title: "AuOr 24 (2006), 161-163."
+author: "Garcia-Ventura, Agnès"
+publication_year: "2006"
+title: "Rv. S. Zawadzki, Garments of the Gods. Studies on the Textile Industry and the Pantheon of Sippar according to the Texts from the Ebabbar Archive (Freiburg and Göttingen 2006)"
+volume_no_: "24"
+pages: "161-163"
+journal: "Aula Orientalis"
+title: "Rv. S. Zawadzki, Garments of the Gods. Studies on the Textile Industry and the Pantheon of Sippar according to the Texts from the Ebabbar Archive (Freiburg and Göttingen 2006)"
+previous_item: "9043"
+---

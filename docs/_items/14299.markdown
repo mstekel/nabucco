@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14299"
+occurrence_id: "2806"
+short_title: "OLZ 80 (1985), 347-349"
+author: "Dandamayev, Muhammed A."
+publication_year: "1985"
+title: "Rv. J-M. Durand, Textes bayloniens d'époque récente"
+volume_no_: "80"
+pages: "347-349"
+journal: "Orientalistische Literaturzeitung"
+title: "Rv. J-M. Durand, Textes bayloniens d'époque récente"
+previous_item: "14302"
+---

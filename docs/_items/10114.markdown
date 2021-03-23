@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10114"
+occurrence_id: "1279"
+short_title: "AION 54 (1994), 519-926"
+author: "Funck, Bernd"
+publication_year: "1994"
+title: "In margine a CT 55, 117"
+volume_no_: "54"
+pages: "519-926"
+journal: "Annali dell'Istituto Orientale di Napoli"
+title: "In margine a CT 55, 117"
+previous_item: "10117"
+---

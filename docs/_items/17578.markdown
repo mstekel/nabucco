@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17578"
+occurrence_id: "784"
+short_title: "Funck 1984"
+author: "Funck, Bernd "
+publication_year: "1984"
+title: "Uruk zur Seleukidenzeit. Eine Untersuchung zu den spätbabylonischen Pfründentexten als Quelle für die Erforschung der sozial-ökonomischen Entwicklung der hellenistischen Stadt, Schriften zur Geschichte und Kultur des alten Orients 16 (Berlin)"
+title: "Uruk zur Seleukidenzeit. Eine Untersuchung zu den spätbabylonischen Pfründentexten als Quelle für die Erforschung der sozial-ökonomischen Entwicklung der hellenistischen Stadt, Schriften zur Geschichte und Kultur des alten Orients 16 (Berlin)"
+previous_item: "17581"
+---

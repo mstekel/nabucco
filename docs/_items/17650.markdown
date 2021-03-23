@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17650"
+occurrence_id: "424"
+short_title: "Graziani 1986"
+author: "Graziani, Simonetta "
+publication_year: "1986"
+title: "I testi mesopotamici datati al regno di Serse (485-465 a.C.) (AION Suppl. 47)"
+title: "I testi mesopotamici datati al regno di Serse (485-465 a.C.) (AION Suppl. 47)"
+previous_item: "17653"
+---

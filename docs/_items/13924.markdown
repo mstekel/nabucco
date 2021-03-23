@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13924"
+occurrence_id: "3792"
+short_title: "MSS 9 (1956), 79-86"
+author: "Hoffmann, Karl"
+publication_year: "1956"
+title: "Zur Parenhese im Altpersischen"
+volume_no_: "9"
+pages: "79-86"
+journal: "Münchener Studien zur Sprachwissenschaft"
+title: "Zur Parenhese im Altpersischen"
+previous_item: "13927"
+---

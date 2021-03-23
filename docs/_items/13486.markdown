@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13486"
+occurrence_id: "1433"
+short_title: "AoF 29 (2002), 238-248."
+author: "Kessler, Karlheinz"
+publication_year: "2002"
+title: "\"Sittake, Sittakene, Sattagu\"."
+volume_no_: "29"
+pages: "238-248"
+journal: "Altorientalische Forschungen"
+title: "\"Sittake, Sittakene, Sattagu\"."
+previous_item: "13489"
+---

@@ -1,0 +1,12 @@
+---
+layout: "tablet"
+slug: "26647"
+object_id: "5744"
+museum_no_: "YBC 11384"
+cdli_no_: "P311558"
+duplicate: "Ash. 1924.482"
+imported: "Melanie Gross (26/05/2016)"
+related_objects: "5524"
+title: "YBC 11384"
+previous_item: "26659"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12643"
+occurrence_id: "2900"
+short_title: "Or 54 (1985), 483-486"
+author: "Mayer, Werner R."
+publication_year: "1985"
+title: "Eine spätbabylonische VerwaltungsUrkunde"
+volume_no_: "54"
+pages: "483-486"
+journal: "Orientalia"
+title: "Eine spätbabylonische VerwaltungsUrkunde"
+previous_item: "12646"
+---

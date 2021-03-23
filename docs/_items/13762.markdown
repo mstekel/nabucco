@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13762"
+occurrence_id: "2919"
+short_title: "Or 66 (1997), 201-204"
+author: "Dandamayev, Muhammed A."
+publication_year: "1997"
+title: "Rv. M. Jursa, Die Landwirtschaft in Sippar in neubabylonischer Zeit (AfO Beiheft 25, 1995)"
+volume_no_: "66"
+pages: "201-204"
+journal: "Orientalia"
+title: "Rv. M. Jursa, Die Landwirtschaft in Sippar in neubabylonischer Zeit (AfO Beiheft 25, 1995)"
+previous_item: "13765"
+---

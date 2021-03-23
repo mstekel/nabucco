@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15472"
+occurrence_id: "3101"
+short_title: "RA 90 (1996), 41-60"
+author: "Lemaire, André"
+publication_year: "1996"
+title: "Contrats babyloniens d´époque achéménide du Bît-Abî-râm avec une épigraphe araméenne"
+volume_no_: "90"
+pages: "41-60"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "Contrats babyloniens d´époque achéménide du Bît-Abî-râm avec une épigraphe araméenne"
+previous_item: "15475"
+---

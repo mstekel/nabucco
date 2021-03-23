@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15688"
+occurrence_id: "1240"
+short_title: "AfO 46/47 (1999/2000), 156-182"
+author: "Frahm, Eckart"
+publication_year: "1999-2000"
+title: "Šamaš-šumu-ukīn, die Herrin von Ninive und das babylonische Königssiegel"
+volume_no_: "46-47"
+pages: "156-182"
+journal: "Archiv für Orientforschung"
+title: "Šamaš-šumu-ukīn, die Herrin von Ninive und das babylonische Königssiegel"
+previous_item: "15691"
+---

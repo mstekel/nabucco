@@ -1,0 +1,12 @@
+---
+layout: "bibliography"
+slug: "16663"
+occurrence_id: "666"
+short_title: "CT 49"
+author: "Kennedy, Douglas A. "
+publication_year: "1968"
+title: "Cuneiform Texts from Babylonian Tablets in the British Museum: Late-Babylonian Economic Texts, CT 49 (London)"
+volume_no_: "49"
+title: "Cuneiform Texts from Babylonian Tablets in the British Museum: Late-Babylonian Economic Texts, CT 49 (London)"
+previous_item: "16666"
+---

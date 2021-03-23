@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19942"
+occurrence_id: "5016"
+short_title: "van der Spek 1983"
+author: "van der Spek, Robartus"
+publication_year: "1983"
+title: "Teksten uit Mesopotamië tijdens de grieks-macedonische overheersing"
+pages: "372-381"
+editor: "Veenhof, Klaas , Roelof "
+book: "Schrijvend verleden: documenten uit het Oude Nabije Oosten vertaald en toegelicht (Leiden)"
+title: "Teksten uit Mesopotamië tijdens de grieks-macedonische overheersing"
+previous_item: "19945"
+---

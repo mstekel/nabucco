@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12703"
+occurrence_id: "3224"
+short_title: "Studia Historiae Oeconomicae 16 (1981 publ. 1983), 71-80"
+author: "Zawadzki, Stefan"
+publication_year: "1981 publ. 1983"
+title: "Lohnnormen für die Tempelarbeiter in Babylonien in der Herrschaftszeit chaldäischer and persischer Könige"
+volume_no_: "16"
+pages: "71-80"
+journal: "Studia Historiae Oeconomicae"
+title: "Lohnnormen für die Tempelarbeiter in Babylonien in der Herrschaftszeit chaldäischer and persischer Könige"
+previous_item: "12706"
+---

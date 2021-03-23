@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10756"
+occurrence_id: "1752"
+short_title: "BOR 1 (1886/1887), 117-119"
+author: "Revillout, Victor"
+publication_year: "1886/1887"
+title: "A Settlement of Accounts in Nabopolassar's Time"
+volume_no_: "1"
+pages: "117-119"
+journal: "Babylonian and Oriental Record"
+title: "A Settlement of Accounts in Nabopolassar's Time"
+previous_item: "10759"
+---

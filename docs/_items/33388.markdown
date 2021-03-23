@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33388"
+place_id: "61"
+parent_id: "4"
+place_name: "Uruk"
+title: "Uruk"
+previous_item: "33391"
+---

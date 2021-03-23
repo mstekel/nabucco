@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15568"
+occurrence_id: "3619"
+short_title: "AJP 72 (1951), 325-328"
+author: "Gray, L.H."
+publication_year: "1951"
+title: "Rv. R.G. Kent, Old Persian Grammar, Texts, Lexicon"
+volume_no_: "72"
+pages: "325-328"
+journal: "American Journal of Philology"
+title: "Rv. R.G. Kent, Old Persian Grammar, Texts, Lexicon"
+previous_item: "15571"
+---

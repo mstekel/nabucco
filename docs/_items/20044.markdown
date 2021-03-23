@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20044"
+occurrence_id: "4473"
+short_title: "Schaudig 2010"
+author: "Schaudig, Hanspeter"
+publication_year: "2010"
+title: "The Restoration of Temples in the Neo- and Late Babylonian Periods: A Royal Prerogative as theSetting for Political Argument."
+pages: "141-164"
+editor: "Novotny, Jamie R."
+book: "From the foundations to the Crenellations. Essays on Temple Building in the Ancient Near East and Hebrew Bible, AOAT 366 (Münster)"
+title: "The Restoration of Temples in the Neo- and Late Babylonian Periods: A Royal Prerogative as theSetting for Political Argument."
+previous_item: "20047"
+---

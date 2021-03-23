@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13840"
+occurrence_id: "3340"
+short_title: "WeOr 33 (2003), 230-233."
+author: "Koch, Heidemarie"
+publication_year: "2003"
+title: "Rv. J. Wiesehöfer, Das Parther-Reich und seine Zeugnisse (Historia Einzelschriften 122, 1998)"
+volume_no_: "33"
+pages: "230-233"
+journal: "Die Welt des Orients"
+title: "Rv. J. Wiesehöfer, Das Parther-Reich und seine Zeugnisse (Historia Einzelschriften 122, 1998)"
+previous_item: "13843"
+---

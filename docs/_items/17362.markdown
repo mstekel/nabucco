@@ -1,0 +1,12 @@
+---
+layout: "bibliography"
+slug: "17362"
+occurrence_id: "149"
+short_title: "CBCY 1"
+author: "Beaulieu, Paul-A. "
+publication_year: "1994"
+title: "Late Babylonian Texts in the Nies Babylonian Collection"
+volume_no_: "1"
+title: "Late Babylonian Texts in the Nies Babylonian Collection"
+previous_item: "17365"
+---

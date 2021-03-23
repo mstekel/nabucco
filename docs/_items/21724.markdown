@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21724"
+occurrence_id: "4609"
+short_title: "Brinkman 1990"
+author: "Brinkman, John A."
+publication_year: "1990"
+title: "The Babylonian Chronicle Revisited"
+pages: "73-104"
+editor: "Huehnergard, John"
+book: "Lingering over Words: Studies in Ancient Near Eastern Literature in Honor of William L. Moran. Harvard Semitic Studies 37 (Atlanta)"
+title: "The Babylonian Chronicle Revisited"
+previous_item: "21727"
+---

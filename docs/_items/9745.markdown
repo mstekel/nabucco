@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9745"
+occurrence_id: "2314"
+short_title: "JNES 43 (1984), 299-310"
+author: "Stolper, Matthew W."
+publication_year: "1984"
+title: "The Neo-Babylonian Text from the Persepolis Fortification"
+volume_no_: "43"
+pages: "299-310"
+journal: "Journal of Near Eastern Studies"
+title: "The Neo-Babylonian Text from the Persepolis Fortification"
+previous_item: "9748"
+---

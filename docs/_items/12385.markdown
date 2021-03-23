@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12385"
+occurrence_id: "1512"
+short_title: "Ars Orientalis 21 (1991), 1-21"
+author: "Garrison, Mark B."
+publication_year: "1991"
+title: "Seals and the Elite at Persepolis: Some Observations on Early Achaemenid Persian Art"
+volume_no_: "21"
+pages: "1-21"
+journal: "Ars Orientalis"
+title: "Seals and the Elite at Persepolis: Some Observations on Early Achaemenid Persian Art"
+previous_item: "12388"
+---

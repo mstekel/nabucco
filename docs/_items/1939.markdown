@@ -1,0 +1,11 @@
+---
+layout: "glossary"
+slug: "1939"
+concept_id: "1474"
+hierarchy: "General keywords"
+label: "Canal names"
+related_objects: "238"
+type: "148"
+title: "Canal names"
+previous_item: "1942"
+---

@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "16720"
+occurrence_id: "140"
+short_title: "CTMMA 3"
+author: "Spar, Ira "
+publication_year: "2000"
+title: "Private Archive Texts from the First Millennium B.C. Cuneiform Texts in the Metropolitan Museum of Art. III. (New York,Turnhout)"
+volume_no_: "3"
+related_objects: "8546"
+title: "Private Archive Texts from the First Millennium B.C. Cuneiform Texts in the Metropolitan Museum of Art. III. (New York,Turnhout)"
+previous_item: "16723"
+---

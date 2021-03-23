@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "32707"
+occurrence_id: "5247"
+short_title: "NABU 1998/22"
+author: "Donbaz, Veysel"
+publication_year: "1998"
+title: "Once again Fi.16 (Samaria 1825)"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+volume_no_: "1"
+title: "Once again Fi.16 (Samaria 1825)"
+previous_item: "32728"
+---

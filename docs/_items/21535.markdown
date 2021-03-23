@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21535"
+occurrence_id: "4704"
+short_title: "Cagni 1983"
+author: "Cagni, Luigi"
+publication_year: "1983"
+title: "La carne e il sangue nei rituali mesopotamici di eta' ellenistica"
+pages: "51-64"
+editor: "Vattioni, Francesco"
+book: "Atti della Settimana Sangue e Antropologia nella letteratura Cristiana 1 (Roma)"
+title: "La carne e il sangue nei rituali mesopotamici di eta' ellenistica"
+previous_item: "21538"
+---

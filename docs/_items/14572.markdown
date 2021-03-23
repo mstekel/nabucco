@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14572"
+occurrence_id: "1271"
+short_title: "AION 42 (1982), 83-95"
+author: "Schmitt, Rüdiger"
+publication_year: "1982"
+title: "Achaemenid throne-N ames"
+volume_no_: "42"
+pages: "83-95"
+journal: "Annali dell'Istituto Orientale di Napoli"
+title: "Achaemenid throne-N ames"
+previous_item: "14575"
+---

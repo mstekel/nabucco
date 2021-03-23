@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "12598"
+occurrence_id: "2658"
+short_title: "NABU 2003/51"
+author: "Zadok, Ran"
+title: "Two Deeds from the Šaddinnu Archive"
+volume_no_: "51"
+publication_year: "2003"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Two Deeds from the Šaddinnu Archive"
+previous_item: "12601"
+---

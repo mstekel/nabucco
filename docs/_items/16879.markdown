@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16879"
+occurrence_id: "418"
+short_title: "Glassner 1993"
+author: "Glassner, Jean-Jacques "
+publication_year: "1993"
+title: "Chroniques Mésopotamiennes"
+title: "Chroniques Mésopotamiennes"
+previous_item: "16882"
+---

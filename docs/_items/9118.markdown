@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9118"
+occurrence_id: "1958"
+short_title: "Iraq 37 (1975), 39-55"
+author: "Drews, Robert"
+publication_year: "1975"
+title: "The Babylonian Chronicles and Berossus,"
+volume_no_: "37"
+pages: "39-55"
+journal: "Iraq"
+title: "The Babylonian Chronicles and Berossus,"
+previous_item: "9121"
+---

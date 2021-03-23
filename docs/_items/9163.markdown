@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9163"
+occurrence_id: "2199"
+short_title: "JCS 49 (1997), 83-101"
+author: "Koch, Johannes"
+publication_year: "1997"
+title: "Zur Bedeutung von LÁL in den \"Astronomical Diaries\" und in der Plejaden-Schaltregel"
+volume_no_: "49"
+pages: "83-101"
+journal: "Journal of Cuneiform Studies"
+title: "Zur Bedeutung von LÁL in den \"Astronomical Diaries\" und in der Plejaden-Schaltregel"
+previous_item: "9166"
+---

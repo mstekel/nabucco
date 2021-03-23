@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20350"
+occurrence_id: "5002"
+short_title: "Pirngruber 2014b"
+author: "Pirngruber, Reinhard"
+publication_year: "2014"
+title: "Plagues and Prices: Locusts"
+pages: "163-186"
+editor: "Baker, Heather D."
+book: "Documentary Sources in Ancient Near Eastern and Greco-Roman Economic History. Methodology and Practice (Oxford/Philadelphia)"
+title: "Plagues and Prices: Locusts"
+previous_item: "20353"
+---

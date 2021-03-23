@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19093"
+occurrence_id: "4900"
+short_title: "Roughton 2002"
+author: "Roughton, Norbert, A."
+publication_year: "2002"
+title: "A Study of Babylonian Normal-Star Almanacs and Observational Texts"
+pages: "367-378"
+editor: "Imhausen, A."
+book: "Under One Sky. AOAT 297 (Münster)"
+title: "A Study of Babylonian Normal-Star Almanacs and Observational Texts"
+previous_item: "19096"
+---

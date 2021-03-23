@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7675"
+occurrence_id: "3247"
+short_title: "Syria 65 (1988), 197-216"
+author: "Aggoula, Basile"
+publication_year: "1988"
+title: "Hatreana I: Construction, édifices, maçons et sculpteurs dans les inscriptions hatréennes"
+volume_no_: "65"
+pages: "197-216"
+journal: "Syria"
+title: "Hatreana I: Construction, édifices, maçons et sculpteurs dans les inscriptions hatréennes"
+previous_item: "7678"
+---

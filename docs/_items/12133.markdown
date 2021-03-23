@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12133"
+occurrence_id: "3159"
+short_title: "RSO 42 (1967), 27-43"
+author: "Prosdocimi, A."
+publication_year: "1967"
+title: "Note di persiano antico"
+volume_no_: "42"
+pages: "27-43"
+journal: "Rivista degli studi orientali"
+title: "Note di persiano antico"
+previous_item: "12136"
+---

@@ -1,0 +1,12 @@
+---
+layout: "bibliography"
+slug: "17935"
+occurrence_id: "588"
+short_title: "Stevenson 1902 (ABC)"
+author: "Stevenson, James H. "
+publication_year: "1902"
+title: "Assyrian and Babylonian contracts with Aramaic reference notes"
+related_objects: "7654"
+title: "Assyrian and Babylonian contracts with Aramaic reference notes"
+previous_item: "17938"
+---

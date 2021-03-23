@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9193"
+occurrence_id: "2361"
+short_title: "JNES 68 (2009), 40-41"
+author: "Hunger, Hermann"
+publication_year: "2009"
+title: "Rv. D.B. Weisberg, Neo-Babylonian Texts in the Oriental Institute Collection (OIP 122, 2003)."
+volume_no_: "68"
+pages: "40-41"
+journal: "Journal of Near Eastern Studies"
+title: "Rv. D.B. Weisberg, Neo-Babylonian Texts in the Oriental Institute Collection (OIP 122, 2003)."
+previous_item: "9196"
+---

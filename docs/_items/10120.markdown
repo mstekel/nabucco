@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10120"
+occurrence_id: "1313"
+short_title: "Akkadica 119-120 (2000), 155-158"
+author: "Hunger, Hermann"
+publication_year: "2000"
+title: "Uses of Enūma Anu Enlil for Chronology"
+volume_no_: "119-120"
+pages: "155-158"
+journal: "Akkadica"
+title: "Uses of Enūma Anu Enlil for Chronology"
+previous_item: "10123"
+---

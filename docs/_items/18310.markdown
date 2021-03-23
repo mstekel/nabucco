@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18310"
+occurrence_id: "521"
+short_title: "Neugebauer 1955"
+author: "Neugebauer, Otto "
+publication_year: "1945"
+title: "Mathematical Cuneiform Texts (AOS 29)"
+title: "Mathematical Cuneiform Texts (AOS 29)"
+previous_item: "18313"
+---

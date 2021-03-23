@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7843"
+occurrence_id: "700"
+short_title: "Ball, PSBA 14 (1892)"
+author: "Ball, Charles J."
+publication_year: "1892"
+title: "A Babylonian Deed of Sale."
+volume_no_: "14"
+pages: "146-148; 166-169"
+journal: "Proceedings of the Society of Biblical Archaeology "
+title: "A Babylonian Deed of Sale."
+previous_item: "7846"
+---

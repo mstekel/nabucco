@@ -1,0 +1,14 @@
+---
+layout: "tablet"
+slug: "29863"
+object_id: "7080"
+museum_no_: "BM 46729"
+publication: "CT 22"
+text_number: "29"
+period: "-"
+type_and_content: "Letters"
+publication_name: "CT 22 29"
+archive: "Egibi/Nūr-Sîn"
+title: "BM 46729"
+previous_item: "29866"
+---

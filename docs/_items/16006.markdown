@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16006"
+occurrence_id: "2958"
+short_title: "OrS 14-15 (1965-1966), 118-140"
+author: "Utas, Bo"
+publication_year: "1965-1966"
+title: "Old Persian Miscellanea (1. \"Abiš nāviyā āha\", 2. \"Mātya\" and \"drauga\")"
+volume_no_: "14-15"
+pages: "118-140"
+journal: "Orientalia Suecana"
+title: "Old Persian Miscellanea (1. \"Abiš nāviyā āha\", 2. \"Mātya\" and \"drauga\")"
+previous_item: "16009"
+---

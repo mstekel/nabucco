@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18199"
+occurrence_id: "625"
+short_title: "von Voigtlander 1978 (CII)"
+author: "von Voigtlander, Elizabeth "
+publication_year: "1978"
+title: "Corpus Inscriptionum Iranicarum. Part I: Inscriptions of Ancient Iran. Vol. II: the Babylonian Version of the Achaemenian Texts, 1: the Bisitun Inscription of Darius the Great, Babylonian Version"
+title: "Corpus Inscriptionum Iranicarum. Part I: Inscriptions of Ancient Iran. Vol. II: the Babylonian Version of the Achaemenian Texts, 1: the Bisitun Inscription of Darius the Great, Babylonian Version"
+previous_item: "18202"
+---

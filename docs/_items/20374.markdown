@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20374"
+occurrence_id: "5130"
+short_title: "Boiy 2010"
+author: "Boiy, Tom"
+publication_year: "2010"
+title: "Temple Building in Hellenistic Babylonia."
+pages: "211-219"
+editor: "Novotny, Jamie R."
+book: "From the foundations to the Crenellations. Essays on Temple Building in the Ancient Near East and Hebrew Bible, AOAT 366 (Münster)"
+title: "Temple Building in Hellenistic Babylonia."
+previous_item: "20377"
+---

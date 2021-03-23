@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "9241"
+occurrence_id: "2620"
+short_title: "NABU 2000/40"
+author: "Everling, János"
+title: "Répartition chronologique et géographique des sources babyloniennes du 1er millénaire avant J.-C."
+volume_no_: "40"
+publication_year: "2000"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Répartition chronologique et géographique des sources babyloniennes du 1er millénaire avant J.-C."
+previous_item: "9244"
+---

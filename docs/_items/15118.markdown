@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15118"
+occurrence_id: "1187"
+short_title: "AfO 17 (1956), 499-500"
+author: "Weidner, Ernst F."
+publication_year: "1956"
+title: "Chroniken der chaldäischen Könige"
+volume_no_: "17"
+pages: "499-500"
+journal: "Archiv für Orientforschung"
+title: "Chroniken der chaldäischen Könige"
+previous_item: "15121"
+---

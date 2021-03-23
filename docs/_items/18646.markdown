@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "18646"
+occurrence_id: "4722"
+short_title: "Leibovici 1959-1968"
+author: "Leibovici, Marcel"
+publication_year: "1959-1968"
+title: "Astronomia e astrologia (Oriente)"
+pages: "101-109"
+book: "Enciclopedia Universale dell'Arte II (Venezia-Roma)"
+title: "Astronomia e astrologia (Oriente)"
+previous_item: "18649"
+---

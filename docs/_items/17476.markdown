@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17476"
+occurrence_id: "4068"
+short_title: "Da Riva 2013"
+author: "Da Riva, Rocío "
+publication_year: "2013"
+title: "The Inscriptions of Nabopolassar, Amēl-Marduk and Neriglissar, Studies in Ancient Near Eastern Records 3 (Berlin)"
+title: "The Inscriptions of Nabopolassar, Amēl-Marduk and Neriglissar, Studies in Ancient Near Eastern Records 3 (Berlin)"
+previous_item: "17479"
+---

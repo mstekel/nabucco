@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15154"
+occurrence_id: "1388"
+short_title: "AnSt 22 (1972), 141-147"
+author: "Wiseman, Donald J."
+publication_year: "1972"
+title: "A Babylonian Architect?"
+volume_no_: "22"
+pages: "141-147"
+journal: "Anatolian Studies"
+title: "A Babylonian Architect?"
+previous_item: "15157"
+---

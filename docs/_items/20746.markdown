@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20746"
+occurrence_id: "4908"
+short_title: "Neugebauer 1966"
+author: "Neugebauer, Otto"
+publication_year: "1966"
+title: "Einführung"
+pages: "5-22"
+editor: "Krause, M."
+book: "Hypsikles, Die Aufgangszeiten der Gestirne (Göttingen)"
+title: "Einführung"
+previous_item: "20749"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19135"
+occurrence_id: "5124"
+short_title: "De Jong 2007"
+author: "De Jong, Teije"
+publication_year: "2007"
+title: "Astronomical dating of the Rising star list in MUL.APIN"
+pages: "107-120"
+editor: "Köhbach, Markus "
+book: "Festschrift für Hermann Hunger zum 65. Geburtstag: gewidmet von seinen Freunden, Kollegen und Schülern, WZKM 97 (Wien)"
+title: "Astronomical dating of the Rising star list in MUL.APIN"
+previous_item: "19138"
+---

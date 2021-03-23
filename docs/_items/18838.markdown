@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18838"
+occurrence_id: "4643"
+short_title: "Wiesehöfer 2004"
+author: "Wiesehöfer, Josef"
+publication_year: "2004"
+title: "«Persien, der faszinierende Feind der Griechen»: Güteraustausch and Kulturtransfer in achaimenidischer Zeit"
+pages: "295-310"
+editor: "Ulf, Christoph"
+book: "Commerce and Monetary Systems in the Ancient World: Means of Transmission and Cultural Interaction, Proc. 5 Annual Symposium of the Assyrian and Babylonian Intellectual Heritage Project Innsbruck (Stuttgart)"
+title: "«Persien, der faszinierende Feind der Griechen»: Güteraustausch and Kulturtransfer in achaimenidischer Zeit"
+previous_item: "18841"
+---

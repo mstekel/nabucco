@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "35035"
+place_id: "1481"
+parent_id: "43"
+place_name: "Bāṣ"
+related_objects: "6620"
+title: "Bāṣ"
+previous_item: "35038"
+---

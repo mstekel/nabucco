@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19705"
+occurrence_id: "4855"
+short_title: "Dandamayev 1988"
+author: "Dandamayev, Muhammed A."
+publication_year: "1988"
+title: "Die Agrarbeziehungen im neubabylonischen Königreich"
+pages: "111-115"
+editor: "Brentjes, Burchard"
+book: "Das Grundeigentum in Mesopotamien (Berlin)"
+title: "Die Agrarbeziehungen im neubabylonischen Königreich"
+previous_item: "19708"
+---

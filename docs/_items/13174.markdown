@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13174"
+occurrence_id: "2756"
+short_title: "NAPR 9 (1996), 32-33"
+author: "Giovinazzo, Grazia"
+publication_year: "1996"
+title: "Mahmūdīyah 1990. III. Le fragment de tablette économique Mi 1"
+volume_no_: "9"
+pages: "32-33"
+journal: "Northern Akkad Project Reports"
+title: "Mahmūdīyah 1990. III. Le fragment de tablette économique Mi 1"
+previous_item: "13177"
+---

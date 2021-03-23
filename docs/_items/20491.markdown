@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "20491"
+occurrence_id: "4651"
+short_title: "Oppert 1888"
+author: "Oppert, Jules"
+publication_year: "1888"
+title: "La condition des esclaves à Babylone"
+pages: "16, 120-129"
+book: "Comptes rendus, Quatrième série, Académie des Inscriptions et Belles-Lettres (Paris)"
+title: "La condition des esclaves à Babylone"
+previous_item: "20494"
+---

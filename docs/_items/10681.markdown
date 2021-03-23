@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10681"
+occurrence_id: "1346"
+short_title: "AMI 27 (1994 publ. 1996), 123-126"
+author: "Zawadzki, Stefan"
+publication_year: "1994 publ. 1996"
+title: "The First Persian Journey of Itti-Marduk-balāṭu"
+volume_no_: "27"
+pages: "123-126"
+journal: "Archäologische Mitteilungen aus Iran"
+title: "The First Persian Journey of Itti-Marduk-balāṭu"
+previous_item: "10684"
+---

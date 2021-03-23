@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "12601"
+occurrence_id: "2674"
+short_title: "NABU 2005/43"
+author: "Frahm, Eckart"
+title: "On some recently published Late Babylonian Copies of Royal Letters."
+volume_no_: "43"
+publication_year: "2005"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "On some recently published Late Babylonian Copies of Royal Letters."
+previous_item: "12604"
+---

@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "14803"
+occurrence_id: "2517"
+short_title: "NABU 1995/20"
+author: "Joannès, Francis"
+title: "Lépreux fantômes?"
+volume_no_: "20"
+publication_year: "1995"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Lépreux fantômes?"
+previous_item: "14806"
+---

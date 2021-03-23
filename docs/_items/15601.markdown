@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15601"
+occurrence_id: "3795"
+short_title: "Natural History 75/5 (1966), 9-10"
+author: "Goldman, Bernard"
+publication_year: "1966"
+title: "Rv. W. Culican, the Medes and the Persians"
+volume_no_: "75/5"
+pages: "9-10."
+journal: "Natural History"
+title: "Rv. W. Culican, the Medes and the Persians"
+previous_item: "15604"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13033"
+occurrence_id: "1997"
+short_title: "Iraq 64 (2002), 45-68"
+author: "Francke, Judit A."
+publication_year: "2002"
+title: "First season of Syrian-American investigations at Hamoukar, Hasekeh Province"
+volume_no_: "64"
+pages: "45-68"
+journal: "Iraq"
+title: "First season of Syrian-American investigations at Hamoukar, Hasekeh Province"
+previous_item: "13036"
+---

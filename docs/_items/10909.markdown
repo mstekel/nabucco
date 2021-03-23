@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "10909"
+occurrence_id: "2575"
+short_title: "NABU 1998/11"
+author: "Frahm, Eckart"
+title: "Anmerkungen zu den ālu-Kommentaren aus Uruk. "
+volume_no_: "1"
+publication_year: "1998"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Anmerkungen zu den ālu-Kommentaren aus Uruk. "
+previous_item: "10912"
+---

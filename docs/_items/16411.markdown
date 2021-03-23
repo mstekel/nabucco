@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16411"
+occurrence_id: "2115"
+short_title: "JAOS 61 (1941), 213-215"
+author: "Neugebauer, Otto"
+publication_year: "1941"
+title: "On a Special Use of the Sign \"zero\" in Cuneiform Astrnomical Texts"
+volume_no_: "61"
+pages: "213-215"
+journal: "Journal of the American Oriental Society"
+title: "On a Special Use of the Sign \"zero\" in Cuneiform Astrnomical Texts"
+previous_item: "16414"
+---

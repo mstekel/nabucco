@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10396"
+occurrence_id: "2799"
+short_title: "OLZ 76 (1981), 257-260"
+author: "Oelsner, Joachim"
+publication_year: "1981"
+title: "Rv. M.D. Coogan, West Semitic Personal Names in the Murašû Documents (HSM 7)"
+volume_no_: "76"
+pages: "257-260"
+journal: "Orientalistische Literaturzeitung"
+title: "Rv. M.D. Coogan, West Semitic Personal Names in the Murašû Documents (HSM 7)"
+previous_item: "10399"
+---

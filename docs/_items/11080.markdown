@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11080"
+occurrence_id: "3498"
+short_title: "ZA 89 (1999), 154-157"
+author: "Seibert, Jakob"
+publication_year: "1999"
+title: "Rv. P. Briant, Histoire de l´Empire perse de Cyrus à Alexandre (1996)"
+volume_no_: "89"
+pages: "154-157"
+journal: "Zeitschrift für Assyriologie"
+title: "Rv. P. Briant, Histoire de l´Empire perse de Cyrus à Alexandre (1996)"
+previous_item: "11083"
+---

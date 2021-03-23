@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "15379"
+occurrence_id: "2599"
+short_title: "NABU 1998/76"
+author: "Gerber, Manuel"
+title: "Collation of HS 479: 7 (addendu to Gerber, ZA 88 [1998])"
+volume_no_: "76"
+publication_year: "1998"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Collation of HS 479: 7 (addendu to Gerber, ZA 88 [1998])"
+previous_item: "15382"
+---

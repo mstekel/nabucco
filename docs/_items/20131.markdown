@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20131"
+occurrence_id: "4937"
+short_title: "Beaulieu 2011"
+author: "Beaulieu, Paul-A."
+publication_year: "2011"
+title: "Yahwistic Names in Light of Late Babylonian Onomastics"
+pages: "245-266"
+editor: "Knoppers, Gary N."
+book: "Judah and the Judeans in the Achaemenid Period. Negotiating Identity in an International Context (Winona Lake)"
+title: "Yahwistic Names in Light of Late Babylonian Onomastics"
+previous_item: "20134"
+---

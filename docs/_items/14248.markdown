@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "14248"
+occurrence_id: "2532"
+short_title: "NABU 1995/58"
+author: "Zawadzki, Stefan"
+title: "Unusual Writing of Cyrus´ Name"
+volume_no_: "58"
+publication_year: "1995"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Unusual Writing of Cyrus´ Name"
+previous_item: "14251"
+---

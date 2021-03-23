@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16522"
+occurrence_id: "595"
+short_title: "Tadmor 1994"
+author: "Tadmor, Hayim "
+publication_year: "1994"
+title: "The Inscriptions of Tiglah-Pileser III, King of Assyria. Critical Edition, with Introduction, Translations and Commentary"
+title: "The Inscriptions of Tiglah-Pileser III, King of Assyria. Critical Edition, with Introduction, Translations and Commentary"
+previous_item: "16525"
+---

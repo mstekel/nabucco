@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11596"
+occurrence_id: "3270"
+short_title: "Transeuphratène 8 (1994), 137-144"
+author: "Joannès, Francis"
+publication_year: "1994"
+title: "Métaux précieux et moyens de paiement en Babylonie achéménide et hellénistique"
+volume_no_: "8"
+pages: "137-144"
+journal: "Transeuphratène"
+title: "Métaux précieux et moyens de paiement en Babylonie achéménide et hellénistique"
+previous_item: "11599"
+---

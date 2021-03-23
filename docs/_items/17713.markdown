@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17713"
+occurrence_id: "820"
+short_title: "Jursa 1998"
+author: "Jursa, Michael "
+publication_year: "1998"
+title: "Der Tempelzehnt in Babylonien vom siebenten bis zum dritten Jahrhundert v. Chr., AOAT 254 (Münster)"
+title: "Der Tempelzehnt in Babylonien vom siebenten bis zum dritten Jahrhundert v. Chr., AOAT 254 (Münster)"
+previous_item: "17716"
+---

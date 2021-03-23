@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12121"
+occurrence_id: "3095"
+short_title: "RA 88 (1988), 59-63"
+author: "Snell, Daniel C."
+publication_year: "1988"
+title: "A Neo-Babylonian Colophon"
+volume_no_: "88"
+pages: "59-63"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "A Neo-Babylonian Colophon"
+previous_item: "12124"
+---

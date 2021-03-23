@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21130"
+occurrence_id: "4750"
+short_title: "Stol 1994"
+author: "Stol, Marten"
+publication_year: "1994"
+title: "Beer in Neo-Babylonian Times"
+pages: "155-183"
+editor: "Milano, Lucio"
+book: "Drinking in Ancient Societies, History of the Ancient Near East/ Studies 6 (Padova)"
+title: "Beer in Neo-Babylonian Times"
+previous_item: "21133"
+---

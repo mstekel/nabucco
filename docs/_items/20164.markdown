@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20164"
+occurrence_id: "5113"
+short_title: "Zawadzki 2014a"
+author: "Zawadzki, Stefan"
+publication_year: "2014"
+title: "Tappaššar and Her Relations with Iddin-Nabû, the Adopted Son of Her Husband in the Light of a New Document"
+pages: "573-590"
+editor: "Marti, Lionel"
+book: "La famille dans le Proche-Orient ancien: réalités, symbolismes, et images. Proceedings of the 55th Rencontre Assyriologique Internationale at Paris, 6-9 July 2009 (Winona Lake)"
+title: "Tappaššar and Her Relations with Iddin-Nabû, the Adopted Son of Her Husband in the Light of a New Document"
+previous_item: "20167"
+---

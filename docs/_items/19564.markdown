@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "19564"
+occurrence_id: "5206"
+short_title: "Jampoliskij 1957"
+author: "Jampoliskij, Z.I."
+publication_year: "1957"
+title: "Über die nördlichen Elamiter (in Russ.)"
+pages: "119-211"
+book: "Труды Музея истории Азербайджана 2 (1957) [Trudy Muzeja istorii Azerbajdžana 2 (1957)]"
+title: "Über die nördlichen Elamiter (in Russ.)"
+previous_item: "19567"
+---

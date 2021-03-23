@@ -1,0 +1,12 @@
+---
+layout: "bibliography"
+slug: "8365"
+occurrence_id: "3942"
+short_title: "NABU 2014/33"
+author: "Freedman, Immanuel"
+publication_year: "2014"
+title: "On horses and bitumen in mulAPIN"
+volume_no_: "2014/33"
+title: "On horses and bitumen in mulAPIN"
+previous_item: "8368"
+---

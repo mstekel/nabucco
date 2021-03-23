@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14662"
+occurrence_id: "1759"
+short_title: "BOR 2 (1888), 57-59"
+author: "Revillout, Eugène"
+publication_year: "1888"
+title: "Istar tarabi"
+volume_no_: "2"
+pages: "57-59"
+journal: "Babylonian and Oriental Record"
+title: "Istar tarabi"
+previous_item: "14665"
+---

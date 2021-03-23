@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17911"
+occurrence_id: "443"
+short_title: "Hunger 1989"
+author: "Hunger, Hermann "
+publication_year: "1989"
+title: "MUL.APIN. An Astronomical Compendium in Cuneiform (AfO Beih. 24)"
+title: "MUL.APIN. An Astronomical Compendium in Cuneiform (AfO Beih. 24)"
+previous_item: "17914"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14221"
+occurrence_id: "2386"
+short_title: "Maarav: A Journal for the Study of the Northwest Semitic Languages and Literatures 7 (1991 publ. 1993), 253-267"
+author: "Weisberg, David B."
+publication_year: "1991 publ. 1993"
+title: "Loyalty and death: Some Ancient Metaphors"
+volume_no_: "7"
+pages: "253-267"
+journal: "Maarav: A Journal for the Study of the Northwest Semitic Languages and Literatures"
+title: "Loyalty and death: Some Ancient Metaphors"
+previous_item: "14224"
+---

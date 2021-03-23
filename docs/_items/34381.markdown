@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "34381"
+place_id: "1542"
+parent_id: "52"
+place_name: "Bīt-Zēriya"
+related_objects: "7702"
+title: "Bīt-Zēriya"
+previous_item: "34384"
+---

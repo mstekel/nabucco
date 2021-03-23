@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9577"
+occurrence_id: "1410"
+short_title: "AÖAW 119 (1969 publ. 1970), 157-170"
+author: "Mayrhofer, Manfred"
+publication_year: "1969 publ. 1970"
+title: "Xerxes, König der Könige"
+volume_no_: "119"
+pages: "157-170"
+journal: "Anzeiger der Österreichischen Akademie der Wissenschaften"
+title: "Xerxes, König der Könige"
+previous_item: "9580"
+---

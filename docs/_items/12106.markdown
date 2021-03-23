@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12106"
+occurrence_id: "3015"
+short_title: "RA 24 (1927), 38-41"
+author: "Scheil, Vincent"
+publication_year: "1927"
+title: "La trinité urukienne Innin, Istar, Nana‹"
+volume_no_: "24"
+pages: "38-41"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "La trinité urukienne Innin, Istar, Nana‹"
+previous_item: "12109"
+---

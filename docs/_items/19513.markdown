@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19513"
+occurrence_id: "4934"
+short_title: "Beaulieu 2007"
+author: "Beaulieu, Paul-A."
+publication_year: "2007"
+title: "Late Babylonian intellectual life"
+pages: "473-484"
+editor: "Leick, Gwendolyn"
+book: "The Babylonian World (Abingdon and New York)"
+title: "Late Babylonian intellectual life"
+previous_item: "19516"
+---

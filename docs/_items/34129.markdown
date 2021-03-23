@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34129"
+place_id: "1282"
+parent_id: "61"
+place_name: "Tamertu-ša-Bīt-Dērāja"
+title: "Tamertu-ša-Bīt-Dērāja"
+previous_item: "34132"
+---

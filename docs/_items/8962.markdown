@@ -1,0 +1,15 @@
+---
+layout: "bibliography"
+slug: "8962"
+occurrence_id: "277"
+short_title: "Leichty, AnSt 33"
+author: "Leichty, Erle V."
+publication_year: "1983"
+title: "Bel-epuš and Tammaritu"
+volume_no_: "33"
+pages: ", 153-55 pdf-file  , 153-55 pdf-file  , 153-55 pdf-file  , 153-55 pdf-file  153-55"
+related_objects: "6015"
+journal: "Anatolian Studies"
+title: "Bel-epuš and Tammaritu"
+previous_item: "8965"
+---

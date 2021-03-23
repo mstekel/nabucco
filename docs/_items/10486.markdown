@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10486"
+occurrence_id: "3302"
+short_title: "VT 26 (1976), 246-247"
+author: "Zadok, Ran"
+publication_year: "1976"
+title: "On Five Iranian Names in the Old Testament"
+volume_no_: "26"
+pages: "246-247"
+journal: "Vetus Testamentum"
+title: "On Five Iranian Names in the Old Testament"
+previous_item: "10489"
+---

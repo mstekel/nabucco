@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "10060"
+occurrence_id: "4010"
+short_title: "Kaskal 12 (2015), 401-410"
+author: "Popova, Olga V."
+publication_year: "2015"
+title: "The Royal Family and its Territorial Implantation during the Neo-Babylonian Period"
+volume_no_: "12"
+pages: "401-410"
+title: "The Royal Family and its Territorial Implantation during the Neo-Babylonian Period"
+previous_item: "10063"
+---

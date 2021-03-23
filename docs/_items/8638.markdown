@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8638"
+occurrence_id: "2392"
+short_title: "MDOG 109 (1977), 27-34"
+author: "Walker, Christopher,  Bromhead F."
+publication_year: "1977"
+title: "Zwölfmaldrei"
+volume_no_: "109"
+pages: "27-34"
+journal: "Mitteilungen der Deutschen Orient-Gesellschaft"
+title: "Zwölfmaldrei"
+previous_item: "8641"
+---

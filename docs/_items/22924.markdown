@@ -1,0 +1,9 @@
+---
+layout: "archive"
+slug: "22924"
+archive_id: "172"
+archive_name: "Ilšu-abūšu A and Balāṭu"
+is_part_of: "Borsippa"
+title: "Ilšu-abūšu A and Balāṭu"
+previous_item: "22927"
+---

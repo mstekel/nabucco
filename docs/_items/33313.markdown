@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33313"
+place_id: "634"
+parent_id: "40"
+place_name: "Sūr-Hilūnu"
+title: "Sūr-Hilūnu"
+previous_item: "33316"
+---

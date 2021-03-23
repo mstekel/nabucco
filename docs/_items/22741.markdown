@@ -1,0 +1,9 @@
+---
+layout: "archive"
+slug: "22741"
+archive_id: "148"
+archive_name: "Gallābu"
+is_part_of: "Borsippa"
+title: "Gallābu"
+previous_item: "22744"
+---

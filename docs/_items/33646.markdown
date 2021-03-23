@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33646"
+place_id: "643"
+parent_id: "40"
+place_name: "Šapputtu"
+title: "Šapputtu"
+previous_item: "33649"
+---

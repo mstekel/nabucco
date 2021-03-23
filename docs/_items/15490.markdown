@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15490"
+occurrence_id: "3197"
+short_title: "Société Jean Bodin pour l'histoire comparative des institutions. Recueils 7 (1955), 51-61"
+author: "Cardascia, Guillaume"
+publication_year: "1955"
+title: "Les villes de Mésopotamie: Institutions économiques et sociales"
+volume_no_: "7"
+pages: "51-61"
+journal: "Société Jean Bodin pour l'histoire comparative des institutions."
+title: "Les villes de Mésopotamie: Institutions économiques et sociales"
+previous_item: "15493"
+---

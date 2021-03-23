@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10039"
+occurrence_id: "3897"
+short_title: "ZVS 82 (1968), 259-268"
+author: "Cowgill, Warren"
+publication_year: "1968"
+title: "The Aorists and Perfects of Old Persian"
+volume_no_: "82"
+pages: "259-268"
+journal: "Zeitschrift für vergleichende Sprachforschung auf dem Gebiete der Indogermanischen Sprachen"
+title: "The Aorists and Perfects of Old Persian"
+previous_item: "10042"
+---

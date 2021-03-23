@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16354"
+occurrence_id: "1811"
+short_title: "BSOAS 64/2 (2001), 268"
+author: "Verderame, Lorenzo"
+publication_year: "2001"
+title: "Rv. D. Brown, Mesopotamian Planetary Astronomy-Astrology"
+volume_no_: "64/2"
+pages: "268"
+journal: "Bulletin of the School of Oriental and African Studies"
+title: "Rv. D. Brown, Mesopotamian Planetary Astronomy-Astrology"
+previous_item: "16357"
+---

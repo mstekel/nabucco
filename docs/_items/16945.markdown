@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16945"
+occurrence_id: "830"
+short_title: "Koldewey 1911"
+author: "Koldewey, Robert "
+publication_year: "1911"
+title: "Die Tempel von Babylon and Borsippa, WVDOG 15 (Leipzig)"
+title: "Die Tempel von Babylon and Borsippa, WVDOG 15 (Leipzig)"
+previous_item: "16948"
+---

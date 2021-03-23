@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19321"
+occurrence_id: "5013"
+short_title: "Hallock 1977"
+author: "Hallock, Richard T."
+publication_year: "1977"
+title: "The Use of Seals on the Persepolis Fortification Tablets"
+pages: "127-133"
+editor: "Gibson, McGuire"
+book: "Seals and Sealings in the Ancient Near East, Bibliotheca Mesopotamia 6 (Malibu)"
+title: "The Use of Seals on the Persepolis Fortification Tablets"
+previous_item: "19324"
+---

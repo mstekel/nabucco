@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33994"
+place_id: "892"
+parent_id: "61"
+place_name: "Bīt-mār-Bābili"
+title: "Bīt-mār-Bābili"
+previous_item: "33997"
+---

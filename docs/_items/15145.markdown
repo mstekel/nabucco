@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15145"
+occurrence_id: "1338"
+short_title: "AMI 19 (1986 publ.1988), 117-119"
+author: "Dandamayev, Muhammed A."
+publication_year: "1986 publ. 1988"
+title: "Some Babylonians at Ecbatana"
+volume_no_: "19"
+pages: "117-119"
+journal: "Archäologische Mitteilungen aus Iran"
+title: "Some Babylonians at Ecbatana"
+previous_item: "15148"
+---

@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17695"
+occurrence_id: "694"
+short_title: "GCCI 1"
+author: "Dougherty, Raymond Ph. "
+publication_year: "1923"
+title: "Archives from Erech, Time of Nebuchadrezzar and Nabonidus. Goucher College Cuneiform Inscriptions 1 (New Haven)"
+title: "Archives from Erech, Time of Nebuchadrezzar and Nabonidus. Goucher College Cuneiform Inscriptions 1 (New Haven)"
+previous_item: "17698"
+---

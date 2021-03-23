@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13216"
+occurrence_id: "2985"
+short_title: "PSBA 19 (1897), 132-143"
+author: "Pinches, Theophilus G."
+publication_year: "1897"
+title: "Two Archaic and Three Later Babylonian Tablets"
+volume_no_: "19"
+pages: "132-143"
+journal: "Proceedings of the Society of Biblical Archaeology"
+title: "Two Archaic and Three Later Babylonian Tablets"
+previous_item: "13219"
+---

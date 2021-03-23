@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12463"
+occurrence_id: "1932"
+short_title: "IrAn 32 (1997), 137-144"
+author: "Uchitel, Alexander"
+publication_year: "1997"
+title: "Persian Paradise: Agricultural Texts in the Fortification Archive"
+volume_no_: "32"
+pages: "137-144"
+journal: "Iranica Antiqua"
+title: "Persian Paradise: Agricultural Texts in the Fortification Archive"
+previous_item: "12466"
+---

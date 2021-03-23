@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13930"
+occurrence_id: "3824"
+short_title: "Phoenix 31/2 (1985 publ. 1986), 33-47"
+author: "van Driel, Govert"
+publication_year: "1985 publ. 1986"
+title: "De opkomst van een Nieuwbabylonische familie: de Egibi's. In de schaduw van de grote politiek"
+volume_no_: "31/2"
+pages: "33-47"
+journal: "Phoenix"
+title: "De opkomst van een Nieuwbabylonische familie: de Egibi's. In de schaduw van de grote politiek"
+previous_item: "13933"
+---

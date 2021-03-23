@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20734"
+occurrence_id: "4844"
+short_title: "Dandamayev 1979b"
+author: "Dandamayev, Muhammed A."
+publication_year: "1979"
+title: "Data of the Babylonian Documents from the 6th to the 5th Centuries B.C. on the Sakas"
+pages: "119-133"
+editor: "Harmatta, János"
+book: "Prolegomena to the Sources on the History of Pre-Islamic Central Asia (Budapest)"
+title: "Data of the Babylonian Documents from the 6th to the 5th Centuries B.C. on the Sakas"
+previous_item: "20737"
+---

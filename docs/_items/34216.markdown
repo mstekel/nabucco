@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34216"
+place_id: "898"
+parent_id: "61"
+place_name: "Bīt-Nūrea"
+title: "Bīt-Nūrea"
+previous_item: "34219"
+---

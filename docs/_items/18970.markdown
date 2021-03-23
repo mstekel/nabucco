@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18970"
+occurrence_id: "4243"
+short_title: "Wunsch 1988"
+author: "Wunsch, Cornelia"
+publication_year: "1988"
+title: "Zur Entwicklung und Nutzung privaten Großgrandbesitzes in Babylonien während des 6. Jh. V.u.Z. nach dem Archiv des ‡ābija"
+pages: "361-378"
+editor: "Vavroušek, Petr"
+book: "Šulmu. Papers on the Ancient Near East Presented at International Conference of Socialist Countries (Prague)"
+title: "Zur Entwicklung und Nutzung privaten Großgrandbesitzes in Babylonien während des 6. Jh. V.u.Z. nach dem Archiv des ‡ābija"
+previous_item: "18973"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20797"
+occurrence_id: "5180"
+short_title: "Lambert 1975"
+author: "Lambert, Wilfred G."
+publication_year: "1975"
+title: "The Problem of theLove Lyrics: Unity and Diversity"
+pages: "98-135"
+editor: "Goedicke, Hans"
+book: "Unity and Diversity. Essays in the History, Literature, and Religion of the Ancient Near East (Baltimore and London)"
+title: "The Problem of theLove Lyrics: Unity and Diversity"
+previous_item: "20800"
+---

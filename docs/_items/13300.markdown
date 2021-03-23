@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13300"
+occurrence_id: "3436"
+short_title: "ZA 69 (1979), 41-46"
+author: "Sack, Ronald H."
+publication_year: "1979"
+title: "Some Remarks on Jewelry Inventories from Sixth Century B.C. Erech"
+volume_no_: "69"
+pages: "41-46"
+journal: "Zeitschrift für Assyriologie"
+title: "Some Remarks on Jewelry Inventories from Sixth Century B.C. Erech"
+previous_item: "13303"
+---

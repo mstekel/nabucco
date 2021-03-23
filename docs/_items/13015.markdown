@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13015"
+occurrence_id: "1901"
+short_title: "IEJ 6 (1956), 246-256"
+author: "Malamat, Abraham"
+publication_year: "1956"
+title: "A New Record of Nebuchadrezzar's Palestinian Campaigns"
+volume_no_: "6"
+pages: "246-256"
+journal: "Israel Exploration Journal"
+title: "A New Record of Nebuchadrezzar's Palestinian Campaigns"
+previous_item: "13018"
+---

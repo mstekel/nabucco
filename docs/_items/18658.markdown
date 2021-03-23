@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18658"
+occurrence_id: "4786"
+short_title: "Jursa 2005"
+author: "Jursa, Michael"
+publication_year: "2005"
+title: "Das Archiv von Bel-eteri-Samas. ***"
+pages: "197-268"
+editor: "Baker, Heather D."
+book: "Approaching the Babylonian Economy, AOAT 330 (Münster)"
+title: "Das Archiv von Bel-eteri-Samas. ***"
+previous_item: "18661"
+---

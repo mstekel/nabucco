@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21409"
+occurrence_id: "5135"
+short_title: "Abusch 2010"
+author: "Abusch, Tzvi"
+publication_year: "2010"
+title: "A Neo-Babylonian Recension of Maqlû: Some Observations on the Redaction of Maqlû Tablet VII and on the Development of Two of Its Incantations"
+pages: "1-16"
+editor: "Fincke, Jeanette"
+book: "Festschrift für Gernot Wilhelm anläßlich seines 65. Geburtstages am 28. Januar 2010 (Dresden)"
+title: "A Neo-Babylonian Recension of Maqlû: Some Observations on the Redaction of Maqlû Tablet VII and on the Development of Two of Its Incantations"
+previous_item: "21412"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15136"
+occurrence_id: "1288"
+short_title: "AJA 59 (1955), 315-318"
+author: "Segall, Berta"
+publication_year: "1955"
+title: "The Arts and King Nabonidus"
+volume_no_: "59"
+pages: "315-318"
+journal: "American Journal of Archaeology"
+title: "The Arts and King Nabonidus"
+previous_item: "15139"
+---

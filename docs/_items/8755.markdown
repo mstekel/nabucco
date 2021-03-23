@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8755"
+occurrence_id: "3025"
+short_title: "RA 48 (1954), 103"
+author: "Bottéro, Jean"
+publication_year: "1954"
+title: "Rv. G. Cardascia, Les archives des Murašû (Paris 1951)"
+volume_no_: "48"
+pages: "103"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "Rv. G. Cardascia, Les archives des Murašû (Paris 1951)"
+previous_item: "8758"
+---

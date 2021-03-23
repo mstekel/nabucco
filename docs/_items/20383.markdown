@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20383"
+occurrence_id: "5178"
+short_title: "Arnold and Bobzin 2002"
+author: "Bobzin, Hartmut"
+publication_year: "2002"
+title: "Sprich doch mit deinen Knechten aramäisch, wir verstehen es!"
+pages: "389-393"
+editor: "Bobzin, Hartmut"
+book: "\"Sprich doch mit deinen Knechten aramäisch, wir verstehen es!\", 60 Beiträge zur Semitistik, Festschrift für Otto Jastrow zum 60. Geburtstag (Wiesbaden)"
+title: "Sprich doch mit deinen Knechten aramäisch, wir verstehen es!"
+previous_item: "20386"
+---

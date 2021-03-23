@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8797"
+occurrence_id: "3249"
+short_title: "Syria 87 (2010), 430-431"
+author: "Tolini, Gauthier"
+publication_year: "2010"
+title: "Rv. P. Briant, W. Henkelman, M.W. Stolper (eds), L'archive des Fortifications de Persepolis. État des questions et perspectives de recherches (Persika 12, 2008)."
+volume_no_: "87"
+pages: "430-431"
+journal: "Syria"
+title: "Rv. P. Briant, W. Henkelman, M.W. Stolper (eds), L'archive des Fortifications de Persepolis. État des questions et perspectives de recherches (Persika 12, 2008)."
+previous_item: "8800"
+---

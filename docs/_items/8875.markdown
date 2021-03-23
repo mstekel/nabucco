@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8875"
+occurrence_id: "3671"
+short_title: "Electrum 10 (2005) 31-39"
+author: "Geller, Mark J."
+publication_year: "2005"
+title: "Persian Influence on Aramaic"
+volume_no_: "10"
+pages: "31-39"
+journal: "Electrum"
+title: "Persian Influence on Aramaic"
+previous_item: "8878"
+---

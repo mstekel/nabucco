@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7612"
+occurrence_id: "2908"
+short_title: "Or 58 (1989), 102-123"
+author: "Rochberg-Halton, Francesca"
+publication_year: "1988"
+title: "Babylonian Horoscopes and their Sources"
+volume_no_: "58"
+pages: "102-123"
+journal: "Orientalia"
+title: "Babylonian Horoscopes and their Sources"
+previous_item: "7615"
+---

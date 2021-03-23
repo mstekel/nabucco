@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34786"
+place_id: "1153"
+parent_id: "61"
+place_name: "Nagarāja"
+title: "Nagarāja"
+previous_item: "34789"
+---

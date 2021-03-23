@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "34714"
+place_id: "1546"
+parent_id: "37"
+place_name: "Nabātu"
+related_objects: "8376"
+title: "Nabātu"
+previous_item: "34717"
+---

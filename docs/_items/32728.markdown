@@ -1,0 +1,10 @@
+---
+layout: "archive"
+slug: "32728"
+archive_id: "370"
+archive_name: "Eanna temple"
+is_part_of: "Uruk"
+related_objects: "5705"
+title: "Eanna temple"
+previous_item: "32734"
+---

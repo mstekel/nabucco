@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "11725"
+occurrence_id: "3964"
+short_title: "JAOS 134/2 (2014), 340-343"
+author: "Jigoulov, Vadim"
+publication_year: "2014"
+title: "Rv. O. Lipschits, G.N. Knoppers and M. Oeming, Judah and the Judeans in the Achaemenid Period: Negotiating Identity in an International Context"
+volume_no_: "134/2"
+pages: "340-343"
+title: "Rv. O. Lipschits, G.N. Knoppers and M. Oeming, Judah and the Judeans in the Achaemenid Period: Negotiating Identity in an International Context"
+previous_item: "11728"
+---

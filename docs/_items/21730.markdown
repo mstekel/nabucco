@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21730"
+occurrence_id: "4641"
+short_title: "Wiesehöfer 1999"
+author: "Wiesehöfer, Josef"
+publication_year: "1999"
+title: "Kontinuität oder Zäsur? Babylon unter den Achaimeniden"
+pages: "167-188"
+editor: "Renger, Johannes"
+book: "Babylon: Focus mesopotamischer Geschichte, Wiege früher Gelehrsamkeit, Mythos in der Moderne, CDOG 2 (Saarbrücken)"
+title: "Kontinuität oder Zäsur? Babylon unter den Achaimeniden"
+previous_item: "21733"
+---

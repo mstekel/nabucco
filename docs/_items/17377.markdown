@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17377"
+occurrence_id: "331"
+short_title: "Brandenstein 1964"
+author: "Brandenstein, Wilhelm "
+publication_year: "1964"
+title: "Handbuch des Altpersischen"
+title: "Handbuch des Altpersischen"
+previous_item: "17380"
+---

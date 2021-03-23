@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15211"
+occurrence_id: "1695"
+short_title: "BiOr 52 (1995), 79-83"
+author: "Klengel-Brandt, Evelyn"
+publication_year: "1995"
+title: "Rv. R. Rollinger, Herodots babylonischer Logos. Eine kritische Untersuchung der Glaubwürdigkeitsdiskussion an Hand ausgewählter Beispiele (1993)"
+volume_no_: "52"
+pages: "79-83"
+journal: "Bibliotheca Orientalis"
+title: "Rv. R. Rollinger, Herodots babylonischer Logos. Eine kritische Untersuchung der Glaubwürdigkeitsdiskussion an Hand ausgewählter Beispiele (1993)"
+previous_item: "15214"
+---

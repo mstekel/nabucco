@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10846"
+occurrence_id: "2235"
+short_title: "JESHO 10 (1967), 161-223"
+author: "Cocquerillat, Denise"
+publication_year: "1967"
+title: "Aperçus sur la phéniciculture en Babylonie à l´époque de la 1ère dynastie de Babylone"
+volume_no_: "10"
+pages: "161-223"
+journal: "Journal of the Economic and Social History of the Orient"
+title: "Aperçus sur la phéniciculture en Babylonie à l´époque de la 1ère dynastie de Babylone"
+previous_item: "10849"
+---

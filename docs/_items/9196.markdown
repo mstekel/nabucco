@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9196"
+occurrence_id: "2377"
+short_title: "Kratylos 25 (1980), 1-66"
+author: "Schmitt, Rüdiger"
+publication_year: "1980"
+title: "Altpersisch-Forschung in den Siebzigjahren"
+volume_no_: "25"
+pages: "1-66"
+journal: "Kratylos"
+title: "Altpersisch-Forschung in den Siebzigjahren"
+previous_item: "9199"
+---

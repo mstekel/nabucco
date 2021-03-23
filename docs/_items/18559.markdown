@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18559"
+occurrence_id: "4257"
+short_title: "Wunsch 2013"
+author: "Wunsch, Cornelia"
+publication_year: "2013"
+title: "Glimpses on the Lives of Deportees in Rural Babylonia"
+pages: "247-260"
+editor: "Berlejung, Angelika"
+book: "Arameans, Chaldeans, and Arabs in Babylonia and Palestine in the First Millennium B.C., Leipziger Altorientalische Studien 3 (Wiesbaden)"
+title: "Glimpses on the Lives of Deportees in Rural Babylonia"
+previous_item: "18562"
+---

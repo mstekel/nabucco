@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11710"
+occurrence_id: "3884"
+short_title: "ZKM 4 (1842), 43-57 + pl.F-I"
+author: "Grotefend, Georg-Frieddrich"
+publication_year: "1842"
+title: "Urkunden in babylonischer Keilschrift, vierter Beitrag. Mit einem Steindruck"
+volume_no_: "4"
+pages: "43-57 + pl.F-I"
+journal: "Zeitschrift fur die Kunde des Morgenlandes"
+title: "Urkunden in babylonischer Keilschrift, vierter Beitrag. Mit einem Steindruck"
+previous_item: "11713"
+---

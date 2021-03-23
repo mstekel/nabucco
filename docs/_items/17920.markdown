@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17920"
+occurrence_id: "500"
+short_title: "MacGinnis 1995"
+author: "MacGinnis, John "
+publication_year: "1995"
+title: "Letter Orders from Sippar and the Administration of the Ebabbara in the Late-Babylonian Period"
+title: "Letter Orders from Sippar and the Administration of the Ebabbara in the Late-Babylonian Period"
+previous_item: "17923"
+---

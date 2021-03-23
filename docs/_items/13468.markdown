@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13468"
+occurrence_id: "1335"
+short_title: "AMI 16 (1983 publ. 1985), 223-226"
+author: "Stolper, Matthew W."
+publication_year: "1983"
+title: "The death of Artaxerxes I"
+volume_no_: "16"
+pages: "223-226"
+journal: "Archäologische Mitteilungen aus Iran"
+title: "The death of Artaxerxes I"
+previous_item: "13471"
+---

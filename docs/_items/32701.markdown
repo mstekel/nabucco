@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "32701"
+occurrence_id: "3236"
+short_title: "Sumer 41 (1985), 23-26"
+author: "Al-Rawi, Farouk , N.H."
+publication_year: "1985"
+title: "New Historical Documents from Babylon"
+journal: "Sumer"
+volume_no_: "41"
+pages: "23-26"
+title: "New Historical Documents from Babylon"
+previous_item: "32704"
+---

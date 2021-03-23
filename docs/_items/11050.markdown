@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11050"
+occurrence_id: "3335"
+short_title: "WeOr 29 (1998), 225-228"
+author: "Koch, Heidemarie"
+publication_year: "1998"
+title: "Rv. Ch. Tuplin, Achaemenid Studies (Historia Einzelschriften 99, 1995)"
+volume_no_: "29"
+pages: "225-228"
+journal: "Die Welt des Orients"
+title: "Rv. Ch. Tuplin, Achaemenid Studies (Historia Einzelschriften 99, 1995)"
+previous_item: "11053"
+---

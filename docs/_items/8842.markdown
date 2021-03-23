@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8842"
+occurrence_id: "3494"
+short_title: "ZA 88 (1998), 100-113"
+author: "Seidl, Ursula"
+publication_year: "1998"
+title: "Das Flut-Ungeheuer abūbu"
+volume_no_: "88"
+pages: "100-113"
+journal: "Zeitschrift für Assyriologie"
+title: "Das Flut-Ungeheuer abūbu"
+previous_item: "8845"
+---

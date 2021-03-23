@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12151"
+occurrence_id: "3255"
+short_title: "The Classical Journal 62 (1967), 182-183"
+author: "McGregor, M.F."
+publication_year: "1967"
+title: "Rv. W. Culican, the Medes and the Persians"
+volume_no_: "62"
+pages: "182-183"
+journal: "The Classical Journal"
+title: "Rv. W. Culican, the Medes and the Persians"
+previous_item: "12154"
+---

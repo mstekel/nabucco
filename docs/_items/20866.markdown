@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20866"
+occurrence_id: "4445"
+short_title: "del Monte 2000"
+author: "del Monte, Giuseppe F."
+publication_year: "2000"
+title: "«È sulla cinquantina, o sulla sessantina»"
+pages: "85-92"
+editor: "Gentili, Paolo"
+book: "Donum Natalicum, Fs. Saporetti (Roma)"
+title: "«È sulla cinquantina, o sulla sessantina»"
+previous_item: "20869"
+---

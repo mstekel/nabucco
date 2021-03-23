@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8161"
+occurrence_id: "2843"
+short_title: "Or 18 (1949), 171-172"
+author: "Ebeling, Erich"
+publication_year: "1949"
+title: "Ein Rezept zum Würzen von Fleisch"
+volume_no_: "18"
+pages: "171-172"
+journal: "Orientalia"
+title: "Ein Rezept zum Würzen von Fleisch"
+previous_item: "8164"
+---

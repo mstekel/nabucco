@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11140"
+occurrence_id: "3819"
+short_title: "Orientalische Geschichte von Kyros bis Mohammed 2 (= HO Abt. 1, Vol. 2,4,2, Leiden 1966), 1-6"
+author: "Widengren, Geo"
+publication_year: "1966"
+title: "Mesopotamien im achämenidischer Zeit"
+volume_no_: "2"
+pages: "1-6."
+journal: "Orientalische Geschichte von Kyros bis Mohammed"
+title: "Mesopotamien im achämenidischer Zeit"
+previous_item: "11143"
+---

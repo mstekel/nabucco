@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9316"
+occurrence_id: "3026"
+short_title: "RA 48 (1954), 155-157"
+author: "Cocquerillat, Denise"
+publication_year: "1954"
+title: "Rv. H.H. Figulla, Business Documents of the New-Babylonian Period"
+volume_no_: "48"
+pages: "155-157"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "Rv. H.H. Figulla, Business Documents of the New-Babylonian Period"
+previous_item: "9319"
+---

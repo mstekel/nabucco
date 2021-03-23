@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "14455"
+occurrence_id: "3649"
+short_title: "BLOT (1998), 43-44"
+author: "Grabbe, L.L."
+publication_year: "1998"
+title: "Rv. P. Briant, Dans les pas des Dix-Mille, Peuples et pays du Proche-Orient vus par un Grec (1995)"
+pages: "43-44"
+journal: "Book List. Society for Old Testament Studies (Llansadwrn, Menai Bridge)"
+title: "Rv. P. Briant, Dans les pas des Dix-Mille, Peuples et pays du Proche-Orient vus par un Grec (1995)"
+previous_item: "14458"
+---

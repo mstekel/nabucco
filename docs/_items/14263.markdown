@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "14263"
+occurrence_id: "2613"
+short_title: "NABU 1999/6"
+author: "Stolper, Matthew W."
+title: "Late Achaemenid Babylonian Chronology"
+volume_no_: "6"
+publication_year: "1999"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Late Achaemenid Babylonian Chronology"
+previous_item: "14266"
+---

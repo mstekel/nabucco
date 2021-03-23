@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18868"
+occurrence_id: "4803"
+short_title: "Jursa 2015b"
+author: "Jursa, Michael"
+publication_year: "2015"
+title: "Market performance and market integration in Babylonia in the 'long sixth century' BC"
+pages: "83-106"
+editor: "van Leeuwen, Bas"
+book: "A History of Market Performance. From Ancient Babylonia to the Modern World, Routledge Explorations in Economic History (New York)"
+title: "Market performance and market integration in Babylonia in the 'long sixth century' BC"
+previous_item: "18871"
+---

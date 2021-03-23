@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10186"
+occurrence_id: "1669"
+short_title: "BiOr 39 (1982), 5-25"
+author: "Elat, Moshe"
+publication_year: "1982"
+title: "Mesopotamische Kriegsrituale"
+volume_no_: "39"
+pages: "5-25"
+journal: "Bibliotheca Orientalis"
+title: "Mesopotamische Kriegsrituale"
+previous_item: "10189"
+---

@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17260"
+occurrence_id: "404"
+short_title: "Fisher 1968"
+author: "Fisher, William B. "
+publication_year: "1968"
+title: "The Cambridge History of Iran. Volume I: the Land of Iran"
+title: "The Cambridge History of Iran. Volume I: the Land of Iran"
+previous_item: "17263"
+---

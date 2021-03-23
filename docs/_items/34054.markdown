@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34054"
+place_id: "79"
+parent_id: "4"
+place_name: "Qirbit"
+title: "Qirbit"
+previous_item: "34057"
+---

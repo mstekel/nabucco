@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8602"
+occurrence_id: "2198"
+short_title: "JCS 48 (1996), 97-100"
+author: "MacGinnis, John"
+publication_year: "1996"
+title: "Rv. M. Jursa, Die Landwirtschaft in Sippar in neubabylonischer Zeit (AfO Beiheft 25, 1995)"
+volume_no_: "48"
+pages: "97-100"
+journal: "Journal of Cuneiform Studies"
+title: "Rv. M. Jursa, Die Landwirtschaft in Sippar in neubabylonischer Zeit (AfO Beiheft 25, 1995)"
+previous_item: "8605"
+---

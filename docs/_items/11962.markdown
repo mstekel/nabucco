@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11962"
+occurrence_id: "2237"
+short_title: "JESHO 22 (1979), 136-161"
+author: "Briant, Pierre"
+publication_year: "1979"
+title: "L´élévage ovin dans l´Empire achéménide"
+volume_no_: "22"
+pages: "136-161"
+journal: "Journal of the Economic and Social History of the Orient"
+title: "L´élévage ovin dans l´Empire achéménide"
+previous_item: "11965"
+---

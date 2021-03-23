@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "10888"
+occurrence_id: "2461"
+short_title: "NABU 1988/74"
+author: "Joannès, Francis"
+publication_year: "1988"
+title: "Contrat néo-babylonien d'Agadé"
+volume_no_: "74"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Contrat néo-babylonien d'Agadé"
+previous_item: "10891"
+---

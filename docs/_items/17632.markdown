@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17632"
+occurrence_id: "317"
+short_title: "Bengston 1968"
+author: "Bengston, Hermann "
+publication_year: "1968"
+title: "The Greeks and the Persians from the Sixth to the Fourth Centuries"
+title: "The Greeks and the Persians from the Sixth to the Fourth Centuries"
+previous_item: "17635"
+---

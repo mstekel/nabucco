@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12244"
+occurrence_id: "3757"
+short_title: "JSJ 4 (1973), 184-191"
+author: "Coogan, Michael David"
+publication_year: "1973"
+title: "Patterns in Jewish Personal Names in the Diaspora"
+volume_no_: "4"
+pages: "184-191"
+journal: "Journal for the Study of Judaism"
+title: "Patterns in Jewish Personal Names in the Diaspora"
+previous_item: "12247"
+---

@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16630"
+occurrence_id: "471"
+short_title: "Kohlmeyer 1991"
+author: "Kohlmeyer, Kay "
+publication_year: "1991"
+title: "Wiedererstehendes Babylon. Eine antike Weltstadt im Blick der Forschung"
+title: "Wiedererstehendes Babylon. Eine antike Weltstadt im Blick der Forschung"
+previous_item: "16633"
+---

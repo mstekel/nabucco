@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12448"
+occurrence_id: "1852"
+short_title: "Dialogues d'Histoire ancienne 12 (1986), 33-48"
+author: "Briant, Pierre"
+publication_year: "1986"
+title: "Guerre, tribut et forces productives dans l'empire achéménide"
+volume_no_: "12"
+pages: "33-48"
+journal: "Dialogues d'Histoire Ancienne"
+title: "Guerre, tribut et forces productives dans l'empire achéménide"
+previous_item: "12451"
+---

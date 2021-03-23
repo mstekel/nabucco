@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34402"
+place_id: "328"
+parent_id: "40"
+place_name: "Bīt-Nata-el"
+title: "Bīt-Nata-el"
+previous_item: "34405"
+---

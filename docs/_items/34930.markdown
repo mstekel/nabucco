@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "34930"
+place_id: "1514"
+parent_id: "1470"
+place_name: "Kabbartu"
+related_objects: "7892"
+title: "Kabbartu"
+previous_item: "34933"
+---

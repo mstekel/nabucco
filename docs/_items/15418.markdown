@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15418"
+occurrence_id: "2808"
+short_title: "OLZ 82 (1987), 35"
+author: "Brentjes, Burchard"
+publication_year: "1987"
+title: "Rv. E. Carter and M.W. Stolper, Elam (1984)"
+volume_no_: "82"
+pages: "35"
+journal: "Orientalistische Literaturzeitung"
+title: "Rv. E. Carter and M.W. Stolper, Elam (1984)"
+previous_item: "15421"
+---

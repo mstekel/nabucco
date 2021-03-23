@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19081"
+occurrence_id: "4836"
+short_title: "Dandamayev 1968"
+author: "Dandamayev, Muhammed A."
+publication_year: "1968"
+title: "Bagasarū ganzabara"
+pages: "235-239"
+editor: "Lochner von Hüttenbach, Fritz"
+book: "Studien zur Sprachwissenschaft und Kulturkunde, Gedenkschrift für Wilhelm Brandenstein (1898-1967) (Innsbruck)"
+title: "Bagasarū ganzabara"
+previous_item: "19084"
+---

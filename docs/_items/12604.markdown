@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "12604"
+occurrence_id: "2690"
+short_title: "NABU 2006/8"
+author: "Wallenfels, Ronald"
+title: "Anu-ah-tuqqin reconsidered"
+volume_no_: "8"
+publication_year: "2006"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Anu-ah-tuqqin reconsidered"
+previous_item: "12607"
+---

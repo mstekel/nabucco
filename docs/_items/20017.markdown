@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20017"
+occurrence_id: "4328"
+short_title: "Ebeling 1959"
+author: "Ebeling, Erich"
+publication_year: "1959"
+title: "Freilassung"
+pages: "111-112"
+editor: "Meissner, Bruno"
+book: "Reallexikon der Assyriologie 3 (1959)"
+title: "Freilassung"
+previous_item: "20020"
+---

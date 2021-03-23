@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "21019"
+occurrence_id: "4156"
+short_title: "Kuhrt 2010"
+author: "Kuhrt, Amélie"
+publication_year: "2010"
+title: "Achaemenid Images of Royalty and Empire."
+pages: "87-105"
+editor: "Lanfranchi, Giovanni , B."
+title: "Achaemenid Images of Royalty and Empire."
+previous_item: "21022"
+---

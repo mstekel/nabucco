@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9754"
+occurrence_id: "2362"
+short_title: "JNES 69 (2010), 118"
+author: "Boiy, Tom"
+publication_year: "2010"
+title: "Rv. G.G. Aperghis, the Seleukid Royal Economy: the Finances and Financial Administration of the Seleukid Empire"
+volume_no_: "69"
+pages: "118"
+journal: "Journal of Near Eastern Studies"
+title: "Rv. G.G. Aperghis, the Seleukid Royal Economy: the Finances and Financial Administration of the Seleukid Empire"
+previous_item: "9757"
+---

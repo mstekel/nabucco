@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20638"
+occurrence_id: "4331"
+short_title: "Leichty 1996"
+author: "Leichty, Erle V."
+publication_year: "1996"
+title: "angurinnu"
+pages: "233-234"
+editor: "Ambros, Arne, A."
+book: "Festschrift Hirsch, WZKM 86 (Wien)"
+title: "angurinnu"
+previous_item: "20641"
+---

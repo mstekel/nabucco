@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21157"
+occurrence_id: "4894"
+short_title: "Czechowicz 2002"
+author: "Czechowicz, Nadja"
+publication_year: "2002"
+title: "Zwei Frauengeschichten aus den späten Jahren von Nebukadnezzar II. Probleme der Interpretation"
+pages: "113-116"
+editor: "Whiting, Robert McCray"
+book: "Sex and Gender in the Ancient Near East, RAI 47/I (Helsinki)"
+title: "Zwei Frauengeschichten aus den späten Jahren von Nebukadnezzar II. Probleme der Interpretation"
+previous_item: "21160"
+---

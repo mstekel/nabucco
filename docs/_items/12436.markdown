@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12436"
+occurrence_id: "1787"
+short_title: "BSOAS 45 (1982), 345"
+author: "Wiseman, Donald J."
+publication_year: "1982"
+title: "Rv. C.B.F. Walker, Cuneiform Brick Inscriptions in the British Museum, the Ashmolean Museum, Oxford, the City of Birmingham Museums and Art Gallery, the City of Bristol Museum and Art Gallery"
+volume_no_: "45"
+pages: "345"
+journal: "Bulletin of the School of Oriental and African Studies"
+title: "Rv. C.B.F. Walker, Cuneiform Brick Inscriptions in the British Museum, the Ashmolean Museum, Oxford, the City of Birmingham Museums and Art Gallery, the City of Bristol Museum and Art Gallery"
+previous_item: "12439"
+---

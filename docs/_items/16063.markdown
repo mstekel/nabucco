@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16063"
+occurrence_id: "3262"
+short_title: "Transeuphratène 14 (1998), 33-77"
+author: "Aggoula, Basile"
+publication_year: "1998"
+title: "L´Esagil de Shamash ou le grand temple de Hatra"
+volume_no_: "14"
+pages: "33-77"
+journal: "Transeuphratène"
+title: "L´Esagil de Shamash ou le grand temple de Hatra"
+previous_item: "16066"
+---

@@ -1,0 +1,10 @@
+---
+layout: "glossary"
+slug: "35677"
+concept_id: "1246"
+label: "Deposit"
+hierarchy: "Content type"
+type: "172"
+title: "Deposit"
+previous_item: "35680"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14209"
+occurrence_id: "2322"
+short_title: "JNES 50 (1991), 107-120"
+author: "Rochberg-Halton, Francesca"
+publication_year: "1991"
+title: "Between Observation and theory in Babylonian Astronomical Texts"
+volume_no_: "50"
+pages: "107-120"
+journal: "Journal of Near Eastern Studies"
+title: "Between Observation and theory in Babylonian Astronomical Texts"
+previous_item: "14212"
+---

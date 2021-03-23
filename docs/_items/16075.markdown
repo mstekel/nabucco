@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16075"
+occurrence_id: "3328"
+short_title: "WeOr 25 (1994), 150-152"
+author: "Zadok, Ran"
+publication_year: "1994"
+title: "Rv. G. Frame, Babylonia 689-627 B.C. A Political History (PIHANS 69, 1992)"
+volume_no_: "25"
+pages: "150-152"
+journal: "Die Welt des Orients"
+title: "Rv. G. Frame, Babylonia 689-627 B.C. A Political History (PIHANS 69, 1992)"
+previous_item: "16078"
+---

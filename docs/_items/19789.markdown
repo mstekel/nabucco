@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "19789"
+occurrence_id: "4199"
+short_title: "Scholz 1983"
+author: "Scholz, Bernhard"
+publication_year: "1983"
+title: "Die Verwandtschaft des Anu-uballṭ-KÉPHALON"
+pages: "315-321"
+editor: "Seybold, Irmtraut "
+title: "Die Verwandtschaft des Anu-uballṭ-KÉPHALON"
+previous_item: "19792"
+---

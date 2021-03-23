@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12142"
+occurrence_id: "3207"
+short_title: "Sprache 18 (1972), 49-52"
+author: "Schmitt, Rüdiger"
+publication_year: "1972"
+title: "Persepolitanisches I"
+volume_no_: "18"
+pages: "49-52"
+journal: "Sprache"
+title: "Persepolitanisches I"
+previous_item: "12145"
+---

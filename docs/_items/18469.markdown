@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18469"
+occurrence_id: "723"
+short_title: "Falkenstein 1941"
+author: "Falkenstein, Adam "
+publication_year: "1941"
+title: "Topographie von Uruk. 1. Teil: Uruk zur Seleukidenzeit, ADFU 3 (Leipzig)"
+title: "Topographie von Uruk. 1. Teil: Uruk zur Seleukidenzeit, ADFU 3 (Leipzig)"
+previous_item: "18472"
+---

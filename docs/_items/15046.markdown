@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15046"
+occurrence_id: "3826"
+short_title: "Phoenix 36/2 (1991), 51-63"
+author: "van der Spek, Robartus"
+publication_year: "1991"
+title: "«Is dit niet het grote Babylon, dat ik gebouwd heb?»"
+volume_no_: "36/2"
+pages: "51-63"
+journal: "Phoenix"
+title: "«Is dit niet het grote Babylon, dat ik gebouwd heb?»"
+previous_item: "15049"
+---

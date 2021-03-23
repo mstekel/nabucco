@@ -1,0 +1,12 @@
+---
+layout: "bibliography"
+slug: "10615"
+occurrence_id: "3995"
+short_title: "NABU 2015/84"
+author: "Mitsuma, Yasuyuki"
+publication_year: "2015"
+title: "New Dating of the Late Babylonian Astronomical Diary -180A"
+volume_no_: "2015/84"
+title: "New Dating of the Late Babylonian Astronomical Diary -180A"
+previous_item: "10618"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11647"
+occurrence_id: "3548"
+short_title: "ZDMG 113 (1964), 628-629"
+author: "Petri, W."
+publication_year: "1964"
+title: "Rv. B. Tuckerman, Planetary, Lunar and Solar Positions, 601 B.C. to A.D. 1"
+volume_no_: "113"
+pages: "628-629"
+journal: "Zeitschrift der Deutschen Morgenländischen Gesellschaft"
+title: "Rv. B. Tuckerman, Planetary, Lunar and Solar Positions, 601 B.C. to A.D. 1"
+previous_item: "11650"
+---

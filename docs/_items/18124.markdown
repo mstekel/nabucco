@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18124"
+occurrence_id: "4092"
+short_title: "Milano 2012"
+author: "Milano, Lucio "
+publication_year: "2012"
+title: "Il Vicino Oriente antico dalle origini ad Alessandro Magno (Milan)"
+title: "Il Vicino Oriente antico dalle origini ad Alessandro Magno (Milan)"
+previous_item: "18127"
+---

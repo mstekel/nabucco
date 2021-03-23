@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "14275"
+occurrence_id: "2677"
+short_title: "NABU 2005/58"
+author: "Tarasewicz, Radosław"
+publication_year: "2009"
+title: "A new data concerning qīpu of the Ebabbara Temple from Sippar"
+volume_no_: "58"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "A new data concerning qīpu of the Ebabbara Temple from Sippar"
+previous_item: "14278"
+---

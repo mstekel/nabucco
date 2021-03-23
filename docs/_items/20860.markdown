@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20860"
+occurrence_id: "4413"
+short_title: "Sarkisjan 1981"
+author: "Sarkisjan, Gagik Ch."
+publication_year: "1981"
+title: "Die Sklaven in Uruk der hellenistischen Zeit"
+pages: "138-143"
+editor: "Hirsch, Hans"
+book: "Vorträge gehalten auf der 28. Rencontre Assyriologique Internationale in Wien 1981, AfO Beiheft 19, RAI 28 (Wien)"
+title: "Die Sklaven in Uruk der hellenistischen Zeit"
+previous_item: "20863"
+---

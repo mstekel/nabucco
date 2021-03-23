@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13894"
+occurrence_id: "3632"
+short_title: "BIES 20 (1956), 179-187 [Hebrew version: IEJ 6 (1956), 246-256]"
+author: "Malamat, Abraham"
+publication_year: "1956"
+title: "A New Record of Nebuchadrezzar´s Palestinian Campaigns"
+volume_no_: "20"
+pages: "179-187"
+journal: "Bulletin of the Israel Exploration Society"
+title: "A New Record of Nebuchadrezzar´s Palestinian Campaigns"
+previous_item: "13897"
+---

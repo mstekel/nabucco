@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21655"
+occurrence_id: "4240"
+short_title: "Ambos 2010"
+author: "Ambos, Claus"
+publication_year: "2010"
+title: "Building Rituals from the First Millennium BC"
+pages: "221-237"
+editor: "Novotny, Jamie R."
+book: "From the foundations to the Crenellations. Essays on Temple Building in the Ancient Near East and Hebrew Bible, AOAT 366 (Münster)"
+title: "Building Rituals from the First Millennium BC"
+previous_item: "21658"
+---

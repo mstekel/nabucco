@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14929"
+occurrence_id: "3196"
+short_title: "Société Jean Bodin pour l'histoire comparative des institutions. Recueils 11 (1959), 79-94"
+author: "Cardascia, Guillaume"
+publication_year: "1959"
+title: "Le statut de la femme dans les droits cunéiformes"
+volume_no_: "11"
+pages: "79-94"
+journal: "Société Jean Bodin pour l'histoire comparative des institutions."
+title: "Le statut de la femme dans les droits cunéiformes"
+previous_item: "14932"
+---

@@ -1,0 +1,15 @@
+---
+layout: "bibliography"
+slug: "14533"
+occurrence_id: "171"
+short_title: "Langdon, JRAS 2"
+author: "Langdon, Stephen.H."
+publication_year: "1928"
+title: "Kandalānu and Ašurbanipal"
+volume_no_: "2"
+pages: "321-325"
+related_objects: "5652"
+journal: "The Journal of the Royal Asiatic Society of Great Britain and Ireland"
+title: "Kandalānu and Ašurbanipal"
+previous_item: "14536"
+---

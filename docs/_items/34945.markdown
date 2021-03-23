@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34945"
+place_id: "151"
+parent_id: "40"
+place_name: "Appāru-ša-Bīt-Enlil"
+title: "Appāru-ša-Bīt-Enlil"
+previous_item: "34948"
+---

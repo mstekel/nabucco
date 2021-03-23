@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16270"
+occurrence_id: "1356"
+short_title: "AMI NF 7 (1974 publ. 1975), 121-134"
+author: "Hinz, Walther"
+publication_year: "1974 publ. 1975"
+title: "Die Behistun-Inschrift des Darius in ihrer ursprünglichen Fassung"
+volume_no_: "7"
+pages: "121-134"
+journal: "Archäologische Mitteilungen aus Iran Neue Folge"
+title: "Die Behistun-Inschrift des Darius in ihrer ursprünglichen Fassung"
+previous_item: "16273"
+---

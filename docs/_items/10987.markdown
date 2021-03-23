@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10987"
+occurrence_id: "2997"
+short_title: "RA 100 (2006), 161-176"
+author: "Joannès, Francis"
+publication_year: "2006"
+title: "Chroniques Bibliographiques 8. Culture matérielle et archives privées en Babylonie récente"
+volume_no_: "100"
+pages: "161-176"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "Chroniques Bibliographiques 8. Culture matérielle et archives privées en Babylonie récente"
+previous_item: "10990"
+---

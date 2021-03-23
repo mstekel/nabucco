@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7636"
+occurrence_id: "3039"
+short_title: "RA 57 (1963), 99-100"
+author: "Lambert, Maurice"
+publication_year: "1963"
+title: "Rv. L.Woolley and M.E.L. Mallowan, the Neo-Babylonian and Persian Periods (= UE IX)"
+volume_no_: "57"
+pages: "99-100"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "Rv. L.Woolley and M.E.L. Mallowan, the Neo-Babylonian and Persian Periods (= UE IX)"
+previous_item: "7639"
+---

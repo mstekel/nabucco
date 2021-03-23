@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11317"
+occurrence_id: "1769"
+short_title: "BSA 7 (1993), 219-258"
+author: "van Driel, Govert"
+publication_year: "1993"
+title: "Neo-Babylonian Sheep and Goats"
+volume_no_: "7"
+pages: "219-258"
+journal: "Bulletin on Sumerian Agriculture"
+title: "Neo-Babylonian Sheep and Goats"
+previous_item: "11320"
+---

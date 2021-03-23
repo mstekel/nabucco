@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11809"
+occurrence_id: "1414"
+short_title: "AoF 13 (1986), 206-211"
+author: "Frame, Grant"
+publication_year: "1986"
+title: "A Kudurru Fragment from the Reign of Adad-Apla-Iddina"
+volume_no_: "13"
+pages: "206-211"
+journal: "Altorientalische Forschungen"
+title: "A Kudurru Fragment from the Reign of Adad-Apla-Iddina"
+previous_item: "11812"
+---

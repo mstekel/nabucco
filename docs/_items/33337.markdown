@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33337"
+place_id: "1018"
+parent_id: "61"
+place_name: "Hibṭūni"
+title: "Hibṭūni"
+previous_item: "33340"
+---

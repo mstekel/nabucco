@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9952"
+occurrence_id: "3430"
+short_title: "ZA 66 (1976), 280-291"
+author: "Sack, Ronald H."
+publication_year: "1976"
+title: "Some Remarks on Sin-Iddina and Zērija, qīpu and šatammu of Eanna in Erech ... 562-[5]56 B.C.,"
+volume_no_: "66"
+pages: "280-291"
+journal: "Zeitschrift für Assyriologie"
+title: "Some Remarks on Sin-Iddina and Zērija, qīpu and šatammu of Eanna in Erech ... 562-[5]56 B.C.,"
+previous_item: "9955"
+---

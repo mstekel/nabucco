@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17086"
+occurrence_id: "915"
+short_title: "Wolski 1993"
+author: "Wolski, Józef "
+publication_year: "1993"
+title: "L´empire des Arsacides, AcIr 32 (Lovanii)"
+title: "L´empire des Arsacides, AcIr 32 (Lovanii)"
+previous_item: "17089"
+---

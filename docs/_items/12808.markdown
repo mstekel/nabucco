@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12808"
+occurrence_id: "3790"
+short_title: "MSS 41 (1982), 35-48"
+author: "Forssman, Bernhard"
+publication_year: "1982"
+title: "Zur altpersischen Syntax: DB I 50"
+volume_no_: "41"
+pages: "35-48"
+journal: "Münchener Studien zur Sprachwissenschaft"
+title: "Zur altpersischen Syntax: DB I 50"
+previous_item: "12811"
+---

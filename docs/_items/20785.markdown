@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20785"
+occurrence_id: "5116"
+short_title: "Dalley 1997"
+author: "Dalley, Stephanie"
+publication_year: "1997"
+title: "The Hanging Gardens of Babylon at Nineveh"
+pages: "19-24"
+editor: "Hauptmann, H."
+book: "Assyrien im Wandel der Zeiten. RAI 39. (Heidelberg)"
+title: "The Hanging Gardens of Babylon at Nineveh"
+previous_item: "20788"
+---

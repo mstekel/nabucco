@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11377"
+occurrence_id: "2090"
+short_title: "JAOS 120 (2000), 63-67"
+author: "MacGinnis, John"
+publication_year: "2000"
+title: "Some Comments on the Ebabbar in the Neo-Babylonian Period. Rv. A.C.V.M. Bongenaar. The Neo-Babylonian Ebabbar Temple at Sippar: its Administration and its Prosopography, PIHANS 80 (Leiden 1997)"
+volume_no_: "120"
+pages: "63-67"
+journal: "Journal of the American Oriental Society"
+title: "Some Comments on the Ebabbar in the Neo-Babylonian Period. Rv. A.C.V.M. Bongenaar. The Neo-Babylonian Ebabbar Temple at Sippar: its Administration and its Prosopography, PIHANS 80 (Leiden 1997)"
+previous_item: "11380"
+---

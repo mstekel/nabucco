@@ -1,0 +1,12 @@
+---
+layout: "bibliography"
+slug: "10618"
+occurrence_id: "4011"
+short_title: "NABU 2013/14"
+author: "Quillien, Louise"
+publication_year: "2013"
+title: "túg-LUM-LUM = túg-guz-guz; a new interpretation of the \"guzguzu\" garment in the first millennium BC Mesopotamia"
+volume_no_: "2013/14"
+title: "túg-LUM-LUM = túg-guz-guz; a new interpretation of the \"guzguzu\" garment in the first millennium BC Mesopotamia"
+previous_item: "10621"
+---

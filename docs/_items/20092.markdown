@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20092"
+occurrence_id: "4729"
+short_title: "van Ess 2014"
+author: "Ess, Margarete, van"
+publication_year: "2013"
+title: "Babylonische Tempel zwischen Ur III- und neubabylonischer Zeit: Zu einigen Aspekten ihrer planerischen Gestaltung und religiösen Konzeption"
+pages: "59-84"
+editor: "Löhnert, Anne "
+book: "Tempel im Alten Orient. 7. Internationales Colloquium der Deutschen Orient-Gesellschaft 11.-13. Oktober 2009, München, Colloquien der Deutschen Orient-Gesellschaft (Wiesbaden)"
+title: "Babylonische Tempel zwischen Ur III- und neubabylonischer Zeit: Zu einigen Aspekten ihrer planerischen Gestaltung und religiösen Konzeption"
+previous_item: "20095"
+---

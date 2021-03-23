@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19642"
+occurrence_id: "4519"
+short_title: "Hunger 2012"
+author: "Hunger, Hermann"
+publication_year: "2012"
+title: "Die Wissenschaft der babylonischen Astronomen"
+pages: "95-103"
+editor: "Neumann, Hans"
+book: "Wissenskultur im Alten Orient. Weltanschauung, Wissenschaften, Techniken, Technologien. 4. Internationales Colloquium der Deutschen Orient-Gesellschaft 20.-22. Februar 2002, Münster, Colloquien der Deutschen Orient-Gesellschaft 4 (Wiesbaden)"
+title: "Die Wissenschaft der babylonischen Astronomen"
+previous_item: "19645"
+---

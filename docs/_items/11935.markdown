@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11935"
+occurrence_id: "2091"
+short_title: "JAOS 120/1 (2000), 102-103"
+author: "Young, Theodore Cuyler Jr."
+publication_year: "2000"
+title: "Rv. H. Sancisi-Weerdenburg, A. Kuhrt and M. Cool-Root (eds), Achaemenid History, VIII: Continuity and Change"
+volume_no_: "120/1"
+pages: "102-103"
+journal: "Journal of the American Oriental Society"
+title: "Rv. H. Sancisi-Weerdenburg, A. Kuhrt and M. Cool-Root (eds), Achaemenid History, VIII: Continuity and Change"
+previous_item: "11938"
+---

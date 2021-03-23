@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12823"
+occurrence_id: "3870"
+short_title: "WOO 3 (2004), 101-116"
+author: "Haider, Peter W."
+publication_year: "2004"
+title: "Religiöse Vorstellungen und Praktiken in Mesopotamien von der hellenistischen Zeit bis in die parhische Ära."
+volume_no_: "3"
+pages: "101-116"
+journal: "Wiener offene Orientalistik"
+title: "Religiöse Vorstellungen und Praktiken in Mesopotamien von der hellenistischen Zeit bis in die parhische Ära."
+previous_item: "12826"
+---

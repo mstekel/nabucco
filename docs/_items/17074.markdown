@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17074"
+occurrence_id: "848"
+short_title: "Meyer 1962"
+author: "Meyer, Rudolf "
+publication_year: "1962"
+title: "Das Gebet des Nabonid. Eine in den Qumran-Handschriften wiederentdeckte Weisheitserzählung, SSAW 107/3 (Berlin)"
+title: "Das Gebet des Nabonid. Eine in den Qumran-Handschriften wiederentdeckte Weisheitserzählung, SSAW 107/3 (Berlin)"
+previous_item: "17077"
+---

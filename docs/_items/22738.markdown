@@ -1,0 +1,9 @@
+---
+layout: "archive"
+slug: "22738"
+archive_id: "100"
+archive_name: "Rabâ-ša-Ninurta"
+is_part_of: "Babylon"
+title: "Rabâ-ša-Ninurta"
+previous_item: "22741"
+---

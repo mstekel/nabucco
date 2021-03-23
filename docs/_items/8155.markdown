@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8155"
+occurrence_id: "2811"
+short_title: "OLZ 83 (1988), 670-672"
+author: "Fischer, H."
+publication_year: "1988"
+title: "Rv. J. Oelsner, Materialien zur babylonischen Gesellschaft und Kultur in hellenistischer Zeit (1986)"
+volume_no_: "83"
+pages: "670-672"
+journal: "Orientalistische Literaturzeitung"
+title: "Rv. J. Oelsner, Materialien zur babylonischen Gesellschaft und Kultur in hellenistischer Zeit (1986)"
+previous_item: "8158"
+---

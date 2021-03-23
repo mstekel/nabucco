@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19240"
+occurrence_id: "4581"
+short_title: "Oelsner 2000"
+author: "Oelsner, Joachim"
+publication_year: "2000"
+title: "Von Iqīšâ und einigen Underen spätgeborenen Babyloniern"
+pages: "797-814"
+editor: "Graziani, Simonetta"
+book: "Studi sul vicino oriente antico dedicati alla memoria di Luigi Cagni (Napoli)"
+title: "Von Iqīšâ und einigen Underen spätgeborenen Babyloniern"
+previous_item: "19243"
+---

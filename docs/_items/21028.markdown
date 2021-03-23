@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "21028"
+occurrence_id: "4205"
+short_title: "Arnold and Michalowski 2006"
+author: "Arnold, Bill T."
+publication_year: "2006"
+title: "Achaemenid Period Historical Texts Concerning Mesopotamia"
+pages: "407-430"
+editor: "Chavalas, Mark W."
+title: "Achaemenid Period Historical Texts Concerning Mesopotamia"
+previous_item: "21031"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7996"
+occurrence_id: "1956"
+short_title: "Iraq 36 (1974), 249-260"
+author: "Wiseman, Donald J."
+publication_year: "1974"
+title: "Murder in Mesopotamia"
+volume_no_: "36"
+pages: "249-260"
+journal: "Iraq"
+title: "Murder in Mesopotamia"
+previous_item: "7999"
+---

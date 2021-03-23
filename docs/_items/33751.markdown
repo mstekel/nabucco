@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33751"
+place_id: "550"
+parent_id: "40"
+place_name: "Išqallūnu"
+title: "Išqallūnu"
+previous_item: "33754"
+---

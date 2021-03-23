@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11527"
+occurrence_id: "2898"
+short_title: "Or 54 (1985), 203-215"
+author: "Mayer, Werner R."
+publication_year: "1985"
+title: "Zur Unterteilung des Sekels im spätzeitlichen Babylonien"
+volume_no_: "54"
+pages: "203-215"
+journal: "Orientalia"
+title: "Zur Unterteilung des Sekels im spätzeitlichen Babylonien"
+previous_item: "11530"
+---

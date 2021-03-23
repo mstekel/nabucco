@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8785"
+occurrence_id: "3185"
+short_title: "Scripta Minora 1 (1996), 35-44"
+author: "Maniaczyk, Jaroslaw"
+publication_year: "1996"
+title: "The Northern Group of the Babylonian Family of Šigūa. A Contribution to the Studies of Babylonian Society in the Second Half of the First Millennium B.C."
+volume_no_: "1"
+pages: "35-44"
+journal: "Scripta Minora"
+title: "The Northern Group of the Babylonian Family of Šigūa. A Contribution to the Studies of Babylonian Society in the Second Half of the First Millennium B.C."
+previous_item: "8788"
+---

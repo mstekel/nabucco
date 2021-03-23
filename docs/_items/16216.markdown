@@ -1,0 +1,15 @@
+---
+layout: "bibliography"
+slug: "16216"
+occurrence_id: "175"
+short_title: "Jursa, Iraq 59"
+author: "Jursa, Michael"
+publication_year: "1997"
+title: "Neu- und spätbabylonische Texte aus den Sammlungen der Birmingham Museums and Art Gallery"
+volume_no_: "59"
+pages: "97-174"
+related_objects: "7680"
+journal: "Iraq"
+title: "Neu- und spätbabylonische Texte aus den Sammlungen der Birmingham Museums and Art Gallery"
+previous_item: "16219"
+---

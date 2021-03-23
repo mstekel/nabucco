@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7726"
+occurrence_id: "3525"
+short_title: "ZA 94 (2004), 155f."
+author: "Boardman, John"
+publication_year: "2004"
+title: "Rv. G. Lindström, Siegelabdrücke auf hellenistischen Tonbullen und Tontafeln. Ausgrabungen in Uruk-Warka Endberichte"
+volume_no_: "94"
+pages: "155ff."
+journal: "Zeitschrift für Assyriologie"
+title: "Rv. G. Lindström, Siegelabdrücke auf hellenistischen Tonbullen und Tontafeln. Ausgrabungen in Uruk-Warka Endberichte"
+previous_item: "7729"
+---

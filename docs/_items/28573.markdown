@@ -1,0 +1,15 @@
+---
+layout: "tablet"
+slug: "28573"
+object_id: "7631"
+museum_no_: "BM 34557"
+publication: "Cyr."
+text_number: "377"
+period: "Each"
+type_and_content: "Letters"
+transliteration: "Transliteration available on <a href=\"http://www.achemenet.com/fr/item/?/sources-textuelles/textes-par-regions/babylonie/sippar-et-sa-region/1673647\" target=\"_blank\">Achemenet</a>"
+publication_name: "Cyr. 377"
+archive: "Egibi/Nūr-Sîn"
+title: "BM 34557"
+previous_item: "28576"
+---

@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17710"
+occurrence_id: "803"
+short_title: "Hilprecht 1903a"
+author: "Hilprecht, Herman V. "
+publication_year: "1903"
+title: "Explorations in Bible Lands during the 19th century, BE series D1 (Philadelphia)"
+title: "Explorations in Bible Lands during the 19th century, BE series D1 (Philadelphia)"
+previous_item: "17713"
+---

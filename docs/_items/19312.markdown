@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19312"
+occurrence_id: "4965"
+short_title: "Vargyas 2010e"
+author: "Vargyas, Péter"
+publication_year: "2010"
+title: "Silver and Money n Achaemenid and Hellenistic Babylonia"
+pages: "121-146"
+editor: "Csabai, Zoltán"
+book: "From Elephantine to Babylon. Selected Studies of Péter Vargyas on Ancient Near Eastern Economy, Ancient Near Eastern and Mediterranean Studies 1 (Budapest)"
+title: "Silver and Money n Achaemenid and Hellenistic Babylonia"
+previous_item: "19315"
+---

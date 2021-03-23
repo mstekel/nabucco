@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34354"
+place_id: "1336"
+parent_id: "61"
+place_name: "Ukal[]"
+title: "Ukal[]"
+previous_item: "34357"
+---

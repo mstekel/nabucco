@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7999"
+occurrence_id: "1972"
+short_title: "Iraq 47 (1985), 1-13"
+author: "Al-Rawi, Farouk , N.H."
+publication_year: "1985"
+title: "Nabopolassar´s Restoration Work on the Wall Imgur-Enlil at Babylon"
+volume_no_: "47"
+pages: "1-13"
+journal: "Iraq"
+title: "Nabopolassar´s Restoration Work on the Wall Imgur-Enlil at Babylon"
+previous_item: "8002"
+---

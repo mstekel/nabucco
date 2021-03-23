@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15985"
+occurrence_id: "2841"
+short_title: "Or 17 (1948), 59-70"
+author: "Nicolò, Mariano, San"
+publication_year: "1948"
+title: "Haben die Babylonier Wachstafeln als Schriftträger gekannt?"
+volume_no_: "17"
+pages: "59-70"
+journal: "Orientalia"
+title: "Haben die Babylonier Wachstafeln als Schriftträger gekannt?"
+previous_item: "15988"
+---

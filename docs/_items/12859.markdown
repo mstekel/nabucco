@@ -1,0 +1,15 @@
+---
+layout: "bibliography"
+slug: "12859"
+occurrence_id: "167"
+short_title: "Waerzeggers, Akkadica 126"
+author: "Waerzeggers, Caroline"
+publication_year: "2005"
+title: "Neo-Babylonian Tablets in the Royal Museum of Art and History in Brussels"
+volume_no_: "126"
+pages: "133-158"
+related_objects: "5690"
+journal: "Akkadica"
+title: "Neo-Babylonian Tablets in the Royal Museum of Art and History in Brussels"
+previous_item: "12862"
+---

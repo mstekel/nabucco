@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34627"
+place_id: "382"
+parent_id: "40"
+place_name: "Bīt-Ussartu"
+title: "Bīt-Ussartu"
+previous_item: "34630"
+---

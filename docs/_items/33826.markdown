@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "33826"
+place_id: "1537"
+parent_id: "37"
+place_name: "Bit-Hahhūru"
+related_objects: "7302"
+title: "Bit-Hahhūru"
+previous_item: "33829"
+---

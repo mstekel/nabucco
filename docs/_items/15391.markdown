@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "15391"
+occurrence_id: "2663"
+short_title: "NABU 2004/58"
+author: "Jursa, Michael"
+title: "Ein Join zu BM 59771 (AfO Beih. 25 Nr. 54)."
+volume_no_: "58"
+publication_year: "2004"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Ein Join zu BM 59771 (AfO Beih. 25 Nr. 54)."
+previous_item: "15394"
+---

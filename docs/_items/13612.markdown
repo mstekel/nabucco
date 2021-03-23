@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13612"
+occurrence_id: "2110"
+short_title: "JAOS 42 (1922), 305-316"
+author: "Dougherty, Raymond Ph."
+publication_year: "1922"
+title: "Nabonidus in Arabia"
+volume_no_: "42"
+pages: "305-316"
+journal: "Journal of the American Oriental Society"
+title: "Nabonidus in Arabia"
+previous_item: "13615"
+---

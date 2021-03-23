@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34324"
+place_id: "853"
+parent_id: "61"
+place_name: "Bīt-bārî"
+title: "Bīt-bārî"
+previous_item: "34327"
+---

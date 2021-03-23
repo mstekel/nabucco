@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18898"
+occurrence_id: "4963"
+short_title: "Vargyas 2010c"
+author: "Vargyas, Péter"
+publication_year: "2010"
+title: "Les prix des denrées alimentaires de première nécessité en Babylonie á l’époque achéménide et hellénistique"
+pages: "55-75"
+editor: "Csabai, Zoltán"
+book: "From Elephantine to Babylon. Selected Studies of Péter Vargyas on Ancient Near Eastern Economy, Ancient Near Eastern and Mediterranean Studies 1 (Budapest)"
+title: "Les prix des denrées alimentaires de première nécessité en Babylonie á l’époque achéménide et hellénistique"
+previous_item: "18901"
+---

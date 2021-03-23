@@ -1,0 +1,12 @@
+---
+layout: "bibliography"
+slug: "7807"
+occurrence_id: "3957"
+short_title: "NABU 2013/33"
+author: "Hackl, Johannes"
+publication_year: "2013"
+title: "On the etymology of shekel fractions in the Hellenistic period"
+volume_no_: "2013/33"
+title: "On the etymology of shekel fractions in the Hellenistic period"
+previous_item: "7810"
+---

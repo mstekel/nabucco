@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15331"
+occurrence_id: "2340"
+short_title: "JNES 59 (2000), 40-43"
+author: "van de Mieroop, Marc"
+publication_year: "2000"
+title: "Rv. M. Hudson and B.D. Levine, Privatization in the Ancient Near East and Classical World (1996)"
+volume_no_: "59"
+pages: "40-43"
+journal: "Journal of Near Eastern Studies"
+title: "Rv. M. Hudson and B.D. Levine, Privatization in the Ancient Near East and Classical World (1996)"
+previous_item: "15334"
+---

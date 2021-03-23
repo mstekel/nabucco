@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15544"
+occurrence_id: "3490"
+short_title: "ZA 87 (1997), 258-270"
+author: "Vallat, François"
+publication_year: "1997"
+title: "La lettre élamite d´Arménie"
+volume_no_: "87"
+pages: "258-270"
+journal: "Zeitschrift für Assyriologie"
+title: "La lettre élamite d´Arménie"
+previous_item: "15547"
+---

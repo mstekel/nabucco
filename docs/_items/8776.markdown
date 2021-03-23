@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8776"
+occurrence_id: "3137"
+short_title: "Res Orientales 10 (1997), 89-107"
+author: "Mollo, Paolo"
+publication_year: "1997"
+title: "Sigilli e timbri ufficiali nella Mesopotamia Seleucide"
+volume_no_: "10"
+pages: "89-107"
+journal: "Res Orientales"
+title: "Sigilli e timbri ufficiali nella Mesopotamia Seleucide"
+previous_item: "8779"
+---

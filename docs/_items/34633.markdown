@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34633"
+place_id: "478"
+parent_id: "40"
+place_name: "Hindāja"
+title: "Hindāja"
+previous_item: "34636"
+---

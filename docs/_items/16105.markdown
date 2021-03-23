@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16105"
+occurrence_id: "3491"
+short_title: "ZA 87 (1997), 277-279"
+author: "Streck, Michael , P."
+publication_year: "1997"
+title: "Rv. J. McGinnis, Letter Orders from Sippar (1995)"
+volume_no_: "87"
+pages: "277-279"
+journal: "Zeitschrift für Assyriologie"
+title: "Rv. J. McGinnis, Letter Orders from Sippar (1995)"
+previous_item: "16108"
+---

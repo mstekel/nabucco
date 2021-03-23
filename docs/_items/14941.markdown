@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14941"
+occurrence_id: "3260"
+short_title: "Transeuphratène 13 (1997), 141-153"
+author: "Joannès, Francis"
+publication_year: "1997"
+title: "Le monde occidental vu de Mésopotamie, de l´époque néo-babylonienne à l´époque hellénistique"
+volume_no_: "13"
+pages: "141-153"
+journal: "Transeuphratène"
+title: "Le monde occidental vu de Mésopotamie, de l´époque néo-babylonienne à l´époque hellénistique"
+previous_item: "14944"
+---

@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17941"
+occurrence_id: "623"
+short_title: "von der Osten 1966"
+author: "von der Osten, Hans Henning "
+publication_year: "1966"
+title: "Die Welt der Perser (Grosse Kulturen der Frühzeit)"
+title: "Die Welt der Perser (Grosse Kulturen der Frühzeit)"
+previous_item: "17944"
+---

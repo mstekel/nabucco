@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "19315"
+occurrence_id: "4981"
+short_title: "Villard 2000"
+author: "Villard, Pierre"
+publication_year: "2000"
+title: "Le chien dans la documentation néo-assyrienne"
+pages: "235-249"
+book: "Topoi Supplément 2, Les animaux et les hommes dans le monde syro-mésopotamien aux époques historiques (Lyon)"
+title: "Le chien dans la documentation néo-assyrienne"
+previous_item: "19318"
+---

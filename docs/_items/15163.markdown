@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15163"
+occurrence_id: "1436"
+short_title: "AoF 4 (1976), 131-149"
+author: "Oelsner, Joachim"
+publication_year: "1976"
+title: "Erwägungen zum Gesellschaftsaufbau Babyloniens von der neubabylonischen bis zur achämenidischen Zeit (7.-4.Jh. v.u.Z.)"
+volume_no_: "4"
+pages: "131-149"
+journal: "Altorientalische Forschungen"
+title: "Erwägungen zum Gesellschaftsaufbau Babyloniens von der neubabylonischen bis zur achämenidischen Zeit (7.-4.Jh. v.u.Z.)"
+previous_item: "15166"
+---

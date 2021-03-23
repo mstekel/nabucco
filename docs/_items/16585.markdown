@@ -1,0 +1,12 @@
+---
+layout: "bibliography"
+slug: "16585"
+occurrence_id: "4118"
+short_title: "Moldenke 1893"
+author: "Moldenke, Alfred B. "
+publication_year: "1893"
+title: "Cuneiform Texts in the Metropolitan Museum of Art"
+related_objects: "5563"
+title: "Cuneiform Texts in the Metropolitan Museum of Art"
+previous_item: "16588"
+---

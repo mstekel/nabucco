@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14323"
+occurrence_id: "2939"
+short_title: "Or 74 (2005), 440-442"
+author: "Koch, Heidemarie"
+publication_year: "2005"
+title: "Rv. P. Briant, Darius dans l'ombre d'Alexandre."
+volume_no_: "74"
+pages: "440-442"
+journal: "Orientalia"
+title: "Rv. P. Briant, Darius dans l'ombre d'Alexandre."
+previous_item: "14326"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10777"
+occurrence_id: "1865"
+short_title: "EVO 18 (1995), 193-211"
+author: "D'Agostino, Franco"
+publication_year: "1995"
+title: "Nabonedo e il deserto (A proposito delle cause della caduta di Babilonia)"
+volume_no_: "18"
+pages: "193-211"
+journal: "Egitto e Vicino Oriente"
+title: "Nabonedo e il deserto (A proposito delle cause della caduta di Babilonia)"
+previous_item: "10780"
+---

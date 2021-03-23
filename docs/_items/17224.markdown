@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17224"
+occurrence_id: "4105"
+short_title: "CTMMA 4"
+author: "Jursa, Michael "
+publication_year: "2014"
+title: "Cuneiform Texts in the Metropolitan Museum of Art. Volume IV: The Ebabbar Temple Archive and Other Texts from the Fourth to the First Millennium B.C. (Cuneiform Texts in the Metropolitan Museum of Art)"
+title: "Cuneiform Texts in the Metropolitan Museum of Art. Volume IV: The Ebabbar Temple Archive and Other Texts from the Fourth to the First Millennium B.C. (Cuneiform Texts in the Metropolitan Museum of Art)"
+previous_item: "17227"
+---

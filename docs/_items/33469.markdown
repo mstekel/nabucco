@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "33469"
+place_id: "1366"
+parent_id: "49"
+place_name: "Kiš City"
+related_objects: "5526"
+title: "Kiš City"
+previous_item: "33472"
+---

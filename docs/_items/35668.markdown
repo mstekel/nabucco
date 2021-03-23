@@ -1,0 +1,10 @@
+---
+layout: "glossary"
+slug: "35668"
+concept_id: "1291"
+label: "Outgoing"
+hierarchy: "Content type"
+type: "172"
+title: "Outgoing"
+previous_item: "35671"
+---

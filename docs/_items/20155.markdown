@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20155"
+occurrence_id: "5065"
+short_title: "Schmitt 1995"
+author: "Schmitt, Rüdiger"
+publication_year: "1995"
+title: "Direkte und indirekte Rede im Altpersischen"
+pages: "239-247"
+editor: "Zinko, Christian"
+book: "Studia Onomastica et Indogermanica, Fs. Lochner von Hüttenbach (Graz)"
+title: "Direkte und indirekte Rede im Altpersischen"
+previous_item: "20158"
+---

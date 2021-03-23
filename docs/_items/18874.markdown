@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "18874"
+occurrence_id: "4835"
+short_title: "Dandamayev 1967a"
+author: "Dandamayev, Muhammed A."
+publication_year: "1967"
+title: "Ägyptische Deportierte im Babylonien des VI. and V. Jahrhunderts v. Chr. (in Russ.)"
+pages: "15-26"
+book: "Краткая Литературная Энциклопедия I (Москва 1962) [Kratkaja Literaturnaja Ènciklopedija I (Moskva 1962)]"
+title: "Ägyptische Deportierte im Babylonien des VI. and V. Jahrhunderts v. Chr. (in Russ.)"
+previous_item: "18877"
+---

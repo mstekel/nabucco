@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8224"
+occurrence_id: "3184"
+short_title: "SCO 45 (1995), 433-444"
+author: "del Monte, Giuseppe F."
+publication_year: "1995"
+title: "Antioco I Soter e i figli Seleuco e Antioco. Un nuovo testo da Babilonia"
+volume_no_: "45"
+pages: "433-444"
+journal: "Studi classici e orientali"
+title: "Antioco I Soter e i figli Seleuco e Antioco. Un nuovo testo da Babilonia"
+previous_item: "8227"
+---

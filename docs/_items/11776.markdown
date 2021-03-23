@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11776"
+occurrence_id: "1232"
+short_title: "AfO 44/45 (1997/1998), 176-185"
+author: "Oelsner, Joachim"
+publication_year: "1997-1998"
+title: "The 30-star-Catalogue HS 1897 and the Late Parallel BM 55502"
+volume_no_: "44-45"
+pages: "176-185"
+journal: "Archiv für Orientforschung"
+title: "The 30-star-Catalogue HS 1897 and the Late Parallel BM 55502"
+previous_item: "11779"
+---

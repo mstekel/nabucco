@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17734"
+occurrence_id: "4070"
+short_title: "YOS 20"
+author: "Doty, L. Timothy "
+publication_year: "2012"
+title: "Cuneiform Documents from Hellenyistic Uruk (Yale Oriental Series, Babylonian Texts)"
+title: "Cuneiform Documents from Hellenyistic Uruk (Yale Oriental Series, Babylonian Texts)"
+previous_item: "17737"
+---

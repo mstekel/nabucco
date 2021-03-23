@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8833"
+occurrence_id: "3444"
+short_title: "ZA 70 (1981), 246-257"
+author: "Oelsner, Joachim"
+publication_year: "1981"
+title: "Bestattungssitten im hellenistischen Babylon als historisches Problem"
+volume_no_: "70"
+pages: "246-257"
+journal: "Zeitschrift für Assyriologie"
+title: "Bestattungssitten im hellenistischen Babylon als historisches Problem"
+previous_item: "8836"
+---

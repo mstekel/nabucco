@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9289"
+occurrence_id: "2878"
+short_title: "Or 37 (1968), 290-303"
+author: "Stève, Marie-Joseph"
+publication_year: "1968"
+title: "Fragmenta Elamica"
+volume_no_: "37"
+pages: "290-303"
+journal: "Orientalia"
+title: "Fragmenta Elamica"
+previous_item: "9292"
+---

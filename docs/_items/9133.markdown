@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9133"
+occurrence_id: "2038"
+short_title: "JA 9 (1972), 94-101"
+author: "Demandt, Alexander"
+publication_year: "1972"
+title: "Die Ohren des falschen Smerdis"
+volume_no_: "9"
+pages: "94-101"
+journal: "Journal Asiatique"
+title: "Die Ohren des falschen Smerdis"
+previous_item: "9136"
+---

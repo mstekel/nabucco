@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "10897"
+occurrence_id: "2510"
+short_title: "NABU 1994/72"
+author: "Joannès, Francis"
+title: "Amours contrarièes"
+volume_no_: "72"
+publication_year: "1994"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Amours contrarièes"
+previous_item: "10900"
+---

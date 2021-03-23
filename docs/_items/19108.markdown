@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19108"
+occurrence_id: "4980"
+short_title: "Lecoq 1990"
+author: "Lecoq, Pierre"
+publication_year: "1990"
+title: "Paradis en vieux perse?"
+pages: "209-211"
+editor: "Vallat, François"
+book: "Contribution à l'histoire de l'Iran: Mélanges offertes à Jean Perrot, Fs.Perrot (Paris)"
+title: "Paradis en vieux perse?"
+previous_item: "19111"
+---

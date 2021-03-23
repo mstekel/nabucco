@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11575"
+occurrence_id: "3158"
+short_title: "RSO 33 (1958), 282-283"
+author: "Castellino, Giorgo R."
+publication_year: "1958"
+title: "Rv. R.A. Parker and W. Dubberstein, Babylonian Chronology 626 B.C. - A.D. 75"
+volume_no_: "33"
+pages: "282-283"
+journal: "Rivista degli studi orientali"
+title: "Rv. R.A. Parker and W. Dubberstein, Babylonian Chronology 626 B.C. - A.D. 75"
+previous_item: "11578"
+---

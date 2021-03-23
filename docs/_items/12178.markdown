@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12178"
+occurrence_id: "3401"
+short_title: "ZA 50 (1952), 203-213"
+author: "Ebeling, Erich"
+publication_year: "1952"
+title: "Die Rüstung eines babylonischen Panzerreiters nach einem Vertrage aus der Zeit Darius II."
+volume_no_: "50"
+pages: "203-213"
+journal: "Zeitschrift für Assyriologie"
+title: "Die Rüstung eines babylonischen Panzerreiters nach einem Vertrage aus der Zeit Darius II."
+previous_item: "12181"
+---

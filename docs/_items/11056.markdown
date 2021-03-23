@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11056"
+occurrence_id: "3367"
+short_title: "WZKM 71 (1979 publ. 1980), 206-209"
+author: "McEwan, Gilbert J.P."
+publication_year: "1979 publ. 1980"
+title: "Rv. R. Zadok, On West Semites in Babylonia during the Chaldean and Achaemenian Periods: An Onomastic Study"
+volume_no_: "71"
+pages: "206-209"
+journal: "Wiener Zeitschrift für die Kunde des Morgenlandes"
+title: "Rv. R. Zadok, On West Semites in Babylonia during the Chaldean and Achaemenian Periods: An Onomastic Study"
+previous_item: "11059"
+---

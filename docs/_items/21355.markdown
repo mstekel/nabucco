@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21355"
+occurrence_id: "4847"
+short_title: "Dandamayev 1982a"
+author: "Dandamayev, Muhammed A."
+publication_year: "1982"
+title: "The Neo-Babylonian Elders"
+pages: "38-41"
+editor: "Komoróczy, Géza"
+book: "Societies and Languages of the Ancient Near East Fs. Diakonoff (Warminster)"
+title: "The Neo-Babylonian Elders"
+previous_item: "21358"
+---

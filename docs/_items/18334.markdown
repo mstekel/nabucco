@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18334"
+occurrence_id: "662"
+short_title: "Dougherty 1923"
+author: "Dougherty, Raymond Ph. "
+publication_year: "1923"
+title: "The Shirkûtu of Babylonian Deities (YOS Researches 5/II)"
+title: "The Shirkûtu of Babylonian Deities (YOS Researches 5/II)"
+previous_item: "18337"
+---

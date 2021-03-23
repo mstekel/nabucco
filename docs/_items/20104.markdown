@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20104"
+occurrence_id: "4793"
+short_title: "Jursa 2011"
+author: "Jursa, Michael"
+publication_year: "2011"
+title: "\"Höflinge\" (ša rēši, ša rēš šarri, ustarbaru) in babylonischen Quellen des ersten Jahrtausends"
+pages: "159-173"
+editor: "Lanfranchi, Giovanni , B."
+book: "Ktesias’ Welt / Ctesias’ World, Classica et Orientalia 1 (Wiesbaden)"
+title: "\"Höflinge\" (ša rēši, ša rēš šarri, ustarbaru) in babylonischen Quellen des ersten Jahrtausends"
+previous_item: "20107"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19288"
+occurrence_id: "4837"
+short_title: "Dandamayev 1969"
+author: "Dandamayev, Muhammed A."
+publication_year: "1969"
+title: "Der Tempelzehnte in Babylonien während des 6.­4. Jh. v. u. Z."
+pages: "82-90"
+editor: "Stier, Hans Erich"
+book: "Beiträge zur Alten Geschichte and deren Nachleben. Festschrift für Franz Alheim zum 6. 10. 1968. 1. Band (Berlin)"
+title: "Der Tempelzehnte in Babylonien während des 6.­4. Jh. v. u. Z."
+previous_item: "19291"
+---

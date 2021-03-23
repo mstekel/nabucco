@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19477"
+occurrence_id: "4742"
+short_title: "Garrison 2000"
+author: "Garrison, Mark B."
+publication_year: "2000"
+title: "Achaemenid iconography as evidenced by glyptic art: subject matter, social function, audience and diffusion"
+pages: "115-163"
+editor: "Uehlinger, Christophe "
+book: "Images as media. Sources for the Cultural history of the Near East and the Eastern Mediterranean (1st millennium BCE), OBO 175, (Fribourg and Göttingen)"
+title: "Achaemenid iconography as evidenced by glyptic art: subject matter, social function, audience and diffusion"
+previous_item: "19480"
+---

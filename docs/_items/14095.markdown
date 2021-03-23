@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14095"
+occurrence_id: "1710"
+short_title: "BiOr 58/1/2 (2001), 156-163"
+author: "Koch, Johannes"
+publication_year: "2001"
+title: "Rv. D. Brown, Mesopotamian Planetary Astronomy-Astrology"
+volume_no_: "58/1/2"
+pages: "156-163"
+journal: "Bibliotheca Orientalis"
+title: "Rv. D. Brown, Mesopotamian Planetary Astronomy-Astrology"
+previous_item: "14098"
+---

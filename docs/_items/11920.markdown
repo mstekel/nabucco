@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11920"
+occurrence_id: "2011"
+short_title: "Iura 27 (1976 publ. 1980), 184-191"
+author: "Hengstl, J."
+publication_year: "1976 publ. 1980"
+title: "Rv. H. Lanz, Die neubabylonischen harrānu-Geschäftsunternehmen"
+volume_no_: "27"
+pages: "184-191"
+journal: "Iura"
+title: "Rv. H. Lanz, Die neubabylonischen harrānu-Geschäftsunternehmen"
+previous_item: "11923"
+---

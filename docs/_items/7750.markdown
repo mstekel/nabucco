@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7750"
+occurrence_id: "3653"
+short_title: "BSLP 55 (1960), 222-227"
+author: "Reiner, Erica"
+publication_year: "1960"
+title: "Calques sur le vieux-perse en élamite achéménide (La construction possessive - La construction relative - Le parfait transitif)"
+volume_no_: "55"
+pages: "222-227"
+journal: "Bulletin de la Société de Linguistique de Paris"
+title: "Calques sur le vieux-perse en élamite achéménide (La construction possessive - La construction relative - Le parfait transitif)"
+previous_item: "7753"
+---

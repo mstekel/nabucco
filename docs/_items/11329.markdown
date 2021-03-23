@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11329"
+occurrence_id: "1834"
+short_title: "CSSH 29 (1987), 715-747"
+author: "Roth, Martha T."
+publication_year: "1987"
+title: "Age at Marriage and the Household: A Study of Neo-Babylonian and Neo-Assyrian Forms"
+volume_no_: "29"
+pages: "715-747"
+journal: "Comparative Studies in Society and History"
+title: "Age at Marriage and the Household: A Study of Neo-Babylonian and Neo-Assyrian Forms"
+previous_item: "11332"
+---

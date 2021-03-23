@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12130"
+occurrence_id: "3143"
+short_title: "RIDA 3e Série 1 (1954), 101-117"
+author: "Cardascia, Guillaume"
+publication_year: "1954"
+title: "Documents babyloniens des 8me et 7me siècles, à propos d'un ouvrage récent"
+volume_no_: "3/1."
+pages: "101-117"
+journal: "Revue Internationale des Droits de l'Antiquité"
+title: "Documents babyloniens des 8me et 7me siècles, à propos d'un ouvrage récent"
+previous_item: "12133"
+---

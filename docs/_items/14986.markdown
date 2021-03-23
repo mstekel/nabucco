@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14986"
+occurrence_id: "3506"
+short_title: "ZA 90 (2000), 194-206"
+author: "Horowitz, Wayne"
+publication_year: "2000"
+title: "Astral Tablets in the Hermitage, Saint Petersburg"
+volume_no_: "90"
+pages: "194-206"
+journal: "Zeitschrift für Assyriologie"
+title: "Astral Tablets in the Hermitage, Saint Petersburg"
+previous_item: "14989"
+---

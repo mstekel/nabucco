@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "14839"
+occurrence_id: "2711"
+short_title: "NABU 2008/37"
+author: "Peterson, Jeremiah"
+title: "Neo-Babylonian Exemplars of the Weidner Godlist from Nippur in the University Museum, Philadelphia"
+volume_no_: "37"
+publication_year: "2008"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Neo-Babylonian Exemplars of the Weidner Godlist from Nippur in the University Museum, Philadelphia"
+previous_item: "14842"
+---

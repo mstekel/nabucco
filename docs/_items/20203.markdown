@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "20203"
+occurrence_id: "4217"
+short_title: "Winckworh 1950"
+author: "Winckworh, C.P.T. "
+publication_year: "1950"
+title: "Some Notes on Late-Babylonian Orthography"
+pages: "67-71"
+editor: "Thomas, David, Winton"
+title: "Some Notes on Late-Babylonian Orthography"
+previous_item: "20206"
+---

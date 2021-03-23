@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15547"
+occurrence_id: "3507"
+short_title: "ZA 90 (2000), 207-226"
+author: "Cohen, Eran"
+publication_year: "2000"
+title: "Akkadian -ma in Diachronic Perspective"
+volume_no_: "90"
+pages: "207-226"
+journal: "Zeitschrift für Assyriologie"
+title: "Akkadian -ma in Diachronic Perspective"
+previous_item: "15550"
+---

@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16582"
+occurrence_id: "4100"
+short_title: "Rochberg 2010"
+author: "Rochberg-Halton, Francesca "
+publication_year: "2010"
+title: "In the Path of the Moon: Babylonian Celestial Divination and Its Legacy, Ancient Magic and Divination 6 (Leiden)"
+title: "In the Path of the Moon: Babylonian Celestial Divination and Its Legacy, Ancient Magic and Divination 6 (Leiden)"
+previous_item: "16585"
+---

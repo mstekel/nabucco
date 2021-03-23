@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18055"
+occurrence_id: "537"
+short_title: "Persika 1"
+author: "Briant, Pierre "
+publication_year: "2001"
+title: "Bulletin d´Histoire Achéménide II. (hotm éditions 2001 = Persika 1)"
+title: "Bulletin d´Histoire Achéménide II. (hotm éditions 2001 = Persika 1)"
+previous_item: "18058"
+---

@@ -1,0 +1,15 @@
+---
+layout: "tablet"
+slug: "29578"
+object_id: "7599"
+museum_no_: "BM 32192"
+publication: "Wunsch 2000"
+text_number: "48 B"
+duplicate: "BM 41511"
+imported: "Kathleen Abraham 15/04/2017"
+publication_name: "Wunsch 2000 48 B"
+archive: "Egibi/Nūr-Sîn"
+related_objects: "7600"
+title: "BM 32192"
+previous_item: "29581"
+---

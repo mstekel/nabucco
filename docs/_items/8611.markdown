@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8611"
+occurrence_id: "2247"
+short_title: "JESHO 47 (2004), 125-128"
+author: "Goddeeris, Anne"
+publication_year: "2004"
+title: "Rv. A.C.V.M. Bongenaar (ed), Interdependency of Institutions and Private Entrepreneurs, MOS Studies 2, PIHANS 87 (Istanbul and Leiden 2000)"
+volume_no_: "47"
+pages: "125-128"
+journal: "Journal of the Economic and Social History of the Orient"
+title: "Rv. A.C.V.M. Bongenaar (ed), Interdependency of Institutions and Private Entrepreneurs, MOS Studies 2, PIHANS 87 (Istanbul and Leiden 2000)"
+previous_item: "8614"
+---

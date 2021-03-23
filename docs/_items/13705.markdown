@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "13705"
+occurrence_id: "2612"
+short_title: "NABU 1999/5"
+author: "Da Riva, Rocío"
+title: "Šamaš roi du monde"
+volume_no_: "5"
+publication_year: "1999"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Šamaš roi du monde"
+previous_item: "13708"
+---

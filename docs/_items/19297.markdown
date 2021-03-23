@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19297"
+occurrence_id: "4885"
+short_title: "Dandamayev 2006"
+author: "Dandamayev, Muhammed A."
+publication_year: "2006"
+title: "Neo-Babylonian and Achaemenid State Administration in Mesopotamia."
+pages: "373-398"
+editor: "Oeming, Manfred"
+book: "Judah and the Judeans in the Persian Period (Winona Lake)"
+title: "Neo-Babylonian and Achaemenid State Administration in Mesopotamia."
+previous_item: "19300"
+---

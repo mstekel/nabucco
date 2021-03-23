@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19057"
+occurrence_id: "4708"
+short_title: "Couto-Ferreira 2015"
+author: "Couto-Ferreira, M. Erica"
+publication_year: "2015"
+title: "Agency, Performance and Recitation as Textual Tradition in Mesopotamia. An Akkadian Text of the Late Babylonian Period to Make a Woman Conceive"
+pages: "187-200"
+editor: "Sanchez, Magali, De Haro"
+book: "Écrire la magie dans l'antiquité: actes du colloque international, Liège, 13-15 octobre 2011, Collection Papyrologica Leodiensia 5 (Liège)"
+title: "Agency, Performance and Recitation as Textual Tradition in Mesopotamia. An Akkadian Text of the Late Babylonian Period to Make a Woman Conceive"
+previous_item: "19060"
+---

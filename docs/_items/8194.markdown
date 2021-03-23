@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8194"
+occurrence_id: "3024"
+short_title: "RA 46 (1952), 116-118"
+author: "Boyer, Georges"
+publication_year: "1952"
+title: "Le marchand paléobabylonien"
+volume_no_: "46"
+pages: "116-118"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "Le marchand paléobabylonien"
+previous_item: "8197"
+---

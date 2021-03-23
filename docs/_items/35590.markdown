@@ -1,0 +1,10 @@
+---
+layout: "glossary"
+slug: "35590"
+concept_id: "1273"
+label: "Cancellation of agreement"
+hierarchy: "Content type"
+type: "172"
+title: "Cancellation of agreement"
+previous_item: "35593"
+---

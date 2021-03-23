@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19222"
+occurrence_id: "4485"
+short_title: "Baker 2010"
+author: "Baker, Heather D."
+publication_year: "2010"
+title: "The Social Dimensions of Babylonian Domestic Architecture in the Neo-Babylonian and Achaemenid Periods"
+pages: "179-194"
+editor: "Curtis, John"
+book: "The World of Achaemenid Persia: History, Art and Society in Iran and the Ancient Near East (London)"
+title: "The Social Dimensions of Babylonian Domestic Architecture in the Neo-Babylonian and Achaemenid Periods"
+previous_item: "19225"
+---

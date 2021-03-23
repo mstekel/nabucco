@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21064"
+occurrence_id: "4398"
+short_title: "Cross 1969"
+author: "Cross, Frank M."
+publication_year: "1969"
+title: "Papyri of the Fourth Century B.C. from Dâliyeh"
+pages: "41-62"
+editor: "Freedman, D.N."
+book: "New Directions in Biblical Archaeology (New York)"
+title: "Papyri of the Fourth Century B.C. from Dâliyeh"
+previous_item: "21067"
+---

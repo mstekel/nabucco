@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18571"
+occurrence_id: "4321"
+short_title: "Ehrenberg 2007"
+author: "Ehrenberg, Erica"
+publication_year: "2007"
+title: "Persian Conquerors, Babylonian Captivators."
+pages: "95-103"
+editor: "Crawford, Harriet"
+book: "Regime Change in the Ancient Near East and Egypt. From Sargon of Agade to Saddam Hussein (Oxford and New York)"
+title: "Persian Conquerors, Babylonian Captivators."
+previous_item: "18574"
+---

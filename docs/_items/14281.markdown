@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "14281"
+occurrence_id: "2710"
+short_title: "NABU 2008/28"
+author: "Müller-Kessler, Christa, Christa"
+title: "Aramäisches iahudu in den hellenisitischen Urkunden SpTU 5, 308 and 309"
+volume_no_: "28"
+publication_year: "2008"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Aramäisches iahudu in den hellenisitischen Urkunden SpTU 5, 308 and 309"
+previous_item: "14284"
+---

@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "19168"
+occurrence_id: "4196"
+short_title: "Funck 1971"
+author: "Funck, Bernd"
+publication_year: "1971"
+title: "Die babylonische Chronik Smith (BM 34660 and BM 36313) als Quelle des Diadochenkampfes (321-306 v. Chr.)"
+pages: "217-240"
+editor: "Lurker, Manfred"
+title: "Die babylonische Chronik Smith (BM 34660 and BM 36313) als Quelle des Diadochenkampfes (321-306 v. Chr.)"
+previous_item: "19171"
+---

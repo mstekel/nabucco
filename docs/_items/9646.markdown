@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9646"
+occurrence_id: "1782"
+short_title: "BSOAS 41 (1978), 640"
+author: "Wiseman, Donald J."
+publication_year: "1978"
+title: "Rv. E. Salonen, Neubabylonische Urkunden verschiedenen Inhalts, II"
+volume_no_: "41"
+pages: "640"
+journal: "Bulletin of the School of Oriental and African Studies"
+title: "Rv. E. Salonen, Neubabylonische Urkunden verschiedenen Inhalts, II"
+previous_item: "9649"
+---

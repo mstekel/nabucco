@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19927"
+occurrence_id: "4936"
+short_title: "Beaulieu 2010"
+author: "Beaulieu, Paul-A."
+publication_year: "2010"
+title: "The Afterlife of Assyrian Scholarship in Hellenistic Babylonia."
+pages: "1-18"
+editor: "Porter, Barbara N."
+book: "Gazing on the Deep. Ancient Near Eastern and Other Studies in Honor of Tzvi Abusch (Bethesda)"
+title: "The Afterlife of Assyrian Scholarship in Hellenistic Babylonia."
+previous_item: "19930"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15829"
+occurrence_id: "2002"
+short_title: "Iraq 68 (2006), 23-57."
+author: "George, Andrew, R."
+publication_year: "2006"
+title: "Tablets from the Sippar Library XIII: Enuma Anu Enlil XX-"
+volume_no_: "68"
+pages: "23-57"
+journal: "Iraq"
+title: "Tablets from the Sippar Library XIII: Enuma Anu Enlil XX-"
+previous_item: "15832"
+---

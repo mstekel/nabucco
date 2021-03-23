@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10864"
+occurrence_id: "2332"
+short_title: "JNES 55 (1996), 233-235"
+author: "Beaulieu, Paul-A."
+publication_year: "1996"
+title: "Rv. D.B. Weisberg, The Late Babylonian Texts of the Oriental Institute Collection"
+volume_no_: "55"
+pages: "233-235"
+journal: "Journal of Near Eastern Studies"
+title: "Rv. D.B. Weisberg, The Late Babylonian Texts of the Oriental Institute Collection"
+previous_item: "10867"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13777"
+occurrence_id: "3002"
+short_title: "RA 11 (1914), 105-117"
+author: "Dhorme, Édouard"
+publication_year: "1914"
+title: "La fille de Nabonide"
+volume_no_: "11"
+pages: "105-117"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "La fille de Nabonide"
+previous_item: "13780"
+---

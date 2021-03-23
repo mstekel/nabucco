@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12802"
+occurrence_id: "3758"
+short_title: "JSJ 7 (1976), 199-200"
+author: "Coogan, Michael David"
+publication_year: "1976"
+title: "More Yahwistic Names in the Murashu Documents"
+volume_no_: "7"
+pages: "199-200"
+journal: "Journal for the Study of Judaism"
+title: "More Yahwistic Names in the Murashu Documents"
+previous_item: "12805"
+---

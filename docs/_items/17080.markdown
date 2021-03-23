@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17080"
+occurrence_id: "882"
+short_title: "Saporetti 1984"
+author: "Saporetti, Claudio "
+publication_year: "1984"
+title: "Le leggi della Mesopotamia. Tradotte dei testi originali, Studi e manuali di archeologia 2 (Firenze)"
+title: "Le leggi della Mesopotamia. Tradotte dei testi originali, Studi e manuali di archeologia 2 (Firenze)"
+previous_item: "17083"
+---

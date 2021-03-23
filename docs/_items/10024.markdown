@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10024"
+occurrence_id: "3817"
+short_title: "OML 64 (1983 publ. 1984), 143-162"
+author: "van Soldt, Wilfred H."
+publication_year: "1983 publ. 1984"
+title: "The Cuneiform Texts in the Rijksmuseum van Oudheden, Leiden (II)"
+volume_no_: "64"
+pages: "143-162"
+journal: "Oudheidkundige Mededelingen uit het Rijksmuseum van Oudheden te Leiden"
+title: "The Cuneiform Texts in the Rijksmuseum van Oudheden, Leiden (II)"
+previous_item: "10027"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20338"
+occurrence_id: "4938"
+short_title: "Beaulieu 2013a"
+author: "Beaulieu, Paul-A."
+publication_year: "2013"
+title: "Arameans, Chaldeans, and Arabs in Cuneiform Sources from the Late Babylonian Period"
+pages: "31-55"
+editor: "Berlejung, Angelika"
+book: "Arameans, Chaldeans, and Arabs in Babylonia and Palestine in the First Millennium B.C., Leipziger Altorientalische Studien 3 (Wiesbaden)"
+title: "Arameans, Chaldeans, and Arabs in Cuneiform Sources from the Late Babylonian Period"
+previous_item: "20341"
+---

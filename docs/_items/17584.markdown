@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17584"
+occurrence_id: "819"
+short_title: "Jursa 1995"
+author: "Jursa, Michael "
+publication_year: "1995"
+title: "Die Landwirtschaft in Sippar in neubabylonischer Zeit, AfO Beiheft 25 (Wien)"
+title: "Die Landwirtschaft in Sippar in neubabylonischer Zeit, AfO Beiheft 25 (Wien)"
+previous_item: "17587"
+---

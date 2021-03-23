@@ -1,0 +1,9 @@
+---
+layout: "archive"
+slug: "22843"
+archive_id: "424"
+archive_name: "Gimil-Nanāya B"
+is_part_of: "Uruk"
+title: "Gimil-Nanāya B"
+previous_item: "22846"
+---

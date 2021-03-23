@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8074"
+occurrence_id: "2375"
+short_title: "Klio 78 (1996), 245-246"
+author: "Wiesehöfer, Josef"
+publication_year: "1996"
+title: "Rv. R. Rollinger, Herodots babylonischer Logos. Eine kritische Untersuchung der Glaubwürdigkeitsdiskussion an Hand ausgewählter Beispiele (1993)"
+volume_no_: "78"
+pages: "245-246"
+journal: "Klio"
+title: "Rv. R. Rollinger, Herodots babylonischer Logos. Eine kritische Untersuchung der Glaubwürdigkeitsdiskussion an Hand ausgewählter Beispiele (1993)"
+previous_item: "8077"
+---

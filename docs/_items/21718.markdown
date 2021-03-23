@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21718"
+occurrence_id: "4577"
+short_title: "Oelsner 1996"
+author: "Oelsner, Joachim"
+publication_year: "1996"
+title: "Siegelung and Archivierung von Dokumenten im hellenistischen Babylonien"
+pages: "101-112"
+editor: "Invernizzi, Antonio"
+book: "Archives et sceaux du monde hellénistique, BCH Supplement 29 (Paris)"
+title: "Siegelung and Archivierung von Dokumenten im hellenistischen Babylonien"
+previous_item: "21721"
+---

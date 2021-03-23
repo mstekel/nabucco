@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "10384"
+occurrence_id: "2735"
+short_title: "NABU 2010/46"
+author: "Koch, Johannes"
+title: "Stammte die Sternliste Astrolab B aus dem 6. Jahrtausend v. Chr.?"
+volume_no_: "46"
+publication_year: "2010"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Stammte die Sternliste Astrolab B aus dem 6. Jahrtausend v. Chr.?"
+previous_item: "10387"
+---

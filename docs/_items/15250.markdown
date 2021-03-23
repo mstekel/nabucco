@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15250"
+occurrence_id: "1905"
+short_title: "IIJ 26 (1983), 319-320"
+author: "Zadok, Ran"
+publication_year: "1983"
+title: "More Iranians in Achaemenian Babylonia"
+volume_no_: "26"
+pages: "319-320"
+journal: "Indo-Iranian Journal"
+title: "More Iranians in Achaemenian Babylonia"
+previous_item: "15253"
+---

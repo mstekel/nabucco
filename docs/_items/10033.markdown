@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10033"
+occurrence_id: "3865"
+short_title: "TSBA 6 (1878), 1-78"
+author: "Boscawen, William St.C."
+publication_year: "1878"
+title: "Babylonian Dated Tablets, and the Canon of Ptolemy"
+volume_no_: "6"
+pages: "1-78"
+journal: "Transactions of the Society of Biblical Archaeology"
+title: "Babylonian Dated Tablets, and the Canon of Ptolemy"
+previous_item: "10036"
+---

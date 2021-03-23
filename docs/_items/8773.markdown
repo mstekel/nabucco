@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8773"
+occurrence_id: "3121"
+short_title: "RB 49 (1940), 303-304"
+author: "Tournay, R."
+publication_year: "1940"
+title: "Rv. E.W. Moore, Neo-Babylonian Documents in the University of Michigan Collection"
+volume_no_: "49"
+pages: "303-304"
+journal: "Revue Biblique"
+title: "Rv. E.W. Moore, Neo-Babylonian Documents in the University of Michigan Collection"
+previous_item: "8776"
+---

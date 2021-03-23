@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16243"
+occurrence_id: "1207"
+short_title: "AfO 25 (1974/77 publ. 1978), 200-201"
+author: "Graf, K."
+publication_year: "1974-77"
+title: "Rv. G. Ries, Die neubabylonischen Bodenpachtformulare"
+volume_no_: "25"
+pages: "200-201"
+journal: "Archiv für Orientforschung"
+title: "Rv. G. Ries, Die neubabylonischen Bodenpachtformulare"
+previous_item: "16246"
+---

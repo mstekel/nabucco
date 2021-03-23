@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "10351"
+occurrence_id: "2557"
+short_title: "NABU 1997/13"
+author: "Zadok, Ran"
+title: "Late-Babylonian texts from the Yale Babylonian Collection"
+volume_no_: "13"
+publication_year: "1997"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Late-Babylonian texts from the Yale Babylonian Collection"
+previous_item: "10354"
+---

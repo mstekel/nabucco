@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17062"
+occurrence_id: "780"
+short_title: "Eilers 1954"
+author: "Eilers, Wilhelm "
+publication_year: "1954"
+title: "Der alte Name des persischen Neujahrsfestes (Abhandlungen der Akademie der Wissenschaften and der Literatur, Mainz)"
+title: "Der alte Name des persischen Neujahrsfestes (Abhandlungen der Akademie der Wissenschaften and der Literatur, Mainz)"
+previous_item: "17065"
+---

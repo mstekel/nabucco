@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15766"
+occurrence_id: "1663"
+short_title: "BiOr 36 (1979 publ. 1980), 51-53"
+author: "Malbran-Labat, Florence"
+publication_year: "1979 publ. 1980"
+title: "Rv. M. Dietrich, Die Aramäer Südbabyloniens in der Sargonidenzeit (700-648) (AOAT 7)"
+volume_no_: "36"
+pages: "51-53"
+journal: "Bibliotheca Orientalis"
+title: "Rv. M. Dietrich, Die Aramäer Südbabyloniens in der Sargonidenzeit (700-648) (AOAT 7)"
+previous_item: "15769"
+---

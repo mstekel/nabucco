@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "8698"
+occurrence_id: "2716"
+short_title: "NABU 2008/69"
+author: "Mitsuma, Yasuyuki"
+title: "Istar of Babylon in 'Day-One Temple'"
+volume_no_: "69"
+publication_year: "2008"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Istar of Babylon in 'Day-One Temple'"
+previous_item: "8701"
+---

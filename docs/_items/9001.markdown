@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9001"
+occurrence_id: "1327"
+short_title: "Alter Orient Aktuell 5 (August 2004), 4-5"
+author: "Hilgert, Markus"
+publication_year: "2004"
+title: "Die Tafeln des Herrn Töpfer. Zum Repertoire eines neubabylonischen Schreibers"
+volume_no_: "5"
+pages: "4-5."
+journal: "Alter Orient Aktuell"
+title: "Die Tafeln des Herrn Töpfer. Zum Repertoire eines neubabylonischen Schreibers"
+previous_item: "9004"
+---

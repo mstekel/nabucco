@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14167"
+occurrence_id: "2095"
+short_title: "JAOS 121/3 (2001), 492-493"
+author: "Wallenfels, Ronald"
+publication_year: "2001"
+title: "Rv. M. Brosius and A. Kuhrt, Studies in Persian History: Essays in Memory of David M. Lewis"
+volume_no_: "121/3"
+pages: "492-493"
+journal: "Journal of the American Oriental Society"
+title: "Rv. M. Brosius and A. Kuhrt, Studies in Persian History: Essays in Memory of David M. Lewis"
+previous_item: "14170"
+---

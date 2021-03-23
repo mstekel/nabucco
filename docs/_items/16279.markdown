@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16279"
+occurrence_id: "1406"
+short_title: "Antonianum 17 (1942), 73-78"
+author: "Kleinhans, A."
+publication_year: "1942"
+title: "Rv. G. Brunner, Der Nabuchodonosor des Buches Judith"
+volume_no_: "17"
+pages: "73-78"
+journal: "Antonianum"
+title: "Rv. G. Brunner, Der Nabuchodonosor des Buches Judith"
+previous_item: "16282"
+---

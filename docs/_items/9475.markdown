@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9475"
+occurrence_id: "3880"
+short_title: "ZK 2 (1885), 324- 328"
+author: "Pinches, Theophilus G."
+publication_year: "1885"
+title: "Two Texts from Sippara of the sungod"
+volume_no_: "2"
+pages: "324- 328"
+journal: "Zeitschrift für Keilschriftforschung"
+title: "Two Texts from Sippara of the sungod"
+previous_item: "9478"
+---

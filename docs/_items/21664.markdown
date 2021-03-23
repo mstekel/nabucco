@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21664"
+occurrence_id: "4288"
+short_title: "Vanderhooft 2006"
+author: "Vanderhooft, David S."
+publication_year: "2006"
+title: "Cyrus II, Liberator or Conqueror? Ancient Historiography concerning Cyrus in Babylon."
+pages: "351-372"
+editor: "Oeming, Manfred"
+book: "Judah and the Judeans in the Persian Period (Winona Lake)"
+title: "Cyrus II, Liberator or Conqueror? Ancient Historiography concerning Cyrus in Babylon."
+previous_item: "21667"
+---

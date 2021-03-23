@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "20584"
+occurrence_id: "5147"
+short_title: "Struve 1968c"
+author: "Struve, Vassili V."
+publication_year: "1968"
+title: "Herodot und die politischen Parteiungen in der Epoche des Dareios I. (in Russ.)"
+pages: "67-85, 233-237"
+book: "Этюды по истории… [Ètjudy po istorii...]"
+title: "Herodot und die politischen Parteiungen in der Epoche des Dareios I. (in Russ.)"
+previous_item: "20587"
+---

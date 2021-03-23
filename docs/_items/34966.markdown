@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34966"
+place_id: "487"
+parent_id: "40"
+place_name: "Huṣṣēti-ša-Ad-rahū"
+title: "Huṣṣēti-ša-Ad-rahū"
+previous_item: "34969"
+---

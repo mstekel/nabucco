@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10165"
+occurrence_id: "1557"
+short_title: "BaM 15 (1984), 197-224"
+author: "von Weiher, Egbert"
+publication_year: "1984"
+title: "Marduk-apla-uṣur und Nabû-šum-iškun in einem spätbabylonischen Fragment aus Uruk"
+volume_no_: "15"
+pages: "197-224"
+journal: "Baghdader Mitteilungen"
+title: "Marduk-apla-uṣur und Nabû-šum-iškun in einem spätbabylonischen Fragment aus Uruk"
+previous_item: "10168"
+---

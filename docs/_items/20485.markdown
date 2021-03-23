@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20485"
+occurrence_id: "4619"
+short_title: "Steele 2014"
+author: "Steele, John M."
+publication_year: "2014"
+title: "Late Babylonian ziqpu-star lists: Written or remembered traditions of knowledge?"
+pages: "123-151"
+editor: "Imhausen, A."
+book: "Traditions of Written Knowledge in Ancient Egypt and Mesopotamia. Proceedings of Two Workshops Held at Goethe-University, Frankfurt/Main in December 2011 and May 2012, Alter Orient und Altes Testament 403 (Münster)"
+title: "Late Babylonian ziqpu-star lists: Written or remembered traditions of knowledge?"
+previous_item: "20488"
+---

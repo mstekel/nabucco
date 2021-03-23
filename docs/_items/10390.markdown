@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10390"
+occurrence_id: "2767"
+short_title: "OLZ 33 (1930), 102-103"
+author: "Nicolò, Mariano, San"
+publication_year: "1930"
+title: "Zur Zeugenschaft in den neubabylonischen Rechtsurkunden"
+volume_no_: "33"
+pages: "102-103"
+journal: "Orientalistische Literaturzeitung"
+title: "Zur Zeugenschaft in den neubabylonischen Rechtsurkunden"
+previous_item: "10393"
+---

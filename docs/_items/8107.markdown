@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "8107"
+occurrence_id: "2553"
+short_title: "NABU 1996/99"
+author: "Jursa, Michael"
+title: "Bürgschaft"
+volume_no_: "99"
+publication_year: "1996"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Bürgschaft"
+previous_item: "8110"
+---

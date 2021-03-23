@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16558"
+occurrence_id: "827"
+short_title: "Koch 1990"
+author: "Koch, Heidemarie "
+publication_year: "1990"
+title: "Verwaltung und Wirtschaft im persischen Kernland zur Zeit der Achämeniden, TAVO B 89 (Wiesbaden)"
+title: "Verwaltung und Wirtschaft im persischen Kernland zur Zeit der Achämeniden, TAVO B 89 (Wiesbaden)"
+previous_item: "16561"
+---

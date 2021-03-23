@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20833"
+occurrence_id: "4268"
+short_title: "Potts 2011"
+author: "Potts, Daniel T."
+publication_year: "2011"
+title: "The abuttu and the Alleged Elamite 'Slave Hairstyle'."
+pages: "183-194"
+editor: "Vacín, Luděk "
+book: "u4 du11-ga-ni sá mu-ni-ib-du11. Ancient Near Eastern Studies in Memory of Blahoslav Hruska, ISLET (Dresden)"
+title: "The abuttu and the Alleged Elamite 'Slave Hairstyle'."
+previous_item: "20836"
+---

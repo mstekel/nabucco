@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12334"
+occurrence_id: "1233"
+short_title: "AfO 44/45 (1997/1998), 186-191"
+author: "Koch, Johannes"
+publication_year: "1997-1998"
+title: "Wache und Mine im antiken Mesopotamien"
+volume_no_: "44-45"
+pages: "186-191"
+journal: "Archiv für Orientforschung"
+title: "Wache und Mine im antiken Mesopotamien"
+previous_item: "12337"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15877"
+occurrence_id: "2260"
+short_title: "JNES 1 (1942), 240"
+author: "Gelb, Ignace J."
+publication_year: "1942"
+title: "Rv. J.Ph. Hyatt, The Treatment of Final Vowels in Early Neo-Babylonian"
+volume_no_: "1"
+pages: "240"
+journal: "Journal of Near Eastern Studies"
+title: "Rv. J.Ph. Hyatt, The Treatment of Final Vowels in Early Neo-Babylonian"
+previous_item: "15880"
+---

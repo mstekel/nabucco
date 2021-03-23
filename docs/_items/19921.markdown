@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19921"
+occurrence_id: "4904"
+short_title: "Pedersén 2005"
+author: "Pedersén, Olof"
+publication_year: "2005"
+title: "Foreign professionals in Babylon: evidence from the archive in the palace of Nebuchadnezzar II."
+pages: "267-272"
+editor: "van Soldt, Wilfred H."
+book: "Ethnicity in Ancient Mesopotamia. RAI 48, PIHANS 102 (Leiden)"
+title: "Foreign professionals in Babylon: evidence from the archive in the palace of Nebuchadnezzar II."
+previous_item: "19924"
+---

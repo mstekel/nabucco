@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34333"
+place_id: "997"
+parent_id: "61"
+place_name: "Hanlibbi"
+title: "Hanlibbi"
+previous_item: "34336"
+---

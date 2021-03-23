@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17455"
+occurrence_id: "818"
+short_title: "Jonker 1995"
+author: "Jonker, Gerden "
+publication_year: "1995"
+title: "The Topography of Remembrance. The Dead, Tradition and Memory in Mesopotamia, Studies in the History of Religions 68 (Leiden)"
+title: "The Topography of Remembrance. The Dead, Tradition and Memory in Mesopotamia, Studies in the History of Religions 68 (Leiden)"
+previous_item: "17458"
+---

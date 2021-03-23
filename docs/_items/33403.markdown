@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33403"
+place_id: "301"
+parent_id: "40"
+place_name: "Bīt-Kikī"
+title: "Bīt-Kikī"
+previous_item: "33406"
+---

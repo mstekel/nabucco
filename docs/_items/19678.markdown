@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19678"
+occurrence_id: "4711"
+short_title: "Sandowicz 2014"
+author: "Sandowicz, Malgorzata"
+publication_year: "2014"
+title: "The Case of Fubartu: On Inheriting Family Debts in Late 6th-Century Uruk"
+pages: "563-571"
+editor: "Marti, Lionel"
+book: "La famille dans le Proche-Orient ancien: réalités, symbolismes, et images. Proceedings of the 55th Rencontre Assyriologique Internationale at Paris, 6-9 July 2009 (Winona Lake)"
+title: "The Case of Fubartu: On Inheriting Family Debts in Late 6th-Century Uruk"
+previous_item: "19681"
+---

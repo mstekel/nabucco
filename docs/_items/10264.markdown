@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10264"
+occurrence_id: "2088"
+short_title: "JAOS 119 (1999), 344-345"
+author: "Dandamayev, Muhammed A."
+publication_year: "1999"
+title: "Rv. V. Donbaz and M.W. Stolper, Istanbul Murašû Texts (PIHANS 79, 1997)"
+volume_no_: "119"
+pages: "344-345"
+journal: "Journal of the American Oriental Society"
+title: "Rv. V. Donbaz and M.W. Stolper, Istanbul Murašû Texts (PIHANS 79, 1997)"
+previous_item: "10267"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20647"
+occurrence_id: "4380"
+short_title: "Joannès 2009e"
+author: "Joannès, Francis"
+publication_year: "2009"
+title: "Le gôut des autres."
+pages: "221-236"
+editor: "Lion, Brigitte"
+book: "Et il y eut un esprit dans l'Homme. Jean Bottéro et la Mésopotamie (Paris 2009), ."
+title: "Le gôut des autres."
+previous_item: "20650"
+---

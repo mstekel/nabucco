@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20905"
+occurrence_id: "4653"
+short_title: "Monerie 2014"
+author: "Monerie, Julien"
+publication_year: "2014"
+title: "Parenté réelle et symbolique au sein de la communauté du temple en Babylonie tardive: l'exemple de l'archive des brasseurs de Borsippa"
+pages: "643-661"
+editor: "Marti, Lionel"
+book: "La famille dans le Proche-Orient ancien: réalités, symbolismes, et images. Proceedings of the 55th Rencontre Assyriologique Internationale at Paris, 6-9 July 2009 (Winona Lake)"
+title: "Parenté réelle et symbolique au sein de la communauté du temple en Babylonie tardive: l'exemple de l'archive des brasseurs de Borsippa"
+previous_item: "20908"
+---

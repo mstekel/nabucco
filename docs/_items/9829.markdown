@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9829"
+occurrence_id: "2766"
+short_title: "OLZ 25 (1922), 337-344."
+author: "Landsberger, Benno"
+publication_year: "1922"
+title: "Zur Mehlbereitung im Altertum,"
+volume_no_: "25"
+pages: "337-344"
+journal: "Orientalistische Literaturzeitung"
+title: "Zur Mehlbereitung im Altertum,"
+previous_item: "9832"
+---

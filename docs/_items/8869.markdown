@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "8869"
+occurrence_id: "3639"
+short_title: "BLOT (1979), 37"
+author: "Lambert, Wilfred G."
+publication_year: "1979"
+title: "Rv. E.N. von Voigtlander, The Bisitun Inscription of Darius the Great, Babylonian Version"
+pages: "37"
+journal: "Book List. Society for Old Testament Studies (Llansadwrn, Menai Bridge)"
+title: "Rv. E.N. von Voigtlander, The Bisitun Inscription of Darius the Great, Babylonian Version"
+previous_item: "8872"
+---

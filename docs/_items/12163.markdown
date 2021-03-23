@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12163"
+occurrence_id: "3321"
+short_title: "WeOr 2 (1954), 46-51"
+author: "Ebeling, Erich"
+publication_year: "1954"
+title: "Der Eid der Pachtabgabenaufleger (êmedu) von Uruk in neubabylonischer und persischer Zeit"
+volume_no_: "2"
+pages: "46-51"
+journal: "Die Welt des Orients"
+title: "Der Eid der Pachtabgabenaufleger (êmedu) von Uruk in neubabylonischer und persischer Zeit"
+previous_item: "12166"
+---

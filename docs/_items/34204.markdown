@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34204"
+place_id: "706"
+parent_id: "61"
+place_name: "Ālu-ša-Anu-aha-ēreš"
+title: "Ālu-ša-Anu-aha-ēreš"
+previous_item: "34207"
+---

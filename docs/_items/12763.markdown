@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12763"
+occurrence_id: "3550"
+short_title: "ZDMG 115 (1965), 242-254"
+author: "Schedl, Claus"
+publication_year: "1965"
+title: "Nabuchodonosor, Arpadšad und Darius. Untersuchungen zum Buch Judit"
+volume_no_: "115"
+pages: "242-254"
+journal: "Zeitschrift der Deutschen Morgenländischen Gesellschaft"
+title: "Nabuchodonosor, Arpadšad und Darius. Untersuchungen zum Buch Judit"
+previous_item: "12766"
+---

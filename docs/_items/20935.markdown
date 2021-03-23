@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "20935"
+occurrence_id: "4813"
+short_title: "Roaf 1979"
+author: "Roaf, Michael"
+publication_year: "1979"
+title: "Furher thoughts on the Persepolis Reliefs"
+pages: "232-235"
+book: "AMI Ergänzungsband 6 (= Akten des VII. Internationalen Kongresses für iranische Kunst and Archäologie)"
+title: "Furher thoughts on the Persepolis Reliefs"
+previous_item: "20938"
+---

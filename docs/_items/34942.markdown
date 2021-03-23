@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34942"
+place_id: "103"
+parent_id: "40"
+place_name: "Ālu-ša-Arbāja"
+title: "Ālu-ša-Arbāja"
+previous_item: "34945"
+---

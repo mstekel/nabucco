@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16054"
+occurrence_id: "3214"
+short_title: "StIr 15/1 (1986), 7-21"
+author: "Stève, Marie-Joseph"
+publication_year: "1986"
+title: "Le fin de l'Élam: À propos d'une empreinte de sceau-cylindre"
+volume_no_: "15/1."
+pages: "7-21."
+journal: "Studia Iranica"
+title: "Le fin de l'Élam: À propos d'une empreinte de sceau-cylindre"
+previous_item: "16057"
+---

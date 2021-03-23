@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9145"
+occurrence_id: "2102"
+short_title: "JAOS 125 (2005), 517-533"
+author: "Waters, Matthew, W."
+publication_year: "2005"
+title: "Media and its Discontents"
+volume_no_: "125"
+pages: "517-533"
+journal: "Journal of the American Oriental Society"
+title: "Media and its Discontents"
+previous_item: "9148"
+---

@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34075"
+place_id: "415"
+parent_id: "40"
+place_name: "Enlil-hūr"
+title: "Enlil-hūr"
+previous_item: "34078"
+---

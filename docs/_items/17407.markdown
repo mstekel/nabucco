@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17407"
+occurrence_id: "513"
+short_title: "Mendelsohn 1949"
+author: "Mendelsohn, Iitzhak "
+publication_year: "1949"
+title: "Slavery in the Ancient Near East"
+title: "Slavery in the Ancient Near East"
+previous_item: "17410"
+---

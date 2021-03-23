@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11155"
+occurrence_id: "3899"
+short_title: "ZVS 86 (1972), 87-92"
+author: "Schmitt, Rüdiger"
+publication_year: "1972"
+title: "Persepolitanisches III"
+volume_no_: "86"
+pages: "87-92"
+journal: "Zeitschrift für vergleichende Sprachforschung auf dem Gebiete der Indogermanischen Sprachen"
+title: "Persepolitanisches III"
+previous_item: "11158"
+---

@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "33448"
+place_id: "1021"
+parent_id: "61"
+place_name: "Hiltu"
+related_objects: "5850"
+title: "Hiltu"
+previous_item: "33451"
+---

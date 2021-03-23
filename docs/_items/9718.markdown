@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9718"
+occurrence_id: "2167"
+short_title: "JCS 28 (1976 publ. 1977), 189-200"
+author: "Stolper, Matthew W."
+publication_year: "1976"
+title: "The Genealogy of the Murašu Family"
+volume_no_: "28"
+pages: "189-200"
+journal: "Journal of Cuneiform Studies"
+title: "The Genealogy of the Murašu Family"
+previous_item: "9721"
+---

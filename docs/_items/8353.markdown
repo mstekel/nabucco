@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8353"
+occurrence_id: "3878"
+short_title: "ZDMG Suppl. V: XXI (1980), 290-300"
+author: "Koch, Klaus"
+publication_year: "1980"
+title: "Die Völkerrepräsentanten auf den Reliefs von Persepolis und den achämenidischen Gräbern"
+volume_no_: "V: XXI"
+pages: "290-300"
+journal: "Zeitschrift der Deutschen Morgenländischen Gesellschaft , Supplement V: XXI. Deutscher Orientalistentag"
+title: "Die Völkerrepräsentanten auf den Reliefs von Persepolis und den achämenidischen Gräbern"
+previous_item: "8356"
+---

@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16561"
+occurrence_id: "843"
+short_title: "Mayrhofer 1968"
+author: "Mayrhofer, Manfred "
+publication_year: "1968"
+title: "Die Rekonstruktion des Medischen, Anzeiger der Phil.-Hist. Klasse der Österreichischen Akademie der Wissenschaften 1968/1 (Wien)"
+title: "Die Rekonstruktion des Medischen, Anzeiger der Phil.-Hist. Klasse der Österreichischen Akademie der Wissenschaften 1968/1 (Wien)"
+previous_item: "16564"
+---

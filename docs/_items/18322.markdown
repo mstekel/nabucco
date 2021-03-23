@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18322"
+occurrence_id: "593"
+short_title: "Swerdlow 1998"
+author: "Swerdlow, Noel M. "
+publication_year: "1998"
+title: "The Babylonian theory of the Planets"
+title: "The Babylonian theory of the Planets"
+previous_item: "18325"
+---

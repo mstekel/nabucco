@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8845"
+occurrence_id: "3511"
+short_title: "ZA 90 (2000), 297-298"
+author: "Streck, Michael , P."
+publication_year: "2000"
+title: "Rv. V. Donbaz and M.W. Stolper, Istanbul Murašû Texts (PIHANS 79, 1997)"
+volume_no_: "90"
+pages: "297-298"
+journal: "Zeitschrift für Assyriologie"
+title: "Rv. V. Donbaz and M.W. Stolper, Istanbul Murašû Texts (PIHANS 79, 1997)"
+previous_item: "8848"
+---

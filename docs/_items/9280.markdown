@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9280"
+occurrence_id: "2829"
+short_title: "OLZ 96/4-5 (2001), 503-510"
+author: "Oelsner, Joachim"
+publication_year: "2001"
+title: "Rv. H. Hunger and D. Pingree, Astral Sciences in Mesopotamia, HdO 44 (Leiden and Boston/Köln 1999)"
+volume_no_: "96/4-5"
+pages: "503-510"
+journal: "Orientalistische Literaturzeitung"
+title: "Rv. H. Hunger and D. Pingree, Astral Sciences in Mesopotamia, HdO 44 (Leiden and Boston/Köln 1999)"
+previous_item: "9283"
+---

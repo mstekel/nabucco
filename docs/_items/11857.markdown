@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11857"
+occurrence_id: "1672"
+short_title: "BiOr 41 (1984 publ. 1985), 426-428"
+author: "Joannès, Francis"
+publication_year: "1984 publ. 1985"
+title: "Rv. G.J.P. McEwan, Texts from Hellenistic Babylonia in the Ashmolean Museum (OECT 9)"
+volume_no_: "41"
+pages: "426-428"
+journal: "Bibliotheca Orientalis"
+title: "Rv. G.J.P. McEwan, Texts from Hellenistic Babylonia in the Ashmolean Museum (OECT 9)"
+previous_item: "11860"
+---

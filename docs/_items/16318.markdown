@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16318"
+occurrence_id: "1616"
+short_title: "BCSMS 5 (2010), 13-23."
+author: "Kozuh, Michael"
+publication_year: "2010"
+title: "On the Generation of Administrative Texts at the Eanna of Uruk."
+volume_no_: "5"
+pages: "13-23"
+journal: "Bulletin. The Canadian Society for Mesopotamian Studies"
+title: "On the Generation of Administrative Texts at the Eanna of Uruk."
+previous_item: "16321"
+---

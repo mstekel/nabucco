@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8575"
+occurrence_id: "2053"
+short_title: "JANES 5 (1973), 325-334"
+author: "Oppenheim, A. Leo"
+publication_year: "1973"
+title: "A Note on ša rēši"
+volume_no_: "5"
+pages: "325-334"
+journal: "Journal of the Ancient Near Eastern Society of Columbia University"
+title: "A Note on ša rēši"
+previous_item: "8578"
+---

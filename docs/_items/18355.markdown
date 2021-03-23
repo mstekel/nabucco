@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18355"
+occurrence_id: "809"
+short_title: "Hudson;Levine 1999"
+author: "Hudson, Michael "
+publication_year: "1999"
+title: "Urbanization and Land Ownership in the Ancient Near East, Peabody Museum Bulletin 7 (Cambridge)"
+title: "Urbanization and Land Ownership in the Ancient Near East, Peabody Museum Bulletin 7 (Cambridge)"
+previous_item: "18358"
+---

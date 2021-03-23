@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15763"
+occurrence_id: "1647"
+short_title: "BiOr 22 (1965), 239-242"
+author: "Cocquerillat, Denise"
+publication_year: "1965"
+title: "Les calculs pratiques sur les fractions à l'époque séleucide"
+volume_no_: "22"
+pages: "239-242"
+journal: "Bibliotheca Orientalis"
+title: "Les calculs pratiques sur les fractions à l'époque séleucide"
+previous_item: "15766"
+---

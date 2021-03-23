@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "33868"
+place_id: "649"
+parent_id: "40"
+place_name: "Šatirtu"
+related_objects: "7949"
+title: "Šatirtu"
+previous_item: "33871"
+---

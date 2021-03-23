@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16843"
+occurrence_id: "5208"
+short_title: "Gabbay 2014"
+author: "Gabbay, Uri "
+publication_year: "2014"
+title: "Pacifying The Hearts Of The Gods. Sumerian Emesal Prayers Of The First Millennium BC, Heidelberer Emesal-Studien 1 (Wiesbaden)"
+title: "Pacifying The Hearts Of The Gods. Sumerian Emesal Prayers Of The First Millennium BC, Heidelberer Emesal-Studien 1 (Wiesbaden)"
+previous_item: "16846"
+---

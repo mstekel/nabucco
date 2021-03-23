@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14077"
+occurrence_id: "1612"
+short_title: "BCSMS 35 (2000), 91"
+author: "Brown, Stuart C."
+publication_year: "2000"
+title: "Rv. D.T. Potts, the Archaeology of Elam: Formation and Transformation of an Ancient Iranian Site (Cambridge 1999)"
+volume_no_: "35"
+pages: "91"
+journal: "Bulletin. The Canadian Society for Mesopotamian Studies"
+title: "Rv. D.T. Potts, the Archaeology of Elam: Formation and Transformation of an Ancient Iranian Site (Cambridge 1999)"
+previous_item: "14080"
+---

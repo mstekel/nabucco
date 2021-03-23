@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18196"
+occurrence_id: "608"
+short_title: "UET IV"
+author: "Figulla, Hugo Heinrich M. "
+publication_year: "1949"
+title: "Ur Excavations, Texts IV: Business documents of the New-Babylonian period"
+title: "Ur Excavations, Texts IV: Business documents of the New-Babylonian period"
+previous_item: "18199"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9322"
+occurrence_id: "3058"
+short_title: "RA 75 (1981), 91-92"
+author: "McEwan, Gilbert J.P."
+publication_year: "1981"
+title: "ša taturru"
+volume_no_: "75"
+pages: "91-92"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "ša taturru"
+previous_item: "9325"
+---

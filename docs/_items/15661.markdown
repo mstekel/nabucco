@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "15661"
+occurrence_id: "245"
+short_title: "Unger, RlA 1"
+author: "Unger, Eckhard"
+publication_year: "1932"
+title: "Barsippa"
+pages: "402-429"
+journal: "RlA 1 A-Bepašte"
+title: "Barsippa"
+previous_item: "15664"
+---

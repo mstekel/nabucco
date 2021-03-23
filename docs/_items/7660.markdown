@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7660"
+occurrence_id: "3167"
+short_title: "SAAB 14 (2002-2005), 133-167."
+author: "Ponchia, Simonetta"
+publication_year: "2002-2005"
+title: "Notes on the Legal Conventions and on the Practice of the adê in the Early Neo-Babylonian Letters from Nippur."
+volume_no_: "14"
+pages: "133-167"
+journal: "State Archives of Assyria, Bulletin"
+title: "Notes on the Legal Conventions and on the Practice of the adê in the Early Neo-Babylonian Letters from Nippur."
+previous_item: "7663"
+---

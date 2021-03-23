@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9931"
+occurrence_id: "3317"
+short_title: "WeOr 18 (1987 publ. 1988), 26-42"
+author: "Farber, Walter"
+publication_year: "1987 publ. 1988"
+title: "Neues aus Uruk: \"Zur Bibliohek des Iqīša\""
+volume_no_: "18"
+pages: "26-42"
+journal: "Die Welt des Orients"
+title: "Neues aus Uruk: \"Zur Bibliohek des Iqīša\""
+previous_item: "9934"
+---

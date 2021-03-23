@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "20404"
+occurrence_id: "4186"
+short_title: "Aaboe 1974"
+author: "Aaboe, Asger"
+publication_year: "1974"
+title: "Scientific Astronomy in Antiquity"
+pages: "21-42"
+editor: "Kendall, D.G."
+title: "Scientific Astronomy in Antiquity"
+previous_item: "20407"
+---

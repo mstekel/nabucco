@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19600"
+occurrence_id: "4294"
+short_title: "Collon 2001"
+author: "Collon, Dominique"
+publication_year: "2001"
+title: "Les empreintes de la période Ninivite 5 à Ninive"
+pages: "121-150"
+editor: "Breniquet, Catherine"
+book: "Études Mésopotamiennes, Fs. Huot (Paris)"
+title: "Les empreintes de la période Ninivite 5 à Ninive"
+previous_item: "19603"
+---

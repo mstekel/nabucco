@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33739"
+place_id: "358"
+parent_id: "40"
+place_name: "Bīt-Ṣūrāja"
+title: "Bīt-Ṣūrāja"
+previous_item: "33742"
+---

@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "19195"
+occurrence_id: "4341"
+short_title: "Vogt 1957"
+author: "Vogt, Ernst"
+publication_year: "1957"
+title: "Die neubabylonische Chronik über die Schlacht bei Karkemisch und die Einnahme von Jerusalem"
+pages: "67-96"
+book: "Volume du Congrès: Strasbourg 1956, VT Supplement IV (1957)"
+title: "Die neubabylonische Chronik über die Schlacht bei Karkemisch und die Einnahme von Jerusalem"
+previous_item: "19198"
+---

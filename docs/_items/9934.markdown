@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9934"
+occurrence_id: "3333"
+short_title: "WeOr 28 (1997), 96-116"
+author: "Dirven, Lucinda"
+publication_year: "1997"
+title: "The exaltation of Nabû. A revision of the Relief depicting thebattle against Tiamat from the Temple of Bel in Palmyra"
+volume_no_: "28"
+pages: "96-116"
+journal: "Die Welt des Orients"
+title: "The exaltation of Nabû. A revision of the Relief depicting thebattle against Tiamat from the Temple of Bel in Palmyra"
+previous_item: "9937"
+---

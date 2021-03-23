@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "14506"
+occurrence_id: "3921"
+short_title: "AfO 52 (2011), 156-178"
+author: "Brack-Bernsen, Lis"
+publication_year: "2011"
+title: "Prediction of Days and Pattern of the Babylonian Lunar Six"
+volume_no_: "52"
+pages: "156-178"
+title: "Prediction of Days and Pattern of the Babylonian Lunar Six"
+previous_item: "14509"
+---

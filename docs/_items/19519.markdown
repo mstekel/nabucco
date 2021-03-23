@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19519"
+occurrence_id: "4966"
+short_title: "Vargyas 2010f"
+author: "Vargyas, Péter"
+publication_year: "2010"
+title: "Le libéralisme séleucide et l’essor économique de la Babylonie: un rapport de cause à effet?"
+pages: "177-190"
+editor: "Csabai, Zoltán"
+book: "From Elephantine to Babylon. Selected Studies of Péter Vargyas on Ancient Near Eastern Economy, Ancient Near Eastern and Mediterranean Studies 1 (Budapest)"
+title: "Le libéralisme séleucide et l’essor économique de la Babylonie: un rapport de cause à effet?"
+previous_item: "19522"
+---

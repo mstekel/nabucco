@@ -1,0 +1,12 @@
+---
+layout: "bibliography"
+slug: "12856"
+occurrence_id: "4047"
+short_title: "NABU 2015/82 or 2015/54"
+author: "Waerzeggers, Caroline"
+publication_year: "2015"
+title: "The Neo-Babylonian chronicle about Sabium and Apil-Sîn: a copy of the text (BM 29440)"
+volume_no_: "2015/82 or 2015/54"
+title: "The Neo-Babylonian chronicle about Sabium and Apil-Sîn: a copy of the text (BM 29440)"
+previous_item: "12859"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18967"
+occurrence_id: "4227"
+short_title: "Waerzeggers 2014a"
+author: "Waerzeggers, Caroline"
+publication_year: "2014"
+title: "Social Network Analysis of Cuneiform Archives - a New Approach"
+pages: "207-233"
+editor: "Baker, Heather D."
+book: "Documentary Sources in Ancient Near Eastern and Greco-Roman Economic History. Methodology and Practice (Oxford/Philadelphia)"
+title: "Social Network Analysis of Cuneiform Archives - a New Approach"
+previous_item: "18970"
+---

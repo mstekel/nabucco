@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19816"
+occurrence_id: "4344"
+short_title: "von Dassow 1999"
+author: "von Dassow, Eva"
+publication_year: "1999"
+title: "Introducing the Witnesses in Neo-Babylonian Documents"
+pages: "3-22"
+editor: "Schiffman, Lawrence H."
+book: "Ki Baruch Hu. Ancient Near Eastern, Biblical, and Judaic Studies, Fs. Levine (Winona Lake)"
+title: "Introducing the Witnesses in Neo-Babylonian Documents"
+previous_item: "19819"
+---

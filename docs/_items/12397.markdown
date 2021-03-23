@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12397"
+occurrence_id: "1577"
+short_title: "BaM 35 (2004), 27-38."
+author: "MacGinnis, John"
+publication_year: "2004"
+title: "Servants of the Sun-God: Numbering the dependents of the Neo-Babylonian Ebabbara."
+volume_no_: "35"
+pages: "27-38"
+journal: "Baghdader Mitteilungen"
+title: "Servants of the Sun-God: Numbering the dependents of the Neo-Babylonian Ebabbara."
+previous_item: "12400"
+---

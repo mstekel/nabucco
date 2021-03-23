@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17332"
+occurrence_id: "850"
+short_title: "Nemet-Nejat 1982"
+author: "Nemet-Nejat, Karen Rhea "
+publication_year: "1982"
+title: "Late Babylonian Field Plans in the British Museum, Studia Pohl, Series Maior 11 (Roma)"
+title: "Late Babylonian Field Plans in the British Museum, Studia Pohl, Series Maior 11 (Roma)"
+previous_item: "17335"
+---

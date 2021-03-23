@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9352"
+occurrence_id: "3218"
+short_title: "StIr 5 (1976), 33-65"
+author: "Herrenschmidt, Clarisse"
+publication_year: "1976"
+title: "Désignation de l´empire et concepts politiques de Darius Ier d´après ses inscriptioons en vieux-perse"
+volume_no_: "5"
+pages: "33-65"
+journal: "Studia Iranica"
+title: "Désignation de l´empire et concepts politiques de Darius Ier d´après ses inscriptioons en vieux-perse"
+previous_item: "9355"
+---

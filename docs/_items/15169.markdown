@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15169"
+occurrence_id: "1469"
+short_title: "ArOr 27 (1959), 401-406"
+author: "Klíma, Josef"
+publication_year: "1959"
+title: "Quelques remarques sur le droit successoral d´après les prescriptions néo-babyloniennes"
+volume_no_: "27"
+pages: "401-406"
+journal: "Archív Orientalí"
+title: "Quelques remarques sur le droit successoral d´après les prescriptions néo-babyloniennes"
+previous_item: "15172"
+---

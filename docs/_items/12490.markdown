@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12490"
+occurrence_id: "2076"
+short_title: "JAOS 114 (1994), 617-624"
+author: "Stolper, Matthew W."
+publication_year: "1994"
+title: "Rv. M.A. Dandamayev, Iranians in Achaemenid Babylonia (1992)"
+volume_no_: "114"
+pages: "617-624"
+journal: "Journal of the American Oriental Society"
+title: "Rv. M.A. Dandamayev, Iranians in Achaemenid Babylonia (1992)"
+previous_item: "12493"
+---

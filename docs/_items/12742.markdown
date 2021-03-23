@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12742"
+occurrence_id: "3435"
+short_title: "ZA 68 (1978), 261-269"
+author: "Stolper, Matthew W."
+publication_year: "1978"
+title: "šarnuppu"
+volume_no_: "68"
+pages: "261-269"
+journal: "Zeitschrift für Assyriologie"
+title: "šarnuppu"
+previous_item: "12745"
+---

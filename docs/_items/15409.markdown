@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15409"
+occurrence_id: "2760"
+short_title: "OLP 5 (1974 publ. 1975), 21-29"
+author: "Hulstaert, Louis"
+publication_year: "1974 publ. 1975"
+title: "DPe 13-15 and DB I, 15-17 Reconsidered"
+volume_no_: "5"
+pages: "21-29"
+journal: "Orientalia Lovaniensia Periodica"
+title: "DPe 13-15 and DB I, 15-17 Reconsidered"
+previous_item: "15412"
+---

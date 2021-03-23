@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16387"
+occurrence_id: "1987"
+short_title: "Iraq 63 (2001), 171-181"
+author: "Al-Rawi, Farouk , N.H."
+publication_year: "2001"
+title: "Tablets from the Sippar library IX. A ziqpu-star planisphere"
+volume_no_: "63"
+pages: "171-181"
+journal: "Iraq"
+title: "Tablets from the Sippar library IX. A ziqpu-star planisphere"
+previous_item: "16390"
+---

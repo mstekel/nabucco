@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11950"
+occurrence_id: "2171"
+short_title: "JCS 31 (1979), 127-148"
+author: "Rochberg-Halton, Francesca"
+publication_year: "1979"
+title: "The University of Iowa Cuneiform Texts,"
+volume_no_: "31"
+pages: "127-148"
+journal: "Journal of Cuneiform Studies"
+title: "The University of Iowa Cuneiform Texts,"
+previous_item: "11953"
+---

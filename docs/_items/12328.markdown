@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12328"
+occurrence_id: "1199"
+short_title: "AfO 20, (1963), 155"
+author: "von Soden, Wolfram"
+publication_year: "1963"
+title: "izqātu, išqātu 'Kettenringe,' ein aramäisches Lehnwort"
+volume_no_: "20"
+pages: "155"
+journal: "Archiv für Orientforschung"
+title: "izqātu, išqātu 'Kettenringe,' ein aramäisches Lehnwort"
+previous_item: "12331"
+---

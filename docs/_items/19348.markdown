@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19348"
+occurrence_id: "5157"
+short_title: "Beljavskij 1971"
+author: "Beljavskij, Vitali A."
+publication_year: "1971"
+title: "Der politische Kampf in Babylon in den Jahren 562-556 v. Chr."
+pages: "197-215"
+editor: "Lurker, Manfred"
+book: "Beiträge zu Geschichte, Kultur and Religion des Alten Orients. Gs. Unger (Baden-Baden)"
+title: "Der politische Kampf in Babylon in den Jahren 562-556 v. Chr."
+previous_item: "19351"
+---

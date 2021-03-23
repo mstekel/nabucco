@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34840"
+place_id: "244"
+parent_id: "40"
+place_name: "Bīt-Dajjānatu"
+title: "Bīt-Dajjānatu"
+previous_item: "34843"
+---

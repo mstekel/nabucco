@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16276"
+occurrence_id: "1390"
+short_title: "AnSt 8 (1958), 35- 92"
+author: "Gadd, Cyril J."
+publication_year: "1958"
+title: "The Harran Inscriptions of Nabonidus"
+volume_no_: "8"
+pages: "35-92"
+journal: "Anatolian Studies"
+title: "The Harran Inscriptions of Nabonidus"
+previous_item: "16279"
+---

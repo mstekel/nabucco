@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20335"
+occurrence_id: "4922"
+short_title: "Beaulieu 1993"
+author: "Beaulieu, Paul-A."
+publication_year: "1993"
+title: "The Historical Background of the Uruk Prophecy"
+pages: "41-52"
+editor: "Snell, Daniel C."
+book: "The Tablet and the Scroll. Near Eastern Studies in Honor of William W. Hallo, Fs. Hallo (Bethesda)"
+title: "The Historical Background of the Uruk Prophecy"
+previous_item: "20338"
+---

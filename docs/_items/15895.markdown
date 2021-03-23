@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15895"
+occurrence_id: "2357"
+short_title: "JNES 66 (2007), 66"
+author: "George, Andrew, R."
+publication_year: "2007"
+title: "Rv. S. W. Cole, The Early Neo-Babylonian Governor's Archive from Nippur, and Nippur in Late Assyrian Times c. 755-512 BC."
+volume_no_: "66"
+pages: "66"
+journal: "Journal of Near Eastern Studies"
+title: "Rv. S. W. Cole, The Early Neo-Babylonian Governor's Archive from Nippur, and Nippur in Late Assyrian Times c. 755-512 BC."
+previous_item: "15898"
+---

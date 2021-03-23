@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "18541"
+occurrence_id: "4161"
+short_title: "Schuster-Brandis 2012"
+author: "Schuster-Brandis, Anais"
+publication_year: "2012"
+title: "Heilen mit Steinen: Bemerkungen zum Gebrauch von Amulettsteinketten"
+pages: "237-252"
+editor: "Neumann, Hans"
+title: "Heilen mit Steinen: Bemerkungen zum Gebrauch von Amulettsteinketten"
+previous_item: "18544"
+---

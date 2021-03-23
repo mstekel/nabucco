@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "10900"
+occurrence_id: "2526"
+short_title: "NABU 1995/46"
+author: "Vallat, François"
+title: "Epopée de Gilgameš ou tablette économique de Persépolis? Ni l´un, ni l´autre!"
+volume_no_: "46"
+publication_year: "1995"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Epopée de Gilgameš ou tablette économique de Persépolis? Ni l´un, ni l´autre!"
+previous_item: "10903"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9127"
+occurrence_id: "2006"
+short_title: "Isis 54 (1963), 229-246"
+author: "Pingree, David"
+publication_year: "1963"
+title: "Astronomy and Astrology in India and Iran"
+volume_no_: "54"
+pages: "229-246"
+journal: "Isis"
+title: "Astronomy and Astrology in India and Iran"
+previous_item: "9130"
+---

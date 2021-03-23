@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "19162"
+occurrence_id: "4164"
+short_title: "Lemaire 2003"
+author: "Lemaire, André"
+publication_year: "2003"
+title: "Nabonidus in Arabia and Judah in the Neo-Babylonian Period"
+pages: "285-300"
+editor: "Blenkinsopp, Joseph "
+title: "Nabonidus in Arabia and Judah in the Neo-Babylonian Period"
+previous_item: "19165"
+---

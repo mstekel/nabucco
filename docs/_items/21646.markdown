@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "21646"
+occurrence_id: "4192"
+short_title: "Pongratz-Leisten 2014"
+author: "Pongratz-Leisten, Beate"
+publication_year: "2014"
+title: "Bad Kings in the Literary History of Mesopotamia and the Interface between Law, Divination, and Religion"
+pages: "527-548"
+editor: "Greco, Alessandro"
+title: "Bad Kings in the Literary History of Mesopotamia and the Interface between Law, Divination, and Religion"
+previous_item: "21649"
+---

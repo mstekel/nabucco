@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16993"
+occurrence_id: "346"
+short_title: "Buhl 1968"
+author: "Buhl, Marie-Louise "
+publication_year: "1968"
+title: "Skatte fra det gamle Persien"
+title: "Skatte fra det gamle Persien"
+previous_item: "16996"
+---

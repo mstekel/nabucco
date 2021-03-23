@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21388"
+occurrence_id: "5023"
+short_title: "van der Spek 1998a"
+author: "van der Spek, Robartus"
+publication_year: "1998"
+title: "Cuneiform Documents on Parthian History: the Rahimesu Archive. Materials for the Study of the Standard of Living"
+pages: "205-258"
+editor: "Wiesehöfer, Josef"
+book: "Das Parther-Reich and seine Zeugnisse, Historia-Einzelschriften 122 (Stuttgart)"
+title: "Cuneiform Documents on Parthian History: the Rahimesu Archive. Materials for the Study of the Standard of Living"
+previous_item: "21391"
+---

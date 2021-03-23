@@ -1,0 +1,16 @@
+---
+layout: "tablet"
+slug: "25171"
+object_id: "6724"
+nabucco_no_: "L1638"
+museum_no_: "L 1638"
+publication: "Joannès 1989"
+text_number: "239"
+type_and_content: "Letters"
+paraphrase: "Letter of Marduk-zēr-ibni to Zēr-Bābili about goldsmiths.<br /> &nbsp;"
+imported: "Melanie Gross (12/12/2016)"
+publication_name: "Joannès 1989 239"
+archive: "Ea-ilūtu-bāni, Ilī-bāni and Nanāhu"
+title: "L 1638"
+previous_item: "25174"
+---

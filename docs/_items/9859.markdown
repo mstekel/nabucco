@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9859"
+occurrence_id: "2929"
+short_title: "Or 70/1 (2001), 137-141"
+author: "Zawadzki, Stefan"
+publication_year: "2001"
+title: "Rv. R.H. Sack, Cuneiform Documents from the Chaldean and Persian Periods (1994)"
+volume_no_: "70/1"
+pages: "137-141"
+journal: "Orientalia"
+title: "Rv. R.H. Sack, Cuneiform Documents from the Chaldean and Persian Periods (1994)"
+previous_item: "9862"
+---

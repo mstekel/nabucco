@@ -1,0 +1,10 @@
+---
+layout: "glossary"
+slug: "35533"
+concept_id: "1306"
+label: "Receipt of income"
+hierarchy: "Content type"
+type: "172"
+title: "Receipt of income"
+previous_item: "35536"
+---

@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "34372"
+place_id: "1493"
+parent_id: "37"
+place_name: "Ālu-ša-Nabû-ēreš"
+related_objects: "7798"
+title: "Ālu-ša-Nabû-ēreš"
+previous_item: "34375"
+---

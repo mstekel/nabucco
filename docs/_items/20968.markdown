@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20968"
+occurrence_id: "4989"
+short_title: "Zadok 1997"
+author: "Zadok, Ran"
+publication_year: "1997"
+title: "Syro-Mesopotamian Notes"
+pages: "447-457"
+editor: "Pongratz-Leisten, Beate"
+book: "Beiträge zu altorientalischen und mittelmeerischen Kulturen, Fs.Röllig, AOAT 247 (Neukirchen-Vluyn)"
+title: "Syro-Mesopotamian Notes"
+previous_item: "20971"
+---

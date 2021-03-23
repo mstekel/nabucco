@@ -1,0 +1,16 @@
+---
+layout: "tablet"
+slug: "32116"
+object_id: "4448"
+museum_no_: "BM 30668"
+publication: "Dar."
+text_number: "534"
+duplicate: "BM 30938"
+transliteration: "Transliteration available on <a href=\"http://www.achemenet.com/fr/item/?/sources-textuelles/textes-par-langues-et-ecritures/babylonien/archives-egibi/1664068\" target=\"_blank\">Achemenet</a>"
+imported: "Kathleen Abraham (18/04/2016)"
+publication_name: "Dar. 534"
+archive: "Egibi/Nūr-Sîn"
+related_objects: "4450"
+title: "BM 30668"
+previous_item: "32119"
+---

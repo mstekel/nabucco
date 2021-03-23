@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "17749"
+occurrence_id: "152"
+short_title: "GCCI 2"
+author: "Dougherty, Raymond Ph. "
+publication_year: "1933"
+title: "Archives from Erech, Neo-Babylonian and Persian Periods.  Goucher College Cuneiform Inscriptions 2 (New Haven)"
+volume_no_: "2"
+related_objects: "5688"
+title: "Archives from Erech, Neo-Babylonian and Persian Periods.  Goucher College Cuneiform Inscriptions 2 (New Haven)"
+previous_item: "17752"
+---

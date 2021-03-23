@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20737"
+occurrence_id: "4860"
+short_title: "Dandamayev 1991"
+author: "Dandamayev, Muhammed A."
+publication_year: "1991"
+title: "Neo-Babylonian Society and Economy"
+pages: "252-275"
+editor: "Walker, Christopher,  Bromhead F."
+book: "The Cambridge Ancient History. 2nd Edition. CAH III/2: the Assyrian and Babylonian Empires and Other States of the Near East, from the Eighth to Sixth Centuries, (Cambridge)"
+title: "Neo-Babylonian Society and Economy"
+previous_item: "20740"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7792"
+occurrence_id: "3877"
+short_title: "ZAW 96 (1984), 453-454"
+author: "Schmitt, H.-C."
+publication_year: "1984"
+title: "Rv. P. Frei and K. Koch, Reichsidee und Reichsorganisation im Perserreich, OBO 55 (Freiburg Schweiz and Göttingen 1984)"
+volume_no_: "96"
+pages: "453-454"
+journal: "Zeitschrift für die alttestamentliche Wissenschaft"
+title: "Rv. P. Frei and K. Koch, Reichsidee und Reichsorganisation im Perserreich, OBO 55 (Freiburg Schweiz and Göttingen 1984)"
+previous_item: "7795"
+---

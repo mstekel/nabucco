@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8857"
+occurrence_id: "3575"
+short_title: "Zeitschrift für vergleichende Sprachwissenschaft 75 (1958), 239"
+author: "Hamp, Eric P."
+publication_year: "1958"
+title: "Old Persian avā"
+volume_no_: "75"
+pages: "239"
+journal: "Zeitschrift für vergleichende Sprachforschung"
+title: "Old Persian avā"
+previous_item: "8860"
+---

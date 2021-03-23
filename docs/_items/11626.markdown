@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11626"
+occurrence_id: "3433"
+short_title: "ZA 67 (1977), 42-52"
+author: "Sack, Ronald H."
+publication_year: "1977"
+title: "The Scribe Nabû-bāni-ahí, son of Ibnā, and theHierarchy of Eanna as seen in theErech Contracts"
+volume_no_: "67"
+pages: "42-52"
+journal: "Zeitschrift für Assyriologie"
+title: "The Scribe Nabû-bāni-ahí, son of Ibnā, and theHierarchy of Eanna as seen in theErech Contracts"
+previous_item: "11629"
+---

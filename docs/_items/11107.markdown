@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "11107"
+occurrence_id: "3643"
+short_title: "BLOT (1990), 40"
+author: "Jacobs, Bruno"
+publication_year: "1990"
+title: "Rv. M.T. Roh, Babylonian Marriage Agreements 7th-3rd Centuries B.C. (AOAT 222, 1989)"
+pages: "40"
+journal: "Book List. Society for Old Testament Studies (Llansadwrn, Menai Bridge)"
+title: "Rv. M.T. Roh, Babylonian Marriage Agreements 7th-3rd Centuries B.C. (AOAT 222, 1989)"
+previous_item: "11110"
+---

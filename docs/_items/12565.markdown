@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "12565"
+occurrence_id: "2480"
+short_title: "NABU 1991/113"
+author: "Joannès, Francis"
+publication_year: "1991"
+title: "Nabû-apla-iddin or Nabû-apla-uṣur?"
+volume_no_: "113"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Nabû-apla-iddin or Nabû-apla-uṣur?"
+previous_item: "12568"
+---

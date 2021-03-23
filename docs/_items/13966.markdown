@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "13966"
+occurrence_id: "4017"
+short_title: "Palamedes 6 (2011), 17-36"
+author: "Sandowicz, Malgorzata"
+publication_year: "2011"
+title: "'Fear the Oath!' Stepping Back from Oath Taking in First Millennium B.C. Babylonia"
+volume_no_: "6"
+pages: "17-36"
+title: "'Fear the Oath!' Stepping Back from Oath Taking in First Millennium B.C. Babylonia"
+previous_item: "13969"
+---

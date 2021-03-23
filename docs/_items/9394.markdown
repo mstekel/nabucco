@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9394"
+occurrence_id: "3445"
+short_title: "ZA 70 (1981), 58-69"
+author: "McEwan, Gilbert J.P."
+publication_year: "1981"
+title: "A Seleucid Augural Request"
+volume_no_: "70"
+pages: "58-69"
+journal: "Zeitschrift für Assyriologie"
+title: "A Seleucid Augural Request"
+previous_item: "9397"
+---

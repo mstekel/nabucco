@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "15634"
+occurrence_id: "3972"
+short_title: "Iraq 73 (2011), 169-176"
+author: "Keetman, Jan"
+publication_year: "2011"
+title: "Eine als Ziqqurrat gedeutete Skizze einer Treppenanlage"
+volume_no_: "2011"
+pages: "169-176"
+title: "Eine als Ziqqurrat gedeutete Skizze einer Treppenanlage"
+previous_item: "15637"
+---

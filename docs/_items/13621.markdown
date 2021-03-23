@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13621"
+occurrence_id: "2158"
+short_title: "JCS 21 (1967), 183-218"
+author: "Sachs, Abraham J."
+publication_year: "1967"
+title: "Some Atypical Astronomical Cuneiform Texts I"
+volume_no_: "21"
+pages: "138-218"
+journal: "Journal of Cuneiform Studies"
+title: "Some Atypical Astronomical Cuneiform Texts I"
+previous_item: "13624"
+---

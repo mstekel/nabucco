@@ -1,0 +1,10 @@
+---
+layout: "glossary"
+slug: "35578"
+concept_id: "1270"
+label: "Receipt"
+hierarchy: "Content type"
+type: "172"
+title: "Receipt"
+previous_item: "35581"
+---

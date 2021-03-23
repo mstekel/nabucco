@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "15964"
+occurrence_id: "2729"
+short_title: "NABU 2010/17"
+author: "Koch, Johannes"
+title: "Ein astronomischer Sonderfall: Ach Ishtar XXI, 12 // XXVIII, 22-23a."
+volume_no_: "17"
+publication_year: "2010"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Ein astronomischer Sonderfall: Ach Ishtar XXI, 12 // XXVIII, 22-23a."
+previous_item: "15967"
+---

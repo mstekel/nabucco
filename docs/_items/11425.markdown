@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11425"
+occurrence_id: "2349"
+short_title: "JNES 62 (2003), 204-205"
+author: "Abdi, Kamyar"
+publication_year: "2003"
+title: "Rv. J. Curtis (ed), Mesopotamia and Iran in the Parthian and Sassanian Periods: Rejection and Revival c. 238 BC - AD 642."
+volume_no_: "62"
+pages: "204-205"
+journal: "Journal of Near Eastern Studies"
+title: "Rv. J. Curtis (ed), Mesopotamia and Iran in the Parthian and Sassanian Periods: Rejection and Revival c. 238 BC - AD 642."
+previous_item: "11428"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18922"
+occurrence_id: "5091"
+short_title: "Maul 1995"
+author: "Maul, Stefan M."
+publication_year: "1995"
+title: "Totengeist and Vögel. Eine Vogelliste aus dem neubabylonischen Grab 433 in Uruk"
+pages: "218-220"
+editor: "Salje, Beate"
+book: "Uruk. Die Gräber, AUWE 10 (Berlin)"
+title: "Totengeist and Vögel. Eine Vogelliste aus dem neubabylonischen Grab 433 in Uruk"
+previous_item: "18925"
+---

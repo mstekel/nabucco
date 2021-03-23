@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17917"
+occurrence_id: "482"
+short_title: "Krückmann 1931"
+author: "Krückmann, O. "
+publication_year: "1931"
+title: "Babylonische Rechts- und Verwaltungsurkunden aus der Zeit Alexanders und der Diadochen"
+title: "Babylonische Rechts- und Verwaltungsurkunden aus der Zeit Alexanders und der Diadochen"
+previous_item: "17920"
+---

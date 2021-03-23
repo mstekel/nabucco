@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12751"
+occurrence_id: "3484"
+short_title: "ZA 86 (1996), 275-284"
+author: "Streck, Michael , P."
+publication_year: "1996"
+title: "Rv. F. Malbran-Labat, La version akkadienne de l´inscription trilingue de Darius à Behistun (Documenta Asiana 1, 1994)"
+volume_no_: "86"
+pages: "275-284"
+journal: "Zeitschrift für Assyriologie"
+title: "Rv. F. Malbran-Labat, La version akkadienne de l´inscription trilingue de Darius à Behistun (Documenta Asiana 1, 1994)"
+previous_item: "12754"
+---

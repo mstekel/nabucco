@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13771"
+occurrence_id: "2970"
+short_title: "PalSb 5 (68) (1960), 2-31"
+author: "Dandamayev, Muhammed A."
+publication_year: "1960"
+title: "About the Dynasty of Achaemenids"
+volume_no_: "5 (68)"
+pages: "2-31."
+journal: "Palestinskij Szbornik"
+title: "About the Dynasty of Achaemenids"
+previous_item: "13774"
+---

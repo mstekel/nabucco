@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18937"
+occurrence_id: "5171"
+short_title: "Hinz 1969"
+author: "Hinz, Walther"
+publication_year: "1969"
+title: "Die Schrift der Elamer"
+pages: "222-227"
+editor: "Hausmann, U."
+book: "Allgemeine Grandlagen der Archäologie. Begriff and Methode, Geschichte, Problem der Form, Schriftzeugnisse, Handbuch der Archäologie (München)"
+title: "Die Schrift der Elamer"
+previous_item: "18940"
+---

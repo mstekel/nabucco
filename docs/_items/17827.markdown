@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17827"
+occurrence_id: "734"
+short_title: "Aro 1970"
+author: "Aro, Jussi "
+publication_year: "1970"
+title: "Mittelbabylonische Kleidertexte der Hilprecht-Sammlung Jena. Mit einem Anhang: Fünf alt-, mittel- und neubabylonische Texte verschiedenen Inhalts aus der gleichen Sammlung, BSAW 115/2 (Berlin)"
+title: "Mittelbabylonische Kleidertexte der Hilprecht-Sammlung Jena. Mit einem Anhang: Fünf alt-, mittel- und neubabylonische Texte verschiedenen Inhalts aus der gleichen Sammlung, BSAW 115/2 (Berlin)"
+previous_item: "17830"
+---

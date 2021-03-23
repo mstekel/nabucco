@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "18754"
+occurrence_id: "4194"
+short_title: "Studevent-Hickman, Melville and Noegel 2006"
+author: "Studevent-Hickman, Benjamin"
+publication_year: "2006"
+title: "\"Neo-Babylonian Period Texts from Babylonia and Syro-Palestine\""
+pages: "382-406"
+editor: "Chavalas, Mark W."
+title: "\"Neo-Babylonian Period Texts from Babylonia and Syro-Palestine\""
+previous_item: "18757"
+---

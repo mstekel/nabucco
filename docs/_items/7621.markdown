@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7621"
+occurrence_id: "2959"
+short_title: "OrS 16 (1967), 135-180"
+author: "Nylander, Carl"
+publication_year: "1967"
+title: "Who Wrote the Inscription at Parsargadae? Achaemenian Problems. III"
+volume_no_: "16"
+pages: "135-180"
+journal: "Orientalia Suecana"
+title: "Who Wrote the Inscription at Parsargadae? Achaemenian Problems. III"
+previous_item: "7624"
+---

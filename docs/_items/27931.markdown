@@ -1,0 +1,15 @@
+---
+layout: "tablet"
+slug: "27931"
+object_id: "7465"
+nabucco_no_: "BM68827"
+museum_no_: "BM 68827"
+text_number: "98b"
+duplicate: "BM 63805"
+archive: "Ṣāhit-ginê A"
+related_objects: "6616"
+publication: "Waerzeggers 2014"
+publication_name: "Waerzeggers 2014 98b"
+title: "BM 68827"
+previous_item: "27934"
+---

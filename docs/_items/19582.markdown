@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "19582"
+occurrence_id: "4198"
+short_title: "Funck 1982"
+author: "Funck, Bernd"
+publication_year: "1982"
+title: "Zur Widerspiegelung von Basis-Überbau-Problemen in den keilschriftlichen Pfründentexten der Seleukidenzeit. Das Archiv des Dumqi-Anu"
+pages: "373-387"
+editor: "Sellnow, Irmgard "
+title: "Zur Widerspiegelung von Basis-Überbau-Problemen in den keilschriftlichen Pfründentexten der Seleukidenzeit. Das Archiv des Dumqi-Anu"
+previous_item: "19585"
+---

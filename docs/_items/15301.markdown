@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15301"
+occurrence_id: "2178"
+short_title: "JCS 38 (1986), 172-244"
+author: "Kennedy, Douglas A."
+publication_year: "1986"
+title: "Documentary Evidence for the Economic Base of Early Neo-Babylonian Society. Part II: A Survey of Babylonian Texts, 626-605 B.C."
+volume_no_: "38"
+pages: "172-244"
+journal: "Journal of Cuneiform Studies"
+title: "Documentary Evidence for the Economic Base of Early Neo-Babylonian Society. Part II: A Survey of Babylonian Texts, 626-605 B.C."
+previous_item: "15304"
+---

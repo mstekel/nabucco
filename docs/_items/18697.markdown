@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18697"
+occurrence_id: "4994"
+short_title: "Descat 1997"
+author: "Descat, Raymond"
+publication_year: "1997"
+title: "Le tribut et l´économie tributaire dans l´Empire achéménide"
+pages: "253-262"
+editor: "Andreau, Jean"
+book: "Recherche récentes sur l'empire achéménide, Topoi Supplément 1 (Lyon)"
+title: "Le tribut et l´économie tributaire dans l´Empire achéménide"
+previous_item: "18700"
+---

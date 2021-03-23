@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20977"
+occurrence_id: "5037"
+short_title: "Rollinger 2001"
+author: "Rollinger, Robert"
+publication_year: "2001"
+title: "The ancient Greek and the Impact of the Ancient Near East: Textual evidence and historical perspective (ca. 750-650 BC)"
+pages: "233-264"
+editor: "Whiting, Robert McCray"
+book: "Mythology and Mythologies. Methodological Approaches to Intercultural Influences, Melammu Symposia II (Helsinki)"
+title: "The ancient Greek and the Impact of the Ancient Near East: Textual evidence and historical perspective (ca. 750-650 BC)"
+previous_item: "20980"
+---

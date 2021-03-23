@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12352"
+occurrence_id: "1333"
+short_title: "AMI 15 (1982), 105-187"
+author: "Calmeyer, Peter"
+publication_year: "1982"
+title: "Zur Genese altiranischer Motive VII: Die statistische Landcharte des Perserreiches I"
+volume_no_: "15"
+pages: "105-187"
+journal: "Archäologische Mitteilungen aus Iran"
+title: "Zur Genese altiranischer Motive VII: Die statistische Landcharte des Perserreiches I"
+previous_item: "12355"
+---

@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "15394"
+occurrence_id: "2679"
+short_title: "NABU 2005/8"
+author: "Zawadzki, Stefan"
+title: "A Neo-Babylonian Text concerning the work in the Ninmah temple."
+volume_no_: "8"
+publication_year: "2005"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "A Neo-Babylonian Text concerning the work in the Ninmah temple."
+previous_item: "15397"
+---

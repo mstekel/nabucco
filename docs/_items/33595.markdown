@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "33595"
+place_id: "1484"
+parent_id: "43"
+place_name: "Ālu-ša-mê-Bīt-Bēl-kāṣir"
+related_objects: "6650"
+title: "Ālu-ša-mê-Bīt-Bēl-kāṣir"
+previous_item: "33598"
+---

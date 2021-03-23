@@ -1,0 +1,16 @@
+---
+layout: "tablet"
+slug: "32992"
+object_id: "8859"
+museum_no_: "BM 43510"
+publication: "Jursa 1999"
+page_number: "239"
+period: "Each"
+type_and_content: "Indeterminate legal texts"
+paraphrase: "Fragment"
+imported: "Matthias Adelhofer (07/06/17)"
+publication_name: "Jursa 1999 "
+archive: "Šangû-Šamaš A"
+title: "BM 43510"
+previous_item: "32995"
+---

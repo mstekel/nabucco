@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12313"
+occurrence_id: "291"
+short_title: "Frame, JCS 36/1"
+author: "Frame, Grant"
+publication_year: "1984"
+title: "“First Families” of Borsippa during the Early Neo-Babylonian Period"
+volume_no_: "36/1"
+pages: "67-80"
+journal: "Journal of Cuneiform Studies "
+title: "“First Families” of Borsippa during the Early Neo-Babylonian Period"
+previous_item: "12316"
+---

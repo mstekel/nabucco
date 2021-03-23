@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8005"
+occurrence_id: "2004"
+short_title: "Iraq 71 (2009), 89-98."
+author: "Baker, Heather D."
+publication_year: "2009"
+title: "A waste of space? Unbuilt land in the Babylonian cities of the First millennium BC."
+volume_no_: "71"
+pages: "89-98"
+journal: "Iraq"
+title: "A waste of space? Unbuilt land in the Babylonian cities of the First millennium BC."
+previous_item: "8008"
+---

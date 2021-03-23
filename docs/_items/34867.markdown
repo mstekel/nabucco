@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34867"
+place_id: "676"
+parent_id: "40"
+place_name: "Til-hurdi"
+title: "Til-hurdi"
+previous_item: "34870"
+---

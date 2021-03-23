@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12193"
+occurrence_id: "3483"
+short_title: "ZA 86 (1996), 274-275"
+author: "van Soldt, Wilfred H."
+publication_year: "1996"
+title: "Rv. A.J. Sachs and H. Hunger, Astronomical Diaries and Related Texts from Babylonia II"
+volume_no_: "86"
+pages: "274-275"
+journal: "Zeitschrift für Assyriologie"
+title: "Rv. A.J. Sachs and H. Hunger, Astronomical Diaries and Related Texts from Babylonia II"
+previous_item: "12196"
+---

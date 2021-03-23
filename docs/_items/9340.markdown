@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9340"
+occurrence_id: "3154"
+short_title: "RO 51/1 (1998), 25-31"
+author: "MacGinnis, John"
+publication_year: "1998"
+title: "Contracting out Duck Supply to the Ebabbara"
+volume_no_: "51/1"
+pages: "25-31"
+journal: "Rocznik orientalistyczny"
+title: "Contracting out Duck Supply to the Ebabbara"
+previous_item: "9343"
+---

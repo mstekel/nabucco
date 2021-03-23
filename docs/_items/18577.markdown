@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18577"
+occurrence_id: "4354"
+short_title: "Joannès 1990"
+author: "Joannès, Francis"
+publication_year: "1990"
+title: "Textes babyloniens de Suse d'époque achéménide"
+pages: "173-180"
+editor: "Vallat, François"
+book: "Contribution à l'histoire de l'Iran: Mélanges offertes à Jean Perrot, Fs.Perrot (Paris)"
+title: "Textes babyloniens de Suse d'époque achéménide"
+previous_item: "18580"
+---

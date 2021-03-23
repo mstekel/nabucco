@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "15403"
+occurrence_id: "2728"
+short_title: "NABU 2010/16"
+author: "Hackl, Johannes"
+title: "Uruk, syllabic, and Other peculiarities of LB Orthography."
+volume_no_: "16"
+publication_year: "2010"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Uruk, syllabic, and Other peculiarities of LB Orthography."
+previous_item: "15406"
+---

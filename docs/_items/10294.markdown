@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10294"
+occurrence_id: "2250"
+short_title: "JHS 100 (1980), 194-195"
+author: "Lewis, David M."
+publication_year: "1980"
+title: "Datis the Mede"
+volume_no_: "100"
+pages: "194-195"
+journal: "Journal of Hellenic Studies"
+title: "Datis the Mede"
+previous_item: "10297"
+---

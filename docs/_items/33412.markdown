@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33412"
+place_id: "445"
+parent_id: "40"
+place_name: "Gutê"
+title: "Gutê"
+previous_item: "33415"
+---

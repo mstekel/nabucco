@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9919"
+occurrence_id: "3251"
+short_title: "Tel-Aviv 32 (2005), 76-106."
+author: "Zadok, Ran"
+publication_year: "2005"
+title: "On Anatolians, Greeks and Egyptians in 'Chaldean' and Achaemenid Babylonia."
+volume_no_: "32"
+pages: "76-106"
+journal: "Tel-Aviv"
+title: "On Anatolians, Greeks and Egyptians in 'Chaldean' and Achaemenid Babylonia."
+previous_item: "9922"
+---

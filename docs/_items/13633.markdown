@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13633"
+occurrence_id: "2224"
+short_title: "JEOL 28 (1983-83 publ. 1986), 24-32"
+author: "Stol, Marten"
+publication_year: "1983"
+title: "Cress and its Mustard"
+volume_no_: "28"
+pages: "24-32"
+journal: "Jaarbericht van het Voor-Aziatisch-Egyptisch-Gezelschap Ex Oriente Lux"
+title: "Cress and its Mustard"
+previous_item: "13636"
+---

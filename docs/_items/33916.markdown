@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "33916"
+place_id: "1415"
+parent_id: "61"
+place_name: "Šapīya"
+related_objects: "5379"
+title: "Šapīya"
+previous_item: "33919"
+---

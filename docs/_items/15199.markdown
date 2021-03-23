@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15199"
+occurrence_id: "1630"
+short_title: "BiOr 11 (1954), 205-207"
+author: "von Soden, Wolfram"
+publication_year: "1954"
+title: "Rv. G. Cardascia, Les archives des Murašû (Paris 1951)"
+volume_no_: "11"
+pages: "205-207"
+journal: "Bibliotheca Orientalis"
+title: "Rv. G. Cardascia, Les archives des Murašû (Paris 1951)"
+previous_item: "15202"
+---

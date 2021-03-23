@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "17236"
+occurrence_id: "201"
+short_title: "Heltzer 1964"
+author: "Heltzer, Michael "
+publication_year: "1964"
+title: "Seniausieji Rasto Paminklai Vilniuje (The oldest written monuments in Vilnius)"
+volume_no_: "9"
+pages: "45"
+title: "Seniausieji Rasto Paminklai Vilniuje (The oldest written monuments in Vilnius)"
+previous_item: "17239"
+---

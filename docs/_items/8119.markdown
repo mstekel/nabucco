@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "8119"
+occurrence_id: "2618"
+short_title: "NABU 2000/25"
+author: "Vargyas, Péter"
+title: "Nbn. 659"
+volume_no_: "25"
+publication_year: "2000"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Nbn. 659"
+previous_item: "8122"
+---

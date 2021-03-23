@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17608"
+occurrence_id: "4087"
+short_title: "Liverani 2013"
+author: "Liverani, Mario "
+publication_year: "2013"
+title: "Immaginare Babele. Due secoli di studi sulla città orientale antica, Storia e Società (Rome)"
+title: "Immaginare Babele. Due secoli di studi sulla città orientale antica, Storia e Società (Rome)"
+previous_item: "17611"
+---

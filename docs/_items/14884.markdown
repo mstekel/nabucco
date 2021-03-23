@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14884"
+occurrence_id: "2956"
+short_title: "Orient 20 (1984 publ.1985), 1-15"
+author: "Ackroyd, Peter R."
+publication_year: "1984 publ.1985"
+title: "Historical Problem of the Early Achaemenid Period"
+volume_no_: "20"
+pages: "1-15."
+journal: "Oriens. Zeitschrift der Internationalen Gesellschaft für Orientforschung"
+title: "Historical Problem of the Early Achaemenid Period"
+previous_item: "14887"
+---

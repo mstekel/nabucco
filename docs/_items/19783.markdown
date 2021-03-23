@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "19783"
+occurrence_id: "4167"
+short_title: "Fuchs 2014"
+author: "Fuchs, Andreas"
+publication_year: "2014"
+title: "Die unglaubliche Geburt des neubabylonischen Reiches oder: Die Vernichtung einer Weltmacht durch den Sohn eines Niemand"
+pages: "25-71"
+editor: "Neumann, Hans"
+title: "Die unglaubliche Geburt des neubabylonischen Reiches oder: Die Vernichtung einer Weltmacht durch den Sohn eines Niemand"
+previous_item: "19786"
+---

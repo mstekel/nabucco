@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33796"
+place_id: "1273"
+parent_id: "61"
+place_name: "Tahi"
+title: "Tahi"
+previous_item: "33799"
+---

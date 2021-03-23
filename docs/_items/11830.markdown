@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "11830"
+occurrence_id: "1527"
+short_title: "Assiriologiia i egiptologiia. Sbornik statei (Leningrado 1964), 31-50"
+author: "Dandamayev, Muhammed A."
+publication_year: "1964"
+title: "Svobodnye naemnye rabotniki v pozdnei Vavilonii"
+pages: "31-50"
+journal: "Assiriologiia i egiptologiia. Sbornik statei"
+title: "Svobodnye naemnye rabotniki v pozdnei Vavilonii"
+previous_item: "11833"
+---

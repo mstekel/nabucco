@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "15919"
+occurrence_id: "2486"
+short_title: "NABU 1991/80"
+author: "Horowitz, Wayne"
+title: "A Kettle-Drum Ritual during Iyar Seleucid Era 85"
+volume_no_: "80"
+publication_year: "1991"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "A Kettle-Drum Ritual during Iyar Seleucid Era 85"
+previous_item: "15922"
+---

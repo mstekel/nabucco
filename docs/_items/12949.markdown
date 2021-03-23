@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12949"
+occurrence_id: "1546"
+short_title: "BA 3 (1898), 445-492"
+author: "Ziemer, Ernst"
+publication_year: "1890"
+title: "Fünfzig Rechts- und Verwaltungsurkunden aus der Zeit des Königs Kambyses (529-521 v.Chr.)"
+volume_no_: "3"
+pages: "445-492"
+journal: "Beiträge zur Assyriologie"
+title: "Fünfzig Rechts- und Verwaltungsurkunden aus der Zeit des Königs Kambyses (529-521 v.Chr.)"
+previous_item: "12952"
+---

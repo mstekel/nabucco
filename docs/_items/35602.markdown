@@ -1,0 +1,10 @@
+---
+layout: "glossary"
+slug: "35602"
+concept_id: "1228"
+label: "Marriage"
+hierarchy: "Content type"
+type: "172"
+title: "Marriage"
+previous_item: "35605"
+---

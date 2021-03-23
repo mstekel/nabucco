@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20275"
+occurrence_id: "4602"
+short_title: "Renger 2001"
+author: "Renger, Johannes"
+publication_year: "2001"
+title: "Aus-der-Geschichte-Lernen. Das en-Priesteramt von Ur unter den Dynastien von Akkade und Ur III"
+pages: "373-376"
+editor: "Prechel, Doris"
+book: "Kulturgeschichten, Fs. Haas (Saarbrücken)"
+title: "Aus-der-Geschichte-Lernen. Das en-Priesteramt von Ur unter den Dynastien von Akkade und Ur III"
+previous_item: "20278"
+---

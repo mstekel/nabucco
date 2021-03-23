@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34108"
+place_id: "943"
+parent_id: "61"
+place_name: "Dimtu-ša-Nanâ"
+title: "Dimtu-ša-Nanâ"
+previous_item: "34111"
+---

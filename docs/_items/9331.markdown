@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9331"
+occurrence_id: "3106"
+short_title: "RA 91 (1997), 81-87"
+author: "MacGinnis, John"
+publication_year: "1997"
+title: "kizû´s of the Ebabbara"
+volume_no_: "91"
+pages: "81-87"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "kizû´s of the Ebabbara"
+previous_item: "9334"
+---

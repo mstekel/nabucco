@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9076"
+occurrence_id: "1733"
+short_title: "BiOr 66 (2009), 186-189"
+author: "Pirngruber, Reinhard"
+publication_year: "2009"
+title: "Rv. P. Corò, Prebende templari in età seleucide (2005)."
+volume_no_: "66"
+pages: "186-189"
+journal: "Bibliotheca Orientalis"
+title: "Rv. P. Corò, Prebende templari in età seleucide (2005)."
+previous_item: "9079"
+---

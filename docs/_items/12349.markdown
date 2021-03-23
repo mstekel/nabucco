@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12349"
+occurrence_id: "1317"
+short_title: "Akkadica 123/2 (2002), 137-144"
+author: "Vallat, François"
+publication_year: "2002"
+title: "La Dame faite prisonnière à Babylone"
+volume_no_: "123/4"
+pages: "137-144"
+journal: "Akkadica"
+title: "La Dame faite prisonnière à Babylone"
+previous_item: "12352"
+---

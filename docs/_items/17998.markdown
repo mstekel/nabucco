@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17998"
+occurrence_id: "4112"
+short_title: "Zawadzki 2013a"
+author: "Zawadzki, Stefan "
+publication_year: "2013"
+title: "Neo-Babylonian Documents from Sippar Pertaining to the Cult (Poznan)"
+title: "Neo-Babylonian Documents from Sippar Pertaining to the Cult (Poznan)"
+previous_item: "18001"
+---

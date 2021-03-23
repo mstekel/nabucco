@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33304"
+place_id: "490"
+parent_id: "40"
+place_name: "Huṣṣēti-ša-Amurra-paqa"
+title: "Huṣṣēti-ša-Amurra-paqa"
+previous_item: "33307"
+---

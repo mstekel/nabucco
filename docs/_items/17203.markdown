@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17203"
+occurrence_id: "849"
+short_title: "Mikasa 1984"
+author: "Mikasa, H.I.H. Prince Takahito "
+publication_year: "1984"
+title: "Monarchies and Socio-Religious Traditions in the Ancient Near East: Papers read at the 31st International Congress of Human Sciences in Asia and North Africa, BMECCJ 1 (Wiesbaden)"
+title: "Monarchies and Socio-Religious Traditions in the Ancient Near East: Papers read at the 31st International Congress of Human Sciences in Asia and North Africa, BMECCJ 1 (Wiesbaden)"
+previous_item: "17206"
+---

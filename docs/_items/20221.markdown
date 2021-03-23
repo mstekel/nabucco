@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20221"
+occurrence_id: "4313"
+short_title: "Dusinberre 2008"
+author: "Dusinberre, Elspeh R.M."
+publication_year: "2008"
+title: "Seal impressions on the Persepolis Fortification Aramaic tablets: preliminary observations."
+pages: "239-254"
+editor: "Stolper, Matthew W."
+book: "L'archive des Fortifications de Persepolis. État des questions et perspectives de recherches Persika 12 (Paris)"
+title: "Seal impressions on the Persepolis Fortification Aramaic tablets: preliminary observations."
+previous_item: "20224"
+---

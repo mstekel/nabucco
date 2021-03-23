@@ -1,0 +1,10 @@
+---
+layout: "glossary"
+slug: "35653"
+concept_id: "1240"
+label: "Apprenticeship"
+hierarchy: "Content type"
+type: "172"
+title: "Apprenticeship"
+previous_item: "35656"
+---

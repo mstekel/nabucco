@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19771"
+occurrence_id: "5207"
+short_title: "Csabai 2014"
+author: "Csabai, Zoltán"
+publication_year: "2014"
+title: "Chronologische Aspekte der babylonischen Zinsen in der frühneubabylonischen und neubabylonischen Zeit"
+pages: "811-823"
+editor: "Csabai, Zoltán"
+book: "Studies in Economic and Social History of the Ancient Near East in Memory of Péter Vargyas (Budapest)"
+title: "Chronologische Aspekte der babylonischen Zinsen in der frühneubabylonischen und neubabylonischen Zeit"
+previous_item: "19774"
+---

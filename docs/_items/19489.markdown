@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19489"
+occurrence_id: "4806"
+short_title: "Jursa and Hackl 2014"
+author: "Hackl, Johannes"
+publication_year: "2015"
+title: "Rhetorics, Politeness, Persuasion and Argumentation in Late Babylonian Epistolography: The Contrast Between Official Correspondence and Private Letters"
+pages: "101-115"
+editor: "Reinfandt, Lucian"
+book: "Official Epistolography and the Language(s) of Power. Proceedings of the First International Conference of the Research Network Imperium & Officium. Comparative Studies in Ancient Bureaucracy and Officialdom, University of Vienna, 10-12 November 2010, Papyrologica Vindobonensia 8 (Wien)"
+title: "Rhetorics, Politeness, Persuasion and Argumentation in Late Babylonian Epistolography: The Contrast Between Official Correspondence and Private Letters"
+previous_item: "19492"
+---

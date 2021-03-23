@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12157"
+occurrence_id: "3287"
+short_title: "UF 29 (1997), 797-814"
+author: "Zadok, Ran"
+publication_year: "1997"
+title: "Historical and Ethno-linguistic Notes"
+volume_no_: "29"
+pages: "797-814"
+journal: "Ugarit-Forschungen"
+title: "Historical and Ethno-linguistic Notes"
+previous_item: "12160"
+---

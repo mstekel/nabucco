@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19303"
+occurrence_id: "4917"
+short_title: "Daneshmand 2015"
+author: "Daneshmand, Parsa"
+publication_year: "2015"
+title: "New Phraseology and Literary Style in the Babylonian Version of the Achaemenid Inscriptions"
+pages: "321-334"
+editor: "Archi, Alfonso"
+book: "Tradition and Innovation in the Ancient Near East. Proceedings of the 57th Rencontre Assyriologique Internationale at Rome 4–8 July 2011 (Winona Lake)"
+title: "New Phraseology and Literary Style in the Babylonian Version of the Achaemenid Inscriptions"
+previous_item: "19306"
+---

@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "17434"
+occurrence_id: "673"
+short_title: "VS 3"
+author: "Ungnad, Arthur "
+publication_year: "1907"
+title: "Vorderasiatische Schriftdenkmäler der Königlichen Museen zu Berlin. 3"
+volume_no_: "3"
+related_objects: "8722"
+title: "Vorderasiatische Schriftdenkmäler der Königlichen Museen zu Berlin. 3"
+previous_item: "17437"
+---

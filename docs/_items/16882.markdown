@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16882"
+occurrence_id: "434"
+short_title: "Henze 1999"
+author: "Henze, Mathias "
+publication_year: "1999"
+title: "The Madness of King Nebuchadnezzar. The Ancient Near Eastern Origins and Early History of Interpretation of Daniel 4 (Supplements to theJournal for the Study of Judaism 61)"
+title: "The Madness of King Nebuchadnezzar. The Ancient Near Eastern Origins and Early History of Interpretation of Daniel 4 (Supplements to theJournal for the Study of Judaism 61)"
+previous_item: "16885"
+---

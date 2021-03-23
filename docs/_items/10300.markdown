@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10300"
+occurrence_id: "2282"
+short_title: "JNES 20 (1961), 144"
+author: "Hallock, Richard T."
+publication_year: "1961"
+title: "Rv. B.Ph. Lozinski, The original Homeland of the Parthians"
+volume_no_: "20"
+pages: "144"
+journal: "Journal of Near Eastern Studies"
+title: "Rv. B.Ph. Lozinski, The original Homeland of the Parthians"
+previous_item: "10303"
+---

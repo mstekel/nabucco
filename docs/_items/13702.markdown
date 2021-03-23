@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "13702"
+occurrence_id: "2596"
+short_title: "NABU 1998/67"
+author: "Zadok, Ran"
+title: "On some Upper Mesopotamian Toponyms"
+volume_no_: "67"
+publication_year: "1998"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "On some Upper Mesopotamian Toponyms"
+previous_item: "13705"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14653"
+occurrence_id: "1711"
+short_title: "BiOr 58/3/4 (2001), 421-423"
+author: "Boiy, Tom"
+publication_year: "2001"
+title: "Rv. M. Schuol, Die Charakene. Ein mesopotamisches Königreich in hellenistisch-parhischer Zeit"
+volume_no_: "58/3/4"
+pages: "421-423"
+journal: "Bibliotheca Orientalis"
+title: "Rv. M. Schuol, Die Charakene. Ein mesopotamisches Königreich in hellenistisch-parhischer Zeit"
+previous_item: "14656"
+---

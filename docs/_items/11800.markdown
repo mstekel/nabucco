@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11800"
+occurrence_id: "1364"
+short_title: "Anatolia 4 (1959), 123-129"
+author: "Balkan, Kemal"
+publication_year: "1959"
+title: "Inscribed Bullae from Daskyleion-Ergili (Old Persian Inscriptions - Aramaic Inscriptions)"
+volume_no_: "4"
+pages: "123-129"
+journal: "Anatolia"
+title: "Inscribed Bullae from Daskyleion-Ergili (Old Persian Inscriptions - Aramaic Inscriptions)"
+previous_item: "11803"
+---

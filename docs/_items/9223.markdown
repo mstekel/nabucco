@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "9223"
+occurrence_id: "2523"
+short_title: "NABU 1995/4"
+author: "Zadok, Ran"
+title: "A Document Concerning Work in Elam. BM 49718"
+volume_no_: "4"
+publication_year: "1995"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "A Document Concerning Work in Elam. BM 49718"
+previous_item: "9226"
+---

@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "8653"
+occurrence_id: "2473"
+short_title: "NABU 1989/78"
+author: "Joannès, Francis"
+publication_year: "1989"
+title: "Un quartier fantôme de Babylone"
+volume_no_: "78"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Un quartier fantôme de Babylone"
+previous_item: "8656"
+---

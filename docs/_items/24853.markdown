@@ -1,0 +1,16 @@
+---
+layout: "tablet"
+slug: "24853"
+object_id: "6804"
+nabucco_no_: "BodleianA165"
+museum_no_: "Bodleian A 165"
+publication: "Joannès 1989"
+text_number: "291"
+type_and_content: "Promissory notes ina muẖẖi"
+paraphrase: "Loan of silver:<strong> B<sub>1</sub> </strong>and<strong> B<sub>2</sub></strong> owe <strong>A </strong>[x] amounts of silver by 1/8 alloy (<em>bitqu</em>) per shekel. They place their female slave (<em>qallatu</em>) <strong><sup>f</sup></strong><strong>C</strong> as a pledge. She is pledged to the creditor in lieu of paying interest (antichretic pledge). Each is responsible for the other (<em>i&scaron;tēn pūtu &scaron;an&ucirc; na&scaron;&ucirc;</em>). 5 witnesses and the scribe.<br /> &nbsp;<br /> <strong>A</strong> = Nidintu-Nab&ucirc;/Gimillu//A&scaron;lāku; <strong>B<sub>1</sub> </strong>= Mu&scaron;ēzib-Bēl/Zēr-Bābili//(Ea-)ilūtu-bāni; <strong>B<sub>2</sub></strong> = Iddin-Nab&ucirc;//(Ea-)ilūtu-bāni; <strong><sup>f</sup>C</strong> = <sup>f</sup>Hada&scaron;āya&rsquo;ītu, <em>qallatu</em> (female slave); Scribe = [&hellip;]/Nādinu//Zērūtu<br /> &nbsp;"
+imported: "Melanie Gross (12/12/2016)"
+publication_name: "Joannès 1989 291"
+archive: "Ea-ilūtu-bāni, Ilī-bāni and Nanāhu"
+title: "Bodleian A 165"
+previous_item: "24856"
+---

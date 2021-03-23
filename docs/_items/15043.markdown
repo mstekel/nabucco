@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15043"
+occurrence_id: "3810"
+short_title: "OA 21 (1982 publ. 1983), 259-260"
+author: "Postgate, John Nicholas"
+publication_year: "1982 publ. 1983"
+title: "Rv. M. Dietrich, Neo-Babylonian Letters from the Kuyunjik Collection (CT 54)"
+volume_no_: "21"
+pages: "259-260"
+journal: "Oriens Antiquus"
+title: "Rv. M. Dietrich, Neo-Babylonian Letters from the Kuyunjik Collection (CT 54)"
+previous_item: "15046"
+---

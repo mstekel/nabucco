@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33760"
+place_id: "694"
+parent_id: "40"
+place_name: "Zambūrāja"
+title: "Zambūrāja"
+previous_item: "33763"
+---

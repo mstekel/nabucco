@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10099"
+occurrence_id: "1195"
+short_title: "AfO 20 (1963), 117-121"
+author: "Weidner, Ernst F."
+publication_year: "1963"
+title: "Astrologische Geographie im Alten Orient"
+volume_no_: "20"
+pages: "117-121"
+journal: "Archiv für Orientforschung"
+title: "Astrologische Geographie im Alten Orient"
+previous_item: "10102"
+---

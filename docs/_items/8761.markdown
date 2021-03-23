@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8761"
+occurrence_id: "3057"
+short_title: "RA 75 (1981), 170"
+author: "Frame, Grant"
+publication_year: "1981"
+title: "Nebukadnezar Zylinder III,2"
+volume_no_: "75"
+pages: "170"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "Nebukadnezar Zylinder III,2"
+previous_item: "8764"
+---

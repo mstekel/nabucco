@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11530"
+occurrence_id: "2915"
+short_title: "Or 64 (1995), 187-213"
+author: "Beaulieu, Paul-A."
+publication_year: "1995"
+title: "Theological and Philological Speculations on the Names of theGoddess Antu"
+volume_no_: "64"
+pages: "187-213"
+journal: "Orientalia"
+title: "Theological and Philological Speculations on the Names of theGoddess Antu"
+previous_item: "11533"
+---

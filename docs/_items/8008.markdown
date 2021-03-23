@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8008"
+occurrence_id: "2020"
+short_title: "JA 244 (1956), 275-280"
+author: "Leibovici, Marcel"
+publication_year: "1956"
+title: "Sur l´astrologie médicale néo-babylonienne"
+volume_no_: "244"
+pages: "275-280"
+journal: "Journal Asiatique"
+title: "Sur l´astrologie médicale néo-babylonienne"
+previous_item: "8011"
+---

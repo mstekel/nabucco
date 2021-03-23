@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17944"
+occurrence_id: "639"
+short_title: "Woodington 1982"
+author: "Woodington, Nancy R. "
+publication_year: "1982"
+title: "A Grammar of the Neo-Babylonian Letters of the Kuyunjik Collection"
+title: "A Grammar of the Neo-Babylonian Letters of the Kuyunjik Collection"
+previous_item: "17947"
+---

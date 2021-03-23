@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13846"
+occurrence_id: "3372"
+short_title: "WZKM 86 (1996), 191-196"
+author: "Hunger, Hermann"
+publication_year: "1996"
+title: "Ein astrologisches Zahlenschema"
+volume_no_: "86"
+pages: "191-196"
+journal: "Wiener Zeitschrift für die Kunde des Morgenlandes"
+title: "Ein astrologisches Zahlenschema"
+previous_item: "13849"
+---

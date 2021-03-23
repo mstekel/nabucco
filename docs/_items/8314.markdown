@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8314"
+occurrence_id: "3670"
+short_title: "Ediciones especiales del Anuario de Historia del derecho espanol 24 (1954), 57-86"
+author: "Cardascia, Guillaume"
+publication_year: "1954"
+title: "El feudo en Babilonia aqueménida"
+volume_no_: "24"
+pages: "57-86"
+journal: "Ediciones especiales del Anuario de Historia del derecho espanol"
+title: "El feudo en Babilonia aqueménida"
+previous_item: "8317"
+---

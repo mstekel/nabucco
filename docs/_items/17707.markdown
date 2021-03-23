@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17707"
+occurrence_id: "785"
+short_title: "Galter 1993"
+author: "Galter, Hannes  D."
+publication_year: "1993"
+title: "Die Rolle der Astronomie in den Kulturen Mesopotamiens, Grazer Morgenländische Studien 3 (Graz)"
+title: "Die Rolle der Astronomie in den Kulturen Mesopotamiens, Grazer Morgenländische Studien 3 (Graz)"
+previous_item: "17710"
+---

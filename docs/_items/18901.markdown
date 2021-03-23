@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18901"
+occurrence_id: "4979"
+short_title: "Briant 2013"
+author: "Briant, Pierre"
+publication_year: "2013"
+title: "Cyrus the Great"
+pages: "1-15"
+editor: "Daryaee, Touraj"
+book: "Cyrus the Great. An Ancient Iranian King (Santa Monica)"
+title: "Cyrus the Great"
+previous_item: "18904"
+---

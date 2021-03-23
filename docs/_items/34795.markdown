@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34795"
+place_id: "1300"
+parent_id: "61"
+place_name: "Ta'ūti"
+title: "Ta'ūti"
+previous_item: "34798"
+---

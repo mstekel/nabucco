@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33775"
+place_id: "934"
+parent_id: "61"
+place_name: "Bīt-Zu-gunabu"
+title: "Bīt-Zu-gunabu"
+previous_item: "33778"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9433"
+occurrence_id: "3656"
+short_title: "BZ NF 11 (1967), 286-287"
+author: "Hamp, V."
+publication_year: "1967"
+title: "Rv. W. Dommershausen, Nabonid im Buche Daniel"
+volume_no_: "11"
+pages: "286-287"
+journal: "Biblische Zeitschrift. Neue Folge (Paderborn)"
+title: "Rv. W. Dommershausen, Nabonid im Buche Daniel"
+previous_item: "9436"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14449"
+occurrence_id: "3617"
+short_title: "AJA 100 (1996), 177-178"
+author: "Garrison, Mark B."
+publication_year: "1996"
+title: "Rv. R. Wallenfels, Uruk. Hellenistic Seal Impressions in the Yale Babylonian Collection. I. Cuneiform Tablets (AUWE 19, 1994)"
+volume_no_: "100"
+pages: "177-178"
+journal: "American Journal of Archaeology"
+title: "Rv. R. Wallenfels, Uruk. Hellenistic Seal Impressions in the Yale Babylonian Collection. I. Cuneiform Tablets (AUWE 19, 1994)"
+previous_item: "14452"
+---

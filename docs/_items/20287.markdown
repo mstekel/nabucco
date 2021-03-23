@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20287"
+occurrence_id: "4666"
+short_title: "Kessler 1999"
+author: "Kessler, Karlheinz"
+publication_year: "1999"
+title: "Ein Einbruch in ein Bīt Šutummu eines Tempelbäckers"
+pages: "245-257"
+editor: "Böck, Barbara"
+book: "Munuscula Mesopotamica, Fs. Renger, AOAT 267 (Münster)"
+title: "Ein Einbruch in ein Bīt Šutummu eines Tempelbäckers"
+previous_item: "20290"
+---

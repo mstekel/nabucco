@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19975"
+occurrence_id: "5192"
+short_title: "Gallagher 1996"
+author: "Gallagher, William"
+publication_year: "1996"
+title: "The Istanbul Stela of Nabonidus"
+pages: "119-126"
+editor: "Ambros, Arne, A."
+book: "Festschrift Hirsch, WZKM 86 (Vienna)"
+title: "The Istanbul Stela of Nabonidus"
+previous_item: "19978"
+---

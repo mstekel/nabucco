@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14308"
+occurrence_id: "2854"
+short_title: "Or 25 (1956), 429-430"
+author: "Pohl, Alfred"
+publication_year: "1956"
+title: "Rv. H.H. Paper, the Phonology and Morphology of Royal Achaemenid Elamite"
+volume_no_: "25"
+pages: "429-430"
+journal: "Orientalia"
+title: "Rv. H.H. Paper, the Phonology and Morphology of Royal Achaemenid Elamite"
+previous_item: "14311"
+---

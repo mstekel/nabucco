@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11557"
+occurrence_id: "3062"
+short_title: "RA 77 (1983 publ. 1984), 175-176"
+author: "Brinkman, John A."
+publication_year: "1984 publ. 1984"
+title: "Bēl-ibni´s Letters in the Time of Sargon and Sennacherib"
+volume_no_: "77"
+pages: "175-176"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "Bēl-ibni´s Letters in the Time of Sargon and Sennacherib"
+previous_item: "11560"
+---

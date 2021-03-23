@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14932"
+occurrence_id: "3212"
+short_title: "StIr 1 (1972), 3-14"
+author: "Vallat, François"
+publication_year: "1972"
+title: "Deux inscriptions élamites de Darius Ier"
+volume_no_: "1"
+pages: "3-14"
+journal: "Studia Iranica"
+title: "Deux inscriptions élamites de Darius Ier"
+previous_item: "14935"
+---

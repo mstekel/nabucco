@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21121"
+occurrence_id: "4702"
+short_title: "Verderame 2002"
+author: "Verderame, Lorenzo"
+publication_year: "2002"
+title: "Enuma Anu Enlil Tablets 1-13"
+pages: "447-457"
+editor: "Imhausen, A."
+book: "Under One Sky. AOAT 297 (Münster)"
+title: "Enuma Anu Enlil Tablets 1-13"
+previous_item: "21124"
+---

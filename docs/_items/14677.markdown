@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14677"
+occurrence_id: "1840"
+short_title: "DAFI 10 (1979 publ. 1980), 145-154"
+author: "Vallat, François"
+publication_year: "1979 publ. 1980"
+title: "Les inscriptions du palais d´Artaxerxès II sur la rive droite du Chaour"
+volume_no_: "10"
+pages: "145-154"
+journal: "Cahiers de la Délégation Archéologique Française en Iran"
+title: "Les inscriptions du palais d´Artaxerxès II sur la rive droite du Chaour"
+previous_item: "14680"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8908"
+occurrence_id: "3847"
+short_title: "SMSR 34 (1963), 237-245"
+author: "Gnoli, Gherardo"
+publication_year: "1963"
+title: "La stella Sirio e l´influenza dell'astrologia caldea nell'Iran antico"
+volume_no_: "34"
+pages: "237-245"
+journal: "Studi e materiali di storia delle religioni"
+title: "La stella Sirio e l´influenza dell'astrologia caldea nell'Iran antico"
+previous_item: "8911"
+---

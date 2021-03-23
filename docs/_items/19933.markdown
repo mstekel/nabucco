@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19933"
+occurrence_id: "4968"
+short_title: "Vargyas 2010h"
+author: "Vargyas, Péter"
+publication_year: "2010"
+title: "Moneybags in Neo-Babylonian texts"
+pages: "205-210"
+editor: "Csabai, Zoltán"
+book: "From Elephantine to Babylon. Selected Studies of Péter Vargyas on Ancient Near Eastern Economy, Ancient Near Eastern and Mediterranean Studies 1 (Budapest)"
+title: "Moneybags in Neo-Babylonian texts"
+previous_item: "19936"
+---

@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "10339"
+occurrence_id: "2492"
+short_title: "NABU 1992/49"
+author: "Zawadzki, Stefan"
+title: "The Date of the death of Darius I and the Recognition of Xerxes in Babylonia"
+volume_no_: "49"
+publication_year: "1992"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "The Date of the death of Darius I and the Recognition of Xerxes in Babylonia"
+previous_item: "10342"
+---

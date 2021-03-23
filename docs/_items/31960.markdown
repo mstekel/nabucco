@@ -1,0 +1,15 @@
+---
+layout: "tablet"
+slug: "31960"
+object_id: "4332"
+museum_no_: "Liverpool unknown 25 (Strassmaier 1885)"
+publication: "Liv"
+text_number: "025"
+duplicate: "BM 33936"
+imported: "Kathleen Abraham (18/04/2016)"
+publication_name: "Liv 025"
+archive: "Egibi/Nūr-Sîn"
+related_objects: "4389"
+title: "Liverpool unknown 25 (Strassmaier 1885)"
+previous_item: "31963"
+---

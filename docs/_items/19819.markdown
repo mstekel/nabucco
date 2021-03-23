@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19819"
+occurrence_id: "4360"
+short_title: "Joannès 1997"
+author: "Joannès, Francis"
+publication_year: "1997"
+title: "Prix et salaires en Babylonie du VIIe au IIIe siècle avant notre ère"
+pages: "313-333"
+editor: "Andreau, Jean"
+book: "Économie antique. Prix et formation des prix dans les économies antiques, Entretiens d´Archéologie et d´Histoire 3 ( Saint-Bertrand-de-Comminges)"
+title: "Prix et salaires en Babylonie du VIIe au IIIe siècle avant notre ère"
+previous_item: "19822"
+---

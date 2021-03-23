@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "34144"
+place_id: "1454"
+parent_id: "70"
+place_name: "Ālu-ša-Iṣṣur-Adad"
+related_objects: "5845"
+title: "Ālu-ša-Iṣṣur-Adad"
+previous_item: "34147"
+---

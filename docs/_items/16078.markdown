@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16078"
+occurrence_id: "3344"
+short_title: "WeOr 5/1 (1969), 39-50"
+author: "Brinkman, John A."
+publication_year: "1969"
+title: "The Akītu Inscription of Bēl-ibni and Nabû-zēra-ušabši"
+volume_no_: "5/1."
+pages: "39-50"
+journal: "Die Welt des Orients"
+title: "The Akītu Inscription of Bēl-ibni and Nabû-zēra-ušabši"
+previous_item: "16081"
+---

@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "21844"
+occurrence_id: "4144"
+short_title: "Kuhrt 1987b"
+author: "Kuhrt, Amélie"
+publication_year: "1987"
+title: "Survey of Written Sources Available for the History of Babylonia under the Later Achaemenids"
+pages: "147-157"
+editor: "Sancisi-Weerdenburg, Heleen"
+title: "Survey of Written Sources Available for the History of Babylonia under the Later Achaemenids"
+previous_item: "21847"
+---

@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "15913"
+occurrence_id: "2453"
+short_title: "NABU 1988/19"
+author: "Joannès, Francis"
+publication_year: "1988"
+title: "La ville de ¿ab(b)anum"
+volume_no_: "19"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "La ville de ¿ab(b)anum"
+previous_item: "15916"
+---

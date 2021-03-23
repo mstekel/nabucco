@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "10930"
+occurrence_id: "2687"
+short_title: "NABU 2006/39"
+author: "Zawadzki, Stefan"
+title: "Cake offerings for the Gods of the Ebabbar temple in Sippar"
+volume_no_: "39"
+publication_year: "2006"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Cake offerings for the Gods of the Ebabbar temple in Sippar"
+previous_item: "10933"
+---

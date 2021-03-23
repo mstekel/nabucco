@@ -1,0 +1,9 @@
+---
+layout: "archive"
+slug: "22906"
+archive_id: "271"
+archive_name: "Absummu"
+is_part_of: "Nippur"
+title: "Absummu"
+previous_item: "22909"
+---

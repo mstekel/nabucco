@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20272"
+occurrence_id: "4586"
+short_title: "Oelsner 2003"
+author: "Oelsner, Joachim"
+publication_year: "2003"
+title: "Cuneiform Archives in Hellenistic Babylonia: Aspects of Content and Form"
+pages: "284-301"
+editor: "Brosius, Maria"
+book: "Ancient Archives and Archival Traditions (Oxford)"
+title: "Cuneiform Archives in Hellenistic Babylonia: Aspects of Content and Form"
+previous_item: "20275"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21046"
+occurrence_id: "4301"
+short_title: "Frahm 2010"
+author: "Frahm, Eckart"
+publication_year: "2010"
+title: "Reading the Tablet, the Exta, and the Body: The Hermeneutics of Cuneiform Signs in Babylonian and Assyrian Text Commentaries and Divinatory Texts"
+pages: "93-141"
+editor: "Annus, Amar"
+book: "Divination and Interpretation of Signs in the Ancient World, Oriental Institute Series 6 (Chicago)"
+title: "Reading the Tablet, the Exta, and the Body: The Hermeneutics of Cuneiform Signs in Babylonian and Assyrian Text Commentaries and Divinatory Texts"
+previous_item: "21049"
+---

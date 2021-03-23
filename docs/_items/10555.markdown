@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10555"
+occurrence_id: "3674"
+short_title: "Eos 71 (1983 publ. 1985), 215-242"
+author: "Zawadzki, Stefan"
+publication_year: "1983 publ. 1985"
+title: "Assyriaca von Ktesias von Knidos im Licht altorientalischer Forschungen"
+volume_no_: "71"
+pages: "215-242"
+journal: "Eos. Commentarii Societatis Philologae Polonorum"
+title: "Assyriaca von Ktesias von Knidos im Licht altorientalischer Forschungen"
+previous_item: "10558"
+---

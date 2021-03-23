@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17464"
+occurrence_id: "869"
+short_title: "Reuher 1926"
+author: "Reuher, Oscar "
+publication_year: "1926"
+title: "Die Innenstadt von Babylon (Merkes), WVDOG 47 (Leipzig)"
+title: "Die Innenstadt von Babylon (Merkes), WVDOG 47 (Leipzig)"
+previous_item: "17467"
+---

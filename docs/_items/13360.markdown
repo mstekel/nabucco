@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13360"
+occurrence_id: "3759"
+short_title: "JSOT 25 (1983), 83-97"
+author: "Kuhrt, Amélie"
+publication_year: "1983"
+title: "The Cyrus Cylinder and Achaemenid Imperial Policy"
+volume_no_: "25"
+pages: "83-97"
+journal: "Journal for the Study of the Old Testament"
+title: "The Cyrus Cylinder and Achaemenid Imperial Policy"
+previous_item: "13363"
+---

@@ -1,0 +1,9 @@
+---
+layout: "archive"
+slug: "22981"
+archive_id: "334"
+archive_name: "Bēl-aplu-iddin"
+is_part_of: "Sippar"
+title: "Bēl-aplu-iddin"
+previous_item: "22984"
+---

@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33871"
+place_id: "697"
+parent_id: "61"
+place_name: "Agurrēti"
+title: "Agurrēti"
+previous_item: "33874"
+---

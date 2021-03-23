@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18625"
+occurrence_id: "4610"
+short_title: "Brinkman 1990a"
+author: "Brinkman, John A."
+publication_year: "1990"
+title: "Political Covenants, Treaties and Loyalty Oaths in Babylonia and between Assyria and Babylonia"
+pages: "81-111"
+editor: "Zaccagnini, Carlo"
+book: "I trattati nel mondo antico. Forma, ideologia, funzione (Roma)"
+title: "Political Covenants, Treaties and Loyalty Oaths in Babylonia and between Assyria and Babylonia"
+previous_item: "18628"
+---

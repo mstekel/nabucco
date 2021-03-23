@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9355"
+occurrence_id: "3234"
+short_title: "Sumer 41 (1985), 110-112"
+author: "Brinkman, John A."
+publication_year: "1985"
+title: "From Destruction to Resurrection: the Antecedents of Babylonia´s Birth as a World Power in the Seventh Century B.C."
+volume_no_: "41"
+pages: "110-112"
+journal: "Sumer"
+title: "From Destruction to Resurrection: the Antecedents of Babylonia´s Birth as a World Power in the Seventh Century B.C."
+previous_item: "9358"
+---

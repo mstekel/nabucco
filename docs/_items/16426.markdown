@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16426"
+occurrence_id: "2196"
+short_title: "JCS 48 (1996), 61-87"
+author: "Robbins, Ellen"
+publication_year: "1996"
+title: "Tabular Sacrifice Records and the Cultic Calendar of Neo-Babylonian Uruk"
+volume_no_: "48"
+pages: "61-87"
+journal: "Journal of Cuneiform Studies"
+title: "Tabular Sacrifice Records and the Cultic Calendar of Neo-Babylonian Uruk"
+previous_item: "16429"
+---

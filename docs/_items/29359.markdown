@@ -1,0 +1,15 @@
+---
+layout: "tablet"
+slug: "29359"
+object_id: "7076"
+museum_no_: "BM 30547"
+publication: "CT 22"
+text_number: "81"
+period: "-"
+type_and_content: "Letters"
+publication_name: "CT 22 81"
+archive: "Egibi/Nūr-Sîn"
+bibliography: "Wunsch 1993, 320f."
+title: "BM 30547"
+previous_item: "29362"
+---

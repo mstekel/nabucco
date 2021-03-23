@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13111"
+occurrence_id: "2416"
+short_title: "Mesopotamia 31 (1996), 233-235"
+author: "Invernizzi, Antonio"
+publication_year: "1996"
+title: "Rv. H. Schmid, Der Tempelturm Etemenanki in Babylon (BaF 17, 1995)"
+volume_no_: "31"
+pages: "233-235"
+journal: "Mesopotamia"
+title: "Rv. H. Schmid, Der Tempelturm Etemenanki in Babylon (BaF 17, 1995)"
+previous_item: "13114"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18985"
+occurrence_id: "4323"
+short_title: "Reiner 2004"
+author: "Reiner, Erica"
+publication_year: "2004"
+title: "Constellation into Planet."
+pages: "3-15"
+editor: "Burnett, Charles"
+book: "Studies in the History of the Exact Sciences in Honour of David Pingree (Leiden and Boston)"
+title: "Constellation into Planet."
+previous_item: "18988"
+---

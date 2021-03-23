@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "10621"
+occurrence_id: "4027"
+short_title: "JESHO 57/2 (2014), 173-202"
+author: "van der Spek, Robartus"
+publication_year: "2014"
+title: "Factor Markets in Hellenistic and Parthian Babylonia (331 BC-224 AD)"
+volume_no_: "57/2"
+pages: "203-230"
+title: "Factor Markets in Hellenistic and Parthian Babylonia (331 BC-224 AD)"
+previous_item: "10624"
+---

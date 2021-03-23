@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16231"
+occurrence_id: "1140"
+short_title: "Weissbach, ZDMG 62 (1908)"
+author: "Weissbach, Franz, H."
+publication_year: "1908"
+title: "Zur neubabylonischen und achämenidischen Chronologie. "
+volume_no_: "62"
+pages: "629-647"
+journal: "Zeitschrift der Deutschen Morgenländischen Gesellschaft (Wiesbaden)"
+title: "Zur neubabylonischen und achämenidischen Chronologie. "
+previous_item: "16234"
+---

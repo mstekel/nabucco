@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21604"
+occurrence_id: "5072"
+short_title: "De Meis 2007"
+author: "De Meis, Salvo"
+publication_year: "2007"
+title: "An Astronomical Analysis of the Occultations Published by Hermann Hunger"
+pages: "121-136"
+editor: "Köhbach, Markus "
+book: "Festschrift für Hermann Hunger zum 65. Geburtstag: gewidmet von seinen Freunden, Kollegen und Schülern, WZKM 97 (Wien)"
+title: "An Astronomical Analysis of the Occultations Published by Hermann Hunger"
+previous_item: "21607"
+---

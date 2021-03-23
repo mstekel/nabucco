@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "13165"
+occurrence_id: "2708"
+short_title: "NABU 2008/13"
+author: "Fincke, Jeanette"
+title: "Eine neue Schreibung für MUL.dilbat, Venus"
+volume_no_: "13"
+publication_year: "2008"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Eine neue Schreibung für MUL.dilbat, Venus"
+previous_item: "13168"
+---

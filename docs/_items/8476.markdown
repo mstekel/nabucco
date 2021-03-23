@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8476"
+occurrence_id: "1521"
+short_title: "ASJ 17 (1995), 233-249."
+author: "Matsushima, Eiko"
+publication_year: "1995"
+title: "Some Remarks on Divine garments: kusītu and nahlaptu,"
+volume_no_: "17"
+pages: "233-249"
+journal: "Acta Sumerologica"
+title: "Some Remarks on Divine garments: kusītu and nahlaptu,"
+previous_item: "8479"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20425"
+occurrence_id: "4298"
+short_title: "Hansen 2001"
+author: "Hansen, Donald P."
+publication_year: "2001"
+title: "Some Notes on the Old Babylonian Bagara of Ningirsu in Lagash"
+pages: "215-232"
+editor: "Breniquet, Catherine"
+book: "Études Mésopotamiennes, Fs. Huot (Paris)"
+title: "Some Notes on the Old Babylonian Bagara of Ningirsu in Lagash"
+previous_item: "20428"
+---

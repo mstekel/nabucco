@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34345"
+place_id: "1189"
+parent_id: "61"
+place_name: "Qatnu"
+title: "Qatnu"
+previous_item: "34348"
+---

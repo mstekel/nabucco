@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16573"
+occurrence_id: "910"
+short_title: "Wetzel;Weissbach 1938"
+author: "Weissbach, Franz H."
+publication_year: "1938"
+title: "Das Hauptheiligtum des Marduk in Babylon, Esagila und Etemenanki, WVDOG 59 (Leipzig)"
+title: "Das Hauptheiligtum des Marduk in Babylon, Esagila und Etemenanki, WVDOG 59 (Leipzig)"
+previous_item: "16576"
+---

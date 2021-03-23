@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15346"
+occurrence_id: "2420"
+short_title: "Mesopotamia 32 (1997), 348-349"
+author: "Liverani, Mario"
+publication_year: "1997"
+title: "Rv. S.W.Cole, Nippur in Late Assyrian Times (SAAS IV, 1996)"
+volume_no_: "32"
+pages: "348-349"
+journal: "Mesopotamia"
+title: "Rv. S.W.Cole, Nippur in Late Assyrian Times (SAAS IV, 1996)"
+previous_item: "15349"
+---

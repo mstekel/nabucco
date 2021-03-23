@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17596"
+occurrence_id: "886"
+short_title: "Schloen 2001"
+author: "Schloen, J. David "
+publication_year: "2001"
+title: "The House of the Father as Fact and Symbol. Patrimonialism in Ugarit and the Ancient Near East, Studies in the Archaeology and History of the Levant 2 (Winona Lake)"
+title: "The House of the Father as Fact and Symbol. Patrimonialism in Ugarit and the Ancient Near East, Studies in the Archaeology and History of the Levant 2 (Winona Lake)"
+previous_item: "17599"
+---

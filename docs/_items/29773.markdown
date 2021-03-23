@@ -1,0 +1,15 @@
+---
+layout: "tablet"
+slug: "29773"
+object_id: "7289"
+museum_no_: "BM 31121"
+publication: "CT 22"
+text_number: "6 "
+period: "Each"
+place_of_issue: "Babylon city"
+type_and_content: "Letters"
+publication_name: "CT 22 6 "
+archive: "Egibi/Nūr-Sîn"
+title: "BM 31121"
+previous_item: "29776"
+---

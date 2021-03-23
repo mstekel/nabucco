@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21154"
+occurrence_id: "4878"
+short_title: "Dandamayev 2000"
+author: "Dandamayev, Muhammed A."
+publication_year: "2000"
+title: "The Neo-Babylonian rab ṣibti"
+pages: "29-31"
+editor: "Neumann, Hans"
+book: "Assyriologica et Semitica, Fs. Oelsner. AOAT 252. (Münster)"
+title: "The Neo-Babylonian rab ṣibti"
+previous_item: "21157"
+---

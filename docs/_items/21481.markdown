@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21481"
+occurrence_id: "4416"
+short_title: "Sarkisjan 2000"
+author: "Sarkisjan, Gagik Ch."
+publication_year: "2000"
+title: "Zu einigen Besonderheiten der Wiedergabe der griechischen Namen in Keilschrift (nach Materialien aus Uruk)"
+pages: "401-406"
+editor: "Neumann, Hans"
+book: "Assyriologica et Semitica, Fs. Oelsner. AOAT 252. (Münster)"
+title: "Zu einigen Besonderheiten der Wiedergabe der griechischen Namen in Keilschrift (nach Materialien aus Uruk)"
+previous_item: "21484"
+---

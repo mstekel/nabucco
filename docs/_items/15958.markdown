@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "15958"
+occurrence_id: "2696"
+short_title: "NABU 2007/4"
+author: "Gehlken, Erlend"
+title: "Die Serie DIS Sîn ina tamartisu im Überblick"
+volume_no_: "4"
+publication_year: "2007"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Die Serie DIS Sîn ina tamartisu im Überblick"
+previous_item: "15961"
+---

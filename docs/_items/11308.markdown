@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11308"
+occurrence_id: "1721"
+short_title: "BiOr 60 (2003), 521-537"
+author: "Mandemakers, C.A."
+publication_year: "2003"
+title: "\"Sense and Nonsense in the Statistical Approach of Babylonian Prices...\""
+volume_no_: "60"
+pages: "521-537"
+journal: "Bibliotheca Orientalis"
+title: "\"Sense and Nonsense in the Statistical Approach of Babylonian Prices...\""
+previous_item: "11311"
+---

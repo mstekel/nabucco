@@ -1,0 +1,12 @@
+---
+layout: "bibliography"
+slug: "15637"
+occurrence_id: "3988"
+short_title: "NABU 2015/87"
+author: "Michaux-Colombot, Danièle"
+publication_year: "2015"
+title: "Antiochus IV et Meluḫḫa"
+volume_no_: "2015/87"
+title: "Antiochus IV et Meluḫḫa"
+previous_item: "15640"
+---

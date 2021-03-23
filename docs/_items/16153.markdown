@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16153"
+occurrence_id: "3748"
+short_title: "JRAS 71 (1939), 653-655"
+author: "Zaehner, Robert C."
+publication_year: "1939"
+title: "Rv. F.W. König, Relief and Inschrift des Königs Dareios I. am Felsen von Bagistan"
+volume_no_: "71"
+pages: "653-655"
+journal: "Journal of the Royal Asiatic Society"
+title: "Rv. F.W. König, Relief and Inschrift des Königs Dareios I. am Felsen von Bagistan"
+previous_item: "16156"
+---

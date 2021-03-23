@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10246"
+occurrence_id: "1992"
+short_title: "Iraq 64 (2002), 217-236"
+author: "MacGinnis, John"
+publication_year: "2002"
+title: "The use of writing boards in the Neo-Babylonian temple administration at Sippar"
+volume_no_: "64"
+pages: "217-236"
+journal: "Iraq"
+title: "The use of writing boards in the Neo-Babylonian temple administration at Sippar"
+previous_item: "10249"
+---

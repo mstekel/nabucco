@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20587"
+occurrence_id: "5163"
+short_title: "Farber and Streck 2000"
+author: "Streck, Michael , P."
+publication_year: "2000"
+title: "Zwei spätbabylonische Verpflichtungsscheine"
+pages: "47-51"
+editor: "Neumann, Hans"
+book: "Assyriologica et Semitica, Fs. Oelsner. AOAT 252. (Münster)"
+title: "Zwei spätbabylonische Verpflichtungsscheine"
+previous_item: "20590"
+---

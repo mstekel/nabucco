@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "9781"
+occurrence_id: "2508"
+short_title: "NABU 1994/60"
+author: "Nemet-Nejat, Karen Rhea"
+title: "Numerals"
+volume_no_: "60"
+publication_year: "1994"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Numerals"
+previous_item: "9784"
+---

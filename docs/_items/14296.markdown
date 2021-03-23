@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14296"
+occurrence_id: "2790"
+short_title: "OLZ 67 (1972), 546-551"
+author: "Dandamayev, Muhammed A."
+publication_year: "1972"
+title: "Rv. D. Cocquerillat, Palmeraies et cultures de l´Éanna d´Uruk (559-520)"
+volume_no_: "67"
+pages: "546-551"
+journal: "Orientalistische Literaturzeitung"
+title: "Rv. D. Cocquerillat, Palmeraies et cultures de l´Éanna d´Uruk (559-520)"
+previous_item: "14299"
+---

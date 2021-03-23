@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34405"
+place_id: "376"
+parent_id: "40"
+place_name: "Bīt-Taqbi-līšir"
+title: "Bīt-Taqbi-līšir"
+previous_item: "34408"
+---

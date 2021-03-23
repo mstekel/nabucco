@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10027"
+occurrence_id: "3833"
+short_title: "Przeglad Orientalistyczny 76 (1970), 361-362"
+author: "Machalski, Franciszek"
+publication_year: "1970"
+title: "Rv. W. Hinz, Das Reich Elam"
+volume_no_: "76"
+pages: "361-362"
+journal: "Przeglad Orientalistyczny"
+title: "Rv. W. Hinz, Das Reich Elam"
+previous_item: "10030"
+---

@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34102"
+place_id: "847"
+parent_id: "61"
+place_name: "Bīt-alpē"
+title: "Bīt-alpē"
+previous_item: "34105"
+---

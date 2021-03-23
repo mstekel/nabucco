@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9286"
+occurrence_id: "2861"
+short_title: "Or 27 (1958), 451-452"
+author: "North, R."
+publication_year: "1958"
+title: "Rv. F. Wetzel, E.F. Schmidt , Das Babylon der Spätzeit"
+volume_no_: "27"
+pages: "451-452"
+journal: "Orientalia"
+title: "Rv. F. Wetzel, E.F. Schmidt , Das Babylon der Spätzeit"
+previous_item: "9289"
+---

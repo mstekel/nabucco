@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7633"
+occurrence_id: "3023"
+short_title: "RA 42 (1948), 149-159"
+author: "Goossens, Godefroy"
+publication_year: "1948"
+title: "Les recherches historiques à l´époque néo-babylonienne"
+volume_no_: "42"
+pages: "149-159"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "Les recherches historiques à l´époque néo-babylonienne"
+previous_item: "7636"
+---

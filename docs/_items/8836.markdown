@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8836"
+occurrence_id: "3461"
+short_title: "ZA 79 (1989), 80-101"
+author: "Stolper, Matthew W."
+publication_year: "1989"
+title: "Registration and Taxation of Slave Sales in Achaemenid Babylonia"
+volume_no_: "79"
+pages: "80-101"
+journal: "Zeitschrift für Assyriologie"
+title: "Registration and Taxation of Slave Sales in Achaemenid Babylonia"
+previous_item: "8839"
+---

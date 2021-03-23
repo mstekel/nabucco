@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15055"
+occurrence_id: "3874"
+short_title: "Zaman 2 (1980), 75-100"
+author: "Briant, Pierre"
+publication_year: "1980"
+title: "Communautés rurales, forces productives et mode de production tributaire en Asie Achéménide"
+volume_no_: "2"
+pages: "75-100"
+journal: "Zaman"
+title: "Communautés rurales, forces productives et mode de production tributaire en Asie Achéménide"
+previous_item: "15058"
+---

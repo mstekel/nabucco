@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12115"
+occurrence_id: "3063"
+short_title: "RA 77 (1983 publ.1984), 188-189"
+author: "McEwan, Gilbert J.P."
+publication_year: "1983 publ. 1984"
+title: "dIštar-(giš)tuk"
+volume_no_: "77"
+pages: "188-189"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "dIštar-(giš)tuk"
+previous_item: "12118"
+---

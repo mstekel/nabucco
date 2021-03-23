@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9265"
+occurrence_id: "2749"
+short_title: "NAPR 10 (1996), 7-38"
+author: "Rutten, Katrien"
+publication_year: "1996"
+title: "Late Achaemenid and Hellenistic Pottery from the Tombs of Mahmūdīyah, Abū Qubūr and Tell ed-Dēr"
+volume_no_: "10"
+pages: "7-38"
+journal: "Northern Akkad Project Reports"
+title: "Late Achaemenid and Hellenistic Pottery from the Tombs of Mahmūdīyah, Abū Qubūr and Tell ed-Dēr"
+previous_item: "9268"
+---

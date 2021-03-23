@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "20650"
+occurrence_id: "4396"
+short_title: "Briquel-Chatonnet and Bordreuil 2000"
+author: "Briquel-Chatonnet, Françoise"
+publication_year: "2000"
+title: "Tiglah-phalazar Ier a-t-il pêché ou chassé le nahiru ?"
+pages: "117-124"
+book: "Topoi Supplément 2, Les animaux et les hommes dans le monde syro-mésopotamien aux époques historiques (Lyon)"
+title: "Tiglah-phalazar Ier a-t-il pêché ou chassé le nahiru ?"
+previous_item: "20653"
+---

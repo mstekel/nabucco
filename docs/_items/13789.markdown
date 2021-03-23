@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13789"
+occurrence_id: "3066"
+short_title: "RA 77 (1983), 59-67"
+author: "Sack, Ronald H."
+publication_year: "1983"
+title: "The Nabonidus Legend"
+volume_no_: "77"
+pages: "59-67"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "The Nabonidus Legend"
+previous_item: "13792"
+---

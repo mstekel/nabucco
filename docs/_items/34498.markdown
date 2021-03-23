@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34498"
+place_id: "91"
+parent_id: "40"
+place_name: "Abastānu"
+title: "Abastānu"
+previous_item: "34501"
+---

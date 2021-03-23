@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18085"
+occurrence_id: "736"
+short_title: "Balcer 1987"
+author: "Balcer, Jack M. "
+publication_year: "1987"
+title: "Herodotus und Bisutun, Historia Einzelschriften 49 (Stuttgart)"
+title: "Herodotus und Bisutun, Historia Einzelschriften 49 (Stuttgart)"
+previous_item: "18088"
+---

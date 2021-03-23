@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16786"
+occurrence_id: "630"
+short_title: "Watelin and Langdon"
+author: "Langdon, Stephen.H. "
+publication_year: "1930"
+title: "Excavations at Kish : the Herbert Weld (for the University of Oxford) and Field museum of natural history (Chicago) expedition to Mesopotamia"
+title: "Excavations at Kish : the Herbert Weld (for the University of Oxford) and Field museum of natural history (Chicago) expedition to Mesopotamia"
+previous_item: "16789"
+---

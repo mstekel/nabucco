@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14965"
+occurrence_id: "3390"
+short_title: "ZA 39 (1930), 277-294"
+author: "Landsberger, Benno"
+publication_year: "1930"
+title: "Bemerkungen zu San Nicolò und Ungnad, Neubabylonische Rechts- und Verwaltungsurkunden, Bd.I 1.2.,"
+volume_no_: "39"
+pages: "277-294"
+journal: "Zeitschrift für Assyriologie"
+title: "Bemerkungen zu San Nicolò und Ungnad, Neubabylonische Rechts- und Verwaltungsurkunden, Bd.I 1.2.,"
+previous_item: "14968"
+---

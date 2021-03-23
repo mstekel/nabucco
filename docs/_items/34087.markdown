@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34087"
+place_id: "607"
+parent_id: "40"
+place_name: "Qaštu"
+title: "Qaštu"
+previous_item: "34090"
+---

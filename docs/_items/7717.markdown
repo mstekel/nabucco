@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7717"
+occurrence_id: "3475"
+short_title: "ZA 84 (1994), 198-219"
+author: "MacGinnis, John"
+publication_year: "1994"
+title: "The Royal Establishment at Sippar in the 6th Century B.C."
+volume_no_: "84"
+pages: "198-219"
+journal: "Zeitschrift für Assyriologie"
+title: "The Royal Establishment at Sippar in the 6th Century B.C."
+previous_item: "7720"
+---

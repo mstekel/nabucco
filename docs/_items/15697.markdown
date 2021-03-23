@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15697"
+occurrence_id: "1289"
+short_title: "AJA 59 (1955), 332-334"
+author: "Lines, Joan"
+publication_year: "1955"
+title: "Rv. R. Ghirshman, Iran: From the Earliest Times to the Islamic Conquest"
+volume_no_: "59"
+pages: "332-334"
+journal: "American Journal of Archaeology"
+title: "Rv. R. Ghirshman, Iran: From the Earliest Times to the Islamic Conquest"
+previous_item: "15700"
+---

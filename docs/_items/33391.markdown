@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33391"
+place_id: "109"
+parent_id: "40"
+place_name: "Ālu-ša-Ašar[]"
+title: "Ālu-ša-Ašar[]"
+previous_item: "33394"
+---

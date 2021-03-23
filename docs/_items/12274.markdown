@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "12274"
+occurrence_id: "3917"
+short_title: "JANEH 1/2 (2014), 119-172"
+author: "Bloch, Yigal"
+publication_year: "2014"
+title: "Judeans in Sippar and Susa during the First Century of Babylonian Exile: Assimilation and Perseverance under Neo-Babylonian and Achaemenid Rule"
+volume_no_: "1 February 2016 at 1:00"
+pages: "119-172"
+title: "Judeans in Sippar and Susa during the First Century of Babylonian Exile: Assimilation and Perseverance under Neo-Babylonian and Achaemenid Rule"
+previous_item: "12277"
+---

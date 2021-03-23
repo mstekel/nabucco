@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10468"
+occurrence_id: "3188"
+short_title: "SEL18 (2001), 55-61"
+author: "D'Agostino, Franco"
+publication_year: "2001"
+title: "\"Il re e´ un pazzo furioso!\" Appunti su uno strano caso di propaganda mesopotamica"
+volume_no_: "18"
+pages: "55-61"
+journal: "Studi Epigrafici e Linguistici sul Vicino Oriente Antico"
+title: "\"Il re e´ un pazzo furioso!\" Appunti su uno strano caso di propaganda mesopotamica"
+previous_item: "10471"
+---

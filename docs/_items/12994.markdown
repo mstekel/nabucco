@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12994"
+occurrence_id: "1788"
+short_title: "BSOAS 47 (1984), 120-121"
+author: "Peat, Jerome A."
+publication_year: "1984"
+title: "Rv. G.J.P. McEwan, Texts from Hellenistic Babylonia in the Ashmolean Museum (OECT 9)"
+volume_no_: "47"
+pages: "120-121"
+journal: "Bulletin of the School of Oriental and African Studies"
+title: "Rv. G.J.P. McEwan, Texts from Hellenistic Babylonia in the Ashmolean Museum (OECT 9)"
+previous_item: "12997"
+---

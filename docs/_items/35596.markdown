@@ -1,0 +1,10 @@
+---
+layout: "glossary"
+slug: "35596"
+concept_id: "1576"
+label: "Multiple (list)"
+hierarchy: "Content type"
+type: "172"
+title: "Multiple (list)"
+previous_item: "35599"
+---

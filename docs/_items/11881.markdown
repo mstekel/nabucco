@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11881"
+occurrence_id: "1803"
+short_title: "BSOAS 58 (1995), 157-158"
+author: "Vogelsang, Willem J."
+publication_year: "1995"
+title: "Rv. M.A. Dandamayev, A Political History of the Achaemenid Empire (Leiden 1989)"
+volume_no_: "58"
+pages: "157-158"
+journal: "Bulletin of the School of Oriental and African Studies"
+title: "Rv. M.A. Dandamayev, A Political History of the Achaemenid Empire (Leiden 1989)"
+previous_item: "11884"
+---

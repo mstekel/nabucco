@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20182"
+occurrence_id: "97"
+short_title: "Liv"
+author: "Strassmaier, Johann N."
+publication_year: "1885"
+title: "Die Babylonischen Inschriften Im Museum Zu Liverpool: Nebst Andern Aus Der Zeit Von Nebukadnezzar Bis Darius"
+pages: "569-624; Beilage 1-176"
+related_objects: "8077"
+book: "Actes du sixième congrès international des Orientalistes tenu en 1883 à Leide. Deuxième partie."
+title: "Die Babylonischen Inschriften Im Museum Zu Liverpool: Nebst Andern Aus Der Zeit Von Nebukadnezzar Bis Darius"
+previous_item: "20185"
+---

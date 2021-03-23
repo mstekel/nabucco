@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18118"
+occurrence_id: "925"
+short_title: "Holtz 2014 "
+author: "Holtz, Shalom E. "
+publication_year: "2014"
+title: "Neo-Babylonian Trial Records, Writings from the Ancient World 35, (Atlanta)"
+title: "Neo-Babylonian Trial Records, Writings from the Ancient World 35, (Atlanta)"
+previous_item: "18121"
+---

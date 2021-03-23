@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11938"
+occurrence_id: "2107"
+short_title: "JAOS 130 (2010), 267-270"
+author: "Ben-Dov, Jonathan A."
+publication_year: "2010"
+title: "Neo-Assyrian Astronomical Terminology in the Babylonian Talmud"
+volume_no_: "130"
+pages: "267-270"
+journal: "Journal of the American Oriental Society"
+title: "Neo-Assyrian Astronomical Terminology in the Babylonian Talmud"
+previous_item: "11941"
+---

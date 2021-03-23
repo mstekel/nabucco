@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21562"
+occurrence_id: "4848"
+short_title: "Dandamayev 1983"
+author: "Dandamayev, Muhammed A."
+publication_year: "1983"
+title: "On the Fiefs in Babylonia in the Early Achaemenid Period"
+pages: "57-59"
+editor: "Mackenzie, David N."
+book: "Kunst, Kultur und Geschichte der Achämenidenzeit und ihr Fortleben, Archäologische Mitteilungen aus Iran, Ergänzungsband 10 (Berlin)"
+title: "On the Fiefs in Babylonia in the Early Achaemenid Period"
+previous_item: "21565"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16057"
+occurrence_id: "3230"
+short_title: "Sumer 35 (1979), 126-120"
+author: "Hassah, Ali A."
+publication_year: "1979"
+title: "Excavation at the Eastern Tell in Babylon"
+volume_no_: "35"
+pages: "126-120"
+journal: "Sumer"
+title: "Excavation at the Eastern Tell in Babylon"
+previous_item: "16060"
+---

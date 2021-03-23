@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11119"
+occurrence_id: "3707"
+short_title: "Hallesche Beiträge zur Orientwissenschaft 6 (1984), 97-98"
+author: "Oelsner, Joachim"
+publication_year: "1984"
+title: "Ein Zikkurat-Grandriß aus Nippur"
+volume_no_: "6"
+pages: "97-98"
+journal: "Hallesche Beiträge zur Orientwissenschaft"
+title: "Ein Zikkurat-Grandriß aus Nippur"
+previous_item: "11122"
+---

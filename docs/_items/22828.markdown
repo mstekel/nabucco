@@ -1,0 +1,9 @@
+---
+layout: "archive"
+slug: "22828"
+archive_id: "160"
+archive_name: "Iddin-Papsukkal B"
+is_part_of: "Borsippa"
+title: "Iddin-Papsukkal B"
+previous_item: "22831"
+---

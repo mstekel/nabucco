@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19897"
+occurrence_id: "4776"
+short_title: "Hudson 2002"
+author: "Hudson, Michael"
+publication_year: "2002"
+title: "Reconstructing the Origins of Interest-Bearing Debt and the Logic of Clean Slates"
+pages: "7-58"
+editor: "Hudson, Michael"
+book: "Debt and Economic Renewal in the Ancient Near East, International Scholars Conference on Ancient Near Eastern Economies, Volume 3 (Bethesda)"
+title: "Reconstructing the Origins of Interest-Bearing Debt and the Logic of Clean Slates"
+previous_item: "19900"
+---

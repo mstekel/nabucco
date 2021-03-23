@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14698"
+occurrence_id: "1952"
+short_title: "Iraq 24 (1962), 63-72"
+author: "Sollberger, Edmond"
+publication_year: "1962"
+title: "Graeco-Babyloniaca"
+volume_no_: "24"
+pages: "63-72"
+journal: "Iraq"
+title: "Graeco-Babyloniaca"
+previous_item: "14701"
+---

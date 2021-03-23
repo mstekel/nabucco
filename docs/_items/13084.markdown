@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13084"
+occurrence_id: "2271"
+short_title: "JNES 17 (1958), 161-176"
+author: "Cameron, George G."
+publication_year: "1958"
+title: "Persepolis Treasury Tablets Old and New (Wood Reliefs, Wood Carvers, and Metal Workers - Wine and Winemakers - Treasury Accountants, Accounting Practices, and Royal Domains)"
+volume_no_: "17"
+pages: "161-176"
+journal: "Journal of Near Eastern Studies"
+title: "Persepolis Treasury Tablets Old and New (Wood Reliefs, Wood Carvers, and Metal Workers - Wine and Winemakers - Treasury Accountants, Accounting Practices, and Royal Domains)"
+previous_item: "13087"
+---

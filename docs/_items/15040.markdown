@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15040"
+occurrence_id: "3794"
+short_title: "MUSJ 22 (1939), 162-164"
+author: "Mouterde, R."
+publication_year: "1998"
+title: "Rv. E. Bikerman, Institutions des Séleucides"
+volume_no_: "17"
+pages: "162-164"
+journal: "Mélanges de l´Université Saint-Joseph"
+title: "Rv. E. Bikerman, Institutions des Séleucides"
+previous_item: "15043"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9841"
+occurrence_id: "2830"
+short_title: "OLZ 96/4-5 (2001), 510-515"
+author: "Oelsner, Joachim"
+publication_year: "2001"
+title: "Rv. E. Reiner (- Pingree), Babylonian Planetary Omens (Part Three, Groningen 1998)"
+volume_no_: "96/4-5"
+pages: "510-515"
+journal: "Orientalistische Literaturzeitung"
+title: "Rv. E. Reiner (- Pingree), Babylonian Planetary Omens (Part Three, Groningen 1998)"
+previous_item: "9844"
+---

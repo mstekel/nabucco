@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8440"
+occurrence_id: "1326"
+short_title: "Akkadica 63 (1989), 12-26"
+author: "Giovinazzo, Grazia"
+publication_year: "1989"
+title: "L´éxpression ha duš ha duka dans les textes de Persepolis"
+volume_no_: "63"
+pages: "12-26"
+journal: "Akkadica"
+title: "L´éxpression ha duš ha duka dans les textes de Persepolis"
+previous_item: "8443"
+---

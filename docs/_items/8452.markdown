@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8452"
+occurrence_id: "1392"
+short_title: "AnTan 11 (1964), 292-294"
+author: "Komoróczy, Géza"
+publication_year: "1964"
+title: "Nabonid in der babylonischen and jüdischen Legende"
+volume_no_: "11"
+pages: "292-294"
+journal: "Antik Tanulmányok"
+title: "Nabonid in der babylonischen and jüdischen Legende"
+previous_item: "8455"
+---

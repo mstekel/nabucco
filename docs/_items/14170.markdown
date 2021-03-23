@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14170"
+occurrence_id: "2111"
+short_title: "JAOS 48 (1928), 109-135"
+author: "Dougherty, Raymond Ph."
+publication_year: "1928"
+title: "Writing upon Parchment and Papyrus among the Babylonians and Assyrians"
+volume_no_: "48"
+pages: "109-135"
+journal: "Journal of the American Oriental Society"
+title: "Writing upon Parchment and Papyrus among the Babylonians and Assyrians"
+previous_item: "14173"
+---

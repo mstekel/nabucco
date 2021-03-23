@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11749"
+occurrence_id: "236"
+short_title: "Brinkman, JCS 25/2"
+author: "Brinkman, John A."
+publication_year: "1973"
+title: "Sennacherib’s Babylonian Problem: An Interpretation"
+volume_no_: "25/2"
+pages: "89-95"
+journal: "Journal of Cuneiform Studies"
+title: "Sennacherib’s Babylonian Problem: An Interpretation"
+previous_item: "11752"
+---

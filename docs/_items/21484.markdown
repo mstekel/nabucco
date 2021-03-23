@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21484"
+occurrence_id: "4432"
+short_title: "Aperghis 2000"
+author: "Aperghis, Gerassimos G."
+publication_year: "2000"
+title: "War captives and economic exploitation. Evidence from the Persepolis Fortification Tablets"
+pages: "127-144"
+editor: "Andreau, Jean"
+book: "Économie antique. Prix et formation des prix dans les économies antiques, Entretiens d´Archéologie et d´Histoire 5 (Saint-Bertrand-de-Comminges)"
+title: "War captives and economic exploitation. Evidence from the Persepolis Fortification Tablets"
+previous_item: "21487"
+---

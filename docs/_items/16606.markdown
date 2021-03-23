@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16606"
+occurrence_id: "325"
+short_title: "Boll 1966"
+author: "Boll, Franz "
+publication_year: "1966"
+title: "Sternglaube und Sterndeutung. Die Geschichte und das Wesen der Astrologie"
+title: "Sternglaube und Sterndeutung. Die Geschichte und das Wesen der Astrologie"
+previous_item: "16609"
+---

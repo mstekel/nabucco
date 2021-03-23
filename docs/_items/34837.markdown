@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34837"
+place_id: "196"
+parent_id: "40"
+place_name: "Bīt-Abdija"
+title: "Bīt-Abdija"
+previous_item: "34840"
+---

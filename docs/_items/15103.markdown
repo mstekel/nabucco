@@ -1,0 +1,15 @@
+---
+layout: "bibliography"
+slug: "15103"
+occurrence_id: "272"
+short_title: "Budge, ZA 3"
+author: "Budge, E.A. Wallis"
+publication_year: "1888"
+title: "On some recently acquired Babylonian Tablets"
+volume_no_: "3"
+pages: "211-230"
+related_objects: "5601"
+journal: "Zeitschrift für Assyriologie und Vorderasiatische Archäologie"
+title: "On some recently acquired Babylonian Tablets"
+previous_item: "15106"
+---

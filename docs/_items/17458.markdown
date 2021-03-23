@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17458"
+occurrence_id: "834"
+short_title: "König 1955"
+author: "König, Friedrich Wilhelm "
+publication_year: "1955"
+title: "Handbuch der chaldischen Inschriften I, AfO Beiheft 8 (Graz)"
+title: "Handbuch der chaldischen Inschriften I, AfO Beiheft 8 (Graz)"
+previous_item: "17461"
+---

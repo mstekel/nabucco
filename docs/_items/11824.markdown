@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11824"
+occurrence_id: "1495"
+short_title: "ArOr 57 (1989), 287-288"
+author: "Pečírková, Jana"
+publication_year: "1989"
+title: "Rv. E.V. Leichty, Catalogue of the Babylonian Tablets in the British Museum. Vol. VI. Tablets from Sippar, 1 (1986)"
+volume_no_: "57"
+pages: "287-288"
+journal: "Archív Orientalí"
+title: "Rv. E.V. Leichty, Catalogue of the Babylonian Tablets in the British Museum. Vol. VI. Tablets from Sippar, 1 (1986)"
+previous_item: "11827"
+---

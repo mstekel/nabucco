@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20914"
+occurrence_id: "4701"
+short_title: "Brack-Bernsen and Steele 2004"
+author: "Steele, John M."
+publication_year: "2004"
+title: "Babylonian Mahemtics: Two Mathematical Astronomical-Astrological Texts"
+pages: "95-125"
+editor: "Burnett, Charles"
+book: "Studies in the History of the Exact Sciences in Honour of David Pingree (Leiden and Boston)"
+title: "Babylonian Mahemtics: Two Mathematical Astronomical-Astrological Texts"
+previous_item: "20917"
+---

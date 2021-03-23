@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21757"
+occurrence_id: "4785"
+short_title: "Jursa 2004b"
+author: "Jursa, Michael"
+publication_year: "2004"
+title: "Grandzüge der Wirtschaftsformen Babyloniens im ersten Jahrtausend v. Chr."
+pages: "115-136"
+editor: "Ulf, Christoph"
+book: "Commerce and Monetary Systems in the Ancient World: Means of Transmission and Cultural Interaction, Proc. 5 Annual Symposium of the Assyrian and Babylonian Intellectual Heritage Project Innsbruck (Stuttgart)"
+title: "Grandzüge der Wirtschaftsformen Babyloniens im ersten Jahrtausend v. Chr."
+previous_item: "21760"
+---

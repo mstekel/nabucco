@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12958"
+occurrence_id: "1594"
+short_title: "BASOR 348 (2007), 75-88."
+author: "Crowell, Bradley L."
+publication_year: "2007"
+title: "Nabonidus, as-Sila', and the Beginning of the End of Edom."
+volume_no_: "348"
+pages: "75-88"
+journal: "Bulletin of the American Schools of Oriental Research"
+title: "Nabonidus, as-Sila', and the Beginning of the End of Edom."
+previous_item: "12961"
+---

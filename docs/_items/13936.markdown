@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13936"
+occurrence_id: "3856"
+short_title: "Topoi 12-13/1 (2005), 35-54"
+author: "Joannès, Francis"
+publication_year: "2005"
+title: "L'argent des dieux babyloniens au VIe s. av. J.-C."
+volume_no_: "12-13/1"
+pages: "35-54"
+journal: "Topoi"
+title: "L'argent des dieux babyloniens au VIe s. av. J.-C."
+previous_item: "13939"
+---

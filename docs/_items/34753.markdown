@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "34753"
+place_id: "625"
+parent_id: "40"
+place_name: "Sîn-bēlšunu"
+related_objects: "1429"
+title: "Sîn-bēlšunu"
+previous_item: "34756"
+---

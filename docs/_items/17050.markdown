@@ -1,0 +1,12 @@
+---
+layout: "bibliography"
+slug: "17050"
+occurrence_id: "689"
+short_title: "YOS 7"
+author: "Tremayne, Arch "
+publication_year: "1925"
+title: "Records from Erech, Time of Cyrus and Cambyses (538-521 B.C.). Yale Oriental Series, Babylonian Texts 7 (New Haven)"
+volume_no_: "7"
+title: "Records from Erech, Time of Cyrus and Cambyses (538-521 B.C.). Yale Oriental Series, Babylonian Texts 7 (New Haven)"
+previous_item: "17053"
+---

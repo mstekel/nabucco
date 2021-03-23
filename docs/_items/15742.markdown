@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15742"
+occurrence_id: "1535"
+short_title: "AuOr 16 (1998), 136-137"
+author: "Márquez-Rowe, Ignacio"
+publication_year: "1998"
+title: "Rv. F. Grillot-Susini, Eléments de grammaire élamite (\"Synthèse\" 29, 1987)"
+volume_no_: "16"
+pages: "136-137"
+journal: "Aula Orientalis"
+title: "Rv. F. Grillot-Susini, Eléments de grammaire élamite (\"Synthèse\" 29, 1987)"
+previous_item: "15745"
+---

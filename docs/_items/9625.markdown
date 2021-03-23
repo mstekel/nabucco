@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9625"
+occurrence_id: "1668"
+short_title: "BiOr 39 (1982), 344-347"
+author: "Frame, Grant"
+publication_year: "1982"
+title: "Rv. C.B.F. Walker, Cuneiform Brick Inscriptions in the British Museum, the Ashmolean Museum, Oxford, the City of Birmingham Museums and Art Gallery, the City of Bristol Museum and Art Gallery"
+volume_no_: "39"
+pages: "344-347"
+journal: "Bibliotheca Orientalis"
+title: "Rv. C.B.F. Walker, Cuneiform Brick Inscriptions in the British Museum, the Ashmolean Museum, Oxford, the City of Birmingham Museums and Art Gallery, the City of Bristol Museum and Art Gallery"
+previous_item: "9628"
+---

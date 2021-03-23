@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8890"
+occurrence_id: "3751"
+short_title: "JRAS 74 (1942), 74"
+author: "Gadd, Cyril J."
+publication_year: "1942"
+title: "Rv. J. Ph. Hyatt, The Treatment of Final Vowels in Early Neo-Babylonian"
+volume_no_: "74"
+pages: "74"
+journal: "Journal of the Royal Asiatic Society"
+title: "Rv. J. Ph. Hyatt, The Treatment of Final Vowels in Early Neo-Babylonian"
+previous_item: "8893"
+---

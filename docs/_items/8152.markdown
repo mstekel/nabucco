@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8152"
+occurrence_id: "2795"
+short_title: "OLZ 74 (1979), 233-234"
+author: "Dandamayev, Muhammed A."
+publication_year: "1979"
+title: "Rv. E. Salonen, Neubabylonische Urkunden verschiedenen Inhalts, I"
+volume_no_: "74"
+pages: "233-234"
+journal: "Orientalistische Literaturzeitung"
+title: "Rv. E. Salonen, Neubabylonische Urkunden verschiedenen Inhalts, I"
+previous_item: "8155"
+---

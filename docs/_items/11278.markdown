@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11278"
+occurrence_id: "1559"
+short_title: "BaM 15 (1984), 273-281"
+author: "Kessler, Karlheinz"
+publication_year: "1984"
+title: "Eine arsakidenzeitliche Urkunde aus Warka"
+volume_no_: "15"
+pages: "273-281"
+journal: "Baghdader Mitteilungen"
+title: "Eine arsakidenzeitliche Urkunde aus Warka"
+previous_item: "11281"
+---

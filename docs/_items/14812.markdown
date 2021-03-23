@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "14812"
+occurrence_id: "2566"
+short_title: "NABU 1997/53"
+author: "Abraham, Kathleen"
+title: "TCL 13 193: Šušan and Bāṣ"
+volume_no_: "53"
+publication_year: "1997"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "TCL 13 193: Šušan and Bāṣ"
+previous_item: "14815"
+---

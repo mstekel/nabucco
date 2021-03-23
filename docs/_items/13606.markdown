@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13606"
+occurrence_id: "2078"
+short_title: "JAOS 115 (1995), 667-670"
+author: "Brinkman, John A."
+publication_year: "1995"
+title: "Rv. J-J. Glassner, Chroniques mésopotamiennes (1993)"
+volume_no_: "115"
+pages: "667-670"
+journal: "Journal of the American Oriental Society"
+title: "Rv. J-J. Glassner, Chroniques mésopotamiennes (1993)"
+previous_item: "13609"
+---

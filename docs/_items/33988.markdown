@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33988"
+place_id: "796"
+parent_id: "61"
+place_name: "Bāb-hilti"
+title: "Bāb-hilti"
+previous_item: "33991"
+---

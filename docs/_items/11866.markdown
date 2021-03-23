@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11866"
+occurrence_id: "1722"
+short_title: "BiOr 60 (2003), 537-544"
+author: "Cruz-Uribe, Eugene"
+publication_year: "2003"
+title: "Qanats in the Achaemenid Period"
+volume_no_: "60"
+pages: "537-544"
+journal: "Bibliotheca Orientalis"
+title: "Qanats in the Achaemenid Period"
+previous_item: "11869"
+---

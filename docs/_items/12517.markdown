@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12517"
+occurrence_id: "2222"
+short_title: "JEOL 10 (1945-48), 339-349"
+author: "Klasens, Adolf"
+publication_year: "1945-48"
+title: "Cambyses en Egypte"
+volume_no_: "10"
+pages: "339-349"
+journal: "Jaarbericht van het Voor-Aziatisch-Egyptisch-Gezelschap Ex Oriente Lux"
+title: "Cambyses en Egypte"
+previous_item: "12520"
+---

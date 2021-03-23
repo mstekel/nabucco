@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "34813"
+place_id: "1477"
+parent_id: "43"
+place_name: "Bīt-Bēlšunu"
+related_objects: "6577"
+title: "Bīt-Bēlšunu"
+previous_item: "34816"
+---

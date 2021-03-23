@@ -1,0 +1,15 @@
+---
+layout: "bibliography"
+slug: "7681"
+occurrence_id: "3279"
+short_title: "UCP 10/9 (1940), 251-256"
+author: "Lutz, Henry F."
+publication_year: "1940"
+title: "A Neo-Babylonian Debenture"
+volume_no_: "10/IX"
+pages: "251-256"
+related_objects: "8210"
+journal: "University of California Publications"
+title: "A Neo-Babylonian Debenture"
+previous_item: "7684"
+---

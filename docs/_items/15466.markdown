@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15466"
+occurrence_id: "3069"
+short_title: "RA 78 (1984 publ.1985), 143-167"
+author: "Cocquerillat, Denise"
+publication_year: "1984 publ. 1985"
+title: "Compléments aux ''Palmeraies et Cultures de l'Eanna d'Uruk'' III. Les institutions et les hommes des Fermes générales"
+volume_no_: "78"
+pages: "143-167"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "Compléments aux ''Palmeraies et Cultures de l'Eanna d'Uruk'' III. Les institutions et les hommes des Fermes générales"
+previous_item: "15469"
+---

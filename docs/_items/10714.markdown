@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10714"
+occurrence_id: "1525"
+short_title: "ASJ 7 (1985), 129-137"
+author: "Matsushima, Eiko"
+publication_year: "1985"
+title: "Le \"lit\" de Šamaš et le rituel du mariage à l'Ebabbar"
+volume_no_: "7"
+pages: "129-137"
+journal: "Acta Sumerologica"
+title: "Le \"lit\" de Šamaš et le rituel du mariage à l'Ebabbar"
+previous_item: "10717"
+---

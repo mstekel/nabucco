@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "15373"
+occurrence_id: "2567"
+short_title: "NABU 1997/54"
+author: "Zadok, Ran"
+title: "Antigonos Monophhalmos in documents from Idumaea"
+volume_no_: "54"
+publication_year: "1997"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Antigonos Monophhalmos in documents from Idumaea"
+previous_item: "15376"
+---

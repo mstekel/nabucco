@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11089"
+occurrence_id: "3547"
+short_title: "ZDMG 113 (1963), 323-324"
+author: "Hinz, Walther"
+publication_year: "1963"
+title: "Rv. Iranica Antiqua 1 (1961)"
+volume_no_: "113"
+pages: "323-324"
+journal: "Zeitschrift der Deutschen Morgenländischen Gesellschaft"
+title: "Rv. Iranica Antiqua 1 (1961)"
+previous_item: "11092"
+---

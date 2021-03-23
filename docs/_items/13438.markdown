@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13438"
+occurrence_id: "1167"
+short_title: "AfK 1 (1923), 33-38"
+author: "Schwenzner, Walter"
+publication_year: "1923"
+title: "Die Eviktionshaftung im neubabylonischen Gesetzfragment Br. Mus. 82-7-14,988,"
+volume_no_: "1"
+pages: "33-38"
+journal: "Archiv für Keilschriftforschung"
+title: "Die Eviktionshaftung im neubabylonischen Gesetzfragment Br. Mus. 82-7-14,988,"
+previous_item: "13441"
+---

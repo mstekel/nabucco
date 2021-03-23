@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "10021"
+occurrence_id: "3801"
+short_title: "NKMNR (1967), 27-28 (in Georg.)"
+author: "Rzchiladze, R.S."
+publication_year: "1967"
+title: "Einige Nachrichten über die Wirtschaftstätigkeit der Babylonier in der \"Geschichte\" Herodots (in Georgian)"
+pages: "27-28"
+journal: "Научная конференция молодых научных работников. Сокращеннеые тексты докладов (Naučnaja konferencija molodyh naučnyh rabotnikov. Sokraŝenneye teksty dokladov)"
+title: "Einige Nachrichten über die Wirtschaftstätigkeit der Babylonier in der \"Geschichte\" Herodots (in Georgian)"
+previous_item: "10024"
+---

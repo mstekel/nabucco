@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10135"
+occurrence_id: "1395"
+short_title: "AnTan 3 (1956), 335-338"
+author: "Hegyi, Dolores"
+publication_year: "1956"
+title: "Die Gründungsinschrift Dareios´ I. von Susa"
+volume_no_: "3"
+pages: "335-338"
+journal: "Antik Tanulmányok"
+title: "Die Gründungsinschrift Dareios´ I. von Susa"
+previous_item: "10138"
+---

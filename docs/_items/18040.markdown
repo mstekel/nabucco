@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18040"
+occurrence_id: "444"
+short_title: "Hunger 2001"
+author: "Hunger, Hermann "
+publication_year: "2001"
+title: "Astronomical Diaries and Related Texts from Babylonia. Vol. 5: Lunar and Planetary Texts. Including Materials by A.J. Sachs. With an Appendix by J.M. Steele"
+title: "Astronomical Diaries and Related Texts from Babylonia. Vol. 5: Lunar and Planetary Texts. Including Materials by A.J. Sachs. With an Appendix by J.M. Steele"
+previous_item: "18043"
+---

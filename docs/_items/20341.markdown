@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20341"
+occurrence_id: "4954"
+short_title: "Vargyas 1997"
+author: "Vargyas, Péter"
+publication_year: "1997"
+title: "Getreidekursangaben and Preistarife im Assyrien und Babylonien des 2. and 1. Jahrtausends"
+pages: "185-190"
+editor: "Hauptmann, H."
+book: "Assyrien im Wandel der Zeiten. XXXIXe Rencontre Assyriologique Internationale, Heidelberg, 6.-10. Juli 1992 , Heidelberger Studien zum Alten Orient, 6 RAI 39 (Heidelberg)"
+title: "Getreidekursangaben and Preistarife im Assyrien und Babylonien des 2. and 1. Jahrtausends"
+previous_item: "20344"
+---

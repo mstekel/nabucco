@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18250"
+occurrence_id: "4076"
+short_title: "Gabbay 2015"
+author: "Gabbay, Uri "
+publication_year: "2015"
+title: "The Eršema Prayers of the First Millennium BC, Heidelberger Emesal-Studien 2 (Wiesbaden)"
+title: "The Eršema Prayers of the First Millennium BC, Heidelberger Emesal-Studien 2 (Wiesbaden)"
+previous_item: "18253"
+---

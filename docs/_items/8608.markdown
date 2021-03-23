@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8608"
+occurrence_id: "2231"
+short_title: "JEOL 35-36 (1997-2000), 85-101 (1 Pl.)"
+author: "van Driel, Govert"
+publication_year: "1997-2000"
+title: "The Role of Nomadism in a Model of Ancient Mesopotamian Society and Economy"
+volume_no_: "35-36"
+pages: "85-101"
+journal: "Jaarbericht van het Voor-Aziatisch-Egyptisch-Gezelschap Ex Oriente Lux"
+title: "The Role of Nomadism in a Model of Ancient Mesopotamian Society and Economy"
+previous_item: "8611"
+---

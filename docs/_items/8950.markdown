@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8950"
+occurrence_id: "155"
+short_title: "Brinkman, NABU 2008/8"
+author: "Brinkman, John A."
+publication_year: "2008"
+title: "A Legal Text from Babylon Dated in the Reign of Shalmaneser V"
+volume_no_: "2008/8"
+related_objects: "5777"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "A Legal Text from Babylon Dated in the Reign of Shalmaneser V"
+previous_item: "8953"
+---

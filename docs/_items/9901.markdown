@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9901"
+occurrence_id: "3155"
+short_title: "RO 51/1 (1998), 33-41"
+author: "Zawadzki, Stefan"
+publication_year: "1998"
+title: "A Document from the Reign of Nabonidus"
+volume_no_: "51/1"
+pages: "33-41"
+journal: "Rocznik orientalistyczny"
+title: "A Document from the Reign of Nabonidus"
+previous_item: "9904"
+---

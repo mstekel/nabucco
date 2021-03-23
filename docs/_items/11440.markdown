@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11440"
+occurrence_id: "2429"
+short_title: "Muséon 70 (1957), 366-369"
+author: "Naster, Paul"
+publication_year: "1957"
+title: "Rv. R.A. Parker and W.H. Dubberstein, Babylonian Chronology (1957)"
+volume_no_: "70"
+pages: "366-369"
+journal: "Le Muséon. Revue d'Études Orientales"
+title: "Rv. R.A. Parker and W.H. Dubberstein, Babylonian Chronology (1957)"
+previous_item: "11443"
+---

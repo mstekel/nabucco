@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10588"
+occurrence_id: "3850"
+short_title: "Subartu 6 (2000), 135-137 (2 Pl.)"
+author: "Scheers, Simone"
+publication_year: "2000"
+title: "Seleucid Coins from Tell Beydar 1994"
+volume_no_: "6"
+pages: "135-137"
+journal: "Subartu"
+title: "Seleucid Coins from Tell Beydar 1994"
+previous_item: "10591"
+---

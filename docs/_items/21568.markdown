@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21568"
+occurrence_id: "4880"
+short_title: "Dandamayev 2000b"
+author: "Dandamayev, Muhammed A."
+publication_year: "2000"
+title: "State Taxes in Neo-Babylonian and Achaemenid Mesopotamia"
+pages: "147-162"
+editor: "Graziani, Simonetta"
+book: "Studi sul vicino oriente antico dedicati alla memoria di Luigi Cagni (Napoli)"
+title: "State Taxes in Neo-Babylonian and Achaemenid Mesopotamia"
+previous_item: "21571"
+---

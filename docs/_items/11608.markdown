@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11608"
+occurrence_id: "3336"
+short_title: "WeOr 30 (1999), 47-66"
+author: "Sassmannshausen, Leonhard"
+publication_year: "1999"
+title: "Zur poetischen Struktur babylonischer Besitzübertragungsmonumente (Kudurru)"
+volume_no_: "30"
+pages: "47-66"
+journal: "Die Welt des Orients"
+title: "Zur poetischen Struktur babylonischer Besitzübertragungsmonumente (Kudurru)"
+previous_item: "11611"
+---

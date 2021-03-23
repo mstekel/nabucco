@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17740"
+occurrence_id: "4110"
+short_title: "Watson and Horowitz 2011"
+author: "Horowitz, Wayne "
+publication_year: "2011"
+title: "Writing Science before the Greeks. A Naturalistic Analysis of the Babylonian Astronomical Treatise MUL.APIN, Culture and History of the Ancient Near East 48 (Leiden/Boston)"
+title: "Writing Science before the Greeks. A Naturalistic Analysis of the Babylonian Astronomical Treatise MUL.APIN, Culture and History of the Ancient Near East 48 (Leiden/Boston)"
+previous_item: "17743"
+---

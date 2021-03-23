@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "19528"
+occurrence_id: "5014"
+short_title: "Hallock 1985"
+author: "Hallock, Richard T."
+publication_year: "1985"
+title: "The Evidence of the Persepolis Tablets"
+pages: "588-609"
+book: "Cambridge History of Iran (1985)"
+title: "The Evidence of the Persepolis Tablets"
+previous_item: "19531"
+---

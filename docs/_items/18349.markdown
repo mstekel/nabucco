@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18349"
+occurrence_id: "774"
+short_title: "Dougherty 1932"
+author: "Dougherty, Raymond Ph. "
+publication_year: "1932"
+title: "The Sealand of Ancient Arabia, YOSR 19 (New Haven)"
+title: "The Sealand of Ancient Arabia, YOSR 19 (New Haven)"
+previous_item: "18352"
+---

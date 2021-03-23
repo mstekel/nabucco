@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "21703"
+occurrence_id: "4497"
+short_title: "Schiwek 1962"
+author: "Schiwek, Heinrich"
+publication_year: "1963"
+title: "Der Persische Golf als Schiffarts- und Seehandelsroute in achämenidischer Zeit und in der Zeit Alexanders des Grossen"
+pages: "4-97"
+book: "Bonner Jahrbücher 162 (1962)"
+title: "Der Persische Golf als Schiffarts- und Seehandelsroute in achämenidischer Zeit und in der Zeit Alexanders des Grossen"
+previous_item: "21706"
+---

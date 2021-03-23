@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8446"
+occurrence_id: "1358"
+short_title: "AMI NF 8 (1975 publ. 1976), 43-45"
+author: "Eilers, Wilhelm"
+publication_year: "1975 publ. 1976"
+title: "Zwei kurze elamische Inschriften"
+volume_no_: "8"
+pages: "43-45"
+journal: "Archäologische Mitteilungen aus Iran Neue Folge"
+title: "Zwei kurze elamische Inschriften"
+previous_item: "8449"
+---

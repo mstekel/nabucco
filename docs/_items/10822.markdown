@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10822"
+occurrence_id: "2105"
+short_title: "JAOS 129 (2009), 287-293"
+author: "Kozuh, Michael"
+publication_year: "2009"
+title: "On Torture and the Achaemenids."
+volume_no_: "129"
+pages: "287-293"
+journal: "Journal of the American Oriental Society"
+title: "On Torture and the Achaemenids."
+previous_item: "10825"
+---

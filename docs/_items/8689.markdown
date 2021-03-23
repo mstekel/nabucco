@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "8689"
+occurrence_id: "2667"
+short_title: "NABU 2004/70"
+author: "Baker, Heather D."
+title: "The \"small cubit\": a note on Late Babylonian surface mensuartion"
+volume_no_: "70"
+publication_year: "2004"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "The \"small cubit\": a note on Late Babylonian surface mensuartion"
+previous_item: "8692"
+---

@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "20998"
+occurrence_id: "5149"
+short_title: "Struve 1969"
+author: "Struve, Vassili V."
+publication_year: "1968"
+title: "Der Aufstand in der Margiana unter Dareios I. (nach der Behistun-Inschrift)  (in Russ.)"
+pages: "24-40, 221-225"
+book: "Этюды по истории Северного Причерноморья, Кавказа и Средней Азии (Ленинград 1968)[Ètjudy po istorii Severnogo Pričernomor’ja, Kavkaza i Srednej Azii (Leningrad 1968)]"
+title: "Der Aufstand in der Margiana unter Dareios I. (nach der Behistun-Inschrift)  (in Russ.)"
+previous_item: "21001"
+---

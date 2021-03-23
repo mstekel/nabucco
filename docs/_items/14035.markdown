@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "14035"
+occurrence_id: "1385"
+short_title: "AnOr 43"
+author: "Brinkman, John A."
+title: "A Political History of Post-Kassite Babylonia. 1158-722 B.C."
+volume_no_: "43"
+publication_year: "1968"
+journal: "Analecta Orientalia"
+title: "A Political History of Post-Kassite Babylonia. 1158-722 B.C."
+previous_item: "14038"
+---

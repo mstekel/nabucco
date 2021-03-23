@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8200"
+occurrence_id: "3056"
+short_title: "RA 75 (1981), 151-169"
+author: "Cocquerillat, Denise"
+publication_year: "1981"
+title: "Compléments aux \"Palmeraies et cultures de l´Eanna d'Uruk\""
+volume_no_: "75"
+pages: "151-169"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "Compléments aux \"Palmeraies et cultures de l´Eanna d'Uruk\""
+previous_item: "8203"
+---

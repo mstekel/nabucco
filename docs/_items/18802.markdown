@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18802"
+occurrence_id: "4451"
+short_title: "van Driel 1999"
+author: "van Driel, Govert"
+publication_year: "1999"
+title: "Agricultural Entrepreneurs in Mesopotamia"
+pages: "213-223"
+editor: "Klengel, Horst"
+book: "Landwirtschaft im Alten Orient, RAI 41 (Berlin)"
+title: "Agricultural Entrepreneurs in Mesopotamia"
+previous_item: "18805"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9556"
+occurrence_id: "1294"
+short_title: "AJA 8 (1893), 190-191"
+author: "Pinches, Theophilus G."
+publication_year: "1893"
+title: "A Tablet Referring to Dues paid to the Temple of the sun at Sippara"
+volume_no_: "8"
+pages: "190-191"
+journal: "American Journal of Archaeology"
+title: "A Tablet Referring to Dues paid to the Temple of the sun at Sippara"
+previous_item: "9559"
+---

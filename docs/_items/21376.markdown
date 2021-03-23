@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21376"
+occurrence_id: "4959"
+short_title: "Vargyas 2005"
+author: "Vargyas, Péter"
+publication_year: "2005"
+title: "Moneybags in Neo-Babylonian Texts."
+pages: "587-592"
+editor: "Sefati, Yitzhak"
+book: "\"An Experienced Scribe Who Neglects Nohing\". Ancient Near Eastern Studies in Honor of Jacob Kle (Bethesda)"
+title: "Moneybags in Neo-Babylonian Texts."
+previous_item: "21379"
+---

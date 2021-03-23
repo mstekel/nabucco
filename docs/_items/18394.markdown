@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "18394"
+occurrence_id: "166"
+short_title: "OIP 122"
+author: "Weisberg, David B. "
+publication_year: "2003"
+title: "Neo-Babylonian Texts in the Oriental Institute Collection"
+volume_no_: "122"
+related_objects: "5696"
+title: "Neo-Babylonian Texts in the Oriental Institute Collection"
+previous_item: "18397"
+---

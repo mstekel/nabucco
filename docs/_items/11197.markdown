@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11197"
+occurrence_id: "289"
+short_title: "Brinkman, OrNS 46"
+author: "Brinkman, John A."
+publication_year: "1978"
+title: "Notes on Arameans and Chaldeans in Southern Babylonia in the Early Seventh Century B.C.   "
+volume_no_: "46"
+pages: "304-325"
+journal: "Orientalia Nova Series"
+title: "Notes on Arameans and Chaldeans in Southern Babylonia in the Early Seventh Century B.C.   "
+previous_item: "11200"
+---

@@ -1,0 +1,15 @@
+---
+layout: "bibliography"
+slug: "13990"
+occurrence_id: "716"
+short_title: "Roth, Afo 36/37 (1989-1990)"
+author: "Roth, Martha T."
+publication_year: "1989-1990"
+title: "The Material Composition of the Neo-Babylonian Dowry."
+volume_no_: "36/37"
+pages: "1-55"
+related_objects: "7370"
+journal: "Archiv für Orientforschung"
+title: "The Material Composition of the Neo-Babylonian Dowry."
+previous_item: "13993"
+---

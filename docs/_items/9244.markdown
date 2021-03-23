@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "9244"
+occurrence_id: "2636"
+short_title: "NABU 2001/90"
+author: "Gentili, Paolo"
+title: "Nabonidus´ friends in Arabia"
+volume_no_: "90"
+publication_year: "2001"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Nabonidus´ friends in Arabia"
+previous_item: "9247"
+---

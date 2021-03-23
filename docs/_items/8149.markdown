@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8149"
+occurrence_id: "2779"
+short_title: "OLZ 51 (1956), 42-44"
+author: "Wallis, Gerhard"
+publication_year: "1956"
+title: "Rv. G. Cardascia, Les archives des Murašû (Paris 1951)"
+volume_no_: "51"
+pages: "42-44"
+journal: "Orientalistische Literaturzeitung"
+title: "Rv. G. Cardascia, Les archives des Murašû (Paris 1951)"
+previous_item: "8152"
+---

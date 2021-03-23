@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19432"
+occurrence_id: "4502"
+short_title: "Hoffmann 1965"
+author: "Hoffmann, Helmut"
+publication_year: "1965"
+title: "Altpersische Keilinschriften"
+pages: "499-501"
+editor: "Woerner, Gert"
+book: "Kindlers Literatur-Lexikon I (Zürich)"
+title: "Altpersische Keilinschriften"
+previous_item: "19435"
+---

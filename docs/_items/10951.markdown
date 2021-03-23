@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10951"
+occurrence_id: "2800"
+short_title: "OLZ 77 (1982), 255-258"
+author: "Funck, Bernd"
+publication_year: "1982"
+title: "Rv. S.M. Burstein, The Babyloniaca of Berossus"
+volume_no_: "77"
+pages: "255-258"
+journal: "Orientalistische Literaturzeitung"
+title: "Rv. S.M. Burstein, The Babyloniaca of Berossus"
+previous_item: "10954"
+---

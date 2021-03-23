@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "7531"
+occurrence_id: "2471"
+short_title: "NABU 1989/71"
+author: "Brinkman, John A."
+publication_year: "1989"
+title: "Notes on the Neo-Assyrian Eponym Lists in the British Museum"
+volume_no_: "71"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Notes on the Neo-Assyrian Eponym Lists in the British Museum"
+previous_item: "7534"
+---

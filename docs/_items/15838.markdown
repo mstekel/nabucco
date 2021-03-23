@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15838"
+occurrence_id: "2050"
+short_title: "JANES 23 (1995), 61-67"
+author: "Horowitz, Wayne"
+publication_year: "1995"
+title: "An Astronomical Fragment from Columbia University and the Babylonian Revolts against Xerxes"
+volume_no_: "23"
+pages: "61-67"
+journal: "Journal of the Ancient Near Eastern Society of Columbia University"
+title: "An Astronomical Fragment from Columbia University and the Babylonian Revolts against Xerxes"
+previous_item: "15841"
+---

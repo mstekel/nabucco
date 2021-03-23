@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "20386"
+occurrence_id: "5194"
+short_title: "Röllig 1964"
+author: "Röllig, Wolfgang"
+publication_year: "1964"
+title: "Nabonid und Tēmā"
+pages: "21-32"
+book: "Compte rendu de l’onzième rencontre assyriologique internationale – Publications de l’Institut Néerlandais pour le Proche-Orient à Leiden 2, RAI 11 (Leiden)"
+title: "Nabonid und Tēmā"
+previous_item: "20389"
+---

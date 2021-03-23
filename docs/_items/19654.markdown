@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19654"
+occurrence_id: "4583"
+short_title: "Oelsner 2002"
+author: "Oelsner, Joachim"
+publication_year: "2002"
+title: "Hellenisation of the Babylonian Culture?"
+pages: "183-196"
+editor: "Panaino, Antonio"
+book: "Ideologies as Intercultural Phenomena, Melammu Symposia III (Milano)"
+title: "Hellenisation of the Babylonian Culture?"
+previous_item: "19657"
+---

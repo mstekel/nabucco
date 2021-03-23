@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9043"
+occurrence_id: "1555"
+short_title: "BaM 13 (1982), 21-30"
+author: "Cavigneaux, Antoine"
+publication_year: "1982"
+title: "Schultexte aus Warka"
+volume_no_: "13"
+pages: "21-30"
+journal: "Baghdader Mitteilungen"
+title: "Schultexte aus Warka"
+previous_item: "9046"
+---

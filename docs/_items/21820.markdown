@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21820"
+occurrence_id: "5121"
+short_title: "Paulus 2012"
+author: "Paulus, Susanne"
+publication_year: "2012"
+title: "Vom babylonischen Königssiegel und von gesiegelten Steinen"
+pages: "357-367"
+editor: "Wilhelm, Gernot"
+book: "Organization, Representation, and Symbols of Power in the Ancient Near East. Proceedings of the 54th Rencontre Assyriologique Internationale at Würzburg 20-25 July 2008 (Winona Lake)"
+title: "Vom babylonischen Königssiegel und von gesiegelten Steinen"
+previous_item: "21823"
+---

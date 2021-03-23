@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "13132"
+occurrence_id: "2530"
+short_title: "NABU 1995/56"
+author: "Zawadzki, Stefan"
+title: "BM 63282 - the Earliest Babylonian Text Dated to the Reign of Nebuchadnezzar IV"
+volume_no_: "56"
+publication_year: "1995"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "BM 63282 - the Earliest Babylonian Text Dated to the Reign of Nebuchadnezzar IV"
+previous_item: "13135"
+---

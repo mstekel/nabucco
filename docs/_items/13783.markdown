@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13783"
+occurrence_id: "3034"
+short_title: "RA 51 (1957), 21-27"
+author: "Leibovici, Marcel"
+publication_year: "1957"
+title: "Un texte astrologique d´Uruk"
+volume_no_: "51"
+pages: "21-27"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "Un texte astrologique d´Uruk"
+previous_item: "13786"
+---

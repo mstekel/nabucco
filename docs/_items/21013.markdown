@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "21013"
+occurrence_id: "4124"
+short_title: "Bongenaar 1999"
+author: "Bongenaar, A.C.V.M."
+publication_year: "1999"
+title: "Money in the Neo-Babylonian Institutions"
+pages: "159-174"
+editor: "Dercksen, Jan G."
+title: "Money in the Neo-Babylonian Institutions"
+previous_item: "21016"
+---

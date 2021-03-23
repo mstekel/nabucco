@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19621"
+occurrence_id: "4407"
+short_title: "Fales 2007"
+author: "Fales, Frederick Mario"
+publication_year: "2007"
+title: "Arameans and Chaldeans: environment and society."
+pages: "288-298"
+editor: "Leick, Gwendolyn"
+book: "The Babylonian World (Abingdon and New York)"
+title: "Arameans and Chaldeans: environment and society."
+previous_item: "19624"
+---

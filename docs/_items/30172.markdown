@@ -1,0 +1,12 @@
+---
+layout: "tablet"
+slug: "30172"
+object_id: "7340"
+museum_no_: "BM 31826"
+period: "-"
+type_and_content: "Letters"
+archive: "Egibi/Nūr-Sîn"
+bibliography: "To be published by Johannes Hackl."
+title: "BM 31826"
+previous_item: "30175"
+---

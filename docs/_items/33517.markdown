@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33517"
+place_id: "352"
+parent_id: "40"
+place_name: "Bīt-Sîn-līšir"
+title: "Bīt-Sîn-līšir"
+previous_item: "33520"
+---

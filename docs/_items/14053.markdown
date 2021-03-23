@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14053"
+occurrence_id: "1483"
+short_title: "ArOr 40 (1972), 193-197"
+author: "Klíma, Otokar"
+publication_year: "1972"
+title: "Zwei altpersische Wörter in der Inschrift DSF"
+volume_no_: "40"
+pages: "193-197"
+journal: "Archív Orientalí"
+title: "Zwei altpersische Wörter in der Inschrift DSF"
+previous_item: "14056"
+---

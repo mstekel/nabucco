@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10252"
+occurrence_id: "2024"
+short_title: "JA 247 (1959), 297-302"
+author: "Cavaignac, Eugène"
+publication_year: "1959"
+title: "Alashia-Élise"
+volume_no_: "247"
+pages: "297-302"
+journal: "Journal Asiatique"
+title: "Alashia-Élise"
+previous_item: "10255"
+---

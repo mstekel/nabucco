@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20518"
+occurrence_id: "4795"
+short_title: "Jursa 2013a"
+author: "Jursa, Michael"
+publication_year: "2013"
+title: "The Babylonian economy in the sixth and early fifth centuries BC: monetization, agrarian expansion and economic growth"
+pages: "67-93"
+editor: "D'Agostino, Franco"
+book: "L'economia dell'antica Mesopotamia (III-I millennio a.C.). Per un dialogo interdisciplinare (Rome)"
+title: "The Babylonian economy in the sixth and early fifth centuries BC: monetization, agrarian expansion and economic growth"
+previous_item: "20521"
+---

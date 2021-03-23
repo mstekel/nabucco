@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14584"
+occurrence_id: "1337"
+short_title: "AMI 19 (1986 publ.1987), 133-147"
+author: "Koch, Heidemarie"
+publication_year: "1986 publ. 1987"
+title: "Die achämenidische Poststraße von Persepolis nach Susa"
+volume_no_: "19"
+pages: "133-147"
+journal: "Archäologische Mitteilungen aus Iran"
+title: "Die achämenidische Poststraße von Persepolis nach Susa"
+previous_item: "14587"
+---

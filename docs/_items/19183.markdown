@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19183"
+occurrence_id: "4276"
+short_title: "Weisberg 2009"
+author: "Weisberg, David B."
+publication_year: "2009"
+title: "A \"Dinner at the palace\" during Nebuchadnezzar's Reign."
+pages: "261-268"
+editor: "Millard, Alan R."
+book: "Homeland and Exile. Biblical and Ancient Near Eastern Studies in Honour of Bustenay Oded (Leiden and Boston)"
+title: "A \"Dinner at the palace\" during Nebuchadnezzar's Reign."
+previous_item: "19186"
+---

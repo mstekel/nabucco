@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "15649"
+occurrence_id: "4052"
+short_title: "ZA 100/1 (2010), 86-108"
+author: "Worthington, Martin"
+publication_year: "2010"
+title: "A new phonological difference between Babylonian and (Neo-)Assyrian"
+volume_no_: "100/1"
+pages: "86-108"
+title: "A new phonological difference between Babylonian and (Neo-)Assyrian"
+previous_item: "15652"
+---

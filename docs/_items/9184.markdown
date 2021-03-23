@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9184"
+occurrence_id: "2313"
+short_title: "JNES 43 (1984), 115-140"
+author: "Rochberg-Halton, Francesca"
+publication_year: "1984"
+title: "New Evidence for the History of Astrology"
+volume_no_: "43"
+pages: "115-140"
+journal: "Journal of Near Eastern Studies"
+title: "New Evidence for the History of Astrology"
+previous_item: "9187"
+---

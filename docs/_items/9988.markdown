@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9988"
+occurrence_id: "3625"
+short_title: "Atti del I Congresso di diritto comparato I (1953), 737-763"
+author: "Volterra, Edoardo"
+publication_year: "1953"
+title: "Documenti neobabilonesi dell'epoca delle XII tavole"
+volume_no_: "I"
+pages: "737-763"
+journal: "Atti del I Congresso di diritto comparato."
+title: "Documenti neobabilonesi dell'epoca delle XII tavole"
+previous_item: "9991"
+---

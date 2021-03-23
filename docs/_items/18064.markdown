@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18064"
+occurrence_id: "589"
+short_title: "Stolper 1974"
+author: "Stolper, Matthew W. "
+publication_year: "1974"
+title: "Management and Politics in Later Achaemenid Babylonia: New Texts from the Murašû Archive"
+title: "Management and Politics in Later Achaemenid Babylonia: New Texts from the Murašû Archive"
+previous_item: "18067"
+---

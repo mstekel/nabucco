@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8197"
+occurrence_id: "3040"
+short_title: "RA 63 (1969), 79-82"
+author: "Kennedy, Douglas A."
+publication_year: "1969"
+title: "Realia"
+volume_no_: "63"
+pages: "79-82"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "Realia"
+previous_item: "8200"
+---

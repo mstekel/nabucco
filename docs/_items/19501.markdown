@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19501"
+occurrence_id: "4870"
+short_title: "Dandamayev 1997"
+author: "Dandamayev, Muhammed A."
+publication_year: "1997"
+title: "Assyrian Traditions during Achaemenid Times"
+pages: "41-48"
+editor: "Whiting, Robert McCray"
+book: "Assyria 1995, Proceedings of the 10th Anniversary Symposium of the Neo-Assyrian Text Corpus Project Helsinki (Helsinki)"
+title: "Assyrian Traditions during Achaemenid Times"
+previous_item: "19504"
+---

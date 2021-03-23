@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7876"
+occurrence_id: "1309"
+short_title: "AJSL 58 (1941), 427-428"
+author: "Gelb, Ignace J."
+publication_year: "1941"
+title: "Rv. H.F. Lutz, A Recorded Deposition concerning Presentment for Tax Payment"
+volume_no_: "58"
+pages: "427-428"
+journal: "American Journal of Semitic Languages and Literatures"
+title: "Rv. H.F. Lutz, A Recorded Deposition concerning Presentment for Tax Payment"
+previous_item: "7879"
+---

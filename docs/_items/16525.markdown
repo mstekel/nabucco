@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16525"
+occurrence_id: "611"
+short_title: "Vallat 1993"
+author: "Vallat, François "
+publication_year: "1993"
+title: "Répertoire Géographique des Textes cuneiformes XI: Les noms géographiques des sources suso-élamites"
+title: "Répertoire Géographique des Textes cuneiformes XI: Les noms géographiques des sources suso-élamites"
+previous_item: "16528"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14683"
+occurrence_id: "1872"
+short_title: "FuB 14 (1972), 7-35"
+author: "Freydank, Helmut"
+publication_year: "1972"
+title: "Spätbabylonische Rechtsurkunden aus Babylon mit aramäischen Beischriften"
+volume_no_: "14"
+pages: "7-35"
+journal: "Forschungen und Berichte, Staatliche Museen zu Berlin"
+title: "Spätbabylonische Rechtsurkunden aus Babylon mit aramäischen Beischriften"
+previous_item: "14686"
+---

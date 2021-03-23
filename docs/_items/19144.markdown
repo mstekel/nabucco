@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19144"
+occurrence_id: "5172"
+short_title: "Hinz 1970"
+author: "Hinz, Walther"
+publication_year: "1970"
+title: "Persis"
+pages: "1022-1038"
+editor: "Pauly, August , Friedrich"
+book: "Paulys Realencyclopädie der classischen Altertumswissenschaft, Suppl. 12 (Stuttgart)"
+title: "Persis"
+previous_item: "19147"
+---

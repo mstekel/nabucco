@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21331"
+occurrence_id: "4719"
+short_title: "Dietrich 2012"
+author: "Dietrich, Manfried"
+publication_year: "2012"
+title: "The Chaldeans the Leading People in Babylonian History and Historiography during the First Half of the First Millennium BCE"
+pages: "171-184"
+editor: "Goddeeris, Anne"
+book: "The Ancient Near East, A Life! Festschrift Karel Van Lerberghe, Orientalia Lovaniensia Analecta 220 (Leuven)"
+title: "The Chaldeans the Leading People in Babylonian History and Historiography during the First Half of the First Millennium BCE"
+previous_item: "21334"
+---

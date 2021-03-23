@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11227"
+occurrence_id: "1281"
+short_title: "AION 55 (1995), 381-405"
+author: "Di Gennaro, Teodolinda"
+publication_year: "1995"
+title: "Lo šāpiru nell´Ebabbara neo-babilonese e achemenide"
+volume_no_: "55"
+pages: "381-405"
+journal: "Annali dell'Istituto Orientale di Napoli"
+title: "Lo šāpiru nell´Ebabbara neo-babilonese e achemenide"
+previous_item: "11230"
+---

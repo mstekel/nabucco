@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "21721"
+occurrence_id: "4593"
+short_title: "Munn-Rankin 1965"
+author: "Munn-Rankin, Joan Margaret"
+publication_year: "1963"
+title: "Cambyses"
+pages: "695"
+book: "Encyclopaedia Britannica 4 (London)"
+title: "Cambyses"
+previous_item: "21724"
+---

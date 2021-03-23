@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "33601"
+place_id: "1518"
+parent_id: "52"
+place_name: "Hallatu"
+related_objects: "7724"
+title: "Hallatu"
+previous_item: "33604"
+---

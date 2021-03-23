@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9052"
+occurrence_id: "1603"
+short_title: "BCSMS 26 (1993), 7-14"
+author: "Beaulieu, Paul-A."
+publication_year: "1993"
+title: "Women in Neo-Babylonian Society"
+volume_no_: "26"
+pages: "7-14"
+journal: "Bulletin. The Canadian Society for Mesopotamian Studies"
+title: "Women in Neo-Babylonian Society"
+previous_item: "9055"
+---

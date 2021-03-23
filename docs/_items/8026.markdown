@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8026"
+occurrence_id: "2116"
+short_title: "JAOS 61 (1941), 251-271"
+author: "Oppenheim, A. Leo"
+publication_year: "1941"
+title: "Idiomatic Akkadian"
+volume_no_: "61"
+pages: "251-271"
+journal: "Journal of the American Oriental Society"
+title: "Idiomatic Akkadian"
+previous_item: "8029"
+---

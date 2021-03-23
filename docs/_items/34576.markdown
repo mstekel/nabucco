@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "34576"
+place_id: "1342"
+parent_id: "40"
+place_name: "Aua"
+related_objects: "16"
+title: "Aua"
+previous_item: "34579"
+---

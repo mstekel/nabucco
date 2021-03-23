@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11344"
+occurrence_id: "1914"
+short_title: "IrAn 17 (1982 publ. 1983), 101-103"
+author: "Dandamayev, Muhammed A."
+publication_year: "1982 publ. 1983"
+title: "Saka Soldiers on Ships"
+volume_no_: "17"
+pages: "101-103"
+journal: "Iranica Antiqua"
+title: "Saka Soldiers on Ships"
+previous_item: "11347"
+---

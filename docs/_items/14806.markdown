@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "14806"
+occurrence_id: "2533"
+short_title: "NABU 1995/6"
+author: "Zadok, Ran"
+title: "West Semitic Names in N/LB Unpublished Documents"
+volume_no_: "6"
+publication_year: "1995"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "West Semitic Names in N/LB Unpublished Documents"
+previous_item: "14809"
+---

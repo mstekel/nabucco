@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17335"
+occurrence_id: "868"
+short_title: "Reisner 1896"
+author: "Reisner, Georg "
+publication_year: "1896"
+title: "Sumerisch-babylonische Hymnen nach Tontafeln griechischer Zeit (Königliche Museen zu Berlin), Mitteilungen aus dem orientalischen Sammlungen 10 (Berlin)"
+title: "Sumerisch-babylonische Hymnen nach Tontafeln griechischer Zeit (Königliche Museen zu Berlin), Mitteilungen aus dem orientalischen Sammlungen 10 (Berlin)"
+previous_item: "17338"
+---

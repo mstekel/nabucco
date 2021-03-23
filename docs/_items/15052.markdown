@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15052"
+occurrence_id: "3858"
+short_title: "Topoi 15 (2007), 7-20"
+author: "Boiy, Tom"
+publication_year: "2007"
+title: "Assyriology and the History of the Hellenistic period."
+volume_no_: "15"
+pages: "7-20"
+journal: "Topoi"
+title: "Assyriology and the History of the Hellenistic period."
+previous_item: "15055"
+---

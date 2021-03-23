@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10774"
+occurrence_id: "1849"
+short_title: "DAFI 8 (1978), 89-96"
+author: "Stolper, Matthew W."
+publication_year: "1978"
+title: "Inscribed Fragments from Khuzistān"
+volume_no_: "8"
+pages: "89-96"
+journal: "Cahiers de la Délégation Archéologique Française en Iran"
+title: "Inscribed Fragments from Khuzistān"
+previous_item: "10777"
+---

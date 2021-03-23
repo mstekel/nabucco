@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21250"
+occurrence_id: "4286"
+short_title: "Pingree 1999"
+author: "Pingree, David"
+publication_year: "1999"
+title: "Legacies in Astronomy and Celestial Omens"
+pages: "125-137"
+editor: "Dalley, Stephanie"
+book: "The Legacy of Mesopotamia (Oxford)"
+title: "Legacies in Astronomy and Celestial Omens"
+previous_item: "21253"
+---

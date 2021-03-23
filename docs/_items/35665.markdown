@@ -1,0 +1,10 @@
+---
+layout: "glossary"
+slug: "35665"
+concept_id: "1243"
+label: "Commercial partnership"
+hierarchy: "Content type"
+type: "172"
+title: "Commercial partnership"
+previous_item: "35668"
+---

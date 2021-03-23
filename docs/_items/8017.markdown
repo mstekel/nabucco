@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8017"
+occurrence_id: "2068"
+short_title: "JAOS 108 (1988, publ.1989), 51-62"
+author: "Rochberg-Halton, Francesca"
+publication_year: "1988 publ.1989"
+title: "Elements of the Babylonian Contribution to Hellenistic Astrology"
+volume_no_: "108"
+pages: "51-62"
+journal: "Journal of the American Oriental Society"
+title: "Elements of the Babylonian Contribution to Hellenistic Astrology"
+previous_item: "8020"
+---

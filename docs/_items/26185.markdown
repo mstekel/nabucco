@@ -1,0 +1,17 @@
+---
+layout: "tablet"
+slug: "26185"
+object_id: "5886"
+museum_no_: "BM 41684"
+period: "ENB"
+day_remark: "[-]"
+month: "-"
+month_remark: "[-]"
+year_remark: "[-]"
+king: "Ššu"
+king_remark: "-"
+imported: "Melanie Gross (26/05/2016)"
+place_of_issue_remark: "[-]"
+title: "BM 41684"
+previous_item: "26188"
+---

@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "18136"
+occurrence_id: "162"
+short_title: "CT 55"
+author: "Pinches, Theophilus G. "
+publication_year: "1982"
+title: "Cuneiform Texts from Babylonian Tablets in the British Museum 55: Neo-Babylonian and Achaemenid Economic Texts"
+volume_no_: "55"
+related_objects: "5658"
+title: "Cuneiform Texts from Babylonian Tablets in the British Museum 55: Neo-Babylonian and Achaemenid Economic Texts"
+previous_item: "18139"
+---

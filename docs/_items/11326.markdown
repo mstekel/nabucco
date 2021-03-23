@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11326"
+occurrence_id: "1818"
+short_title: "CBQ 47 (1985), 545-546"
+author: "Fitzgerald, Aloysius"
+publication_year: "1985"
+title: "Rv. R. Zadok, The Jews in Babylonia during the Chaldean and the Achaemenian Periods according to the Babylonian Sources"
+volume_no_: "47"
+pages: "545-546"
+journal: "Catholic Biblical Quarterly"
+title: "Rv. R. Zadok, The Jews in Babylonia during the Chaldean and the Achaemenian Periods according to the Babylonian Sources"
+previous_item: "11329"
+---

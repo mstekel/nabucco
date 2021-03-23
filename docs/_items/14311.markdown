@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14311"
+occurrence_id: "2870"
+short_title: "Or 33 (1964), 479-480"
+author: "Nober, P."
+publication_year: "1964"
+title: "Rv. W. Brandenstein and M. Mayrhofer, Handbuch des Altpersischen"
+volume_no_: "33"
+pages: "479-480"
+journal: "Orientalia"
+title: "Rv. W. Brandenstein and M. Mayrhofer, Handbuch des Altpersischen"
+previous_item: "14314"
+---

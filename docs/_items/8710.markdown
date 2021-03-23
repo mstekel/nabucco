@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8710"
+occurrence_id: "2780"
+short_title: "OLZ 52 (1957), 131-134"
+author: "Neugebauer, Otto"
+publication_year: "1957"
+title: "Rv. T.G. Pinches and J.N. Strassmaier, prepared for publication by A.J. Sachs,Late Babylonian Astronomical Texts"
+volume_no_: "52"
+pages: "131-134"
+journal: "Orientalistische Literaturzeitung"
+title: "Rv. T.G. Pinches and J.N. Strassmaier, prepared for publication by A.J. Sachs,Late Babylonian Astronomical Texts"
+previous_item: "8713"
+---

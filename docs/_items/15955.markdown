@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "15955"
+occurrence_id: "2680"
+short_title: "NABU 2005/80"
+author: "Mitsuma, Yasuyuki"
+title: "Office of rab kumari. ***"
+volume_no_: "80"
+publication_year: "2005"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Office of rab kumari. ***"
+previous_item: "15958"
+---

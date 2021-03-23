@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "12025"
+occurrence_id: "2577"
+short_title: "NABU 1998/111"
+author: "Stolper, Matthew W."
+title: "No 'garda of the Fourth year' in PBS 2/1 91"
+volume_no_: "111"
+publication_year: "1998"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "No 'garda of the Fourth year' in PBS 2/1 91"
+previous_item: "12028"
+---

@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33880"
+place_id: "841"
+parent_id: "61"
+place_name: "Birhīni"
+title: "Birhīni"
+previous_item: "33883"
+---

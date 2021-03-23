@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9925"
+occurrence_id: "3283"
+short_title: "UF 2 (1970), 337-338"
+author: "Berger, Paul-R."
+publication_year: "1970"
+title: "Zum Kyros II.-Zylinder VAB 3"
+volume_no_: "2"
+pages: "337-338"
+journal: "Ugarit-Forschungen"
+title: "Zum Kyros II.-Zylinder VAB 3"
+previous_item: "9928"
+---

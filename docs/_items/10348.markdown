@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "10348"
+occurrence_id: "2541"
+short_title: "NABU 1996/24"
+author: "Brinkman, John A."
+title: "The Latest Known Text Dated Under Ashurbanipal"
+volume_no_: "24"
+publication_year: "1996"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "The Latest Known Text Dated Under Ashurbanipal"
+previous_item: "10351"
+---

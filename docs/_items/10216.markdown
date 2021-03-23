@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10216"
+occurrence_id: "1832"
+short_title: "Classical World 77 (1984), 300-303"
+author: "Brown, Richard B."
+publication_year: "1984"
+title: "Greeks in Assyria: Some Overlooked Evidence"
+volume_no_: "77"
+pages: "300-303"
+journal: "Classical World"
+title: "Greeks in Assyria: Some Overlooked Evidence"
+previous_item: "10219"
+---

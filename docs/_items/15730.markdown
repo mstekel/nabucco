@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15730"
+occurrence_id: "1470"
+short_title: "ArOr 28 (1960), 5-54"
+author: "Klíma, Josef"
+publication_year: "1960"
+title: "Untersuchungen zum elamischen Erbrecht (Einleitung - Zum elamischen Erbfolgesystem: Teilungsverträge, Schenkungen von Todes wegen, Undere Vergabungen auf den Todesfall, Entziehung des Erbrechtes - Urkundenverzeichnis)"
+volume_no_: "28"
+pages: "5-54"
+journal: "Archív Orientalí"
+title: "Untersuchungen zum elamischen Erbrecht (Einleitung - Zum elamischen Erbfolgesystem: Teilungsverträge, Schenkungen von Todes wegen, Undere Vergabungen auf den Todesfall, Entziehung des Erbrechtes - Urkundenverzeichnis)"
+previous_item: "15733"
+---

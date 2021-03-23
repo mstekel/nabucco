@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8422"
+occurrence_id: "1225"
+short_title: "AfO 42/43 (1995/1996), 89-108"
+author: "Radner, Karen"
+publication_year: "1995-1996"
+title: "Keilschrifttexte aus Jerusalem"
+volume_no_: "42-43"
+pages: "89-108"
+journal: "Archiv für Orientforschung"
+title: "Keilschrifttexte aus Jerusalem"
+previous_item: "8425"
+---

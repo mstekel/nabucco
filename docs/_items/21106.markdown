@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21106"
+occurrence_id: "4622"
+short_title: "MacGinnis 2010"
+author: "MacGinnis, John"
+publication_year: "2010"
+title: "Mobilisation and Militarisation in the Neo-Babylonian Empire."
+pages: "153-163"
+editor: "Vidal, Jordi"
+book: "Studies on War in the Ancient Near East, AOAT 372 (Münster)"
+title: "Mobilisation and Militarisation in the Neo-Babylonian Empire."
+previous_item: "21109"
+---

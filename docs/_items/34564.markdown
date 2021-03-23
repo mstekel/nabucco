@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34564"
+place_id: "1147"
+parent_id: "61"
+place_name: "Milhānu"
+title: "Milhānu"
+previous_item: "34567"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8482"
+occurrence_id: "1554"
+short_title: "BaM 12 (1981), 87-137"
+author: "Schmid, Hansjörg"
+publication_year: "1981"
+title: "Ergebnisse einer Grabung am Kernmassiv der Zikurrat in Babylon"
+volume_no_: "12"
+pages: "87-137"
+journal: "Baghdader Mitteilungen"
+title: "Ergebnisse einer Grabung am Kernmassiv der Zikurrat in Babylon"
+previous_item: "8485"
+---

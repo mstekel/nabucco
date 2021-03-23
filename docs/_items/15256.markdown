@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15256"
+occurrence_id: "1937"
+short_title: "Iran 41 (2003), 171-191."
+author: "Assar, G.R. Fahrad"
+publication_year: "2003"
+title: "Parthian Calendars at Babylon and Seleucia on the Tigris"
+volume_no_: "41"
+pages: "171-191"
+journal: "Iran. Journal of the British Institute of Persian Studies"
+title: "Parthian Calendars at Babylon and Seleucia on the Tigris"
+previous_item: "15259"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19534"
+occurrence_id: "5046"
+short_title: "Sciandra 2012"
+author: "Sciandra, Roberto"
+publication_year: "2012"
+title: "The Babylonian Correspondence of the Seleucid and Arsacid Dynasties: New Insights into the Relations between Court and City during the Late Babylonian Period"
+pages: "225-248"
+editor: "Wilhelm, Gernot"
+book: "Organization, Representation, and Symbols of Power in the Ancient Near East. Proceedings of the 54th Rencontre Assyriologique Internationale at Würzburg 20-25 July 2008 (Winona Lake)"
+title: "The Babylonian Correspondence of the Seleucid and Arsacid Dynasties: New Insights into the Relations between Court and City during the Late Babylonian Period"
+previous_item: "19537"
+---

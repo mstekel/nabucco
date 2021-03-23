@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9385"
+occurrence_id: "3396"
+short_title: "ZA 48 (1944), 45-68"
+author: "Wetzel, Friedrich"
+publication_year: "1944"
+title: "Babylon zur Zeit Herodots"
+volume_no_: "48"
+pages: "45-68"
+journal: "Zeitschrift für Assyriologie"
+title: "Babylon zur Zeit Herodots"
+previous_item: "9388"
+---

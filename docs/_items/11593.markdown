@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11593"
+occurrence_id: "3254"
+short_title: "The Classical Journal 60 (1964), 88"
+author: "McGregor, M.F."
+publication_year: "1964"
+title: "Rv. R.N. Frye, The Heritage of Persia"
+volume_no_: "60"
+pages: "88"
+journal: "The Classical Journal"
+title: "Rv. R.N. Frye, The Heritage of Persia"
+previous_item: "11596"
+---

@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33784"
+place_id: "1078"
+parent_id: "61"
+place_name: "Huṣṣēti-ša-Nabû-nāṣi"
+title: "Huṣṣēti-ša-Nabû-nāṣi"
+previous_item: "33787"
+---

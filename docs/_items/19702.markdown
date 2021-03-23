@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19702"
+occurrence_id: "4839"
+short_title: "Dandamayev 1972"
+author: "Dandamayev, Muhammed A."
+publication_year: "1972"
+title: "The Economic and Legal Character of theSlaves´ Peculium in the Neo-Babylonian and Achaemenid Periods"
+pages: "35-39"
+editor: "Edzard, Dietz , O."
+book: "Gesellschaftsklassen im Alten Zweistromland und in den angrenzenden Gebieten ABAW Phil.-hist. Klasse NF 75, Veröffentlichungen der Kommission zur Erschließung von Keilschrifttexten, Serie A/6, RAI 18  (München)"
+title: "The Economic and Legal Character of theSlaves´ Peculium in the Neo-Babylonian and Achaemenid Periods"
+previous_item: "19705"
+---

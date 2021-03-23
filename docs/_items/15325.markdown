@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15325"
+occurrence_id: "2308"
+short_title: "JNES 41 (1982), 51-53"
+author: "McEwan, Gilbert J.P."
+publication_year: "1982"
+title: "An Official Seleucid Seal Reconsidered"
+volume_no_: "41"
+pages: "51-53"
+journal: "Journal of Near Eastern Studies"
+title: "An Official Seleucid Seal Reconsidered"
+previous_item: "15328"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15328"
+occurrence_id: "2324"
+short_title: "JNES 52 (1993), 241-261"
+author: "Beaulieu, Paul-A."
+publication_year: "1993"
+title: "An Episode in the Fall of Babylon to the Persians"
+volume_no_: "52"
+pages: "241-261"
+journal: "Journal of Near Eastern Studies"
+title: "An Episode in the Fall of Babylon to the Persians"
+previous_item: "15331"
+---

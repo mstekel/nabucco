@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14722"
+occurrence_id: "2080"
+short_title: "JAOS 116 (1996), 517-521"
+author: "Stolper, Matthew W."
+publication_year: "1996"
+title: "A Paper Chase after the Aramaic on TCL 13 193"
+volume_no_: "116"
+pages: "517-521"
+journal: "Journal of the American Oriental Society"
+title: "A Paper Chase after the Aramaic on TCL 13 193"
+previous_item: "14725"
+---

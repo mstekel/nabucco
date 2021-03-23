@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20263"
+occurrence_id: "4538"
+short_title: "Spar 1979"
+author: "Spar, Ira"
+publication_year: "1979"
+title: "Three Neo-Babylonian Trial Depositions from Uruk"
+pages: "157-172"
+editor: "Powell, Marvin A."
+book: "Studies in Honor of Tom B. Jones, AOAT 203 (Neukirchen-Vluyn)"
+title: "Three Neo-Babylonian Trial Depositions from Uruk"
+previous_item: "20266"
+---

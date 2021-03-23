@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13291"
+occurrence_id: "3387"
+short_title: "ZA 32 (1918/1919), 1-12"
+author: "Schroeder, Otto"
+publication_year: "1918/1919"
+title: "Aus den keilinschriftlichen Sammlungen des Berliner Museums. II"
+volume_no_: "32"
+pages: "1-12."
+journal: "Zeitschrift für Assyriologie"
+title: "Aus den keilinschriftlichen Sammlungen des Berliner Museums. II"
+previous_item: "13294"
+---

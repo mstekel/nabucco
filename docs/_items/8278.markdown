@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8278"
+occurrence_id: "3476"
+short_title: "ZA 84 (1994), 220-252"
+author: "Cole, Steven W."
+publication_year: "1994"
+title: "The Crimes and Sacrileges of Nabû-šuma-iškun"
+volume_no_: "84"
+pages: "220-252"
+journal: "Zeitschrift für Assyriologie"
+title: "The Crimes and Sacrileges of Nabû-šuma-iškun"
+previous_item: "8281"
+---

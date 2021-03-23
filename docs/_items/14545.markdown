@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14545"
+occurrence_id: "696"
+short_title: "Weissbach, ZDMG 70 (1916)"
+author: "Weissbach, Franz, H."
+publication_year: "1916"
+title: "Neue Beiträge zurr keilinschriftlichen Gewichtskunde"
+volume_no_: "70"
+pages: "49-91, 354-402"
+journal: "Zeitschrift der Deutschen Morgenländischen Gesellschaft (Wiesbaden)"
+title: "Neue Beiträge zurr keilinschriftlichen Gewichtskunde"
+previous_item: "14548"
+---

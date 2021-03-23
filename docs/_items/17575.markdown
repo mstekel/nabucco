@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17575"
+occurrence_id: "768"
+short_title: "de Vogüé 1889"
+author: "de Vogüé, C.J.M. "
+publication_year: "1889"
+title: "Corpus Inscriptionum Semiticarum ab Academia Inscriptionum et Litterarum Humaniorum conditum atque digestum, Pars secanda, inscriptiones aramaicas continens, Tomus I., CIS 2/I (Paris)"
+title: "Corpus Inscriptionum Semiticarum ab Academia Inscriptionum et Litterarum Humaniorum conditum atque digestum, Pars secanda, inscriptiones aramaicas continens, Tomus I., CIS 2/I (Paris)"
+previous_item: "17578"
+---

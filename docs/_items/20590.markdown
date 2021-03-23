@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "20590"
+occurrence_id: "5179"
+short_title: "Lambert 1972"
+author: "Lambert, Wilfred G."
+publication_year: "1972"
+title: "Nabonidus in Arabia"
+pages: "53-64"
+book: "Proceedings of the Fifth Seminar of Arabian Studies, Held at the Oriental Institute, Oxford, 22nd and 23rd September 1971 (London)"
+title: "Nabonidus in Arabia"
+previous_item: "20593"
+---

@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33895"
+place_id: "1081"
+parent_id: "61"
+place_name: "Huṣṣēti-ša-[]"
+title: "Huṣṣēti-ša-[]"
+previous_item: "33898"
+---

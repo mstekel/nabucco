@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15142"
+occurrence_id: "1322"
+short_title: "Akkadica 124 (2003), 19-64."
+author: "Boiy, Tom"
+publication_year: "2003"
+title: "RIAA2 293-300. Hellenistic Legal Documents from Uruk in the \"Royal Museum of Art and History\"."
+volume_no_: "124"
+pages: "19-64"
+journal: "Akkadica"
+title: "RIAA2 293-300. Hellenistic Legal Documents from Uruk in the \"Royal Museum of Art and History\"."
+previous_item: "15145"
+---

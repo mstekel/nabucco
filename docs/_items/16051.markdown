@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "16051"
+occurrence_id: "3198"
+short_title: "SPAW 1889, 813-823"
+author: "Peiser, Felix , E."
+publication_year: "1889"
+title: "Die Zugehörigkeit der unter Nr. 84. 2-11 im British Museum registrierten thontafelsammlung zu den thontafelsammlungen des Königlichen Museums zu Berlin"
+pages: "813-823"
+journal: "Sitzungsberichte der Preußischen Akademie der Wissenschaften"
+title: "Die Zugehörigkeit der unter Nr. 84. 2-11 im British Museum registrierten thontafelsammlung zu den thontafelsammlungen des Königlichen Museums zu Berlin"
+previous_item: "16054"
+---

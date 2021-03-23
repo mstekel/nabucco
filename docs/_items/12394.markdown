@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12394"
+occurrence_id: "1561"
+short_title: "BaM 16 (1985), 211-220"
+author: "Mauer, Gerlinde"
+publication_year: "1985"
+title: "Die Tontafeln des Römisch-Germanischen Zentralmuseums Mainz"
+volume_no_: "16"
+pages: "211-220"
+journal: "Baghdader Mitteilungen"
+title: "Die Tontafeln des Römisch-Germanischen Zentralmuseums Mainz"
+previous_item: "12397"
+---

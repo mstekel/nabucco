@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17152"
+occurrence_id: "529"
+short_title: "Oppenheim 1964"
+author: "Oppenheim, A. Leo "
+publication_year: "1964"
+title: "Ancient Mesopotamia. Portrait of a dead Civilization"
+title: "Ancient Mesopotamia. Portrait of a dead Civilization"
+previous_item: "17155"
+---

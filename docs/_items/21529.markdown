@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21529"
+occurrence_id: "4672"
+short_title: "Abraham 1995"
+author: "Abraham, Kathleen"
+publication_year: "1995"
+title: "The End of Marduk-Nā‚ir-Apli´s Career as Businessman and Scribe. New Evidence from Unpublished Egibi Texts from the British Museum"
+pages: "1-9"
+editor: "Schoors, Anton"
+book: "Immigration and Emigration within the Ancient Near East, Fs. Lipiński (Leuven)"
+title: "The End of Marduk-Nā‚ir-Apli´s Career as Businessman and Scribe. New Evidence from Unpublished Egibi Texts from the British Museum"
+previous_item: "21532"
+---

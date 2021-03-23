@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21391"
+occurrence_id: "5039"
+short_title: "Rollinger 2003b"
+author: "Rollinger, Robert"
+publication_year: "2003"
+title: "The Western expansion of the Median \"empire\": a re-examination."
+pages: "289-319"
+editor: "Lanfranchi, Giovanni , B."
+book: "Conitnuity of Empire (?). Assyria, Media, Persia (Padova)"
+title: "The Western expansion of the Median \"empire\": a re-examination."
+previous_item: "21394"
+---

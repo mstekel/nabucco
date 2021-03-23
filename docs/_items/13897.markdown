@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "13897"
+occurrence_id: "3648"
+short_title: "BLOT (1993), 33"
+author: "Lambert, Wilfred G."
+publication_year: "1993"
+title: "Rv. K. Kessler, Uruk. Urkunden aus Privahäusern in Uruk. Die Wohnhäuser westlich des Eanna-Tempelbereichs. Teil 1. Die Archive der Söhne des Bēl-supê-muhur (AUWE 8.1991)"
+pages: "33"
+journal: "Book List. Society for Old Testament Studies (Llansadwrn, Menai Bridge)"
+title: "Rv. K. Kessler, Uruk. Urkunden aus Privahäusern in Uruk. Die Wohnhäuser westlich des Eanna-Tempelbereichs. Teil 1. Die Archive der Söhne des Bēl-supê-muhur (AUWE 8.1991)"
+previous_item: "13900"
+---

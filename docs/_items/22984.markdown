@@ -1,0 +1,9 @@
+---
+layout: "archive"
+slug: "22984"
+archive_id: "394"
+archive_name: "Kurī A"
+is_part_of: "Uruk"
+title: "Kurī A"
+previous_item: "22987"
+---

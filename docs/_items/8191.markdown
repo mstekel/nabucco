@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8191"
+occurrence_id: "3008"
+short_title: "RA 14 (1917), 156-159"
+author: "Scheil, Vincent"
+publication_year: "1917"
+title: "Une affaire de dépôt"
+volume_no_: "14"
+pages: "156-159"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "Une affaire de dépôt"
+previous_item: "8194"
+---

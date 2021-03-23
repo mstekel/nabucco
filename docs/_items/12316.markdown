@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12316"
+occurrence_id: "711"
+short_title: "Sayce, BOR 4 (1889/1890)"
+author: "Sayce, Archibald H."
+publication_year: "1889/1890"
+title: "Some unpublished Contract-Tablets"
+volume_no_: "4"
+pages: "1-6"
+journal: "Babylonian and Oriental Record"
+title: "Some unpublished Contract-Tablets"
+previous_item: "12319"
+---

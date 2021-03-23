@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19123"
+occurrence_id: "5060"
+short_title: "Wallenfels 2001"
+author: "Wallenfels, Ronald"
+publication_year: "2001"
+title: "Fourth-Century Babylonian Sealed Archival Texts"
+pages: "215-238"
+editor: "Winter, I.J."
+book: "Proceedings of the XLVe Rencontre Assyriologique Internationale: Part II, Yale University: Seals and Seal Impressions, RAI 45/2 (Bethesda)"
+title: "Fourth-Century Babylonian Sealed Archival Texts"
+previous_item: "19126"
+---

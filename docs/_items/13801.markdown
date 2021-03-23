@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13801"
+occurrence_id: "3130"
+short_title: "RBPH 36 (1958), 652-653"
+author: "Balon, J."
+publication_year: "1958"
+title: "Rv. H. Petschow, Neubabylonisches Pfandrecht (Berlin 1956)"
+volume_no_: "36"
+pages: "652-653"
+journal: "Revue Belge de Philologie et d´Histoire"
+title: "Rv. H. Petschow, Neubabylonisches Pfandrecht (Berlin 1956)"
+previous_item: "13804"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16156"
+occurrence_id: "3764"
+short_title: "JSS 3 (1958), 127-128"
+author: "Falk, Ze'ev W."
+publication_year: "1958"
+title: "Manumission by Sale"
+volume_no_: "3"
+pages: "127-128"
+journal: "Journal of Semitic Studies"
+title: "Manumission by Sale"
+previous_item: "16159"
+---

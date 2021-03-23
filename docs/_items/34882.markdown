@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34882"
+place_id: "916"
+parent_id: "61"
+place_name: "Bīt-Šalti-'il"
+title: "Bīt-Šalti-'il"
+previous_item: "34885"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10309"
+occurrence_id: "2331"
+short_title: "JNES 55 (1996), 135-138"
+author: "Weisberg, David B."
+publication_year: "1996"
+title: "Rv. R.H. Sack, Images of Nebuchadnezzar. The Emergence of a Legend (1991)"
+volume_no_: "55"
+pages: "135-138"
+journal: "Journal of Near Eastern Studies"
+title: "Rv. R.H. Sack, Images of Nebuchadnezzar. The Emergence of a Legend (1991)"
+previous_item: "10312"
+---

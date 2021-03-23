@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21781"
+occurrence_id: "4913"
+short_title: "Corò Capitanio 2012"
+author: "Corò Capitanio, Paola"
+publication_year: "2012"
+title: "Galateo e offerte alimentari nella Babilonia di I millennio a.C.: la preparazione della tavola"
+pages: "279-288"
+editor: "Milano, Lucio"
+book: "Mangiare divinamente. Pratiche e simbologie alimentari nell'antico oriente (Venice)"
+title: "Galateo e offerte alimentari nella Babilonia di I millennio a.C.: la preparazione della tavola"
+previous_item: "21784"
+---

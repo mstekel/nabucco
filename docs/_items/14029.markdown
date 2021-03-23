@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14029"
+occurrence_id: "1352"
+short_title: "AMI 4 (1971 publ. 1972), 25-49"
+author: "Gropp, Gerd"
+publication_year: "1999"
+title: "Beobachtungen in Persepolis"
+volume_no_: "4"
+pages: "25-49"
+journal: "Archäologische Mitteilungen aus Iran"
+title: "Beobachtungen in Persepolis"
+previous_item: "14032"
+---

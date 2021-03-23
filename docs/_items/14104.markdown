@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14104"
+occurrence_id: "1758"
+short_title: "BOR 2 (1888), 142-145"
+author: "Pinches, Theophilus G."
+publication_year: "1888"
+title: "Gifts to a Babylonian Bēt-ēli or Behel"
+volume_no_: "2"
+pages: "142-145"
+journal: "Babylonian and Oriental Record"
+title: "Gifts to a Babylonian Bēt-ēli or Behel"
+previous_item: "14107"
+---

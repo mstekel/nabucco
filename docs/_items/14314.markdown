@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14314"
+occurrence_id: "2887"
+short_title: "Or 47 (1978), 74-90"
+author: "Eph'al, Israel"
+publication_year: "1978"
+title: "The Western Minorities in Babylonia in the 6th- 5th Centuries B.C.: Maintenance and Cohesion"
+volume_no_: "47"
+pages: "74-90"
+journal: "Orientalia"
+title: "The Western Minorities in Babylonia in the 6th- 5th Centuries B.C.: Maintenance and Cohesion"
+previous_item: "14317"
+---

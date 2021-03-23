@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9061"
+occurrence_id: "1651"
+short_title: "BiOr 26 (1969 publ. 1970), 409-410"
+author: "Kampmann, Arie, A."
+publication_year: "1969 publ. 1970"
+title: "Rv. E. Herzfeld, the Persian Empire"
+volume_no_: "26"
+pages: "409-410"
+journal: "Bibliotheca Orientalis"
+title: "Rv. E. Herzfeld, the Persian Empire"
+previous_item: "9064"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14971"
+occurrence_id: "3423"
+short_title: "ZA 62 (1972), 84-90"
+author: "von Soden, Wolfram"
+publication_year: "1972"
+title: "Der neubabylonische Funktionär simmagir und der Feuertod des Šamaš-šum-ukīn"
+volume_no_: "62"
+pages: "84-90"
+journal: "Zeitschrift für Assyriologie"
+title: "Der neubabylonische Funktionär simmagir und der Feuertod des Šamaš-šum-ukīn"
+previous_item: "14974"
+---

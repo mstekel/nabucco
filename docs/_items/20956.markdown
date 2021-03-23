@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20956"
+occurrence_id: "4925"
+short_title: "Beaulieu 2000"
+author: "Beaulieu, Paul-A."
+publication_year: "2000"
+title: "A Finger in Every Pie: the Institutional Connections of a Family of Entrepreneurs in Neo-Babylonian Larsa"
+pages: "43-72"
+editor: "Bongenaar, A.C.V.M."
+book: "Interdependency of Institutions and Private Entrepreneurs (Istanbul and Leiden)"
+title: "A Finger in Every Pie: the Institutional Connections of a Family of Entrepreneurs in Neo-Babylonian Larsa"
+previous_item: "20959"
+---

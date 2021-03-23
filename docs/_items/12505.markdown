@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12505"
+occurrence_id: "2156"
+short_title: "JCS 2 (1948), 271-290"
+author: "Sachs, Abraham J."
+publication_year: "1948"
+title: "A Classification of the Babylonian Astronomical Tablets of the Seleucid Period"
+volume_no_: "2"
+pages: "271-290"
+journal: "Journal of Cuneiform Studies"
+title: "A Classification of the Babylonian Astronomical Tablets of the Seleucid Period"
+previous_item: "12508"
+---

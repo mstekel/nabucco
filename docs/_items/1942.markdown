@@ -1,0 +1,11 @@
+---
+layout: "glossary"
+slug: "1942"
+concept_id: "1477"
+hierarchy: "General keywords"
+label: "Nippur canals"
+related_objects: "8498"
+type: "148"
+title: "Nippur canals"
+previous_item: "1945"
+---

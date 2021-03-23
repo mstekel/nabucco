@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19351"
+occurrence_id: "5173"
+short_title: "Hinz 1971"
+author: "Hinz, Walther"
+publication_year: "1972"
+title: "Die Quellen"
+pages: "5-14"
+editor: "Walser, Gerold"
+book: "Beiträge zur Achämenidengeschichte, Historia, Zeitschrift für alte Geschichte, Einzelschriften, Heft 18 (Wiesbaden)"
+title: "Die Quellen"
+previous_item: "19354"
+---

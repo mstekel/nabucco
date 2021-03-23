@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16042"
+occurrence_id: "3150"
+short_title: "RIDA 3e Serie 6 (1959), 19-32"
+author: "Cardascia, Guillaume"
+publication_year: "1959"
+title: "Le concept babylonien de la propriété"
+volume_no_: "3/6."
+pages: "19-32"
+journal: "Revue Internationale des Droits de l'Antiquité"
+title: "Le concept babylonien de la propriété"
+previous_item: "16045"
+---

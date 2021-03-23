@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8635"
+occurrence_id: "2376"
+short_title: "Klio 82 (2000), 73-90"
+author: "Sommer, Michael"
+publication_year: "2000"
+title: "Babylonien im Seleukidenreich: Indirekte Herrschaft and indigene Bevölkerung"
+volume_no_: "82"
+pages: "73-90"
+journal: "Klio"
+title: "Babylonien im Seleukidenreich: Indirekte Herrschaft and indigene Bevölkerung"
+previous_item: "8638"
+---

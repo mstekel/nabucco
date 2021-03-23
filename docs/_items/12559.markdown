@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "12559"
+occurrence_id: "2447"
+short_title: "NABU 1987/88"
+author: "Vallat, François"
+publication_year: "1987"
+title: "Elamite nulkippi"
+volume_no_: "88"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Elamite nulkippi"
+previous_item: "12562"
+---

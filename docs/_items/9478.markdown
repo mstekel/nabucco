@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9478"
+occurrence_id: "3896"
+short_title: "ZVS 81 (1967), 63-67"
+author: "Schmitt, Rüdiger"
+publication_year: "1967"
+title: "Zwei Bemerkungen zum Augment"
+volume_no_: "81"
+pages: "63-67"
+journal: "Zeitschrift für vergleichende Sprachforschung auf dem Gebiete der Indogermanischen Sprachen"
+title: "Zwei Bemerkungen zum Augment"
+previous_item: "9481"
+---

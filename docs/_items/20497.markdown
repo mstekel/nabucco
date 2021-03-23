@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20497"
+occurrence_id: "4683"
+short_title: "Nawotka 2015"
+author: "Nawotka, Krzysztof"
+publication_year: "2015"
+title: "Alexander the Great in Babylon: Reality and Myth"
+pages: "365-380"
+editor: "van Dongen, Erik "
+book: "Mesopotamia in the Ancient World. Impact, Continuities, Parallels. Proceedings of the Seventh Symposium of the Melammu Project Held in Obergurgl, Austria, November 4-8, 2013, Melammu Symposia 7 (Münster)"
+title: "Alexander the Great in Babylon: Reality and Myth"
+previous_item: "20500"
+---

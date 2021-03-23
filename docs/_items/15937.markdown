@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "15937"
+occurrence_id: "2584"
+short_title: "NABU 1998/126"
+author: "Vallat, François"
+title: "Formules de voeux en élamite"
+volume_no_: "126"
+publication_year: "1998"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Formules de voeux en élamite"
+previous_item: "15940"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11224"
+occurrence_id: "1265"
+short_title: "AfO 51 (2005/2006), 315-318"
+author: "MacGinnis, John"
+publication_year: "2005-2006"
+title: "Rv. G. van Driel, Elusive Silver. In search of a role for a market in an agrarian enviroment. Aspects of Mesopotamian Society. Leiden. 2002."
+volume_no_: "51"
+pages: "315-318"
+journal: "Archiv für Orientforschung"
+title: "Rv. G. van Driel, Elusive Silver. In search of a role for a market in an agrarian enviroment. Aspects of Mesopotamian Society. Leiden. 2002."
+previous_item: "11227"
+---

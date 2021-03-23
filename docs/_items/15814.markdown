@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15814"
+occurrence_id: "1922"
+short_title: "Iran 22 (1984), 156-160"
+author: "Kuhrt, Amélie"
+publication_year: "1984"
+title: "The Achaemenid Concept of Kingship"
+volume_no_: "22"
+pages: "156-160"
+journal: "Iran. Journal of the British Institute of Persian Studies"
+title: "The Achaemenid Concept of Kingship"
+previous_item: "15817"
+---

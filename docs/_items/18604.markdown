@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18604"
+occurrence_id: "4498"
+short_title: "Sancisi-Weerdenburg 1993"
+author: "Sancisi-Weerdenburg, Heleen"
+publication_year: "1993"
+title: "Political Concepts in Old-Persian Royal Inscriptions"
+pages: "145-163"
+editor: "Raaflaub, K."
+book: "Anfänge politischen Denkens in der Antike (München)"
+title: "Political Concepts in Old-Persian Royal Inscriptions"
+previous_item: "18607"
+---

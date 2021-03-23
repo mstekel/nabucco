@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "13150"
+occurrence_id: "2627"
+short_title: "NABU 2001/102"
+author: "Jursa, Michael"
+title: "Kollationen"
+volume_no_: "102"
+publication_year: "2001"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Kollationen"
+previous_item: "13153"
+---

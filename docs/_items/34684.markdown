@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34684"
+place_id: "1297"
+parent_id: "61"
+place_name: "Tamūdē"
+title: "Tamūdē"
+previous_item: "34687"
+---

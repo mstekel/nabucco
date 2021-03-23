@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16339"
+occurrence_id: "1730"
+short_title: "BiOr 65 (2008), 712-717"
+author: "George, Andrew, R."
+publication_year: "2008"
+title: "Rv. O. Pedersén, Archive und Bibliotheken in Babylon. Die Tontafeln der Grabung Robert Koldeweys 1899-1917."
+volume_no_: "65"
+pages: "712-717"
+journal: "Bibliotheca Orientalis"
+title: "Rv. O. Pedersén, Archive und Bibliotheken in Babylon. Die Tontafeln der Grabung Robert Koldeweys 1899-1917."
+previous_item: "16342"
+---

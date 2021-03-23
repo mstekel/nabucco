@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20848"
+occurrence_id: "4349"
+short_title: "Rochberg-Halton 2007"
+author: "Rochberg-Halton, Francesca"
+publication_year: "2007"
+title: "Marduk in Heaven"
+pages: "432-442"
+editor: "Köhbach, Markus "
+book: "Festschrift für Hermann Hunger zum 65. Geburtstag: gewidmet von seinen Freunden, Kollegen und Schülern, WZKM 97 (Wien)"
+title: "Marduk in Heaven"
+previous_item: "20851"
+---

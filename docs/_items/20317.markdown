@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20317"
+occurrence_id: "4826"
+short_title: "Larsen 2000"
+author: "Larsen, Mogens Trolle"
+publication_year: "2000"
+title: "The City-States of the Early Neo-Babylonian Period"
+pages: "117-127"
+editor: "Hansen, Mogens Herman"
+book: "A Comparative Study of thirty City-State Cultures. An Investigation Conducted by the copenhagen Polis Centre (Copenhagen)"
+title: "The City-States of the Early Neo-Babylonian Period"
+previous_item: "20320"
+---

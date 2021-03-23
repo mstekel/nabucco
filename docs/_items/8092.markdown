@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "8092"
+occurrence_id: "2472"
+short_title: "NABU 1989/75"
+author: "Joannès, Francis"
+publication_year: "1989"
+title: "MUN.x = ṭābtum"
+volume_no_: "75"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "MUN.x = ṭābtum"
+previous_item: "8095"
+---

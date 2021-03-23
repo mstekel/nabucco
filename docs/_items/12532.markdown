@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12532"
+occurrence_id: "2303"
+short_title: "JNES 38 (1979), 53-54"
+author: "Biggs, Robert D."
+publication_year: "1979"
+title: "Rv. H. Hunger, Spätbabylonische Texte aus Uruk, Teil I"
+volume_no_: "38"
+pages: "53-54"
+journal: "Journal of Near Eastern Studies"
+title: "Rv. H. Hunger, Spätbabylonische Texte aus Uruk, Teil I"
+previous_item: "12535"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20143"
+occurrence_id: "5001"
+short_title: "Pirngruber 2014a"
+author: "Pirngruber, Reinhard"
+publication_year: "2014"
+title: "Die Stadt Akkad in den babylonischen Quellen des 1. Jahrtausend v. Chr."
+pages: "111-115"
+editor: "Cancik-Kirschbaum, Eva"
+book: "Entre le fleuves II: D’Aššur à Mari et au-delà, BBVO 24 (Gladbeck)"
+title: "Die Stadt Akkad in den babylonischen Quellen des 1. Jahrtausend v. Chr."
+previous_item: "20146"
+---

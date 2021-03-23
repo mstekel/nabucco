@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8020"
+occurrence_id: "2084"
+short_title: "JAOS 118 (1998), 284-286"
+author: "Dunham, Sally"
+publication_year: "1998"
+title: "Rv. H. Schmid, Der Tempelturm Etemenanki in Babylon (BaF 17, 1995)"
+volume_no_: "118"
+pages: "284-286"
+journal: "Journal of the American Oriental Society"
+title: "Rv. H. Schmid, Der Tempelturm Etemenanki in Babylon (BaF 17, 1995)"
+previous_item: "8023"
+---

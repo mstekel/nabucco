@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12619"
+occurrence_id: "2771"
+short_title: "OLZ 44 (1941), 337-343"
+author: "Grimme, H."
+publication_year: "1941"
+title: "Beziehungen zwischen dem Staate der Lihjāan und dem Achämenidenreiche"
+volume_no_: "44"
+pages: "337-343"
+journal: "Orientalistische Literaturzeitung"
+title: "Beziehungen zwischen dem Staate der Lihjāan und dem Achämenidenreiche"
+previous_item: "12622"
+---

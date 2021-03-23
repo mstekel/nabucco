@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20971"
+occurrence_id: "5005"
+short_title: "Labat 1963"
+author: "Labat, René"
+publication_year: "Cambridge 1963"
+title: "Elam c. 1600-1200 B.C."
+pages: "Chapter XXIX"
+editor: "Walker, Christopher,  Bromhead F."
+book: "The Cambridge Ancient History. CAH II (Cambridge)"
+title: "Elam c. 1600-1200 B.C."
+previous_item: "20974"
+---

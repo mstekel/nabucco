@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11254"
+occurrence_id: "1429"
+short_title: "AoF 26 (1999), 127-139"
+author: "Schmitt, Rüdiger"
+publication_year: "1999"
+title: "Bemerkungen zum Schlußabschnitt von Dareios´ Grabinschrift DNb"
+volume_no_: "26"
+pages: "127-139"
+journal: "Altorientalische Forschungen"
+title: "Bemerkungen zum Schlußabschnitt von Dareios´ Grabinschrift DNb"
+previous_item: "11257"
+---

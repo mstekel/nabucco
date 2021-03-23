@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20146"
+occurrence_id: "5017"
+short_title: "van der Spek 1987"
+author: "van der Spek, Robartus"
+publication_year: "1987"
+title: "The Babylonian City"
+pages: "57-74"
+editor: "Kuhrt, Amélie"
+book: "Hellenism in the East. The Interaction of Greek and non-Greek civilizations from Syria to Central Asia after Alexander (London)"
+title: "The Babylonian City"
+previous_item: "20149"
+---

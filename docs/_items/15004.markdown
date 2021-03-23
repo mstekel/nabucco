@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15004"
+occurrence_id: "3602"
+short_title: "Achaemenid History 8 (1994), 283-310"
+author: "Briant, Pierre"
+publication_year: "1994"
+title: "Sources gréco-hellénistiques, institutions perses et institutions macédoniennes. Continuités, changements et bricolages"
+volume_no_: "8"
+pages: "283-310"
+journal: "Achaemenid History"
+title: "Sources gréco-hellénistiques, institutions perses et institutions macédoniennes. Continuités, changements et bricolages"
+previous_item: "15007"
+---

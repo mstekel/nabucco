@@ -1,0 +1,17 @@
+---
+layout: "tablet"
+slug: "26080"
+object_id: "5999"
+museum_no_: "BM 67313"
+period: "ENB"
+place_of_issue: "Babylon city"
+day_remark: "[-]"
+month: "-"
+month_remark: "[-]"
+year_remark: "-"
+king: "Sîn-šarru-iškun"
+king_remark: "-"
+imported: "Melanie Gross (26/05/2016)"
+title: "BM 67313"
+previous_item: "26089"
+---

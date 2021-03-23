@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10477"
+occurrence_id: "3252"
+short_title: "Tel-Aviv 6 (1979), 164-181"
+author: "Zadok, Ran"
+publication_year: "1979"
+title: "On some Foreign Population Groups in First-Millennium Babylonia"
+volume_no_: "6"
+pages: "164-181"
+journal: "Tel-Aviv"
+title: "On some Foreign Population Groups in First-Millennium Babylonia"
+previous_item: "10480"
+---

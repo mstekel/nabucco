@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34846"
+place_id: "340"
+parent_id: "40"
+place_name: "Bīt-rab-ṭābihē"
+title: "Bīt-rab-ṭābihē"
+previous_item: "34849"
+---

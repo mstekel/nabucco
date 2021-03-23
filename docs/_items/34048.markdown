@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "34048"
+place_id: "1539"
+parent_id: "37"
+place_name: "Ḫuṣṣēti-ša-Bēl-ēṭir"
+related_objects: "7364"
+title: "Ḫuṣṣēti-ša-Bēl-ēṭir"
+previous_item: "34051"
+---

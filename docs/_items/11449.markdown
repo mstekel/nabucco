@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "11449"
+occurrence_id: "2478"
+short_title: "NABU 1990/72"
+author: "Zadok, Ran"
+publication_year: "1990"
+title: "Some Kassite and Iranian Names from Mesopotamia"
+volume_no_: "72"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Some Kassite and Iranian Names from Mesopotamia"
+previous_item: "11452"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11077"
+occurrence_id: "3481"
+short_title: "ZA 86 (1996), 217-219"
+author: "Zawadzki, Stefan"
+publication_year: "1996"
+title: "Two Neo-Babylonian Documents from 562 B.C."
+volume_no_: "86"
+pages: "217-219"
+journal: "Zeitschrift für Assyriologie"
+title: "Two Neo-Babylonian Documents from 562 B.C."
+previous_item: "11080"
+---

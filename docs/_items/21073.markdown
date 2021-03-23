@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21073"
+occurrence_id: "4446"
+short_title: "del Monte 2000a"
+author: "del Monte, Giuseppe F."
+publication_year: "2000"
+title: "Il quartiere del tempio di Adad a Uruk in età seleucide. Parte II - Il II secolo ES"
+pages: "177-208"
+editor: "Graziani, Simonetta"
+book: "Studi sul vicino oriente antico dedicati alla memoria di Luigi Cagni (Napoli)"
+title: "Il quartiere del tempio di Adad a Uruk in età seleucide. Parte II - Il II secolo ES"
+previous_item: "21076"
+---

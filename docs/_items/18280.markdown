@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18280"
+occurrence_id: "339"
+short_title: "Briant 2003"
+author: "Briant, Pierre "
+publication_year: "2003"
+title: "Darius dans l'ombre d'Alexandre"
+title: "Darius dans l'ombre d'Alexandre"
+previous_item: "18283"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13792"
+occurrence_id: "3082"
+short_title: "RA 82 (1988), 78-82"
+author: "Petschow, Herbert"
+publication_year: "1988"
+title: "Das Unterkönigtum des Cambyses als \"König von Babylonien\""
+volume_no_: "82"
+pages: "78-82"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "Das Unterkönigtum des Cambyses als \"König von Babylonien\""
+previous_item: "13795"
+---

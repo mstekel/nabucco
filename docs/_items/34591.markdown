@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "34591"
+place_id: "1475"
+parent_id: "43"
+place_name: "Barru"
+related_objects: "6569"
+title: "Barru"
+previous_item: "34594"
+---

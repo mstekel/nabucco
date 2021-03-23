@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13516"
+occurrence_id: "1595"
+short_title: "BASOR 353 (2009), 112-114."
+author: "Betlyon, John W."
+publication_year: "2009"
+title: "Rv. O. Lipschits and J. Blenkinsopp (eds), Judah and the Judeans in the Neo-Babylonian Period"
+volume_no_: "353"
+pages: "112-114"
+journal: "Bulletin of the American Schools of Oriental Research"
+title: "Rv. O. Lipschits and J. Blenkinsopp (eds), Judah and the Judeans in the Neo-Babylonian Period"
+previous_item: "13519"
+---

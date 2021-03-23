@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9721"
+occurrence_id: "2184"
+short_title: "JCS 42 (1990 publ. 1991), 86-87"
+author: "Zawadzki, Stefan"
+publication_year: "1990"
+title: "Notes on the Dating of Tree Documents from the Yale Collection: YOS 17 104, 179, and 254"
+volume_no_: "42"
+pages: "86-87"
+journal: "Journal of Cuneiform Studies"
+title: "Notes on the Dating of Tree Documents from the Yale Collection: YOS 17 104, 179, and 254"
+previous_item: "9724"
+---

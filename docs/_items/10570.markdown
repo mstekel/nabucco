@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10570"
+occurrence_id: "3754"
+short_title: "JRAS 95 (1963), 266-267"
+author: "Bivar, Adrian David H."
+publication_year: "1963"
+title: "Rv. Iranica Antiqua 1 (1961)"
+volume_no_: "95"
+pages: "266-267"
+journal: "Journal of the Royal Asiatic Society"
+title: "Rv. Iranica Antiqua 1 (1961)"
+previous_item: "10573"
+---

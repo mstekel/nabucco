@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12424"
+occurrence_id: "1723"
+short_title: "BiOr 61 (2004), 155-159"
+author: "Boiy, Tom"
+publication_year: "2004"
+title: "Rv. G. Lindström, Siegelabdrücke auf hellenistischen Tonbullen und Tontafeln. Ausgrabungen in Uruk-Warka Endberichte"
+volume_no_: "61"
+pages: "155-159"
+journal: "Bibliotheca Orientalis"
+title: "Rv. G. Lindström, Siegelabdrücke auf hellenistischen Tonbullen und Tontafeln. Ausgrabungen in Uruk-Warka Endberichte"
+previous_item: "12427"
+---

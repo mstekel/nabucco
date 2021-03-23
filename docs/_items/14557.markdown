@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14557"
+occurrence_id: "1186"
+short_title: "AfO 17 (1954-55), 89-92"
+author: "Schaumberger, Johann"
+publication_year: "1954-55"
+title: "Astronomische Untersuchung der \"historischen\" Mondfinsternisse in Enûma Anu Enlil"
+volume_no_: "17"
+pages: "89-92"
+journal: "Archiv für Orientforschung"
+title: "Astronomische Untersuchung der \"historischen\" Mondfinsternisse in Enûma Anu Enlil"
+previous_item: "14560"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12667"
+occurrence_id: "3032"
+short_title: "RA 51 (1957), 208-209"
+author: "Dhorme, Édouard"
+publication_year: "1957"
+title: "Rv. R.A. Parker and W.H. Dubberstein, Babylonian Chronology (1957)"
+volume_no_: "51"
+pages: "208-209"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "Rv. R.A. Parker and W.H. Dubberstein, Babylonian Chronology (1957)"
+previous_item: "12670"
+---

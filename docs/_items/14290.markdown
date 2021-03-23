@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14290"
+occurrence_id: "2758"
+short_title: "NZ 27 (1895), 1-22"
+author: "Imhoof-Blumer, Frédéric"
+publication_year: "1895"
+title: "Die Münzstätte Babylon zur Zeit der makedonischen Satrapen und des Seleukos Nikator"
+volume_no_: "27"
+pages: "1-22."
+journal: "Numismatische Zeitschrift"
+title: "Die Münzstätte Babylon zur Zeit der makedonischen Satrapen und des Seleukos Nikator"
+previous_item: "14293"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12991"
+occurrence_id: "1772"
+short_title: "BSOAS 19 (1957), 167-169"
+author: "Gadd, Cyril J."
+publication_year: "1957"
+title: "Rv. H.H. Paper, the Phonology and Morphology of Royal Achaemenid Elamite"
+volume_no_: "19"
+pages: "167-169"
+journal: "Bulletin of the School of Oriental and African Studies"
+title: "Rv. H.H. Paper, the Phonology and Morphology of Royal Achaemenid Elamite"
+previous_item: "12994"
+---

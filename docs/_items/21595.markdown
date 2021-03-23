@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21595"
+occurrence_id: "5024"
+short_title: "van der Spek 1998b"
+author: "van der Spek, Robartus"
+publication_year: "1998"
+title: "The Chronology of theWars of Artaxerxes II in the Babylonian Astronomical Diaries"
+pages: "239-256"
+editor: "Kuhrt, Amélie"
+book: "Studies in Persian History, Fs. Lewis, (Leiden)"
+title: "The Chronology of theWars of Artaxerxes II in the Babylonian Astronomical Diaries"
+previous_item: "21598"
+---

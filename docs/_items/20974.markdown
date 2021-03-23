@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20974"
+occurrence_id: "5021"
+short_title: "van der Spek 1995"
+author: "van der Spek, Robartus"
+publication_year: "1995"
+title: "Land Ownership in Babylonian Cuneiform Documents"
+pages: "173-245"
+editor: "Snell, Daniel C."
+book: "Legal Documents of the Hellenistic World (London)"
+title: "Land Ownership in Babylonian Cuneiform Documents"
+previous_item: "20977"
+---

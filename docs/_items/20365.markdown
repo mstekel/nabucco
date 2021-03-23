@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20365"
+occurrence_id: "5082"
+short_title: "Chiodi 2002"
+author: "Chiodi, Silvia M."
+publication_year: "2002"
+title: "Plato and Mesopotamian Astronomy"
+pages: "53-60"
+editor: "Panaino, Antonio"
+book: "Ideologies as Intercultural Phenomena, Melammu Symposia III (Milano)"
+title: "Plato and Mesopotamian Astronomy"
+previous_item: "20368"
+---

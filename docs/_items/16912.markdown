@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16912"
+occurrence_id: "614"
+short_title: "van der Spek 1986"
+author: "van der Spek, Robartus "
+publication_year: "1986"
+title: "Grondbezit in het Seleucidische Rijk. Academisch Proefschrift ter verkrijging van de graad van Doctor in de Letteren aan de Vrije Universiteit te Amsterdam"
+title: "Grondbezit in het Seleucidische Rijk. Academisch Proefschrift ter verkrijging van de graad van Doctor in de Letteren aan de Vrije Universiteit te Amsterdam"
+previous_item: "16915"
+---

@@ -1,0 +1,10 @@
+---
+layout: "glossary"
+slug: "35671"
+concept_id: "1546"
+label: "Note"
+hierarchy: "Content type"
+type: "172"
+title: "Note"
+previous_item: "35674"
+---

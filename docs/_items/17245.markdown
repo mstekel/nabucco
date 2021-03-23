@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17245"
+occurrence_id: "313"
+short_title: "Barton 1900"
+author: "Barton, George A. "
+publication_year: "1900"
+title: "Some Contracts of the Persian Period from theKH2"
+title: "Some Contracts of the Persian Period from theKH2"
+previous_item: "17248"
+---

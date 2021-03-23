@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20098"
+occurrence_id: "4761"
+short_title: "Stolper 1995"
+author: "Stolper, Matthew W."
+publication_year: "1995"
+title: "The Babylonian Enterprise of Belesys"
+pages: "217-238"
+editor: "Briant, Pierre"
+book: "Dans les pas des Dix-Mille: Peuples et pays du Proche-Orient vus par un Grec. Actes de la Table Ronde internationale, Pallas 43 (Toulouse)"
+title: "The Babylonian Enterprise of Belesys"
+previous_item: "20101"
+---

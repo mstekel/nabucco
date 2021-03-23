@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "12028"
+occurrence_id: "2593"
+short_title: "NABU 1998/56"
+author: "Zadok, Ran"
+title: "West Semitic material in Neo/Late-Babylonian and Neo-Assyrian sources"
+volume_no_: "56"
+publication_year: "1998"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "West Semitic material in Neo/Late-Babylonian and Neo-Assyrian sources"
+previous_item: "12031"
+---

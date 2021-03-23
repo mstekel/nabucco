@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11755"
+occurrence_id: "290"
+short_title: "Brinkman, OrNS 38"
+author: "Brinkman, John A."
+publication_year: "1969"
+title: "Ur: “The Kassite Period and the Period of the Assyrian Kings”"
+volume_no_: "38"
+pages: "310-348"
+journal: "Orientalia Nova Series "
+title: "Ur: “The Kassite Period and the Period of the Assyrian Kings”"
+previous_item: "11758"
+---

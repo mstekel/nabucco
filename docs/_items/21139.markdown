@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21139"
+occurrence_id: "4798"
+short_title: "Jursa 2014b"
+author: "Jursa, Michael"
+publication_year: "2014"
+title: "The Lost State Correspondence of the Babylonian Empire as Reflected in Contemporary Administrative Letters"
+pages: "94-111"
+editor: "Radner, Karen"
+book: "State Correspondence in the Ancient World (Oxford)"
+title: "The Lost State Correspondence of the Babylonian Empire as Reflected in Contemporary Administrative Letters"
+previous_item: "21142"
+---

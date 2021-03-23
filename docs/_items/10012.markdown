@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10012"
+occurrence_id: "3753"
+short_title: "JRAS 89 (1957), 113-114"
+author: "Munn-Rankin, Joan Margaret"
+publication_year: "1957"
+title: "Rv. R. Ghirshman, Village perse-achéménide"
+volume_no_: "89"
+pages: "113-114"
+journal: "Journal of the Royal Asiatic Society"
+title: "Rv. R. Ghirshman, Village perse-achéménide"
+previous_item: "10015"
+---

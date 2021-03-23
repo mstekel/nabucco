@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18472"
+occurrence_id: "739"
+short_title: "Beaulieu;Kasten 1994"
+author: "Beaulieu, Paul-A. "
+publication_year: "1994"
+title: "Late Babylonian Texts in the Nies Babylonian Collection, Catalogue of the Babylonian Collections at Yale 1 (Bethesda)"
+title: "Late Babylonian Texts in the Nies Babylonian Collection, Catalogue of the Babylonian Collections at Yale 1 (Bethesda)"
+previous_item: "18475"
+---

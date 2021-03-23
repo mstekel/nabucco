@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14764"
+occurrence_id: "2307"
+short_title: "JNES 4 (1945), 64"
+author: "Dubberstein, Waldo H."
+publication_year: "1945"
+title: "Rv. S. Weingort, Das Haus Egibi in neubabylonischen Rechtsurkunden"
+volume_no_: "4"
+pages: "64"
+journal: "Journal of Near Eastern Studies"
+title: "Rv. S. Weingort, Das Haus Egibi in neubabylonischen Rechtsurkunden"
+previous_item: "14767"
+---

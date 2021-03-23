@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "35041"
+place_id: "1515"
+parent_id: "1470"
+place_name: "Dūr-karaši-Bandada "
+related_objects: "7768"
+title: "Dūr-karaši-Bandada "
+previous_item: "35044"
+---

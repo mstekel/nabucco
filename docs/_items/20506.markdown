@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20506"
+occurrence_id: "4731"
+short_title: "Dandamayeva 2002"
+author: "Dandamayeva, Mariam M."
+publication_year: "2002"
+title: "The Notions \"Assyria\", \"Babylonia\" and \"Mesopotamia\" in Classical Tradition"
+pages: "60-70 (Engl. summary 70f.)"
+editor: "Kogan, Leonid"
+book: "History and Languages of Ancient Orient: I.M. Diakonoff Memorial Volume (St. Petersburg)"
+title: "The Notions \"Assyria\", \"Babylonia\" and \"Mesopotamia\" in Classical Tradition"
+previous_item: "20509"
+---

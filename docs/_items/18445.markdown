@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18445"
+occurrence_id: "558"
+short_title: "SAA 7"
+author: "Fales, Frederick Mario "
+publication_year: "1992"
+title: "State Archives of Assyria (SAA), volume VII"
+title: "State Archives of Assyria (SAA), volume VII"
+previous_item: "18448"
+---

@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "19366"
+occurrence_id: "4148"
+short_title: "Kuhrt 1995a"
+author: "Kuhrt, Amélie"
+publication_year: "1995"
+title: "The Assyrian Heartland in the Achaemenid Period"
+pages: "239-254"
+editor: "Briant, Pierre"
+title: "The Assyrian Heartland in the Achaemenid Period"
+previous_item: "19369"
+---

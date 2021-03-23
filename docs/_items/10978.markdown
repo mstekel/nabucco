@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10978"
+occurrence_id: "2949"
+short_title: "OrAn 23 (1984), 123-125"
+author: "Liverani, Mario"
+publication_year: "1984"
+title: "Rv. P. Briant, État et pasteurs au Moyen-Orient ancien"
+volume_no_: "23"
+pages: "123-125"
+journal: "Oriens Antiquus"
+title: "Rv. P. Briant, État et pasteurs au Moyen-Orient ancien"
+previous_item: "10981"
+---

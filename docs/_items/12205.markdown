@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12205"
+occurrence_id: "3549"
+short_title: "ZDMG 115 (1965), 227-241"
+author: "Hinz, Walther"
+publication_year: "1965"
+title: "Die untere Grabinschrift des Dareios"
+volume_no_: "115"
+pages: "227-241"
+journal: "Zeitschrift der Deutschen Morgenländischen Gesellschaft"
+title: "Die untere Grabinschrift des Dareios"
+previous_item: "12208"
+---

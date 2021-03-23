@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11605"
+occurrence_id: "3320"
+short_title: "WeOr 19 (1988 publ. 1989), 84-95"
+author: "Koch, Heidemarie"
+publication_year: "1988 publ. 1989"
+title: "Herrscher in der Persis unter Seleukiden und Parthern"
+volume_no_: "19"
+pages: "84-95"
+journal: "Die Welt des Orients"
+title: "Herrscher in der Persis unter Seleukiden und Parthern"
+previous_item: "11608"
+---

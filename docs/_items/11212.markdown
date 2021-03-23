@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11212"
+occurrence_id: "1197"
+short_title: "AfO 20 (1963), 170-172"
+author: "Falkner, Margarete"
+publication_year: "1963"
+title: "Rv. L. van den Berghe, Archéologie de l´Iran ancien"
+volume_no_: "20"
+pages: "170-172"
+journal: "Archiv für Orientforschung"
+title: "Rv. L. van den Berghe, Archéologie de l´Iran ancien"
+previous_item: "11215"
+---

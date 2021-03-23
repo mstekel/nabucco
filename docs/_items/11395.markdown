@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11395"
+occurrence_id: "2187"
+short_title: "JCS 43-45 (1991-1993), 1-26"
+author: "Roth, Martha T."
+publication_year: "1991-1993"
+title: "The Neo-Babylonian Widow"
+volume_no_: "43-45"
+pages: "1-26"
+journal: "Journal of Cuneiform Studies"
+title: "The Neo-Babylonian Widow"
+previous_item: "11398"
+---

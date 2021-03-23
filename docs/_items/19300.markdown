@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19300"
+occurrence_id: "4901"
+short_title: "Matthes 2011"
+author: "Matthes, Olaf"
+publication_year: "2011"
+title: "Babylon ­ Assur. Assur ­ Babylon. Zum Briefwechsel zwischen Robert Koldewey und Walter Andrae"
+pages: "15-32"
+editor: "Renger, Johannes"
+book: "Assur ­ Gott, Stadt und Land. 5. Internationales Colloquium der Deutschen Orient-Gesellschaft 18.-21. Februar 2004 in Berlin, Colloquien der Deutschen Orient-Gesellschaft 5 (Wiesbaden)"
+title: "Babylon ­ Assur. Assur ­ Babylon. Zum Briefwechsel zwischen Robert Koldewey und Walter Andrae"
+previous_item: "19303"
+---

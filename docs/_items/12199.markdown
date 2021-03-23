@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12199"
+occurrence_id: "3517"
+short_title: "ZA 92 (2002), 140-145"
+author: "Streck, Michael , P."
+publication_year: "2002"
+title: "Rv. G. Deutscher, Syntactic Change in Akkadian. the Evolution of Sentential Complementation (New York 2000)"
+volume_no_: "92"
+pages: "140-145"
+journal: "Zeitschrift für Assyriologie"
+title: "Rv. G. Deutscher, Syntactic Change in Akkadian. the Evolution of Sentential Complementation (New York 2000)"
+previous_item: "12202"
+---

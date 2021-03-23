@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8770"
+occurrence_id: "3105"
+short_title: "RA 91 (1997), 49-80"
+author: "Lambert, Wilfred G."
+publication_year: "1997"
+title: "Processions to the akītu House"
+volume_no_: "91"
+pages: "49-80"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "Processions to the akītu House"
+previous_item: "8773"
+---

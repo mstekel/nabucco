@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15190"
+occurrence_id: "1582"
+short_title: "BaM 7 (1974), 155-165"
+author: "Rashid, Subhi Anwar"
+publication_year: "1974"
+title: "Einige Denkmäler aus Tēmā und der babylonische Einfluss"
+volume_no_: "7"
+pages: "155-165"
+journal: "Baghdader Mitteilungen"
+title: "Einige Denkmäler aus Tēmā und der babylonische Einfluss"
+previous_item: "15193"
+---

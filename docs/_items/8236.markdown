@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8236"
+occurrence_id: "3248"
+short_title: "Syria 67 (1990), 759-761"
+author: "Malbran-Labat, Florence"
+publication_year: "1990"
+title: "Rv. F. Grillot-Susini, Eléments de grammaire élamite (\"Synthèse\" 29, 1987)"
+volume_no_: "67"
+pages: "759-761"
+journal: "Syria"
+title: "Rv. F. Grillot-Susini, Eléments de grammaire élamite (\"Synthèse\" 29, 1987)"
+previous_item: "8239"
+---

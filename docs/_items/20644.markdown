@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20644"
+occurrence_id: "4364"
+short_title: "Joannès 2000"
+author: "Joannès, Francis"
+publication_year: "2000"
+title: "Relations entre inérêts privés et biens des sanctuaires à l´époque néo-babylonienne"
+pages: "25-41"
+editor: "Bongenaar, A.C.V.M."
+book: "Interdependency of Institutions and Private Entrepreneurs (Istanbul and Leiden)"
+title: "Relations entre inérêts privés et biens des sanctuaires à l´époque néo-babylonienne"
+previous_item: "20647"
+---

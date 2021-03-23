@@ -1,0 +1,12 @@
+---
+layout: "bibliography"
+slug: "18328"
+occurrence_id: "626"
+short_title: "VS XV"
+author: "Schroeder, Otto "
+publication_year: "1916"
+title: "Vorderasiatische Schriftdenkmäler der (Königlichen) Staatlichen Museen zu Berlin [VS] XV: Kontrakte der Seleukidenzeit aus Warka"
+volume_no_: "15"
+title: "Vorderasiatische Schriftdenkmäler der (Königlichen) Staatlichen Museen zu Berlin [VS] XV: Kontrakte der Seleukidenzeit aus Warka"
+previous_item: "18331"
+---

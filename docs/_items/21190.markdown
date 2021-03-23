@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21190"
+occurrence_id: "5070"
+short_title: "Schmid 2004"
+author: "Schmid, S. G."
+publication_year: "2004"
+title: "Les Nabatéens et leurs contacts avec la Mésopotamie et la région du golfe arabo-persique"
+pages: "463-484"
+editor: "Duyrat, Frédérique"
+book: "Le roi et l'économie: Autonomies locales et structures royales dans l'économie de l'empire séleucide, Topoi Supplément 6 (Lyon)"
+title: "Les Nabatéens et leurs contacts avec la Mésopotamie et la région du golfe arabo-persique"
+previous_item: "21193"
+---

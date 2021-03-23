@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11221"
+occurrence_id: "1249"
+short_title: "AfO 48/49 (2001/2002), 105-106"
+author: "Gallagher, William"
+publication_year: "2001-2002"
+title: "Neo-Babylonian Stone Fragments"
+volume_no_: "48-49"
+pages: "105-106"
+journal: "Archiv für Orientforschung"
+title: "Neo-Babylonian Stone Fragments"
+previous_item: "11224"
+---

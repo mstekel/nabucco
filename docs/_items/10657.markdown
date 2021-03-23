@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10657"
+occurrence_id: "1213"
+short_title: "AfO 34 (1987 publ. 1988), 72-75"
+author: "Peat, Jerome A."
+publication_year: "1987"
+title: "Rv. J.-M. Durand, Textes babyloniens d'époque récente"
+volume_no_: "34"
+pages: "72-75"
+journal: "Archiv für Orientforschung"
+title: "Rv. J.-M. Durand, Textes babyloniens d'époque récente"
+previous_item: "10660"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15274"
+occurrence_id: "2033"
+short_title: "JA 276 (1988), 61-70"
+author: "Grillot-Susini, Françoise"
+publication_year: "1988"
+title: "A propos d´un cas de \"Lévirat\" élamite"
+volume_no_: "276"
+pages: "61-70"
+journal: "Journal Asiatique"
+title: "A propos d´un cas de \"Lévirat\" élamite"
+previous_item: "15277"
+---

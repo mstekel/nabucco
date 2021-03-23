@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21556"
+occurrence_id: "4816"
+short_title: "Roaf 1998-2001"
+author: "Roaf, Michael"
+publication_year: "1998-2001"
+title: "Nabonid. B. Archäologisch"
+pages: "11-12."
+editor: "Meissner, Bruno"
+book: "Reallexikon der Assyriologie 9 (1998-2001)"
+title: "Nabonid. B. Archäologisch"
+previous_item: "21559"
+---

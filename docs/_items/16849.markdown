@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "16849"
+occurrence_id: "145"
+short_title: "TCL 12"
+author: "Contenau, Georges "
+publication_year: "1927"
+title: "Contrats néo-babyloniens I: de Téglah-phalasar III à Nabonide. Textes cunéiformes du Louvre 12"
+volume_no_: "12"
+related_objects: "6909"
+title: "Contrats néo-babyloniens I: de Téglah-phalasar III à Nabonide. Textes cunéiformes du Louvre 12"
+previous_item: "16852"
+---

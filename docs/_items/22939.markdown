@@ -1,0 +1,9 @@
+---
+layout: "archive"
+slug: "22939"
+archive_id: "436"
+archive_name: "Akkad-ēreš"
+is_part_of: "Varia"
+title: "Akkad-ēreš"
+previous_item: "22942"
+---

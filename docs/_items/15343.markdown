@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15343"
+occurrence_id: "2404"
+short_title: "Mesopotamia 21 (1986 publ.1987), 272-273"
+author: "Negri Scafa, Paola"
+publication_year: "1986 publ.1987"
+title: "Rv. R. Zadok, Assyrians in Chaldean and Achaemenian Babylonia (1984)"
+volume_no_: "21"
+pages: "272-273"
+journal: "Mesopotamia"
+title: "Rv. R. Zadok, Assyrians in Chaldean and Achaemenian Babylonia (1984)"
+previous_item: "15346"
+---

@@ -1,0 +1,15 @@
+---
+layout: "bibliography"
+slug: "12307"
+occurrence_id: "237"
+short_title: "Clay, JAOS 41 (1921)"
+author: "Clay, Albert T."
+publication_year: "1921"
+title: "A New King of Babylonia"
+volume_no_: "41"
+pages: "313"
+related_objects: "6019"
+journal: "journal of the American Oriental Society"
+title: "A New King of Babylonia"
+previous_item: "12310"
+---

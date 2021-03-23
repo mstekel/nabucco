@@ -1,0 +1,12 @@
+---
+layout: "bibliography"
+slug: "19171"
+occurrence_id: "4212"
+short_title: "Lion and Michel 2000"
+author: "Lion, Brigitte"
+publication_year: "2000"
+title: "Poissons et crustacés en haute Mésopotamie au début du IIe millénaire av. J.-C."
+pages: "71-116"
+title: "Poissons et crustacés en haute Mésopotamie au début du IIe millénaire av. J.-C."
+previous_item: "19174"
+---

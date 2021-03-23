@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19474"
+occurrence_id: "4726"
+short_title: "Root 1995"
+author: "Root, Margaret Cool"
+publication_year: "1995"
+title: "Art and Archaeology of the Achaemenid Empire"
+pages: "2615-2637"
+editor: "Sasson, Jack M."
+book: "CANE (New York)"
+title: "Art and Archaeology of the Achaemenid Empire"
+previous_item: "19477"
+---

@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "7822"
+occurrence_id: "4038"
+short_title: "Iraq 74 (2012), 127-136"
+author: "Taylor, Jon"
+publication_year: "2012"
+title: "Cuneiform Tablets from the Wiseman Collection"
+volume_no_: "74"
+pages: "127-136"
+title: "Cuneiform Tablets from the Wiseman Collection"
+previous_item: "7825"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8323"
+occurrence_id: "3718"
+short_title: "IPEK 20 (1960-1963), 117"
+author: "Kühn, Herbert"
+publication_year: "1960-1963"
+title: "Rv. H.H. von der Osten, Die Welt der Perser (1956)"
+volume_no_: "20"
+pages: "117"
+journal: "Jahrbüch für prähistorische und ethnographische Künst (Berlin, Paris)"
+title: "Rv. H.H. von der Osten, Die Welt der Perser (1956)"
+previous_item: "8326"
+---

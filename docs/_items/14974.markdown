@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14974"
+occurrence_id: "3439"
+short_title: "ZA 7 (1892), 197-204"
+author: "Strassmaier, Johann N."
+publication_year: "1892"
+title: "Einige chronologische Daten aus astronomischen Rechnungen"
+volume_no_: "7"
+pages: "197-204"
+journal: "Zeitschrift für Assyriologie"
+title: "Einige chronologische Daten aus astronomischen Rechnungen"
+previous_item: "14977"
+---

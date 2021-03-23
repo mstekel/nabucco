@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "7789"
+occurrence_id: "3861"
+short_title: "TPS (1946), 39-78"
+author: "Benveniste, Émile"
+publication_year: "1946"
+title: "Études iraniennes"
+pages: "39-78"
+journal: "Transactions of the Philological Society"
+title: "Études iraniennes"
+previous_item: "7792"
+---

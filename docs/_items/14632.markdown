@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14632"
+occurrence_id: "1597"
+short_title: "BASOR 89 (1943), 25-29"
+author: "Mendelsohn, Iitzhak"
+publication_year: "1943"
+title: "Free Artisans and Slaves in Mesopotamia"
+volume_no_: "89"
+pages: "25-29"
+journal: "Bulletin of the American Schools of Oriental Research"
+title: "Free Artisans and Slaves in Mesopotamia"
+previous_item: "14635"
+---

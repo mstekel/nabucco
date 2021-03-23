@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "33931"
+place_id: "1505"
+parent_id: "37"
+place_name: "Ālu-ša-Nabû-uballiṭ"
+related_objects: "7181"
+title: "Ālu-ša-Nabû-uballiṭ"
+previous_item: "33934"
+---

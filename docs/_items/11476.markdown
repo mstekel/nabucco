@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "11476"
+occurrence_id: "2624"
+short_title: "NABU 2000/7"
+author: "Zadok, Ran"
+title: "Some non-Semitic names in Akkadian sources"
+volume_no_: "7"
+publication_year: "2000"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Some non-Semitic names in Akkadian sources"
+previous_item: "11479"
+---

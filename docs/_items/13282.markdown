@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13282"
+occurrence_id: "3339"
+short_title: "WeOr 31 (2000/2001), 245-248"
+author: "Kettenhofen, E."
+publication_year: "2000/2001"
+title: "Rv. J.D. Lerner, the Impact of Seleucid Decline on the Eastern Iranian Plateau"
+volume_no_: "31"
+pages: "245-248"
+journal: "Die Welt des Orients"
+title: "Rv. J.D. Lerner, the Impact of Seleucid Decline on the Eastern Iranian Plateau"
+previous_item: "13285"
+---

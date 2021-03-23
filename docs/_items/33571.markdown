@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33571"
+place_id: "1219"
+parent_id: "61"
+place_name: "Šadatu"
+title: "Šadatu"
+previous_item: "33574"
+---

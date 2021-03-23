@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13102"
+occurrence_id: "2368"
+short_title: "JNES 9 (1950), 237-252"
+author: "Hallock, Richard T."
+publication_year: "1950"
+title: "New Light From Persepolis"
+volume_no_: "9"
+pages: "237-252"
+journal: "Journal of Near Eastern Studies"
+title: "New Light From Persepolis"
+previous_item: "13105"
+---

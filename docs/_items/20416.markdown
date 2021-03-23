@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20416"
+occurrence_id: "4250"
+short_title: "Wunsch 2000b"
+author: "Wunsch, Cornelia"
+publication_year: "2000"
+title: "Neubabylonische Geschäftsleute und ihre Beziehungen zu Palast- und Tempelverwaltungen: Das Beispiel der Familie Egibi"
+pages: "95-118"
+editor: "Bongenaar, A.C.V.M."
+book: "Interdependency of Institutions and Private Entrepreneurs (Istanbul and Leiden)"
+title: "Neubabylonische Geschäftsleute und ihre Beziehungen zu Palast- und Tempelverwaltungen: Das Beispiel der Familie Egibi"
+previous_item: "20419"
+---

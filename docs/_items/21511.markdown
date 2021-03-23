@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21511"
+occurrence_id: "4576"
+short_title: "Oelsner 1995a"
+author: "Oelsner, Joachim"
+publication_year: "1995"
+title: "Recht im hellenistischen Babylonien. Tempel - Sklaven - Schuldrecht - allgemeine Charakterisierung"
+pages: "106-148"
+editor: "Snell, Daniel C."
+book: "Legal Documents of the Hellenistic World (London)"
+title: "Recht im hellenistischen Babylonien. Tempel - Sklaven - Schuldrecht - allgemeine Charakterisierung"
+previous_item: "21514"
+---

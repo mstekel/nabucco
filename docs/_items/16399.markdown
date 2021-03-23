@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16399"
+occurrence_id: "2051"
+short_title: "JANES 24 (1996), 35-44"
+author: "Horowitz, Wayne"
+publication_year: "1996"
+title: "The 360 and 364 Day Year in Ancient Mesopotamia"
+volume_no_: "24"
+pages: "35-44"
+journal: "Journal of the Ancient Near Eastern Society of Columbia University"
+title: "The 360 and 364 Day Year in Ancient Mesopotamia"
+previous_item: "16402"
+---

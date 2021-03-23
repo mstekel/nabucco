@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11215"
+occurrence_id: "1214"
+short_title: "AfO 35 (1988 publ. 1990), 30-47"
+author: "Scholz, Bernhard"
+publication_year: "1988"
+title: "Altvorderasiatisches in österreichischen Sammlungen"
+volume_no_: "35"
+pages: "30-47"
+journal: "Archiv für Orientforschung"
+title: "Altvorderasiatisches in österreichischen Sammlungen"
+previous_item: "11218"
+---

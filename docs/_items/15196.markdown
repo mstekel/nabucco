@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15196"
+occurrence_id: "1614"
+short_title: "BCSMS 39 (2004), 33-41."
+author: "Steele, John M."
+publication_year: "2004"
+title: "'Computation According to the Wisdom of Anuship': Astronomy in Ancient Mesopotamia."
+volume_no_: "39"
+pages: "33-41"
+journal: "Bulletin. The Canadian Society for Mesopotamian Studies"
+title: "'Computation According to the Wisdom of Anuship': Astronomy in Ancient Mesopotamia."
+previous_item: "15199"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10663"
+occurrence_id: "1248"
+short_title: "AfO 46/47 (1999/2000), 49"
+author: "Stolper, Matthew W."
+publication_year: "1999-2000"
+title: "Kanalarbeiten: Kopie von BM 74538 (Jursa, AfO Beih. 25, S. 182 Nr. 65)"
+volume_no_: "46-47"
+pages: "49"
+journal: "Archiv für Orientforschung"
+title: "Kanalarbeiten: Kopie von BM 74538 (Jursa, AfO Beih. 25, S. 182 Nr. 65)"
+previous_item: "10666"
+---

@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34960"
+place_id: "391"
+parent_id: "40"
+place_name: "Bīt-Zabīni"
+title: "Bīt-Zabīni"
+previous_item: "34963"
+---

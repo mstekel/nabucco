@@ -1,0 +1,12 @@
+---
+layout: "bibliography"
+slug: "9496"
+occurrence_id: "3993"
+short_title: "NABU 2013/93"
+author: "Mitsuma, Yasuyuki"
+publication_year: "2013"
+title: "Offering for the Well-being of Bagayasha in the Astronomical Diary -132D2"
+volume_no_: "2013/93"
+title: "Offering for the Well-being of Bagayasha in the Astronomical Diary -132D2"
+previous_item: "9499"
+---

@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "34369"
+place_id: "1473"
+parent_id: "1417"
+place_name: "Kār-Sippar"
+related_objects: "6548"
+title: "Kār-Sippar"
+previous_item: "34372"
+---

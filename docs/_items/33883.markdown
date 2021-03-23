@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33883"
+place_id: "889"
+parent_id: "61"
+place_name: "Bīt-Lugal-banda"
+title: "Bīt-Lugal-banda"
+previous_item: "33886"
+---

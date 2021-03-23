@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7981"
+occurrence_id: "1876"
+short_title: "FuB 5 (1962), 40-53"
+author: "Klengel, Horst"
+publication_year: "1962"
+title: "Babylon zur Zeit der Perser, Griechen und Parther"
+volume_no_: "5"
+pages: "40-53"
+journal: "Forschungen und Berichte, Staatliche Museen zu Berlin"
+title: "Babylon zur Zeit der Perser, Griechen und Parther"
+previous_item: "7984"
+---

@@ -1,0 +1,15 @@
+---
+layout: "bibliography"
+slug: "8404"
+occurrence_id: "701"
+short_title: "Pinches, PSBA 33 (1911)"
+author: "Pinches, Theophilus G."
+publication_year: "1911"
+title: "Babylonian Inscriptions."
+volume_no_: "33"
+pages: "150-160"
+related_objects: "7624"
+journal: "Proceedings of the Society of Biblical Archaeology"
+title: "Babylonian Inscriptions."
+previous_item: "8407"
+---

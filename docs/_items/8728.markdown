@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8728"
+occurrence_id: "2877"
+short_title: "Or 37 (1968), 261-271"
+author: "von Soden, Wolfram"
+publication_year: "1968"
+title: "Aramäische Wörter in neuassyrischen und neu- und spätbabylonischen Texten. Ein Vorbericht. II (n - z and Nachträge)"
+volume_no_: "37"
+pages: "261-271"
+journal: "Orientalia"
+title: "Aramäische Wörter in neuassyrischen und neu- und spätbabylonischen Texten. Ein Vorbericht. II (n - z and Nachträge)"
+previous_item: "8731"
+---

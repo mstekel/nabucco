@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14092"
+occurrence_id: "1693"
+short_title: "BiOr 52 (1995), 447-449"
+author: "Livingstone, Alasdair"
+publication_year: "1995"
+title: "Rv. G. Frame, Babylonia 689-627 B.C. A Political History (PIHANS 69, 1992)"
+volume_no_: "52"
+pages: "447-449"
+journal: "Bibliotheca Orientalis"
+title: "Rv. G. Frame, Babylonia 689-627 B.C. A Political History (PIHANS 69, 1992)"
+previous_item: "14095"
+---

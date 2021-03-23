@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "17878"
+occurrence_id: "154"
+short_title: "YOS 15"
+author: "Goetze, Albrecht "
+publication_year: "2009"
+title: "Cuneiform Texts from Various Collections. Yale Oriental Series, Babylonian Texts 15 (New Haven)"
+volume_no_: "15"
+related_objects: "5752"
+title: "Cuneiform Texts from Various Collections. Yale Oriental Series, Babylonian Texts 15 (New Haven)"
+previous_item: "17881"
+---

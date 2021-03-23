@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21358"
+occurrence_id: "4863"
+short_title: "Dandamayev 1992a"
+author: "Dandamayev, Muhammed A."
+publication_year: "1992"
+title: "The Title ah šadrapānu in Nippur"
+pages: "29-32"
+editor: "de Jong Ellis, Maria"
+book: "Nippur at the Centennial. Papers Read at the 35e Rencontre Assyriologique Internationale, Philadelphia, 1988, Occasional Publications of the Samuel Noah Kramer Fund 14, OPSNKF 14, RAI 35 (Philadelphia)"
+title: "The Title ah šadrapānu in Nippur"
+previous_item: "21361"
+---

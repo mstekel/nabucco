@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16645"
+occurrence_id: "560"
+short_title: "Sack 1991"
+author: "Sack, Ronald H. "
+publication_year: "1991"
+title: "Images of Nebuchadnezzar. The Emergence of a Legend."
+title: "Images of Nebuchadnezzar. The Emergence of a Legend."
+previous_item: "16648"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7630"
+occurrence_id: "3007"
+short_title: "RA 14 (1917), 154-156"
+author: "Scheil, Vincent"
+publication_year: "1917"
+title: "Prêt et caution. Tablette D. 17 du Musée de Constantinople"
+volume_no_: "14"
+pages: "154-156"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "Prêt et caution. Tablette D. 17 du Musée de Constantinople"
+previous_item: "7633"
+---

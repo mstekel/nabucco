@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10462"
+occurrence_id: "3156"
+short_title: "RSO 28 (1953), 207-208"
+author: "Funck, Bernd"
+publication_year: "1953"
+title: "Rv. E. Ebeling, Glossar zu den neubabylonischen Briefen (1953)"
+volume_no_: "28"
+pages: "207-208"
+journal: "Rivista degli studi orientali"
+title: "Rv. E. Ebeling, Glossar zu den neubabylonischen Briefen (1953)"
+previous_item: "10465"
+---

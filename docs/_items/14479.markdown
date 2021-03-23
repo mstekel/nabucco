@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14479"
+occurrence_id: "3777"
+short_title: "Kaskal 5 (2008), 187-210"
+author: "Grassi, Giulia F."
+publication_year: "2008"
+title: "Belshazzar's Feast and Feats: the last Prince of Babylon in Ancient Eastern and Western Sources."
+volume_no_: "5"
+pages: "187-210"
+journal: "KASKAL. Rivista di storia, ambiente e culture del Vicino Oriente Antico"
+title: "Belshazzar's Feast and Feats: the last Prince of Babylon in Ancient Eastern and Western Sources."
+previous_item: "14482"
+---

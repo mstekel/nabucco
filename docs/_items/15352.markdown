@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "15352"
+occurrence_id: "2452"
+short_title: "NABU 1988/10"
+author: "Joannès, Francis"
+publication_year: "1988"
+title: "Le titre de ša rêš âli (lú-sag uru-a)"
+volume_no_: "10"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Le titre de ša rêš âli (lú-sag uru-a)"
+previous_item: "15355"
+---

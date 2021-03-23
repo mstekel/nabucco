@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11026"
+occurrence_id: "3205"
+short_title: "Sprache 17 (1971), 68"
+author: "Mayrhofer, Manfred"
+publication_year: "1971"
+title: "Rv. R.T. Hallock, Persepolis Fortification Tablets (OIP 92)"
+volume_no_: "17"
+pages: "68"
+journal: "Sprache"
+title: "Rv. R.T. Hallock, Persepolis Fortification Tablets (OIP 92)"
+previous_item: "11029"
+---

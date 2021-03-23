@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8530"
+occurrence_id: "1813"
+short_title: "BSOAS 70 (2007), 155-156."
+author: "George, Andrew, R."
+publication_year: "2007"
+title: "Rv. M. J. H. Linssen, The Cults of Uruk and Babylon: the Temple Ritual Texts as Evidence for Hellenistic Cult Practice."
+volume_no_: "70"
+pages: "155-156"
+journal: "Bulletin of the School of Oriental and African Studies"
+title: "Rv. M. J. H. Linssen, The Cults of Uruk and Babylon: the Temple Ritual Texts as Evidence for Hellenistic Cult Practice."
+previous_item: "8533"
+---

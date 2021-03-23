@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15262"
+occurrence_id: "1969"
+short_title: "Iraq 46 (1984 publ. 1985), 125-129"
+author: "Killick, R.G."
+publication_year: "1984 publ. 1985"
+title: "Northern Akkad Project: Excavations at Habl as-Sahr'"
+volume_no_: "46"
+pages: "125-129"
+journal: "Iraq"
+title: "Northern Akkad Project: Excavations at Habl as-Sahr'"
+previous_item: "15265"
+---

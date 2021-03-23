@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19834"
+occurrence_id: "4440"
+short_title: "McEwan 1981"
+author: "McEwan, Gilbert J.P."
+publication_year: "1981"
+title: "Agade after the Gutian Destruction: the Afterlife of a Mesopotamian City"
+pages: "8-15"
+editor: "Hirsch, Hans"
+book: "Vorträge gehalten auf der 28. Rencontre Assyriologique Internationale in Wien 1981, AfO Beiheft 19, RAI 28 (Wien)"
+title: "Agade after the Gutian Destruction: the Afterlife of a Mesopotamian City"
+previous_item: "19837"
+---

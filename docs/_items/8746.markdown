@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8746"
+occurrence_id: "2977"
+short_title: "PEFQS 32 (1900), 258-268"
+author: "Pinches, Theophilus G."
+publication_year: "1900"
+title: "The Collection of Babylonian Tablets Belonging to Joseph Offord, esq.,"
+volume_no_: "32"
+pages: "258-268"
+journal: "Palestine Exploration Fund quaterly statement"
+title: "The Collection of Babylonian Tablets Belonging to Joseph Offord, esq.,"
+previous_item: "8749"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11641"
+occurrence_id: "3516"
+short_title: "ZA 92 (2002), 135-140"
+author: "Pruzsinszky, Regine"
+publication_year: "2002"
+title: "Rv. G. Beckman, Texts from the Vicinity of Emar in the Collection of Jonathan Rosen (HANE/M 2, Padova 1996)"
+volume_no_: "92"
+pages: "135-140"
+journal: "Zeitschrift für Assyriologie"
+title: "Rv. G. Beckman, Texts from the Vicinity of Emar in the Collection of Jonathan Rosen (HANE/M 2, Padova 1996)"
+previous_item: "11644"
+---

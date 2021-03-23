@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9523"
+occurrence_id: "280"
+short_title: "Zadok, AfO 44/45"
+author: "Zadok, Ran"
+publication_year: "1997/1998"
+title: "Review of M. Sigrist, H.H. Figulla and C.B.F. Walker, Catalogue of the Babylonian Tablets in the British Museum II, London 1996"
+volume_no_: "44/45"
+pages: "293-306"
+journal: "Archiv für Orientforschung"
+title: "Review of M. Sigrist, H.H. Figulla and C.B.F. Walker, Catalogue of the Babylonian Tablets in the British Museum II, London 1996"
+previous_item: "9526"
+---

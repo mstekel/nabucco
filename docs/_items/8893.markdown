@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8893"
+occurrence_id: "3767"
+short_title: "JSS 38 (1993), 136-138"
+author: "MacGinnis, John"
+publication_year: "1993"
+title: "Rv. E. Gehlken, Uruk. Spätbabylonische Wirtschaftstexte aus dem Eanna-Archiv. Teil I: Texte verschiedenen Inhalts (AUWE 5. 1990)"
+volume_no_: "38"
+pages: "136-138"
+journal: "Journal of Semitic Studies"
+title: "Rv. E. Gehlken, Uruk. Spätbabylonische Wirtschaftstexte aus dem Eanna-Archiv. Teil I: Texte verschiedenen Inhalts (AUWE 5. 1990)"
+previous_item: "8896"
+---

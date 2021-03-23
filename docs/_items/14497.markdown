@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14497"
+occurrence_id: "3873"
+short_title: "YCS 8 (1942), 51-67"
+author: "Bellinger, Alfred R."
+publication_year: "1942"
+title: "Hyspaosines of Charax"
+volume_no_: "8"
+pages: "51-67"
+journal: "Yale Classical Studies"
+title: "Hyspaosines of Charax"
+previous_item: "14500"
+---

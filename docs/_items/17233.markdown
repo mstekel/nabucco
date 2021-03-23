@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "17233"
+occurrence_id: "148"
+short_title: "AnOr 8"
+author: "Pohl, Alfred "
+publication_year: "1933"
+title: "Neubabylonische Rechtsurkunden aus den Berliner Staatlichen Museen I"
+volume_no_: "8"
+related_objects: "8195"
+title: "Neubabylonische Rechtsurkunden aus den Berliner Staatlichen Museen I"
+previous_item: "17236"
+---

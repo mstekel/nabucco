@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13483"
+occurrence_id: "1417"
+short_title: "AoF 16 (1989), 357-360"
+author: "Petschow, Herbert"
+publication_year: "1989"
+title: "Ein spätbabylonischer Erbvertrag in doppelter Ausfertigung (VS 20, 86 [Berlin], YOS 17, 348 [Yale]). Zur spätbabylonischen Schreiberpraxis"
+volume_no_: "16"
+pages: "357-360"
+journal: "Altorientalische Forschungen"
+title: "Ein spätbabylonischer Erbvertrag in doppelter Ausfertigung (VS 20, 86 [Berlin], YOS 17, 348 [Yale]). Zur spätbabylonischen Schreiberpraxis"
+previous_item: "13486"
+---

@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "18388"
+occurrence_id: "40"
+short_title: "PBS 2/1"
+author: "Clay, Albert T. "
+publication_year: "1912"
+title: "Business Documents of Murashu sons of Nippur dated in the reign of Darius II"
+volume_no_: "2/1"
+related_objects: "1090"
+title: "Business Documents of Murashu sons of Nippur dated in the reign of Darius II"
+previous_item: "18391"
+---

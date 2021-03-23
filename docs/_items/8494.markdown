@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8494"
+occurrence_id: "1618"
+short_title: "Beiträge zur Namenforschung NS 14 (1979), 294-301"
+author: "Zadok, Ran"
+publication_year: "1979"
+title: "On some Non-Semitic Names in Cuneiform Sources"
+volume_no_: "14"
+pages: "294-301"
+journal: "Beiträge zur Namenforschung NS"
+title: "On some Non-Semitic Names in Cuneiform Sources"
+previous_item: "8497"
+---

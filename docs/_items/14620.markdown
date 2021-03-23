@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14620"
+occurrence_id: "1533"
+short_title: "AuOr 12 (1994), 105-120"
+author: "von Dassow, Eva"
+publication_year: "1994"
+title: "Rv. F. Joannès, Archives de Borsippa. La famille Ea-ilûta-bâni (1989)"
+volume_no_: "12"
+pages: "105-120"
+journal: "Aula Orientalis"
+title: "Rv. F. Joannès, Archives de Borsippa. La famille Ea-ilûta-bâni (1989)"
+previous_item: "14623"
+---

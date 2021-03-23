@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15556"
+occurrence_id: "3555"
+short_title: "ZDMG 129 (1979), 410"
+author: "Röllig, Wolfgang"
+publication_year: "1979"
+title: "Rv. E. Salonen, Neubabylonische Urkunden verschiedenen Inhalts, II"
+volume_no_: "129"
+pages: "410"
+journal: "Zeitschrift der Deutschen Morgenländischen Gesellschaft"
+title: "Rv. E. Salonen, Neubabylonische Urkunden verschiedenen Inhalts, II"
+previous_item: "15559"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13564"
+occurrence_id: "1854"
+short_title: "DLZ 64 (1943), 210-213"
+author: "Röck, F."
+publication_year: "1943"
+title: "Rv. F. Bork, Die Zeughausurkunden von Susa. I"
+volume_no_: "64"
+pages: "210-213"
+journal: "Deutsche Literatur-Zeitung"
+title: "Rv. F. Bork, Die Zeughausurkunden von Susa. I"
+previous_item: "13567"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11860"
+occurrence_id: "1689"
+short_title: "BiOr 50 (1993), 199-203"
+author: "Schmitt, Rüdiger"
+publication_year: "1993"
+title: "Rv. H. Koch, Verwaltung und Wirtschaft im persischen Kernland zur zeit der Achämeniden (1990)"
+volume_no_: "50"
+pages: "199-203"
+journal: "Bibliotheca Orientalis"
+title: "Rv. H. Koch, Verwaltung und Wirtschaft im persischen Kernland zur zeit der Achämeniden (1990)"
+previous_item: "11863"
+---

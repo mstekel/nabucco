@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18511"
+occurrence_id: "4096"
+short_title: "Oshima 2011"
+author: "Oshima, Takayoshi "
+publication_year: "2011"
+title: "Babylonian Prayers to Marduk, Orientalische Religionen in der Antike 7 (Tübingen)"
+title: "Babylonian Prayers to Marduk, Orientalische Religionen in der Antike 7 (Tübingen)"
+previous_item: "18514"
+---

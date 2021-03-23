@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18340"
+occurrence_id: "722"
+short_title: "Aaboe;Britton;Henderson;Neugebauer;Sachs"
+author: "Aaboe, Asger "
+publication_year: "1991"
+title: "Saros Cycle Dates and Related Babylonian Astronomical Texts, TAPS 81,6 (Philadelphia)"
+title: "Saros Cycle Dates and Related Babylonian Astronomical Texts, TAPS 81,6 (Philadelphia)"
+previous_item: "18343"
+---

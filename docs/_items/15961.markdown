@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "15961"
+occurrence_id: "2713"
+short_title: "NABU 2008/5"
+author: "Jursa, Michael"
+title: "Nabû-sarrussu-ukin, rab sa-resi, and \"Nebusarkesim\" (Jer. 39:3)."
+volume_no_: "5"
+publication_year: "2008"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Nabû-sarrussu-ukin, rab sa-resi, and \"Nebusarkesim\" (Jer. 39:3)."
+previous_item: "15964"
+---

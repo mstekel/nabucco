@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16816"
+occurrence_id: "829"
+short_title: "Koch;Mackenzie 1983"
+author: "Koch, Heidemarie "
+publication_year: "1983"
+title: "Kunst, Kultur und Geschichte der Achämenidenzeit und ihr Fortleben, Archäologische Mitteilungen aus Iran, Ergänzungsband 10 (Berlin)"
+title: "Kunst, Kultur und Geschichte der Achämenidenzeit und ihr Fortleben, Archäologische Mitteilungen aus Iran, Ergänzungsband 10 (Berlin)"
+previous_item: "16819"
+---

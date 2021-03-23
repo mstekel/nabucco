@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9403"
+occurrence_id: "3495"
+short_title: "ZA 88 (1998), 287-291"
+author: "Koch, Johannes"
+publication_year: "1998"
+title: "Rv. L. Brack-Bernsen, Zur Entstehung der babylonischen Mondheorie (1997)"
+volume_no_: "88"
+pages: "287-291"
+journal: "Zeitschrift für Assyriologie"
+title: "Rv. L. Brack-Bernsen, Zur Entstehung der babylonischen Mondheorie (1997)"
+previous_item: "9406"
+---

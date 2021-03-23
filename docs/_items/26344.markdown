@@ -1,0 +1,16 @@
+---
+layout: "tablet"
+slug: "26344"
+object_id: "6067"
+museum_no_: "W. 21339"
+period: "ENB"
+day_remark: "[-]"
+month: "-"
+month_remark: "[-]"
+year_remark: "[-]"
+king: "-"
+king_remark: "[-]"
+imported: "Melanie Gross (26/05/2016)"
+title: "W. 21339"
+previous_item: "26347"
+---

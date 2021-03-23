@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17983"
+occurrence_id: "889"
+short_title: "Schmitt 1981"
+author: "Schmitt, Rüdiger "
+publication_year: "1981"
+title: "Altpersische Siegel-Inschriften, Österreichische Akademie der Wissenschaften, Philosophisch-historische Klasse, Sitzungsberichte 381 (Wien)"
+title: "Altpersische Siegel-Inschriften, Österreichische Akademie der Wissenschaften, Philosophisch-historische Klasse, Sitzungsberichte 381 (Wien)"
+previous_item: "17986"
+---

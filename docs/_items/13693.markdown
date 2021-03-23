@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "13693"
+occurrence_id: "2547"
+short_title: "NABU 1996/66"
+author: "Joannès, Francis"
+title: "Textes judiciaires néo-babyloniens, collation et réédition"
+volume_no_: "66"
+publication_year: "1996"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Textes judiciaires néo-babyloniens, collation et réédition"
+previous_item: "13696"
+---

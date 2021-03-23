@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16045"
+occurrence_id: "3166"
+short_title: "SAAB 12 (1998), 111-127"
+author: "Milano, Lucio"
+publication_year: "1998"
+title: "Aspects of Meat Consumption in Mesopotamia and theFood Paradigm of thePoor Man of Nippur"
+volume_no_: "12"
+pages: "111-127"
+journal: "State Archives of Assyria, Bulletin"
+title: "Aspects of Meat Consumption in Mesopotamia and theFood Paradigm of thePoor Man of Nippur"
+previous_item: "16048"
+---

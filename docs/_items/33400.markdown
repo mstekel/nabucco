@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33400"
+place_id: "253"
+parent_id: "40"
+place_name: "Bīt-Galalānu"
+title: "Bīt-Galalānu"
+previous_item: "33403"
+---

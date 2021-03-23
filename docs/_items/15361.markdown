@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "15361"
+occurrence_id: "2502"
+short_title: "NABU 1993/7"
+author: "Bongenaar, A.C.V.M."
+title: "The regency of Belšazzar"
+volume_no_: "7"
+publication_year: "1993"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "The regency of Belšazzar"
+previous_item: "15364"
+---

@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "34603"
+place_id: "1545"
+parent_id: "37"
+place_name: "Kār-Nabû"
+related_objects: "8366"
+title: "Kār-Nabû"
+previous_item: "34606"
+---

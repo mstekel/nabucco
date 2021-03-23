@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10765"
+occurrence_id: "1801"
+short_title: "BSOAS 55 (1992), 540-542"
+author: "Brinkman, John A."
+publication_year: "1992"
+title: "Rv. F. Joannès, Les tablettes néo-babyloniennes de la Bodleian Library conservées à l´Ashmolean Museum (OECT 12, 1990)"
+volume_no_: "55"
+pages: "540-542"
+journal: "Bulletin of the School of Oriental and African Studies"
+title: "Rv. F. Joannès, Les tablettes néo-babyloniennes de la Bodleian Library conservées à l´Ashmolean Museum (OECT 12, 1990)"
+previous_item: "10768"
+---

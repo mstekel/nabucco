@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16321"
+occurrence_id: "1632"
+short_title: "BiOr 13 (1956), 108-110"
+author: "van der Waerden, Bartel L."
+publication_year: "1956"
+title: "Babylonische Planetenberechnung in Ägypten und Indien"
+volume_no_: "13"
+pages: "108-110"
+journal: "Bibliotheca Orientalis"
+title: "Babylonische Planetenberechnung in Ägypten und Indien"
+previous_item: "16324"
+---

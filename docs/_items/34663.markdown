@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34663"
+place_id: "958"
+parent_id: "61"
+place_name: "Dūr-Kebīnu"
+title: "Dūr-Kebīnu"
+previous_item: "34666"
+---

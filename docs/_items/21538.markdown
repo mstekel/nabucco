@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21538"
+occurrence_id: "4720"
+short_title: "Van De Mieroop 2002b"
+author: "van de Mieroop, Marc"
+publication_year: "2002"
+title: "A History of Near Eastern Debt?"
+pages: "59-94"
+editor: "Hudson, Michael"
+book: "Debt and Economic Renewal in the Ancient Near East, International Scholars Conference on Ancient Near Eastern Economies, Volume 3 (Bethesda)"
+title: "A History of Near Eastern Debt?"
+previous_item: "21541"
+---

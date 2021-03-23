@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33352"
+place_id: "1261"
+parent_id: "61"
+place_name: "Šingu"
+title: "Šingu"
+previous_item: "33355"
+---

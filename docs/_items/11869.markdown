@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11869"
+occurrence_id: "1738"
+short_title: "BiOr 8 (1951), 146-147"
+author: "Falkenstein, Adam"
+publication_year: "1951"
+title: "Rv. H.H. Figulla, Business Documents of the New-Babylonian Period"
+volume_no_: "8"
+pages: "146-147"
+journal: "Bibliotheca Orientalis"
+title: "Rv. H.H. Figulla, Business Documents of the New-Babylonian Period"
+previous_item: "11872"
+---

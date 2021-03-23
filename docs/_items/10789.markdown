@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10789"
+occurrence_id: "1929"
+short_title: "IrAn 3 (1963), 102-123"
+author: "Stève, Marie-Joseph"
+publication_year: "1963"
+title: "Textes élamites de Tchoga-Zanbil (suite)"
+volume_no_: "3"
+pages: "102-123"
+journal: "Iranica Antiqua"
+title: "Textes élamites de Tchoga-Zanbil (suite)"
+previous_item: "10792"
+---

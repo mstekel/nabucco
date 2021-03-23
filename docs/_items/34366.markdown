@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "34366"
+place_id: "1456"
+parent_id: "70"
+place_name: "Bīt-Šinqā"
+related_objects: "2334"
+title: "Bīt-Šinqā"
+previous_item: "34369"
+---

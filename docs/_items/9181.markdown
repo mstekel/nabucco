@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9181"
+occurrence_id: "2297"
+short_title: "JNES 30 (1971), 158"
+author: "Biggs, Robert D."
+publication_year: "1971"
+title: "Rv. D.A. Kennedy, Cuneiform Texts from Babylonian Tablets in the British Museum. Part XLIX. Late Babylonian Economic Texts"
+volume_no_: "30"
+pages: "158"
+journal: "Journal of Near Eastern Studies"
+title: "Rv. D.A. Kennedy, Cuneiform Texts from Babylonian Tablets in the British Museum. Part XLIX. Late Babylonian Economic Texts"
+previous_item: "9184"
+---

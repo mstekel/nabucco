@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34771"
+place_id: "913"
+parent_id: "61"
+place_name: "Bīt-Šaddajnu"
+title: "Bīt-Šaddajnu"
+previous_item: "34774"
+---

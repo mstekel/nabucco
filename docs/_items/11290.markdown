@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11290"
+occurrence_id: "1623"
+short_title: "BiAr 37 (1974), 6-12"
+author: "Coogan, Michael David"
+publication_year: "1974"
+title: "Life in the Diaspora. Jews at Nippur in the Fifth Century B.C."
+volume_no_: "37"
+pages: "6-12"
+journal: "The Biblical Archaeologist"
+title: "Life in the Diaspora. Jews at Nippur in the Fifth Century B.C."
+previous_item: "11293"
+---

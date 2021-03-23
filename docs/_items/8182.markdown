@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8182"
+occurrence_id: "2960"
+short_title: "OrS 38-39 (1989/1990), 71-80"
+author: "Knudsen, Ebbe Egede"
+publication_year: "1989/1990"
+title: "Akkadian and Greek Orthography. Evidence of Soand Change in an Ancient Traditional Pronunciation"
+volume_no_: "38-39"
+pages: "71-80"
+journal: "Orientalia Suecana"
+title: "Akkadian and Greek Orthography. Evidence of Soand Change in an Ancient Traditional Pronunciation"
+previous_item: "8185"
+---

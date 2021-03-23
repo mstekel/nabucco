@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13618"
+occurrence_id: "2142"
+short_title: "JBL 78 (1959), 199-204"
+author: "Tsevat, Matitiahu"
+publication_year: "1959"
+title: "The Neo-Assyrian and Neo-Babylonian Vassal Oaths and the Prophet Ezekiel"
+volume_no_: "78"
+pages: "199-204"
+journal: "Journal of Biblical Literature"
+title: "The Neo-Assyrian and Neo-Babylonian Vassal Oaths and the Prophet Ezekiel"
+previous_item: "13621"
+---

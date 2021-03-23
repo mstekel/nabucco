@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20020"
+occurrence_id: "4345"
+short_title: "Escribano Martín and Gallego Lopéz 2012"
+author: "Gallego Lopéz, Alejandro"
+publication_year: "2012"
+title: "Babylon as a Great Urban Area of Religious Character"
+pages: "109-124"
+editor: "Curtis, John"
+book: "Proceedings of the 7th International Congress on the Archaology of the Ancient Near East. 12 April - 16 April 2010, the British Museum and UCL, London, Volume 1: Mega-cities & Mega-sites. The Archaology of Consumption & Disposal. Landscape, Transport & Communication (Wiesbaden)"
+title: "Babylon as a Great Urban Area of Religious Character"
+previous_item: "20023"
+---

@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17962"
+occurrence_id: "771"
+short_title: "Dietrich 1970"
+author: "Dietrich, Manfried "
+publication_year: "1970"
+title: "Die Aramäer Südbabyloniens in der Sargonidenzeit (700-648), AOAT 7 (Neukirchen and Vluyn)"
+title: "Die Aramäer Südbabyloniens in der Sargonidenzeit (700-648), AOAT 7 (Neukirchen and Vluyn)"
+previous_item: "17965"
+---

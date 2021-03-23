@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "19780"
+occurrence_id: "4150"
+short_title: "Kuhrt 2003"
+author: "Kuhrt, Amélie"
+publication_year: "2003"
+title: "Nabonidus and the Babylonian Prieshood"
+pages: "117-156"
+editor: "North, J."
+title: "Nabonidus and the Babylonian Prieshood"
+previous_item: "19783"
+---

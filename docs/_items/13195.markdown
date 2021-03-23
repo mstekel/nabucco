@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13195"
+occurrence_id: "2868"
+short_title: "Or 33 (1964), 115-118"
+author: "Röllig, Wolfgang"
+publication_year: "1964"
+title: "Rv. M. San Nicolò and H. Petschow, Babylonische Rechtsurkunden aus dem 6. Jahrhundert v. Chr."
+volume_no_: "33"
+pages: "115-118"
+journal: "Orientalia"
+title: "Rv. M. San Nicolò and H. Petschow, Babylonische Rechtsurkunden aus dem 6. Jahrhundert v. Chr."
+previous_item: "13198"
+---

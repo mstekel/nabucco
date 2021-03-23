@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14734"
+occurrence_id: "2144"
+short_title: "JCS 1 (1947), 143-148"
+author: "Neugebauer, Otto"
+publication_year: "1947"
+title: "A Table of Solstices from Uruk (1. the Text and its Restoration - 2. Contents - 3. theEpact)"
+volume_no_: "1"
+pages: "143-148"
+journal: "Journal of Cuneiform Studies"
+title: "A Table of Solstices from Uruk (1. the Text and its Restoration - 2. Contents - 3. theEpact)"
+previous_item: "14737"
+---

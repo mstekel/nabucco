@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15160"
+occurrence_id: "1420"
+short_title: "AoF 17 (1990), 107-112"
+author: "Maul, Stefan M."
+publication_year: "1990"
+title: "Eine neue Tafel aus dem Egibi-Archiv"
+volume_no_: "17"
+pages: "107-112"
+journal: "Altorientalische Forschungen"
+title: "Eine neue Tafel aus dem Egibi-Archiv"
+previous_item: "15163"
+---

@@ -1,0 +1,15 @@
+---
+layout: "bibliography"
+slug: "15106"
+occurrence_id: "697"
+short_title: "Stigers, JCS 28"
+author: "Stigers, Harold G."
+publication_year: "1976"
+title: "Neo- and Late Babylonian Business Documents from the John Frederick Lewis Collection"
+volume_no_: "28"
+pages: "3-59"
+related_objects: "7445"
+journal: "Journal of Cuneiform Studies"
+title: "Neo- and Late Babylonian Business Documents from the John Frederick Lewis Collection"
+previous_item: "15109"
+---

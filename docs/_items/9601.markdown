@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9601"
+occurrence_id: "1540"
+short_title: "AuOr 9 (1991), 91-104"
+author: "Finkel, Irving L."
+publication_year: "1991"
+title: "Muššu’u, Qutāru, and the scribe Tanittu-Bēl"
+volume_no_: "9"
+pages: "91-104"
+journal: "Aula Orientalis"
+title: "Muššu’u, Qutāru, and the scribe Tanittu-Bēl"
+previous_item: "9604"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15874"
+occurrence_id: "2244"
+short_title: "JESHO 42 (1999), 152-193"
+author: "Aperghis, Gerassimos G."
+publication_year: "1999"
+title: "Storehouses and Systems at Persepolis. Evidence from the Fortification Tablets"
+volume_no_: "42"
+pages: "152-193"
+journal: "Journal of the Economic and Social History of the Orient"
+title: "Storehouses and Systems at Persepolis. Evidence from the Fortification Tablets"
+previous_item: "15877"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11932"
+occurrence_id: "2075"
+short_title: "JAOS 114 (1994), 519-520"
+author: "Brosius, Maria"
+publication_year: "1994"
+title: "Rv. H. Koch, Es kündet Dareios der König … Vom Leben im persischen Großreich (1992)"
+volume_no_: "114"
+pages: "519-520"
+journal: "Journal of the American Oriental Society"
+title: "Rv. H. Koch, Es kündet Dareios der König … Vom Leben im persischen Großreich (1992)"
+previous_item: "11935"
+---

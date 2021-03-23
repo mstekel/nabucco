@@ -1,0 +1,12 @@
+---
+layout: "bibliography"
+slug: "10600"
+occurrence_id: "3914"
+short_title: "NABU 2015/105"
+author: "Beaulieu, Paul-A."
+publication_year: "2015"
+title: "\"An Aramean (or Israelite) in the Service of the Crown Prince Amēl-Marduk\""
+volume_no_: "2015/105"
+title: "\"An Aramean (or Israelite) in the Service of the Crown Prince Amēl-Marduk\""
+previous_item: "10603"
+---

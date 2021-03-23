@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20653"
+occurrence_id: "4412"
+short_title: "Sarkisjan 1969"
+author: "Sarkisjan, Gagik Ch."
+publication_year: "1969"
+title: "City Land in Seleucid Babylon"
+pages: "312-331"
+editor: "Diakonoff, Igor M."
+book: "Ancient Mesopotamia: Socio-Economic History. A Collection of Studies by Soviet Scholars (Moscow)"
+title: "City Land in Seleucid Babylon"
+previous_item: "20656"
+---

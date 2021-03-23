@@ -1,0 +1,12 @@
+---
+layout: "bibliography"
+slug: "13945"
+occurrence_id: "3904"
+short_title: "NABU 2014/30"
+author: "Ambos, Claus"
+publication_year: "2014"
+title: "Ein neuer Textvertreter für das Ritual des Anlegens der Fundamente eines Hauses"
+volume_no_: "2014/30"
+title: "Ein neuer Textvertreter für das Ritual des Anlegens der Fundamente eines Hauses"
+previous_item: "13948"
+---

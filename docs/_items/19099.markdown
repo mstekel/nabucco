@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19099"
+occurrence_id: "4932"
+short_title: "Beaulieu 2006"
+author: "Beaulieu, Paul-A."
+publication_year: "2006"
+title: "Official and Vernacular Languages: The Shifting Sands of Imperial and Cultural Identities in First-millennium B.C. Mesopotamia."
+pages: "187-216"
+editor: "Sunders, S.L."
+book: "Margins of Writing, Origins of Cultures (Chicago)"
+title: "Official and Vernacular Languages: The Shifting Sands of Imperial and Cultural Identities in First-millennium B.C. Mesopotamia."
+previous_item: "19102"
+---

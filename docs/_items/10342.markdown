@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "10342"
+occurrence_id: "2509"
+short_title: "NABU 1994/66"
+author: "Jursa, Michael"
+title: "Zu AUWE 8 Nr. 89"
+volume_no_: "66"
+publication_year: "1994"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Zu AUWE 8 Nr. 89"
+previous_item: "10345"
+---

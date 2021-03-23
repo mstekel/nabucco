@@ -1,0 +1,11 @@
+---
+layout: "glossary"
+slug: "1936"
+concept_id: "1606"
+hierarchy: "General keywords"
+label: "Badiātu Canal"
+related_objects: "2355"
+type: "148"
+title: "Badiātu Canal"
+previous_item: "1939"
+---

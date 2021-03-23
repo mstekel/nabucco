@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18379"
+occurrence_id: "4077"
+short_title: "Gadotti and Sigrist 2011"
+author: "Sigrist, Marcel "
+publication_year: "2011"
+title: "Cuneiform Texts in the Carl A. Kroch Library, Cornell University. With the assistance of Nicole M. Brisch and David I. Owen, Cornell University Studies in Assyriology and Sumerology 15 (Bethesda)"
+title: "Cuneiform Texts in the Carl A. Kroch Library, Cornell University. With the assistance of Nicole M. Brisch and David I. Owen, Cornell University Studies in Assyriology and Sumerology 15 (Bethesda)"
+previous_item: "18382"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16396"
+occurrence_id: "2035"
+short_title: "JA 281 (1994), 19-60"
+author: "Herrenschmidt, Clarisse"
+publication_year: "1994"
+title: "La version élamite de la trilingue de Behistun. Une nouvelle lecture"
+volume_no_: "281"
+pages: "19-60"
+journal: "Journal Asiatique"
+title: "La version élamite de la trilingue de Behistun. Une nouvelle lecture"
+previous_item: "16399"
+---

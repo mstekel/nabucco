@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18235"
+occurrence_id: "858"
+short_title: "Oswald;Metzler;Schaudig 2002"
+author: "Loretz, Oswald  "
+publication_year: "2002"
+title: "Ex Mesopotamia et Syria Lux, Fs. Manfried Dietrich zu seinem 65. Geburtstag, AOAT 281 (Münster)"
+title: "Ex Mesopotamia et Syria Lux, Fs. Manfried Dietrich zu seinem 65. Geburtstag, AOAT 281 (Münster)"
+previous_item: "18238"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10966"
+occurrence_id: "2881"
+short_title: "Or 42 (1973), 178-194"
+author: "Liverani, Mario"
+publication_year: "1973"
+title: "Memorandum on the Approach to Historiographic Texts"
+volume_no_: "42"
+pages: "178-194"
+journal: "Orientalia"
+title: "Memorandum on the Approach to Historiographic Texts"
+previous_item: "10969"
+---

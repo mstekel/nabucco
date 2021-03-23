@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13810"
+occurrence_id: "3178"
+short_title: "Saeculum 6 (1955), 227-243"
+author: "Lanczkowsky, Günter"
+publication_year: "1955"
+title: "Zur Entstehung des antiken Synkretismus: Darius als Sohn der Neih von Saïs"
+volume_no_: "6"
+pages: "227-243"
+journal: "Saeculum"
+title: "Zur Entstehung des antiken Synkretismus: Darius als Sohn der Neih von Saïs"
+previous_item: "13813"
+---

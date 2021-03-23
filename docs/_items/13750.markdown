@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13750"
+occurrence_id: "2853"
+short_title: "Or 25 (1956), 277-282"
+author: "de Kort, J."
+publication_year: "1956"
+title: "Rv. O. Neugebauer, Astronomical Cuneiform Texts"
+volume_no_: "25"
+pages: "277-282"
+journal: "Orientalia"
+title: "Rv. O. Neugebauer, Astronomical Cuneiform Texts"
+previous_item: "13753"
+---

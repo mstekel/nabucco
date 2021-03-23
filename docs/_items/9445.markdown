@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9445"
+occurrence_id: "3720"
+short_title: "Iranzamin 1/5-6 (1981-82), 42-49"
+author: "Gropp, Gerd"
+publication_year: "1981-82"
+title: "Zwei achämenidische Gefässe mit Inschriften"
+volume_no_: "1/5-6."
+pages: "42-49"
+journal: "Iranzamin"
+title: "Zwei achämenidische Gefässe mit Inschriften"
+previous_item: "9448"
+---

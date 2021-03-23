@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "12562"
+occurrence_id: "2464"
+short_title: "NABU 1989/12"
+author: "Gasche, Hermann"
+publication_year: "1989"
+title: "Une résidence achéménide à 10 km au NNO de Sippar"
+volume_no_: "12"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Une résidence achéménide à 10 km au NNO de Sippar"
+previous_item: "12565"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15820"
+occurrence_id: "1954"
+short_title: "Iraq 28 (1966), 154-158"
+author: "Wiseman, Donald J."
+publication_year: "1966"
+title: "Some Egyptians in Babylonia,"
+volume_no_: "28"
+pages: "154-158"
+journal: "Iraq"
+title: "Some Egyptians in Babylonia,"
+previous_item: "15823"
+---

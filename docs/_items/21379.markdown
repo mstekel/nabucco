@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21379"
+occurrence_id: "4975"
+short_title: "Briant 1991"
+author: "Briant, Pierre"
+publication_year: "1991"
+title: "Le roi est mort: vive le roi!"
+pages: "1-11"
+editor: "Kellens, Jean"
+book: "La religion iranienne à l´époque achéménide (Ghent)"
+title: "Le roi est mort: vive le roi!"
+previous_item: "21382"
+---

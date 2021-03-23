@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12925"
+occurrence_id: "1416"
+short_title: "AoF 15 (1988), 53-58"
+author: "Dandamayev, Muhammed A."
+publication_year: "1988"
+title: "Wages and Prices in Babylonia in the 6th and 5th Centuries B.C."
+volume_no_: "15"
+pages: "53-58"
+journal: "Altorientalische Forschungen"
+title: "Wages and Prices in Babylonia in the 6th and 5th Centuries B.C."
+previous_item: "12928"
+---

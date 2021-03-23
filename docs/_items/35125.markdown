@@ -1,0 +1,17 @@
+---
+layout: "tablet"
+slug: "35125"
+object_id: "6024"
+museum_no_: "Ash. 1933.1101"
+period: "ENB"
+day_remark: "-"
+month: "I"
+month_remark: "-"
+year_remark: "[-]"
+king: "Anš"
+king_remark: "-"
+imported: "Melanie Gross (20/05/2017)"
+day_babylonian_: "10"
+title: "Ash. 1933.1101"
+previous_item: "35128"
+---

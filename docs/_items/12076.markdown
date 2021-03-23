@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12076"
+occurrence_id: "2850"
+short_title: "Or 23 (1954), 351-382"
+author: "Nicolò, Mariano, San"
+publication_year: "1954"
+title: "Materialien zur Viehwirtschaft in den neubabylonischen Tempeln. IV"
+volume_no_: "23"
+pages: "351-382"
+journal: "Orientalia"
+title: "Materialien zur Viehwirtschaft in den neubabylonischen Tempeln. IV"
+previous_item: "12079"
+---

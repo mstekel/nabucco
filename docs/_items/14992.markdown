@@ -1,0 +1,15 @@
+---
+layout: "bibliography"
+slug: "14992"
+occurrence_id: "3538"
+short_title: "ZAW 53 (1935), 81-89"
+author: "von Soden, Wolfram"
+publication_year: "1935"
+title: "Eine babylonische Volksüberlieferung von Nabonid in den Danielerzählungen"
+volume_no_: "53"
+pages: "81-89"
+journal: "Zeitschrift für die alttestamentliche
+Wissenschaft"
+title: "Eine babylonische Volksüberlieferung von Nabonid in den Danielerzählungen"
+previous_item: "14995"
+---

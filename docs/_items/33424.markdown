@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33424"
+place_id: "637"
+parent_id: "40"
+place_name: "Šahumāja"
+title: "Šahumāja"
+previous_item: "33427"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12127"
+occurrence_id: "3127"
+short_title: "RBI 34 (1986), 11-53"
+author: "Cagni, Luigi"
+publication_year: "1986"
+title: "Le fonti mesopotamiche dei periodi neo-babilonese, achéménide e séleucide (VI-III sec. A.C.)"
+volume_no_: "34"
+pages: "11-53"
+journal: "Rivista Biblica Italiana"
+title: "Le fonti mesopotamiche dei periodi neo-babilonese, achéménide e séleucide (VI-III sec. A.C.)"
+previous_item: "12130"
+---

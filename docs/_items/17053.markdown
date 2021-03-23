@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17053"
+occurrence_id: "728"
+short_title: "Aaboe;Hamilton 1979"
+author: "Aaboe, Asger "
+publication_year: "1979"
+title: "Contributions to the Study of Babylonian Lunar Theory, KDVSMM 40/6 (København)"
+title: "Contributions to the Study of Babylonian Lunar Theory, KDVSMM 40/6 (København)"
+previous_item: "17056"
+---

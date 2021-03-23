@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9592"
+occurrence_id: "1491"
+short_title: "ArOr 51 (1983), 195"
+author: "Pečírková, Jana"
+publication_year: "1983"
+title: "Rv. D.B. Weisberg, Texts from the Time of Nebuchadnezzar (YOS 17)"
+volume_no_: "51"
+pages: "195"
+journal: "Archív Orientalí"
+title: "Rv. D.B. Weisberg, Texts from the Time of Nebuchadnezzar (YOS 17)"
+previous_item: "9595"
+---

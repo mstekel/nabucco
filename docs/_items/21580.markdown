@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21580"
+occurrence_id: "4944"
+short_title: "Calmeyer 1975"
+author: "Calmeyer, Peter"
+publication_year: "1975"
+title: "The Subject of the Achaemenid Tomb Reliefs"
+pages: "233-242"
+editor: "Bagherzadeh, Firouz"
+book: "Proceedings of the IIIrd Annual Symposium on Archaeological Research in Iran (Teheran)"
+title: "The Subject of the Achaemenid Tomb Reliefs"
+previous_item: "21583"
+---

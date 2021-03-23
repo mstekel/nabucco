@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "21748"
+occurrence_id: "4737"
+short_title: "San Nicolò 1925"
+author: "Nicolò, Mariano, San"
+publication_year: "1925"
+title: "Zur Entwicklung der babylonischen Urkundenformen"
+pages: "23-25"
+book: "Abhandlungen zur antiken Rechtsgeschichte = Fs. für G. Hanausek (Graz)"
+title: "Zur Entwicklung der babylonischen Urkundenformen"
+previous_item: "21751"
+---

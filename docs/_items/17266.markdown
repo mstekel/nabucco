@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17266"
+occurrence_id: "437"
+short_title: "Hilprecht 1903"
+author: "Hilprecht, Herman V. "
+publication_year: "1903"
+title: "Die Ausgrabungen der Universität von Pennsylvania im Bêl-Tempel zu Nippur"
+title: "Die Ausgrabungen der Universität von Pennsylvania im Bêl-Tempel zu Nippur"
+previous_item: "17269"
+---

@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17257"
+occurrence_id: "386"
+short_title: "Diaspora"
+author: "Zadok, Ran "
+publication_year: "2002"
+title: "The Earliest Diaspora. Israelites and Judeans in Pre-Hellenistic Mesopotamia (Publications of the Diaspora Research Institute, Book 151)"
+title: "The Earliest Diaspora. Israelites and Judeans in Pre-Hellenistic Mesopotamia (Publications of the Diaspora Research Institute, Book 151)"
+previous_item: "17260"
+---

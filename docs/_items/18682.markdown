@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18682"
+occurrence_id: "4914"
+short_title: "Corò Capitanio 2012a"
+author: "Corò Capitanio, Paola"
+publication_year: "2012"
+title: "By the Written Order of the rab ša rēš āli ša Uruk: towards an Understanding of the bīt ritti System in Hellenistic Uruk"
+pages: "149-160"
+editor: "Pappi, Cinzia"
+book: "Leggo! Studies Presented to Frederick Mario Fales on the Occasion of His 65th Birthday, Leipziger Altorientalische Studien 2 (Wiesbaden)"
+title: "By the Written Order of the rab ša rēš āli ša Uruk: towards an Understanding of the bīt ritti System in Hellenistic Uruk"
+previous_item: "18685"
+---

@@ -1,0 +1,12 @@
+---
+layout: "bibliography"
+slug: "8377"
+occurrence_id: "4007"
+short_title: "NABU 2014/35"
+author: "Pirngruber, Reinhard"
+publication_year: "2014"
+title: "A new Greekk from Seleucid Babylonia"
+volume_no_: "2014/35"
+title: "A new Greekk from Seleucid Babylonia"
+previous_item: "8380"
+---

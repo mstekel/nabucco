@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14083"
+occurrence_id: "1644"
+short_title: "BiOr 18 (1961), 163"
+author: "Goossens, Godefroy"
+publication_year: "1961"
+title: "Rv. G. Contenau, Zo leefden de Babyloniërs en de Assyriërs ten tijde van Nebukadnezar"
+volume_no_: "18"
+pages: "163"
+journal: "Bibliotheca Orientalis"
+title: "Rv. G. Contenau, Zo leefden de Babyloniërs en de Assyriërs ten tijde van Nebukadnezar"
+previous_item: "14086"
+---

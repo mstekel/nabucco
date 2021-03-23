@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "8695"
+occurrence_id: "2699"
+short_title: "NABU 2007/52"
+author: "Kleber, Kristin"
+title: "Zeria, satammu von Esangila und die Entstehungszeit des \"Strophengedichts\""
+volume_no_: "52"
+publication_year: "2007"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Zeria, satammu von Esangila und die Entstehungszeit des \"Strophengedichts\""
+previous_item: "8698"
+---

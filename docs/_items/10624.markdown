@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "10624"
+occurrence_id: "4043"
+short_title: "JNES 72/2 (2013), 292-296"
+author: "van de Mieroop, Marc"
+publication_year: "2013"
+title: "Rv. D. Charpin, Reading and Writing in Babylon"
+volume_no_: "72/2"
+pages: "292-296"
+title: "Rv. D. Charpin, Reading and Writing in Babylon"
+previous_item: "10627"
+---

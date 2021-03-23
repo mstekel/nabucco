@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14434"
+occurrence_id: "3537"
+short_title: "ZAR 16 (2010), 77-104."
+author: "Wells, Bruce"
+publication_year: "2010"
+title: "Competing or Complementary? Judges and Elders in Biblical and Neo-Babylonian Law"
+volume_no_: "16"
+pages: "77-104"
+journal: "Zeitschrift für Altorientalische und Biblische Rechtsgeschichte"
+title: "Competing or Complementary? Judges and Elders in Biblical and Neo-Babylonian Law"
+previous_item: "14437"
+---

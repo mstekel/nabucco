@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14551"
+occurrence_id: "1153"
+short_title: "AcAntHung 22 (1974 publ. 1976), 473-485"
+author: "Weinberg, Joel P."
+publication_year: "1974"
+title: "Die Agrarverhältnisse in der Bürger-Tempel-Gemeinde der Achämenidenzeit"
+volume_no_: "22"
+pages: "473-485"
+journal: "Acta Antiqua Academiae Scientiarum Hungaricae"
+title: "Die Agrarverhältnisse in der Bürger-Tempel-Gemeinde der Achämenidenzeit"
+previous_item: "14554"
+---

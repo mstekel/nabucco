@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "20077"
+occurrence_id: "4649"
+short_title: "Martí 1964"
+author: "Carreras Martí, Juan"
+publication_year: "1964"
+title: "'Ewīl Merœdak"
+pages: "313-314"
+book: "EncBiblia 3 (Barcelona)"
+title: "'Ewīl Merœdak"
+previous_item: "20080"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9568"
+occurrence_id: "1360"
+short_title: "AMI NF 9 (1976 publ.1977), 45-95"
+author: "Calmeyer, Peter"
+publication_year: "1976 publ.1977"
+title: "Zur Genese altiranischer Motive"
+volume_no_: "9"
+pages: "45-95"
+journal: "Archäologische Mitteilungen aus Iran Neue Folge"
+title: "Zur Genese altiranischer Motive"
+previous_item: "9571"
+---

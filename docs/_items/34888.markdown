@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34888"
+place_id: "1012"
+parent_id: "61"
+place_name: "Harru-ša-Iddinā"
+title: "Harru-ša-Iddinā"
+previous_item: "34891"
+---

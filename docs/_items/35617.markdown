@@ -1,0 +1,10 @@
+---
+layout: "glossary"
+slug: "35617"
+concept_id: "1231"
+label: "Division (other than inheritance)"
+hierarchy: "Content type"
+type: "172"
+title: "Division (other than inheritance)"
+previous_item: "35620"
+---

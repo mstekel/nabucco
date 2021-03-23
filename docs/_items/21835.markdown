@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21835"
+occurrence_id: "5201"
+short_title: "Henkelman 2008"
+author: "Henkelman, Wouter F.M."
+publication_year: "2008"
+title: "From Gabae to Taoce: The Geography of the Central administrative province."
+pages: "303-316"
+editor: "Stolper, Matthew W."
+book: "L'archive des Fortifications de Persepolis. État des questions et perspectives de recherches Persika 12 (Paris)"
+title: "From Gabae to Taoce: The Geography of the Central administrative province."
+previous_item: "21838"
+---

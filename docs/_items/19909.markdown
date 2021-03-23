@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19909"
+occurrence_id: "4840"
+short_title: "Dandamayev 1972a"
+author: "Dandamayev, Muhammed A."
+publication_year: "1972"
+title: "Connections between Elam and Babylonia in the Achaemenid Period"
+pages: "258-264"
+editor: "Tajvidi, A."
+book: "The Memorial Volume of the Vth International Congress of Iranian Art and Archaeology I (Teheran)"
+title: "Connections between Elam and Babylonia in the Achaemenid Period"
+previous_item: "19912"
+---

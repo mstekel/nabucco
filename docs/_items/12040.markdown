@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "12040"
+occurrence_id: "2657"
+short_title: "NABU 2003/36"
+author: "Fried, Lisbeth S."
+title: "A Governor of Byblos from Sippar"
+volume_no_: "36"
+publication_year: "2003"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "A Governor of Byblos from Sippar"
+previous_item: "12043"
+---

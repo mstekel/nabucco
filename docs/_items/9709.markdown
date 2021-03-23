@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9709"
+occurrence_id: "2119"
+short_title: "JAOS 64 (1944), 73-81"
+author: "Segrè, Angelo"
+publication_year: "1944"
+title: "Babylonian, Assyrian and Persian Measures"
+volume_no_: "64"
+pages: "73-81"
+journal: "Journal of the American Oriental Society"
+title: "Babylonian, Assyrian and Persian Measures"
+previous_item: "9712"
+---

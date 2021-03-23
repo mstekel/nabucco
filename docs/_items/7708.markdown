@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7708"
+occurrence_id: "3426"
+short_title: "ZA 64 (1975), 40-43"
+author: "Hunger, Hermann"
+publication_year: "1975"
+title: "Noch ein \"Kalendertext\" zu den durch Zahlen ausgedrückten Omina"
+volume_no_: "64"
+pages: "40-43"
+journal: "Zeitschrift für Assyriologie"
+title: "Noch ein \"Kalendertext\" zu den durch Zahlen ausgedrückten Omina"
+previous_item: "7711"
+---

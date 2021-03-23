@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19840"
+occurrence_id: "4472"
+short_title: "Schaudig 2003"
+author: "Schaudig, Hanspeter"
+publication_year: "2003"
+title: "Nabonid, der \"Archäologe auf dem Königsthron\". Erwägungen zum Geschichtsbild des ausgehenden neubabylonischen Reiches."
+pages: "447-497"
+editor: "Selz, G.J."
+book: "Festschrift für Burkhart Kienast zu seinem 70. Geburtstage dargebracht von Freanden, Schülern and Kollegen (Münster)"
+title: "Nabonid, der \"Archäologe auf dem Königsthron\". Erwägungen zum Geschichtsbild des ausgehenden neubabylonischen Reiches."
+previous_item: "19843"
+---

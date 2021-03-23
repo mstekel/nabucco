@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10288"
+occurrence_id: "2218"
+short_title: "JCS 7 (1953), 100-102"
+author: "Neugebauer, Otto"
+publication_year: "1953"
+title: "The Rising Times in Babylonian Astronomy"
+volume_no_: "7"
+pages: "100-102"
+journal: "Journal of Cuneiform Studies"
+title: "The Rising Times in Babylonian Astronomy"
+previous_item: "10291"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21490"
+occurrence_id: "4464"
+short_title: "Cardascia 1985"
+author: "Cardascia, Guillaume"
+publication_year: "1985"
+title: "Le caractère volontaire ou involontaire des atteintes corporelles dans les droits cunéiformes"
+pages: "161-207"
+editor: "Sanfilippo, Cesare"
+book: "Studi in onore di Cesare Sanfilippo, Università di Catania. Pubblicazioni della Facoltà di giurisprudenza 96/127 (Milano)"
+title: "Le caractère volontaire ou involontaire des atteintes corporelles dans les droits cunéiformes"
+previous_item: "21493"
+---

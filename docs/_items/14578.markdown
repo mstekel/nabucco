@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14578"
+occurrence_id: "1303"
+short_title: "AJSL 56 (1939), 20-43"
+author: "Dubberstein, Waldo H."
+publication_year: "1939"
+title: "Comparative Prices in Later Babylonia (640-400 B.C.)"
+volume_no_: "56"
+pages: "20-43"
+journal: "American Journal of Semitic Languages and Literatures"
+title: "Comparative Prices in Later Babylonia (640-400 B.C.)"
+previous_item: "14581"
+---

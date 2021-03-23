@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17599"
+occurrence_id: "902"
+short_title: "Walser 1972"
+author: "Walser, Gerold "
+publication_year: "1972"
+title: "Beiträge zur Achämenidengeschichte, Historia, Zeitschrift für alte Geschichte Einzelschriften, Heft 18 (Wiesbaden)"
+title: "Beiträge zur Achämenidengeschichte, Historia, Zeitschrift für alte Geschichte Einzelschriften, Heft 18 (Wiesbaden)"
+previous_item: "17602"
+---

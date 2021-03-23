@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14488"
+occurrence_id: "3825"
+short_title: "Phoenix 33/2 (1987, Leiden 1988), 62-63"
+author: "Veenhof, Klaas , Roelof "
+publication_year: "1987-1988"
+title: "Rv. D.J. Wiseman, Nebuchadrezzar and Babylon (1985)"
+volume_no_: "33/2"
+pages: "62-63"
+journal: "Phoenix"
+title: "Rv. D.J. Wiseman, Nebuchadrezzar and Babylon (1985)"
+previous_item: "14491"
+---

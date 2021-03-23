@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11269"
+occurrence_id: "1510"
+short_title: "ARRIM 8 (1990), 59-62"
+author: "Peters, Celeste A."
+publication_year: "1990"
+title: "The U.B.C. Collections"
+volume_no_: "8"
+pages: "59-62"
+journal: "Annual Review of the Royal Inscriptions of Mesopotamia Project"
+title: "The U.B.C. Collections"
+previous_item: "11272"
+---

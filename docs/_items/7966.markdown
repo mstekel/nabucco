@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7966"
+occurrence_id: "1795"
+short_title: "BSOAS 52 (1989), 118-120."
+author: "George, Andrew, R."
+publication_year: "1989"
+title: "Rv. S. Parpo1a, The Correspondence of Sargon II, Part I: Lettersfrom Assyria and the West (Helsinki 1987)"
+volume_no_: "52"
+pages: "118-120"
+journal: "Bulletin of the School of Oriental and African Studies"
+title: "Rv. S. Parpo1a, The Correspondence of Sargon II, Part I: Lettersfrom Assyria and the West (Helsinki 1987)"
+previous_item: "7969"
+---

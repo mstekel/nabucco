@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21310"
+occurrence_id: "4607"
+short_title: "Brinkman 1988"
+author: "Brinkman, John A."
+publication_year: "1988"
+title: "Textual Evidence for Bronze in Babylonia in the Early Iron Age, 1000-539 B.C."
+pages: "135-168"
+editor: "Curtis, John"
+book: "Bronzeworking Centres of Western Asia, c. 1000-539 (London and New York)"
+title: "Textual Evidence for Bronze in Babylonia in the Early Iron Age, 1000-539 B.C."
+previous_item: "21313"
+---

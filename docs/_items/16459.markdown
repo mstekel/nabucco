@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16459"
+occurrence_id: "2374"
+short_title: "Klio 70 (1988), 412-421"
+author: "McEwan, Gilbert J.P."
+publication_year: "1988"
+title: "Babylonia in the Hellenistic Period"
+volume_no_: "70"
+pages: "412-421"
+journal: "Klio"
+title: "Babylonia in the Hellenistic Period"
+previous_item: "16462"
+---

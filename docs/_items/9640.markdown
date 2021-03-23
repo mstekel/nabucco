@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9640"
+occurrence_id: "1750"
+short_title: "BN 107/108 (2001), 109-119"
+author: "Al-Said, Said F."
+publication_year: "2001"
+title: "Der babylonische König Nabonid in taymanischen Inschriften"
+volume_no_: "107/108"
+pages: "109-119"
+journal: "Biblische Notizen"
+title: "Der babylonische König Nabonid in taymanischen Inschriften"
+previous_item: "9643"
+---

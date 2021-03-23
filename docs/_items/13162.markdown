@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "13162"
+occurrence_id: "2691"
+short_title: "NABU 2006/83"
+author: "Paszkowiak-Wojciechowska, Joanna"
+title: "NB \"bitu hittatu\": \"a plot covered with pits\"?"
+volume_no_: "83"
+publication_year: "2006"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "NB \"bitu hittatu\": \"a plot covered with pits\"?"
+previous_item: "13165"
+---

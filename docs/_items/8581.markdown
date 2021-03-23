@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8581"
+occurrence_id: "2085"
+short_title: "JAOS 118 (1998), 443-445"
+author: "Dandamayev, Muhammed A."
+publication_year: "1998"
+title: "Rv. S.W. Cole, Nippur in Late Assyrian Times (SAAS IV, 1996) and Rv. S.W. Cole, Nippur IV. the Early Neo-Babylonian Governor´s Archive from Nippur (OIP 114, 1996)"
+volume_no_: "118"
+pages: "443-445"
+journal: "Journal of the American Oriental Society"
+title: "Rv. S.W. Cole, Nippur in Late Assyrian Times (SAAS IV, 1996) and Rv. S.W. Cole, Nippur IV. the Early Neo-Babylonian Governor´s Archive from Nippur (OIP 114, 1996)"
+previous_item: "8584"
+---

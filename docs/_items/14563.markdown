@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14563"
+occurrence_id: "1220"
+short_title: "AfO 40/41 (1993/1994), 52-63"
+author: "Sallaberger, Walther"
+publication_year: "1993-1994"
+title: "Keilschrifttexte einer Privatsammlung"
+volume_no_: "40-41"
+pages: "52-63"
+journal: "Archiv für Orientforschung"
+title: "Keilschrifttexte einer Privatsammlung"
+previous_item: "14566"
+---

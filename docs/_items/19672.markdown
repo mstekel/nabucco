@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19672"
+occurrence_id: "4679"
+short_title: "Kleber 2011"
+author: "Kleber, Kristin"
+publication_year: "2011"
+title: "Neither Slave nor Truly Free: The Status of the Dependents of Babylonian Temple Households"
+pages: "101-111"
+editor: "Culbertson, Laura "
+book: "Slaves and Households in the Near East, Oriental Institute Seminars 7 (Chicago)"
+title: "Neither Slave nor Truly Free: The Status of the Dependents of Babylonian Temple Households"
+previous_item: "19675"
+---

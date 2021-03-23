@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9712"
+occurrence_id: "2135"
+short_title: "JAOS 98 (1978), 313"
+author: "Sack, Ronald H."
+publication_year: "1978"
+title: "Rv. H. Lanz, Die neubabylonischen harrānu-Geschäftsunternehmen"
+volume_no_: "98"
+pages: "313"
+journal: "Journal of the American Oriental Society"
+title: "Rv. H. Lanz, Die neubabylonischen harrānu-Geschäftsunternehmen"
+previous_item: "9715"
+---

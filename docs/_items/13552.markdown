@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13552"
+occurrence_id: "1789"
+short_title: "BSOAS 47 (1984), 121-122"
+author: "Selman, M.J."
+publication_year: "1984"
+title: "Rv. P. Briant, État et pasteurs au Moyen-Orient ancien"
+volume_no_: "47"
+pages: "121-122"
+journal: "Bulletin of the School of Oriental and African Studies"
+title: "Rv. P. Briant, État et pasteurs au Moyen-Orient ancien"
+previous_item: "13555"
+---

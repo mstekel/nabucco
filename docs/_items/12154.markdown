@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12154"
+occurrence_id: "3271"
+short_title: "Transeuphratène 8 (1994), 95-107"
+author: "Limet, Henri"
+publication_year: "1994"
+title: "La perception de l´espace dans le Proche-Orient au Ier millénaire av. J.-C."
+volume_no_: "8"
+pages: "95-107"
+journal: "Transeuphratène"
+title: "La perception de l´espace dans le Proche-Orient au Ier millénaire av. J.-C."
+previous_item: "12157"
+---

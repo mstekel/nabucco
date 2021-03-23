@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10528"
+occurrence_id: "3530"
+short_title: "ZA 98 (2008), 100-116."
+author: "Baker, Heather D."
+publication_year: "2008"
+title: "Babylon in 484 BC: the Excavated Archival Tablets as a Source for Urban History"
+volume_no_: "98"
+pages: "100-116"
+journal: "Zeitschrift für Assyriologie"
+title: "Babylon in 484 BC: the Excavated Archival Tablets as a Source for Urban History"
+previous_item: "10531"
+---

@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17314"
+occurrence_id: "746"
+short_title: "Briant 1985"
+author: "Briant, Pierre "
+publication_year: "1984 publ. 1985"
+title: "L'Asie Centrale et les royaumes proche-orientaux du premier millénaire (c.VIIIe-Ive siècles avant notre ère), Éditions Recherche sur les Civilisations, <<mémoire>> n° 42 (Paris)"
+title: "L'Asie Centrale et les royaumes proche-orientaux du premier millénaire (c.VIIIe-Ive siècles avant notre ère), Éditions Recherche sur les Civilisations, <<mémoire>> n° 42 (Paris)"
+previous_item: "17317"
+---

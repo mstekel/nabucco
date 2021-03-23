@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16177"
+occurrence_id: "3876"
+short_title: "ZAW 89 (1977), 312"
+author: "Spalinger, Anthony"
+publication_year: "1977"
+title: "Egypt and Babylonia in Chaldean and Achemenian Periods in the Light of the Babylonian Sources"
+volume_no_: "89"
+pages: "312"
+journal: "Zeitschrift für die alttestamentliche Wissenschaft"
+title: "Egypt and Babylonia in Chaldean and Achemenian Periods in the Light of the Babylonian Sources"
+previous_item: "16180"
+---

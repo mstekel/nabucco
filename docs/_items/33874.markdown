@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33874"
+place_id: "745"
+parent_id: "61"
+place_name: "Ālu-ša-Nabû-šuma-iddina"
+title: "Ālu-ša-Nabû-šuma-iddina"
+previous_item: "33877"
+---

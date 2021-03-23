@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18406"
+occurrence_id: "323"
+short_title: "Boissier 1890"
+author: "Boissier, Alfred "
+publication_year: "1890"
+title: "Recherches sur quelques contrats babyloniens"
+title: "Recherches sur quelques contrats babyloniens"
+previous_item: "18409"
+---

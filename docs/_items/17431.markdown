@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17431"
+occurrence_id: "654"
+short_title: "Petschow 1956"
+author: "Petschow, Herbert "
+publication_year: "1956"
+title: "Neubabylonisches Pfandrecht (Abhandlungen der Sächsischen Akademie der Wissenschaften, phil.-hist. Kl. 48.1)"
+title: "Neubabylonisches Pfandrecht (Abhandlungen der Sächsischen Akademie der Wissenschaften, phil.-hist. Kl. 48.1)"
+previous_item: "17434"
+---

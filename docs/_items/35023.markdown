@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "35023"
+place_id: "1409"
+parent_id: "37"
+place_name: "Bīt-Uqata"
+related_objects: "5485"
+title: "Bīt-Uqata"
+previous_item: "35026"
+---

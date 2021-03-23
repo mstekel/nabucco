@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17275"
+occurrence_id: "495"
+short_title: "Lindström 2003"
+author: "Lindstörm, Gunvor "
+publication_year: "2003"
+title: "Siegelabdrücke auf hellenistischen Tonbullen und Tontafeln. Ausgrabungen in Uruk-Warka Endberichte 20."
+title: "Siegelabdrücke auf hellenistischen Tonbullen und Tontafeln. Ausgrabungen in Uruk-Warka Endberichte 20."
+previous_item: "17278"
+---

@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "12016"
+occurrence_id: "2528"
+short_title: "NABU 1995/54"
+author: "Zawadzki, Stefan"
+title: "Is here a document dated to the Reign of Bardiya II (Vahyazdāta)?,"
+volume_no_: "54"
+publication_year: "1995"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Is here a document dated to the Reign of Bardiya II (Vahyazdāta)?,"
+previous_item: "12019"
+---

@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "8686"
+occurrence_id: "2651"
+short_title: "NABU 2002/79"
+author: "Tavernier, Jan"
+title: "Iranian presence in Neo-Elamite Susa"
+volume_no_: "79"
+publication_year: "2002"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Iranian presence in Neo-Elamite Susa"
+previous_item: "8689"
+---

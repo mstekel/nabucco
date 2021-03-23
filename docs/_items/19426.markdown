@@ -1,0 +1,15 @@
+---
+layout: "bibliography"
+slug: "19426"
+occurrence_id: "4470"
+short_title: "Volkmann 1969"
+author: "Volkmann, Hans"
+publication_year: "1969"
+title: "Kyros"
+pages: "417-420"
+editor: "Pauly, August , Friedrich"
+book: "Kleine Paulys Real-Encyclopädie der klassischen
+Altertumswissenschaft 3 (Stuttgart)"
+title: "Kyros"
+previous_item: "19429"
+---

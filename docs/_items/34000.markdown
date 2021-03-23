@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34000"
+place_id: "988"
+parent_id: "61"
+place_name: "Gadijatu"
+title: "Gadijatu"
+previous_item: "34003"
+---

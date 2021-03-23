@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "8371"
+occurrence_id: "3975"
+short_title: "JCSMS 5 (2011), 13-23"
+author: "Kozuh, Michael"
+publication_year: "2011"
+title: "On the Generation of Administrative Texts at the Eanna of Uruk"
+volume_no_: "5"
+pages: "13-23"
+title: "On the Generation of Administrative Texts at the Eanna of Uruk"
+previous_item: "8374"
+---

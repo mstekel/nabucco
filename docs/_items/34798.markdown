@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "34798"
+place_id: "1351"
+parent_id: "70"
+place_name: "Yāhūdu"
+related_objects: "2284"
+title: "Yāhūdu"
+previous_item: "34801"
+---

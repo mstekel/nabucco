@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11917"
+occurrence_id: "1995"
+short_title: "Iraq 64 (2002), 249-258."
+author: "George, Andrew, R."
+publication_year: "2002"
+title: "Tablets from the Sippar library XI. The Babylonian almanac."
+volume_no_: "64"
+pages: "249-258"
+journal: "Iraq"
+title: "Tablets from the Sippar library XI. The Babylonian almanac."
+previous_item: "11920"
+---

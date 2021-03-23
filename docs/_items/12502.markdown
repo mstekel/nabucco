@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12502"
+occurrence_id: "2140"
+short_title: "JBL 70 (1951), 176-177"
+author: "Kramer, Samuel N."
+publication_year: "1951"
+title: "Rv. H.H. Figulla, Business Documents of the New-Babylonian Period"
+volume_no_: "70"
+pages: "176-177"
+journal: "Journal of Biblical Literature"
+title: "Rv. H.H. Figulla, Business Documents of the New-Babylonian Period"
+previous_item: "12505"
+---

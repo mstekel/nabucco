@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11413"
+occurrence_id: "2284"
+short_title: "JNES 23 (1964), 12-38"
+author: "Gershevitch, Ilya"
+publication_year: "1964"
+title: "Zoroaster´s Own Contribution"
+volume_no_: "23"
+pages: "12-38"
+journal: "Journal of Near Eastern Studies"
+title: "Zoroaster´s Own Contribution"
+previous_item: "11416"
+---

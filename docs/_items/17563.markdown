@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17563"
+occurrence_id: "675"
+short_title: "BaM Beiheft 2"
+author: "Mayer, Werner R. "
+publication_year: "1980"
+title: "Texte aus dem Reš-Heiligtum in Uruk-Warka, Bagdader Mitteilungen Beiheft 2 (Berlin)"
+title: "Texte aus dem Reš-Heiligtum in Uruk-Warka, Bagdader Mitteilungen Beiheft 2 (Berlin)"
+previous_item: "17566"
+---

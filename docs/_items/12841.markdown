@@ -1,0 +1,12 @@
+---
+layout: "bibliography"
+slug: "12841"
+occurrence_id: "3966"
+short_title: "NABU 2015/81"
+author: "Jiménez, Enrique"
+publication_year: "2015"
+title: "A playful writing of the name of Babylon"
+volume_no_: "2015/81"
+title: "A playful writing of the name of Babylon"
+previous_item: "12844"
+---

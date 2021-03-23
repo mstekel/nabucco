@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "12583"
+occurrence_id: "2578"
+short_title: "NABU 1998/112"
+author: "Stolper, Matthew W."
+title: "Ummanšipir the Elamite"
+volume_no_: "112"
+publication_year: "1998"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Ummanšipir the Elamite"
+previous_item: "12586"
+---

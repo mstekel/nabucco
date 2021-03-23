@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15340"
+occurrence_id: "2388"
+short_title: "Mandus 17 (1981), 115-118"
+author: "Farber, Walter"
+publication_year: "1981"
+title: "Rv. L. Jakob-Rost and H. Freydank, Spätbabylonische Rechtsurkunden und Wirtschaftstexte aus Uruk (VS 20 = NF 4)"
+volume_no_: "17"
+pages: "115-118"
+journal: "Mandus"
+title: "Rv. L. Jakob-Rost and H. Freydank, Spätbabylonische Rechtsurkunden und Wirtschaftstexte aus Uruk (VS 20 = NF 4)"
+previous_item: "15343"
+---

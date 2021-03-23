@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20641"
+occurrence_id: "4348"
+short_title: "Rochberg-Halton 2004"
+author: "Rochberg-Halton, Francesca"
+publication_year: "2004"
+title: "A Babylonian Rising Times Scheme in Non-Tabular Astronomical Texts."
+pages: "56-94"
+editor: "Burnett, Charles"
+book: "Studies in the History of the Exact Sciences in Honour of David Pingree (Leiden and Boston)"
+title: "A Babylonian Rising Times Scheme in Non-Tabular Astronomical Texts."
+previous_item: "20644"
+---

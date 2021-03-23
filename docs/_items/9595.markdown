@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9595"
+occurrence_id: "1507"
+short_title: "ARRIM 5 (1987), 47-51"
+author: "Reade, Julian E."
+publication_year: "1987"
+title: "Babylonian Boundary-Stones and Comparable Monuments in the British Museum"
+volume_no_: "5"
+pages: "47-51"
+journal: "Annual Review of the Royal Inscriptions of Mesopotamia Project"
+title: "Babylonian Boundary-Stones and Comparable Monuments in the British Museum"
+previous_item: "9598"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7756"
+occurrence_id: "3685"
+short_title: "ErIs 26 (2002), 1-9"
+author: "Abraham, Kathleen"
+publication_year: "2002"
+title: "Rekush u-ba'alut be-mishpahat Egibi mi-Babel"
+volume_no_: "27"
+pages: "1-9."
+journal: "Eretz Israel"
+title: "Rekush u-ba'alut be-mishpahat Egibi mi-Babel"
+previous_item: "7759"
+---

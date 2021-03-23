@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34114"
+place_id: "1039"
+parent_id: "61"
+place_name: "Hubaba-ša-Bīt-Nabû"
+title: "Hubaba-ša-Bīt-Nabû"
+previous_item: "34117"
+---

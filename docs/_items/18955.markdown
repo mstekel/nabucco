@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "18955"
+occurrence_id: "4163"
+short_title: "Heller 2015"
+author: "Heller, André"
+publication_year: "2015"
+title: "Why the Greeks Know so Little about Assyrian and Babylonian History"
+pages: "331-348"
+editor: "van Dongen, Erik "
+title: "Why the Greeks Know so Little about Assyrian and Babylonian History"
+previous_item: "18958"
+---

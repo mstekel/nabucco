@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13099"
+occurrence_id: "2352"
+short_title: "JNES 63 (2004), 214-216"
+author: "Beaulieu, Paul-A."
+publication_year: "2004"
+title: "Rv. A.C.V.M. Bongenaar. The Neo-Babylonian Ebabbar Temple at Sippar: its Administration and its Prosopography, PIHANS 80 (Leiden 1997)"
+volume_no_: "63"
+pages: "214-216"
+journal: "Journal of Near Eastern Studies"
+title: "Rv. A.C.V.M. Bongenaar. The Neo-Babylonian Ebabbar Temple at Sippar: its Administration and its Prosopography, PIHANS 80 (Leiden 1997)"
+previous_item: "13102"
+---

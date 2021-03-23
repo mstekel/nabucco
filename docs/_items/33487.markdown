@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "33487"
+place_id: "1501"
+parent_id: "37"
+place_name: "Ālu-ša-Bēl-ittannu "
+related_objects: "7793"
+title: "Ālu-ša-Bēl-ittannu "
+previous_item: "33490"
+---

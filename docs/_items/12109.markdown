@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12109"
+occurrence_id: "3031"
+short_title: "RA 51 (1957), 154-156"
+author: "Szlechter, Émile"
+publication_year: "1957"
+title: "Rv. H. Petschow, Neubabylonisches Pfandrecht (Berlin 1956)"
+volume_no_: "51"
+pages: "154-156"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "Rv. H. Petschow, Neubabylonisches Pfandrecht (Berlin 1956)"
+previous_item: "12112"
+---

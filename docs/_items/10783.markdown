@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10783"
+occurrence_id: "1897"
+short_title: "HUCA 67 (1996), 43-53"
+author: "Sowers, Sidney G."
+publication_year: "1996"
+title: "Did Xerxes Wage War on Jerusalem?"
+volume_no_: "67"
+pages: "43-53"
+journal: "Hebrew Union College Annual"
+title: "Did Xerxes Wage War on Jerusalem?"
+previous_item: "10786"
+---

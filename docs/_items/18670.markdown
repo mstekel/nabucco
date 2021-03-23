@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18670"
+occurrence_id: "4850"
+short_title: "Dandamayev 1984a"
+author: "Dandamayev, Muhammed A."
+publication_year: "1984"
+title: "Royal Paradeisioi in Babylonia"
+pages: "113-117"
+editor: "Duchesne-Guillemin, Jacques"
+book: "Orientalia J. Duchesne-Guillemin emerito oblata, Acta Iranica 23, Deuxième série: Hommages et opera minora, Duchesne-Guillemin, Vol. IV (Leiden)"
+title: "Royal Paradeisioi in Babylonia"
+previous_item: "18673"
+---

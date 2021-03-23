@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8989"
+occurrence_id: "1261"
+short_title: "AfO 51 (2005/2006), 108-124"
+author: "Oelsner, Joachim"
+publication_year: "2005-2006"
+title: "Der \"Hilprecht-Text\": der Jenaer astronomisch-Mathematische Tafel HS 245 (früher HS 229) und die Paralleltexte Sm 162 (CT 33, 11) Rs. Sowie Sm 1113 (AfO 18, 393f.)."
+volume_no_: "51"
+pages: "108-124"
+journal: "Archiv für Orientforschung"
+title: "Der \"Hilprecht-Text\": der Jenaer astronomisch-Mathematische Tafel HS 245 (früher HS 229) und die Paralleltexte Sm 162 (CT 33, 11) Rs. Sowie Sm 1113 (AfO 18, 393f.)."
+previous_item: "8992"
+---

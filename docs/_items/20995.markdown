@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20995"
+occurrence_id: "5133"
+short_title: "Boiy and Verthoeven 1998"
+author: "Verthoeven, Kris"
+publication_year: "1998"
+title: "Arrian, Anabasis VII 21.1-4 and the Pallukkatu Chanel"
+pages: "147-158"
+editor: "Gasche, Hermann"
+book: "Changing Watercourses in Babylonia. Towards a Reconstruction of the Ancient Environment in Lower Mesopotamia I , MHEM V1 (Ghent)"
+title: "Arrian, Anabasis VII 21.1-4 and the Pallukkatu Chanel"
+previous_item: "20998"
+---

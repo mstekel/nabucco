@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14473"
+occurrence_id: "3745"
+short_title: "JRAS 58 (1926), 794-797"
+author: "Smith, Sydney A."
+publication_year: "1926"
+title: "Rv. A. Tremayne, YOS 7 (1925)"
+volume_no_: "58"
+pages: "794-797"
+journal: "Journal of the Royal Asiatic Society"
+title: "Rv. A. Tremayne, YOS 7 (1925)"
+previous_item: "14476"
+---

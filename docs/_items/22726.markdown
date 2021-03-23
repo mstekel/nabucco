@@ -1,0 +1,9 @@
+---
+layout: "archive"
+slug: "22726"
+archive_id: "301"
+archive_name: "Bēl-eṭēri"
+is_part_of: "Sippar"
+title: "Bēl-eṭēri"
+previous_item: "22729"
+---

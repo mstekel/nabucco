@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10147"
+occurrence_id: "1459"
+short_title: "ArOr 17/II (1949), 227-235"
+author: "Oppenheim, A. Leo"
+publication_year: "1949"
+title: "Akk. arad-ekalli = 'Builder'"
+volume_no_: "17/II"
+pages: "227-235"
+journal: "Archív Orientalí"
+title: "Akk. arad-ekalli = 'Builder'"
+previous_item: "10150"
+---

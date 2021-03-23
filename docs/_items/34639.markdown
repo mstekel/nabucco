@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34639"
+place_id: "574"
+parent_id: "40"
+place_name: "Mamšam"
+title: "Mamšam"
+previous_item: "34642"
+---

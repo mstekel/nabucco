@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "15082"
+occurrence_id: "4019"
+short_title: "JCS 65 (2013), 234-238"
+author: "Sandowicz, Malgorzata"
+publication_year: "2013"
+title: "Rv. C. Waerzeggers, The Ezida Temple of Borsippa: Priesthood, Cult, Archives (Achaemenid History 15)"
+volume_no_: "65"
+pages: "234-238"
+title: "Rv. C. Waerzeggers, The Ezida Temple of Borsippa: Priesthood, Cult, Archives (Achaemenid History 15)"
+previous_item: "15085"
+---

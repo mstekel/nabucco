@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20671"
+occurrence_id: "4508"
+short_title: "Petschow 1972"
+author: "Petschow, Herbert"
+publication_year: "1972"
+title: "Zur mittelbabylonischen \"Buchhaltungstechnik\" und zur Tempelwirtschaft der NIN.DINGIR-Priesterinnen"
+pages: "299-307"
+editor: "Kampmann, Arie, A."
+book: "Symbolae biblicae mesopotamicae Francisco Mario Theodoro de Liagre Böhl dedicatae, Studia Francisci Scholten Memoriae dicata, 4 (Leiden)"
+title: "Zur mittelbabylonischen \"Buchhaltungstechnik\" und zur Tempelwirtschaft der NIN.DINGIR-Priesterinnen"
+previous_item: "20674"
+---

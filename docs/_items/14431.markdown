@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14431"
+occurrence_id: "3521"
+short_title: "ZA 93 (2003), 129-137."
+author: "Fuchs, Andreas"
+publication_year: "2003"
+title: "Rv. M.W. Waters, A Survey of Neo-Elamite History (SAAS 12)"
+volume_no_: "93"
+pages: "129-137"
+journal: "Zeitschrift für Assyriologie"
+title: "Rv. M.W. Waters, A Survey of Neo-Elamite History (SAAS 12)"
+previous_item: "14434"
+---

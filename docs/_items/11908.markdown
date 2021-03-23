@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11908"
+occurrence_id: "1947"
+short_title: "Iraq 17 (1955), 21-56"
+author: "Saggs, Henry W.F."
+publication_year: "1955"
+title: "The Nimrud Letters, 1952 - Part I"
+volume_no_: "17"
+pages: "69-89"
+journal: "Iraq"
+title: "The Nimrud Letters, 1952 - Part I"
+previous_item: "11911"
+---

@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "13429"
+occurrence_id: "349"
+short_title: "Peiser, BV (1890)"
+author: "Peiser, Felix , E."
+publication_year: "1890"
+title: "Babylonische Verträge des Berliner Museums"
+title: "Babylonische Verträge des Berliner Museums"
+previous_item: "13432"
+---

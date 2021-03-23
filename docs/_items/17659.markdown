@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17659"
+occurrence_id: "480"
+short_title: "Kreissig 1978"
+author: "Kreissig, Heinz "
+publication_year: "1978"
+title: "Wirtschaft und Gesellschaft im Seleukidenreich (Schriften zur Geschichte und Kultur der Antike, 16)"
+title: "Wirtschaft und Gesellschaft im Seleukidenreich (Schriften zur Geschichte und Kultur der Antike, 16)"
+previous_item: "17662"
+---

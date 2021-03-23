@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21625"
+occurrence_id: "5184"
+short_title: "Allinger-Csollich 2005"
+author: "Allinger-Csollich, Wilfried"
+publication_year: "2005"
+title: "Die Größe und Lage der Heiligtümer im Esagil von Babylon."
+pages: "7-19"
+editor: "Rollinger, Robert"
+book: "Von Sumer bis Homer, Festschrift für Manfred Schretter, AOAT 325 (Münster)"
+title: "Die Größe und Lage der Heiligtümer im Esagil von Babylon."
+previous_item: "21628"
+---

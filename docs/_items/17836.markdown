@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17836"
+occurrence_id: "786"
+short_title: "Garelli;Nikiprowetzky 1974"
+author: "Garelli, Paul "
+publication_year: "1974"
+title: "Le Proche-Orient Asiatique. Les empires mésopotamiens - Israël, Nouvelle Clio. L'histoire et ses problèmes 2b (Paris)"
+title: "Le Proche-Orient Asiatique. Les empires mésopotamiens - Israël, Nouvelle Clio. L'histoire et ses problèmes 2b (Paris)"
+previous_item: "17839"
+---

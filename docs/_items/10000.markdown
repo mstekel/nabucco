@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10000"
+occurrence_id: "3689"
+short_title: "ErIs 27 (2003), 276*-281*."
+author: "Zawadzki, Stefan"
+publication_year: "2003"
+title: "Nebuchadnezzar and Tyre in the Light of New Texts from the Ebabbar Archive in Sippar."
+volume_no_: "27"
+pages: "276*-281*."
+journal: "Eretz Israel"
+title: "Nebuchadnezzar and Tyre in the Light of New Texts from the Ebabbar Archive in Sippar."
+previous_item: "10003"
+---

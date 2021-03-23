@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13903"
+occurrence_id: "3680"
+short_title: "Eos 74 (1986), 85-89"
+author: "Zawadzki, Stefan"
+publication_year: "1986"
+title: "New Data concerning qīpu and šangû of Ebabbar Temple in Sippar in the Neo-Babylonian and Early Persian Periods"
+volume_no_: "74"
+pages: "85-89"
+journal: "Eos. Commentarii Societatis Philologae Polonorum"
+title: "New Data concerning qīpu and šangû of Ebabbar Temple in Sippar in the Neo-Babylonian and Early Persian Periods"
+previous_item: "13906"
+---

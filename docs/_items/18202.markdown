@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18202"
+occurrence_id: "641"
+short_title: "Yaron 1961"
+author: "Yaron, Reuven "
+publication_year: "1961"
+title: "Introduction to the Law of the Aramaic Papyri"
+title: "Introduction to the Law of the Aramaic Papyri"
+previous_item: "18205"
+---

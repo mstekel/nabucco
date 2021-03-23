@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18784"
+occurrence_id: "4355"
+short_title: "Joannès 1992"
+author: "Joannès, Francis"
+publication_year: "1992"
+title: "Les archives de Ninurta-ahhê-bulliṭ"
+pages: "87-100"
+editor: "de Jong Ellis, Maria"
+book: "Nippur at the Centennial. Papers Read at the 35e Rencontre Assyriologique Internationale, Philadelphia, 1988, Occasional Publications of the Samuel Noah Kramer Fund 14, OPSNKF 14, RAI 35 (Philadelphia)"
+title: "Les archives de Ninurta-ahhê-bulliṭ"
+previous_item: "18787"
+---

@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34351"
+place_id: "1288"
+parent_id: "61"
+place_name: "Tamertu-ša-Nār-Šapputti"
+title: "Tamertu-ša-Nār-Šapputti"
+previous_item: "34354"
+---

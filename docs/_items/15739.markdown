@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15739"
+occurrence_id: "1518"
+short_title: "ASJ 15 (1993), 99-106"
+author: "MacGinnis, John"
+publication_year: "1993"
+title: "The Manumission of a Royal Slave"
+volume_no_: "15"
+pages: "99-106"
+journal: "Acta Sumerologica"
+title: "The Manumission of a Royal Slave"
+previous_item: "15742"
+---

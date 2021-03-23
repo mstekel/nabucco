@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7858"
+occurrence_id: "1208"
+short_title: "AfO 26 (1978-79 publ. 1980), 110-111"
+author: "Lambert, Wilfred G."
+publication_year: "1978-79"
+title: "Rv. H. Hunger, Spätbabylonische Texte aus Uruk, Teil I"
+volume_no_: "26"
+pages: "110-111"
+journal: "Archiv für Orientforschung"
+title: "Rv. H. Hunger, Spätbabylonische Texte aus Uruk, Teil I"
+previous_item: "7861"
+---

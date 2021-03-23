@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13285"
+occurrence_id: "3355"
+short_title: "WZKM 33 (1926), 23-56"
+author: "König, Friedrich Wilhelm"
+publication_year: "1926"
+title: "Altpersische Adelsgeschlechter"
+volume_no_: "33"
+pages: "23-56"
+journal: "Wiener Zeitschrift für die Kunde des Morgenlandes"
+title: "Altpersische Adelsgeschlechter"
+previous_item: "13288"
+---

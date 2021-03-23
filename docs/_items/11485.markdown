@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "11485"
+occurrence_id: "2672"
+short_title: "NABU 2005/25"
+author: "Zadok, Ran"
+title: "On the Esaggil-mansum Clan."
+volume_no_: "25"
+publication_year: "2005"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "On the Esaggil-mansum Clan."
+previous_item: "11488"
+---

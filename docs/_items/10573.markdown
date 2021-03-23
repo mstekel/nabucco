@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10573"
+occurrence_id: "3770"
+short_title: "JSS 45 (2000), 1-19"
+author: "Dalley, Stephanie"
+publication_year: "2000"
+title: "Hebrew tahaš, Akkadian duhšu, Faience and Beadwork"
+volume_no_: "45"
+pages: "1-19"
+journal: "Journal of Semitic Studies"
+title: "Hebrew tahaš, Akkadian duhšu, Faience and Beadwork"
+previous_item: "10576"
+---

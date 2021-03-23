@@ -1,0 +1,12 @@
+---
+layout: "bibliography"
+slug: "11728"
+occurrence_id: "3981"
+short_title: "NABU 2014/102"
+author: "Levavi, Yuval"
+publication_year: "2014"
+title: "ginnu-silver from the time of Nebuchadnezzar (and Nabû-aḫḫē-iddin’s term as temple administrator)"
+volume_no_: "2014/102"
+title: "ginnu-silver from the time of Nebuchadnezzar (and Nabû-aḫḫē-iddin’s term as temple administrator)"
+previous_item: "11731"
+---

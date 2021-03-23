@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "33496"
+place_id: "1551"
+parent_id: "4"
+place_name: "Illegible"
+related_objects: "7969"
+title: "Illegible"
+previous_item: "33499"
+---

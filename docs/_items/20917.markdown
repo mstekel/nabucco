@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20917"
+occurrence_id: "4717"
+short_title: "Dietrich 1998"
+author: "Dietrich, Manfried"
+publication_year: "1998"
+title: "Bēl-ibni, König von Babylon (703-700). Die Rolle des Königs in den neubabylonischen Briefen"
+pages: "81-108"
+editor: "Dietrich, Manfried"
+book: "dubsar anta-men. Studien zur Altorientalistik, Fs. Römer AOAT 253 (Münster)"
+title: "Bēl-ibni, König von Babylon (703-700). Die Rolle des Königs in den neubabylonischen Briefen"
+previous_item: "20920"
+---

@@ -1,0 +1,18 @@
+---
+layout: "bibliography"
+slug: "10426"
+occurrence_id: "2964"
+short_title: "Palamedes 4 (2009), 15-25."
+author: "Sandowicz, Malgorzata"
+publication_year: "2009"
+title: "Depositaries, Depositors and Courthouse  in 6th Century B.C. Babylon
+Courhouse in Sixth-Century B.C.
+Babylon"
+volume_no_: "4"
+pages: "15-25"
+journal: "Palamedes"
+title: "Depositaries, Depositors and Courthouse  in 6th Century B.C. Babylon
+Courhouse in Sixth-Century B.C.
+Babylon"
+previous_item: "10429"
+---

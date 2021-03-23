@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20368"
+occurrence_id: "5098"
+short_title: "Hauser 1999a"
+author: "Hauser, Stefan R."
+publication_year: "1999"
+title: "Babylon in arsakidischer Zeit"
+pages: "207-239"
+editor: "Renger, Johannes"
+book: "Babylon: Focus mesopotamischer Geschichte, Wiege früher Gelehrsamkeit, Mythos in der Moderne, CDOG 2 (Saarbrücken)"
+title: "Babylon in arsakidischer Zeit"
+previous_item: "20371"
+---

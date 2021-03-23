@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10759"
+occurrence_id: "1768"
+short_title: "BSA 6 (1992), 171-176"
+author: "van Driel, Govert"
+publication_year: "1992"
+title: "Wood, Reeds and Rushes. A Note on Neo-Babylonian Practial Texts"
+volume_no_: "6"
+pages: "171-176"
+journal: "Bulletin on Sumerian Agriculture"
+title: "Wood, Reeds and Rushes. A Note on Neo-Babylonian Practial Texts"
+previous_item: "10762"
+---

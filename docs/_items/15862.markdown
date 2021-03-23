@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15862"
+occurrence_id: "2179"
+short_title: "JCS 4 (1950), 195-197"
+author: "Paper, Herbert H."
+publication_year: "1950"
+title: "Rv. R.G. Kent, Old Persian Grammar, Texts, Lexicon"
+volume_no_: "4"
+pages: "195-197"
+journal: "Journal of Cuneiform Studies"
+title: "Rv. R.G. Kent, Old Persian Grammar, Texts, Lexicon"
+previous_item: "15865"
+---

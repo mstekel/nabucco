@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16825"
+occurrence_id: "880"
+short_title: "San Nicolò 1937"
+author: "Nicolò, Mariano San"
+publication_year: "1937"
+title: "Zur Nachbürgschaft in den KeilschriftUrkunden und in den gräko-ägyptischen Papyri, SBAW 1937/6 (München)"
+title: "Zur Nachbürgschaft in den KeilschriftUrkunden und in den gräko-ägyptischen Papyri, SBAW 1937/6 (München)"
+previous_item: "16828"
+---

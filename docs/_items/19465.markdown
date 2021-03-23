@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19465"
+occurrence_id: "4678"
+short_title: "Kleber 2005"
+author: "Kleber, Kristin"
+publication_year: "2005"
+title: "Von Bierproduzenten und Gefängnisaufsehern: dezentrale Güterverteilung und Buchhaltung in Eanna."
+pages: "289-321"
+editor: "Baker, Heather D."
+book: "Approaching the Babylonian Economy, AOAT 330 (Münster)"
+title: "Von Bierproduzenten und Gefängnisaufsehern: dezentrale Güterverteilung und Buchhaltung in Eanna."
+previous_item: "19468"
+---

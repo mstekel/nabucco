@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "33481"
+place_id: "1465"
+parent_id: "70"
+place_name: "Bīt-Dibušiti"
+related_objects: "2505"
+title: "Bīt-Dibušiti"
+previous_item: "33484"
+---

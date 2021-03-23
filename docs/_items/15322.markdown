@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15322"
+occurrence_id: "2292"
+short_title: "JNES 25 (1966), 62-63"
+author: "Hallock, Richard T."
+publication_year: "1966"
+title: "Rv. R.N. Frye, The Heritage of Persia"
+volume_no_: "25"
+pages: "62-63"
+journal: "Journal of Near Eastern Studies"
+title: "Rv. R.N. Frye, The Heritage of Persia"
+previous_item: "15325"
+---

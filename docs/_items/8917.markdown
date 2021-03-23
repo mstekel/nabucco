@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8917"
+occurrence_id: "3895"
+short_title: "ZVS 81 (1967), 54-62"
+author: "Schmitt, Rüdiger"
+publication_year: "1967"
+title: "Altpersische Minutien"
+volume_no_: "81"
+pages: "54-62"
+journal: "Zeitschrift für vergleichende Sprachforschung auf dem Gebiete der Indogermanischen Sprachen"
+title: "Altpersische Minutien"
+previous_item: "8920"
+---

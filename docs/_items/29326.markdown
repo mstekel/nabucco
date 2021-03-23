@@ -1,0 +1,15 @@
+---
+layout: "tablet"
+slug: "29326"
+object_id: "7596"
+museum_no_: "BM 33089"
+publication: "Wunsch 2000"
+text_number: "49 B"
+duplicate: "BM 41406"
+imported: "Kathleen Abraham 15/04/2017"
+publication_name: "Wunsch 2000 49 B"
+archive: "Egibi/Nūr-Sîn"
+related_objects: "7597"
+title: "BM 33089"
+previous_item: "29329"
+---

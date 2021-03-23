@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16228"
+occurrence_id: "699"
+short_title: "Kleber, ZAR 18 (2012) "
+author: "Kleber, Kristin"
+publication_year: "2012"
+title: "Rhetorical strategies in letters of Babylonian officials"
+volume_no_: "18"
+pages: "221-237"
+journal: "Zeitschrift für Altorientalische und Biblische Rechtsgeschichte"
+title: "Rhetorical strategies in letters of Babylonian officials"
+previous_item: "16231"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11941"
+occurrence_id: "2123"
+short_title: "JAOS 75 (1955), 195-197"
+author: "Benveniste, Émile"
+publication_year: "1955"
+title: "Rv. R.G. Kent, Old Persian Grammar Lexicon Texts. 2nd ed"
+volume_no_: "75"
+pages: "195-197"
+journal: "Journal of the American Oriental Society"
+title: "Rv. R.G. Kent, Old Persian Grammar Lexicon Texts. 2nd ed"
+previous_item: "11944"
+---

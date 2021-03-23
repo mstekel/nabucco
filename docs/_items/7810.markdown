@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "7810"
+occurrence_id: "3974"
+short_title: "ZA 102/2 (2012), 219-244"
+author: "Kleber, Kristin"
+publication_year: "2012"
+title: "Famine in Babylonia: A Microhistorical Approach to an Agricultural Crisis in 528–526 BC"
+volume_no_: "102/2"
+pages: "219–244"
+title: "Famine in Babylonia: A Microhistorical Approach to an Agricultural Crisis in 528–526 BC"
+previous_item: "7813"
+---

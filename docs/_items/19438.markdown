@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19438"
+occurrence_id: "4534"
+short_title: "Kottsieper 2002"
+author: "Kottsieper, Ingo"
+publication_year: "2002"
+title: "Zum aramäischen Text der \"Trilingue\" von Xanhos und ihrem historischen Hintergrand"
+pages: "209-243"
+editor: "Schaudig, Hanspeter"
+book: "Ex Mesopotamia et Syria Lux. Fs. Dietrich. AOAT 281 (Münster)"
+title: "Zum aramäischen Text der \"Trilingue\" von Xanhos und ihrem historischen Hintergrand"
+previous_item: "19441"
+---

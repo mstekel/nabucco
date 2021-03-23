@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16990"
+occurrence_id: "328"
+short_title: "Bouché-Leclercq 1963"
+author: "Bouché-Leclercq, Auguste "
+publication_year: "1963"
+title: "Histoire des Séleucides (323-64 av. J.-C.)"
+title: "Histoire des Séleucides (323-64 av. J.-C.)"
+previous_item: "16993"
+---

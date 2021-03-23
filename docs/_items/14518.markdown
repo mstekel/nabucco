@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "14518"
+occurrence_id: "3986"
+short_title: "WeOr 42/2 (2012), 135-152"
+author: "Matuszak, Jana"
+publication_year: "2012"
+title: "A New Version of the Babylonian Ritual Against the Evil Portended by a Lightning Strike (BM 42273)"
+volume_no_: "42/2"
+pages: "135-152"
+title: "A New Version of the Babylonian Ritual Against the Evil Portended by a Lightning Strike (BM 42273)"
+previous_item: "14521"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19111"
+occurrence_id: "4996"
+short_title: "Vallet 2001"
+author: "Vallet, Régis"
+publication_year: "2001"
+title: "Khafadjé ou les métamorphoses d´un quartier urbain au IIIe Millénaire"
+pages: "449-461"
+editor: "Breniquet, Catherine"
+book: "Études Mésopotamiennes, Fs. Huot (Paris)"
+title: "Khafadjé ou les métamorphoses d´un quartier urbain au IIIe Millénaire"
+previous_item: "19114"
+---

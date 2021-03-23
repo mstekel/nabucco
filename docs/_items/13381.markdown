@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13381"
+occurrence_id: "3871"
+short_title: "WOO 3 (2004), 87-99"
+author: "Rollinger, Robert"
+publication_year: "2004"
+title: "Von Griechenland nach Mesopotamien und zurück: Alte und neue Probleme bei der Beschäftigung mit Fragen des Kulturtransfers, von Kulturkontakten and interkultureller Kommunikation. Zu den Beziehungen zwischen Mesopotamien und Griechenland im ersten Jahrtau"
+volume_no_: "3"
+pages: "87-99"
+journal: "Wiener offene Orientalistik"
+title: "Von Griechenland nach Mesopotamien und zurück: Alte und neue Probleme bei der Beschäftigung mit Fragen des Kulturtransfers, von Kulturkontakten and interkultureller Kommunikation. Zu den Beziehungen zwischen Mesopotamien und Griechenland im ersten Jahrtau"
+previous_item: "13384"
+---

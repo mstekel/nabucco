@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14152"
+occurrence_id: "2015"
+short_title: "JA 11/9 (1917), 373-414"
+author: "Pognon, Henri"
+publication_year: "1917"
+title: "Notes lexicographiques et textes assyriens inédits"
+volume_no_: "11/9"
+pages: "373-414"
+journal: "Journal Asiatique"
+title: "Notes lexicographiques et textes assyriens inédits"
+previous_item: "14155"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20563"
+occurrence_id: "5035"
+short_title: "Rollinger 1996"
+author: "Rollinger, Robert"
+publication_year: "1996"
+title: "Altorientalische Motivik in der frühgriechischen Literatur am Beispiel der homerischen Epen. Elemente des Kampfes in der Ilias und in der altorientalischen Literatur"
+pages: "156-210"
+editor: "Ulf, Christoph"
+book: "Wege zur Genese griechischer Identität. Die Bedeutung der früharchaischen Zeit (Berlin)"
+title: "Altorientalische Motivik in der frühgriechischen Literatur am Beispiel der homerischen Epen. Elemente des Kampfes in der Ilias und in der altorientalischen Literatur"
+previous_item: "20566"
+---

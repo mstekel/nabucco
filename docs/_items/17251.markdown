@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17251"
+occurrence_id: "348"
+short_title: "Bury 1926"
+author: "Adcock, Frank E. "
+publication_year: "1926"
+title: "The Cambridge Ancient History IV. The Persian Empire and the West"
+title: "The Cambridge Ancient History IV. The Persian Empire and the West"
+previous_item: "17254"
+---

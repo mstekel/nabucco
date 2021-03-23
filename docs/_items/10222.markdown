@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10222"
+occurrence_id: "1864"
+short_title: "DV 1 (1973), 65-77 (Russ., Engl. Summary, 225-227)"
+author: "Dandamayev, Muhammed A."
+publication_year: "1973"
+title: "The role and functions of thetamkārū in Babylonia in the Second and first Millennia B.C."
+volume_no_: "1"
+pages: "65-77"
+journal: "Drevnij Vostok"
+title: "The role and functions of thetamkārū in Babylonia in the Second and first Millennia B.C."
+previous_item: "10225"
+---

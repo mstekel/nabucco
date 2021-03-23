@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18157"
+occurrence_id: "377"
+short_title: "David 1927"
+author: "David, Martin "
+publication_year: "1927"
+title: "Die Adoption im altbabylonischen Recht"
+title: "Die Adoption im altbabylonischen Recht"
+previous_item: "18160"
+---

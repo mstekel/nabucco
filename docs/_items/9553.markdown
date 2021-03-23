@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9553"
+occurrence_id: "1278"
+short_title: "AION 54 (1994), 425-437"
+author: "Funck, Bernd"
+publication_year: "1994"
+title: "Famigile scribali ed imprenditoriali nella Babilonia achemenide: la famiglia Bēl-etēru"
+volume_no_: "54"
+pages: "425-437"
+journal: "Annali dell'Istituto Orientale di Napoli"
+title: "Famigile scribali ed imprenditoriali nella Babilonia achemenide: la famiglia Bēl-etēru"
+previous_item: "9556"
+---

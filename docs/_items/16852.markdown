@@ -1,0 +1,12 @@
+---
+layout: "bibliography"
+slug: "16852"
+occurrence_id: "194"
+short_title: "Wunsch 1993"
+author: "Wunsch, Cornelia "
+publication_year: "1993"
+title: "Die Urkunden des babylonischen Geschäftsmannes Iddin-Marduk. Zum Handel mit Naturalien im 6. Jahrhundert v.Chr., CM 3a and 3b (Groningen)"
+related_objects: "7638"
+title: "Die Urkunden des babylonischen Geschäftsmannes Iddin-Marduk. Zum Handel mit Naturalien im 6. Jahrhundert v.Chr., CM 3a and 3b (Groningen)"
+previous_item: "16855"
+---

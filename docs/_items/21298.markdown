@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "21298"
+occurrence_id: "4543"
+short_title: "Eph'al 1968"
+author: "Eph'al, Israel"
+publication_year: "1968"
+title: "Nebukadnezar"
+pages: "733-738"
+book: "Enzyklopedia Mikra'it 5"
+title: "Nebukadnezar"
+previous_item: "21301"
+---

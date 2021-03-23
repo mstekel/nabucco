@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14137"
+occurrence_id: "1935"
+short_title: "Iran 37 (1999), 45-48"
+author: "Finkel, Irving L."
+publication_year: "1999"
+title: "Game Boards and other Incised Graffiti at Persepolis"
+volume_no_: "37"
+pages: "45-48"
+journal: "Iran. Journal of the British Institute of Persian Studies"
+title: "Game Boards and other Incised Graffiti at Persepolis"
+previous_item: "14140"
+---

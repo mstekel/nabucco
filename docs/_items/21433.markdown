@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "21433"
+occurrence_id: "4158"
+short_title: "Kuhrt 2014"
+author: "Kuhrt, Amélie"
+publication_year: "2014"
+title: "State Communications in the Persian Empire"
+pages: "112-140"
+editor: "Radner, Karen"
+title: "State Communications in the Persian Empire"
+previous_item: "21436"
+---

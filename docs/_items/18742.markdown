@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "18742"
+occurrence_id: "4129"
+short_title: "Sachs 1976"
+author: "Sachs, Abraham J."
+publication_year: "1976"
+title: "The Latest Datable Cuneiform Tablets"
+pages: "379-398"
+editor: "Eichler, Barry , L."
+title: "The Latest Datable Cuneiform Tablets"
+previous_item: "18745"
+---

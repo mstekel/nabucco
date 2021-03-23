@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "15628"
+occurrence_id: "3939"
+short_title: "JAOS 134/2 (2014), 315-318"
+author: "Foster, Benjamin R."
+publication_year: "2014"
+title: "Rv. U. Steinert, Aspekte des Menschseins im Alten Mesopotamien: Eine Studie zu Person und Identität im 2. und 1. Jt. v. Chr."
+volume_no_: "134/2"
+pages: "315-318"
+title: "Rv. U. Steinert, Aspekte des Menschseins im Alten Mesopotamien: Eine Studie zu Person und Identität im 2. und 1. Jt. v. Chr."
+previous_item: "15631"
+---

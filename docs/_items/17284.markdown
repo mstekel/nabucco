@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17284"
+occurrence_id: "548"
+short_title: "Ravn 1942"
+author: "Ravn, Otto E. "
+publication_year: "1942"
+title: "Herodotus' Description of Babylon"
+title: "Herodotus' Description of Babylon"
+previous_item: "17287"
+---

@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "15910"
+occurrence_id: "2437"
+short_title: "NABU 1987/114"
+author: "Vallat, François"
+publication_year: "1994"
+title: "Le pseudo pronom personnel *kaš en élamite achéménide"
+volume_no_: "114"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Le pseudo pronom personnel *kaš en élamite achéménide"
+previous_item: "15913"
+---

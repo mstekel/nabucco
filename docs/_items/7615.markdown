@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7615"
+occurrence_id: "2925"
+short_title: "Or 69 (2000), 174-179"
+author: "Oelsner, Joachim"
+publication_year: "2000"
+title: "Rv. F. Joannès, Les tablettes néo-babyloniennes de la Bodleian Library conservées à l´Ashmolean Museum (OECT XII, 1990)"
+volume_no_: "69"
+pages: "174-179"
+journal: "Orientalia"
+title: "Rv. F. Joannès, Les tablettes néo-babyloniennes de la Bodleian Library conservées à l´Ashmolean Museum (OECT XII, 1990)"
+previous_item: "7618"
+---

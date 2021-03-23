@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18607"
+occurrence_id: "4514"
+short_title: "Hunger 1999"
+author: "Hunger, Hermann"
+publication_year: "1999"
+title: "Planetenstellungen bei der Geburt"
+pages: "229-239"
+editor: "Böck, Barbara"
+book: "Munuscula Mesopotamica, Fs. Renger, AOAT 267 (Münster)"
+title: "Planetenstellungen bei der Geburt"
+previous_item: "18610"
+---

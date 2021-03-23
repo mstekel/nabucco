@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12406"
+occurrence_id: "1625"
+short_title: "Bib 36 (1955), 423-435"
+author: "Schaumberger, Johann"
+publication_year: "1955"
+title: "Die neue Seleukidenliste BM 35603 und die makkabäische Chronologie"
+volume_no_: "36"
+pages: "423-435"
+journal: "Biblica"
+title: "Die neue Seleukidenliste BM 35603 und die makkabäische Chronologie"
+previous_item: "12409"
+---

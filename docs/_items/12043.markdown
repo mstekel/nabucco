@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "12043"
+occurrence_id: "2673"
+short_title: "NABU 2005/26"
+author: "Zadok, Ran"
+title: "Borsippean Notes"
+volume_no_: "26"
+publication_year: "2005"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Borsippean Notes"
+previous_item: "12046"
+---

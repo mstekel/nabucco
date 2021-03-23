@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10633"
+occurrence_id: "227"
+short_title: "Peat, Iraq 45"
+author: "Peat, Jerome A."
+publication_year: "1983"
+title: "hanšu Land and the Rab hanši"
+volume_no_: "45"
+pages: "124-27"
+journal: "Iraq"
+title: "hanšu Land and the Rab hanši"
+previous_item: "10636"
+---

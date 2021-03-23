@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16936"
+occurrence_id: "779"
+short_title: "Eilers 1940"
+author: "Eilers, Wilhelm "
+publication_year: "1940"
+title: "Iranische Beamtennamen in der keilschriftlichen Überlieferung, Teil I (Abhandlungen für die Kunde des Morgenlandes 25/V, Leipzig )"
+title: "Iranische Beamtennamen in der keilschriftlichen Überlieferung, Teil I (Abhandlungen für die Kunde des Morgenlandes 25/V, Leipzig )"
+previous_item: "16939"
+---

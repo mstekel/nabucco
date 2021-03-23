@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21823"
+occurrence_id: "5137"
+short_title: "Gabbay 2013"
+author: "Gabbay, Uri"
+publication_year: "2013"
+title: "The Performance of Emesal Prayers within the Regular Temple Cult: Content and Ritual Setting"
+pages: "103-121"
+editor: "Löhnert, Anne "
+book: "Tempel im Alten Orient. 7. Internationales Colloquium der Deutschen Orient-Gesellschaft 11.-13. Oktober 2009, München, Colloquien der Deutschen Orient-Gesellschaft (Wiesbaden)"
+title: "The Performance of Emesal Prayers within the Regular Temple Cult: Content and Ritual Setting"
+previous_item: "21826"
+---

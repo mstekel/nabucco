@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11035"
+occurrence_id: "3253"
+short_title: "The Academy 34 (1888), 107-108"
+author: "Pinches, Theophilus G."
+publication_year: "1888"
+title: "A Contract-Tablet of the Tenth Year of Darius"
+volume_no_: "34"
+pages: "107-108"
+journal: "The Academy"
+title: "A Contract-Tablet of the Tenth Year of Darius"
+previous_item: "11038"
+---

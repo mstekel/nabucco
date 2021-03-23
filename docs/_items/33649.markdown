@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33649"
+place_id: "691"
+parent_id: "40"
+place_name: "Zamamē"
+title: "Zamamē"
+previous_item: "33652"
+---

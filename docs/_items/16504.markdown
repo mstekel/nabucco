@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16504"
+occurrence_id: "489"
+short_title: "Lafont 1997"
+author: "Lafont, Sophie "
+publication_year: "1997"
+title: "Jurer et maudire: pratiques politiques et usages juridiques du serment dans le Proche-Orient ancien. Actes de la table ronde organisée par Francis Joannès et Sophie Lafont"
+title: "Jurer et maudire: pratiques politiques et usages juridiques du serment dans le Proche-Orient ancien. Actes de la table ronde organisée par Francis Joannès et Sophie Lafont"
+previous_item: "16507"
+---

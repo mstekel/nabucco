@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "9250"
+occurrence_id: "2668"
+short_title: "NABU 2004/74"
+author: "Gehlken, Erlend"
+title: "\"maharu in spB Wirtschaftstexten\"."
+volume_no_: "74"
+publication_year: "2004"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "\"maharu in spB Wirtschaftstexten\"."
+previous_item: "9253"
+---

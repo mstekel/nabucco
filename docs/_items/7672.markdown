@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7672"
+occurrence_id: "3231"
+short_title: "Sumer 35 (1979), 159-158"
+author: "Nasir, M."
+publication_year: "1979"
+title: "The so-called summer palace (Nebuchadnezzar´s life palace)"
+volume_no_: "35"
+pages: "158-159"
+journal: "Sumer"
+title: "The so-called summer palace (Nebuchadnezzar´s life palace)"
+previous_item: "7675"
+---

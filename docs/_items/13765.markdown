@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13765"
+occurrence_id: "2937"
+short_title: "Or 74 (2005), 434-436"
+author: "Rossi, Marco"
+publication_year: "2005"
+title: "Rv. G. Lindström. Uruk: Siegelabdrücke auf hellenistischen Tonbullen und Tontafeln. AUWE 20."
+volume_no_: "74"
+pages: "434-436"
+journal: "Orientalia"
+title: "Rv. G. Lindström. Uruk: Siegelabdrücke auf hellenistischen Tonbullen und Tontafeln. AUWE 20."
+previous_item: "13768"
+---

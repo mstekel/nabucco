@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16294"
+occurrence_id: "1487"
+short_title: "ArOr 47 (1979), 96-99"
+author: "Mayrhofer, Manfred"
+publication_year: "1979"
+title: "Archaismus und Innovation. Eine grammatische Unterscheidung in Keilschrift-Paralleltexten aus achämenidischer Zeit"
+volume_no_: "47"
+pages: "96-99"
+journal: "Archív Orientalí"
+title: "Archaismus und Innovation. Eine grammatische Unterscheidung in Keilschrift-Paralleltexten aus achämenidischer Zeit"
+previous_item: "16297"
+---

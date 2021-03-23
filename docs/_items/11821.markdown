@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11821"
+occurrence_id: "1479"
+short_title: "ArOr 4 (1932), 179-192"
+author: "Nicolò, Mariano, San"
+publication_year: "1932"
+title: "Parerga Babyloniaca III-V"
+volume_no_: "4"
+pages: "179-192"
+journal: "Archív Orientalí"
+title: "Parerga Babyloniaca III-V"
+previous_item: "11824"
+---

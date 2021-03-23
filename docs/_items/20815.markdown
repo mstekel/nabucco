@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "20815"
+occurrence_id: "4172"
+short_title: "George 2010"
+author: "George, Andrew, R."
+publication_year: "2010"
+title: "Xerxes and the Tower of Babel"
+pages: "471-480"
+editor: "Curtis, John"
+title: "Xerxes and the Tower of Babel"
+previous_item: "20818"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14482"
+occurrence_id: "3793"
+short_title: "Münchener Theologische Zeitschrift 17 (1966), 125-126"
+author: "Rehm, M."
+publication_year: "1966"
+title: "Rv. W. Dommershausen, Nabonid im Buche Daniel"
+volume_no_: "17"
+pages: "125-126"
+journal: "Münchener Theologische Zeitschrift"
+title: "Rv. W. Dommershausen, Nabonid im Buche Daniel"
+previous_item: "14485"
+---

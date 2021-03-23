@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20299"
+occurrence_id: "4730"
+short_title: "Casaburi 2000"
+author: "Casaburi, Maria C."
+publication_year: "2000"
+title: "Il testo LBAT 1526 e la continuità della tradizione astromantica in Mesopotamia"
+pages: "85-99"
+editor: "Graziani, Simonetta"
+book: "Studi sul vicino oriente antico dedicati alla memoria di Luigi Cagni (Napoli)"
+title: "Il testo LBAT 1526 e la continuità della tradizione astromantica in Mesopotamia"
+previous_item: "20302"
+---

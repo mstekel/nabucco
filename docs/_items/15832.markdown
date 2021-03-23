@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15832"
+occurrence_id: "2018"
+short_title: "JA 242 (1954), 297-310"
+author: "Benveniste, Émile"
+publication_year: "1954"
+title: "Éléments perses en Araméen d'Égypte"
+volume_no_: "242"
+pages: "297-310"
+journal: "Journal Asiatique"
+title: "Éléments perses en Araméen d'Égypte"
+previous_item: "15835"
+---

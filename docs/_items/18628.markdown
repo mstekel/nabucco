@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18628"
+occurrence_id: "4626"
+short_title: "Postgate 2001"
+author: "Postgate, John Nicholas"
+publication_year: "2001"
+title: "System and Style in Three Near Eastern Bureaucracies"
+pages: "181-194"
+editor: "Killen, J."
+book: "Economy and Politics in the Mycenaean Palace State, Cambridge Philological Society, Suppl. 27 (Cambridge)"
+title: "System and Style in Three Near Eastern Bureaucracies"
+previous_item: "18631"
+---

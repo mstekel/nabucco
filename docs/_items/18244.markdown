@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18244"
+occurrence_id: "907"
+short_title: "Weissbach 1904"
+author: "Weissbach, Franz H."
+publication_year: "1904"
+title: "Das Stadtbild von Babylon, AO V/4 (Leipzig)"
+title: "Das Stadtbild von Babylon, AO V/4 (Leipzig)"
+previous_item: "18247"
+---

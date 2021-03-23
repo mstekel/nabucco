@@ -1,0 +1,10 @@
+---
+layout: "glossary"
+slug: "35641"
+concept_id: "1237"
+label: "Will"
+hierarchy: "Content type"
+type: "172"
+title: "Will"
+previous_item: "35644"
+---

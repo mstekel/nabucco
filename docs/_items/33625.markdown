@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33625"
+place_id: "307"
+parent_id: "40"
+place_name: "Bīt-Marūdu"
+title: "Bīt-Marūdu"
+previous_item: "33628"
+---

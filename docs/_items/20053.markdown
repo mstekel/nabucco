@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20053"
+occurrence_id: "4521"
+short_title: "Klinkott 2002"
+author: "Klinkott, Hilmar"
+publication_year: "2002"
+title: "Die Funktion des Apadana am Beispiel der GründungsUrkunde von Susa"
+pages: "235-257"
+editor: "Luther, Andreas"
+book: "Grenzüberschreitungen. Formen des Kontakts zwischen Orient and Okzident im Altertum, Oriens et Occidens 3, (Stuttgart)"
+title: "Die Funktion des Apadana am Beispiel der GründungsUrkunde von Susa"
+previous_item: "20056"
+---

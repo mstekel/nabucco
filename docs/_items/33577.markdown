@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33577"
+place_id: "1315"
+parent_id: "61"
+place_name: "Tillē-ša-Nanâ"
+title: "Tillē-ša-Nanâ"
+previous_item: "33580"
+---

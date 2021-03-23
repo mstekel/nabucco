@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20728"
+occurrence_id: "4812"
+short_title: "Streck 2014"
+author: "Streck, Michael , P."
+publication_year: "2014"
+title: "Die Kasusflexion im Status rectus des Neu-und Spätbabylonischen"
+pages: "247–288"
+editor: "Neumann, Hans"
+book: "Babylonien und seine Nachbarn in neu- und spätbabylonischer Zeit Wissenschaftliches Kolloquium aus Anlass des 75. Geburtstags von Joachim Oelsner, Jena, 2. und 3. März 2007, Alter Orient und Altes Testament 369 (Münster)"
+title: "Die Kasusflexion im Status rectus des Neu-und Spätbabylonischen"
+previous_item: "20731"
+---

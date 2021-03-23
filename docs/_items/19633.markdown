@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19633"
+occurrence_id: "4471"
+short_title: "Schaudig 2002"
+author: "Schaudig, Hanspeter"
+publication_year: "2002"
+title: "Nabonid, der \"Gelehrte auf dem Königshron\". Omina, Synkretismen und die Ausdeutung von Tempel- und Götternamen als Mittel zur Wahrheitsfindung spätbabylonischer Religionspolitik"
+pages: "619-645"
+editor: "Schaudig, Hanspeter"
+book: "Ex Mesopotamia et Syria Lux. Fs. Dietrich. AOAT 281 (Münster)"
+title: "Nabonid, der \"Gelehrte auf dem Königshron\". Omina, Synkretismen und die Ausdeutung von Tempel- und Götternamen als Mittel zur Wahrheitsfindung spätbabylonischer Religionspolitik"
+previous_item: "19636"
+---

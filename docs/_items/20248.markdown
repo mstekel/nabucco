@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20248"
+occurrence_id: "4458"
+short_title: "Frame 1997"
+author: "Frame, Grant"
+publication_year: "1997"
+title: "The God Aššur in Babylonia"
+pages: "55-64"
+editor: "Whiting, Robert McCray"
+book: "Assyria 1995, Proceedings of the 10th Anniversary Symposium of the Neo-Assyrian Text Corpus Project Helsinki (Helsinki)"
+title: "The God Aššur in Babylonia"
+previous_item: "20251"
+---

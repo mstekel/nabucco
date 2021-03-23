@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13009"
+occurrence_id: "1869"
+short_title: "Folia Orientalia 17 (1976), 277-281"
+author: "Zawadzki, Stefan"
+publication_year: "1976"
+title: "Rv. M.A.Dandamayev, Rabstvo v Vavilonii (1974)."
+volume_no_: "17"
+pages: "277-281"
+journal: "Folia Orientalia"
+title: "Rv. M.A.Dandamayev, Rabstvo v Vavilonii (1974)."
+previous_item: "13012"
+---

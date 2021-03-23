@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "8701"
+occurrence_id: "2732"
+short_title: "NABU 2010/20"
+author: "Zadok, Ran"
+title: "On the prebendal career of Nabu-kin-zeri/Apla and his sons."
+volume_no_: "20"
+publication_year: "2010"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "On the prebendal career of Nabu-kin-zeri/Apla and his sons."
+previous_item: "8704"
+---

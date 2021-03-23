@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13600"
+occurrence_id: "2046"
+short_title: "JANER 9 (2009), 171-182."
+author: "Nielsen, John P."
+publication_year: "2009"
+title: "Trading on Knowledge: the Iddin-Papsukkal Kin Group in Southern Babylonia in the 7th and 6th Centuries B.C."
+volume_no_: "9"
+pages: "171-182"
+journal: "Journal of Ancient Near Eastern Religions"
+title: "Trading on Knowledge: the Iddin-Papsukkal Kin Group in Southern Babylonia in the 7th and 6th Centuries B.C."
+previous_item: "13603"
+---

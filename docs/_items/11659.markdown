@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11659"
+occurrence_id: "3612"
+short_title: "AHR 93 (1988), 123-124"
+author: "Foster, Benjamin R."
+publication_year: "1988"
+title: "Rv. M. Silver, Economic Structures of the Ancient Near East (1985)"
+volume_no_: "93"
+pages: "123-124"
+journal: "The American Historical Review"
+title: "Rv. M. Silver, Economic Structures of the Ancient Near East (1985)"
+previous_item: "11662"
+---

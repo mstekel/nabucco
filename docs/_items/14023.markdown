@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14023"
+occurrence_id: "1320"
+short_title: "Akkadica 123/2 (2002), 163-181"
+author: "Overlaet, Bruno"
+publication_year: "2002"
+title: "The Chalcolihic and Early Bronze Age in Pusht-i Kuh, Luristan (West-Iran), Chronology and Mesopotamian contacts"
+volume_no_: "123/7"
+pages: "163-181"
+journal: "Akkadica"
+title: "The Chalcolihic and Early Bronze Age in Pusht-i Kuh, Luristan (West-Iran), Chronology and Mesopotamian contacts"
+previous_item: "14026"
+---

@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "19906"
+occurrence_id: "4824"
+short_title: "Tanret 2000"
+author: "Tanret, Michel"
+publication_year: "2000"
+title: "Les animaux dans les archives d´Ur-Utu"
+pages: "55-70"
+book: "Topoi Supplément 2, Les animaux et les hommes dans le monde syro-mésopotamien aux époques historiques (Lyon)"
+title: "Les animaux dans les archives d´Ur-Utu"
+previous_item: "19909"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11677"
+occurrence_id: "3708"
+short_title: "Hebr 8 (1891/2), 134-135"
+author: "Pinches, Theophilus G."
+publication_year: "1891/2"
+title: "Old Persian Names in Babylonian Contracts"
+volume_no_: "8"
+pages: "134-135"
+journal: "Hebraica"
+title: "Old Persian Names in Babylonian Contracts"
+previous_item: "11680"
+---

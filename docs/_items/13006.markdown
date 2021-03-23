@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13006"
+occurrence_id: "1853"
+short_title: "DLZ 63 (1942), 896-897"
+author: "Meissner, Bruno"
+publication_year: "1942"
+title: "Rv. A. Falkenstein, Topographie von Uruk. I"
+volume_no_: "63"
+pages: "896-897"
+journal: "Deutsche Literatur-Zeitung"
+title: "Rv. A. Falkenstein, Topographie von Uruk. I"
+previous_item: "13009"
+---

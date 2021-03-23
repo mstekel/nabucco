@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13249"
+occurrence_id: "3161"
+short_title: "RT 17 (1895), 30-32."
+author: "Scheil, Vincent"
+publication_year: "1895"
+title: "Notes d'épigraphie et d'archéologie assyriennes XIII"
+volume_no_: "17"
+pages: "30-32"
+journal: "Recueil des travaux relatifs à la Philologie et à l’Archéologie Egyptiennes et Assyriennes"
+title: "Notes d'épigraphie et d'archéologie assyriennes XIII"
+previous_item: "13252"
+---

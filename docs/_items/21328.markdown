@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21328"
+occurrence_id: "4703"
+short_title: "Milano 1993-1997"
+author: "Milano, Lucio"
+publication_year: "1993-1997"
+title: "Mehl"
+pages: "22-31"
+editor: "Meissner, Bruno"
+book: "Reallexikon der Assyriologie 8 (1993-1997)"
+title: "Mehl"
+previous_item: "21331"
+---

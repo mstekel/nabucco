@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "9799"
+occurrence_id: "2605"
+short_title: "NABU 1999/104"
+author: "Jursa, Michael"
+title: "Der Schreiber des Sippar-Manuskripts der Šamaš-Hymne"
+volume_no_: "104"
+publication_year: "1999"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Der Schreiber des Sippar-Manuskripts der Šamaš-Hymne"
+previous_item: "9802"
+---

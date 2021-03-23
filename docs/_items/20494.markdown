@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20494"
+occurrence_id: "4667"
+short_title: "Kessler 1999a"
+author: "Kessler, Karlheinz"
+publication_year: "1999"
+title: "Bemerkungen zum Militärwesen im hellenistischen Babylonien"
+pages: "173-182"
+editor: "Ayán, J., J."
+book: "Ša ṭudu idū. Estudios sobre las culturas antiguas de Oriente y Egipto, Fs. Garrido Herrero (Madrid)"
+title: "Bemerkungen zum Militärwesen im hellenistischen Babylonien"
+previous_item: "20497"
+---

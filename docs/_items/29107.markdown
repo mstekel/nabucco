@@ -1,0 +1,12 @@
+---
+layout: "tablet"
+slug: "29107"
+object_id: "7074"
+museum_no_: "BM 37814 "
+period: "-"
+type_and_content: "Letters"
+archive: "Egibi/Nūr-Sîn"
+bibliography: "To be published by Johannes Hackl. "
+title: "BM 37814 "
+previous_item: "29110"
+---

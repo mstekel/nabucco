@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12616"
+occurrence_id: "2755"
+short_title: "NAPR 9 (1996), 22-31"
+author: "Rutten, Katrien"
+publication_year: "1996"
+title: "Mahmūdīyah 1990. II. Late Achaemenid and Early Hellenistic Pottery"
+volume_no_: "9"
+pages: "22-31"
+journal: "Northern Akkad Project Reports"
+title: "Mahmūdīyah 1990. II. Late Achaemenid and Early Hellenistic Pottery"
+previous_item: "12619"
+---

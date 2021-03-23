@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11662"
+occurrence_id: "3628"
+short_title: "BCSMS 31 (1996), 15-21"
+author: "Ruby, Jill"
+publication_year: "1996"
+title: "The Behistun Inscription and the Decipherment of Akkadian"
+volume_no_: "31"
+pages: "15-21"
+journal: "Bulletin of the Canadian Society for Mesopotamian Studies"
+title: "The Behistun Inscription and the Decipherment of Akkadian"
+previous_item: "11665"
+---

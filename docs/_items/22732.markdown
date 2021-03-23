@@ -1,0 +1,9 @@
+---
+layout: "archive"
+slug: "22732"
+archive_id: "409"
+archive_name: "Sîn-leqe-unninnī A"
+is_part_of: "Uruk"
+title: "Sîn-leqe-unninnī A"
+previous_item: "22735"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13492"
+occurrence_id: "1465"
+short_title: "ArOr 23 (1955), 315-316"
+author: "Matouš, Lubor"
+publication_year: "1955"
+title: "Rv. E.B. Smick, A Cylinder of Nebukadrezzar II"
+volume_no_: "23"
+pages: "315-316"
+journal: "Archív Orientalí"
+title: "Rv. E.B. Smick, A Cylinder of Nebukadrezzar II"
+previous_item: "13495"
+---

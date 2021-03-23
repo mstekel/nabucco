@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15982"
+occurrence_id: "2825"
+short_title: "OLZ 95 (2000), 409-412"
+author: "Geller, Mark J."
+publication_year: "2000"
+title: "Rv. A.L. Slotsky, The Bourse of Babylon. Market Quotations in the Astronomical Diaries of Babylonia (1997)"
+volume_no_: "95"
+pages: "409-412"
+journal: "Orientalistische Literaturzeitung"
+title: "Rv. A.L. Slotsky, The Bourse of Babylon. Market Quotations in the Astronomical Diaries of Babylonia (1997)"
+previous_item: "15985"
+---

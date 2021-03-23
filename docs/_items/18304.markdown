@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18304"
+occurrence_id: "485"
+short_title: "Kugler 1922"
+author: "Kugler, Franz X. "
+publication_year: "1922"
+title: "Von Moses bis Paulus. Forschungen zur Geschichte Israels nach biblischen und profangeschichtlichen insbesondere neuen keilinschriftlichen Quellen"
+title: "Von Moses bis Paulus. Forschungen zur Geschichte Israels nach biblischen und profangeschichtlichen insbesondere neuen keilinschriftlichen Quellen"
+previous_item: "18307"
+---

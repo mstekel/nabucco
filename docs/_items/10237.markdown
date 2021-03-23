@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10237"
+occurrence_id: "1944"
+short_title: "Iraq 13 (1951), 95-101"
+author: "Figulla, Hugo Heinrich M."
+publication_year: "1951"
+title: "Lawsuit Concerning a Sacrilegious heft at Erech"
+volume_no_: "13"
+pages: "95-101"
+journal: "Iraq"
+title: "Lawsuit Concerning a Sacrilegious heft at Erech"
+previous_item: "10240"
+---

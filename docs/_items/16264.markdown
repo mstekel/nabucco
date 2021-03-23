@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16264"
+occurrence_id: "1324"
+short_title: "Akkadica 34 (1983), 61"
+author: "Bennett, Crystal-M."
+publication_year: "1983"
+title: "A Cuneiform Tablet from Tawilan in Southern Jordan"
+volume_no_: "34"
+pages: "61"
+journal: "Akkadica"
+title: "A Cuneiform Tablet from Tawilan in Southern Jordan"
+previous_item: "16267"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10144"
+occurrence_id: "1443"
+short_title: "AOS 38 (1955), 77-97"
+author: "Cameron, George G."
+publication_year: "1955"
+title: "The Idea of History in the Ancient Near East (Ancient Persia: 1. Prologue - 2. theSetting - 3. \"Faher\" Cyrus and History Rewritten - 4. \"Huckster\" Darius and History Remade - 5. Return to Old Ideas)"
+volume_no_: "38"
+pages: "77-97"
+journal: "American Oriental Studies"
+title: "The Idea of History in the Ancient Near East (Ancient Persia: 1. Prologue - 2. theSetting - 3. \"Faher\" Cyrus and History Rewritten - 4. \"Huckster\" Darius and History Remade - 5. Return to Old Ideas)"
+previous_item: "10147"
+---

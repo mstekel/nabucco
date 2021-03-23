@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8410"
+occurrence_id: "1158"
+short_title: "AcAntHung 24 (1976 publ. 1979), 25-35"
+author: "Schmitt, Rüdiger"
+publication_year: "1976"
+title: "The Medo-Persian Names of Herodotus in the Light of the New Evidence from Persepolis"
+volume_no_: "24"
+pages: "25-35"
+journal: "Acta Antiqua Academiae Scientiarum Hungaricae"
+title: "The Medo-Persian Names of Herodotus in the Light of the New Evidence from Persepolis"
+previous_item: "8413"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8311"
+occurrence_id: "3654"
+short_title: "BSLP 77/2 (1982, publ. 1983), 359-360"
+author: "Bottéro, Jean"
+publication_year: "1982, publ. 1983"
+title: "Rv. E. Salonen, Neubabylonische Urkunden verschiedenen Inhalts, III"
+volume_no_: "77/2"
+pages: "359-360"
+journal: "Bulletin de la Société de Linguistique de Paris"
+title: "Rv. E. Salonen, Neubabylonische Urkunden verschiedenen Inhalts, III"
+previous_item: "8314"
+---

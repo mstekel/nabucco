@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16150"
+occurrence_id: "3732"
+short_title: "Journal des Médicines Cunéiformes 9 (2007), 16-22."
+author: "Finkel, Irving L."
+publication_year: "2007"
+title: "On busanu and di'u or why Nabonidus went to Tema"
+volume_no_: "9"
+pages: "16-22"
+journal: "Journal des Médicines Cunéiformes"
+title: "On busanu and di'u or why Nabonidus went to Tema"
+previous_item: "16153"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19918"
+occurrence_id: "4888"
+short_title: "Dandamayev 2009"
+author: "Dandamayev, Muhammed A."
+publication_year: "2009"
+title: "Ardiya, an Eanna Temple Prebendary."
+pages: "29-34"
+editor: "Millard, Alan R."
+book: "Homeland and Exile. Biblical and Ancient Near Eastern Studies in Honour of Bustenay Oded (Leiden and Boston)"
+title: "Ardiya, an Eanna Temple Prebendary."
+previous_item: "19921"
+---

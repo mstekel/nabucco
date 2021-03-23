@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13183"
+occurrence_id: "2804"
+short_title: "OLZ 79 (1984), 143-146"
+author: "Dandamayev, Muhammed A."
+publication_year: "1984"
+title: "Rv. G.J.P. McEwan, Priest and Temple in Hellenistic Babylonia (FAOS 4, 1981)"
+volume_no_: "79"
+pages: "143-146"
+journal: "Orientalistische Literaturzeitung"
+title: "Rv. G.J.P. McEwan, Priest and Temple in Hellenistic Babylonia (FAOS 4, 1981)"
+previous_item: "13186"
+---

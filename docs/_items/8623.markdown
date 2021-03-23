@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8623"
+occurrence_id: "2312"
+short_title: "JNES 42 (1983), 75-77"
+author: "Swiggers, Pierre"
+publication_year: "1983"
+title: "Rv. M.D. Coogan, West Semitic Personal Names in the Murašû Documents (HSM 7)"
+volume_no_: "42"
+pages: "75-77"
+journal: "Journal of Near Eastern Studies"
+title: "Rv. M.D. Coogan, West Semitic Personal Names in the Murašû Documents (HSM 7)"
+previous_item: "8626"
+---

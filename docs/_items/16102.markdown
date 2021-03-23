@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16102"
+occurrence_id: "3474"
+short_title: "ZA 83 (1993), 66-87"
+author: "Beaulieu, Paul-A."
+publication_year: "1993"
+title: "The Impact of Month-Lengths on the Neo-Babylonian Cultic Calendar"
+volume_no_: "83"
+pages: "66-87"
+journal: "Zeitschrift für Assyriologie"
+title: "The Impact of Month-Lengths on the Neo-Babylonian Cultic Calendar"
+previous_item: "16105"
+---

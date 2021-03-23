@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9910"
+occurrence_id: "3203"
+short_title: "Sprache 11 (1965), 93-121"
+author: "Mittelberger, Hermann"
+publication_year: "1965"
+title: "Zum Altpersischen"
+volume_no_: "11"
+pages: "93-121"
+journal: "Sprache"
+title: "Zum Altpersischen"
+previous_item: "9913"
+---

@@ -1,0 +1,12 @@
+---
+layout: "bibliography"
+slug: "18403"
+occurrence_id: "306"
+short_title: "AUWE 11"
+author: "Gehlken, Erlend "
+publication_year: "1996"
+title: "Uruk. Spätbabylonische Wirtschaftstexte aus dem Eanna-Archiv. Teil II. Texte verschiedenen Inhalts (AUWE 11)"
+related_objects: "5662"
+title: "Uruk. Spätbabylonische Wirtschaftstexte aus dem Eanna-Archiv. Teil II. Texte verschiedenen Inhalts (AUWE 11)"
+previous_item: "18406"
+---

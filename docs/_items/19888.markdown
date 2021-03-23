@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19888"
+occurrence_id: "4728"
+short_title: "Berktold 2005"
+author: "Berktold, Margareta M."
+publication_year: "2005"
+title: "Die Astronomischen Tagebücher - eine Quelle zur Frage von Kontinuität oder Wandel in Kult und Wirtschaft des achaimenidischen Babylon"
+pages: "105-152"
+editor: "Rollinger, Robert"
+book: "Von Sumer bis Homer, Festschrift für Manfred Schretter, AOAT 325 (Münster)"
+title: "Die Astronomischen Tagebücher - eine Quelle zur Frage von Kontinuität oder Wandel in Kult und Wirtschaft des achaimenidischen Babylon"
+previous_item: "19891"
+---

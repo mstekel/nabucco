@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20320"
+occurrence_id: "4842"
+short_title: "Dandamayev 1979"
+author: "Dandamayev, Muhammed A."
+publication_year: "1979"
+title: "State and Temple in Babylonia in the First Millennium B.C."
+pages: "589-596"
+editor: "Lipiński, Edward"
+book: "State and Temple Economy in the Ancient Near East II (Leuven)"
+title: "State and Temple in Babylonia in the First Millennium B.C."
+previous_item: "20323"
+---

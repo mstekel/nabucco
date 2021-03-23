@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12187"
+occurrence_id: "3450"
+short_title: "ZA 73 (1983 publ. 1984), 114-120"
+author: "Geller, Mark J."
+publication_year: "1983 publ. 1984"
+title: "More Graeco-Babylonica"
+volume_no_: "73"
+pages: "114-120"
+journal: "Zeitschrift für Assyriologie"
+title: "More Graeco-Babylonica"
+previous_item: "12190"
+---

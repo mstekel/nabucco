@@ -1,0 +1,12 @@
+---
+layout: "bibliography"
+slug: "17098"
+occurrence_id: "1"
+short_title: "EE"
+author: "Stolper, Matthew W. "
+publication_year: "1985"
+title: "Entrepreneurs and Empire. The Murašû Archive, the Murašû Firm, and Persian Rule in Babylonia, PIHANS 54 (Istanbul)"
+related_objects: "856"
+title: "Entrepreneurs and Empire. The Murašû Archive, the Murašû Firm, and Persian Rule in Babylonia, PIHANS 54 (Istanbul)"
+previous_item: "17101"
+---

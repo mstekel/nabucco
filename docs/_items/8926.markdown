@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "8926"
+occurrence_id: "3943"
+short_title: "JAOS 135/2 (2015), 363-365"
+author: "Fried, Lisbeth S."
+publication_year: "2015"
+title: "Rv. E.S. Gerstenberger (translated by S.S. Schatzmann), Israel in the Persian Period: The Fifth and Fourth Centuries"
+volume_no_: "135/2"
+pages: "363-365"
+title: "Rv. E.S. Gerstenberger (translated by S.S. Schatzmann), Israel in the Persian Period: The Fifth and Fourth Centuries"
+previous_item: "8929"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15607"
+occurrence_id: "3827"
+short_title: "Phoenix 38/2 (1992), 30-45"
+author: "van Driel, Govert"
+publication_year: "1992"
+title: "Uit het leven van een Nieuw-Babylonische handelaar"
+volume_no_: "38/2"
+pages: "30-45"
+journal: "Phoenix"
+title: "Uit het leven van een Nieuw-Babylonische handelaar"
+previous_item: "15610"
+---

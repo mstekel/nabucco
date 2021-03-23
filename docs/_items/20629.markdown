@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20629"
+occurrence_id: "4283"
+short_title: "Lewis 1994"
+author: "Lewis, David M."
+publication_year: "1994"
+title: "The Persepolis Tablets: speech, seal and script"
+pages: "17-32"
+editor: "Bowman, Alan, K."
+book: "Literacy and Power in the Ancient world (Cambridge)"
+title: "The Persepolis Tablets: speech, seal and script"
+previous_item: "20632"
+---

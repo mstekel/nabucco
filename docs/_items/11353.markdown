@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11353"
+occurrence_id: "1962"
+short_title: "Iraq 41 (1979), 55-73"
+author: "Fales, Frederick Mario"
+publication_year: "1979"
+title: "A List of Assyrian and West Semitic Women´s Names"
+volume_no_: "41"
+pages: "55-73"
+journal: "Iraq"
+title: "A List of Assyrian and West Semitic Women´s Names"
+previous_item: "11356"
+---

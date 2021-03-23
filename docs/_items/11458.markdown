@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "11458"
+occurrence_id: "2527"
+short_title: "NABU 1995/5"
+author: "Zadok, Ran"
+title: "Ampihābi"
+volume_no_: "5"
+publication_year: "1995"
+journal: "Nouvelles Assyriologiques Brèves et Utilitaires"
+title: "Ampihābi"
+previous_item: "11461"
+---

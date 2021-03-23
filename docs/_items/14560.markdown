@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "14560"
+occurrence_id: "1204"
+short_title: "AfO 24 (1973), 138-140"
+author: "Edzard, Dietz , O."
+publication_year: "1973"
+title: "Rv. D. Cocquerillat, Palmeraies et cultures de l´Éanna d´Uruk (559-520)"
+volume_no_: "24"
+pages: "138-140"
+journal: "Archiv für Orientforschung"
+title: "Rv. D. Cocquerillat, Palmeraies et cultures de l´Éanna d´Uruk (559-520)"
+previous_item: "14563"
+---

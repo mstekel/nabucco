@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18067"
+occurrence_id: "607"
+short_title: "UE X"
+author: "Legrain, Léon "
+publication_year: "1951"
+title: "Ur Excavations X: Seal cylinders"
+title: "Ur Excavations X: Seal cylinders"
+previous_item: "18070"
+---

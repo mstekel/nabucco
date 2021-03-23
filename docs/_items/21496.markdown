@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21496"
+occurrence_id: "4496"
+short_title: "Koch 2002"
+author: "Koch, Heidemarie"
+publication_year: "2002"
+title: "Iranische Religion im achaimenidischen Zeitalter"
+pages: "11-26"
+editor: "Kratz, Reinhard , G."
+book: "Religion und Religionskontakte im Zeitalter der Achämeniden, Veröffentlichungen der Wissenschaftlichen Gesellschaft für Theologie 22 (Gütersloh)"
+title: "Iranische Religion im achaimenidischen Zeitalter"
+previous_item: "21499"
+---

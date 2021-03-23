@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "7975"
+occurrence_id: "1844"
+short_title: "DAFI 4 (1974), 171-180"
+author: "Vallat, François"
+publication_year: "1974"
+title: "L´inscription trilingue de Xerxes à la porte de Darius"
+volume_no_: "4"
+pages: "171-180"
+journal: "Cahiers de la Délégation Archéologique Française en Iran"
+title: "L´inscription trilingue de Xerxes à la porte de Darius"
+previous_item: "7978"
+---

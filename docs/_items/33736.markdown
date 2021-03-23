@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33736"
+place_id: "310"
+parent_id: "40"
+place_name: "Bīt-Mūrānu"
+title: "Bīt-Mūrānu"
+previous_item: "33739"
+---

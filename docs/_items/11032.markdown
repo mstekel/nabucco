@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11032"
+occurrence_id: "3237"
+short_title: "Sumer 44 (1985-1986, publ. 1987), 47-54"
+author: "Arnaud, Daniel"
+publication_year: "1985-1986, publ. 1987"
+title: "The Texts of the 10th Archaeological Campaign at Tell Senkereh/Larsa (Autumn 1983)"
+volume_no_: "44"
+pages: "47-54"
+journal: "Sumer"
+title: "The Texts of the 10th Archaeological Campaign at Tell Senkereh/Larsa (Autumn 1983)"
+previous_item: "11035"
+---

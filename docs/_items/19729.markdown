@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19729"
+occurrence_id: "4983"
+short_title: "Harper 2000"
+author: "Harper, Prudence O."
+publication_year: "2000"
+title: "Sasanian Silver Vessels: the Formation and Study of Early Museum Collections"
+pages: "46-56"
+editor: "Curtis, John"
+book: "Mesopotamia and Iran in the Parthian and Sasanian Periods (London)"
+title: "Sasanian Silver Vessels: the Formation and Study of Early Museum Collections"
+previous_item: "19732"
+---

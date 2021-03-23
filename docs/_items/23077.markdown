@@ -1,0 +1,9 @@
+---
+layout: "archive"
+slug: "23077"
+archive_id: "346"
+archive_name: "Šangû-Ištar-Bābili"
+is_part_of: "Sippar"
+title: "Šangû-Ištar-Bābili"
+previous_item: "23080"
+---

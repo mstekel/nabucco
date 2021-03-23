@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9847"
+occurrence_id: "2862"
+short_title: "Or 28 (1959), 130-140"
+author: "Moran, William L."
+publication_year: "1959"
+title: "Notes on the New Nabonidus Inscriptions"
+volume_no_: "28"
+pages: "130-140"
+journal: "Orientalia"
+title: "Notes on the New Nabonidus Inscriptions"
+previous_item: "9850"
+---

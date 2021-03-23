@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9364"
+occurrence_id: "3282"
+short_title: "UCP 9/3 (1928), 269-277"
+author: "Lutz, Henry F."
+publication_year: "1928"
+title: "An Agreement between a Babylonian Feudal Lord and His Retainer in the Reign of Darius II,"
+volume_no_: "9/III"
+pages: "269-277"
+journal: "University of California Publications"
+title: "An Agreement between a Babylonian Feudal Lord and His Retainer in the Reign of Darius II,"
+previous_item: "9367"
+---

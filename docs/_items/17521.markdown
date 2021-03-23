@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17521"
+occurrence_id: "423"
+short_title: "Graslin 2009"
+author: "Graslin, Laetitia "
+publication_year: "2009"
+title: "Les échanges à longue distance en Mésopotamie au Ier millénaire. Une approche économique."
+title: "Les échanges à longue distance en Mésopotamie au Ier millénaire. Une approche économique."
+previous_item: "17524"
+---

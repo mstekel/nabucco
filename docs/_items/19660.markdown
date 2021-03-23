@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19660"
+occurrence_id: "4615"
+short_title: "Steele 2002a"
+author: "Steele, John M."
+publication_year: "2002"
+title: "A Simple Function for the Length of theSaros in Babylonian Astronomy"
+pages: "405-420"
+editor: "Imhausen, A."
+book: "Under One Sky. AOAT 297 (Münster)"
+title: "A Simple Function for the Length of theSaros in Babylonian Astronomy"
+previous_item: "19663"
+---

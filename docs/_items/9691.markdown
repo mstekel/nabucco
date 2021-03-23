@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9691"
+occurrence_id: "2023"
+short_title: "JA 246 (1958), 49-66"
+author: "Benveniste, Émile"
+publication_year: "1958"
+title: "Notes sur les tablettes élamites de Persépolis"
+volume_no_: "246"
+pages: "49-66"
+journal: "Journal Asiatique"
+title: "Notes sur les tablettes élamites de Persépolis"
+previous_item: "9694"
+---

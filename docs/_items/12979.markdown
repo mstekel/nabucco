@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12979"
+occurrence_id: "1708"
+short_title: "BiOr 56 (1999), 42-46"
+author: "Beaulieu, Paul-A."
+publication_year: "1999"
+title: "Rv. M.J. Geller and H. Maehler (eds), Legal Documents of the Hellenistic World (London 1995)"
+volume_no_: "56"
+pages: "42-46"
+journal: "Bibliotheca Orientalis"
+title: "Rv. M.J. Geller and H. Maehler (eds), Legal Documents of the Hellenistic World (London 1995)"
+previous_item: "12982"
+---

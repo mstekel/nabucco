@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10996"
+occurrence_id: "3045"
+short_title: "RA 68 (1974 publ. 1975), 149-156"
+author: "Lambert, Wilfred G."
+publication_year: "1974 publ. 1975"
+title: "A Piece of Esoteric Babylonian Learning"
+volume_no_: "68"
+pages: "149-156"
+journal: "Revue d'Assyriologie et d'Archéologie Orientale"
+title: "A Piece of Esoteric Babylonian Learning"
+previous_item: "10999"
+---

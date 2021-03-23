@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19876"
+occurrence_id: "4664"
+short_title: "Kessler 1997"
+author: "Kessler, Karlheinz"
+publication_year: "1997"
+title: "«Royal Roads» and other Questions of the Neo-Assyrian Communication System"
+pages: "129-136"
+editor: "Whiting, Robert McCray"
+book: "Assyria 1995, Proceedings of the 10th Anniversary Symposium of the Neo-Assyrian Text Corpus Project Helsinki (Helsinki)"
+title: "«Royal Roads» and other Questions of the Neo-Assyrian Communication System"
+previous_item: "19879"
+---

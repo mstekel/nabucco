@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19342"
+occurrence_id: "5125"
+short_title: "Mitchell and Joyce 1970"
+author: "Joyce, Ray"
+publication_year: "1970"
+title: "The Musical Instruments in Nebuchadrezzar´s Orchestra"
+pages: "19-27"
+editor: "Wiseman, Donald J."
+book: "Notes on Some Problems in the Book of Daniel (London)"
+title: "The Musical Instruments in Nebuchadrezzar´s Orchestra"
+previous_item: "19345"
+---

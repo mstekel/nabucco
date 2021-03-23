@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19999"
+occurrence_id: "4232"
+short_title: "Knopf 1939"
+author: "Knopf, Charles S."
+publication_year: "1939"
+title: "Some Ancient Records from Babylonia"
+pages: "231- 232 and pl.XIX-XXVII"
+editor: "Brand, Donald, D."
+book: "So Live the works of Man, Seventieth Anniversary Volume Honouring Edgar Lee Hewett (Albuquerque)"
+title: "Some Ancient Records from Babylonia"
+previous_item: "20002"
+---

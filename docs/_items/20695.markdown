@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "20695"
+occurrence_id: "4636"
+short_title: "Greenfield 1987"
+author: "Greenfield, Jonas C."
+publication_year: "1987"
+title: "Some Neo-Babylonian Women"
+pages: "75-80"
+editor: "Durand, Jean-Marie"
+book: "La femme dans le Proche-Orient antique, RAI 33 (Paris)"
+title: "Some Neo-Babylonian Women"
+previous_item: "20698"
+---

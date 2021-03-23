@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "16327"
+occurrence_id: "1664"
+short_title: "BiOr 37 (1980 publ. 1981), 70-71"
+author: "van Espen, Paula"
+publication_year: "1980 publ. 1981"
+title: "Rv. E. Salonen, Neubabylonische Urkunden verschiedenen Inhalts, II"
+volume_no_: "37"
+pages: "70-71"
+journal: "Bibliotheca Orientalis"
+title: "Rv. E. Salonen, Neubabylonische Urkunden verschiedenen Inhalts, II"
+previous_item: "16330"
+---

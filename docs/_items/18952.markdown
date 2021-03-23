@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "18952"
+occurrence_id: "4146"
+short_title: "Kuhrt 1992"
+author: "Kuhrt, Amélie"
+publication_year: "1992"
+title: "The Governor of Egypt under Cambyses: Strassmaier CAMB: 344"
+title: "The Governor of Egypt under Cambyses: Strassmaier CAMB: 344"
+previous_item: "18955"
+---

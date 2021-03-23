@@ -1,0 +1,15 @@
+---
+layout: "bibliography"
+slug: "20803"
+occurrence_id: "173"
+short_title: "Stolper 1986"
+author: "Stolper, Matthew W."
+publication_year: "1986"
+title: "A Neo-Babylonian Text from the Reign of Hallušu"
+pages: "235-241"
+editor: "Vallat, François"
+related_objects: "5781"
+book: "Fragmenta historiae Elamicae. Mélanges offerts à M.J. Steve"
+title: "A Neo-Babylonian Text from the Reign of Hallušu"
+previous_item: "20806"
+---

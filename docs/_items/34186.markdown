@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34186"
+place_id: "418"
+parent_id: "40"
+place_name: "Esaggilija"
+title: "Esaggilija"
+previous_item: "34189"
+---

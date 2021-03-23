@@ -1,0 +1,15 @@
+---
+layout: "bibliography"
+slug: "15598"
+occurrence_id: "3779"
+short_title: "Kaskal 6 (2009), 215-222"
+author: "Zawadzki, Stefan"
+publication_year: "2009"
+title: "A Document concerning theSale of an Ass from Persian Sippar."
+volume_no_: "6"
+pages: "215-222"
+journal: "KASKAL. Rivista di storia, ambiente e culture del
+Vicino Oriente Antico"
+title: "A Document concerning theSale of an Ass from Persian Sippar."
+previous_item: "15601"
+---

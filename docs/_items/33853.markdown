@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33853"
+place_id: "409"
+parent_id: "40"
+place_name: "Dūr-Tabbiru"
+title: "Dūr-Tabbiru"
+previous_item: "33856"
+---

@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "10129"
+occurrence_id: "1361"
+short_title: "AMIT 33 (2001), 191-201"
+author: "Schmitt, Rüdiger"
+publication_year: "2001"
+title: "Eine weitere Alabaster-Vase mit Artaxerxes-Inschrift"
+volume_no_: "33"
+pages: "191-201"
+journal: "Archäologische Mitteilungen aus Iran and Turan"
+title: "Eine weitere Alabaster-Vase mit Artaxerxes-Inschrift"
+previous_item: "10132"
+---

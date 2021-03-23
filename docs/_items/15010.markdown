@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15010"
+occurrence_id: "3634"
+short_title: "Bijdragen 27 (1966), 463-464"
+author: "Grootens, P."
+publication_year: "1966"
+title: "Rv. A. Bausani, Die Perser. Von den Anfängen bis zur Gegenwart"
+volume_no_: "27"
+pages: "463-464"
+journal: "Bijdragen"
+title: "Rv. A. Bausani, Die Perser. Von den Anfängen bis zur Gegenwart"
+previous_item: "15013"
+---

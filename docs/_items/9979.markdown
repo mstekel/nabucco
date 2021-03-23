@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "9979"
+occurrence_id: "3577"
+short_title: "ZPE 47 (1982), 51-70"
+author: "Sherwin-White, Susan"
+publication_year: "1982"
+title: "A Greek Ostrakon from Babylon of the Early third Century B.C."
+volume_no_: "47"
+pages: "51-70"
+journal: "Zeitschrift für Papyrologie und Epigraphik"
+title: "A Greek Ostrakon from Babylon of the Early third Century B.C."
+previous_item: "9982"
+---

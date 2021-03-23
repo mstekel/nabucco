@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8806"
+occurrence_id: "3297"
+short_title: "Vistes in Astronomy 1 (1955), 47-51"
+author: "Neugebauer, Otto"
+publication_year: "1955"
+title: "The Egyptian \"Decans\""
+volume_no_: "1"
+pages: "47-51"
+journal: "Vistas in Astronomy"
+title: "The Egyptian \"Decans\""
+previous_item: "8809"
+---

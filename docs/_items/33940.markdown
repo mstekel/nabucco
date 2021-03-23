@@ -1,0 +1,10 @@
+---
+layout: "place"
+slug: "33940"
+place_id: "28"
+parent_id: "40"
+place_name: "Bit Gira'"
+related_objects: "40"
+title: "Bit Gira'"
+previous_item: "33943"
+---

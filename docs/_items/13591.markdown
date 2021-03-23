@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13591"
+occurrence_id: "1998"
+short_title: "Iraq 64 (2002), 69-77"
+author: "Moore, Andrew M.T."
+publication_year: "2002"
+title: "Pottery-kiln sites at al 'Ubaid and Eridu"
+volume_no_: "64"
+pages: "69-77"
+journal: "Iraq"
+title: "Pottery-kiln sites at al 'Ubaid and Eridu"
+previous_item: "13594"
+---

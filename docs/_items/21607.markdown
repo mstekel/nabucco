@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "21607"
+occurrence_id: "5088"
+short_title: "Méry and Schneider 2001"
+author: "Schneider, Gerwulf"
+publication_year: "2001"
+title: "De l´île de Dalma au Ra's al-Jinz: les céramiques mésopotamiennes dans la péninsule d´Oman aux Ve-IIIe Millénaires"
+pages: "363-375"
+editor: "Breniquet, Catherine"
+book: "Études Mésopotamiennes, Fs. Huot (Paris)"
+title: "De l´île de Dalma au Ra's al-Jinz: les céramiques mésopotamiennes dans la péninsule d´Oman aux Ve-IIIe Millénaires"
+previous_item: "21610"
+---

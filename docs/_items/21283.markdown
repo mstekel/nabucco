@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "21283"
+occurrence_id: "4463"
+short_title: "Colbow 2000"
+author: "Colbow, Gudrun"
+publication_year: "2000"
+title: "Les combats d´animaux en Mésopotamie à l´époque paléo-babylonienne"
+pages: "383-398"
+book: "Topoi Supplément 2, Les animaux et les hommes dans le monde syro-mésopotamien aux époques historiques (Lyon)"
+title: "Les combats d´animaux en Mésopotamie à l´époque paléo-babylonienne"
+previous_item: "21286"
+---

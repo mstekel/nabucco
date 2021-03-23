@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18700"
+occurrence_id: "5010"
+short_title: "Frye 2000"
+author: "Frye, Richard N."
+publication_year: "2000"
+title: "Parthian and Sasanian History of Iran"
+pages: "17-22"
+editor: "Curtis, John"
+book: "Mesopotamia and Iran in the Parthian and Sasanian Periods (London)"
+title: "Parthian and Sasanian History of Iran"
+previous_item: "18703"
+---

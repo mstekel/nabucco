@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "34390"
+place_id: "136"
+parent_id: "40"
+place_name: "Ālu-ša-Nērebāja"
+title: "Ālu-ša-Nērebāja"
+previous_item: "34393"
+---

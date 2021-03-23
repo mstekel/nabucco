@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "21220"
+occurrence_id: "4125"
+short_title: "Bongenaar 2000b"
+author: "Bongenaar, A.C.V.M."
+publication_year: "2000"
+title: "Private Archives in Neo-Babylonian Sippar and their Institutional Connections"
+pages: "73-94"
+editor: "Bongenaar, A.C.V.M."
+title: "Private Archives in Neo-Babylonian Sippar and their Institutional Connections"
+previous_item: "21223"
+---

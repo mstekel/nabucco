@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13588"
+occurrence_id: "1982"
+short_title: "Iraq 58 (1996), 191-205"
+author: "Finkel, Irving L."
+publication_year: "1996"
+title: "Tablets for Lord Amherst"
+volume_no_: "58"
+pages: "191-205"
+journal: "Iraq"
+title: "Tablets for Lord Amherst"
+previous_item: "13591"
+---

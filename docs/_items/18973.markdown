@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "18973"
+occurrence_id: "4259"
+short_title: "Wunsch and Magdalene 2014"
+author: "Wunsch, Cornelia"
+publication_year: "2014"
+title: "Freedom and Dependency: Neo-Babylonian Manumission Documents with Oblation and Service Obligation"
+pages: "337-346"
+editor: "Jones, Charles E."
+book: "Extraction and Control: Studies in Honor of Matthew W. Stolper, Studies in Ancient Oriental Civilizations 68 (Chicago)"
+title: "Freedom and Dependency: Neo-Babylonian Manumission Documents with Oblation and Service Obligation"
+previous_item: "18976"
+---

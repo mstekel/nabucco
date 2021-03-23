@@ -1,0 +1,13 @@
+---
+layout: "bibliography"
+slug: "21712"
+occurrence_id: "4545"
+short_title: "Ben-Zvi 1964"
+author: "Ben-Zvi, Itzhak"
+publication_year: "1964"
+title: "Cyrus, King of Persia, and his Edict to the Exiles"
+pages: "33-39"
+book: "Back to the Sources. Materials for Bible Study Circles, El ha-'Ayin 39 (Jerusalem)"
+title: "Cyrus, King of Persia, and his Edict to the Exiles"
+previous_item: "21715"
+---

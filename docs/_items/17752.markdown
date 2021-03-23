@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17752"
+occurrence_id: "210"
+short_title: "San Nicolò, BR 8/7 (1951)"
+author: "Nicolò, Mariano San"
+publication_year: "1951"
+title: "Babylonische Rechtsurkunden des ausgehenden 8. und des 7. Jahrhunderts v. Chr., Abhandlungen der Bayrischen Akademie der Wissenschaften, Phil-hist. Kl., NF 34 (München)"
+title: "Babylonische Rechtsurkunden des ausgehenden 8. und des 7. Jahrhunderts v. Chr., Abhandlungen der Bayrischen Akademie der Wissenschaften, Phil-hist. Kl., NF 34 (München)"
+previous_item: "17755"
+---

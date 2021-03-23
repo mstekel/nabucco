@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "16765"
+occurrence_id: "508"
+short_title: "McDowell 1935"
+author: "McDowell, R.H. "
+publication_year: "1935"
+title: "Coins from Seleucia on the Tigris (ebd. 37)"
+title: "Coins from Seleucia on the Tigris (ebd. 37)"
+previous_item: "16768"
+---

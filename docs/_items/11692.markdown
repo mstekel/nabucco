@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "11692"
+occurrence_id: "3788"
+short_title: "Medelhavsmuseet Bulletin 29 (1994 [1995]), 3-10"
+author: "Pedersén, Olof"
+publication_year: "1994 publ. 1995"
+title: "Ancient Near Eastern Objects with Cuneiform Inscriptions II. Elamite and Neo-Babylonian Royal Inscriptions"
+volume_no_: "29"
+pages: "3-10."
+journal: "Medelhavsmuseet Bulletin"
+title: "Ancient Near Eastern Objects with Cuneiform Inscriptions II. Elamite and Neo-Babylonian Royal Inscriptions"
+previous_item: "11695"
+---

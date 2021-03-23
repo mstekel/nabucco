@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17989"
+occurrence_id: "924"
+short_title: "Kessler 1991"
+author: "Kessler, Karlheinz "
+publication_year: "1991"
+title: "Das Neuassyrische und das Neubabylonische Reich. 1:4 Mill Karte, TAVO B 4/ 13"
+title: "Das Neuassyrische und das Neubabylonische Reich. 1:4 Mill Karte, TAVO B 4/ 13"
+previous_item: "17992"
+---

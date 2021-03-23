@@ -1,0 +1,9 @@
+---
+layout: "archive"
+slug: "22753"
+archive_id: "352"
+archive_name: "Gallābu"
+is_part_of: "Ur"
+title: "Gallābu"
+previous_item: "22756"
+---

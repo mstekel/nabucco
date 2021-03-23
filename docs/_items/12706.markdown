@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12706"
+occurrence_id: "3240"
+short_title: "Syria 43 (1966), 65-89"
+author: "Wolski, Józef"
+publication_year: "1966"
+title: "Les achéménides et les arsacides. Contribution à l´histoire de la formation des traditions iraniennes"
+volume_no_: "43"
+pages: "65-89"
+journal: "Syria"
+title: "Les achéménides et les arsacides. Contribution à l´histoire de la formation des traditions iraniennes"
+previous_item: "12709"
+---

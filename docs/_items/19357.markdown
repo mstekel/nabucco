@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19357"
+occurrence_id: "5205"
+short_title: "Calvet 2001"
+author: "Calvet, Yves"
+publication_year: "2001"
+title: "Remarques sur l´urbanisme de Larsa à l´époque paléo-babylonienne"
+pages: "57-67"
+editor: "Breniquet, Catherine"
+book: "Études Mésopotamiennes, Fs. Huot (Paris)"
+title: "Remarques sur l´urbanisme de Larsa à l´époque paléo-babylonienne"
+previous_item: "19360"
+---

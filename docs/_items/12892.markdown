@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "12892"
+occurrence_id: "1234"
+short_title: "AfO 44/45 (1997/1998), 210-214"
+author: "Stephenson, Francis R."
+publication_year: "1997-1998"
+title: "Angular Measurements in Babylonian Astronomy"
+volume_no_: "44-45"
+pages: "210-214"
+journal: "Archiv für Orientforschung"
+title: "Angular Measurements in Babylonian Astronomy"
+previous_item: "12895"
+---

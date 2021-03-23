@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "15619"
+occurrence_id: "3891"
+short_title: "ZSSR 94 (1977), 359-361"
+author: "Haase, R."
+publication_year: "1977"
+title: "Rv. H. Lanz, Die neubabylonischen harrānu-Geschäftsunternehmen"
+volume_no_: "94"
+pages: "359-361"
+journal: "Zeitschrift der Savigny-Stiftung für Rechtsgeschichte. Romanistische Abteilung."
+title: "Rv. H. Lanz, Die neubabylonischen harrānu-Geschäftsunternehmen"
+previous_item: "15622"
+---

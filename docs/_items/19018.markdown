@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "19018"
+occurrence_id: "4500"
+short_title: "Freydank 1978"
+author: "Freydank, Helmut"
+publication_year: "1978"
+title: "Zu den Einkommensrechten und Dienstleistungen in Eanna,"
+pages: "91-103"
+editor: "Hruška, Blahoslav"
+book: "Festschrift Lubor Matouš I (Budapest)"
+title: "Zu den Einkommensrechten und Dienstleistungen in Eanna,"
+previous_item: "19021"
+---

@@ -1,0 +1,9 @@
+---
+layout: "place"
+slug: "33730"
+place_id: "214"
+parent_id: "40"
+place_name: "Bīt-Ardija"
+title: "Bīt-Ardija"
+previous_item: "33733"
+---

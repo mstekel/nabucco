@@ -1,0 +1,11 @@
+---
+layout: "bibliography"
+slug: "17401"
+occurrence_id: "477"
+short_title: "Kraeling 1953"
+author: "Kraeling, Emil Gottlieb H. "
+publication_year: "1953"
+title: "The Brooklyn Museum Aramaic Papyri. New Documents of the Fifth Century B.C. from theJewish Colony at Elephantine"
+title: "The Brooklyn Museum Aramaic Papyri. New Documents of the Fifth Century B.C. from theJewish Colony at Elephantine"
+previous_item: "17404"
+---

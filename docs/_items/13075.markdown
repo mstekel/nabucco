@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "13075"
+occurrence_id: "2223"
+short_title: "JEOL 25 (1977-78), 56-66"
+author: "van der Spek, Robartus"
+publication_year: "1977-78"
+title: "The Struggle of King Sargon II of Assyria against the Chaldaean King Merodach-Baladan (710-707 B.C.)"
+volume_no_: "25"
+pages: "56-66"
+journal: "Jaarbericht van het Voor-Aziatisch-Egyptisch-Gezelschap Ex Oriente Lux"
+title: "The Struggle of King Sargon II of Assyria against the Chaldaean King Merodach-Baladan (710-707 B.C.)"
+previous_item: "13078"
+---

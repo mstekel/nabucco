@@ -1,0 +1,14 @@
+---
+layout: "bibliography"
+slug: "8539"
+occurrence_id: "1861"
+short_title: "Durnij Vostok 3 (1978), 179-211 (Russ., Engl. Summary S. 273f.)"
+author: "Martirossian, Anahit"
+publication_year: "1978"
+title: "Die Wirtschaft des Geschäftshauses Egibi in Babylonien in den Jahren 555-522 v. Chr."
+volume_no_: "3"
+pages: "179-211"
+journal: "Durnij Vostok"
+title: "Die Wirtschaft des Geschäftshauses Egibi in Babylonien in den Jahren 555-522 v. Chr."
+previous_item: "8542"
+---

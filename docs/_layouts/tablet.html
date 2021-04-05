@@ -2,25 +2,10 @@
 layout: default
 ---
 
-<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-<script type="text/javascript">
-    //<!--
-    window.jQuery || document.write("<script type=\"text\/javascript\" src=\"https:\/\/nabucco.arts.kuleuven.be\/application\/views\/scripts\/javascripts\/vendor\/jquery.js\" charset=\"utf-8\"><\/script>")    //-->
-</script>
-<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/jquery-ui.min.js"></script>
-<script type="text/javascript">
-    //<!--
-    window.jQuery.ui || document.write("<script type=\"text\/javascript\" src=\"https:\/\/nabucco.arts.kuleuven.be\/application\/views\/scripts\/javascripts\/vendor\/jquery-ui.js\" charset=\"utf-8\"><\/script>")    //-->
-</script>
-<script type="text/javascript">
-    //<!--
-    jQuery.noConflict();    //-->
-</script>
-
-<article id="content">
+<article id="content" class="admin-bar items show">
     <div id="primary">
 
-        <h1><span class="title-type">Tablet</span>{{ page.name }}</h1>
+        <h1><span class="title-type">Tablet</span>{{ page.title }}</h1>
         <div class="date"></div>    <!-- TABLET -->
         <div class="item hentry">
             <div class="show-section">
@@ -34,13 +19,17 @@ layout: default
                             <th><h3>Duplicate</h3></th>
                         </tr>
                         <tr>
-                            <td>{{ page.nabucco_num }}</td>
-                            <td>{{ page.museum_num }}</td>
-                            <td>
-                                <a href="http://cdli.ucla.edu/dl/photo/{{ page.cdli_num }}.jpg">P261186</a>
+                            <td>{{ page.object_id }}</td>
+
+                            <td>{{ page.museum_no_ }}</td>
+
+                            <td><a href="http://cdli.ucla.edu/dl/photo/{{ page.cdli_no_ }}.jpg">{{ page.cdli_no_ }}</a>
+
                             </td>
 
-                            <td>{{ page.duplicate }}</td>
+                            <td>
+                                {{ page.duplicate }}
+                            </td>
                         </tr>
                         <tr>
                             <th><h3>Period</h3></th>
@@ -50,73 +39,104 @@ layout: default
                         </tr>
                         <tr>
                             <td>{{ page.period }}</td>
-                            <td>{{ page.babilonian_date }}</td>
+                            <td>{{ page.day_babylonian_ }}.{{ page.year }}.{{ page.month }} {{ page.king }}</td>
                             <td>{{ page.julian_date }}</td>
-                            <td>{{ page.join }}</td>
+                            <td>
+                                {{ page.join }}
+                            </td>
                         </tr>
                         </tbody>
                     </table>
 
+                    {% if page.publication_name != nil %}
                     <div class="item-meta">
                         <p><span class="show-title">Publication</span>
-                            {{ page.publication }} </p>
+                            {{ page.publication_name }} </p>
                     </div>
+                    {% endif %}
 
 
                     <div class="show-interal-block">
+                        {% if page.place_of_issue != nil %}
                         <div class="item-meta">
                             <p><span class="show-title">Place of issue</span>
-                                {{ page.place_of_issue }} </p></div>
+                                {{ page.place_of_issue }} </p>
+                        </div>
+                        {% endif %}
+                        {% if page.archive != nil %}
                         <div class="item-meta">
                             <p><span class="show-title">Archive</span>
                                 {{ page.archive }}</p>
                         </div>
-
+                        {% endif %}
+                        {% if page.type_and_content != nil %}
                         <div class="item-meta">
                             <p><span class="show-title">Type and content</span>
-                                {{ page.type_and_content}}</p>
+                                {{ page.type_and_content }}</p>
                         </div>
+                        {% endif %}
+                        {% if page.items_and_quantifiable_data != nil %}
                         <div class="item-meta">
                             <p><span class="show-title">Items and quantifiable data</span>
-                                {{ page.items_quant_data }}</p>
+                                {{ page.items_and_quantifiable_data }}</p>
                         </div>
+                        {% endif %}
                         <!---->
                     </div>
                     <div class="show-block">
                         <div class="item-meta">
                             <h3>Paraphrase</h3>
-                            <p>{{ document.paraphrase }}</p>
+                            <p markdown="0">{{ page.paraphrase }}</p>
                         </div>
                     </div>
-
-                    <p><a class="toggle-more" href="#">- Show less</a></p>
-                    <div class="more-info" style="display: block;">
+                    {% if page.imported != nil %}
+                    <div align="right" class="item-meta">
+                        <h3>Imported</h3>
+                        <p>{{ page.imported }}</p>
+                    </div>
+                    {% endif %}
+                    <p><a class="toggle-more" href="#">+ Show more</a></p>
+                    <div class="more-info" style="display: none;">
+                        {% if page.julian_date_remark != nil %}
                         <div class="item-meta">
                             <h3>Julian date remark</h3>
                             <p>{{ page.julian_date_remark }}</p>
                         </div>
-
+                        {% endif %}
+                        {% if page.photo != nil %}
                         <div class="item-meta">
                             <h3>Photo</h3>
                             <div class="tablet-foto">
-                                <img src="{{ page.tablet_photo }}">
-                                <p><a href="{{ page.tablet_photo }}">{{ page.tablet_photo }}</a>
+                                <img src="{{ page.photo }}">
+                                <p><a href="{{ page.photo }}">{{ page.photo }}</a>
                                 </p>
                             </div>
-
-                            <div class="item-meta">
-                                <h3>Akkadian keywords</h3>
-                                <p>{{ page.akk_keywords }}</p>
-                            </div>
-                            <div class="item-meta">
-                                <h3>General keywords</h3>
-                                <p>{{ page.general_keywords }}</p>
-                            </div>
-                            <div class="item-meta">
-                                <h3>Orientation</h3>
-                                <p>{{ page.orientation }}</p>
-                            </div>
                         </div>
+                        {% endif %}
+                        {% if page.transliteration != nil %}
+                        <div class="item-meta">
+                            <h3>Transliteration</h3>
+                            <p markdown="0">{{ page.transliteration }}</p>
+                        </div>
+                        {% endif %}
+                        {% if page.akkadian_keywords != nil %}
+                        <div class="item-meta">
+                            <h3>Akkadian keywords</h3>
+                            <p>{{ page.akkadian_keywords }}</p>
+                        </div>
+                        {% endif %}
+                        {% if page.general_keywords != nil %}
+                        <div class="item-meta">
+                            <h3>General keywords</h3>
+                            <p>{{ page.general_keywords }}</p>
+                        </div>
+                        {% endif %}
+                        {% if page.orientation != nil %}
+                        <div class="item-meta">
+                            <h3>Orientation</h3>
+                            <p>{{ page.orientation }}</p>
+                        </div>
+                        {% endif %}
                     </div>
                 </div>
 
@@ -135,8 +155,10 @@ layout: default
                 <!-- The following prints a list of all tags associated with the item -->
 
                 <ul class="item-pagination navigation">
-                    <li id="previous-item" class="previous"><a href="{{ page.previous_item }}">← Previous Item</a></li>
-                    <li id="next-item" class="next"></li>
+                    <li class="previous" id="previous-item"><a
+                            href="{{ '/items/' | append: page.previous_item | prepend: site.baseurl }}">← Previous
+                        Item</a></li>
+                    <li class="next" id="next-item"></li>
                 </ul>
             </div><!-- end primary -->
             <script>

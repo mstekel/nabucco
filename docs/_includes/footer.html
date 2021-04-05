@@ -1,31 +1,28 @@
-<footer class="site-footer h-card">
-    <data class="u-url" href="{{ "/" | relative_url }}"></data>
-
-    <div class="wrapper">
-
-        <h2 class="footer-heading">{{ site.title | escape }}</h2>
-
-        <div class="footer-col-wrapper">
-            <div class="footer-col footer-col-1">
-                <ul class="contact-list">
-                    <li class="p-name">
-                        {%- if site.author -%}
-                        {{ site.author | escape }}
-                        {%- else -%}
-                        {{ site.title | escape }}
-                        {%- endif -%}
-                    </li>
-                    {%- if site.email -%}
-                    <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-                    {%- endif -%}
-                </ul>
-            </div>
-
-            <div class="footer-col footer-col-3">
-                <p>{{- site.description | escape -}}</p>
-            </div>
-        </div>
-
+<footer>
+    <div id="footer-nav-container">
+        <nav id="bottom-nav">
+            <ul>
+                <li><a href="/technical-info">Technical info</a></li>
+                <li><a href="/credits-and-copyright">Credits and copyright</a></li>
+                <li><a href="/contact">Contact</a></li>
+            </ul>
+        </nav>
     </div>
-
+    <div id="footer-content">
+        <div id="footer-logo">
+            <p><a href="http://kuleuven.be"><img alt="" src="{{ '/assets/images/logo_kuleuven.png' | prepend: site.baseurl }}"></a> <a
+                    href="http://www.univie.ac.at"><img alt="" src="{{ '/assets/images/wien_logo.jpg' | prepend: site.baseurl }}"></a> <a
+                    href="https://www.belspo.be"><img alt="" src="{{ '/assets/images/belspo_logo.jpeg' | prepend: site.baseurl }}"></a> <a
+                    href="http://libis.be"><img alt="" src="{{ '/assets/images/libis_logo.jpg' | prepend: site.baseurl }}"></a></p></div>
+        <div id="footer-text">
+            Blijde inkomststraat 21, POB 3318<br>B-3000 Leuven<br>tel: +32(0)16-324938<br><a
+                href="https://www.kuleuven.be/wieiswie/en/person/00002028">Kathleen Abraham</a><br><a
+                href="https://ufind.univie.ac.at/en/person.html?id=2343">Michael Jursa</a><br><a
+                href="http://ariel.academia.edu/ShaiGordin">Shai Gordin</a></div>
+    </div>
 </footer>
+<div class="backstretch"
+     style="left: 0px; top: 0px; overflow: hidden; margin: 0px; padding: 0px; height: 100%; width: 100%; z-index: -999998; position: absolute;">
+    <img src="{{ '/assets/images/bg4.jpg' | prepend: site.baseurl }}"
+         style="position: absolute; margin: 0px; padding: 0px; border: none; width: 100%; height: 100%; max-height: none; max-width: none; z-index: -999999; left: 0px; top: -3.76591px;">
+</div>

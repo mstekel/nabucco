@@ -154,30 +154,9 @@ layout: default
                 <p></p>
                 <!-- The following prints a list of all tags associated with the item -->
 
-                <ul class="item-pagination navigation">
-                    <li class="previous" id="previous-item"><a
-                            href="{{ '/items/' | append: page.previous_item | prepend: site.baseurl }}">← Previous
-                        Item</a></li>
-                    <li class="next" id="next-item"></li>
-                </ul>
+                {%- include bottom-nav.html -%}
             </div><!-- end primary -->
-            <script>
-                jQuery(document).ready(function () {
-                    if (jQuery(".more-info").find(".item-meta").length < 1) {
-                        jQuery(".toggle-more").css("display", "none");
-                    }
-                    jQuery(".toggle-more").click(function (event) {
-                        event.preventDefault();
-                        if (jQuery(".toggle-more").text() == "+ Show more") {
-                            jQuery(".toggle-more").text("- Show less");
-                        } else {
-                            jQuery(".toggle-more").text("+ Show more");
-                        }
-                        jQuery(".more-info").toggle(function () {
-                        });
-                    });
-                });
-            </script>
+            <script src="{{ '/assets/scripts/toggle-more.js' | prepend: site.baseurl }}"></script>
         </div>
     </div>
 </article>

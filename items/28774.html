@@ -173,32 +173,14 @@
                 <!--  The following function prints all the the metadata associated with an item: Dublin Core, extra element sets, etc. See http://omeka.org/codex or the examples on items/browse for information on how to print only select metadata fields. -->
                 <!-- The following returns all of the files associated with an item. -->
                 <p></p>
-                <!-- The following prints a list of all tags associated with the item -->
-
-                <ul class="item-pagination navigation">
-                    <li class="previous" id="previous-item"><a
-                            href="/nabucco/items/28777">← Previous
-                        Item</a></li>
-                    <li class="next" id="next-item"></li>
-                </ul>
-            </div><!-- end primary -->
-            <script>
-                jQuery(document).ready(function () {
-                    if (jQuery(".more-info").find(".item-meta").length < 1) {
-                        jQuery(".toggle-more").css("display", "none");
-                    }
-                    jQuery(".toggle-more").click(function (event) {
-                        event.preventDefault();
-                        if (jQuery(".toggle-more").text() == "+ Show more") {
-                            jQuery(".toggle-more").text("- Show less");
-                        } else {
-                            jQuery(".toggle-more").text("+ Show more");
-                        }
-                        jQuery(".more-info").toggle(function () {
-                        });
-                    });
-                });
-            </script>
+                <!-- The following prints a list of all tags associated with the item --><ul class="item-pagination navigation">
+    <li class="previous" id="previous-item"><a
+            href="/nabucco/items/28777">← Previous
+        Item</a></li>
+    <li class="next" id="next-item"></li>
+</ul>
+</div><!-- end primary -->
+            <script src="/nabucco/assets/scripts/toggle-more.js"></script>
         </div>
     </div>
 </article>

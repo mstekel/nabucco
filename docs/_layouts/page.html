@@ -1,27 +1,73 @@
 ---
 layout: default
+item_types:
+    - All
+    - Tablet
+    - Place
+    - Archive
+    - Bibliography
+    - Glossary
 ---
 <link rel="stylesheet" type="text/css" href="{{ '/assets/scripts/DataTables/datatables.min.css' | prepend: site.baseurl }}"/>
 <script src="{{ '/assets/scripts/DataTables/datatables.min.js' | prepend: site.baseurl }}"></script>
+<link rel="stylesheet" type="text/css" href="{{ '/assets/scripts/DataTables/dataTables.buttons.min.css' | prepend: site.baseurl }}"/>
+<script src="{{ '/assets/scripts/DataTables/dataTables.buttons.min.js' | prepend: site.baseurl }}"></script>
 <script>
     $ = jQuery;
     var dataSet = [
         {% for item in site.items %}
-            ["{{ item.layout | capitalize }}", "{{ item.title | escape }}"]{% if forloop.index < forloop.length %},{% endif %}
+            {
+                id: "{{ item.slug }}",
+                type: "{{ item.layout | capitalize }}",
+                title: "{{ item.title | escape | default: 'NaN' }}",
+                url: "{{ item.url | relative_url | default: 'NaN' }}"
+            }{% if forloop.index < forloop.length %},{% endif %}
         {% endfor %}
     ]
+
+    var table;
     $(document).ready(function() {
-        $('#items_grid').DataTable( {
+        table = $('#items_grid').DataTable({
             data: dataSet,
             columns: [
-                { title: "Type" },
-                { title: "Title" }
+                {
+                    title: "Type",
+                    data: "type"
+                },
+                {
+                    title: "Title",
+                    data: "title",
+                    render: function(data, type, row, meta) {
+                        if(type == 'display') return '<a href="' + row.url + '">' + data + '</a>';
+                        return data;
+                    }
+                }
             ]
-        } );
-    } );
+        });
+    });
+
+    function filterByType(t, o) {
+        $('#item_types button').removeClass('selected');
+        $(o).addClass('selected');
+        c = table.column(0);
+        if(t == 'All')
+            c.search('').draw();
+        else
+            c.search(t).draw();
+    }
 </script>
+<style>
+    #item_types .selected {
+        background: blue;
+    }
+</style>
 <article id="content">
     <div id="primary">
+        <div style="margin-bottom: 10px;" id="item_types">
+            {% for t in layout.item_types %}
+            <button style="margin-right: 10px;" class="{% if t == 'All' %}selected{% endif %}" onclick="filterByType('{{ t }}', this)">{{ t }}</button>
+            {% endfor %}
+        </div>
         <table id="items_grid" class="display"></table>
     </div>
 </article>
